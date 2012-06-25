@@ -1,0 +1,28 @@
+---
+layout: default
+title: Brunosan
+description: Science works regardless of what people think, but it´s better when they do
+keywords: brunosan,programming,web development,digital history
+change_frequency: daily
+priority: 1.0
+---
+
+  {% for post in site.posts offset: 0 limit: 12 %}
+  {% if post.external-url %}
+  
+    <div id="entry-link">
+      	<h2><a href="{{ post.external-url }}">{{ post.title }}</a> → </h2>
+        {{ post.content }}
+        <time>{{ post.date | date_to_string }} • <a href="http://jasonheppler.org{{ post.url }}">∞</a></time>
+    </div>
+  
+  {% else %}
+    <div id="entry-post">
+      	<h2><a href="http://jasonheppler.org{{ post.url }}">{{ post.title }}</a> <a class="perma" href="http://jasonheppler.org{{ post.url }}">∞</a></h2>
+        {{ post.content }}
+        <time>{{ post.date | date_to_string }} • <a href="http://jasonheppler.org{{ post.url }}">∞</a></time>
+    </div>
+  
+  {% endif %}
+
+  {% endfor %}
