@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title type="text" xml:lang="en"></title>
-	<link type="application/atom+xml" href="http://jasonheppler.org/feed/" rel="self"/>
- 	<link type="text" href="http://jasonheppler.org" rel="alternate"/>
-	<updated>2012-06-24T22:20:40-04:00</updated>
-	<id>http://jasonheppler.org</id>
+	<title type="text" xml:lang="en">Brunosan</title>
+	<link type="application/atom+xml" href="/feed/" rel="self"/>
+ 	<link type="text" href="" rel="alternate"/>
+	<updated>2012-07-01T04:10:55-04:00</updated>
+	<id></id>
 	<author>
 		<name>Jason Heppler</name>
 	</author>
@@ -13,18 +13,86 @@
 
 	
 	<entry>
+		<title>Enabling pull requests on the Blog</title>
+		<link href="/pull-request"/>
+		<updated>2012-07-01T00:00:00-04:00</updated>
+		<id>/pull-request</id>
+		<content type="html">&lt;p&gt;Drafted only!&lt;/p&gt;
+
+&lt;p&gt;I use a little .js to create a button to the edit link of the _post file on my github Jekyll repo. This allows anyone with an accont to send comments, fix typos, complement posts and any other edit.&lt;/p&gt;
+
+&lt;p&gt;TODO Explain how it works and source the changes.&lt;/p&gt;
+
+&lt;p&gt;Liquid error: undefined local variable or method `raw_gist_uri' for #&amp;lt;Fiftyfive::Liquid::GistTag:0x1043c6298&gt;
+bla
+Liquid error: uninitialized constant Jekyll::TweetTag::Net&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Enabling Pull Requests</title>
+		<link href="/Enabling-pull-requests"/>
+		<updated>2012-07-01T00:00:00-04:00</updated>
+		<id>/Enabling-pull-requests</id>
+		<content type="html">&lt;p&gt;Drafted only!&lt;/p&gt;
+
+&lt;p&gt;I use a little .js to create a button to the edit link of the _post file on my github Jekyll repo. This allows anyone with an accont to send comments, fix typos, complement posts and any other edit.&lt;/p&gt;
+
+&lt;p&gt;TODO Explain how it works and source the changes.&lt;/p&gt;
+
+&lt;p&gt;Liquid error: undefined local variable or method `raw_gist_uri' for #&amp;lt;Fiftyfive::Liquid::GistTag:0x1043e3460&gt;
+bla
+Liquid error: uninitialized constant Jekyll::TweetTag::Net&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>Dotfiles on Github</title>
-		<link href="http://jasonheppler.org/2012/06/16/dotfiles-on-github.html"/>
+		<link href="/dotfiles-on-github"/>
 		<updated>2012-06-16T00:21:35-04:00</updated>
-		<id>http://jasonheppler.org/2012/06/16/dotfiles-on-github</id>
-		<content type="html">&lt;p&gt;Github has a great set of bootstraps and frameworks for getting started with your dotfiles. Their guide has some great information. Storing your dotfiles on Github (&lt;a href='https://github.com/hepplerj/dotfiles'&gt;as I do&lt;/a&gt;) is an excellent way to backup dotfiles and sync them between machines.&lt;/p&gt;</content>
+		<id>/dotfiles-on-github</id>
+		<content type="html">&lt;p&gt;Github has a great set of bootstraps and frameworks for getting started with your dotfiles. Their guide has some great information. Storing your dotfiles on Github (&lt;a href=&quot;https://github.com/hepplerj/dotfiles&quot;&gt;as I do&lt;/a&gt;) is an excellent way to backup dotfiles and sync them between machines.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Space X, Instagram and Angry Brids</title>
+		<link href="/space-x-and-instagram"/>
+		<updated>2012-05-18T00:00:00-04:00</updated>
+		<id>/space-x-and-instagram</id>
+		<content type="html">&lt;p&gt;Just as Space X probes wildly successful, and publishes &lt;a href=&quot;http://www.spacex.com/usa.php&quot;&gt;this text&lt;/a&gt;, with blows like this one:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&amp;hellip;
+If there are cost overruns, SpaceX will cover the difference. (This concept may
+be foreign to some traditional government space contractors that seem to
+believe that cost overruns should be the responsibility of the
+taxpayer.)
+&amp;hellip;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://arstechnica.com/business/news/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board.ars?utm_source=feedburner&amp;amp;utm_medium=feed&amp;amp;utm_campaign=Feed%3A+arstechnica%2Findex+%28Ars+Technica+-+Featured+Content%29&quot;&gt;Facebook buys Instagram&lt;/a&gt; for 1 billion dollar. &lt;a href=&quot;http://news.ycombinator.com/item?id=3857904&quot;&gt;HN&lt;/a&gt; is quick to find a nexus:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Facebook could have started &lt;strong&gt;an entire space program&lt;/strong&gt; for less money
+Zuckerberg spent on Instagram.&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;And NASA presents &lt;a href=&quot;http://space.angrybirds.com/launch/&quot;&gt;Angry Birds in Space&lt;/a&gt;. Fellow hacker &lt;a href=&quot;https://twitter.com/#!/svenningsen/status/144111724923076608&quot;&gt;@svenningsen&lt;/a&gt; finds yet another nexus:&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Your smartphone has more computing power than all of NASA in 1969. NASA launched a man to the moon. We launch birds into pigs &lt;a href=&quot;https://twitter.com/search/%2523fail&quot;&gt;#fail&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kenneth Svenningsen (@svenningsen) &lt;a href=&quot;https://twitter.com/svenningsen/status/144111724923076608&quot; data-datetime=&quot;2011-12-06T17:51:27+00:00&quot;&gt;December 6, 2011&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+
+</content>
 	</entry>
 	
 	<entry>
 		<title>Scientific value ≠ Perception of the scientific value</title>
-		<link href="http://jasonheppler.org/2012/05/18/scientific-value-%25e2%2589%25a0-perception-of-the-scientific-value.html"/>
+		<link href="/scientific-value-%25e2%2589%25a0-perception-of-the-scientific-value"/>
 		<updated>2012-05-18T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/05/18/scientific-value-%e2%89%a0-perception-of-the-scientific-value</id>
+		<id>/scientific-value-%e2%89%a0-perception-of-the-scientific-value</id>
 		<content type="html">A russian satellite makes a time lapse of the Earth from space. A truly beautiful video.
 [youtube http://www.youtube.com/watch?v=6twFHqJ03_k]
 
@@ -52,9 +120,9 @@ PS: I can´t remember if that Carl Sagan text was connected to the russian lande
 	
 	<entry>
 		<title>Case Study for an Invitation System using Google Apps Script.</title>
-		<link href="http://jasonheppler.org/2012/05/18/case-study-for-an-invitation-system-using-google-apps-script.html"/>
+		<link href="/case-study-for-an-invitation-system-using-google-apps-script"/>
 		<updated>2012-05-18T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/05/18/case-study-for-an-invitation-system-using-google-apps-script</id>
+		<id>/case-study-for-an-invitation-system-using-google-apps-script</id>
 		<content type="html">&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2417&quot; title=&quot;Screen Shot 2012-05-18 at 5.38.35 PM&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;402&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align:justify;&quot;&gt;Earlier this month my NGO (&lt;a href=&quot;http://gain.org&quot;&gt;GAIN&lt;/a&gt;) had its &lt;a href=&quot;http://gain.org/annual-meeting-2012&quot;&gt;annual meeting&lt;/a&gt;. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.&lt;/p&gt;
 &lt;p style=&quot;text-align:justify;&quot;&gt;I built the Invitation system almost from scratch using &lt;a href=&quot;https://developers.google.com/apps-script/&quot;&gt;Google Apps Script&lt;/a&gt; (GAS), and I want to share the experience. The decision to engage on this was partly becasue I had the chance to participate on a free and open event about GAS for developers at the Google Washington DC offices (&lt;a href=&quot;https://plus.google.com/111752662319997528493/posts/bq7NrttcWAb&quot;&gt;thank you&lt;/a&gt;!).&lt;/p&gt;
@@ -171,9 +239,9 @@ https://gist.github.com/2727461
 	
 	<entry>
 		<title>Bertrand Russell’s 10 Commandments</title>
-		<link href="http://jasonheppler.org/2012/05/06/bertrand-russells-10-commandments.html"/>
+		<link href="/bertrand-russells-10-commandments"/>
 		<updated>2012-05-06T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/05/06/bertrand-russells-10-commandments</id>
+		<id>/bertrand-russells-10-commandments</id>
 		<content type="html">&lt;div&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;span style=&quot;line-height:24px;&quot;&gt;&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/05/mysteries-2108100_1700570c.jpeg&quot;&gt;&lt;img class=&quot;size-full wp-image-2391 aligncenter&quot; title=&quot;mysteries-2108100_1700570c&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/05/mysteries-2108100_1700570c.jpeg&quot; alt=&quot;&quot; width=&quot;460&quot; height=&quot;288&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 &lt;ol&gt;
 	&lt;li&gt;Do not feel absolutely certain of anything.&lt;/li&gt;
@@ -196,9 +264,9 @@ https://gist.github.com/2727461
 	
 	<entry>
 		<title>[Idea] Synthetic Multi-beam Microphone</title>
-		<link href="http://jasonheppler.org/2012/05/03/idea-synthetic-multi-beam-microphone.html"/>
+		<link href="/idea-synthetic-multi-beam-microphone"/>
 		<updated>2012-05-03T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/05/03/idea-synthetic-multi-beam-microphone</id>
+		<id>/idea-synthetic-multi-beam-microphone</id>
 		<content type="html">&lt;p style=&quot;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/dominicspics/4626277810/sizes/l/in/photostream/&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-2383&quot; title=&quot;Screen Shot 2012-05-02 at 21.54.28&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-02-at-21-54-28.png&quot; alt=&quot;&quot; width=&quot;75%&quot; /&gt;&lt;/a&gt;&lt;a title=&quot;Speaker Lattice Array - Brian Eno Speaker Flowers Sound Installation at Marlborough House by Dominic's pics, on Flickr&quot; href=&quot;http://www.flickr.com/photos/dominicspics/4626277810/&quot;&gt;
 &lt;/a&gt; This idea is for a synthetic multi-beam microphone, basically allowing to select and amplify sound coming from any, and all, selectable angles and distances, at once, live or replaying the sound, and to detect their LOS velocity. Combined with a speaker, it can be a multi-beam sonar.Physically it would be an array of microphones, at the size of the lattice would define part of the resolution. The rest would come from the software. I thought of this merging concepts of sounds, nets, radioastronomy and optical interferometry.&lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;Not really sure this make sense, but I post it here in case someone is looking for projects of ideas (#sciencehackday?). That´s why I make these &lt;a href=&quot;http://brunosan.eu/category/idea/&quot;&gt;[Idea] posts&lt;/a&gt; (and to protect them from patents).&lt;/p&gt;
@@ -251,9 +319,9 @@ Anyway. Here I stop.
 	
 	<entry>
 		<title>Discovery's final flight.</title>
-		<link href="http://jasonheppler.org/2012/04/17/discoverys-final-flight-3.html"/>
+		<link href="/discoverys-final-flight-3"/>
 		<updated>2012-04-17T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/04/17/discoverys-final-flight-3</id>
+		<id>/discoverys-final-flight-3</id>
 		<content type="html">&lt;div class=&quot;sfy-html&quot;&gt;
 &lt;div id=&quot;discovery-s-final-flight&quot; class=&quot;s-story noborder&quot; style=&quot;margin:0 auto;padding:0;background:#fff;color:#333;font-size:15px;line-height:18px;font-family:Arial;border:none;min-width:280px;&quot;&gt;
 &lt;ol class=&quot;s-elements&quot; style=&quot;position:relative;min-height:200px;font-size:12px;line-height:18px;font-family:'Open Sans', Arial;color:#333;list-style:none;padding:0;margin:0 0 10px;&quot;&gt;
@@ -596,119 +664,13 @@ Thanks #Discovery #NASA for the fly by!! http://pic.twitter.com/JVUkoUcP&lt;/div
 	
 	<entry>
 		<title>NASA Chief Scientist responds to ex-employees climate change deniers</title>
-		<link href="http://jasonheppler.org/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers.html"/>
+		<link href="/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers"/>
 		<updated>2012-04-15T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers</id>
+		<id>/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers</id>
 		<content type="html">&lt;em&gt;Reblogged from &lt;a href=&quot;http://slashdot.org/submission/2022621/nasa-chief-scientist-responds-to-ex-employees?utm_source=rss1.0&amp;amp;utm_medium=feed&quot;&gt;Slashdot&lt;/a&gt;. Emphasis added:&lt;/em&gt;
 
 Last week a fellow at the Heartland Institute, a group &lt;a href=&quot;http://news.slashdot.org/story/12/02/15/1515208/leaked-heartland-institute-documents-reveal-opposition-to-science&quot; rel=&quot;nofollow&quot;&gt;now notorious for their plan to subvert public science education&lt;/a&gt;, gathered a coalition of 49 ex-NASA employees to &lt;a href=&quot;http://science.slashdot.org/story/12/04/12/176200/ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change&quot; rel=&quot;nofollow&quot;&gt;sign a petition&lt;/a&gt; urging NASA to reconsider its position on climate change. For perspective, &lt;a href=&quot;http://www.huffingtonpost.com/2012/04/13/nasa-climate-change-denier-stunts_n_1424492.html?ref=mostpopular&quot; rel=&quot;nofollow&quot;&gt;NASA currently employes over 18,000 people&lt;/a&gt;, and there are likely tens of thousands of ex-employees. In their letter the group requested that NASA refrain from publishing unproven remarks. Since no theory can ever be considered proven, this appears to be an attempt to silence discussion. NASA Chief Scientist Waleed Abdalati &lt;a href=&quot;http://www.spaceref.com/news/viewpr.html?pid=36679&quot; rel=&quot;nofollow&quot;&gt;has since responded&lt;/a&gt;:
 &lt;blockquote&gt;&lt;em&gt;Our Earth science programs provide many unique space-based observations and research capabilities to the scientific community to inform investigations into climate change... After these studies have met the appropriate standards of scientific peer-review, we strongly encourage scientists to communicate these results to the public. &lt;strong&gt;If the authors of this letter disagree with specific scientific conclusions&lt;/strong&gt; made public by NASA scientists,&lt;strong&gt; we encourage them to join the debate in the scientific literature or public forums rather than restrict any discourse&lt;/strong&gt;.&lt;/em&gt;&lt;/blockquote&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>El feudo Cubano, 2012</title>
-		<link href="http://jasonheppler.org/2012/04/14/el-feudo-cubano-2012.html"/>
-		<updated>2012-04-14T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/04/14/el-feudo-cubano-2012</id>
-		<content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;a title=&quot;IMG_6309 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/6914300048/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm8.staticflickr.com/7247/6914300048_58829fd568.jpg&quot; alt=&quot;IMG_6309&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Hace unos días estuve en la Habana, Cuba, con mi padre de vacaciones. Tenía muchas ganas de ir, y aprender. Me preguntaba ¿Qué es lo que opina el cubano de la calle? ¿Qué es el régimen revolucionario, en términos reales? ¿Cómo es el sector privado allí? ¿Qué no se puede hacer? ¿Que beneficios tiene un sistema comunista? ... Esto es lo que he podido medio entender después de una semana de vacaciones allí, charlando con cubanos, viviendo en un apartamento alquilado, yendo a varias ciudades en las afueras (Mariel y Viñales), visitando un hospital, una universidad, un conservatorio, varias casas particulares...&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;La Habana es una sociedad rota. Su sistema de valores económicos no tiene sentido, lo que la lleva a un absoluto desastre que se extiende a todas las facetas de la ciudad, o incluso el país. Su sistema educativo aporta una base teórica sin utilidad en el mundo real al que el cubano se enfrenta al terminar. Ni yo le encuentro sentido, ni la mayoría de los cubanos con los que he podido charlar sobre esto.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;!--more--&gt;El punto de inflexión parece ser el &quot;&lt;a href=&quot;http://es.wikipedia.org/wiki/Periodo_especial&quot;&gt;periodo especial&lt;/a&gt;&quot; cuando la caída soviética. Cuba vivía en buena parte de sus ayudas y acuerdos. Al terminarse esta vital ayuda la sociedad cubana paso de ser comunista (medianamente funcional y sin incentivo oficial de superación fuera del patriotismo), a &quot;no tener nada que comer&quot;.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;No tuvo más remedio que abrirse al turismo, lo que introdujo un sistema económico paralelo: el dólar. Años después, se decidió crear una moneda de valor artificial, &lt;a href=&quot;http://en.wikipedia.org/wiki/Cuban_convertible_peso&quot;&gt;el peso convertible&lt;/a&gt;, CUC (apodado en broma &quot;cuenta unificada del comandante&quot;).  Su valor se iguala ficticiamente al dólar, por lo que no tiene ningún respaldo fuera del país. El sistema del dólar, o CUC, es un despropósito que rompe el concepto monetario como herramienta de transacción de valor, y cuyas consecuencias se agravan cada año.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;El sueldo oficial de un médico, ingeniero, profesor, o cualquier otra profesión de alto nivel y preparación, puede estar en torno a los 400-500 pesos nacionales cubanos. Un bollo de pan puede costar 5 pesos cubanos. Montar en bus 10. La electricidad, gas o teléfono de un hogar 300-400 en total. Puesto que tu casa no es de tu propiedad, no hay alquileres ni hipotecas (puedes &quot;permutar&quot; tu casa por otra), pero sí corre de tu cuenta mantener la casa, aunque casi nadie lo haga. La sociedad cubana era consistentemente necesitada, si no pobre. Ahora, por la interacción del CUC, los cubanos dolarizados (o bien por remesas o por contacto con el turista) rompen todos esos esquemas&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a title=&quot;IMG_6634 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/6914512326/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm8.staticflickr.com/7222/6914512326_b727a77184.jpg&quot; alt=&quot;IMG_6634&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;
-1 CUC, o dólar, son unos 20 pesos nacionales. Entonces, 20 dólares es un sueldo mensual en moneda nacional. Aquellos que tengan acceso a remesas o a turistas pueden ganar en un día más que lo que gana un médico en un mes. Taxistas, camareros, guías, gente vendiendo flores en la calle son ejemplos claros, pero también el mendigo o la jinetera están expuestos a un sistema altamente volátil de acceso a mucho dinero. Como no hay incentivo en ahorrar &quot;la gente vive al día: o no tiene, o se lo gasta todo&quot;.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;La oferta y la demanda, base de una economía capitalista, se ve introducida por medio del turista que viene a gastar sus dólares en lo que más le apetezca por el mínimo coste. Es  un doble juego con el comunismo completamente incompatible y termina con una sociedad forzada a engañar y robar al estado para poder subsistir y donde el esfuerzo no se recompensa. ¿Para qué trabajar si vendiendo flores o con mi pequeña remesa gano más dinero? El cubano tiene ahora dólares (CUCs), y por tanto el estándar de dólares irrumpe en la oferta. El sistema comunista no debería ajustar el precio para hacer frente a la demanda. Algunos servicios no lo hacen; otros sí. En cualquier caso el dólar afecta a todos: ahora el cubano ha de pagar dólares para ir en taxi, para cenar en cada vez más restaurantes, para tomar café... pero también para el papel higiénico, desodorante, ropa, cerveza o gasolina.  En CUCs, no se acepta el peso nacional. La lista va aumentando cada mes.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;El cubano vive al día. Lo llaman &quot;inventar&quot;. Muchos &quot;no trabajan, inventan&quot;: Pequeños encargos, vender cosillas, buscan turistas para venderles puros... Los que trabajan tienen además que inventar un poco para completar el sueldo con el que comer... o &quot;buscan&quot;. &quot;Buscar&quot; es defraudar, robar al estado desde su puesto de trabajo (por ejemplo el autobusero que mete la mano en la caja, el camarero que se lleva comida a casa, o el enrollador de puros que saca unos cuantos para venderlos)&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a title=&quot;IMG_6645 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/7060604649/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm6.staticflickr.com/5332/7060604649_a5282bd161.jpg&quot; alt=&quot;IMG_6645&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;
-El cubano revolucionario puro cobra en moneda nacional, no defrauda y paga aproximadamente un 50% de impuestos (aunque con otro nombre). Se jubila con unos 30$ al mes, lo que le obliga a &lt;em&gt;inventar&lt;/em&gt; como taxista, vendedor de flores o de libros en la zona turística.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;El cubano remesero es el que recibe dinero, &lt;em&gt;remesas&lt;/em&gt;, del extranjero. Debido a la absoluta disparidad de la moneda nacional y la divisa, tiene comparativamente mucho dinero y comodidades del extranjero sin hacer nada (ropa cara, cenas en restaurantes de dólares, viaja en taxi,...). Me sorprendió sobremanera ver bastantes iPhones en Habana.&lt;/p&gt;
-
-
-[caption id=&quot;&quot; align=&quot;aligncenter&quot; width=&quot;500&quot; caption=&quot;Hospital&quot;]&lt;a title=&quot;IMG_6511 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/6914429756/&quot;&gt;&lt;img title=&quot;Hospital&quot; src=&quot;http://farm8.staticflickr.com/7042/6914429756_211bff581e.jpg&quot; alt=&quot;IMG_6511&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;[/caption]
-&lt;p style=&quot;text-align:justify;&quot;&gt;Por mi experiencia, el cubano suele ser de conversación fácil, dispuesto a debatir y argumentar su postura con pasión. &quot;El 70%&quot; se confesará antirevolucionario, que se iría a EEUU si pudiera... lo dice en privado o incluso por la calle (el caso de una señora sexagenaria, aunque ese comentario hizo desaparecer parte de la gente que se había congregado a charlar). Uno de ellos me argumentó de manera bastante convincente que lo que pasa en cuba se parece mucho a un sistema feudal.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Estuve paseando por una Universidad técnica. Me sorprendió ver diagramas de electrónica digital (&lt;a href=&quot;https://www.google.com/search?q=circuito+filtro+pasa+banda&amp;amp;hl=en&amp;amp;prmd=imvns&amp;amp;tbm=isch&amp;amp;tbo=u&amp;amp;source=univ&amp;amp;sa=X&amp;amp;ei=MpOHT6y5HMaT0QGfys2zCA&amp;amp;sqi=2&amp;amp;ved=0CC0QsAQ&amp;amp;biw=1352&amp;amp;bih=647&quot;&gt;filtros pasa baja&lt;/a&gt; y pasa alta). Cuando charlé con una estudiante me contaba que ella estudiaba economía... &quot;¿Capitalista?&quot; No, marxista. Me encantaría ver sus libros de texto.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Su televisión no tiene anuncios, pero si muchos programas documentales sobre ciencia. Muy buenos, por cierto. Una de las tarde pusieron un documental sobre la tabla periódica de una cadena británica y luego un debate sobre planetas extrasolares y vida en otros planetas. Me pregunto cuantas horas de televisión ve un cubano medio, o cuantas televisiones hay. Prefieren mencionar científicos no americanos, pero es imposible no hacerlo. Curiosamente ponen películas y series americanas (incluido &lt;em&gt;Lost&lt;/em&gt;, &lt;em&gt;CSI&lt;/em&gt; o &lt;em&gt;House&lt;/em&gt;). Se pueden ver banderas americanas ondear en las series, pero a veces censuran parte de la pantalla (quizás sean los logotipos de las cadenas de donde toman la señal). Retransmiten los Oscars y los Grammies. La narrativa revolucionaria parece dominar las tardes con tertulias y debates claramente anti-imperialistas. Los telediarios son abiertamente subjetivos y su selección internacional es casi exclusiva de Venezuela si son noticias buenas o EEUU/capitalistas si son malas. Hay programas enteros parafraseando las &quot;Reflexiones de Fidel&quot; o debatiendo sobre lo buenas o interesantes que son.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;La electricidad (generada quemando petróleo) es muy barata. Los bares y restaurantes en moneda nacional tienen muy poca selección y no parece haber incentivo de vender. &quot;Es lo que hay&quot; te dirá el camarero con resignación. Hay excepciones de restaurantes nacionales muy buenos, pero casi todos están llenos de turistas, por el relativo alto precio. Los restaurantes privados suelen ser pequeños y tener más oferta. Se les suele llamar &quot;Paladar&quot; &lt;a href=&quot;http://en.wikipedia.org/wiki/Paladar&quot;&gt;a raíz de una telenovela popular&lt;/a&gt;, donde la protagonista monta un exitoso restaurante con ese nombre. Se parecen un poco a los guachinches rurales canarios.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a title=&quot;IMG_6348 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/7060408843/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm8.staticflickr.com/7241/7060408843_9b38b604e0.jpg&quot; alt=&quot;IMG_6348&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;
-Para comer, el cubano tiene una cartilla de racionamiento. Cada persona tiene derecho a comprar, por un precio reducido (un tercio del precio nacional normal, más o menos) ciertos productos como un bollo de pan al día, 4 huevos a la semana, ... en ocasiones especiales la lista incluye dietas especiales que te dan derecho a carne (pollo), yoghurt de soja u otras excepciones. En las &lt;a href=&quot;http://www.flickr.com/search/?q=cartilla+de+racionamiento&amp;amp;w=64887888%40N00&amp;amp;z=m&quot;&gt;fotos&lt;/a&gt; se ven varias  páginas del libreto. Las casillas  de &quot;fiestas&quot; son para artículos de cumpleaños de niños y otras celebraciones, que ya nunca se usan.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Uno pensaría que todo el mundo quiere entonces ser taxista, camarero o cualquier otra profesión que tenga acceso al turista y los dólares. La respuesta es que las plazas para hacerlo de forma legal son muy caras, incluso en dólares. &quot;Hay mucha corrupción en la entrega de estos cargos.&quot;&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a title=&quot;IMG_6245 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/6914242368/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm8.staticflickr.com/7270/6914242368_3ed591671c.jpg&quot; alt=&quot;IMG_6245&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;
-¿Quién es la &quot;clase alta&quot;?, ¿Quién tiene más poder económico? ¿Quién está por encima del cubano típico en la escala social? Me dicen que los más cercanos al Fidel, los músicos, deportistas, y los &quot;HK&quot;. Los HK son las matrículas especiales para los coches de empresas extranjeras. Los cubanos que estas empresas transnacionales contratan tienen acceso a mucho capital, para usarlo como sea menester y asegurar que la empresa va bien. Si uno se fija los coches cubanos buenos, son de turistas (matrícula T) o &quot;HK&quot;s. El resto del parque móvil son trastabillados coches americanos que llenan la ciudad de olor a petróleo y aceite quemado (La ITV &quot;la puedes pasar &amp;lt;&amp;lt;pagando&amp;gt;&amp;gt; unos 40$&quot;) o viejos coches soviéticos mantenidos a base de quitar piezas. Los cinturones de seguridad ni están ni se les espera. En las listas mundiales de capacidad extraordinaria, donde los médicos cubanos son famosos, deberían estar justo debajo los mecánicos cubanos. Harán maravillas, o chapuzas, para que el coche siga funcionando. Por ejemplo, cuando los depósitos de gasolina se rompen acaban poniendo botellas de plástico las cuales sacan y rellenan directamente.&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Luego están los &quot;cuentapropistas&quot;. Son los que llamaríamos emprendedores legales. Los que deciden montar un pequeño local y ofrecer sus servicios, usualmente a los turistas. Por ejemplo un pequeño &quot;paladar&quot;, como menciono un poco más arriba. Pagan unos impuestos muy altos y existe mucha volatilidad de que las leyes cambien en su detrimento, pero cada vez son más. Son parte de esa reciente transformación cubana para abrir el comunismo. El cubano que me lo explicó estuvo 5 minutos explicando el concepto de beneficio, &quot;parte de lo que ganas es para ti, te quedas dinero legalmente&quot;&lt;/p&gt;
-&lt;p style=&quot;text-align:justify;&quot;&gt;Me fascina pensar que hubiera sido de Cuba si no hubiese habido Revolución. Paseando por la Habana uno siente la belleza de una increíblemente avanzada urbe, secuestrada en el tiempo y desgastada por 50 años de descuido. Lo que parece claro es que ahora será muy complicado levantar este feudo. ¿Cómo evitar la efectiva apropiación de los recursos locales cuando empresas internacionales aprovechen las muchas y necesitadas inversiones? ¿ Cómo incentivar y dar confianza a una población acostumbrada a vivir como supervivientes del día a día, del turista,  de &quot;inventar&quot; o &quot;buscar&quot;? ¿Cómo evitar que muchos de ellos emigren a la primera de cambio?&lt;/p&gt;
-
-
-[caption id=&quot;&quot; align=&quot;aligncenter&quot; width=&quot;500&quot; caption=&quot;Conservatorio de música&quot;]&lt;a title=&quot;IMG_6782 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/7060689339/&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7183/7060689339_cb4baf8836.jpg&quot; alt=&quot;IMG_6782&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;[/caption]
-&lt;p style=&quot;text-align:justify;&quot;&gt;Por alguna razón hay una imagen que me quedó muy grabada en la mente. Estaba paseando por el centro de La Habana y vi de reojo un tullido sin piernas pidiendo dinero. Me dio pena pero tampoco pensé mucho en él. Había demasiado ruido, gente ofreciendo &quot;comida, mi amigo&quot;, &quot;puros, my friend&quot;, libros, música tradicional para turistas por todas partes, ... A la vuelta del paseo, 20 minutos después, lo volví y ver en una bocacalle, llorando con los ojos inflamados de dolor, de impotencia. No estaba mirando a la gente, estaba de lado, restregándose los ojos con unas manos tan sucias como necesitadas. Mi cabeza me dice que quizás sea su truco para pedir dinero, que como él hay muchos más, en Cuba y también en Washington o en Gijón. Lo sé, pero me dio muchísima pena. Sentí mucha empatía, y mucha rabia.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p style=&quot;text-align:left;&quot;&gt;“La grandeza de una nación y su progreso puede medirse en cómo trata a sus miembros más débiles&quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p style=&quot;text-align:right;&quot;&gt; Mahatma Ghandi&lt;/p&gt;
-Cuba es un país precioso, con muchos recursos y bellezas naturales; con gente que va a la escuela, se forma y luego sale a la calle a sobrevivir como puede mientras el país se desmorona a su alrededor y si te encuentras a un turista te puede arreglar la semana. Obviamente hay excepciones muy honrosas.
-
-Soy consciente que uno no puede absorber la compleja realidad de un país como Cuba en una semana, pero al menos me voy con la experiencia de haber intentado salir de la esfera irreal del &quot;turista de mojito y puro&quot; en la Habana Vieja.
-&lt;p style=&quot;text-align:left;&quot;&gt;Hice muchas fotos. Hay una selección en &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.502710973413.438.239200025&amp;amp;type=3&quot;&gt;Facebook&lt;/a&gt;, y en &lt;a href=&quot;http://www.flickr.com/photos/nasonurb/sets/72157629410743248/&quot;&gt;Flickr&lt;/a&gt; hay más, en calidad alta, por si alguien las quiere usar para algo:&lt;/p&gt;
-&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/sets/72157629410743248/show/&quot;&gt;http://www.flickr.com/photos/nasonurb/sets/72157629410743248/show/&lt;/a&gt;
-
-[youtube http://www.youtube.com/watch?v=9BDKxoivwzU&amp;amp;w=420&amp;amp;h=315]
-</content>
-	</entry>
-	
-	<entry>
-		<title>EWB Conference Heightens Awareness to Adaptation Issues</title>
-		<link href="http://jasonheppler.org/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues.html"/>
-		<updated>2012-04-09T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues</id>
-		<content type="html">&lt;p class=&quot;MsoNormal&quot;&gt;[&lt;a href=&quot;http://news.gain.org/post/19973678302/ewb-conference-heightens-awareness-to-adaptation-issues&quot;&gt;Cross posted at GAIN&lt;/a&gt;] Engineers will be among those on the front lines of adaptation. From improving the resilience of water pipes and energy transport systems to redesigning how entire urban areas are built, engineering firms will need to solve new challenges created by population growth, urbanization and climate change.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Incorporation of new scientific, economic and social science data is becoming more critical as unprecedented changes are upon us. Engineering innovation and technology will be part of the solution. These were the main takeaways according to participants at the Engineers Without Borders (EWB)–USA 10-year anniversary International Conference in Henderson, Nev., March 22-24.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;!--more--&gt;The Global Adaptation Institute (GAIN) was an integral part of the th&lt;a title=&quot;Group Photo by GlobalAdaptation, on Flickr&quot; href=&quot;http://www.flickr.com/photos/globalai/6871532956/&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7257/6871532956_8f46c4b7a4_m.jpg&quot; alt=&quot;Group Photo&quot; width=&quot;240&quot; height=&quot;170&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;ree-day conference. GAIN Director of Science &amp;amp; Technology Dr. Bruno Sánchez-Andrade Nuño and Vice President of Development Tim Wierzbicki hosted an EWB Global Dialogue Session titled, “What adaptation responses are needed to meet the challenges of climate change?”&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;EWB Founder Dr. Bernard Amadei opened the conference by outlining his passion for founding the organization – the urgency to save lives and improve livelihoods and the expansion of global responsibility.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Following, Boeing Chief Technology Officer Dr. John J. Tracy agreed engineering can be a powerful agent of change. Boeing, one of the major EWB conference sponsors, must build complex machines with adaptive engineering to ensure sound operation today and 50 years from now, Tracy said.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Several business leaders from AECOM, ASCE, CDM Smith and CH2M Hill and EWB’s Austin Chapter of university students formed the panel for GAIN’s Global Dialogue, which was introduced by EWB Board Member Paul Shea. The panel concluded that there is an increasing awareness and need for pragmatic approaches to building resilience.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a title=&quot;Dr. Bruno Sanchez Andrade Nuno by GlobalAdaptation, on Flickr&quot; href=&quot;http://www.flickr.com/photos/globalai/7017645783/&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7201/7017645783_000c8b38d5_m.jpg&quot; alt=&quot;Dr. Bruno Sanchez Andrade Nuno&quot; width=&quot;240&quot; height=&quot;160&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;Elliott Gall, second year Ph.D. candidate and EPA STAR Fellow in the department of Civil, Architectural and Environmental Engineering at the University of Texas at Austin, said there is an increasing need for projects in the developing world that address climate change issues with proactive resiliency.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Organizations such as EWB can help address this important need by, one: partnering with communities affected by climate change to develop long term technical and social solutions to their changing needs, and two: giving a voice to susceptible populations to help direct aid efforts, Gall said.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Claire Bonham-Carter, AECOM Principal and Director of Sustainable Development, stressed the importance of integration in carrying out adaptation projects abroad and in the U.S., noting the vulnerability of airports in northern California.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Adaptation work should not be an isolated activity or strategy. We all must work together, she said.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Kathy Freas, CH2M HILL Global Director for Water Resources and Ecosystem Management Services, who the week earlier had &lt;a href=&quot;http://news.gain.org/post/19784041628/business-and-local-governments-highlight-water-stress&quot;&gt;testified before Congress&lt;/a&gt;, emphasized the need to unite cross-sectional efforts to help rethink the approach to adaptation. Association should include a united framework of action, a stronger cooperation and collaboration, an emphasis in communications and the ability to ask the right questions.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Adaptation needs an integrated strategy, Freas said. Engineers should ask themselves, What are the implications of projects in relation to future climate scenarios? How will the surrounding environment respond?&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;&lt;a title=&quot;Tim Wierzbicki by GlobalAdaptation, on Flickr&quot; href=&quot;http://www.flickr.com/photos/globalai/6871540044/&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7113/6871540044_aaf1478069_m.jpg&quot; alt=&quot;Tim Wierzbicki&quot; width=&quot;240&quot; height=&quot;160&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;Dan Rodrigo, CDM Smith Vice President and Water Resources Market Leader, reinforced the importance of integrated planning, particularly in the area of water issues. Understanding water quantity, quality and usage is primarily important, but other factors should also be considered.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Sustainability is an outcome that looks beyond the short-term, Rodrigo said.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Gall currently works on one of EWB-USA's 600 worldwide projects – the Climate Adaptation in Mountain Basins in the Andean Region (&lt;a href=&quot;http://www.ewb-usa.org/project512s/project_9121&quot;&gt;CAMBIAR&lt;/a&gt;) in Peru.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;EWB goes to the community to understand the situation, partner with experts and, with the engagement of the local community, discuss and implement solutions to adaptation challenges, he said.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;GAIN also hosted two Learning Sessions on the GAIN Index that discussed the motivation to create the Index, communication platforms for its use and how it relates to EWB projects. The GAIN Index was viewed as an excellent starting point from where more can be built. At the end, if progress cannot be measured, it doesn’t exist.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;The GAIN Index is designed to be open source for anyone to review, reuse and contribute, and modular to create an unbiased look at countries.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;The GAIN Index, during its consultation process, was reviewed by more than 200 experts in the water, food &amp;amp; agriculture, coastal protection and energy sectors (See &lt;a href=&quot;http://dl.dropbox.com/u/4234369/gain/GaIn_Paper.pdf&quot;&gt;acknowledgements on White Paper&lt;/a&gt;). View the GAIN Index at &lt;a href=&quot;http://index.gain.org/&quot;&gt;index.gain.org&lt;/a&gt;.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Thanks to Cathy Leslie, EWB Executive Director; &lt;span class=&quot;st&quot;&gt;Art Enns, EWB Development Director; &lt;/span&gt;&lt;span class=&quot;st&quot;&gt;Dianne Shanks, EWB Director of Outreach;&lt;/span&gt; and &lt;span class=&quot;st&quot;&gt;Mary Perkins, EWB Development Manager Corporate Relations; and &lt;/span&gt;the EWB team that hosted a stimulating conversation with engineers from around the world about adaptation and other development issues.&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;*&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Photos from top:&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Photo 1: From left, Dan Rodrigo, CDM Smith Vice President and Water Resources Market Leader; Elliott Gall, second year Ph.D. candidate and EPA STAR Fellow in the department of Civil, Architectural and Environmental Engineering at the University of Texas at Austin; Kathy Freas, CH2M HILL Global Director for Water Resources and Ecosystem Management Services; Claire Bonham-Carter, AECOM Principal and Director of Sustainable Development; Dr. Bruno Sánchez-Andrade Nuño, GAIN Director of Science &amp;amp; Technology; Paul Shea, EWB Board Member; and Tim Wierzbicki, GAIN Vice President of Development&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Photo 2: Dr. Bruno Sánchez-Andrade Nuño, GAIN Director of Science &amp;amp; Technology&lt;/p&gt;
-&lt;p class=&quot;MsoNormal&quot;&gt;Photo 3: Tim Wierzbicki, GAIN Vice President of Development&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>26$ per year to end hunger in the world</title>
-		<link href="http://jasonheppler.org/2012/03/26/26-per-year-to-end-hunger-in-the-world.html"/>
-		<updated>2012-03-26T00:00:00-04:00</updated>
-		<id>http://jasonheppler.org/2012/03/26/26-per-year-to-end-hunger-in-the-world</id>
-		<content type="html">The cost of ending hunger globally is less than the value of wasted food only in the US, and orders of magnitude smaller than the Wall Street bailout.
-&lt;blockquote&gt;&quot;The world only needs &lt;strong&gt;30 billion dollars&lt;/strong&gt; a year to eradicate the scourge of hunger.&quot;&lt;/blockquote&gt;
-&lt;p style=&quot;text-align:right;&quot;&gt;&lt;a href=&quot;http://www.fao.org/newsroom/en/news/2008/1000853/index.html&quot;&gt;FAO Newsroom&lt;/a&gt;. 2008&lt;/p&gt;
-
-&lt;blockquote&gt;&quot;14-15 per cent of United States edible food is untouched or unopened, amounting to &lt;strong&gt;$43 billion&lt;/strong&gt; worth of discarded, but edible, food&quot;.&lt;/blockquote&gt;
-&lt;p style=&quot;text-align:right;&quot;&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Food_waste&quot;&gt;Wikipedia&lt;/a&gt; quoting a &lt;a href=&quot;http://www.foodnavigator-usa.com/Business/US-wastes-half-its-food&quot;&gt;study by the University of Arizona&lt;/a&gt; in 2004&lt;/p&gt;
-
-&lt;blockquote&gt; During the last quarter of 2008, central banks purchased &lt;strong&gt;US$2.5 trillion&lt;/strong&gt; of government debt and troubled private assets from banks. This was the largest liquidity injection into the credit market, and the largest monetary policy action, in world history.&lt;/blockquote&gt;
-&lt;p style=&quot;text-align:right;&quot;&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Late-2000s_financial_crisis#Stabilization&quot;&gt;Wikipedia&lt;/a&gt;, &quot;Late 2000s financial crisis&quot;&lt;/p&gt;
-&lt;!--more--&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Bernard_Amadei&quot;&gt;Bernard Amadei&lt;/a&gt; mentioned this numbers at the Opening keynote of &lt;a href=&quot;http://www.ewb-usa.org/conference/&quot;&gt;EWB-USA conference&lt;/a&gt; (I hope they upload the video soon). I got curious and I check the numbers. Then it occurred to me to divide that cost among us, the ones who have the most, and I found out that:
-&lt;blockquote&gt;The cost of ending hunger is &lt;strong&gt;26$ per year per person&lt;/strong&gt; for those living in a &lt;a href=&quot;http://data.worldbank.org/about/country-classifications/country-and-lending-groups#High_income&quot;&gt;high income country&lt;/a&gt;.&lt;/blockquote&gt;
-To get this number I took the &lt;a href=&quot;http://data.worldbank.org/&quot;&gt;population data and GDPpc&lt;/a&gt;. Then I ordered the countries by Income and divided the 30 billion $ by the aggregated population of countries ordered by GDPpc. If you want multiply that number by 10 to reflect the case where only the top 10% of the population would give. Wouldn't you give 260$ a year to &lt;em&gt;end hunger in the world&lt;/em&gt;?
-
-[googleapps domain=&quot;docs&quot; dir=&quot;spreadsheet/pub&quot; query=&quot;key=0AoxJVrXz_YHIdC16eDB3VnhTaUxibVo4eFZZMjZzdUE&amp;amp;single=true&amp;amp;gid=1&amp;amp;output=html&amp;amp;widget=true&quot; width=&quot;100%&quot; height=&quot;500&quot; /]
 </content>
 	</entry>
 	

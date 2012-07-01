@@ -1,19 +1,16 @@
 lsi: false
+safe: false
+auto: yes
 markdown: rdiscount
 pygments: true
 permalink: /:title
-paginate: 10
-category_dir: topics
-#category_title_prefix:
-exclude: ["wordpress","lib", "blog.rb", "Capfile", "config", "log", "Rakefile", "tmp", "config.rb"]   
+exclude: ["wordpress", "Rakefile", "README.md", "_template.md", "new.rb"]   
 multivews: true
 
-includes:       ./_includes
-
-name: Socience
-base_url:       http://brunosan.eu
-description:    "blablabla"
+name: Tagline
+base_url:       /
+description:    "Tag line"
 root_desc:      "Brunosan"
 
 rdiscount:
-    extensions: []
+    extensions: [smart]
