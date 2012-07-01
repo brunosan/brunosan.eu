@@ -8,7 +8,7 @@ exclude: ["wordpress", "Rakefile", "README.md", "_template.md", "new.rb"]
 multivews: true
 
 name: Tagline
-base_url:       /
+base_url:       brunosan.eu/
 description:    "Tag line"
 root_desc:      "Brunosan"
 
