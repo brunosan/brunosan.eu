@@ -1,6 +1,6 @@
 lsi: false
-safe: false
-auto: yes
+safe: true
+auto: false
 markdown: rdiscount
 pygments: true
 permalink: /:title
