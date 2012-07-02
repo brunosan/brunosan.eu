@@ -1,0 +1,648 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Open data - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.20wmf5" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Open_data&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Open_data&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.teahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d5a1bf6cbd05fc6cc2705e47f52062dc */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Open_data","wgTitle":"Open data","wgCurRevisionId":496961026,"wgArticleId":7697770,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia external links cleanup from May 2012","Wikipedia spam cleanup from May 2012","Articles needing additional references from May 2011","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from March 2009","Open data"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Open_data","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"965fa0e78f2b96fdfbda974da16b5903","wgArticleFeedbackv5Permissions":{"oversighter":false,"moderator":false,"editor":false},"wikilove-recipient":"","wikilove-edittoken":"+\\","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Whitelist":false});
+}</script><script type="text/javascript">if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:15f947b8a5d6ceebd1f399c3a1526c80 */
+}</script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.20wmf5/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Open_data skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Open data</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Linking-Open-Data-diagram_2007-09.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Linking-Open-Data-diagram_2007-09.png/220px-Linking-Open-Data-diagram_2007-09.png" width="220" height="174" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Linking-Open-Data-diagram_2007-09.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Linking Open Data project in <a href="/wiki/September_2007" title="September 2007">September 2007</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:LOD_Cloud_Diagram_as_of_September_2011.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/LOD_Cloud_Diagram_as_of_September_2011.png/220px-LOD_Cloud_Diagram_as_of_September_2011.png" width="220" height="145" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:LOD_Cloud_Diagram_as_of_September_2011.png" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Linked Open Data Cloud in <a href="/wiki/September_2011" title="September 2011">September 2011</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Open_Data_stickers.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Open_Data_stickers.jpg/220px-Open_Data_stickers.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Open_Data_stickers.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Clear labeling of the licensing terms is a key component of Open data, and icons like the one pictured here are being used for that purpose.</div>
+</div>
+</div>
+<p><b>Open data</b> is the idea that certain <a href="/wiki/Data" title="Data">data</a> should be freely available to everyone to use and republish as they wish, without restrictions from <a href="/wiki/Copyright" title="Copyright">copyright</a>, <a href="/wiki/Patent" title="Patent">patents</a> or other mechanisms of control. The goals of the open data movement are similar to those of other "Open" movements such as <a href="/wiki/Open_source" title="Open source">open source</a>, <a href="/wiki/Open_content" title="Open content">open content</a>, and <a href="/wiki/Open_access_(publishing)" title="Open access (publishing)" class="mw-redirect">open access</a>. The philosophy behind open data has been long established (for example in the <a href="/wiki/Merton_thesis" title="Merton thesis" class="mw-redirect">Mertonian tradition of science</a>), but the term "open data" itself is recent, gaining popularity with the rise of the <a href="/wiki/Internet" title="Internet">Internet</a> and <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> and, especially, with the launch of open-data government initiatives such as <a href="/wiki/Data.gov" title="Data.gov">Data.gov</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Major_sources_of_open_data"><span class="tocnumber">2</span> <span class="toctext">Major sources of open data</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Open_data_in_science"><span class="tocnumber">2.1</span> <span class="toctext">Open data in science</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Open_data_in_government"><span class="tocnumber">2.2</span> <span class="toctext">Open data in government</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Arguments_for_and_against_open_data"><span class="tocnumber">3</span> <span class="toctext">Arguments for and against open data</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Relation_to_other_open_activities"><span class="tocnumber">4</span> <span class="toctext">Relation to other open activities</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Funders.27_mandates"><span class="tocnumber">5</span> <span class="toctext">Funders' mandates</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Closed_data"><span class="tocnumber">6</span> <span class="toctext">Closed data</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Organisations_promoting_open_data"><span class="tocnumber">7</span> <span class="toctext">Organisations promoting open data</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a>]</span> <span class="mw-headline" id="Overview">Overview</span></h2>
+<p>The concept of open data is not new; but a formalized definition is relatively new -- the primary such formalization being that in the <a rel="nofollow" class="external text" href="http://opendefinition.org/">Open Definition</a> which can be summarized in the statement that "A piece of data is open if anyone is free to use, reuse, and redistribute it — subject only, at most, to the requirement to attribute and/or share-alike."<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup></p>
+<p>Open data is often focused on non-textual material such as <a href="/wiki/Map" title="Map">maps</a>, <a href="/wiki/Genome" title="Genome">genomes</a>, <a href="/wiki/Connectome" title="Connectome">connectomes</a>, <a href="/wiki/Chemical_compound" title="Chemical compound">chemical compounds</a>, mathematical and scientific formulae, medical data and practice, bioscience and biodiversity. Problems often arise because these are commercially valuable or can be aggregated into works of value. Access to, or re-use of, the data is controlled by organisations, both public and private. Control may be through access restrictions, licenses, copyright, patents and charges for access or re-use. Advocates of open data argue that these restrictions are against the communal good and that these data should be made available without restriction or fee. In addition, it is important that the data are re-usable without requiring further permission, though the types of re-use (such as the creation of derivative works) may be controlled by license.</p>
+<p>A typical depiction of the need for open data:</p>
+<blockquote>
+<p><i>Numerous scientists have pointed out the irony that right at the historical moment when we have the technologies to permit worldwide availability and distributed process of scientific data, broadening collaboration and accelerating the pace and depth of discovery…..we are busy locking up that data and preventing the use of correspondingly advanced technologies on knowledge</i></p>
+</blockquote>
+<p><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> John Wilbanks, Executive Director, Science Commons</p>
+<p>Creators of data often do not consider the need to state the conditions of ownership, licensing and re-use. For example, many scientists do not regard the published data arising from their work to be theirs to control and the act of publication in a journal is an implicit release of the data into the commons. However the lack of a license makes it difficult to determine the status of a <a href="/wiki/Data_set" title="Data set">data set</a> and may restrict the use of data offered in an Open spirit. Because of this uncertainty it is also possible for public or private organizations such as <a href="/wiki/IEEE" title="IEEE" class="mw-redirect">IEEE</a> to aggregate said data, protect it with copyright and then resell it.</p>
+<p>Under "Toward Open Data" Connolly (2005, v.i.) gives two quotations:</p>
+<ul>
+<li><i>I want my data back.</i> (Jon Bosak circa 1997)</li>
+<li><i>I've long believed that customers of any application own the data they enter into it.</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> (This quote refers to Veen's own heart-rate data.)</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=2" title="Edit section: Major sources of open data">edit</a>]</span> <span class="mw-headline" id="Major_sources_of_open_data">Major sources of open data</span></h2>
+<p>Open data can come from any source. This section lists some of the fields that publish (or at least discuss publishing) a large amount of open data.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=3" title="Edit section: Open data in science">edit</a>]</span> <span class="mw-headline" id="Open_data_in_science">Open data in science</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Open_science_data" title="Open science data">Open science data</a></div>
+<p>The concept of <b>open access to scientific data</b> was institutionally established with the formation of the <a href="/wiki/World_Data_Center" title="World Data Center">World Data Center</a> system, in preparation for the <a href="/wiki/International_Geophysical_Year" title="International Geophysical Year">International Geophysical Year</a> of 1957-1958.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> The International Council of Scientific Unions (now the <a href="/wiki/International_Council_for_Science" title="International Council for Science">International Council for Science</a>) established several World Data Centers to minimize the risk of data loss and to maximize data accessibility, further recommending in 1955 that data be made available in machine-readable form.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup></p>
+<p>While the open-science-data movement long predates the Internet, the availability of fast, ubiquitous networking has significantly changed the context of Open science data, since publishing or obtaining data has become much less expensive and time-consuming.</p>
+<p>In 2004, the Science Ministers of all nations of the <a href="/wiki/OECD" title="OECD" class="mw-redirect">OECD</a> (Organisation for Economic Co-operation and Development), which includes most developed countries of the world, signed a declaration which essentially states that all publicly-funded archive data should be made publicly available.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>6<span>]</span></a></sup> Following a request and an intense discussion with data-producing institutions in member states, the OECD published in 2007 the <i>OECD Principles and Guidelines for Access to Research Data from Public Funding</i> as a <i>soft-law</i> recommendation.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>Examples of open data in science:</p>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://data.uni-muenster.de">data.uni-muenster.de</a> - Open data about scientiﬁc artifacts from University of Muenster, Germany. Launched in 2011.</li>
+<li><a rel="nofollow" class="external text" href="http://linkedscience.org/data">linkedscience.org/data</a> - Open scientific datasets encoded as <a href="/wiki/Linked_Data" title="Linked Data" class="mw-redirect">Linked Data</a>. Launched in 2011.</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=4" title="Edit section: Open data in government">edit</a>]</span> <span class="mw-headline" id="Open_data_in_government">Open data in government</span></h3>
+<table class="metadata plainlinks ambox ambox-style ambox-external_links" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" /></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This article's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>. Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Open_data&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links.2C_images.2C_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>. <small><i>(May 2012)</i></small> </span></td>
+</tr>
+</table>
+<p>Several national governments have created web sites to distribute a portion of the data they collect. It is a concept for a collaborative project in municipal Government to create and organize Culture for Open Data or Open government data. A list of over 200 local, regional and national open data catalogues is available on the open source <a rel="nofollow" class="external text" href="http://datacatalogs.org/">datacatalogs.org</a> project, which aims to be a comprehensive list of data catalogues from around the world. Prominent examples include:</p>
+<ul>
+<li><a href="/wiki/Data.gov" title="Data.gov">Data.gov</a> - U.S. government open-data website. Launched in May 2009.</li>
+<li><a href="/wiki/Data.gov.uk" title="Data.gov.uk">Data.gov.uk</a> - U.K. government open-data website. Launched in September 2009.</li>
+<li><a rel="nofollow" class="external text" href="http://data.govt.nz/">data.govt.nz</a> - New Zealand Government initiative to publish Government Data under Creative Commons licences, defined further at <a rel="nofollow" class="external text" href="http://nzgoal.info/">NZ GOAL</a>. launched in Nov 2009.</li>
+<li><a rel="nofollow" class="external text" href="http://data.norge.no/">data.norge.no</a> - Norwegian government open-data website. Launched in April 2010.</li>
+<li><a rel="nofollow" class="external text" href="http://opengovdata.ru/">opengovdata.ru</a> - OpenGovData Russia Catalog. Launched in 2010, private initiative.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.smos.gov.au/media/2011/mr_072011.html">Data.gov.au</a> - Australian government open-data website. Launched in March 2011.</li>
+<li><a rel="nofollow" class="external text" href="http://data.gc.ca/">Data.gc.ca</a> - Canadian government open-data website. Launched in March 2011.</li>
+<li><a rel="nofollow" class="external text" href="https://opendata.go.ke/">opendata.go.ke</a> - Kenyan government open-data website. Launched in Jul 2011.</li>
+<li><a rel="nofollow" class="external text" href="http://data.overheid.nl/">data.overheid.nl</a> - Dutch government open-data website. Launched in Oct 2011.</li>
+<li><a rel="nofollow" class="external text" href="http://datos.gob.cl/">datos.gob.cl</a> - Chilean government open-data website. Launched in Sept 2011.</li>
+<li><a rel="nofollow" class="external text" href="http://data.gov.it">data.gov.it</a> - Italian government open-data website. Launched in October 2011.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://datos.gob.es/">datos.gob.es</a> - Spanish government open-data website. Launched in October 2011.</li>
+<li><a rel="nofollow" class="external text" href="http://datos.gub.uy/">datos.gub.uy</a> - Uruguayan government open-data website. Launched in November 2011.</li>
+<li><a rel="nofollow" class="external text" href="http://data.gouv.fr/">data.gouv.fr</a> - French government open-data website. Launched in December 2011.</li>
+<li><a rel="nofollow" class="external text" href="http://beta.dados.gov.br/">dados.gov.br</a> (beta) - Brazilian government open-data website. Beta launched in December 2011; full site scheduled for April 2012.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></li>
+<li><a rel="nofollow" class="external text" href="http://www.opendata.ee/">www.opendata.ee</a> - Estonian government open-data website.</li>
+<li><a rel="nofollow" class="external text" href="http://www.dados.gov.pt/">dados.gov.pt</a> - Portuguese government open-data website.</li>
+</ul>
+<p>Additionally, other levels of government have established open data websites. There are many government entities pursuing <a href="/wiki/Open_Data_in_Canada" title="Open Data in Canada" class="mw-redirect">Open Data in Canada</a>. <a href="/wiki/Data.gov" title="Data.gov">Data.gov</a> lists the sites of a total of 31 U.S. states, 13 cities, and &gt; 150 agencies and subagencies providing open data; e.g. the state of <a href="/wiki/California" title="California">California, USA</a> <a rel="nofollow" class="external autonumber" href="http://www.data.ca.gov/">[2]</a>.</p>
+<p>The United Nations has an open data website that publishes statistical data from Member States and UN Agencies: <a rel="nofollow" class="external autonumber" href="http://data.un.org">[3]</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=5" title="Edit section: Arguments for and against open data">edit</a>]</span> <span class="mw-headline" id="Arguments_for_and_against_open_data">Arguments for and against open data</span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" style="">
+<tr>
+<td class="mbox-image">
+<div style="width: 52px;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></div>
+</td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This section <b>needs additional <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Open_data&amp;action=edit">improve this article</a> by adding citations to <a href="/wiki/Wikipedia:Identifying_reliable_sources" title="Wikipedia:Identifying reliable sources">reliable sources</a>. Unsourced material may be <a href="/wiki/Template:Citation_needed" title="Template:Citation needed">challenged</a> and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(May 2011)</i></small> </span></td>
+</tr>
+</table>
+<p>The debate on Open Data is still evolving. The best open government applications seek to empower consumers, to help small businesses, or to create value in some other positive, constructive way. Open government data is only a way-point on the road to improving education, improving government, and building tools to solve other real world problems. While many arguments have been made categorically, the following discussion of arguments for and against open data highlights that these arguments often depend highly on the type of data and its potential uses.</p>
+<p>Arguments made on behalf of Open Data include the following:</p>
+<ul>
+<li>"Data belong to the human race". Typical examples are genomes, data on organisms, medical science, environmental data.</li>
+<li>Public money was used to fund the work and so it should be universally available.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup></li>
+<li>It was created by or at a government institution (this is common in US National Laboratories and government agencies)</li>
+<li>Facts cannot legally be copyrighted.</li>
+<li>Sponsors of research do not get full value unless the resulting data are freely available.</li>
+<li>Restrictions on data re-use create an anticommons.</li>
+<li>Data are required for the smooth process of running communal human activities (map data, public institutions).</li>
+<li>In scientific research, the rate of discovery is accelerated by better access to data.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup></li>
+</ul>
+<p>It is generally held that factual data cannot be copyrighted.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> However, publishers frequently add copyright statements (often forbidding re-use) to scientific data accompanying publications. It may be unclear whether the factual data embedded in full text are part of the copyright.</p>
+<p>While the human abstraction of facts from paper publications is normally accepted as legal there is often an implied restriction on the machine extraction by robots.</p>
+<p>Unlike <a href="/wiki/Open_access_(publishing)" title="Open access (publishing)" class="mw-redirect">Open Access</a>, where groups of publishers have stated their concerns, Open Data is normally challenged by individual institutions. Their arguments have been discussed less in public discourse and there are fewer quotes to rely on at this time.</p>
+<p>Arguments against making all data available as Open Data include the following:</p>
+<ul>
+<li>Government funding may not be used to duplicate or challenge the activities of the private sector (e.g. <a href="/wiki/PubChem" title="PubChem">PubChem</a>).</li>
+<li>Governments have to be accountable for the efficient use of taxpayer's money: If public funds are used to aggregate the data and if the data will bring commercial (private) benefits to only a small number of users, the users should reimburse governments for the cost of providing the data.</li>
+<li>The revenue earned by publishing data permits non-profit organisations to fund other activities (e.g. learned society publishing supports the society).</li>
+<li>The government gives specific legitimacy for certain organisations to recover costs (<a href="/wiki/National_Institute_of_Standards_and_Technology" title="National Institute of Standards and Technology">NIST</a> in US, <a href="/wiki/Ordnance_Survey" title="Ordnance Survey">Ordnance Survey</a> in UK).</li>
+<li>Privacy concerns may require that access to data is limited to specific users or to sub-sets of the data.</li>
+<li>Collecting, 'cleaning', managing and disseminating data are typically labour- and/or cost-intensive processes - whoever provides these services should receive fair remuneration for providing those services.</li>
+<li>Sponsors do not get full value unless their data is used appropriately - sometimes this requires quality management, dissemination and branding efforts that can best be achieved by charging fees to users.</li>
+<li>Often, targeted end-users cannot use the data without additional processing (analysis, apps etc.) - if anyone has access to the data, none may have an incentive to invest in the processing required to make data useful (Typical examples include biological, medical, and environmental data).</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=6" title="Edit section: Relation to other open activities">edit</a>]</span> <span class="mw-headline" id="Relation_to_other_open_activities">Relation to other open activities</span></h2>
+<p>The goals of the Open Data movement are similar to those of other "Open" movements.</p>
+<ul>
+<li><a href="/wiki/Open_access" title="Open access">Open access</a> is concerned with making scholarly publications freely available on the internet. In some cases, these articles include open datasets as well.</li>
+<li><a href="/wiki/Open_content" title="Open content">Open content</a> is concerned with making resources aimed at a human audience (such as prose, photos, or videos) freely available.</li>
+<li><a href="/wiki/Open_notebook_science" title="Open notebook science">Open notebook science</a> refers to the application of the Open Data concept to as much of the scientific process as possible, including failed experiments and raw experimental data.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup></li>
+<li><a href="/wiki/Open_research" title="Open research">Open research</a>/<a href="/wiki/Open_science" title="Open science">Open science</a>/<a href="/wiki/Open_science_data" title="Open science data">Open science data</a> (<a href="/w/index.php?title=Linked_open_science&amp;action=edit&amp;redlink=1" class="new" title="Linked open science (page does not exist)">Linked open science</a>) means an approach to open and interconnect scientific assets like data, methods and tools with <a href="/wiki/Linked_Data" title="Linked Data" class="mw-redirect">Linked Data</a> techniques to enable transparent, reproducible and transdisciplinary research.<sup id="cite_ref-kauppinen_14-0" class="reference"><a href="#cite_note-kauppinen-14"><span>[</span>15<span>]</span></a></sup></li>
+<li><a href="/wiki/Open_knowledge" title="Open knowledge">Open knowledge</a>. The <a href="/wiki/Open_Knowledge_Foundation" title="Open Knowledge Foundation">Open Knowledge Foundation</a> argues for Openness in a range of issues including, but not limited to, those of Open Data. It covers (a) scientific, historical, geographic or otherwise (b) Content such as music, films, books (c) Government and other administrative information. Open data is included within the scope of the <a href="/w/index.php?title=Open_Knowledge_Definition&amp;action=edit&amp;redlink=1" class="new" title="Open Knowledge Definition (page does not exist)">Open Knowledge Definition</a>, which is alluded to in <a href="/wiki/Science_Commons" title="Science Commons">Science Commons</a>' Protocol for Implementing Open Access Data.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup></li>
+<li><a href="/wiki/Open_source" title="Open source">Open source</a> (software) is concerned with the licenses under which computer programs can be distributed and is not normally concerned primarily with data.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=7" title="Edit section: Funders' mandates">edit</a>]</span> <span class="mw-headline" id="Funders.27_mandates">Funders' mandates</span></h2>
+<p>Several funding bodies which mandate Open Access also mandate Open Data. A good expression of requirements (truncated in places) is given by the Canadian Institutes of Health Research (CIHR) <sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup>:</p>
+<ul>
+<li>to deposit bioinformatics, atomic and molecular coordinate data, experimental data into the appropriate public database immediately upon publication of research results.</li>
+<li>to retain original data sets for a minimum of five years after the grant. This applies to all data, whether published or not.</li>
+</ul>
+<p>Note the fundamental requirement to be able to replicate the experiment.</p>
+<p>Other bodies active in promoting the deposition of data as well as fulltext include the <a href="/wiki/Wellcome_Trust" title="Wellcome Trust">Wellcome Trust</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=8" title="Edit section: Closed data">edit</a>]</span> <span class="mw-headline" id="Closed_data">Closed data</span></h2>
+<p>Several mechanisms restrict access to or reuse of data. They include:</p>
+<ul>
+<li>making data available for a charge.</li>
+<li>compilation in databases or websites to which only registered members or customers can have access.</li>
+<li>use of a proprietary or closed technology or encryption which creates a barrier for access.</li>
+<li>copyright forbidding (or obfuscating) re-use of the data.</li>
+<li>license forbidding (or obfuscating) re-use of the data (such as <a href="/wiki/Share-alike" title="Share-alike">share-alike</a><sup class="Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources from March 2009">citation needed</span></a></i>]</sup> or non-commercial)</li>
+<li>patent forbidding re-use of the data (for example the 3-dimensional coordinates of some experimental protein structures have been patented)</li>
+<li>restriction of robots to websites, with preference to certain search engines</li>
+<li>aggregating factual data into "databases" which may be covered by "database rights" or "database directives" (e.g. <a href="/wiki/Directive_on_the_legal_protection_of_databases" title="Directive on the legal protection of databases" class="mw-redirect">Directive on the legal protection of databases</a>)</li>
+<li>time-limited access to resources such as e-journals (which on traditional print were available to the purchaser indefinitely)</li>
+<li><a href="/w/index.php?title=Webstacle&amp;action=edit&amp;redlink=1" class="new" title="Webstacle (page does not exist)">webstacles</a>, or the provision of single <a href="/wiki/Data_point" title="Data point">data points</a> as opposed to <a href="/wiki/Tabular" title="Tabular" class="mw-redirect">tabular</a> <a href="/wiki/Information_retrieval" title="Information retrieval">queries</a> or bulk <a href="/wiki/Download" title="Download" class="mw-redirect">downloads</a> of <a href="/wiki/Data_set" title="Data set">data sets</a>.</li>
+<li>political, commercial or legal pressure on the activity of organisations providing Open Data (for example the <a href="/wiki/American_Chemical_Society" title="American Chemical Society">American Chemical Society</a> lobbied the US Congress to limit funding to the <a href="/wiki/National_Institutes_of_Health" title="National Institutes of Health">National Institutes of Health</a> for its Open <a href="/wiki/PubChem" title="PubChem">PubChem</a> data.<sup id="cite_ref-uoc_17-0" class="reference"><a href="#cite_note-uoc-17"><span>[</span>18<span>]</span></a></sup></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=9" title="Edit section: Organisations promoting open data">edit</a>]</span> <span class="mw-headline" id="Organisations_promoting_open_data">Organisations promoting open data</span></h2>
+<ul>
+<li><a href="/wiki/Scholarly_Publishing_and_Academic_Resources_Coalition" title="Scholarly Publishing and Academic Resources Coalition">Scholarly Publishing and Academic Resources Coalition</a></li>
+<li><a href="/w/index.php?title=Freeourdata.org.uk&amp;action=edit&amp;redlink=1" class="new" title="Freeourdata.org.uk (page does not exist)">freeourdata.org.uk</a> <sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup></li>
+<li><a href="/wiki/Open_Data_Institute" title="Open Data Institute">Open Data Institute</a></li>
+<li>The <a href="/wiki/Open_Knowledge_Foundation" title="Open Knowledge Foundation">Open Knowledge Foundation</a></li>
+<li><a href="/w/index.php?title=LinkedScience.org&amp;action=edit&amp;redlink=1" class="new" title="LinkedScience.org (page does not exist)">LinkedScience.org</a><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup></li>
+<li><a href="/wiki/Talis_Group" title="Talis Group">Talis</a></li>
+<li><a href="/wiki/W3.org" title="W3.org" class="mw-redirect">w3.org</a> <sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup></li>
+<li><a href="/wiki/Blue_Obelisk" title="Blue Obelisk">Blue Obelisk</a></li>
+<li><a href="/wiki/Freebase_(database)" title="Freebase (database)" class="mw-redirect">Freebase</a></li>
+<li><a href="/wiki/Factual" title="Factual">Factual</a></li>
+<li><a href="/wiki/Information_Retrieval_Facility" title="Information Retrieval Facility">Information Retrieval Facility</a></li>
+<li><a href="/wiki/Socrata" title="Socrata">Socrata</a></li>
+<li><a href="/wiki/International_Development_Research_Centre" title="International Development Research Centre">International Development Research Centre</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Budapest_Open_Access_Initiative" title="Budapest Open Access Initiative">Budapest Open Access Initiative</a></li>
+<li><a href="/wiki/Creative_Commons_licenses" title="Creative Commons licenses" class="mw-redirect">Creative Commons licenses</a></li>
+<li><a href="/wiki/Merton_Thesis" title="Merton Thesis">Merton Thesis</a></li>
+<li><a href="/wiki/Linked_Data" title="Linked Data" class="mw-redirect">Linked Data</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=11" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text">Seee <a rel="nofollow" class="external text" href="http://opendefinition.org/">Open Definition home page</a> and the <a rel="nofollow" class="external text" href="http://opendefinition.org/okd/">full Open Definition</a></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sciencecommons.org/">Science Commons</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.veen.com/jeff/archives/000810.html">Jeffrey Veen</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation book">Committee on Scientific Accomplishments of Earth Observations from Space, National Research Council (2008). <a rel="nofollow" class="external text" href="http://books.nap.edu/openbook.php?record_id=11991&amp;page=6"><i>Earth Observations from Space: The First 50 Years of Scientific Achievements</i></a>. The National Academies Press. pp.&#160;6. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-309-11095-5" title="Special:BookSources/0-309-11095-5">0-309-11095-5</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://books.nap.edu/openbook.php?record_id=11991&amp;page=6">http://books.nap.edu/openbook.php?record_id=11991&amp;page=6</a></span><span class="reference-accessdate">. Retrieved 2010-11-24</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Earth+Observations+from+Space%3A+The+First+50+Years+of+Scientific+Achievements&amp;rft.aulast=Committee+on+Scientific+Accomplishments+of+Earth+Observations+from+Space%2C+National+Research+Council&amp;rft.au=Committee+on+Scientific+Accomplishments+of+Earth+Observations+from+Space%2C+National+Research+Council&amp;rft.date=2008&amp;rft.pages=pp.%26nbsp%3B6&amp;rft.pub=The+National+Academies+Press&amp;rft.isbn=0-309-11095-5&amp;rft_id=http%3A%2F%2Fbooks.nap.edu%2Fopenbook.php%3Frecord_id%3D11991%26page%3D6&amp;rfr_id=info:sid/en.wikipedia.org:Open_data"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><span class="citation web">World Data Center System (2009-09-18). <a rel="nofollow" class="external text" href="http://www.ngdc.noaa.gov/wdc/about.shtml">"About the World Data Center System"</a>. NOAA, National Geophysical Data Center<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ngdc.noaa.gov/wdc/about.shtml">http://www.ngdc.noaa.gov/wdc/about.shtml</a></span><span class="reference-accessdate">. Retrieved 2010-11-24</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=About+the+World+Data+Center+System&amp;rft.atitle=&amp;rft.aulast=World+Data+Center+System&amp;rft.au=World+Data+Center+System&amp;rft.date=2009-09-18&amp;rft.pub=NOAA%2C+National+Geophysical+Data+Center&amp;rft_id=http%3A%2F%2Fwww.ngdc.noaa.gov%2Fwdc%2Fabout.shtml&amp;rfr_id=info:sid/en.wikipedia.org:Open_data"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oecd.org/document/0,2340,en_2649_34487_25998799_1_1_1_1,00.html">OECD Declaration on Open Access to publicly-funded data</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.oecd.org/document/55/0,3343,en_2649_201185_38500791_1_1_1_1,00.html">OECD Principles and Guidelines for Access to Research Data from Public Funding</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://opengovernmentdata.org/data/catalogues/">"Open Government Data Catalogues"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://opengovernmentdata.org/data/catalogues/">http://opengovernmentdata.org/data/catalogues/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Open+Government+Data+Catalogues&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fopengovernmentdata.org%2Fdata%2Fcatalogues%2F&amp;rfr_id=info:sid/en.wikipedia.org:Open_data"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://www.libertiamo.it/2011/10/21/wikitalia-ovvero-la-partecipazione-civica-dopo-e-oltre-i-referendum/">"Wikitalia ovvero la partecipazione civica dopo e oltre i referendum"</a>. <i>Libertiamo</i>. 21 October 2011<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.libertiamo.it/2011/10/21/wikitalia-ovvero-la-partecipazione-civica-dopo-e-oltre-i-referendum/">http://www.libertiamo.it/2011/10/21/wikitalia-ovvero-la-partecipazione-civica-dopo-e-oltre-i-referendum/</a></span><span class="reference-accessdate">. Retrieved 7 November 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Wikitalia+ovvero+la+partecipazione+civica+dopo+e+oltre+i+referendum&amp;rft.jtitle=Libertiamo&amp;rft.date=21+October+2011&amp;rft_id=http%3A%2F%2Fwww.libertiamo.it%2F2011%2F10%2F21%2Fwikitalia-ovvero-la-partecipazione-civica-dopo-e-oltre-i-referendum%2F&amp;rfr_id=info:sid/en.wikipedia.org:Open_data"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://epsiplatform.eu/content/brasil-launches-data-portal-april">"Brasil Launches Data Portal in April"</a>. 03 Jan 2012<span class="printonly">. <a rel="nofollow" class="external free" href="http://epsiplatform.eu/content/brasil-launches-data-portal-april">http://epsiplatform.eu/content/brasil-launches-data-portal-april</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Brasil+Launches+Data+Portal+in+April&amp;rft.atitle=&amp;rft.date=03+Jan+2012&amp;rft_id=http%3A%2F%2Fepsiplatform.eu%2Fcontent%2Fbrasil-launches-data-portal-april&amp;rfr_id=info:sid/en.wikipedia.org:Open_data"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.publictechnology.net/sector/central-gov/dispatch-box-road-open-data">On the road to open data, by Ian Manocha</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jstage.jst.go.jp/article/dsj/6/0/6_S116/_article">How to Make the Dream Come True</a> argues in one research area (Astronomy) that access to open data increases the rate of scientific discovery.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sciencecommons.org/about/towards">Towards a Science Commons</a> includes an overview of the basis of Openness in science data.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html">http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html</a> creation of term</span></li>
+<li id="cite_note-kauppinen-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-kauppinen_14-0">^</a></b></span> <span class="reference-text"><span class="citation Journal">Kauppinen, T.; Espindola, G. M. D. (2011). "Linked Open Science-Communicating, Sharing and Evaluating Data, Methods and Results for Executable Papers". <i>Procedia Computer Science</i> <b>4</b>: 726. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2Fj.procs.2011.04.076">10.1016/j.procs.2011.04.076</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Linked+Open+Science-Communicating%2C+Sharing+and+Evaluating+Data%2C+Methods+and+Results+for+Executable+Papers&amp;rft.jtitle=Procedia+Computer+Science&amp;rft.aulast=Kauppinen&amp;rft.aufirst=T.&amp;rft.au=Kauppinen%2C%26%2332%3BT.&amp;rft.au=Espindola%2C%26%2332%3BG.+M.+D.&amp;rft.date=2011&amp;rft.volume=4&amp;rft.pages=726&amp;rft_id=info:doi/10.1016%2Fj.procs.2011.04.076&amp;rfr_id=info:sid/en.wikipedia.org:Open_data"><span style="display: none;">&#160;</span></span> <span class="plainlinks noprint" style="font-size:smaller"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cite_doi/10.1016.2Fj.procs.2011.04.076&amp;action=edit&amp;editintro=Template:Cite_doi/editintro2">edit</a></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://sciencecommons.org/projects/publishing/open-access-data-protocol/">Protocol for Implementing Open Access Data</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://mx2.arl.org/Lists/SPARC-OpenData/Message/34.html">SPARC-OpenData@arl.org Mailing List Archive</a></span></li>
+<li id="cite_note-uoc-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-uoc_17-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://osc.universityofcalifornia.edu/news/acs_pubchem.html">Review of history and positions by the University of California</a></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.freeourdata.org.uk/index.php">"Free our data"</a> (<a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a> technology section)</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://linkedscience.org/about">[1]</a></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://esw.w3.org/topic/SweoIG/TaskForces/CommunityProjects/LinkingOpenData">Linking Open Data on the Semantic Web</a></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Open_data&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li>OpenPSI the (<a rel="nofollow" class="external text" href="http://www.openpsi.org">OpenPSI project</a>) is a community effort to create UK government linked data service that supports research. It is a collaboration between the University of Southampton and the UK government, led by OPSI at the National Archive and is supported by JISC funding.</li>
+<li><a rel="nofollow" class="external text" href="http://www.talis.com/tdn/tcl">Talis Community License</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.opencontentlawyer.com/open-data/open-database-licence/">Open Data Commons Database Licence (an update to the Talis Community License)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.opendatacommons.org/">Open Data Commons</a> - legal tools for open data</li>
+<li><a rel="nofollow" class="external text" href="http://www.ckan.net/">CKAN</a> - a registry of open data from the <a href="/wiki/Open_Knowledge_Foundation" title="Open Knowledge Foundation">Open Knowledge Foundation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web.html">Video of</a> <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> at <a href="/wiki/TED_(conference)" title="TED (conference)">TED (conference)</a> 2009 calling for "Raw Data Now"</li>
+<li><a rel="nofollow" class="external text" href="http://www.ted.com/talks/tim_berners_lee_the_year_open_data_went_worldwide.html">Six minute Video of</a> <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> at <a href="/wiki/TED_(conference)" title="TED (conference)">TED (conference)</a> 2010 showing examples of open data</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Open_navbox" title="Template:Open navbox"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Open_navbox" title="Template talk:Open navbox"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Open_navbox&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Category:Open_methodologies" title="Category:Open methodologies">Open movements</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Concepts</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Open_access" title="Open access">Open access</a></li>
+<li><a href="/wiki/Open_content" title="Open content">Open content</a></li>
+<li><a href="/wiki/Open_communication" title="Open communication">Open communication</a></li>
+<li><strong class="selflink">Open data</strong></li>
+<li><a href="/wiki/Open_design" title="Open design">Open design</a></li>
+<li><a href="/wiki/Open_education" title="Open education">Open education</a></li>
+<li><a href="/wiki/Open_government" title="Open government">Open government</a></li>
+<li><a href="/wiki/Open_hardware" title="Open hardware" class="mw-redirect">Open hardware</a></li>
+<li><a href="/wiki/Open_innovation" title="Open innovation">Open innovation</a></li>
+<li><a href="/wiki/Open_knowledge" title="Open knowledge">Open knowledge</a></li>
+<li><a href="/wiki/Open_patent" title="Open patent">Open patent</a></li>
+<li><a href="/wiki/Open_research" title="Open research">Open research</a></li>
+<li><a href="/wiki/Open_science" title="Open science">Open science</a></li>
+<li><a href="/wiki/Open-source_software" title="Open-source software">Open-source software</a></li>
+<li><a href="/wiki/Open-source_governance" title="Open-source governance">Open-source governance</a></li>
+<li><a href="/wiki/Open-source_journalism" title="Open-source journalism">Open-source journalism</a></li>
+<li><a href="/wiki/Open_standards" title="Open standards" class="mw-redirect">Open standards</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Tools</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Free_and_open_source_software" title="Free and open source software" class="mw-redirect">Free and open source software</a></li>
+<li><a href="/wiki/Open_educational_resources" title="Open educational resources">Open educational resources</a></li>
+<li><a href="/wiki/Open_Music_Model" title="Open Music Model">Open Music Model</a></li>
+<li><a href="/wiki/Open_notebook_science" title="Open notebook science">Open notebook science</a></li>
+<li><a href="/wiki/Open_peer_review" title="Open peer review">Open peer review</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Organizations for openness</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons</a></li>
+<li><a href="/wiki/Free_Software_Foundation" title="Free Software Foundation">Free Software Foundation</a></li>
+<li><a href="/wiki/Open_Knowledge_Foundation" title="Open Knowledge Foundation">Open Knowledge Foundation</a></li>
+<li><a href="/wiki/Open_Rights_Group" title="Open Rights Group">Open Rights Group</a></li>
+<li><a href="/wiki/Public_Library_of_Science" title="Public Library of Science">Public Library of Science</a></li>
+<li><a href="/wiki/Scholarly_Publishing_and_Academic_Resources_Coalition" title="Scholarly Publishing and Academic Resources Coalition">SPARC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Activists for openness</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/John_Wilbanks" title="John Wilbanks">John Wilbanks</a></li>
+<li><a href="/wiki/Lawrence_Lessig" title="Lawrence Lessig">Lawrence Lessig</a></li>
+<li><a href="/wiki/Peter_Murray-Rust" title="Peter Murray-Rust">Peter Murray-Rust</a></li>
+<li><a href="/wiki/Peter_Suber" title="Peter Suber">Peter Suber</a></li>
+<li><a href="/wiki/Richard_Stallman" title="Richard Stallman">Richard Stallman</a></li>
+<li><a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Projects</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Creative_Commons_license" title="Creative Commons license">Creative Commons license</a></li>
+<li><a href="/wiki/Definition_of_Free_Cultural_Works" title="Definition of Free Cultural Works">Definition of Free Cultural Works</a></li>
+<li><a href="/wiki/Free_culture_movement" title="Free culture movement">Free culture movement</a></li>
+<li><a href="/wiki/Free_software_movement" title="Free software movement">Free software movement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 6019/1000000
+Post-expand include size: 59953/2048000 bytes
+Template argument size: 17793/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 5/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7697770-0!*!0!!en!4!* and timestamp 20120629111438 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Open_data&amp;oldid=496961026">http://en.wikipedia.org/w/index.php?title=Open_data&amp;oldid=496961026</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Open_data" title="Category:Open data">Open data</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_May_2012" title="Category:Wikipedia external links cleanup from May 2012">Wikipedia external links cleanup from May 2012</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_May_2012" title="Category:Wikipedia spam cleanup from May 2012">Wikipedia spam cleanup from May 2012</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2011" title="Category:Articles needing additional references from May 2011">Articles needing additional references from May 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2009" title="Category:Articles with unsourced statements from March 2009">Articles with unsourced statements from March 2009</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Open+data&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Open+data" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Open_data"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Open_data"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Open_data" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Open_data&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Open_data&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton" width="12" height="13"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/vector/images/search-ltr.png?303-4" alt="Search" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Open_data" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Open_data" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Open_data&amp;oldid=496961026" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Open_data&amp;id=496961026" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Open+data" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Open+data&amp;oldid=496961026&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Open_data&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8" title="Шаблон:Открытые методологии" lang="ru" hreflang="ru">русский</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Dades_obertes" title="Dades obertes" lang="ca" hreflang="ca">català</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Open_Data" title="Open Data" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Datos_abiertos" title="Datos abiertos" lang="es" hreflang="es">español</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Open_data" title="Open data" lang="fr" hreflang="fr">français</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%95%E0%A5%8D%E0%A4%A4_%E0%A4%86%E0%A4%82%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A5%87" title="मुक्त आंकड़े" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Data_terbuka" title="Data terbuka" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Dati_aperti" title="Dati aperti" lang="it" hreflang="it">italiano</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Open_data" title="Open data" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5" title="Открытые данные" lang="ru" hreflang="ru">русский</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/%C3%96ppna_data" title="Öppna data" lang="sv" hreflang="sv">svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B1%E0%AE%A8%E0%AF%8D%E0%AE%A4_%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AF%81" title="திறந்த தரவு" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/Open_Data" title="Open Data" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 10 June 2012 at 21:22.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Open_data&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script type="text/javascript">if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest","ext.gadget.teahouse","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful"], null, true);
+}</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by mw42 in 0.182 secs. -->
+	</body>
+</html>

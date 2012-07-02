@@ -1,0 +1,378 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+		<title>European Physical Society (EPS)</title>
+<title>European Physical Society(EPS):leading community of physicists in Europe</title>
+<meta name="variant_type" content="page" />
+<meta name="sys_context" content="1" />
+<meta name="preview" content="false" />
+<meta name="disable_post_process" content="false" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="author" lang="en" content="European Physical Society (EPS)" />
+<meta name="keywords" content="home, European Physical Society(EPS), leading community of physicists in Europe, forum for physicists to exchange ideas, EPS publishes journals, organizes conferences and promotes physics in Europe,physics news, physics newsletter e-eps, science" />
+<meta name="description" content="European Physical Society home page" />
+<meta http-equiv="content-language" content="en" />	
+<meta http-equiv="Pragma" content="no-cache" />
+<meta name="robots" content="index,follow" />
+<meta name="Revisit-After" content="1 days" />
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12075719-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+	
+		<link rel="stylesheet" type="text/css" href="/global_inc/site_templates/YM-OR-02/combined.css?_v=1.22.102.465&context=hp"/>
+		<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/container/assets/skins/sam/container.css">
+		<!--[if IE]><link rel="stylesheet" type="text/css" href="/global_inc/site_templates/YM-OR-02/ie.css"><![endif]-->
+	
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/dragdrop/dragdrop-min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/container/container-min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/json/json-min.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script type="text/javascript" src="/combined.js?context=hp&_v=1.24"></script>
+		<script type='text/javascript'>
+			var _gaq = _gaq || [];_gaq.push(['YM._setAccount', 'UA-2449742-47'], ['YM._setDomainName', 'none'], ['YM._setAllowLinker', true], ['YM._trackPageview']);
+			(function() {
+		        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	            })();
+			</script>
+	</head>
+	
+	<script type="text/javascript">
+		var m_pulse = new Pulse('');
+		m_pulse.Start();
+	</script>
+	
+
+	<script type="text/javascript">
+		YAHOO.util.Event.onDOMReady(getChats);
+		addEventHandler_OnUnload(function(){ if(m_ChatTID) clearTimeout(m_ChatTID) });
+	</script>
+
+
+	<body id="PageBody">
+		<div id="fb-root"></div><script>window.fbAsyncInit = function() {   FB.init({appId: '354225067967751', cookie: 'true', status: 'true', xfbml: 'false', oauth: 'true'});
+ FB.getLoginStatus(function(response){ if (response.authResponse){ setCookie('FBauthToken', encodeURIComponent(response.authResponse.accessToken)); } }); 
+
+
+//<!-- AfterInitAction -->
+
+ };
+(function() {
+							  var e = document.createElement('script');
+							  e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+							  e.async = true;
+							  document.getElementById('fb-root').appendChild(e);
+							} ());
+							</script>
+		
+		<div id="LeaderContentArea">
+			<!--YMPSTITLE=TgBBAA==/YMPSTITLE--></div>
+		
+		<table id="PageContainer" border="0" cellpadding="0" cellspacing="0">
+		<tr>
+			<td id="Toolbar_bg"><div id="Toolbar">
+					<a href='/general/?type=CONTACT'>Contact Us</a> &nbsp; | &nbsp; <a href='/login.aspx'>Sign In</a> &nbsp; | &nbsp; <a href='/general/register_start.asp'>Join EPS</a>
+			</div></td>
+		</tr>
+		<tr>
+			<td id="Head">
+				<link type="text/css" href="/graphics/bottom.css" rel="stylesheet">
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.js"></script>
+		<script type="text/javascript" src="/graphics/jquery.pikachoose.full.js"></script>
+		<script language="javascript">
+			$(document).ready(
+				function (){
+					$("#pikame").PikaChoose();
+				});
+		</script>
+<div id="headerContainer">
+<a href="/" target="_parent" id="logo"></a>
+<div id="TopSearch">
+							<div id="TopSearchHead">
+								Community Search</div>
+							<form action="/search/all.asp" name="TopSearchForm" id="TopSearchForm"><input type="text" onkeypress="DoOnCrKeyPress(event,TopSearchForm_DoSubmit);" onfocus="TopSearchForm_OnFocus();" value="Enter search criteria..." maxlength="50" id="TopSearchForm_bst" name="bst" class="small">
+		                    <a onclick="return TopSearchForm_DoSubmit();" id="TopSearchSubmit" href="#"></a>
+	                        </form>
+	                        <script language="JavaScript">
+	                        function TopSearchForm_DoSubmit()
+	                        {
+							var TopSearchForm = document.TopSearchForm;
+		                    if(TopSearchForm)
+		                    {
+			                    ClearDefaultValue(TopSearchForm.bst);
+			                    TopSearchForm.submit();
+		                    }
+		                    return false;
+	                        }
+	                        function TopSearchForm_OnFocus()
+	                        {
+		                    var element = document.getElementById("TopSearchForm_bst");
+		                    ClearDefaultValue(element);
+	                        }
+	                        //Initialize the Search Autofill
+	                        (new AutoCompleteField('/global_engine/ajax/community_search_autofill.asp', true)).Init('TopSearchForm_bst');
+	                        </script></div>
+</div>
+
+
+<style type="text/css">
+      #Head
+      {
+          background-image: url('/graphics/bg_top.gif');
+      }
+  </style></td>
+		</tr>
+		<tr>
+			<td id="MainMenu">
+				<div id="FrontendMainMenu" class="radmenu RadMenu_YMPublic ">
+	<!-- 4.3.2 --><script type="text/javascript" src="/global_inc/RadControls/Menu/Scripts/4_3_2/RadMenu.js"></script><span id="FrontendMainMenuStyleSheetHolder" style="display:none;"></span><script type="text/javascript">RadControlsNamespace.AppendStyleSheet(false, 'FrontendMainMenu', '/global_inc/RadControls/Menu/Scripts/4_3_2/menu.css');</script><script type="text/javascript">RadControlsNamespace.AppendStyleSheet(false, 'FrontendMainMenu', '/global_inc/RadControls/Menu/Skins/YMPublic/styles.css');</script><ul class="horizontal rootGroup">
+		<li class="item first"><a href="/?page=about_eps" id="FrontendMainMenu_m0" class="link"><span class="text">About EPS</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=society_governance" id="FrontendMainMenu_m0_m0" class="link"><span class="text">Society Governance</span></a></li><li class="item"><a href="/?page=history" id="FrontendMainMenu_m0_m1" class="link"><span class="text">History</span></a></li><li class="item"><a href="/?page=mission_statement" id="FrontendMainMenu_m0_m2" class="link"><span class="text">Mission Statement</span></a></li><li class="item"><a href="/?page=action_committees" id="FrontendMainMenu_m0_m3" class="link"><span class="text">Action Committees</span></a></li><li class="item"><a href="/?page=eps_in_the_news" id="FrontendMainMenu_m0_m4" class="link"><span class="text">EPS in the news</span></a></li><li class="item last"><a href="/?page=contacts" id="FrontendMainMenu_m0_m5" class="link"><span class="text">Contacts</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/?page=members" id="FrontendMainMenu_m1" class="link"><span class="text">Members</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=individual_members" id="FrontendMainMenu_m1_m0" class="link"><span class="text">Individual Members</span></a></li><li class="item"><a href="/?page=member_societies" id="FrontendMainMenu_m1_m1" class="link"><span class="text">Member Societies</span></a></li><li class="item"><a href="/?page=associate_members" id="FrontendMainMenu_m1_m2" class="link"><span class="text">Associate Members</span></a></li><li class="item"><a href="/?page=collab_societies" id="FrontendMainMenu_m1_m3" class="link"><span class="text">Collaborating Societies</span></a></li><li class="item last"><a href="/search/custom.asp?id=298" id="FrontendMainMenu_m1_m4" class="link"><span class="text">EPS Directory</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/?page=activities" id="FrontendMainMenu_m2" class="link"><span class="text">Activities</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=historic_sites" id="FrontendMainMenu_m2_m0" class="link"><span class="text">Historic Sites</span></a></li><li class="item"><a href="/?page=year_of_light" id="FrontendMainMenu_m2_m1" class="link"><span class="text">Year of Light</span></a></li><li class="item"><a href="/?page=eps_programmes" id="FrontendMainMenu_m2_m2" class="link"><span class="text">Programmes</span></a></li><li class="item"><a href="/?page=eps_projects" id="FrontendMainMenu_m2_m3" class="link"><span class="text">Projects</span></a></li><li class="item"><a href="/?page=grants_list" id="FrontendMainMenu_m2_m4" class="link"><span class="text">Grants</span></a></li><li class="item last"><a href="/?page=divisions_groups" id="FrontendMainMenu_m2_m5" class="link"><span class="text">Divisions and Groups</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/?page=distinctions" id="FrontendMainMenu_m3" class="link"><span class="text">Distinctions</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=prizes" id="FrontendMainMenu_m3_m0" class="link"><span class="text">EPS Prizes</span></a></li><li class="item"><a href="/?page=honorary_members" id="FrontendMainMenu_m3_m1" class="link"><span class="text">EPS Honorary Members</span></a></li><li class="item"><a href="/?page=fellows" id="FrontendMainMenu_m3_m2" class="link"><span class="text">EPS Fellows</span></a></li><li class="item last"><a href="/?page=prize_announcements" id="FrontendMainMenu_m3_m3" class="link"><span class="text">Prize announcements</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/?page=events" id="FrontendMainMenu_m4" class="link"><span class="text">Events</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=europhysics_conf" id="FrontendMainMenu_m4_m0" class="link"><span class="text">Europhysics Conferences</span></a></li><li class="item"><a href="/?page=sponsored_conf" id="FrontendMainMenu_m4_m1" class="link"><span class="text">Sponsored Conferences</span></a></li><li class="item"><a href="/?page=conf_management" id="FrontendMainMenu_m4_m2" class="link"><span class="text">Conference Services</span></a></li><li class="item last"><a href="/events/event_list.asp" id="FrontendMainMenu_m4_m3" class="link"><span class="text">calendar</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/?page=education" id="FrontendMainMenu_m5" class="link"><span class="text">Education</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=bologna_process" id="FrontendMainMenu_m5_m0" class="link"><span class="text">Bologna process</span></a></li><li class="item"><a href="/?page=odysseus" id="FrontendMainMenu_m5_m1" class="link"><span class="text">Odysseus</span></a></li><li class="item"><a href="/?page=pathway" id="FrontendMainMenu_m5_m2" class="link"><span class="text">Pathway</span></a></li><li class="item"><a href="/?page=muse" id="FrontendMainMenu_m5_m3" class="link"><span class="text">MUSE</span></a></li><li class="item"><a href="/?page=studies_reports" id="FrontendMainMenu_m5_m4" class="link"><span class="text">Studies and Reports</span></a></li><li class="item last"><a href="/?page=other_edu_resources" id="FrontendMainMenu_m5_m5" class="link"><span class="text">Other educational resources</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/?page=publications" id="FrontendMainMenu_m6" class="link"><span class="text">Publications</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=epn" id="FrontendMainMenu_m6_m0" class="link"><span class="text">EPN</span></a></li><li class="item"><a href="http://www.epsnews.eu/" id="FrontendMainMenu_m6_m1" class="link"><span class="text">e-EPS</span></a></li><li class="item"><a href="/?page=epl" id="FrontendMainMenu_m6_m2" class="link"><span class="text">EPL</span></a></li><li class="item"><a href="/?page=ejp" id="FrontendMainMenu_m6_m3" class="link"><span class="text">EJP</span></a></li><li class="item"><a href="/?page=ppa" id="FrontendMainMenu_m6_m4" class="link"><span class="text">PPA</span></a></li><li class="item"><a href="/?page=conf_proceedings" id="FrontendMainMenu_m6_m5" class="link"><span class="text">Conference Proceedings</span></a></li><li class="item"><a href="/?page=society_newsletters" id="FrontendMainMenu_m6_m6" class="link"><span class="text">Society newsletters</span></a></li><li class="item"><a href="/?page=recognised_journals" id="FrontendMainMenu_m6_m7" class="link"><span class="text">Recognised Journals</span></a></li><li class="item last"><a href="/?page=ari" id="FrontendMainMenu_m6_m8" class="link"><span class="text">ARI</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="/?page=policy" id="FrontendMainMenu_m7" class="link"><span class="text">Policy</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=physics_society" id="FrontendMainMenu_m7_m0" class="link"><span class="text">Physics and Society</span></a></li><li class="item"><a href="/?page=energy_env" id="FrontendMainMenu_m7_m1" class="link"><span class="text">Energy and Environment</span></a></li><li class="item"><a href="/?page=eu_policy" id="FrontendMainMenu_m7_m2" class="link"><span class="text">EU Science Policy</span></a></li><li class="item"><a href="/?page=edu_policy" id="FrontendMainMenu_m7_m3" class="link"><span class="text">Physics Education Policy</span></a></li><li class="item"><a href="/?page=physics_research" id="FrontendMainMenu_m7_m4" class="link"><span class="text">Physics Research Policy</span></a></li><li class="item last"><a href="/?page=international_coop" id="FrontendMainMenu_m7_m5" class="link"><span class="text">International Cooperation</span></a></li>
+			</ul>
+		</div></li><li class="item last"><a href="/?page=resources" id="FrontendMainMenu_m8" class="link"><span class="text">Resources</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="/?page=faqs" id="FrontendMainMenu_m8_m0" class="link"><span class="text">Frequently asked questions</span></a></li><li class="item"><a href="/?page=member_queries" id="FrontendMainMenu_m8_m1" class="link"><span class="text">Membership Queries</span></a></li><li class="item"><a href="/?page=general_eps_docs" id="FrontendMainMenu_m8_m2" class="link"><span class="text">General EPS Documents</span></a></li><li class="item"><a href="/?page=video_tutorials" id="FrontendMainMenu_m8_m3" class="link"><span class="text">Video Tutorials</span></a></li><li class="item last"><a href="/?page=docs_links" id="FrontendMainMenu_m8_m4" class="link"><span class="text">Documents and Links</span></a></li>
+			</ul>
+		</div></li>
+	</ul><input type="hidden" id="FrontendMainMenu_Hidden" name="FrontendMainMenu" /><script type="text/javascript">window["FrontendMainMenu"] = RadMenu.Create("FrontendMainMenu");window["FrontendMainMenu"].Initialize({"EnableAutoScroll":true,"Skin":"YMPublic","Enabled":true},{});</script>
+</div></td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<table border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td id="CenterColumn">
+						<div id="HpMain">
+							<!--YMPSTITLE=RQB1AHIAbwBwAGUAYQBuACAAUABoAHkAcwBpAGMAYQBsACAAUwBvAGMAaQBlAHQAeQAgACgARQBQAFMAKQA6AGwAZQBhAGQAaQBuAGcAIABjAG8AbQBtAHUAbgBpAHQAeQAgAG8AZgAgAHAAaAB5AHMAaQBjAGkAcwB0AHMAIABpAG4AIABFAHUAcgBvAHAAZQA=/YMPSTITLE--><style><!--#col-1, #col-2, #col-3 { overflow:hidden;}#col-2, #col-3 { height:400!important;} .feed-container .content .item-list .item {
+    border-bottom: 2px solid #CCCCCC!important;
+    margin: 0 0 7px;
+    padding: 0 0 7px;
+    color:#000;
+}--></style><div class="PikaChoose"><div id="intro"><p>Welcome to the EPS website. <br>Created in 1968 the EPS is a not for profit association of physicists for physics. </p></div><ul id="pikame"><li><a href="http://www.epsnews.eu/2012/05/stachel-new-dpg-president/"><img src="/resource/resmgr/slideshow/image1.jpg"></a>Professor Johanna Stachel new DPG president<br></li><li><a href="http://www.europhysicsnews.org/"><img src="/resource/resmgr/slideshow/image2.jpg"></a>EPN issue 43-2 now released<br>Enrico Fermi fountain designated EPS Historic Site</li><li><a href="http://www.eps.org/blogpost/751263/143790/Enrico-Fermi-fountain-designated-EPS-Historic-Site"><img src="/resource/resmgr/slideshow/image3.jpg"></a>Second European Energy Conference<br></li><li><a href="http://www.eps.org/"><img src="/resource/resmgr/slideshow/image4.jpg"></a>EPS Council 2012<br></li></ul></div>
+
+<div id="col-1">
+<div id="col-1-header">
+<a href="/news/">News</a>
+</div>
+<div class="item1">
+<div id="news1" class="image">&nbsp;</div>
+<a href="/news/"><!-- start sw-rss-feed code --> 
+<script type="text/javascript"> 
+<!-- 
+rssfeed_url = new Array(); 
+rssfeed_url[0]="http://www.eps.org/resource/rss/news.rss";  
+rssfeed_frame_width="220"; 
+rssfeed_frame_height="350"; 
+rssfeed_scroll="off"; 
+rssfeed_scroll_step="6"; 
+rssfeed_scroll_bar="off"; 
+rssfeed_target="_blank"; 
+rssfeed_font_size="11"; 
+rssfeed_font_face="Arial"; 
+rssfeed_border="off"; 
+rssfeed_css_url="https://eps.site-ym.com/resource/resmgr/css/custom-eps.css"; 
+rssfeed_title="off"; 
+rssfeed_title_name=""; 
+rssfeed_title_bgcolor="#3366ff"; 
+rssfeed_title_color="#fff"; 
+rssfeed_title_bgimage="http://"; 
+rssfeed_footer="off"; 
+rssfeed_footer_name="rss feed"; 
+rssfeed_footer_bgcolor="#fff"; 
+rssfeed_footer_color="#333"; 
+rssfeed_footer_bgimage="http://"; 
+rssfeed_item_title_length="50"; 
+rssfeed_item_title_color="#005277"; 
+rssfeed_item_bgcolor="#fff"; 
+rssfeed_item_bgimage="http://"; 
+rssfeed_item_border_bottom="on"; 
+rssfeed_item_source_icon="off"; 
+rssfeed_item_date="off"; 
+rssfeed_item_description="on"; 
+rssfeed_item_description_length="100"; 
+rssfeed_item_description_color="#000"; 
+rssfeed_item_description_link_color="#005277"; 
+rssfeed_item_description_tag="off"; 
+rssfeed_no_items="0"; 
+rssfeed_cache = "51f7e5144b49ba8c67af877894ba6386"; 
+//--> 
+</script> 
+<script type="text/javascript" src="http://feed.surfing-waves.com/js/rss-feed.js"></script>  
+<!-- end sw-rss-feed code --></a>
+</div></div>
+
+<div id="col-2"><div id="col-2-header"><a href="/events/event_list.asp">EPS Events</a></div><div class="item1"><div id="events1" class="image">&nbsp;</div><script language="JavaScript" src="http://itde.vccs.edu/rss2js/feed2js.php?src=http%3A%2F%2Feps.site-ym.com%2Fresource%2Frss%2Fevents.rss&amp;chan=n&amp;num=3&amp;desc=90%3E1&amp;date=n&amp;targ=n" type="text/javascript"></script><a href="http://itde.vccs.edu/rss2js/feed2js.php?src=http%3A%2F%2Feps.site-ym.com%2Fresource%2Frss%2Fevents.rss&amp;chan=n&amp;num=3&amp;desc=90%3E1&amp;date=n&amp;targ=n&amp;html=y">View RSS feed</a></div></div>
+
+<div id="col-3"><div id="col-3-header"><a href="/?page=Activities">EPS Activities</a></div><div class="item1"><div id="activities1" class="image">&nbsp;</div><script language="JavaScript" src="http://itde.vccs.edu/rss2js/feed2js.php?src=http%3A%2F%2Feps.site-ym.com%2Fmembers%2Fblog_rss.asp%3Fid%3D751263%26rss%3D2K4cHr92&amp;chan=n&amp;num=3&amp;desc=90%3E1&amp;date=n&amp;targ=n" type="text/javascript"></script><a href="http://itde.vccs.edu/rss2js/feed2js.php?src=http%3A%2F%2Feps.site-ym.com%2Fmembers%2Fblog_rss.asp%3Fid%3D751263%26rss%3D2K4cHr92&amp;desc=90%3E1&amp;date=n&amp;targ=n&amp;html=y">View RSS feed</a></div></div>
+
+
+<div id="bottom-banner"><a href="/events/event_details.asp?id=185994"><img src="/resource/resmgr/home_images/bottom-banner.gif"></a></div></div>
+					</td>
+					<td id="RightRail1"><div id="RightRail2">
+					
+						<div id="QuickSearch">
+							<div id="QuickSearchHead">
+								Community Search</div>
+							<form id="QuickSearchForm" name="QuickSearchForm" action="/search/all.asp"><div id="QuickSearchFormInner1"><input class="small" type="text" name="bst" id="QuickSearchForm_bst" maxlength='50' value='Enter search criteria...'onfocus='QuickSearchForm_OnFocus();' onkeypress='DoOnCrKeyPress(event,QuickSearchForm_DoSubmit);'/></div>
+		                    <div id='QuickSearchFormInner2'><a href='#' id='QuickSearchSubmit'
+			                    onclick='return QuickSearchForm_DoSubmit();'>Search&nbsp;&raquo;</a></div>
+	                        </form>
+	                        <script language='JavaScript'>
+	                        function QuickSearchForm_DoSubmit()
+	                        {
+							var QuickSearchForm = document.QuickSearchForm;
+		                    if(QuickSearchForm)
+		                    {
+			                    ClearDefaultValue(QuickSearchForm.bst);
+			                    QuickSearchForm.submit();
+		                    }
+		                    return false;
+	                        }
+	                        function QuickSearchForm_OnFocus()
+	                        {
+		                    var element = document.getElementById("QuickSearchForm_bst");
+		                    ClearDefaultValue(element);
+	                        }
+	                        //Initialize the Search Autofill
+	                        (new AutoCompleteField('/global_engine/ajax/community_search_autofill.asp', true)).Init('QuickSearchForm_bst');
+	                        </script></div>
+
+						<div id="LoginFormOrProfileNav" class="ContentPanel_Style1">
+							<div class="ContentPanelHead">
+								Sign In</div>
+							<div class="ContentPanelText">
+								<form id='LoginForm' action='https://eps.site-ym.com/Login.aspx?returl=' method='post'><INPUT TYPE='hidden' NAME='ERR_u' VALUE='u|Username|20|1||0'><INPUT TYPE='hidden' NAME='ERR_p' VALUE='p|Password|20|1||0'><p><div id="LoginUserName">Username<br /><input class="small" type="text" name="u" size="20" maxlength="255" value=""/></div><div id="LoginPassword">Password<br />
+                        <input class="small" type="password" name="p" size="20" maxlength="64" autocomplete="off"></div></p>
+                        <p id="RememberMe"><input id="FrontendControls_RememberMe"
+                            type="checkbox" name="rememberme" value="true" checked><label
+                            for="FrontendControls_RememberMe">Remember Me</label></p>
+                        <p id="LoginSubmit"><input type="submit" name="btn_submitLogin" value="Sign In" class="formbutton">
+							<img class="securesubmit" src="/global_graphics/icons/securesubmit.png" title="Secured with SSL encryption." /></p><script>function fbLogin() { FB.login(function(response) { location.href = '/fbconnect/Login.aspx?fbAccTkn=' + response.authResponse.accessToken; } ); }</script><a href="javascript:fbLogin();"><img src="/global_graphics/icons/fb-connect.png" width="92" height="22" border="0" /></a></form><p id="LoginForgot"><a href='/general/email_pass.asp'>Forgot your password?</a></p><p id="LoginRegister"><a href='/general/register_start.asp'>Haven't registered yet?</a></p></div>
+						</div>
+
+						<table id="Surveys" border="0" cellpadding="0" cellspacing="0"
+							style="display:none; width:100%">
+						<tbody class="ContentPanel_Style4">
+						<tr>
+							<td class="ContentPanelHead">
+								Online Surveys</td>
+						</tr>
+						<tr>
+							<td><div class="ContentPanelText">
+									</div></td>
+						</tr>
+						</tbody></table>
+
+						<table id="FeaturedMembers" border="0" cellpadding="0" cellspacing="0"
+							style="display:none; width:100%">
+						<tbody class="ContentPanel_Style5">
+						<tr>
+							<td class="ContentPanelHead">
+								Featured Members</td>
+						</tr>
+						<tr>
+							<td class="ContentPanelText">
+								<p></p>
+							</td>
+						</tr>
+						</tbody></table>
+
+						<div id="RightRailContentArea">
+							<!--YMPSTITLE=TgBBAA==/YMPSTITLE--><div id="ContentPanelStyle7">
+<div class="ContentPanelHead">Publications</div>
+<div class="ContentPanelText">  <script language="JavaScript" src="http://itde.vccs.edu/rss2js/feed2js.php?src=http%3A%2F%2Feps.site-ym.com%2Fmembers%2Fblog_rss.asp%3Fid%3D751277%26rss%3DZ1ksyJbi&chan=n&num=3&desc=90>1&date=n&targ=n" type="text/javascript"></script>
+
+<noscript>
+<a href="http://itde.vccs.edu/rss2js/feed2js.php?src=http%3A%2F%2Feps.site-ym.com%2Fmembers%2Fblog_rss.asp%3Fid%3D751277%26rss%3DZ1ksyJbi&chan=n&num=3&desc=90>1&date=n&targ=n&html=y">View RSS feed</a>
+</noscript></div>
+</div>
+<div id="ContentPanelStyle8">
+<div class="ContentPanelHead">Physics Feed</div>
+<div class="ContentPanelText"><script language="JavaScript" src="http://itde.vccs.edu/rss2js/feed2js.php?src=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3Dae2d83817140191121dbde7771f91b95%26_render%3Drss+&chan=n&num=3&desc=90>1&date=n&targ=n" type="text/javascript"></script>
+
+<noscript>
+<a href="http://itde.vccs.edu/rss2js/feed2js.php?src=http%3A%2F%2Fpipes.yahoo.com%2Fpipes%2Fpipe.run%3F_id%3Dae2d83817140191121dbde7771f91b95%26_render%3Drss+&chan=n&num=3&desc=90>1&date=n&targ=n&html=y">View RSS feed</a>
+</noscript></div>
+</div></div>
+					</div></td>
+				</tr>
+			</table></td>
+		</tr>
+		<tr>
+			<td id="Foot">
+				<!--
+<div id="sm-icons"><a href="/"><img height="24" src="/graphics/ico-face.png" /></a><a href="/"><img height="24" src="/graphics/ico-feed.png" /></a><a href="/"><img height="24" src="/graphics/ico-twitter.png" /></a><a href="/"><img height="24" src="/graphics/ico-flick.png" /></a><a href="/"><img height="24" src="/graphics/ico-link.png" /></a></div>
+<!--footer --></td>
+		</tr>
+		</table>
+		
+		<div id="FooterContentArea">
+			<!--YMPSTITLE=RQB1AHIAbwBwAGUAYQBuACAAUABoAHkAcwBpAGMAYQBsACAAUwBvAGMAaQBlAHQAeQAgACgARQBQAFMAKQA=/YMPSTITLE--><div id="sm-icons">
+<a href="http://www.facebook.com/europeanphysicalsociety"><img src="/graphics/ico-face.png" height="24"></a>
+<a href="http://www.epsnews.eu/feed/"><img src="/graphics/ico-feed.png" height="24"></a>
+<a href="http://twitter.com/EuroPhysSoc"><img src="/graphics/ico-twitter.png" height="24"></a>
+<a href="http://gplus.to/europeanphysicalsociety"><img src="/resource/resmgr/buttons/gplus.png" height="24"></a>
+</div></div>
+		
+		<div id="Copyright">
+			Membership Management Software Powered by <a href='http://www.yourmembership.com/'>YourMembership.com<span style='font-size:11px'>&reg;</span></a> &nbsp;::&nbsp; <a href='/ams/legal-privacy.htm'>Legal/Privacy</a><!-- Copyright (c) 1998-2012 YourMembership.com Inc. All Rights Reserved. Copyright: Certain elements of this website are: Copyright (c) 1998-2012, YourMembership.com, Incorporated. YourMembership.com, Incorporated provides a limited license to use its Copyrights to the entity from whose web page you are viewing. Certain elements of this website may also be copyrighted by that entity; please see its Terms of Use or contact the organization for more information. General information about copyright laws can be found at: http://www.copyright.gov/. For more specific information, please consult an attorney. --></div>
+		
+		<div id="PageBase_RaiseAlert" class="yui-skin-sam"></div>
+		
+		<!-- 
+		!!! DO NOT REMOVE !!!
+		QA-www.eps.org
+		!!! DO NOT REMOVE !!!
+		-->
+		
+	</body>
+
+
+
+</html>
+<!--END_OF_FILE-->

@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+ <head profile="http://www.w3.org/2000/08/w3c-synd/#">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="keywords" content="Seguridad Social, Inmigraci&oacute;n, Emigraci&oacute;n, Subsecretar&iacute;a, Empleo, Directorio, Prensa, Informaci&oacute;n general, Bibliotecas, Publicaciones, Estad&iacute;sticas, Gu&iacute;a laboral, Paro, Desempleo, Afiliaci&oacute;n, Contrataci&oacute;n, Contratos, Empresario, Trabajo temporal, consejeria, Estados Unidos" />
+        <meta name="description" content="Sitio web del Ministerio de Empleo y Seguridad Social: Contiene la página web de la Consejería de Empleo en Estados Unidos" />
+        <meta name="Author" content="Ministerio de Empleo y Seguridad Social" />
+        <meta name="Copyright" content="Ministerio de Empleo y Seguridad Social. 2010" />
+        <meta name="robots" content="index, follow" />
+        <meta name="robots" content="all" />
+	<meta name="language" content="es" />
+
+        <title>Ministerio de Empleo y Seguridad Social: Consejería de Empleo en Estados Unidos</title>
+
+<link rel="apple-touch-icon" href="../../../img/favicon.ico"/>
+<link rel="shortcut icon" href="../../../img/favicon.ico" />
+<link rel="stylesheet" href="../../../../css/reset.css" type="text/css" />
+<link rel="stylesheet" href="../../../../css/layout.css" type="text/css" />
+<link rel="stylesheet" href="../../../../css/elements.css" type="text/css" />
+<link rel="stylesheet" href="../../../../css/formulario.css" type="text/css" />
+<link rel="stylesheet" href="../../../../css/contenidos.css" type="text/css" />
+<link rel="stylesheet" href="../../../../css/edit.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="../../../../css/impresion.css" media="print" />
+
+<script type="text/javascript" src="../../../../js/funciones.js"></script>
+
+<!--[if lte IE 7]>
+  	<link rel="stylesheet" type="text/css" href="../../../../css/ie.css" />
+<![endif]-->
+<!--[if IE 6]><script src="../../../../js/DD_belatedPNG.js"></script>
+<![endif]-->
+
+
+
+ </head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+	<div id="contenedor" class="es">
+		<ul class="enlaces-ocultos">
+			<li><a href="#contenidos" accesskey="0" title="Acceder directamente al contenido. Atajo: 0">Ir al contenido</a></li>
+			<li><a href="#menu-idiomas" accesskey="7" title="Cambiar idioma de la p&aacute;gina. Atajo: 7">Seleccionar idioma</a></li>
+			<li><a href="#content-busqueda" accesskey="8" title="Buscar en la p&aacute;gina. Atajo: 8">Ir al Buscador</a></li>
+			<li><a href="../../../extras/accesibilidad.htm" accesskey="9" title="Acceder a la p&aacute;gina de Accesibilidad. Atajo: 9">Accesibilidad</a></li>
+		</ul>
+		<div id="menu-idiomas">
+			<ul>
+				<li class="primero activo"><a href="../../../index.htm" hreflang="es" xml:lang="es" lang="es" title="Castellano">Bienvenido</a></li>
+				<li><a href="../../../../ca/index.htm" hreflang="ca" xml:lang="ca" lang="ca" title="Catal&aacute;">Benvingut</a></li>
+				<li><a href="../../../../eu/index.htm" hreflang="eu" xml:lang="eu" lang="eu" title="Euskara">Ongietorri</a></li>
+				<li><a href="../../../../gl/index.htm" hreflang="gl" xml:lang="gl" lang="gl" title="Galego">Benvido</a></li>
+				<li><a href="../../../../en/index.htm" hreflang="en" xml:lang="en" lang="en" title="English">Welcome</a></li>
+				<li><a href="../../../../fr/index.htm" hreflang="fr" xml:lang="fr" lang="fr" title="Fran&ccedil;ais">Bienvenue</a></li>
+			</ul>
+		</div>
+
+		
+			<div id="cabecera">
+		
+
+			<div id="logo">
+				<span><a href="../../../index.htm" hreflang="es" title="Ir a la p&aacute;gina principal">
+				<img src="../../../img/bg/logo.gif" alt="Gobierno de Espa&ntilde;a. Ministerio de Empleo y Seguridad Social" /></a></span>
+			</div>
+			<div id="buscador">
+				<form method="get" action="http://buscador.060.es/search" id="formulario-busqueda">
+        				<div id="content-busqueda">
+        					<div class="left-busqueda">        
+        						<div class="right-busqueda">                
+        							<div class="center-busqueda">        
+                							<label for="q">Palabra o frase</label>                
+                							<input type="text" tabindex="1" accesskey="t" id="q" value="" name="q"/>
+									<input type="image" tabindex="2" accesskey="b" id="buscar" name="buscar" value="Buscar" src="../../../img/bg/lupa.gif" alt="Buscar" title="Realizar b&uacute;squeda"/>
+									<input type="hidden" name="entqr" value="0"/>
+                							<input type="hidden" name="sort" value="date:D:L:d1"/>
+                							<input type="hidden" name="output" value="xml_no_dtd"/>
+                							<input type="hidden" name="site" value="TAS"/>
+                							<input type="hidden" name="client" value="mtin"/>
+                							<input type="hidden" name="hl" value="es"/>
+                							<input type="hidden" name="getfields" value="description"/>               
+                							<input type="hidden" name="ie" value="utf-8"/>
+                							<input type="hidden" name="oe" value="utf-8"/> 
+                							<input type="hidden" name="proxystylesheet" value="mtin"/>
+                							<p class="busqueda-avanzada">
+										<a tabindex="3" accesskey="a" title="B&uacute;squeda avanzada" href="http://buscador.060.es/search?entqr=0&amp;sort=date%3AD%3AL%3Ad1&amp;output=xml_no_dtd&amp;client=mtin&amp;hl=es&amp;ie=utf-8&amp;oe=UTF-8&amp;site=TAS&amp;getfields=description&amp;proxystylesheet=mtin&amp;access=p&amp;ud=1&amp;tipo=avanzada">B&uacute;squeda avanzada</a>
+									</p>
+        							</div>
+        						</div>        
+        					</div>                
+        				</div>
+				</form>
+			</div>
+		</div>
+		<div id="menu-principal">
+			<ul>
+				<li><a href="../../../index.htm" title="Ir a la p&aacute;gina de inicio. Atajo: 1" accesskey="1"><span>Inicio</span></a></li>
+				<li><a href="../../../seg_soc/index.htm" title="Acceder a Seguridad Social. Atajo: 2" accesskey="2"><span>Seguridad social</span></a></li>
+				<li><a href="../../../sec_trabajo/index.htm" title="Acceder a Empleo. Atajo: 4" accesskey="4"><span>Empleo</span></a></li>
+				<li><a href="../../../sec_emi/index.htm" title="Acceder a Inmigraci&oacute;n y Emigraci&oacute;n. Atajo: 3" accesskey="3"><span>Inmigraci&oacute;n y Emigraci&oacute;n</span></a></li>
+				<li><a href="../../../sec_sub/index.htm" title="Acceder a Salud laboral e Inspecci&oacute;n. Atajo: 5" accesskey="5"><span>Salud laboral e Inspecci&oacute;n</span></a></li>
+			</ul>
+			<p class="enlaces-ocultos"><a href="#acceso-tematico" title="Acceder directamente al menu de Acceso tem&aacute;tico. Atajo: 6" accesskey="6">Ir al men&uacute; Acceso tem&aacute;tico</a></p>
+		</div>
+
+
+
+
+
+
+
+
+<div id="contenidos">
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div>
+		<ul id="rastro">
+		<li><a title="Inicio" href="../../../index.htm">Inicio</a>&gt;</li><li><a href="../../index.htm" title="Ministerio en el mundo">Ministerio en el mundo</a>&gt;</li><li><a href="../index.htm" title="Consejerías y Secciones de Empleo y Seguridad Social">Consejerías y Secciones de Empleo y Seguridad Social</a>&gt;</li><li><strong>Consejería de Empleo y Seguridad Social en Estados Unidos</strong></li>
+
+          </ul>	
+      </div>
+   
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	<div id="columna-1-home">
+		<div class="fila">
+			
+
+
+<h1>
+	
+		
+
+
+
+
+Consejería de Empleo y Seguridad Social en Estados Unidos
+
+	
+</h1>
+
+<div id="columna-1-1-consejeria">
+			<div class="caja">
+				<div>
+					<div>
+						<div>
+							<div>	
+								<ul id="menuIzq">
+<li class="oculto"><a href="index.htm" title="Consejería de Empleo y Seguridad Social en Estados Unidos">Consejería de Empleo y Seguridad Social en Estados Unidos</a></li>
+               <li><a href="consejeria/index.htm" title="La Consejería">La Consejería</a></li>
+               
+               <li><a href="novedades/index.htm" title="Novedades">Novedades</a></li>
+               
+               <li><a href="emigracion/index.htm" title="La ciudadanía española en EEUU y Puerto Rico">La ciudadanía española en EEUU y Puerto Rico</a></li>
+               
+               <li><a href="pensiones/index.htm" title="Seguridad social, asistencia sanitaria y ayudas">Seguridad social, asistencia sanitaria y ayudas</a></li>
+               
+               <li><a href="igualdad/index.htm" title="Igualdad y violencia de género">Igualdad y violencia de género</a></li>
+               
+               <li><a href="retorno/index.htm" title="Retorno a España">Retorno a España</a></li>
+               
+               <li><a href="trabajo/index.htm" title="El trabajo de los extranjeros en España">El trabajo de los extranjeros en España</a></li>
+               
+               <li><a href="publicaciones/index.htm" title="Publicaciones y documentación sociolaboral">Publicaciones y documentación sociolaboral</a></li>
+               
+               <li><a href="trabajarResidir/index.htm" title="Trabajar y residir">Trabajar y residir</a></li>
+               
+               <li><a href="preguntas/index.htm" title="Preguntas más frecuentes">Preguntas más frecuentes</a></li>
+               
+               <li><a href="informacion/index.htm" title="Otras informaciones">Otras informaciones</a></li>
+               
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="columna-1-2-consejeria">
+
+				<div class="caja" id="contenidos-mtin">
+					<div>
+						<div>
+							<div>
+								<div>	
+									<p><img class="contenedor_barra_new1" alt="Imagen fachada Consejeria de EEUU" src="imagenes/embUSA_foto.gif" /></p><h2>Consejer&iacute;a de Empleo y Seguridad Social.</h2><ul class="lista_baja"><li><p><strong>Direcci&oacute;n:</strong></p><p><span lang="en">2375 Pennsylvania Ave., N.W.</span></p><p><span lang="en">Washington, D.C. 20037.</span></p></li><li><p><strong>Tel&eacute;fono:</strong> (1 202) 728-2331.</p></li><li><p><strong>Fax:</strong> (1 202) 822-3731.</p></li><li><p><strong>Correo electr&oacute;nico:</strong> <a class="texto_link_azul" title="Enlace a correo electr&oacute;nico" href="mailto:clusa@meyss.es">clusa@meyss.es</a></p></li><li><p><strong>Horario de apertura al p&uacute;blico:</strong></p><p>8:00 am a 3:30 pm de lunes a jueves</p><p>8:00 am a 2:00 pm viernes</p></li></ul><hr /><h2 class="JustifyCenter"><a title="Exposici&oacute;n virtual Spaniards. Se abre en ventana nueva" target="_blank" href="http://www.meyss.es/es/mundo/consejerias/eeuu/spaniards">Exposici&oacute;n virtual</a></h2><p class="JustifyCenter"><a title="Exposici&oacute;n virtual Spaniards. Se abre en ventana nueva" target="_blank" href="http://www.meyss.es/es/mundo/consejerias/eeuu/spaniards"><img alt="Exposici&oacute;n virtual Spaniards. Se abre en ventana nueva" src="documentos/cartel.gif" /></a></p><p>&nbsp;</p><p>&nbsp;</p><p>La Exposici&oacute;n organizada por esta Consejer&iacute;a de Trabajo e Inmigraci&oacute;n sobre &quot;Los espa&ntilde;oles en Estados Unidos y Puerto Rico desde 1880 hasta nuestros d&iacute;as&quot; se ha exhibido en la Embajada de Espa&ntilde;a en Washington durante cuatro meses desde el pasado 4 de marzo. Despu&eacute;s ha podido visitarse en Miami, desde donde se est&aacute; trasladando a San Juan de Puerto Rico, para&nbsp;mostrarse &nbsp;en la Casa de Espa&ntilde;a en Puerto Rico (Avenida Constituci&oacute;n 9)</p>
+									<p class="JustifyCenter">&Uacute;ltima actualizaci&oacute;n:&nbsp;28 de junio de 2012</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+<div id="columna-2-home">
+	
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<div id="enlaces-directos">
+					<ul>
+						<li class="actualidad"><div><div><a title="Actualidad. Sala de prensa" href="http://prensa.empleo.gob.es">Actualidad <span>sala de prensa</span></a></div></div></li>
+					</ul>
+				</div>
+	
+
+	
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<div id="acceso-tematico">
+					<div>
+						<h1><span>Destacados</span></h1>
+						<h2>El Ministerio</h2>
+						<ul class="sep">
+							<li><a title="La Ministra" href="../../../extras/ministro/ministro.htm">La Ministra<img src="../../../img/titular.jpg" alt="F&aacute;tima B&aacute;&ntilde;ez Garc&iacute;a" /></a></li>
+							<li><a title="Organizaci&oacute;n Administrativa" href="../../../organizacion/index.htm">Organizaci&oacute;n Administrativa</a></li>
+							<li><a title="El Ministerio en el mundo" href="../../index.htm">El Ministerio en el mundo</a></li>
+						</ul>
+						<h2>M&aacute;s Informaci&oacute;n</h2>
+						<ul class="sep">
+							<li><a title="Legislaci&oacute;n" href="../../../sec_leyes/index.htm">Legislaci&oacute;n</a></li>
+							<li><a title="Publicaciones" href="../../../publica/index.htm">Publicaciones</a></li>
+							<li><a title="Estudios, Bibliotecas y Archivos" href="../../../sec_bep/index.htm">Estudios, Bibliotecas y Archivos</a></li>
+							<li><a title="Estad&iacute;sticas" href="../../../estadisticas/index.htm">Estad&iacute;sticas</a></li>
+                                                        <li><a title="Igualdad de G&eacute;nero" href="../../../igualdad/index.htm">Igualdad de G&eacute;nero</a></li>
+                                                        <li><a title="Patrimonio Sindical Acumulado" href="../../../informacion/patrimonio/index.htm">Patrimonio Sindical Acumulado</a></li>
+                                                        <li><a title="Informaci&oacute;n m&aacute;s solicitada" href="../../../informacion/index.htm">Informaci&oacute;n m&aacute;s solicitada</a></li>
+						</ul>
+						<h2>Enlaces</h2>
+						<ul>
+							<li><a title="Otras Organizaciones e Instituciones" href="../../../enlaces/enlace-agentes-sociales.htm">Otras Organizaciones e Instituciones</a></li>
+							<li><a title="Comunidades Aut&oacute;nomas y Entidades Locales" href="../../../enlaces/enlaces-comunidades.htm">Comunidades Aut&oacute;nomas y Entidades Locales</a></li>
+							<li><a title="Uni&oacute;n Europea" href="../../../enlaces/enlaces-unioneuropea.htm">Uni&oacute;n Europea</a></li>
+						</ul>
+					</div>
+				</div>
+	
+</div>
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="banners">
+	<ul>
+		<li><a href="http://www.integralocal.es" title="Ir a la web de Integra"><img src="../../../img/banners/integra.jpg" alt="Integraci&oacute;n de inmigrantes para entidades locales" /></a></li>
+		<li><a href="../../../sec_trabajo/debes_saber/pnr/index.htm" title="Ir a la web del Programa Nacional de Reformas"><img src="../../../img/banners/pnr.jpg" alt="Programa Nacional de Reformas. Estrategia de Lisboa" /></a></li>
+		<li><a href="http://www.060.es" title="Ir a la web del 060"><img src="../../../img/banners/060.jpg" alt="060, para los ciudadanos" /></a></li>
+	</ul>
+</div>
+	
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		<div id="pie">
+			<ul>
+				<li class="primero"><a title="Accesibilidad" href="../../../extras/accesibilidad.htm">Accesibilidad</a></li>
+				<li><a title="Aviso legal" href="../../../extras/avisolegal.htm">Aviso legal</a></li>
+				<li><a title="Mapa web" href="../../../extras/mapaweb.htm">Mapa web</a></li>
+			</ul>
+		</div>
+	</div>
+
+<!-- google analytics -->
+<script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+   try {
+      var pageTracker = _gat._getTracker("UA-8593423-1");
+      pageTracker._trackPageview();
+   } catch(err) {}
+</script>
+<!-- fin google analytics -->
+
+</body>
+</html>
+

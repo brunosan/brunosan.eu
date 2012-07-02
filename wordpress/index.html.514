@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="iso-8859-1"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Sociedad Astronomica Omega - Inicio</title>
+<meta name="description" content="Sociedad Astronomica Omega - Observatorio de Gijon" />
+<meta name="keywords" content="astronomia, Omega, astro, estrella, sociedad, astronomica, Gijon" />
+<meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved." />
+<meta name="robots" content="index, follow" />
+			<link rel="alternate" type="application/rss+xml" title="Sociedad Astronomica Omega" href="http://www.saaomega.com//index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" />
+				<link rel="shortcut icon" href="http://www.saaomega.com//images/favicon.ico" />
+	<link href="http://www.saaomega.com//templates/omega3/css/template_css.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="http://www.saaomega.com//templates/omega3/images/favicon.ico" />
+</head>
+<body class="page_bg">
+<a name="up" id="up"></a>
+<div align="center" >
+	<table width="100%" border="0" cellpadding="0" cellspacing="0" class="big_frame">
+	<tr>
+		<td colspan="3">
+		<img src="http://www.saaomega.com//templates/omega3/images/top_bar.jpg" width="798" height="9" alt=""/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" class="header">
+<center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0"
+  id="saturno" width="646" height="111">
+  <param name="movie" value="saturno2.swf">
+  <param name="quality" value="high">
+  <param name="bgcolor" value="#000000">
+  <embed name="saturno" src="saturno2.swf" quality="high" bgcolor="#000000"
+    width="646" height="111"
+    type="application/x-shockwave-flash"
+    pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+  </embed>
+</object>
+</center>
+
+		</td>
+		<td class="top_right_box" style="width: 151px; padding-left: 5px;" valign="top">
+			<table cellpadding="0" cellspacing="1" border="0" width="120" class="contentpaneopen">
+			<tr>
+				<td class="contentheading" width="145">
+				Search
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<form action='index.php' method='post'>
+				<div class="searchblock" id="searchblock">
+				Enter Keywords:
+				<input size="15" class="inputbox" type="text" name="searchword" style="width:128px;" value="search..."  onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';" />
+				<input type="hidden" name="option" value="search" />
+					<div align="left">
+					<input type="submit" value="GO" class="button" style="width:35px;" />
+					</div>
+				</div>
+				</form>
+				</td>
+			</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3" class="silver_box" style="height:26px;">
+		<div id="silver_toolbar">
+			<div id="silver_date">
+			lunes, 02 de julio de 2012			</div>
+			<div id="silver_menu">
+					<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				<ul id="mainlevel-nav"><li><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=view&amp;id=5&amp;Itemid=36" class="mainlevel-nav" >La Asociación</a></li><li><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=view&amp;id=52&amp;Itemid=59" class="mainlevel-nav" >Hacerte socio</a></li><li><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=view&amp;id=54&amp;Itemid=50" class="mainlevel-nav" >Cómo llegar...</a></li><li><a href="http://www.saaomega.com//index.php?option=com_contact&amp;task=view&amp;contact_id=1&amp;Itemid=30" class="mainlevel-nav" >Contacto</a></li></ul>			</td>
+		</tr>
+		</table>
+					</div>
+			<div style="clear: both;"></div>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td valign="top" class="content_box">
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr valign="top">
+				<td>
+				<!-- main content area -->
+				<div class="contentblock" id="contentblock" style="width:484">
+					<span class="pathway">Inicio </span>					<br />
+					<table class="blog" cellpadding="0" cellspacing="0"><tr><td valign="top"><div>	
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<div align="center"><img src="http://www.saaomega.com//images/stories/cartel_saomega_brillo_patrocinadores 2011 b.jpg" width="420" height="570" hspace="6" alt="Image" title="Image" border="0" /><br /></div>			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</div></td></tr></table>					<br />
+				</div>
+									<div class="footerblock" id="footerblock">
+							<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				<p style="text-align:justify;"><a href="index.php?option=com_search&searchword=chandrayaan&searchphrase=exact&ordering=newest" style="font-size: 20px; line-height: 30px;">chandrayaan</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=comprender&searchphrase=exact&ordering=newest" style="font-size: 20px; line-height: 30px;">comprender</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=instrumento&searchphrase=exact&ordering=newest" style="font-size: 22px; line-height: 30px;">instrumento</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=instrumentos&searchphrase=exact&ordering=newest" style="font-size: 26px; line-height: 30px;">instrumentos</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=observaciones&searchphrase=exact&ordering=newest" style="font-size: 23px; line-height: 30px;">observaciones</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=observaci%F3n&searchphrase=exact&ordering=newest" style="font-size: 27px; line-height: 30px;">observación</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=observatorio&searchphrase=exact&ordering=newest" style="font-size: 41px; line-height: 30px;">observatorio</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=presidente&searchphrase=exact&ordering=newest" style="font-size: 42px; line-height: 30px;">presidente</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=secretario&searchphrase=exact&ordering=newest" style="font-size: 29px; line-height: 30px;">secretario</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=siguientes&searchphrase=exact&ordering=newest" style="font-size: 20px; line-height: 30px;">siguientes</a>&nbsp;&nbsp;
+<a href="index.php?option=com_search&searchword=telescopio&searchphrase=exact&ordering=newest" style="font-size: 20px; line-height: 30px;">telescopio</a>&nbsp;&nbsp;
+</p>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				
+<!-- ### Module NewsFlash Scroller v2.2 (13.10.2004) ### -->
+
+<table class="moduletable" border="0" cellpadding="0" cellspacing="0" onmouseover="NFstopScroller26383();" onmouseout="NFstartScroller26383();">
+<tr valign="TOP">
+<td>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					Mentiras Marcianas									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<p>&nbsp;Hace tiempo que circula por la web una mentira marciana...</p><p>Hay quien pretende hacer creer al p&uacute;blico general que vamos a ver a Marte tan grande como la Luna. Para los aficionados a la astronom&iacute;a esto nos resulta un chiste, pero alg&uacute;n profano lleg&oacute; a levantar la vista para buscar a Marte en los d&iacute;as se&ntilde;alados.</p><p>Adjuntamos la presentaci&oacute;n enviada por Eva del Riego... para &quot;echar unas risas&quot;... </p><p>&nbsp;</p><p><a href="http://www.saaomega.com/images/presentaciones/7_24_47%20marte.pdf">MARTE (El enlace descargar&aacute; un fichero pdf)</a>  </p>			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td></tr><tr valign="TOP">
+<td>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					Nueva "Foto del Día" de la AAPOD									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<p>Espectacular astrofotograf&iacute;a de Delio y Kike (SAAOMEGA) que se ha merecido el reconocimiento de la AAPOD</p><p>Pinchar en el enlace siguiente:</p><p><a href="http://aapod.astronomy.fm/2012-04-24_The-Proximities-of-Alnitak.html">&nbsp;http://aapod.astronomy.fm/2012-04-24_The-Proximities-of-Alnitak.html </a> </p>			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td></tr><tr valign="TOP">
+</tr></table>
+
+<!-- ### END : Module NewsFlash Scroller v2.2 (13.10.2004) ### -->
+
+
+
+
+
+
+			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				
+<!-- ### Module NewsFlash Scroller v2.2 (13.10.2004) ### -->
+
+<table class="moduletable" border="0" cellpadding="0" cellspacing="0" onmouseover="NFstopScroller2225();" onmouseout="NFstartScroller2225();" bgcolor="4">
+<tr valign="TOP">
+<td>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					Artículo - El Comercio									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<p>Enlace a El Comercio Digital, con un interesante reportaje sobre nuestra sociedad:</p><p><a href="http://servicios.elcomercio.es/24asturias/" target="_blank">ASTURIAS SE MIDE EN A&Ntilde;OS LUZ </a> </p>			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td></tr><tr valign="TOP">
+<td>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					El mejor lugar de la Tierra para observar									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<h3 class="post-title entry-title"> <a href="http://fogonazos.blogspot.com/2009/09/encuentran-el-mejor-lugar-de-la-tierra.html">Hallan el mejor lugar de la Tierra para ver las estrellas</a> </h3> <div id="post-labels"> 01 septiembre 2009</div>   <div id="post-6852720766101321506" class="post-body"> <div style="text-align: center"><a href="http://www.wired.com/wiredscience/2009/08/bestplaceonearth"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 500px; height: 308px" src="http://farm3.static.flickr.com/2598/3876442568_48e01bfc38.jpg" border="0" alt="" /></a></div><br />Y no est&aacute; lo que se dice a tiro de piedra. El sitio en cuesti&oacute;n se encuentra a <span style="font-weight: bold">4.053 metros de altitud en mitad de la Ant&aacute;rtida</span>, a unos 950 kil&oacute;metros del Polo Sur y en un lugar tan apartado de la civilizaci&oacute;n que <span style="font-weight: bold">a&uacute;n no ha sido pisado por el hombre</span>.<br /><br />Un equipo de investigadores estadounidenses y australianos acaba de cruzar todos los datos de sat&eacute;lites y estaciones atmosf&eacute;ricas para determinar que este lugar, en <span style="font-weight: bold">la denominada Ridge A,</span> ofrece las condiciones ideales para observar el universo desde nuestro planeta</div>			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td></tr><tr valign="TOP">
+<td>			<table class="contentpaneopen">
+			<tr>
+								<td class="contentheading" width="100%">
+					El Regreso del Hubble									</td>
+							</tr>
+			</table>
+			
+		<table class="contentpaneopen">
+				<tr>
+			<td valign="top" colspan="2">
+				<h3 class="post-title entry-title"> <a href="http://www.astrofotos.com.es/2009/09/nuevas-imagenes-del-hubble.html">Nuevas Im&aacute;genes del Hubble</a> </h3> <h2 class="date-header">Viernes, 11 de septiembre de 2009</h2>   <a href="http://3.bp.blogspot.com/_Tb-Pi1ROtjg/SqmdJUfa75I/AAAAAAAABnA/frCGbKoEoF8/s1600-h/384569.jpg"><img id="BLOGGER_PHOTO_ID_5380004013315649426" style="margin: 0px 10px 10px 0px; width: 171px; float: left; height: 219px" src="http://3.bp.blogspot.com/_Tb-Pi1ROtjg/SqmdJUfa75I/AAAAAAAABnA/frCGbKoEoF8/s320/384569.jpg" border="0" alt="" /></a> El <a href="http://hubblesite.org/">Telescopio Espacial Hubble</a> de la NASA est&aacute; de vuelta y con nuevos instrumentos, dispuesto a descubrir nuevos mundos, observar vez m&aacute;s profundo en el espacio, e incluso trazar un mapa de la estructura del universo invisible. Las primeras instant&aacute;neas del Hubble, muestran una nueva visi&oacute;n del universo, despu&eacute;s de la <a href="http://www.astrofotos.com.es/2009/05/hubble-renovado-buscara-de-los.html">misi&oacute;n de reparaci&oacute;n del telescopio</a> tras 19 a&ntilde;os en funcionamiento. Encabezando la lista de los nuevos puntos de vista, destacan los m&uacute;ltiples coloridos en diferentes longitudes de onda, de galaxias lejanas, un c&uacute;mulo de estrellas, un misterioso &quot;pilar de la creaci&oacute;n,&quot; y la nebulosa de la &quot;mariposa&quot; entre otros objetos celestes.<br /><br /><br />Imagen propiedad: NASA, ESA, and the Hubble SM4 ERO Team<br /><br />Fuente: <a href="http://www.nasa.gov/mission_pages/hubble/science/ero_images.html">NASA</a>			</td>
+		</tr>
+				</table>
+
+		<span class="article_seperator">&nbsp;</span>
+
+		</td></tr><tr valign="TOP">
+</tr></table>
+
+<!-- ### END : Module NewsFlash Scroller v2.2 (13.10.2004) ### -->
+
+
+
+
+
+
+			</td>
+		</tr>
+		</table>
+							<br />
+					</div>
+									</td>
+			</tr>
+			</table>
+		</td>
+					<td valign="top" class="middle_box" width="151" style="width:151px">
+			<div id="middle_box">
+									<div class="rightblock" id="rightblock" style="width:145px">
+							<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Calendario				</th>
+			</tr>
+					<tr>
+			<td>
+				<link href="modules/mod_events_cal.css" rel="stylesheet" type="text/css" />
+<table width="140">
+<tr><td class="mod_events_monthyear">
+<div align="center">Julio 2012</div>
+</td></tr></table>
+<table class="mod_events_table" cellspacing="0" cellpadding="2" ><tr class="mod_events_dayname">
+<td class="mod_events_td_dayname">L</td>
+<td class="mod_events_td_dayname">M</td>
+<td class="mod_events_td_dayname">X</td>
+<td class="mod_events_td_dayname">J</td>
+<td class="mod_events_td_dayname">V</td>
+<td class="mod_events_td_dayname">S</td>
+<td class="mod_events_td_dayname"><font color="red">D</font></td>
+</tr><tr>
+<td class="mod_events_td_dayoutofmonth">25</td><td class="mod_events_td_dayoutofmonth">26</td><td class="mod_events_td_dayoutofmonth">27</td><td class="mod_events_td_dayoutofmonth">28</td><td class="mod_events_td_dayoutofmonth">29</td><td class="mod_events_td_dayoutofmonth">30</td><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=01&amp;Itemid=1">1</a></td>
+</tr>
+<tr><td class="mod_events_td_todaynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=02&amp;Itemid=1">2</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=03&amp;Itemid=1">3</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=04&amp;Itemid=1">4</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=05&amp;Itemid=1">5</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=06&amp;Itemid=1">6</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=07&amp;Itemid=1">7</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=08&amp;Itemid=1">8</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=09&amp;Itemid=1">9</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=10&amp;Itemid=1">10</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=11&amp;Itemid=1">11</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=12&amp;Itemid=1">12</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=13&amp;Itemid=1">13</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=14&amp;Itemid=1">14</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=15&amp;Itemid=1">15</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=16&amp;Itemid=1">16</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=17&amp;Itemid=1">17</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=18&amp;Itemid=1">18</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=19&amp;Itemid=1">19</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=20&amp;Itemid=1">20</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=21&amp;Itemid=1">21</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=22&amp;Itemid=1">22</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=23&amp;Itemid=1">23</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=24&amp;Itemid=1">24</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=25&amp;Itemid=1">25</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=26&amp;Itemid=1">26</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=27&amp;Itemid=1">27</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=28&amp;Itemid=1">28</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=29&amp;Itemid=1">29</a></td>
+</tr>
+<tr><td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=30&amp;Itemid=1">30</a></td>
+<td class="mod_events_td_daynoevents"><a class="mod_events_daylink" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_day&amp;year=2012&amp;month=07&amp;day=31&amp;Itemid=1">31</a></td>
+<td class="mod_events_td_dayoutofmonth">1</td>
+<td class="mod_events_td_dayoutofmonth">2</td>
+<td class="mod_events_td_dayoutofmonth">3</td>
+<td class="mod_events_td_dayoutofmonth">4</td>
+<td class="mod_events_td_dayoutofmonth">5</td>
+</tr></table><table width="140"><tr><td class="mod_events_thismonth" align="center">
+<a class="mod_events_link" href="http://www.saaomega.com//index.php?option=com_events&amp;task=view_month&amp;Itemid=1&amp;month=07&amp;year=2012">Este mes</a>
+</td></tr>
+</table>
+			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Más Allá el AIA-IYA2009				</th>
+			</tr>
+					<tr>
+			<td>
+				<a href="http://www.astronomia2009.es/"><img src="http://www.saaomega.com/images/stories/iya_logo_beyond-spanish.jpg" alt="Enlace AIA" title="M&aacute;s All&aacute; el AIA-IYA2009" width="95" height="166" /></a> 			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					La luna hoy				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<script language="JavaScript">
+function mInfo() { // Creates a Moon info_popup window
+var child = window.open ("http://www.saaomega.com//modules/mod_topotmoon/moon_info.php?lang=spanish&type=default&chge_pop=1&cmstr=http://help.mamboserver.com&iso=charset=iso-8859-1","mooninfo","alwaysRaised=1,dependent=1,width=640,height=480,location=0,menubar=0,resizable=0,scrollbars=0,status=0,titlebar=0,toolbar=0,screenX=0,left=0,screenY=0,top=0");
+if (child.focus) child.focus();
+
+// Creates a project's popup window
+function mPj() {
+var pj = self.parent.open ("http://mamboforge.net/projects/topotmoon","moonproject");
+self.close();
+}
+}
+</script><table width="73px" align="center" style="background-color: rgb(0, 0, 0); color:rgb(7,7,7); border: 4px rgb(250, 250, 255); border-style: groove ridge ridge groove;  background: url(http://www.saaomega.com//modules/mod_topotmoon/images/backg.png) repeat;">
+<tbody><tr><td><table width="100%">
+<tbody><tr><td ><center style="color: rgb(255, 255, 255);"><a href="javascript: mInfo()" title="Click here for more data" style="font:bold 10px sans-serif; color:rgb(255, 255, 255);">"Waxing Gibbous"</a><br>
+<a href="javascript: mInfo()" title="Click here for more data" style="font:bold 10px sans-serif; color:rgb(255, 255, 255);"><img style='margin-top:2px; border:none; margin-bottom:-2px;' alt='The Moon is "Waxing Gibbous"' title='The Moon is "Waxing Gibbous"' src='modules/mod_topotmoon/images/28a.gif'></a></center>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Marte en ·3D				</th>
+			</tr>
+					<tr>
+			<td>
+				<p><font face="Arial" color="#ffffff">V&iacute;deo creado por profesores y al&uacute;mnos del &Aacute;rea de Expresi&oacute;n Gr&aacute;fica en la Ingenier&iacute;a de la Universidad de Oviedo con la colaborac&iacute;on de socios de la Sociedad Astron&oacute;mica Asturiana OMEGA y Aula de Astronom&iacute;a <br /><a href="http://156.35.172.16/test/videoMarte3D.php" target="_blank"><img src="images/stories/marte3d%20126x40.jpg" alt="Video 3D de Marte" title="Video 3D de Marte" width="126" height="40" /></a></font></p><p>&nbsp;</p>			</td>
+		</tr>
+		</table>
+							</div>
+										<div class="user2block" id="user2block" style="width:143px">
+							<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Lo más leí­do				</th>
+			</tr>
+					<tr>
+			<td>
+				<ul class="mostread">
+ 	<li class="mostread">
+		<a href="http://www.saaomega.com//index.php?option=com_content&amp;task=view&amp;id=23&amp;Itemid=32" class="mostread">
+			Manual Práctico de Astronomí­a con CCD</a>
+ 	</li>
+ 	 	<li class="mostread">
+		<a href="http://www.saaomega.com//index.php?option=com_content&amp;task=view&amp;id=27&amp;Itemid=38" class="mostread">
+			Lista de lanzamientos</a>
+ 	</li>
+ 	 	<li class="mostread">
+		<a href="http://www.saaomega.com//index.php?option=com_content&amp;task=view&amp;id=21&amp;Itemid=32" class="mostread">
+			Astronomí­a</a>
+ 	</li>
+ 	 	<li class="mostread">
+		<a href="http://www.saaomega.com//index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=32" class="mostread">
+			Hombres en el Espacio</a>
+ 	</li>
+ 	 	<li class="mostread">
+		<a href="http://www.saaomega.com//index.php?option=com_content&amp;task=view&amp;id=16&amp;Itemid=32" class="mostread">
+			EINSTEIN: El hombre y su obra.</a>
+ 	</li>
+ 	</ul>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					NASA: Imagen del dí­a				</th>
+			</tr>
+					<tr>
+			<td>
+				<script language="javascript">
+function openImageWin(imageName){
+var imageWin = window.open("","WallPaper","status=0,toolbar=0,location=0,menubar=0,scrollbars=1");
+imageWin.document.open();
+
+imageWin.document.writeln("<html><head><title>Wallpaper Image</title><BODY bgcolor='#000000' text='#FFFFFF'><table width='700' border='0' cellspacing='0' cellpadding='1'>  <tr align='left' valign='top'>     <td><p align='center'><font color='#FFFFFF' size='2' face='Arial, Helvetica, sans-serif'><b>WINDOWS:</b></font></p>      <ol>        <li><font size='2' color='#FFFFFF' face='Arial, Helvetica, sans-serif'>Right-click on           the image and click 'Set as Background'</font></li>      </ol></td>    <td><p align='center'><font color='#FFFFFF' size='2' face='Arial, Helvetica, sans-serif'><b>MAC         OS X:</b></font></p>      <ol>        <li><font size='2' color='#FFFFFF' face='Arial, Helvetica, sans-serif'>Drag the image           off onto your desktop</font></li>        <li><font size='2' color='#FFFFFF' face='Arial, Helvetica, sans-serif'> Go to system preferences</font></li>        <li><font size='2' color='#FFFFFF' face='Arial, Helvetica, sans-serif'> Go to the Desktop          icons and open it</font></li>        <li><font size='2' color='#FFFFFF' face='Arial, Helvetica, sans-serif'> Choose the 'Collection'           drop down and 'Choose Folder' to find the new wallpaper on your computer</font></li>      </ol></td>    <td><p align='center'><font color='#FFFFFF' size='2' face='Arial, Helvetica, sans-serif'><b>MAC         OS 9:</b></font></p>    <ol>        <li><font size='2' color='#FFFFFF' face='Arial, Helvetica, sans-serif'>Drag the image           off onto your desktop</font></li>        <li><font size='2' color='#FFFFFF' face='Arial, Helvetica, sans-serif'>Go to your control           panel and choose 'Appearance'</font></li>        <li><font size='2' color='#FFFFFF' face='Arial, Helvetica, sans-serif'>Click 'Set Desktop'           and choose the newly downloaded image on your desktop</font></li>      </ol></td>  </tr></table><br><div align='center'><img src='"+imageName+"' width='800' height='600'  border='1'> </div></body></html>");
+
+imageWin.document.close();
+}
+</script>
+
+<table width="100%" border="0" cellspacing="5" style="text-align:Left"><tr><td colspan="3"><a href="http://www.nasa.gov/multimedia/imagegallery/image_feature_2997.html" target="_BLANK">Picture Perfect Landing</a></td></tr><tr><td colspan="3"><img src="" height="102" width="135" border="1" alt="NASA Image Of The Day" title="NASA Image Of The Day"></td></tr><tr><td colspan="3">The Soyuz TMA-03M spacecraft is seen as it lands with Expedition 31 Commander Oleg Kononenko of Russia and Flight Engineers Don Pettit of NASA and Andre Kuipers of the European Space Agency in a remote area near the town of Zhezkazgan, Kazakhstan, on Sunday, July 1, 2012. Pettit, Kononenko and Kuipers returned from more than six months onboard the International Space Station where they served as members of the Expedition 30 and 31 crews. Image Credit: NASA/Bill Ingalls...</td></tr><tr><td colspan="3">01 Jul 2012</td></tr><tr><td><a href="javascript:openImageWin('800-600.jpg')">800x600</a></td><td><a href="javascript:openImageWin('1024-768.jpg')">1024x768</a></td></tr></table>			</td>
+		</tr>
+		</table>
+							</div>
+								</div>
+			</td>
+					<td valign="top" class="right_box" width="151" style="width: 151px">
+		<div id="right_box">
+			<!-- far right menu -->
+			<div class="leftblock" id="leftblock" style="width:143px">
+					<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_frontpage&amp;Itemid=1" class="mainlevel" id="active_menu">Inicio</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=section&amp;id=4&amp;Itemid=38" class="mainlevel" >Proyectos</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=blogsection&amp;id=6&amp;Itemid=9" class="mainlevel" >Boletines y Artí­culos</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=blogcategory&amp;id=30&amp;Itemid=53" class="mainlevel" >Notas de prensa</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=blogcategory&amp;id=31&amp;Itemid=54" class="mainlevel" >Divulgación</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_zoom&amp;Itemid=52" class="mainlevel" >Galería</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=section&amp;id=3&amp;Itemid=32" class="mainlevel" >Biblioteca</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_weblinks&amp;Itemid=23" class="mainlevel" >Enlaces</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_search&amp;Itemid=5" class="mainlevel" >Búsqueda avanzada</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_wrapper&amp;Itemid=60" class="mainlevel" >El cielo</a></td></tr>
+<tr align="left"><td><a href="http://www.saaomega.com//index.php?option=com_content&amp;task=blogcategory&amp;id=37&amp;Itemid=67" class="mainlevel" >Próximas actividades SAA OMEGA</a></td></tr>
+</table>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+				<tr>
+			<td>
+				<div align="center"><a href="http://www.observatoriomontedeva.com/" target="_blank" title="Observatorio Monte Deva"><img src="http://omega.b2bi.es/images/stories/imagenes/obmdeva.jpg" border="1" alt="Observatorio Monte Deva" title="Observatorio Monte Deva" width="130" height="114" align="absmiddle" /></a><br /></div>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					El Tiempo				</th>
+			</tr>
+					<tr>
+			<td>
+				<table border="0" cellspacing="0" style="border-collapse: collapse;" align="center" width="99%">
+  <tr>
+    <td colspan="2" align="center" style="border-bottom: 1px solid #CCCCCC;">
+      <div align="center"><strong>Gijon, Spain</strong></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center" valign="middle"><img src="http://www.saaomega.com//components/com_eweather/images/default/small/34.png" alt="" border="0"></div>
+    </td>
+    <td valign="top">
+      <table border="0" style="margin: 0px; padding: 0px;" cellspacing="0" cellpadding="0" width="99%" align="center">
+        <tr>
+          <td style="margin: 0px; padding: 0px; text-align: left;">
+            <strong>Temp.:</strong>
+          </td>
+          <td style="margin: 0px; padding: 0px; text-align: right;">
+            15°C
+          </td>
+        </tr>
+        <tr>
+          <td style="margin: 0px; padding: 0px; text-align: left;">
+            <strong>Sens. Térmica:</strong>
+          </td>
+          <td style="margin: 0px; padding: 0px; text-align: right;">
+            15°C
+          </td>
+        </tr>
+        <tr>
+          <td style="margin: 0px; padding: 0px; text-align: left;">
+            <strong>Humedad:</strong>
+          </td>
+          <td style="margin: 0px; padding: 0px; text-align: right;">
+            82%
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<table border="0" cellspacing="0" style="border-collapse: collapse;" align="center" width="99%">
+  <tr>
+    <td valign="top">
+      <table border="0" style="margin: 0px; padding: 0px;" cellspacing="0" cellpadding="0" width="99%" align="center">
+        <tr>
+          <td style="margin: 0px; padding: 0px; text-align: left;">
+            <strong>Velocidad:</strong>
+          </td>
+          <td style="margin: 0px; padding: 0px; text-align: right;">
+            3&nbsp;km/h
+          </td>
+        </tr>
+        <tr>
+          <td style="margin: 0px; padding: 0px; text-align: left;">
+            <strong>Direcc.:</strong>
+          </td>
+          <td style="margin: 0px; padding: 0px; text-align: right;">
+            0°
+          </td>
+        </tr>
+        <tr>
+          <td style="margin: 0px; padding: 0px; text-align: left;">
+            <strong>Barom.:</strong>
+          </td>
+          <td style="margin: 0px; padding: 0px; text-align: right;">
+            1020.0&nbsp;mb
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <div align="center"><img src="http://www.saaomega.com//components/com_eweather/images/default/winddirs_small/wind_VAR.gif" alt="" border="0"></div>
+      <div align="center"><strong>VAR</strong></div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border-top: 1px solid #CCCCCC; text-align: center; padding-top: 8px; float: none;" align="center">
+      <a class="button" style="float: none;" href="index.php?option=com_eweather&Itemid=63">Más detalles</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="right" style="padding-top: 15px;">
+      <div align="right"><font class="small">Por gentileza de:&nbsp;<a href="http://www.weather.com" target="blank">
+      <img src="http://www.saaomega.com//components/com_eweather/images/TWClogo_32px.png" border="0"></a></div>
+    </td>
+  </tr>
+</table>
+			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Últimos eventos				</th>
+			</tr>
+					<tr>
+			<td>
+				
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td class='mod_events_latest_noevents'>No Latest Events</td></tr>
+</table>
+			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Formulario Login				</th>
+			</tr>
+					<tr>
+			<td>
+					<form action="http://www.saaomega.com//index.php" method="post" name="login" >
+	
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td>
+			<label for="mod_login_username">
+				Usuario			</label>
+			<br />
+			<input name="username" id="mod_login_username" type="text" class="inputbox" alt="username" size="10" />
+			<br />
+			<label for="mod_login_password">
+				Clave			</label>
+			<br />
+			<input type="password" id="mod_login_password" name="passwd" class="inputbox" size="10" alt="password" />
+			<br />
+			<input type="checkbox" name="remember" id="mod_login_remember" class="inputbox" value="yes" alt="Remember Me" />
+			<label for="mod_login_remember">
+				Recordarme			</label>
+			<br />
+			<input type="submit" name="Submit" class="button" value="Entrar" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="http://www.saaomega.com//index.php?option=com_registration&amp;task=lostPassword">
+				¿Recuperar clave?</a>
+		</td>
+	</tr>
+		</table>
+	
+	<input type="hidden" name="option" value="login" />
+	<input type="hidden" name="op2" value="login" />
+	<input type="hidden" name="lang" value="spanish" />
+	<input type="hidden" name="return" value="http://www.saaomega.com//index.php" />
+	<input type="hidden" name="message" value="0" />
+	<input type="hidden" name="force_session" value="1" />
+	<input type="hidden" name="je94f18956bff9eb19f0e8ce8cb166247" value="1" />
+	</form>
+				</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Sindicación RSS				</th>
+			</tr>
+					<tr>
+			<td>
+				<div class="syndicate">
+			<div align="center">
+			<a href="http://www.saaomega.com//index.php?option=com_rss&amp;feed=RSS0.91&amp;no_html=1">
+				<img src="http://www.saaomega.com//images/M_images/rss091.gif"  alt="RSS 0.91" name="RSS091" align="middle" border="0" /></a>
+		</div>
+				<div align="center">
+			<a href="http://www.saaomega.com//index.php?option=com_rss&amp;feed=RSS1.0&amp;no_html=1">
+				<img src="http://www.saaomega.com//images/M_images/rss10.gif"  alt="RSS 1.0" name="RSS10" align="middle" border="0" /></a>
+		</div>
+				<div align="center">
+			<a href="http://www.saaomega.com//index.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1">
+				<img src="http://www.saaomega.com//images/M_images/rss20.gif"  alt="RSS 2.0" name="RSS20" align="middle" border="0" /></a>
+		</div>
+				<div align="center">
+			<a href="http://www.saaomega.com//index.php?option=com_rss&amp;feed=ATOM0.3&amp;no_html=1">
+				<img src="http://www.saaomega.com//images/M_images/atom03.gif"  alt="ATOM 0.3" name="ATOM03" align="middle" border="0" /></a>
+		</div>
+				<div align="center">
+			<a href="http://www.saaomega.com//index.php?option=com_rss&amp;feed=OPML&amp;no_html=1">
+				<img src="http://www.saaomega.com//images/M_images/opml.png"  alt="OPML" name="OPML" align="middle" border="0" /></a>
+		</div>
+		</div>			</td>
+		</tr>
+		</table>
+				<table cellpadding="0" cellspacing="0" class="moduletable">
+					<tr>
+				<th valign="top">
+					Estadí­sticas				</th>
+			</tr>
+					<tr>
+			<td>
+				<strong>Usuarios:</strong> 18<br />
+<strong>Noticias:</strong> 117<br />
+<strong>Enlaces:</strong> 5<br />
+<strong>Visitantes:</strong> 653475
+			</td>
+		</tr>
+		</table>
+					</div>
+			<div class="user1block" id="user1block" style="width:143px">
+						</div>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="3">
+		<img src="http://www.saaomega.com//templates/omega3/images/top_bar.jpg" width="798" height="9" alt="" />
+		</td>
+	</tr>
+	</table>
+	<div align="center">
+Website diseñado y desarrollado por <a target="_blank" href="http://www.obice.es">
+OBICE</a><br>
+<object id="obice" width="468" height="72" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" align="middle" border="1">
+<param name="allowScriptAccess" value="sameDomain" />
+<param name="movie" value="http://www.saaomega.com/banner_isp.swf" />
+<param name="quality" value="High" />
+<param name="bgcolor" value="#ffffff" />
+<embed src="http://www.saaomega.com/banner_isp.swf" quality="High" bgcolor="#ffffff" width="468" height="72" name="obice" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+</div>
+<div align="center">
+	&copy; 2012 Sociedad Astronomica Omega</div>
+<div align="center">
+[
+<a href="http://omega.b2bi.es/index.php?option=com_content&task=view&id=57&Itemid=50">
+Aviso Legal</a> ]</div></div>
+
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-155228-22");
+
+pageTracker._trackPageview();
+
+</script>
+
+</body>
+</html>
+<!-- 1341215006 -->

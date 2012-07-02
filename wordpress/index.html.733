@@ -1,0 +1,302 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Water Hackathon —</title>
+<meta name="robots" content="noodp, noydir" />
+<link rel="stylesheet" href="http://www.waterhackathon.org/wp-content/themes/thesis_18/style.css?081910-85312" type="text/css" media="screen, projection" />
+<link rel="stylesheet" href="http://www.waterhackathon.org/wp-content/themes/thesis_18/custom/layout.css?060612-192957" type="text/css" media="screen, projection" />
+<!--[if lte IE 8]><link rel="stylesheet" href="http://www.waterhackathon.org/wp-content/themes/thesis_18/lib/css/ie.css?031911-205401" type="text/css" media="screen, projection" /><![endif]-->
+<link rel="stylesheet" href="http://www.waterhackathon.org/wp-content/themes/thesis_18/custom/custom.css?032211-205532" type="text/css" media="screen, projection" />
+<link rel="canonical" href="http://www.waterhackathon.org/" />
+<link rel="alternate" type="application/rss+xml" title="Water Hackathon RSS Feed" href="http://www.waterhackathon.org/feed/" />
+<link rel="pingback" href="http://www.waterhackathon.org/xmlrpc.php" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.waterhackathon.org/xmlrpc.php?rsd" />
+<script type='text/javascript' src='http://www.waterhackathon.org/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://www.waterhackathon.org/wp-includes/js/swfobject.js?ver=2.2'></script>
+<link rel="image_src" href="http://www.waterhackathon.org/share.png" /><!-- Vipers Video Quicktags v6.3.0 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://www.waterhackathon.org/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+</head>
+<body class="custom">
+<div id="container">
+<div id="page">
+	<div id="header">
+<ul class="menu">
+<li class="tab tab-1"><a href="http://www.waterhackathon.org/about/" title="About">About</a></li>
+<li class="tab tab-2"><a href="http://www.waterhackathon.org/event/" title="Event">Event</a></li>
+<li class="tab tab-3"><a href="http://www.waterhackathon.org/problem-definitions/" title="Problem Definitions">Problem Definitions</a></li>
+<li class="tab tab-4"><a href="http://www.waterhackathon.org/get-involved/" title="Get Involved!">Get Involved</a></li>
+<li class="tab tab-5"><a href="http://www.waterhackathon.org/media/" title="Media">Media</a></li>
+</ul>
+		<h1 id="logo"><a href="http://www.waterhackathon.org">Water Hackathon</a></h1>
+	</div>
+<div id="entrance"><div id="intro">Challenging water and technology experts to work together and create innovative solutions to today's global water problems</div>
+
+<div id="action"><div id="action_blue"><a href="http://www.rhok.org/problems">Submit a problem</a>, <a href="http://www.rhok.org/solutions">solve a problem</a>, or <a href="http://www.rhok.org/events">join the hacking</a>.
+<div style="font-size:16px; margin-top:10px;"><br /><a href="http://www.waterhackathon.org/publications/">View the Water Hackathon 2012 Report</a></div>
+</div><div id="action_white"><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.waterhackathon.org%2F&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:20px;" allowTransparency="true"></iframe><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.waterhackathon.org/" data-text="Join the Water Hackathon - Tapping Innovation in Water and Sanitation -" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></div></div>	<div id="content_box">
+		<div id="content" class="hfeed">
+
+			<div class="post-943 post type-post status-publish format-standard hentry category-uncategorized post_box top" id="post-943">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/lessons-from-hackers/" rel="bookmark" title="Permanent link to Lessons from Hackers">Lessons from Hackers</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-06-19">June 19, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<p style="text-align: right;">By Julia Bucknall, Sector Manager, Water, World Bank</p>
+<p>It’s been almost 8 months since the World Bank Group convened the first <a href="http://water.worldbank.org/node/84165">Water Hackathon</a>.  The Water Hackathon  brought nearly 1000 computer programmers in 10 cities around the world together  to compete to build prototype solutions to challenges in water, including  sanitation.  We had worked to help governments, utilities, civil society groups,  World Bank experts, and citizens define their specific water problems.  Overall,  more than 60 prototype solutions were built in response to the 113 water sector  challenges defined.  Some of the winning apps are already being used and  developed for scale-up.   <a href="http://www.waterhackathon.org/lessons-from-hackers/#more-943" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+			<div class="post-936 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-936">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/taarifa-moves-ahead/" rel="bookmark" title="Permanent link to Taarifa Moves Ahead">Taarifa Moves Ahead</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-06-18">June 18, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<p style="text-align: right;"><em>by Ilana Cohen, London </em><em><a href="https://twitter.com/#%21/H2Oyeah">@H2Oyeah</a></em></p>
+<p><strong>Creators of the London Water Hackathon’s winning prototype “Taarifa” (along with an expanded community) continue to develop the tool for deployment in a few exciting pilots.</strong></p>
+<p>The tool is fundamentally a reporting platform. Originally designed for reporting water infrastructure failures, the tool enables users to report problems via mobile or web to a dashboard system that can manage the reports for service providers, and help providers respond to users with updates on the status of repairs. This blog post documents Taarifa’s development since the original hackathon, and lays out some plans for the near future. <a href="http://www.waterhackathon.org/taarifa-moves-ahead/#more-936" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+			<div class="post-927 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-927">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/random-hacks-of-kindness-2-3-june-2012/" rel="bookmark" title="Permanent link to Random Hacks of Kindness, 2-3 June 2012">Random Hacks of Kindness, 2-3 June 2012</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-05-03">May 3, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<p style="text-align: justify;"><a href="http://www.waterhackathon.org/wp-content/uploads/2012/05/opt-RHOK-lego-logo.jpg"><img class="alignnone size-full wp-image-930" title="opt-RHOK-lego-logo" src="http://www.waterhackathon.org/wp-content/uploads/2012/05/opt-RHOK-lego-logo.jpg" alt="" width="420" height="262" /></a>On June 2nd and 3rd 2012, volunteers around the world are coming together for the Random Hacks of Kindness Global Hackathon.  Born in 2009, <a title="rhok" href="http://www.rhok.org/">Random Hacks of Kindness </a>(RHoK) is the brainchild of a partnership among Google, Microsoft, Yahoo!, HP, NASA and the World Bank.  The RHoK international community is over 4000 strong, encompassing not only computer programmers but  <a href="http://www.waterhackathon.org/random-hacks-of-kindness-2-3-june-2012/#more-927" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+			<div class="post-904 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-904">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/does-it-flow/" rel="bookmark" title="Permanent link to Does it FLOW?">Does it FLOW?</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-04-17">April 17, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<p><strong><a href="http://www.waterhackathon.org/wp-content/uploads/2012/04/flow-phone.png"><img class="alignleft size-medium wp-image-906" title="flow-phone-credit-to-wfp" src="http://www.waterhackathon.org/wp-content/uploads/2012/04/flow-phone-300x261.png" alt="" width="300" height="261" /></a></strong></p>
+<p style="text-align: right;"><em>by Ilana Cohen, London </em><em><a href="https://twitter.com/#!/H2Oyeah">@H2Oyeah</a></em></p>
+<p style="text-align: justify;"><strong>The Benefits and Limitations of a Water Point Monitoring Tool</strong></p>
+<p style="text-align: justify;">An estimated 30-40% of water points across sub-Saharan Africa do not function (<a href="http://www.rwsn.ch/documentation/skatdocumentation.2009-03-09.7304634330">RWSN</a>). People falsely counted as having access to safe water from these may revert to unsafe or far away sources. Water ministries, district governments, or the NGOs that installed them do not do know which ones are non-functional, or where the greatest needs are for repairs or new investments. Sadly, this sustainability problem is an old one, but new approaches supported by new ICT tools may be the agents of change. This blogpost looks into the experiences of three different organisations using Water for People’s innovative technology “FLOW.”</p>
+<p style="text-align: justify;"><strong> <a href="http://www.waterhackathon.org/does-it-flow/#more-904" class="more-link">[click to continue&hellip;]</a></strong></p>
+				</div>
+			</div>
+
+			<div class="post-867 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-867">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/water-management-gamification-aqua-republic/" rel="bookmark" title="Permanent link to Water Management Gamification: Aqua Republic">Water Management Gamification: Aqua Republic</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-03-12">March 12, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<p style="text-align: right;"><em><a href="http://www.waterhackathon.org/wp-content/uploads/2012/03/aquarepublic.jpg"><img class="alignleft size-medium wp-image-869" title="aquarepublic" src="http://www.waterhackathon.org/wp-content/uploads/2012/03/aquarepublic-300x224.jpg" alt="" width="300" height="224" /></a>by Chengzi Chew, Hørsholm</em></p>
+<p style="text-align: justify;"><a href="http://aquarepublica.com/">Aqua  Republica</a> is an upcoming online strategy game that taps into social networks  and the phenomenon of serious games. It helps raise awareness and educate  stakeholders of the importance and challenges of managing limited natural  resources in the face of multiple and often competing demands in the drive  towards sustainable development and climate change adaptation. <a href="http://www.waterhackathon.org/water-management-gamification-aqua-republic/#more-867" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+			<div class="post-864 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-864">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/water-prototypes-showcased-in-delhi/" rel="bookmark" title="Permanent link to Water prototypes showcased in Delhi">Water prototypes showcased in Delhi</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-02-17">February 17, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<p><a href="http://www.waterhackathon.org/wp-content/uploads/2012/04/jugaad-sensor-snapshot.jpg"><img class="size-medium wp-image-895 alignleft" title="jugaad sensor snapshot" src="http://www.waterhackathon.org/wp-content/uploads/2012/04/jugaad-sensor-snapshot-300x211.jpg" alt="" width="300" height="211" /></a></p>
+<p style="text-align: right;"><em>by Venkat Mangudi,</em></p>
+<p style="text-align: right;"><em>Bengaluru</em></p>
+<p style="text-align: justify;">On the 21st of February at Vigyan Bhavan, New Delhi. The 6 winning teams from Water Hackathon Bangalore and a couple of other applications from the Delhi Jal Board and Uttar Pradesh Midday meal authority will be presenting their applications. Senior officials from the Department of Information Technology as well as the Director of the Ministry of Urban Development (EP Niveditha) will be attending the workshop.  <a href="http://www.waterhackathon.org/water-prototypes-showcased-in-delhi/#more-864" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+			<div class="post-815 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-815">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/development-and-future-of-london%e2%80%99s-winning-hack-taarifa/" rel="bookmark" title="Permanent link to Development and Future of London’s Winning Hack: Taarifa">Development and Future of London’s Winning Hack: Taarifa</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-02-14">February 14, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<p style="text-align: right;"><em>by Ilana Cohen, London </em><em><a href="https://twitter.com/#!/H2Oyeah">@H2Oyeah</a></em></p>
+<p style="text-align: right;"><a href="http://www.waterhackathon.org/wp-content/uploads/2012/02/taarifa-team.jpg"><img class="size-full wp-image-823 alignleft" title="taarifa london team" src="http://www.waterhackathon.org/wp-content/uploads/2012/02/taarifa-team.jpg" alt="" width="284" height="189" /></a></p>
+<p style="text-align: justify;"><span style="text-align: justify;">What if citizens could use their mobile phones to both report broken water and sanitation infrastructure, and also check the status of repairs?  The service provider would then need a tool to manage these reports and send repair updates to citizens. This is exactly what one team set out to create at the London Water Hackathon.</span></p>
+<p style="text-align: justify;"> <a href="http://www.waterhackathon.org/development-and-future-of-london%e2%80%99s-winning-hack-taarifa/#more-815" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+			<div class="post-806 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-806">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/changing-perspectives-kenyan-it-opportunities-in-water/" rel="bookmark" title="Permanent link to Changing perspectives: Kenyan IT opportunities in Water">Changing perspectives: Kenyan IT opportunities in Water</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-02-10">February 10, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<address style="text-align: right;"><em>by Halima Murunga, Nairobi </em></address>
+<address style="text-align: right;"><em><a href="https://twitter.com/#!/halimamurunga">@HalimaMurunga</a></em></address>
+<p>On Monday we held our first forum to reconnect with the participants of the water hackathon held in Nairobi. The objective was to let developers understand the problems going on with urban water situation expounding from the challenges posed at the hackathon on (Billing, Metering and water quality). We invited Stephen Otieno, a water governance specialist who has been working in the field for over 5 years. The outcome essentially is a better grasp of the sector and the opportunities of how ICT can penetrate.</p>
+<p> <a href="http://www.waterhackathon.org/changing-perspectives-kenyan-it-opportunities-in-water/#more-806" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+			<div class="post-773 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-773">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/evaluating-the-water-hackathon-what%e2%80%99s-your-problem/" rel="bookmark" title="Permanent link to Evaluating the Water Hackathon: What’s Your Problem?">Evaluating the Water Hackathon: What’s Your Problem?</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-02-07">February 7, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<div id="attachment_779" class="wp-caption alignleft" style="width: 232px">
+	<a href="http://www.waterhackathon.org/wp-content/uploads/2012/02/London51.jpg"><img class="size-large wp-image-779    " title="London hackers" src="http://www.waterhackathon.org/wp-content/uploads/2012/02/London51-768x1024.jpg" alt="" width="232" height="309" /></a>
+	<p class="wp-caption-text">London Hackers by Mark Charmer</p>
+</div>
+<p style="text-align: right;"><em> by Ilana Cohen, London  <a href="https://twitter.com/#!/H2Oyeah">@H2Oyeah</a></em></p>
+<p>The October 2011 Water Hackathon marked the beginning of special union between techies and water geeks<strong>.</strong> Techies brought their skills in information technology and communications (ICT) to “hack” the water challenges brought by the water geeks, and the match was made. The event, hosted by the World Bank and over 50 partners in a multi-city, online forum, was a fruitful start to promoting the use of ICT tools in solving water issues. So what innovations are in the works? Well, that’s what this blog series aims to report, focusing somewhat on the London Hackathon, but also looking at the global event and the ICT innovations in water emerging elsewhere.</p>
+<p><strong>The investigation starts with the question, “What’s <em>your</em> problem?” </strong>Looking at what types of water problems were submitted for hacking, we can learn which ones were most hacked, and by whom? And what types of solutions and tools were most used? Together these can show us the emerging trends in this new arena.</p>
+<p> <a href="http://www.waterhackathon.org/evaluating-the-water-hackathon-what%e2%80%99s-your-problem/#more-773" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+			<div class="post-762 post type-post status-publish format-standard hentry category-uncategorized post_box" id="post-762">
+				<div class="headline_area">
+					<h2 class="entry-title"><a href="http://www.waterhackathon.org/three-month-old-abu-erdan/" rel="bookmark" title="Permanent link to Three Month Old Abu Erdan">Three Month Old Abu Erdan</a></h2>
+					<p class="headline_meta"><abbr class="published" title="2012-02-02">February 2, 2012</abbr><div id="tweetthis"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div></p>
+				</div>
+				<div class="format_text entry-content">
+<div id="attachment_763" class="wp-caption alignright" style="width: 254px">
+	<a href="http://www.waterhackathon.org/wp-content/uploads/2012/01/abuerdan pic"><img class="size-full wp-image-763  " title="AbuErdan" src="http://www.waterhackathon.org/wp-content/uploads/2012/01/aburedan-back.jpg" alt="" width="254" height="209" /></a>
+	<p class="wp-caption-text">Abu Erdan means &quot;father of beaks&quot; in reference to the long beak sported by the egret, and they do assist the farmers of Egypt by eating the grubs, worms and even young mice that might be turned up in the tilling and cultivating of the soil. http://bit.ly/zRgl3Z</p>
+</div>
+<p style="text-align: left;"><em>by Karim S. Shalaby, Cairo</em></p>
+<p style="text-align: left;">At the <a href="http://www.waterhackathon.org/cairo/">Cairo Water Hackathon</a> held at the American University in Cairo October 21-22 2011, a group of three developers created Abu Erdan. Ahmed Marzouk, Islam Khalil and Ramy Hegazy came into the Water Hackathon wide eyed and tentatively feeling through every step of the way. They were not alone, most of the participants had not heard of a Water Hackathon and were coming to this experience with the same fears and doubts of being taken on a tour by a street guide in a foreign land.﻿﻿</p>
+<p style="text-align: left;"> <a href="http://www.waterhackathon.org/three-month-old-abu-erdan/#more-762" class="more-link">[click to continue&hellip;]</a></p>
+				</div>
+			</div>
+
+	<script type="text/javascript">
+	// <![CDATA[
+		var disqus_shortname = 'waterhackathon';
+		var disqus_domain = 'disqus.com';
+		(function () {
+			var nodes = document.getElementsByTagName('span');
+			for (var i = 0, url; i < nodes.length; i++) {
+				if (nodes[i].className.indexOf('dsq-postid') != -1) {
+					nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+					url = nodes[i].parentNode.href.split('#', 1);
+					if (url.length == 1) url = url[0];
+					else url = url[1]
+					nodes[i].parentNode.href = url + '#disqus_thread';
+				}
+			}
+			var s = document.createElement('script'); s.async = true;
+			s.type = 'text/javascript';
+			s.src = 'http://' + disqus_domain + '/forums/' + disqus_shortname + '/count.js';
+			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+		}());
+	//]]>
+	</script>
+			<div class="prev_next">
+				<p class="previous"><a href="http://www.waterhackathon.org/page/2/" >&larr; Previous Entries</a></p>
+			</div>
+
+		</div>
+
+		<div id="sidebars">
+			<div id="sidebar_1" class="sidebar">
+				<ul class="sidebar_list">
+<li class="widget widget_text" id="text-5"><h3>Twitter Feed</h3>			<div class="textwidget"><script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+                    new TWTR.Widget({
+                        version: 2,
+                        type: 'search',
+                        search: '#waterhack',
+                        interval: 30000,
+                        title: 'WaterHackathon',
+                        subject: '',
+                        width: 250,
+                        height: 200,
+                        theme: {
+                            shell: {
+                                background: '#e0e8ed',
+                                color: '#720f0f'
+                            },
+                            tweets: {
+                                background: '#ffffff',
+                                color: '#444444',
+                                links: '#1985b5'
+                            }
+                        },
+                        features: {
+                            scrollbar: true,
+                            loop: true,
+                            live: true,
+                            hashtags: true,
+                            timestamp: true,
+                            avatars: true,
+                            toptweets: true,
+                            behavior: 'default'
+                        }
+                    }).render().start();
+                </script></div>
+		</li><li class="widget thesis_widget_search" id="search">
+<form method="get" class="search_form" action="http://www.waterhackathon.org/">
+	<p>
+		<input class="text_input" type="text" value="To search, type and hit enter" name="s" id="s" onfocus="if (this.value == 'To search, type and hit enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'To search, type and hit enter';}" />
+		<input type="hidden" id="searchsubmit" value="Search" />
+	</p>
+</form>
+</li>
+<li class="widget widget_text" id="text-4"><h3>Partners</h3>			<div class="textwidget"><p><a href="http://www.worldbank.org/water"><img src="http://www.waterhackathon.org/wp-content/themes/thesis_18/custom/images/wbwaterlogo.png" alt="World Bank Water"></a></p>
+<p><a href="http://www.wsp.org/wsp/"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/09/WSP-Signature_Pref_RGB.jpg" alt="WSP" height="65px"></a></p>
+<p><a href="http://www.nasa.gov"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/06/meatball2.png" alt="NASA" height="70px"></a></p>
+<p><a href="http://water.worldbank.org/water/wpp"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/10/WPP-Final-Logo-small.jpg" alt="Water Partnership Program" width="100px"></a></p>
+<p><a href="http//www.rhok.org"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/07/RHoK-logo.png" alt="RHoK" height="70px"></a></p>
+<p><a href="http://www.buglabs.net/"><img src="http://www.waterhackathon.org/wp-content/themes/thesis_18/custom/images/buglogo.png" alt="BugLabs"></a></p>
+<p><a href="http://www.secondmuse.com"><img src="http://www.waterhackathon.org/wp-content/themes/thesis_18/custom/images/secondmuse.png" alt="SecondMuse"></a></p>
+<p><a href="http://www.ucl.ac.uk"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/07/UCL-logo-new.png" alt="UCL" height="65px"></a></p>
+<p><a href="http://www.iihs.co.in"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/08/IIHS-logo_new_2010.jpg" alt="IIHS" height="80px"></a></p>
+<p><a href="http://www.hp.com"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/08/hp-circle-blue-1.jpg" alt="HP" height="80px"></a></p>
+<p><a href="http://www.mobilemonday.net"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/09/MoMo-Global.jpg" alt="MobileMonday" height="60px"></a></p>
+<p><a href="http://ihub.co.ke"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/08/IHub-logo.png" alt="iHub" height="60px"></a></p>
+<p><a href="http://www.mak.ac.ug"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/08/Mak-Log.png" alt="Makerere University" height="110px"></a></p>
+<p><a href="http://www.indiawaterportal.org"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/09/iwp-logo.png" alt="IWP" height="70px"></a></p>
+<p><a href="http://www.escuelab.org"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/09/logo_ESCUELAB.png" alt="Escuelab" width="170px"></a></p>
+<p><a href="http://www.cchubnigeria.com"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/10/CcHub-Logo.jpg" alt="Co-creation Hub Nigeria" width="210px"></a></p>
+<p><a href="http://urbanindia.nic.in/programme/uwss/slb/SubNUSP.htm"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/10/NUSP_RATING_-LOGO-square.jpg" alt="NUSP" width="210px"></a></p>
+<p><a href="http://www.mit.gov.in/content/national-e-governance-plan"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/10/negp.jpg" alt="National E-Governance Plan" width="230px"></a></p>
+<p><a href="http://www.opendta.org/"><img src="http://www.waterhackathon.org/wp-content/uploads/2011/10/ODTA-logo.jpg" alt="Open Development Technology Alliance" height="120px"></a></p>
+<p><a href="http://www.idmodeling.com/"><img src="http://www.waterhackathon.org/wp-content/uploads/2012/03/IDModeling.png" alt="ID Modeling" width="210px"></a></p>
+</div>
+		</li>				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+<div id="last"><ul class="menu">
+<li class="tab tab-1"><a href="http://www.waterhackathon.org/about/" title="About">About</a></li>
+<li class="tab tab-2"><a href="http://www.waterhackathon.org/event/" title="Event">Event</a></li>
+<li class="tab tab-3"><a href="http://www.waterhackathon.org/problem-definitions/" title="Problem Definitions">Problem Definitions</a></li>
+<li class="tab tab-4"><a href="http://www.waterhackathon.org/get-involved/" title="Get Involved!">Get Involved</a></li>
+<li class="tab tab-5"><a href="http://www.waterhackathon.org/media/" title="Media">Media</a></li>
+</ul>
+<br />Copyright 2011 <a href="http://www.worldbank.org/">The World Bank Group</a>, All Rights Reserved. <a href="http://web.worldbank.org/WBSITE/EXTERNAL/0,,contentMDK:20146401~pagePK:50016803~piPK:50016805~theSitePK:13,00.html">Legal</a></div><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-22165881-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+	</div>
+</div>
+</div>
+<!--[if lte IE 8]>
+<div id="ie_clear"></div>
+<![endif]-->
+</body>
+</html>

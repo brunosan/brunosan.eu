@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/fb/video#">
+		<title>Tech@State on USTREAM: Tech@State connects technologists to targeted goals of the U.S. diplomacy and development agenda via networking events that combine ...</title>
+		<link rel="shortcut icon" href="http://static-cdn1.ustream.tv/static/images/favicon-blue:1.ico" />
+		
+				<meta name="title" content="Tech@State" />
+		<meta property="fb:app_id" content="123875465478" />
+		<meta property="fb:admins" content="1312393070" />
+		<meta property="og:title" content="Tech@State" />
+		<meta property="og:description" content="Tech@State @ USTREAM: Tech@State connects technologists to targeted goals of the U.S. diplomacy and development agenda via networking events that combine p..." />
+		<meta property="og:type" content="video.other" />
+		<meta property="og:url" content="http://www.ustream.tv/channel/tech-state" />
+		<meta property="og:locale" content="en_US" />
+		<meta property="og:site_name" content="Ustream" />
+		<meta property="og:image" content="http://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" />
+		<link rel="image_src" href="http://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" />
+
+		
+<meta name="twitter:card" value="player">
+<meta name="twitter:site" value="@Ustream">
+<meta name="twitter:player" value="https://www.ustream.tv/embed/5058048">
+<meta name="twitter:player:width" value="435">
+<meta name="twitter:player:height" value="271">
+
+
+		<link rel="search" type="application/opensearchdescription+xml" href="http://static-cdn1.ustream.tv/static/osd:1.xml" title="Ustream Search" />
+		<link rel="alternate" type="application/rss+xml" title="Ustream Live Shows" href="/live.rss" />
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+		<script type="text/javascript" language="javascript">ustream={};</script>
+
+		
+		
+		<meta name="can-recommend" content="true" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Tech@State @ USTREAM: Tech@State connects technologists to targeted goals of the U.S. diplomacy and development agenda via networking events that combine p..." />
+<meta name="verify-v1" content="rxzEzICqj/Fzcsk4DodfDnrkiLUEa8g7Bj5yONd80Pk=" />
+
+		<link rel="stylesheet" type="text/css" href="http://static-cdn2.ustream.tv/static/packed/core:13409577601.css" />
+<link rel="stylesheet" type="text/css" href="http://static-cdn2.ustream.tv/static/packed/channel:13409577601.css" />
+<link rel="stylesheet" type="text/css" href="http://static-cdn2.ustream.tv/static/packed/ppv:13409577591.css" />
+
+						<style type="text/css">
+
+					body { background-image: url(http://static-cdn1.ustream.tv/static/images/channeldesign/5/0/5/8/5058048/5058048_backgroundscrrens.001_1316695170.jpg) !important;}
+									body { background-repeat: repeat !important; }
+							body { background-color: #131419 !important; }
+		
+					#MainWrapper div#Content .userDetailsEvents h4,
+			#MainWrapper div#Content .userDetailsEvents h4 a,
+			#MainWrapper div#Content .alsoAttending a,
+			#MainWrapper div#Content .scrollPager ol a,
+			#MainWrapper div#Content .eventPromoDetails .toptitle,
+			#MainWrapper div#Content #UserInfo .userBio a.more,
+			#MainWrapper div#Content #UserInfo .userBio a.less,
+			#MainWrapper div#Content .comment .footer a,
+			#MainWrapper div#Content a:hover { color: #6db2ff; }
+
+			#MainWrapper div#Content .scrollPager .active a {
+				color: #303030;
+			}
+
+			#MainWrapper div#Content .scrollPager .pagerSteps .next:hover,
+			#MainWrapper div#Content .simpleCallbackPager .pagerSteps .next:hover,
+			#MainWrapper div#Content .scrollPager .pagerSteps .prev:hover,
+			#MainWrapper div#Content .simpleCallbackPager .pagerSteps .prev:hover,
+			#MainWrapper div#Content a.button,
+			#MainWrapper div#Content a.button:hover,
+			#MainWrapper div#Content a.button:focus:hover {
+				color: #1D2126 !important;
+			}
+			</style>
+		
+		
+		<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_preinit:13409577761.js"></script>
+<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_libs:13409577761.js"></script>
+<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_framework:13409577761.js"></script>
+
+		<script type="text/javascript" id="UstreamExposedVariables">
+if (!window.ustream) ustream = {};
+if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=true;ustream.vars.locale="en_US";ustream.vars.isHashLockSet=false;ustream.vars.forcedAds=false;ustream.vars.authPage=false;ustream.vars.channelId=5058048;ustream.vars.channelUrl="tech-state";ustream.vars.channelTitle="Tech@State";ustream.vars.channelSocialActive="socialStream";ustream.vars.isSubscriptionEnabled=false;ustream.vars.onLoginRefreshUrl="\/ajax\/channel\/update.json\/5058048";ustream.vars.keepAliveUrl="\/ajax\/channel\/keepalive";ustream.vars.sessionTimeOut="7200";ustream.vars.pmOverlayUrl="\/premium-membership\/prepare-inline";ustream.vars.inCrowdUrl="\/ajax\/crowd\/in-crowd.json\/5058048";ustream.vars.isChannelLive=false;ustream.vars.tosLink="\/terms-popup";ustream.vars.maxTotalPrice={"USD":1000,"JPY":10000,"KRW":15000};ustream.vars.maxTotalTicketNumber={"USD":8,"JPY":8,"KRW":8};ustream.vars.acceptedPpvTos=false;ustream.vars.acceptPpvTosUrl="\/ajax\/account\/paypal\/acceptppvtos.json";ustream.vars.eventVodListUrl="\/ajax\/recorded\/event\/vods.json\/xEVENTIDx\/xPAGEIDx";ustream.vars.checkDeemTicketUrl="\/ajax\/ppv\/event\/check-ticket.json\/xITEMIDx";ustream.vars.hasTicketForActiveEvent=false;ustream.vars.ppvItemDataUrl="\/ajax\/ppv\/get-item-data.json\/xITEMTYPEx\/xITEMIDx";ustream.vars.ppvPurchaseUrl="http:\/\/www.ustream.tv\/onetimesubscription\/init\/xCHANNELIDx\/xITEMTYPEx\/xITEMIDx";ustream.vars.checkActiveEventTicket="\/ajax\/ppv\/activeevent\/check-ticket.json\/5058048";ustream.vars.viewerTosUrls={"terms_url":"\/terms","ppv_supportcenter_url":"\/ppv\/supportcenter"};ustream.vars.purchased_content_url="\/dashboard\/purchased-content";ustream.vars.forgot_password_url="\/forgot-password";ustream.vars.login_signup_url="\/login-signup";ustream.vars.account_connections_url="\/account\/connections";ustream.vars.isPpvRestricted=false;ustream.vars.ppvCheckUserAccess="\/ajax\/ppv\/checkuseraccess.json";ustream.vars.validateUrl="\/ajax\/onetimesubscription\/validate-code.json\/xCHANNELIDx\/xTYPEx\/xITEMIDx";ustream.vars.isPPV=true;ustream.vars.getUserVariablesUrl="\/ajax\/user-variables.json";ustream.vars.adFree=false;ustream.vars.getLoginDataUrl="\/ajax\/user-variables.json";ustream.vars.joinCrowdMenu={"menuItems":[{"id":"LeaveCrowd","label":"Leave Crowd"}]};ustream.vars.hideOptInOutBadge=false;ustream.vars.ppvReasons=[];ustream.vars.reasonTypes={"1":"channel","2":"channel","3":"channel","4":"channel","5":"channel"};ustream.vars.defaultFlagReasonTargetType="channel";ustream.vars.flaggableEventsUrl="\/ajax\/user\/flag\/ppvlist.json\/channel\/5058048";ustream.vars.thumblisterPageSize=3;ustream.vars.thumblisterEmptyMsg="";ustream.vars.socialStreamUrl="http:\/\/www.ustream.tv\/socialstream\/5058048";ustream.vars.v3=true;ustream.vars.pageId="Channel_Details";ustream.vars.pageUrl="\/channel\/tech-state";ustream.vars.loggedIn=false;ustream.vars.loggedInUserId=0;ustream.vars.sessionId=false;ustream.vars.staticUrl="http:\/\/static-cdn1.ustream.tv\/";ustream.vars.imagesToPreload=["http:\/\/static-cdn1.ustream.tv\/static\/v3\/images\/ajax-loader-small:1340957759.gif","http:\/\/static-cdn1.ustream.tv\/static\/v3\/images\/ajax-loader-big:1340957759.gif"];ustream.vars.networkConnections={"ustream":{"connected":false,"urls":{"connect":"\/login\/connect?opener=xOPENERx","disconnect":null,"logout":"\/ajax\/login\/connect\/logout.json","findFriends":null}},"facebook":{"connected":false,"urls":{"connect":"\/facebook\/connect","disconnect":"\/ajax\/facebook\/disconnect.json","loginSignup":"\/ajax\/facebook\/login-signup.json","logout":"\/ajax\/facebook\/logout.json","findFriends":"\/ajax\/facebook\/find-friends.json","permissionList":"\/ajax\/facebook\/get-permissions.json","permissionEdit":"\/facebook\/permission-edit","enableUstreamSocial":"\/ajax\/facebook\/enable-ustream-social.json","disableUstreamSocial":"\/ajax\/facebook\/disable-ustream-social.json"}},"twitter":{"connected":false,"urls":{"connect":"\/twitter\/connect?opener=xOPENERx","disconnect":"\/ajax\/twitter\/disconnect.json","findFriends":"\/ajax\/twitter\/find-friends.json","logout":"\/ajax\/twitter\/logout.json"}},"myspace":{"connected":false,"urls":{"connect":"\/myspace\/connect?opener=xOPENERx","disconnect":"\/ajax\/myspace\/disconnect.json","findFriends":"\/ajax\/myspace\/find-friends.json","logout":"\/ajax\/myspace\/logout.json"}},"aim":{"connected":false,"urls":{"connect":"\/aim\/connect?opener=xOPENERx","disconnect":"\/ajax\/aim\/disconnect.json","logout":"\/ajax\/aim\/logout.json","findFriends":"\/ajax\/aim\/find-friends.json"}},"mixi":{"connected":false,"urls":{"connect":"\/mixi\/connect","disconnect":"\/mixi\/disconnect.json","logout":"\/mixi\/logout.json"}}};ustream.vars.emailConfirmed=false;ustream.vars.categoryListUrl="\/ajax\/category\/list.json";ustream.vars.categorySetUrl="\/ajax\/category\/add.json\/xCHANNELIDx\/xCATEGORYx";ustream.vars.ppvEventEndActiveUrl="\/ajax\/ppv\/event\/end-active.json\/xCHANNELIDx";ustream.vars.ctxtId="comp020000";ustream.vars.translateUrl="\/ajax\/util\/translate.json\/xLOCALEx\/xUNITx";ustream.vars.thumbSizePlaceHolder="%s";ustream.vars.featuredEventThumbSize="112x63";ustream.vars.forgotPasswordUrl="\/forgot-password";ustream.vars.loginUrl="\/ajax\/login.json";ustream.vars.simpleSignupUrl="\/ajax\/signup\/savesimple.json";ustream.vars.googleLoginUrl="\/login-google";ustream.vars.yahooLoginUrl="\/login-yahoo";ustream.vars.yahooLoginVersion="inter";ustream.vars.openidLoginUrl="\/login-openid";ustream.vars.facebookAppId="123875465478";ustream.vars.dashboardUrl="\/dashboard";ustream.vars.fbAutoLoginEnabled=true;ustream.vars.fbAutoLoginUrl="\/ajax\/autologin.json";ustream.vars.fbLoginByAccessTokenUrl="\/ajax\/facebook\/login-by-access-token.json";ustream.vars.ogUrl="http:\/\/www.ustream.tv\/channel\/tech-state";ustream.vars.ogNamespace="ustream_og";ustream.vars.jstpl={"HeaderLoginChangeable":{"loggedIn":false,"urls":{"logout":"\/logout?ref=%2Fchannel%2Ftech-state","profile":"","signup":"\/login-signup?ref=%2Fdashboard","dashboard":"\/dashboard","crowds":"\/dashboard\/crowds","social":"\/account\/connections"},"userName":null,"userPicture":null,"accountType":"basic","accountUrl":"\/ustream-pro","ustreamSocial":false,"labels":{"log_out":"Logout","login":"Login","signup":"Sign Up"}}};ustream.vars.isPpvEnabled=false;ustream.vars.startBroadcastUrl="\/go-live";
+</script>
+		
+		
+	</head>
+	<body id="Channel_Details" class="v4 ustream loading  context-live lang-en-US theme6">
+				<!-- Begin comScore Tag -->
+<script>
+	document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+<script>
+	COMSCORE.beacon({
+		c1:2,
+		c2:7716434,
+		c3:1,
+		c4:157,
+		c5:"",
+		c6:"",
+		c15:""
+	});
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=7716434&c3=1&c4=157&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+		<!-- Channel_Details -->
+<!-- Start Google Async Analytics tags -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1359697-1']);
+	_gaq.push(['_setAllowAnchor', true]);
+		_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
+
+	(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
+</script>
+
+		<div id="MainLoadBar"></div>
+		<div id="MainWrapper">
+			<div id="ContentWrapper">
+			
+
+<div id="ExperienceOptInOut">
+
+	<div class="in">
+		<div class="toggle">Try the new Ustream</div>
+		<a class="optin" href="#">Go to the New Site</a>
+	</div>
+
+	<div class="out">
+		<div class="toggle">Feedback</div>
+		<p>Send us feedback or go back to <a class="optout">Classic Ustream</a>.</p>
+		<a class="feedback" href="https://www.surveymonkey.com/s/QFK9FKW" target="_blank">Feedback</a>
+	</div>
+
+</div>
+
+
+<div id="Header">
+
+	<h1>
+		<a href="/" title="Ustream - You're On">
+			Ustream &copy;
+		</a>
+	</h1>
+
+	<div id="HeaderSearch" class="headerSearch">
+		<form id="headerSearchForm" autocomplete="off" action="/discovery/live/all" method="get" onsubmit="return false;" class="search">
+			<input type="text" id="HeaderSearchInput" name="q" maxlength="200" placeholder="Search for channels and videos..." value="" />
+			<a
+				href="/discovery/live/all"
+				title="search"
+				id="HeaderSearchSubmit">
+			</a>
+		</form>
+	</div>
+
+	<ul class="categories">
+		<li class="cat mi-onair">
+			<a href="/discovery/live/all">
+				<span>
+					On Air				</span>
+				<b><i></i></b>
+			</a>
+
+			<div class="menuDetails clearAfter onairMenu pushDown">
+				<div class="subNav">
+					<h3><a href="/discovery/live/all">On Air Main &raquo;</a></h3>
+					<ul>
+						<li><a href="/discovery/live/all">Most Viewers</a></li>
+						<li><a href="/discovery/live/all?top=day">Most Total Views (Today)</a></li>
+						<li><a href="/discovery/live/all?top=week">Most Total Views (Week)</a></li>
+						<li><a href="/discovery/live/all?top=month">Most Total Views (Month)</a></li>
+						<li><a href="/discovery/live/all?order=most-views-all">Most Total Views (All)</a></li>
+											</ul>
+				</div>
+				<div class="wrap">
+					<div class="col">
+						<h4>Most Viewers</h4>
+													<div class="mostItem">
+								<a href="/channel/kissradio-online" class="shadowbox">
+									<img
+										src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw=="
+										data-lazyload="http://static-cdn2.ustream.tv/i/channel/picture/3/9/0/1/3901499/3901499_smalls2_120_3797278_ki,112x63,r:1.jpg"
+										alt="KISSRadio Online"
+										width="115" height="64" />
+									<strong class="livebadgeLeft">LIVE</strong>
+								</a>
+								<h5><a href="/channel/kissradio-online">KISSRadio Online</a></h5>
+								<a href="/user/KISSRADIO999" class="username">KISSRADIO999</a>
+							</div>
+													<div class="mostItem">
+								<a href="/channel/iwj6" class="shadowbox">
+									<img
+										src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw=="
+										data-lazyload="http://static-cdn1.ustream.tv/i/channel/live/1_7281058,112x63,b.jpg"
+										alt="IWJ6"
+										width="115" height="64" />
+									<strong class="livebadgeLeft">LIVE</strong>
+								</a>
+								<h5><a href="/channel/iwj6">IWJ6</a></h5>
+								<a href="/user/iwakamiyasumi" class="username">iwakamiyasumi</a>
+							</div>
+											</div>
+					<div class="advert">
+						<h4>Advertisement</h4>
+						<div class="adwrap">
+												<script type="text/html">
+										<div class="hideAdMessage forMenuBannerOnAir">
+		<a href="/premium-membership"
+			target="">hide this ad?</a>
+		</div>
+		<div class="banner" id="MenuBannerOnAir">
+							<iframe src="http://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
+
+						</script>
+						</div>
+					</div>
+				</div>
+			</div>
+		</li>
+
+					<li class="cat mi-news"  data-category="news">
+				<a href="/news">
+					<span>
+						News					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/news">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-election2012"  data-category="election2012">
+				<a href="/election2012">
+					<span>
+						Campaign 2012					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/news-political-news">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-pets-animals"  data-category="pets-animals">
+				<a href="/pets-animals">
+					<span>
+						Pets & Animals					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/animals">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-entertainment"  data-category="entertainment">
+				<a href="/entertainment">
+					<span>
+						Entertainment					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/entertainment">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-sports"  data-category="sports">
+				<a href="/sports">
+					<span>
+						Sports					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/sports">
+						</div>
+						<div class="featured">
+															<div class="advert">
+									<h4>Advertisement</h4>
+									<div class="adwrap">
+																		<script type="text/html">
+													<div class="hideAdMessage forMenuBannerSports">
+		<a href="/premium-membership"
+			target="">hide this ad?</a>
+		</div>
+		<div class="banner" id="MenuBannerSports">
+							<iframe src="http://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
+
+									</script>
+									</div>
+								</div>
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-music"  data-category="music">
+				<a href="/music">
+					<span>
+						Music					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/music">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-technology"  data-category="technology">
+				<a href="/technology">
+					<span>
+						Tech					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/technology">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-gaming"  data-category="gaming">
+				<a href="/gaming">
+					<span>
+						Gaming					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/gaming">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-education"  data-category="education">
+				<a href="/education-learningannex">
+					<span>
+						Education					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/how-to">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+					<li class="cat mi-spirituality"  data-category="spirituality">
+				<a href="/spiritannex">
+					<span>
+						Spirituality					</span>
+					<b><i></i></b>				</a>
+
+									<div class="menuDetails clearAfter">
+						<div class="subNav" data-discovery="/discovery/live/religion">
+						</div>
+						<div class="featured">
+													</div>
+					</div>
+							</li>
+		
+		<li class="cat mi-more">
+			<a href="/discovery/live/all">
+				<span>
+					More				</span>
+				<b><i></i></b>
+			</a>
+
+			<div class="menuDetails moreMenu clearAfter">
+				<div class="subNav">
+					<h3><a href="/discovery/live/all">More &raquo;</a></h3>
+					<ul class="left">
+													<li><a href="/news">News</a></li>
+													<li><a href="/pets-animals">Pets & Animals</a></li>
+													<li><a href="/entertainment">Entertainment</a></li>
+													<li><a href="/sports">Sports</a></li>
+													<li><a href="/music">Music</a></li>
+													<li><a href="/gaming">Gaming</a></li>
+													<li><a href="/education">Education</a></li>
+											</ul>
+					<ul class="left">
+												<li><a href="/events">Events</a></li>
+												<li><a href="/spiritannex">Spirituality</a></li>
+												<li><a href="/technology">Technology</a></li>
+											</ul>
+				</div>
+				<div class="wrap">
+					<div class="advert">
+						<h4>Advertisement</h4>
+						<div class="adwrap">
+												<script type="text/html">
+										<div class="hideAdMessage forMenuBannerMore">
+		<a href="/premium-membership"
+			target="">hide this ad?</a>
+		</div>
+		<div class="banner" id="MenuBannerMore">
+							<iframe src="http://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
+
+						</script>
+						</div>
+					</div>
+				</div>
+			</div>
+		</li>
+
+	</ul>
+
+	<div class="headerTopRight">
+		<div class="broadcastBtn">
+							<a href="#" class="button bigfont headerBroadcastNow" id="HeaderBroadcastNow" onclick="return false;">
+					Go Live!				</a>
+					</div>
+
+		
+<div id="HeaderLoginChangeable" class="userNotLoggedIn">
+	<div class="headerLogout dropperLike">
+					<a id="signupShow">Login</a> |
+			<a class="signUp" href="/login-signup?ref=%2Fdashboard">Sign Up</a>
+			</div>
+	</div>
+
+
+	</div>
+</div>
+
+
+<!-- Channel ID: 5058048 - Channel Owner ID: 5494024 -->
+
+		<script type="text/javascript" language="javascript">
+	<!--
+		if (window.top != self) {
+			window.top.location = 'http://www.ustream.tv/channel/' + ustream.vars.channelId;
+		}
+	//-->
+	</script>
+			<div class="channelTopBannerWrapper">
+					</div>
+	
+	
+
+
+<div id="Content" class="woborder ">
+
+	<div class="clearAfter">
+
+		<div class="leftCol_612">
+
+			
+<div id="EventHeader" data-cid="5058048">
+	<span class="status">
+		<span class="eventDate">
+							<span>Channel is offline</span>
+					</span>
+	</span>
+	<h2>
+					<a href="/channel/tech-state">Tech@State</a>
+			</h2>
+	<div class="clearAfter">
+		<p>
+			<a href="/user/StateDepartment">StateDepartment</a>
+		</p>
+		
+
+<div class="joincrowdwrp">
+	<input type="hidden" class="followUserEventHeader" value="{
+		userId:5058048,
+		isFollow:false,
+		crowdSize: '55',
+		emailAlerts:false,
+		displayCrowdSize:true,
+		buttonType:'normal',
+		userBasedMode:false	}" />
+</div>
+
+
+					<a href="/channel-popup/tech-state" class="popout" id="PopoutChannelVideo">
+				<b></b>
+				<span>Pop out</span>
+			</a>
+			</div>
+	<a href="/user/StateDepartment" class="shadowbox eventPicture">
+		<img class="image" alt="StateDepartment" width="66" height="66" src="http://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" rel="StateDepartment" />
+			</a>
+</div>
+
+
+
+			<div id="flashWrapper">
+									<!-- VIEWER BLOCK -->
+<div id="adaptvDiv" class="adaptvDiv">
+	<div id="channelFlashContent" class="flash-replaced"
+		style="width:608px; height:368px; ">
+
+		<div id="v2"
+			style="width: 608px; height: 368px;"></div>
+
+				<script type="text/javascript">
+			if (!ustream) ustream = {vars: {}};//quick fix
+			if (!ustream.vars) ustream.vars = {};
+
+			ustream.vars.viewer = {
+				id: "v2",
+				version: "9.0.115",
+				expressinstall: "http://static-cdn1.ustream.tv/swf/expressInstall.swf",
+				movie: "http://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100",
+				width: "608",
+				height: "368",
+				attributes: {
+					id: "v2",
+					name: "v2"
+				},
+				flashvars: {
+									loc: '/',									cid: '5058048',									channelid: '5058048',									sessionid: '',									share: 'false',									group: 'channel5058048',									imu: 'medrect',									autoResize: 'false',									localid: '5549xxxx.4ff165b37b60d0.31967791',									locale: 'en_US',									autoplay: 'true',									hasticket: 'false',									vrsl: 'c:239',									infobar: 'false',									v3: 'true'								}
+			};
+		</script>
+		<noscript>
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="608" height="368" id="viewer">
+				<param name="movie" value="http://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100" />
+				<param name="wmode" value="direct" />
+				<param name="allowfullscreen" value="true" />
+				<param name="allowscriptaccess" value="always" />
+				<param name="flashvars" value="loc=/&amp;cid=5058048&amp;channelid=5058048&amp;sessionid=&amp;share=false&amp;group=channel5058048&amp;imu=medrect&amp;autoResize=false&amp;localid=5549xxxx.4ff165b37b60d0.31967791&amp;locale=en_US&amp;autoplay=true&amp;hasticket=false&amp;vrsl=c:239&amp;infobar=false&amp;v3=true&amp;" />
+				<!--[if !IE]>-->
+				<object type="application/x-shockwave-flash" data="http://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100" width="608" height="368">
+					<param name="wmode" value="direct" />
+					<param name="allowfullscreen" value="true" />
+					<param name="allowscriptaccess" value="always" />
+					<param name="flashvars" value="loc=/&amp;cid=5058048&amp;channelid=5058048&amp;sessionid=&amp;share=false&amp;group=channel5058048&amp;imu=medrect&amp;autoResize=false&amp;localid=5549xxxx.4ff165b37b60d0.31967791&amp;locale=en_US&amp;autoplay=true&amp;hasticket=false&amp;vrsl=c:239&amp;infobar=false&amp;v3=true&amp;" />
+				<!--<![endif]-->
+					<a href="http://www.adobe.com/go/getflashplayer">
+						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+					</a>
+				<!--[if !IE]>-->
+				</object>
+				<!--<![endif]-->
+			</object>
+		</noscript>
+
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+
+	/**
+	 * start
+	 * 3rdparty preroll externalinterface
+	 */
+	function iab_rma_start(){
+		var viewer = document.getElementById('viewer');
+		viewer.javascriptControl("pause", "");
+	}
+
+	/**
+	 * stop
+	 * 3rdparty preroll externalinterface
+	 */
+	function iab_rma_stop(){
+		var viewer = document.getElementById('viewer');
+		viewer.javascriptControl("play", "");
+	}
+
+</script>
+
+<!-- VIEWER BLOCK -->
+							</div>
+
+			
+
+<div id="SocialBar" data-cid="5058048">
+	<div class="share">
+				<iframe class="tw-share"
+			allowtransparency="true"
+			frameborder="0"
+			scrolling="no"
+			src="//platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fustre.am%2FldPq&counturl=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Ftech-state&text=Tech%40State%20-%20StateDepartment&count=horizontal"
+			style="width:110px; height:20px;">
+		</iframe>
+		<iframe
+			class="fb-share"
+			src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.ustream.tv%2Fchannel%2Ftech-state&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;colorscheme=light&amp;height=20"
+			scrolling="no"
+			frameborder="0"
+			style="border:none; overflow:hidden; width:110px; height:20px; padding-left: 20px;"
+			allowTransparency="true">
+		</iframe>
+		<div class="plusOne">
+			<g:plusone size="small" href="http://www.ustream.tv/channel/tech-state"></g:plusone>
+		</div>
+			</div>
+</div>
+
+
+
+			
+			
+								<div class="mobilViewerDownload"
+		data-channelid="5058048"		>
+		<a class="button major large viewInApp" href="/mobile/view/channel/5058048" data-iosapp="ustream://c/5058048">
+			View in Application		</a>
+	</div>
+			
+			
+<div id="tabbedTitleBoxDemo">
+	<div class="tabbar">
+		<ul class="tabsV4 title">
+			<li id="TabShowInfo" class="active">
+				<b>
+					Channel Info				</b>
+			</li>
+			<li id="TabHonors">
+				<b>
+					Honors				</b>
+			</li>
+							<li id="TabEmbed">
+					<b>
+						Embed					</b>
+				</li>
+						<li id="TabFlag">
+				<b>
+					Flag				</b>
+			</li>
+		</ul>
+	</div>
+	<div class="tabbedTitleBox">
+		<div class="content">
+			<div class="tabPageContent" id="ShowInfoTab">
+
+				<p class="textCol">
+					<strong class="channelTitle">
+						Tech@State					</strong><br /><br />
+					<span class="channelMeta">
+						<span>
+															<strong id="ViewerNumFromFlash">17,353</strong>
+								Live Views													</span>
+													<span class="crowd">
+								<strong>55</strong>
+								In Crowd							</span>
+											</span>
+					
+	<span class="moreInfo">
+		Tech@State connects technologists to targeted goals of the U.S. diplomacy and development agenda via networking events that combine physical and virtual presence. As part of Secretary Clinton's 21st Century Statecraft initiative, Tech@State connects established leaders, new innovators, government personnel, and others to work together on 21st century technology solutions to improve the education, health, and welfare of the world's population.<br />
+<br />
+In its first iteration, Tech@State: Haiti, participants from the private sector, NGOs, academia, the Haitian Diaspora, and the public sector demonstrated and discussed their innovations in Haiti. The event served as an idea and technology exchange among participants and ignited those attending to collaborate on current and future projects in Haiti and in other nations.	</span>
+
+
+				</p>
+				<br class="clear" />
+
+			</div>
+			<div class="tabPageContent" id="HonorsTab">
+
+									<span class="badge" title="Featured Show">
+						<span id="FeatureBadge"></span>
+					</span>
+								<a
+					id="showHeaderWatchOnIphone"
+					href="/everywhere"
+					target="_blank"
+					class="badge"
+					title="Featured on iPhone"
+				>
+					<span id="IphoneBadge"></span>
+				</a>
+							</div>
+							<div class="tabPageContent" id="EmbedTab">
+
+					
+					
+<label>
+	Link to the channel:
+</label>
+<br />
+<input type="text" class="shortUrl" readonly="readonly" value="http://ustre.am/ldPq" />
+
+<div class="separator"></div>
+
+<div class="tabbedSubBox" id="EmbedConfigurator">
+	<ul class="tabBar">
+		<li data-tab="EmbedViewer" class="active">
+		Live		</li>
+					<li data-tab="EmbedSocialStream">
+				Social Stream			</li>
+			</ul>
+	<div class="content">
+		<div class="tabContent" id="EmbedViewer">
+			<p>
+				Embed the live video player anywhere using the code below			</p>
+			<textarea class="embedCode" readonly="readonly" rows="2">&lt;iframe src=&quot;http://www.ustream.tv/embed/5058048&quot; width=&quot;608&quot; height=&quot;368&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: 0px none transparent;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ustream.tv/&quot; style=&quot;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&quot; target=&quot;_blank&quot;&gt;Live stream videos at Ustream&lt;/a&gt;</textarea>
+
+			<ul class="embedSizes">
+				<li class="small"><span class="size"></span><br /><span class="rect"></span></li>
+				<li class="medium selected"><span class="size"></span><br /><span class="rect"></span></li>
+				<li class="large"><span class="size"></span><br /><span class="rect"></span></li>
+				<li class="custom">
+					Custom:<br />
+					<label>Width: <input type="text" name="width" /> px</label><br />
+					<label>Height: <input type="text" name="height" /> px</label>
+
+				</li>
+			</ul>
+
+			<label><input type="checkbox" name="https" /> use HTTPS</label><br />
+			<label><input type="checkbox" name="legacy" /> use the old embed code instead</label>
+			<p class="legacyNote" style="display: none;">
+				NOTE: using this code, the embedded content won't work on iOS devices			</p>
+			<textarea class="legacyCode din" readonly="readonly" rows="2">&lt;object classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;480&quot; height=&quot;296&quot; id=&quot;utv552159&quot;&gt;&lt;param name=&quot;flashvars&quot; value=&quot;autoplay=false&amp;amp;brand=embed&amp;amp;cid=5058048&amp;amp;v3=1&quot;/&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.ustream.tv/flash/viewer.swf&quot;/&gt;&lt;embed flashvars=&quot;autoplay=false&amp;amp;brand=embed&amp;amp;cid=5058048&amp;amp;v3=1&quot; width=&quot;480&quot; height=&quot;296&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; id=&quot;utv552159&quot; name=&quot;utv_n_473157&quot; src=&quot;http://www.ustream.tv/flash/viewer.swf&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;&lt;/object&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ustream.tv/&quot; style=&quot;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&quot; target=&quot;_blank&quot;&gt;Live stream videos at Ustream&lt;/a&gt;</textarea>
+
+		</div>
+					<div class="tabContent" id="EmbedSocialStream" style="display: none;">
+				<p>
+					Embed the social stream, chat, and videos module anywhere using the code below				</p>
+				<textarea class="embedCode" readonly="readonly" rows="2">&lt;iframe width=&quot;468&quot; scrolling=&quot;no&quot; height=&quot;586&quot; frameborder=&quot;0&quot; style=&quot;border: 0px none transparent;&quot; src=&quot;http://www.ustream.tv/socialstream/5058048&quot;&gt;&lt;/iframe&gt;</textarea>
+			</div>
+			</div>
+</div>
+
+
+				</div>
+						<div class="tabPageContent">
+
+				<form id="VideoFlag" action="/ajax/user/flag/inapp.json" method="post" onsubmit="return false;">
+	<fieldset>
+		<p>
+			Please select your reason for flagging this video as inappropriate from the dropdown below.
+			We promise to review each and every submission within 24-48 hours.		</p>
+		<p>
+			If you are a copyright owner, or are authorized to act on behalf of one or authorized to act under any exclusive right under copyright, please do not flag this content but instead report alleged copyright violations on our <a href="/copyright-policy" target="_blank">DMCA notice form</a>.		</p>
+		<input type="hidden" name="targetType" value="channel" />
+		<input type="hidden" name="targetId" value="5058048" />
+		<label for="VideoFlagReason">Choose a reason:</label><br />
+		<select name="reason" id="VideoFlagReason" class="required">
+			<option value="">Choose</option>
+												<option value="1">Sexually explicit</option>
+									<option value="2">Mature (over 18 only) content</option>
+									<option value="3">Other Terms of Service violation</option>
+									<option value="4">Graphic violence</option>
+									<option value="5">Hate speech</option>
+									</select>
+		<p class="ppvEvents">
+			<label for="VideoFlagPpvEvents">Select event:</label><br />
+			<select id="VideoFlagPpvEvents"></select>
+		</p>
+		<br />
+		<input type="submit" class="button" value="Flag" />
+
+	</fieldset>
+</form>
+
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+			
+															
+<div class="colTitleBoxV4 pageScroller slideScroller" id="ChannelVideoList">
+
+	<div class="title">
+		<h3>Recent Videos</h3>
+					<p class="subtitle left"><a class="viewAll" href="/channel/tech-state/videos">View all</a></p>
+			</div>
+	<div class="content">
+		<div class="scrollPagerWrp clearAfter">
+								<ul class="recordedShowThumbsV4 clearAfter">
+																						<li class="firstinrow">
+							<a href="/recorded/17456898" class="shadowbox">
+															<img src="http://static-cdn1.ustream.tv/i/video/picture/0/1/17/17456/17456898/1_5058048_17456898,192x108,b,1:3.jpg" alt="Tech@State 09/23/11 01:37PM" width="192" height="108" class="lazyloaded" />
+														</a>
+															
+														<h4><a href="/recorded/17456898">Tech@State 09/23/11 01:37PM</a></h4>
+													</li>
+																	<li >
+							<a href="/recorded/17454323" class="shadowbox">
+															<img src="http://static-cdn2.ustream.tv/i/video/picture/0/1/17/17454/17454323/1_5058048_17454323,192x108,b,1:2.jpg" alt="Tech@State Data Visualization" width="192" height="108" class="lazyloaded" />
+														</a>
+															
+														<h4><a href="/recorded/17454323">Tech@State Data Visualization</a></h4>
+													</li>
+																	<li >
+							<a href="/recorded/17452843" class="shadowbox">
+															<img src="http://static-cdn2.ustream.tv/i/video/picture/0/1/17/17452/17452843/1_5058048_17452843,192x108,b,1:2.jpg" alt="Tech@State Data Visualizaton" width="192" height="108" class="lazyloaded" />
+														</a>
+															
+														<h4><a href="/recorded/17452843">Tech@State Data Visualizaton</a></h4>
+													</li>
+														</ul>
+							<ul class="recordedShowThumbsV4 clearAfter">
+																						<li class="firstinrow">
+							<a href="/recorded/14995172" class="shadowbox">
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 11 Tech@State: Serious Games Final Session" width="192" height="108" data-lazyload="http://static-cdn1.ustream.tv/i/video/picture/0/1/14/14995/14995172/1_5058048_14995172,192x108,b,1:3.jpg" />
+														</a>
+															
+														<h4><a href="/recorded/14995172">Video 11 Tech@State: Serious Games Final Session</a></h4>
+													</li>
+																	<li >
+							<a href="/recorded/14993282" class="shadowbox">
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 10 Tech@State: Serious Games Session 3" width="192" height="108" data-lazyload="http://static-cdn1.ustream.tv/i/video/picture/0/1/14/14993/14993282/1_5058048_14993282,192x108,b,1:2.jpg" />
+														</a>
+															
+														<h4><a href="/recorded/14993282">Video 10 Tech@State: Serious Games Session 3</a></h4>
+													</li>
+																	<li >
+							<a href="/recorded/14990897" class="shadowbox">
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 8 Tech@State Serious Gaming Session 2" width="192" height="108" data-lazyload="http://static-cdn2.ustream.tv/i/video/picture/0/1/14/14990/14990897/1_5058048_14990897,192x108,b,1:3.jpg" />
+														</a>
+															
+														<h4><a href="/recorded/14990897">Video 8 Tech@State Serious Gaming Session 2</a></h4>
+													</li>
+														</ul>
+							<ul class="recordedShowThumbsV4 clearAfter">
+																						<li class="firstinrow">
+							<a href="/recorded/14990896" class="shadowbox">
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 7* Tech@State 05/27/11 09:28AM" width="192" height="108" data-lazyload="http://static-cdn1.ustream.tv/i/video/picture/0/1/14/14990/14990896/1_5058048_14990896,192x108,b,1:2.jpg" />
+														</a>
+															
+														<h4><a href="/recorded/14990896">Video 7* Tech@State 05/27/11 09:28AM</a></h4>
+													</li>
+																	<li >
+							<a href="/recorded/14987647" class="shadowbox">
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 3 Tech@State 05/27/11 07:33AM" width="192" height="108" data-lazyload="http://static-cdn2.ustream.tv/i/video/picture/0/1/14/14987/14987647/1_5058048_14987647,192x108,b,1:3.jpg" />
+														</a>
+															
+														<h4><a href="/recorded/14987647">Video 3 Tech@State 05/27/11 07:33AM</a></h4>
+													</li>
+																	<li >
+							<a href="/recorded/12625934" class="shadowbox">
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Tech@State 02/11/11 01:20PM" width="192" height="108" data-lazyload="http://static-cdn1.ustream.tv/i/video/picture/0/1/12/12625/12625934/1_5058048_12625934,192x108,b,1:2.jpg" />
+														</a>
+															
+														<h4><a href="/recorded/12625934">Tech@State 02/11/11 01:20PM</a></h4>
+													</li>
+														</ul>
+							</div> <!-- .scrollPagerWrp -->
+	</div>
+
+</div>
+
+			
+			
+							<a name="events"></a>
+							
+		</div>
+
+		<div class="rightCol_330">
+
+			<div id="SocialBox" class="">
+	<iframe
+		class="socialstream"
+		src="http://www.ustream.tv/socialstream/5058048"
+		width="328"
+		height="430"
+		scrolling="no"
+		frameborder="0"
+		style="border:0px none transparent;"></iframe><!--
+		--><a class="more button expand" id="SocialBoxExpand">
+			More		</a>
+</div>
+<div class="separator"></div>
+
+<div class="featuredContent colTitleBoxV4 pageScroller">
+	<div class="title">
+		<h3>Featured</h3>
+			</div>
+	<div class="content">
+		<ul class="scrollPagerWrp clearAfter">
+					<li>
+				<a href="/channel/the-chicharones-vans-warped-tour-experience" class="itemTitle">
+					The Chicharones Vans Warped Tour Experience				</a>
+				<div class="shadowbox overlayedActionBar ">
+					<a href="/channel/the-chicharones-vans-warped-tour-experience" class="iwrp">
+						<img
+													src="http://static-cdn1.ustream.tv/i/featured/content/9536,298x163,r:1.jpg"
+							class="lazyloaded"
+													alt="The Chicharones Vans Warped Tour Experience"
+							width="298"
+							height="163" />
+					</a>
+										
+		<div class="contentActionBar"
+									data-itemid="356934">
+			<dfn>Starts at <span data-dateformat="%m/%d/%Y %g:%i %A %T" data-timestamp="1341419400" class="dateFormat">07/04/2012 9:30 AM PDT</span></dfn>
+												<div class="rsvp">
+						
+
+<input type="hidden" class="eventBarRsvp" value="{eventId: 356934, href:'/ajax/event/rsvp.json/add/356934',isFollow:false}" />
+
+
+					</div>
+									</div>
+
+				</div>
+			</li>
+					<li>
+				<a href="/channel/red-bull-sound-space-at-amp" class="itemTitle">
+					Flo Rida at the Red Bull Sound Space At AMP Radio				</a>
+				<div class="shadowbox overlayedActionBar ">
+					<a href="/channel/red-bull-sound-space-at-amp" class="iwrp">
+						<img
+													src="http://static-cdn1.ustream.tv/i/featured/content/9486,298x163,r:1.jpg"
+							class="lazyloaded"
+													alt="Flo Rida at the Red Bull Sound Space At AMP Radio"
+							width="298"
+							height="163" />
+					</a>
+										
+		<div class="contentActionBar"
+									data-itemid="356685">
+			<dfn>Starts at <span data-dateformat="%m/%d/%Y %g:%i %A %T" data-timestamp="1341255600" class="dateFormat">07/02/2012 12:00 PM PDT</span></dfn>
+												<div class="rsvp">
+						
+
+<input type="hidden" class="eventBarRsvp" value="{eventId: 356685, href:'/ajax/event/rsvp.json/add/356685',isFollow:false}" />
+
+
+					</div>
+									</div>
+
+				</div>
+			</li>
+					<li>
+				<a href="/channel/lovelinelive" class="itemTitle">
+					Loveline Live with The Dirty Heads				</a>
+				<div class="shadowbox overlayedActionBar ">
+					<a href="/channel/lovelinelive" class="iwrp">
+						<img
+													src="http://static-cdn2.ustream.tv/i/featured/content/9543,298x163,r:1.jpg"
+							class="lazyloaded"
+													alt="Loveline Live with The Dirty Heads"
+							width="298"
+							height="163" />
+					</a>
+										
+		<div class="contentActionBar"
+									data-itemid="357233">
+			<dfn>Starts at <span data-dateformat="%m/%d/%Y %g:%i %A %T" data-timestamp="1341291600" class="dateFormat">07/02/2012 10:00 PM PDT</span></dfn>
+												<div class="rsvp">
+						
+
+<input type="hidden" class="eventBarRsvp" value="{eventId: 357233, href:'/ajax/event/rsvp.json/add/357233',isFollow:false}" />
+
+
+					</div>
+									</div>
+
+				</div>
+			</li>
+				</ul>
+	</div>
+</div>
+<div class="separator"></div>
+
+<div class="colTitleBoxV4 pageScroller slideScroller taboolaPlaceholder" id="RecommendedLive">
+
+		</div>
+		</div>
+	</div>
+</div>
+<div id="Footer">
+
+	<ul id="FooterSocial">
+					<li><a href="http://www.facebook.com/ustream" class="facebook">Facebook</a></li>
+							<li><a href="http://twitter.com/ustream" class="twitter">Twitter</a></li>
+			</ul>
+
+	<ul id="FooterMenu">
+		<li><a href="/about">About Us</a></li>
+		<li><a href="/products-services">Products & Services</a></li>
+		<li><a href="http://community.ustream.tv">Support</a></li>
+					<li><a href="/careers">Careers</a></li>
+				<li><a href="http://www.ustream.tv/blog">Blog</a></li>
+	</ul>
+
+	<form action="" method="get" id="ChooseLangForm">
+		<div class="copy">
+			&copy; 2012 Ustream, Inc. All rights reserved.			<a href="/copyright-policy">Copyright Policy</a>
+			| <a href="/privacy-policy">Privacy Policy</a>
+			| <a href="/terms">Terms of Service</a>
+
+			<select name="lang" id="chooselang">
+				<option value="0">Choose a language</option>
+				<option value="en_US">English</option>
+				<option value="ja_JP">日本語</option>
+				<option value="ko_KR">한국어</option>
+				<option value="es_ES">Español</option>
+				<option value="fr_FR">Français</option>
+				<option value="ru_RU">Русский</option>
+				<option value="de_DE">Deutsch</option>
+				<option value="it_IT">Italiano</option>
+				<option value="nl_NL">Nederlands</option>
+				<option value="pt_BR">Português</option>
+							</select>
+
+		</div>
+	</form>
+	</div>
+			</div> <!-- #ContentWrapper -->
+		</div> <!-- #MainWrapper -->
+
+		<script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
+		<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/common:13409577761.js"></script>
+<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/channel:13409577761.js"></script>
+<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/html5video:13409577761.js"></script>
+<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/ppv:13409577761.js"></script>
+
+		<script type="text/javascript" src="/en_US/header-data.js?secure=0"></script>
+
+		<script type="text/javascript">
+(function(){if(document.cookie.indexOf("noMeebo")>-1)return;
+	window.Meebo||function(c){function p(){return["<",i,' onload="var d=',g,";d.getElementsByTagName('head')[0].",
+	j,"(d.",h,"('script')).",k,"='//cim.meebo.com/cim?iv=",a.v,"&",q,"=",c[q],c[l]?
+	"&"+l+"="+c[l]:"",c[e]?"&"+e+"="+c[e]:"","'\"></",i,">"].join("")}var f=window,
+	a=f.Meebo=f.Meebo||function(){(a._=a._||[]).push(arguments)},d=document,i="body",
+	m=d[i],r;if(!m){r=arguments.callee;return setTimeout(function(){r(c)},100)}a.$=
+	{0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=5;var j="appendChild",
+	h="createElement",k="src",l="lang",q="network",e="domain",n=d[h]("div"),v=n[j](d[h]("m")),
+	b=d[h]("iframe"),g="document",o,s=function(){a.T("load");a("load")};f.addEventListener?
+	f.addEventListener("load",s,false):f.attachEvent("onload",s);n.style.display="none";
+	m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.name=b.id="meebo-iframe";
+	b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=
+	d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=
+	b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,
+	'\\"')+'");d.close();'}a.T(1)}({network:"ustream"});
+	Meebo.disableSharePageButton=true;
+}());
+</script>
+
+
+				
+<div id="fb-root"></div>
+<script src="https://connect.facebook.net/en_US/all.js"></script>
+
+
+				<script type="text/javascript" src="http://edge.quantserve.com/quant.js" charset="UTF-8"></script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	_qevents.push({
+	qacct: 'p-22sNmkTMKNC-A'
+	,labels: 'Event.Featured'});
+
+						_qevents.push({
+	qacct: 'p-8CUfddfLwsPW-'
+	,labels: 'Event.Featured'});
+			</script>
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-22sNmkTMKNC-A.gif?labels=Event.Featured" border="0" height="1" width="1" alt="Quantcast" />
+
+									<img src="//pixel.quantserve.com/pixel/p-8CUfddfLwsPW-.gif?labels=Event.Featured" border="0" height="1" width="1" alt="Quantcast" />
+						</div>
+</noscript>
+<!-- End Quantcast tag -->
+		
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+(function () {
+	var d = new Image(1, 1);
+	d.onerror = d.onload = function () {
+	  d.onerror = d.onload = null;
+	};
+	d.src = ["http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-903145h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+})();
+</script>
+<noscript>
+<div>
+	<img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-903145h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+		width="1" height="1" alt=""
+	/>
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+		<script type="text/javascript">
+(function(){ if (Math.floor(Math.random() * 10)) return; if (window.console && console.log) console.log("CE tracking.");
+setTimeout(function(){var a=document.createElement("script"); var b=document.getElementsByTagName('script')[0]; a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9794.js?"+Math.floor(new Date().getTime()/3600000); a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+}());
+</script>
+				
+				
+					</body>
+</html>
+
+

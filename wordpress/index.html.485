@@ -1,0 +1,691 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/home" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.rhok.org/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon" />
+<meta content="Home" about="/home" property="dc:title" />
+<link rel="shortlink" href="/node/27" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/home" />
+  <title>Home | Random Hacks of Kindness</title>
+  <style type="text/css" media="all">@import url("http://www.rhok.org/modules/system/system.base.css?m5c7lu");
+@import url("http://www.rhok.org/modules/system/system.menus.css?m5c7lu");
+@import url("http://www.rhok.org/modules/system/system.messages.css?m5c7lu");
+@import url("http://www.rhok.org/modules/system/system.theme.css?m5c7lu");</style>
+<style type="text/css" media="all">@import url("http://www.rhok.org/modules/comment/comment.css?m5c7lu");
+@import url("http://www.rhok.org/modules/field/theme/field.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/logintoboggan/logintoboggan.css?m5c7lu");
+@import url("http://www.rhok.org/modules/node/node.css?m5c7lu");
+@import url("http://www.rhok.org/modules/poll/poll.css?m5c7lu");
+@import url("http://www.rhok.org/modules/search/search.css?m5c7lu");
+@import url("http://www.rhok.org/modules/user/user.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/views/css/views.css?m5c7lu");</style>
+<style type="text/css" media="all">@import url("http://www.rhok.org/sites/all/modules/contrib/ctools/css/ctools.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/fivestar/css/fivestar.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/fivestar/widgets/basic/basic.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/twitter_block/twitter_block.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/views_slideshow/views_slideshow.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/vscc/vscc.css?m5c7lu");
+@import url("http://www.rhok.org/sites/all/modules/contrib/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle.css?m5c7lu");</style>
+<style type="text/css" media="all">@import url("http://www.rhok.org/sites/all/modules/contrib/date/date_api/date.css?m5c7lu");</style>
+<style type="text/css" media="all">@import url("http://www.rhok.org/sites/all/themes/rhok/css/base.css?m5c7lu");
+@import url("http://www.rhok.org/sites/default/files/less/sites/all/themes/rhok/css/style.css?m5c7lu");</style>
+  <script type="text/javascript" src="http://www.rhok.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.rhok.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.rhok.org/misc/drupal.js?m5c7lu"></script>
+<script type="text/javascript" src="http://www.rhok.org/sites/all/modules/contrib/fivestar/js/fivestar.js?m5c7lu"></script>
+<script type="text/javascript" src="http://www.rhok.org/sites/all/modules/contrib/views_slideshow/js/views_slideshow.js?m5c7lu"></script>
+<script type="text/javascript" src="http://www.rhok.org/sites/all/modules/contrib/vscc/js/vscc.js?m5c7lu"></script>
+<script type="text/javascript" src="http://www.rhok.org/sites/all/libraries/jquery.cycle/jquery.cycle.all.js?m5c7lu"></script>
+<script type="text/javascript" src="http://www.rhok.org/sites/all/modules/contrib/views_slideshow/contrib/views_slideshow_cycle/js/views_slideshow_cycle.js?m5c7lu"></script>
+<script type="text/javascript" src="http://www.rhok.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?m5c7lu"></script>
+<script type="text/javascript" src="http://use.typekit.com/cwy0rsb.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.rhok.org/sites/all/themes/rhok/js/main.js?m5c7lu"></script>
+<script type="text/javascript" src="http://www.rhok.org/sites/all/modules/contrib/views/js/jquery.ui.dialog.patch.js?m5c7lu"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"rhok","theme_token":"dyqNyMVLzzQieL78D_q7fFKc87HTvnVgkExh5OChYSY","js":{"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/fivestar\/js\/fivestar.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/modules\/contrib\/vscc\/js\/vscc.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"http:\/\/use.typekit.com\/cwy0rsb.js":1,"1":1,"sites\/all\/themes\/rhok\/js\/main.js":1,"sites\/all\/modules\/contrib\/views\/js\/jquery.ui.dialog.patch.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/fivestar\/css\/fivestar.css":1,"sites\/all\/modules\/contrib\/fivestar\/widgets\/basic\/basic.css":1,"sites\/all\/modules\/contrib\/twitter_block\/twitter_block.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"sites\/all\/modules\/contrib\/vscc\/vscc.css":1,"sites\/all\/modules\/contrib\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"0":1,"2":1,"100":1,"101":1,"102":1,"103":1,"104":1,"105":1,"106":1,"107":1,"108":1,"1":1,"109":1,"110":1,"111":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/themes\/rhok\/css\/base.css":1,"public:\/\/less\/sites\/all\/themes\/rhok\/css\/style.css":1}},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"viewsSlideshow":{"slides-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowControls":{"slides-block_1":{"bottom":{"type":"vsccControls"}}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slides-block_1":{"num_divs":20,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slides-block_1","effect":"scrollVert","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+jQuery('body.page-user h1.page-title').text('Log In');
+jQuery('body.page-user-register h1.page-title').text('Create New Account');
+jQuery('body.page-user-password h1.page-title').text('Request New Password');
+jQuery('input#edit-mailchimp-lists-mailchimp-1-subscribe').attr('checked','checked');
+});
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-27 node-type-page" >
+  <div id="skip-link">
+    <a href="#" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<div id="header" class="clearfix">
+  <div class="container">
+    <h1 id="logo">
+      <a href="/">Random Hacks of Kindness</a>
+    </h1>
+              <div class="region region-header">
+    <div id="block-system-user-menu" class="block block-system block-menu">
+
+    <h2 class="block-title">User menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/user/login" title="">Login</a></li>
+<li class="leaf"><a href="/user/register" title="">Register</a></li>
+<li class="leaf"><a href="/about">About</a></li>
+<li class="last leaf"><a href="/contact">Contact</a></li>
+</ul>  </div>
+</div>
+  </div>
+      </div>
+  <div id="navigation">
+    <div class="container clearfix">
+                  <div class="region region-navigation">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    <h2 class="block-title">Main menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/" title="" class="active">Home</a></li>
+<li class="leaf"><a href="/events">Events</a></li>
+<li class="leaf"><a href="/problems">Problems</a></li>
+<li class="leaf"><a href="/solutions">Solutions</a></li>
+<li class="leaf"><a href="/blog">Blog</a></li>
+<li class="last leaf"><a href="/community">Community</a></li>
+</ul>  </div>
+</div>
+<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/index.php?q=" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-jzVPiPWDvDt9jLmNUrePXLP7WKyYcK-taN29VTFmAjo" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+          </div>
+  </div>
+</div>
+
+
+  <div id="content-header">
+    <div class="container clearfix">
+        <div class="region region-content-header">
+    <div id="block-views-slides-block-1" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-slides view-id-slides view-display-id-block_1 view-dom-id-1">
+              <div class="view-header">
+       <h2>RHoK June 2012 Photos</h2>
+     </div>
+  
+  
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+  
+  <div id="views_slideshow_cycle_main_slides-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_slides-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_slides-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide089.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide046.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide023.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide085.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide024.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_5" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide022.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_6" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide033.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_7" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-8 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide074.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_8" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-9 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide060.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_9" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-10 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide059.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_10" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-11 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide021.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_11" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-12 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide095.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_12" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-13 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide058.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_13" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-14 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide032.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_14" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-15 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide096.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_15" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-16 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide073.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_16" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-17 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide028.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_17" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-18 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide061.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_18" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-19 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide068.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slides-block_1_19" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-20 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image-link">        <div class="field-content"><a href="http://www.rhok.org" title="" target="_self" rel="" class=""><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/slide_home/public/slides/Slide078.png" width="373" height="279" alt="" /></a></div>  </div></div>
+</div>
+</div>
+</div>
+      <div class="views-slideshow-controls-bottom clearfix">
+      <div id="vscc_controls_slides-block_1" class="vscc-controls vscc_controls">
+  <span id="vscc_controls_previous_slides-block_1" class="vscc_controls_previous"><a href="#"><img typeof="foaf:Image" src="http://www.rhok.org/sites/all/modules/contrib/vscc/images/black_arrow_left.png" alt="previous" title="previous" /></a></span>  <span id="vscc_controls_pause_slides-block_1" class="vscc_controls_pause"><a href="#"><span class="vscc-pause"><img typeof="foaf:Image" src="http://www.rhok.org/sites/all/modules/contrib/vscc/images/black_pause.png" alt="pause" title="pause" /></span><span class="vscc-resume vscc-disabled"><img typeof="foaf:Image" src="http://www.rhok.org/sites/all/modules/contrib/vscc/images/black_arrow_right.png" alt="resume" title="resume" /></span></a></span>  <span id="vscc_controls_next_slides-block_1" class="vscc_controls_next"><a href="#"><img typeof="foaf:Image" src="http://www.rhok.org/sites/all/modules/contrib/vscc/images/black_arrow_right.png" alt="next" title="next" /></a></span></div>    </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+<div id="block-block-2" class="block block-block">
+
+    <h2 class="block-title">Get Involved</h2>
+  
+  <div class="content">
+     <p class="intro">Random Hacks of Kindness is a global community of innovators building practical open technology to make the world a better place.</p>
+<p><a href="/about" class="learn-more">Learn More</a></p>
+<ul><li><a href="/events" id="attend-or-host">Attend or Host an Event</a></li>
+<li><a href="/problems" id="define-problem">Define a Problem</a> or <a href="/solutions" id="work-on-solution">Work on a Solution</a></li>
+</ul>  </div>
+</div>
+<div id="block-views-updates-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-updates view-id-updates view-display-id-block view-dom-id-2">
+              <div class="view-header">
+       <h2>Latest Activity</h2>
+     </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div>        <span class="">Updated Blog Post</span>  </div>  
+  <span>        <div class=""><a href="/blog/community-rhokstars-qa-bob-lannon">A Community of RHoKstars: Q&amp;A with Bob Lannon</a></div>  </span>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div>        <span class="">Updated Blog Post</span>  </div>  
+  <span>        <div class=""><a href="/blog/depth-look-sustainability-project-winners">An In Depth Look at the Sustainability Project Winners</a></div>  </span>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div>        <span class="">Updated Blog Post</span>  </div>  
+  <span>        <div class=""><a href="/blog/welcoming-june-2012-accelerator-teams">Welcoming the June 2012 Accelerator Teams!</a></div>  </span>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div>        <span class="">Updated Blog Post</span>  </div>  
+  <span>        <div class=""><a href="/blog/gamejamming-rhok-montreal">GameJamming at RHoK Montreal</a></div>  </span>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div>        <span class="">Updated Blog Post</span>  </div>  
+  <span>        <div class=""><a href="/blog/rhok-june-2012-recap-toronto-and-southampton">RHoK June 2012 Recap: Toronto and Southampton</a></div>  </span>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div>        <span class="">Updated Blog Post</span>  </div>  
+  <span>        <div class=""><a href="/blog/power-open-crowd-sourced-ideas-crowd-powered-solutions">The Power of Open: Crowd-Sourced Ideas &amp; Crowd-Powered Solutions</a></div>  </span>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div>        <span class="">Updated Blog Post</span>  </div>  
+  <span>        <div class=""><a href="/blog/games-social-change-rhok-montreal">Games for Social Change RHoK in Montreal!</a></div>  </span>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div>        <span class="">Updated Blog Post</span>  </div>  
+  <span>        <div class=""><a href="/blog/more-rhok-june-2012-recaps-news-keeps-getting-better">More RHoK June 2012 Recaps -- The news keeps getting better!</a></div>  </span>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div>        <span class="">Updated Solution</span>  </div>  
+  <span>        <div class=""><a href="/solutions/biomedlinknet">BioMedLink.net</a></div>  </span>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div>        <span class="">Updated Solution</span>  </div>  
+  <span>        <div class=""><a href="/solutions/biomedlinknet">BioMedLink.net</a></div>  </span>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  </div>
+    </div>
+  </div>
+
+  <div id="content-subhead">
+    <div class="container clearfix">
+        <div class="region region-content-subhead">
+    <div id="block-views-partners-block" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-partners view-id-partners view-display-id-block view-dom-id-3">
+          
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="/partners"><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/partner_logo/public/World%20Bank%20logo.png" width="41" height="42" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="/partners"><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/partner_logo/public/Microsoft_Logo.png" width="120" height="28" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="/partners"><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/partner_logo/public/NASA_Logo.png" width="49" height="42" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="/partners"><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/partner_logo/public/Yahoo_Logo.png" width="120" height="23" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="/partners"><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/partner_logo/public/Google_logo.png" width="120" height="40" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="/partners"><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/partner_logo/public/logo-sm-rgb_no-bkgrnd_google.png" width="102" height="42" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="/partners"><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/partner_logo/public/gfdrr.jpg" width="120" height="38" alt="" /></a></div>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-logo">        <div class="field-content"><a href="/partners"><img typeof="foaf:Image" src="http://www.rhok.org/sites/default/files/styles/partner_logo/public/HP%20Logo_0.png" width="42" height="42" alt="" /></a></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+</div>
+  </div>
+    </div>
+  </div>
+
+
+
+    
+<div id="content-wrapper">
+  <div class="clearfix container">
+      
+    <div id="content">
+        <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-27" class="node node-page node-full clearfix" about="/home" typeof="sioc:Item foaf:Document">
+
+      
+  
+  <div class="content clearfix">
+      </div>
+
+  
+  
+</div>
+  </div>
+</div>
+<div id="block-views-blog-block-1" class="block block-views">
+
+    
+  <div class="content">
+    <div class="view view-blog view-id-blog view-display-id-block_1 content-list view-dom-id-3">
+          
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="post-date">        <span class="post-month">Jun</span>
+<span class="post-day">28</span>  </div>  
+          <h3 class=""><a href="/blog/community-rhokstars-qa-bob-lannon">A Community of RHoKstars: Q&amp;A with Bob Lannon</a></h3>    
+  <p class="author">    <span class="">Published by</span>    <span class="username" xml:lang="" about="/users/esabet" typeof="sioc:UserAccount" property="foaf:name">esabet</span>  </p>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>The next installment in our Community of RHoKstars series is an interview with Bob Lannon, who brought his problem idea to RHoK Philadelphia in December 2011 and worked with a dedicated team at RHoK, and thereafter, to turn his idea into a reality.</p>
+<p><strong>Tell us a bit about yourself.  (Where do you call home?  What keeps you busy during the day?  What do you enjoy?)</strong></p>
+<div>I'm a native of suburban Philadelphia, but I've lived in the city since 2004. I spend most of my time working, which means scraping and munging data as well as writing Python code to analyze that data and display it in interesting ways. More than anything, I enjoy opportunities to make specialized information understandable to non-specialists. I don't mean even just in a formal setting: I politely butt in to perfect strangers' conversations with factoids a lot.  Most of the time, they're not annoyed, haha.  </div>
+<div> </div>
+<div>I'd like the work i'm doing to achieve the same thing.  More and more often, people have these little robots in their pockets and I see it as my job to make them conduits to information relevant to their immediate environment.  </div>
+<div> </div>
+<div>Work aside, I love karaoke, dancing and picking my friends' brains (many of whom are doing really interesting work in a wide range of disciplines, from cooking to woodworking to education and healthcare).</div>
+<p><strong><img alt="" src="/sites/default/files/u6/Lannon_Bob.jpg" style="cursor: default; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; float: left; width: 300px; height: 397px; " /><strong><b>How have you been involved with RHoK? </b></strong></strong></p>
+<div>I was first referred to RHoK by Erika Owens (community manager , <a href="http://mozillaopennews.org/">Knight-Mozilla OpenNews</a>) at a Hacks/Hackers Meetup.  <a href="http://http://hackshackers.com/">Hacks/Hackers </a>is a group that meets to talk about possible advantages that the tech community can offer to people working in journalism.  A combination of luck and Philadelphia's uncanny ability to seem like a small town resulted in a good friend of mine, Jim Snavely (mobile developer, Reuters), walking out of an Android Meetup and seeing me at Hacks/Hackers.  He stopped in to say hello, and by the end of the discussion that followed, a small group of us decided that my idea for an audio-identification system focused on political campaign advertisements was a great project to take to RHoK.  </div>
+<div> </div>
+<div>Two other members of the Hacks/Hackers group, Pam Selle (software engineer, <a href="http://www.paperlesspost.com">Paperless Post</a>) and Jake Richter (programming hobbyist in Philadelphia), also joined in by the time the hackathon was underway.  Pam had great input as someone with experience in politics and Jake contributed a lot to the design of our public-facing site.  </div>
+<div> </div>
+<div>The five of us got to work immediately when RHoK was underway and we kept it up for months afterward, showing off our finished product to interested parties in campaign advertising fact-checking and government transparency.  After meeting with a few different organizations, the project found an excellent home at the <a href="http://www.sunlightfoundation.com">Sunlight Foundation</a>, which is a non-profit, nonpartisan organization that implements technology aimed at greater government openness and transparency.  </div>
+<div> </div>
+<div>The mobile application I'm continuing to develop at Sunlight listens to political campaign advertisements, identifies them and gives the user information about who paid for them.  It's planned for release to the Android and Apple app stores this summer, to help voters navigate the claims made during the 2012 presidential and congressional races.</div>
+<div> </div>
+<div><b>Why does RHoK matter to the world? </b></div>
+<div class="im">
+<div style="color: rgb(80, 0, 80); "> </div>
+</div>
+<div>The trend towards using advanced technology for social good is not only exciting, it's vital.  I think that one thing RHoK does really well is bring concerned citizens and specialists in non-technical areas together with individuals that can build things to help achieve their goals.  </div>
+<div> </div>
+<div>That's no small thing.  Almost by definition, someone with the training it takes to be a successful technologist is going to come from some level of privilege.  Furthermore, their skills can in many cases command high hourly rates.  Their volunteer involvement in projects with social import is nothing short of amazing, and I think it has the potential to open a whole world of new opportunities for all involved. RHoK gives these technologists a forum that not only puts them in touch with people who need their services, but also a chance to see that there are venues outside of the traditional for-profit world where their talents are valuable.  </div>
+<div> </div>
+<div>Finally, it's really important that RHoK is an international community.  Solutions found in one place are often applicable in others.  With a global exchange of information and solutions, we have the power to very literally change the world.</div>
+<div> </div>
+<div><b>Why does RHoK matter to you? </b></div>
+<div class="im">
+<div style="color: rgb(80, 0, 80); "> </div>
+</div>
+<div>RHoK opened my eyes to a career path that I hadn't even considered previously.  As I mentioned, I intend my career to center around enabling the enrichment and dissemination of information that I believe is crucial to the goals of a democratic, humanitarian society.  </div>
+<div> </div>
+<div>There is often a divide, however, between individuals who share those goals and the tech community.  After all, the headlines in tech reporting are typically centered on the latest gadgetry, slickest new software packages and the dazzling rise of trend-setting start-ups with vaguely defined business value propositions.  Less often do we hear about the proverbial rubber meeting road where technical solutions are implemented with real impact on individuals' lives.  </div>
+<div> </div>
+<div>At RHoK, I saw non-technical specialists breathing huge breaths of fresh air as technically-skilled volunteers lifted some tremendous burdens from their shoulders.  I want to do that every chance I get, now.</div>
+<div> </div>
+<div><b style="font-family: arial, sans-serif; font-size: 13px; ">Based on your experience with RHoK, do you have any words of wisdom to share with the larger RHoK community?</b></div>
+<div class="im">
+<div style="color: rgb(80, 0, 80); "> </div>
+</div>
+<div>First and foremost: go in to RHoK with a reasonable expectation of what your final product will be.  In most cases, it will be a proof of concept that will lay the foundation for future work.  That's no small thing.  Often crucial funding and buy-in decisions are made based on tangible (if unrefined) evidence that a solution is possible.  I think, in the best case, that those involved with RHoK projects should feel enthusiastic about the hackathon being the START of a great project that you will continue to invest time in after the event.  </div>
+<div> </div>
+<div>One other thing: there's a lot of romance in the idea that people can come to an event like RHoK totally naive to the concerns of the people who are looking for help and find an ingenious solution in the 2-3 days over which the event is held. I like that idea. I'm sure it's possible and I'm sure it's legitimately happened that way more than once.  I'd like to suggest, though, that being in touch with them in the months leading up to RHoK is what will most dramatically increase the probability of having a focused problem definition at the start of a hackathon and the beginnings of a real solution by the end.  </div>
+<div> </div>
+<div>I've seen this in action more than once now, and it works, for at least two reasons (that I can think of).  First, technologists and non-technologists have a propensity to baffle each other with their descriptions of the issues involved with a project.  For both types of participants, it's often the case that they have assumptions about what can or should be done given their limited understanding of the others' abilities and constraints. Learning each others' points of view is an iterative process. Not until they begin to get down to the real process of planning a solution do they realize that some of these assumptions were unfounded.  A communication exchange beforehand could bring these gaps in understanding to light, and avoid investing the precious collaboration time during RHoK itself.  </div>
+<div> </div>
+<div>Second, many problems have been solved already, but it's a good idea to test-drive those solutions (with minimal time investment) before exploring them as a group. The open source community has a lot of resources that can jump-start projects like those started at RHoK. It's increasingly likely that there's a piece of software on Github that, with a little hacking, can do exactly what you need to be done. That's not always easy to find, though, and you may want to take some time, before the event, to explore what's out there. It's a pain to work with something that looks perfect only to realize that it doesn't (maybe can't) do this ONE THING that is actually central to the project.</div>
+<div> </div>
+<div>Most of all, be flexible and listen intently to your collaborators.  Try to hear exactly where they're coming from, and ask questions if you don't understand. Seriously: ask questions if you don't understand something.  Everyone's new to something at RHoK, but everyone's there to make something great, and that can only happen if everyone communicates.</div>
+<p> </p></div>  </div>  
+  <div class="read-more">        <a href="/blog/community-rhokstars-qa-bob-lannon">Read More</a>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="post-date">        <span class="post-month">Jun</span>
+<span class="post-day">27</span>  </div>  
+          <h3 class=""><a href="/blog/depth-look-sustainability-project-winners">An In Depth Look at the Sustainability Project Winners</a></h3>    
+  <p class="author">    <span class="">Published by</span>    <span class="username" xml:lang="" about="/users/thea-aldrich" typeof="sioc:UserAccount" property="foaf:name">Thea Aldrich</span>  </p>  
+  <div class="views-field views-field-body">        <div class="field-content"><p>Last week RHoK and <a href="http://gwob.org/">Geeks Without Bounds</a> announced the first set of RHoK/GWOB Accelorator winners. Out of a variety of applicants, GWOB selected three hacks developed at the June 2012 RHoK events to take part in the first round of the <a href="http://www.rhok.org/blog/sustainability-partnerships-how-apply-and-what-you-get">RHoK Sustainability Project. </a> Because of the interest in the Sustainability Project and  impact the selected teams have the potential to make in their communities and beyond, we would like to take this opportunity to share these hacks in more detail.</p>
+<p> </p>
+<p><a href="http://www.rhok.org/solutions/development-operational-water-stress-product-satellite-imagery">WaterMe</a></p>
+<p style="text-align: center; ">
+<iframe allowfullscreen="" frameborder="0" height="315" scrolling="no" src="http://www.youtube.com/embed/91GtZ0YtSkw" width="420"></iframe></p>
+<p> </p>
+<p>WaterMe is a prototype web based application built to reduce the time and effort it takes to map water stress on plants in drought conditions. The problem definition proposed by subject matter expert Robin Wilson at the <a href="http://www.rhok.org/event/southampton-united-kingdom">RHoK Southampton </a>event aimed to create an operational Normalized Difference Water Index (NDWI). According to the team, "Droughts are an increasing global concern due to increased agricultural land-use pressures, rapidly increasing populations and the effects of climate change. One key effect of droughts is the reduction in water available to plants putting them under <em style="color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; line-height: 18px; text-align: left; margin: 0px; padding: 0px; border: 0px; font: inherit; vertical-align: baseline; ">water stress. </em><span style="color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; line-height: 18px; text-align: left; ">This is difficult and time-consuming to map at ground level, and it is therefore difficult to get a synoptic overview of water stress conditions in plants across a state, region, country or continent. </span><span style="line-height: 18px; color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; text-align: left; ">Satellite imagery can be used to produce a product called the Normalised Difference Water Index, (NDWI) which uses a simple calculation to provide a measure of the water content in vegetation. This can then be combined with land cover maps (also available from satellite imagery) to predict the level of water content expected in the vegetation at that time of year, and then map anomalies, where negative anomalies will be evidence of water stress. At present, no operational NDWI product is produced from any satellite, and no products are available with NDWI taken through to water stress, so this would provide a new resource to a number of communities of users (including academics), as well as achieving developmental goals."</span></p>
+<p>The code for WaterMe can be found at <a href="http://rhoksoton.github.com/WaterMe/" style="color: rgb(28, 112, 183); outline: none; -webkit-tap-highlight-color: rgb(255, 94, 153); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 13px; line-height: 17px; text-align: left; ">http://rhoksoton.github.com/WaterMe/</a>. </p>
+<p>The prototype of WaterMe created at RHoK Southampton was eventually split into two components: WaterMeFeeder and WaterMe. The WaterMeFeeder <span style="color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 13px; line-height: 17px; text-align: left; ">downloads <a href="http://modis.gsfc.nasa.gov/">MODIS </a>tiles from the NASA FTP servers, processes them to reproject the data and calculate NDWI, removes clouds and water areas, and then stores the resulting points in a MySQL database. It is written in Python, and uses a number of libraries including GDAL, pyMySQL and NumPy. It is feature complete, well documented with comments, and shouldn't need much more work. WaterMe provides the API and user interface for the data. The API is written in node.js, and provides a number of functions to return data in JSON format. The user-interface uses<a href="http://leaflet.cloudmade.com/"> 'Leaflet'</a> - an open-source mapping library - to overlay data points on <a href="http://www.openstreetmap.org/">OpenStreetMap</a> data.</span></p>
+<p>You can view the entire project or get involved in the WaterMe project by visiting their <a href="http://www.rhok.org/solutions/development-operational-water-stress-product-satellite-imagery">RHoK Solutions page</a>.</p>
+<p> </p>
+<hr /><p>4TeachersProject</p>
+<p>Started by four high school teachers in Central Texas, the 4TeachersProject submitted an innovative solution, The Desk, to combat some of the most critical issues facing teachers today. Originally divided in to three separate problem definitions (<a href="http://www.rhok.org/problems/empowering-teachers-technology-phase-one-key">The Key</a>, <a href="http://www.rhok.org/problems/empowering-teachers-technology-phase-two-cabinet">The Cabinet </a>and <a href="http://www.rhok.org/problems/empowering-teachers-technology-phase-three-lounge">The Lounge</a>), the teams at RHoK Austin were able to combine forces to build one web-based application that met all three requirements. The result is a social network called the Desk, designed specifically to meet the needs of teachers and foster collaboration. </p>
+<p> </p>
+<p style="text-align: center; ">
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/u-AfXQ1Q6Z0" width="560"></iframe></p>
+<p> </p>
+<p>According to the <a href="http://www.fourteachersproject.org/p/desk.html">4TeachersProject website</a>, "Currently, there is no central database from which teachers can source ideas for lesson plans. Sites currently found online are individually run, vary in quality and effectiveness, require a subscription, and/or don't provide peer editing or peer evaluation.The Desk will solve all of these problems while creating the first free community for teachers everywhere. Our goal is for The Desk to be the largest database of lesson plans available at no cost to teachers across the nation. The Desk will be a community for teachers to share ideas, teaching tools, best practices, and concrete models for how to be successful in the classroom. The Desk will start in Texas, but in the future we hope to launch nation-wide, in order to connect teachers everywhere, across America, to one another and to help raise the standards of teaching to a new level of consistency, quality, and innovation."</p>
+<p> </p>
+<hr /><p><a href="http://www.rhok.org/solutions/biomedlinknet">BioMedLink.net</a></p>
+<p>Developed at the San Francisco RHoK event, BioMedLink is <span style="color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 13px; line-height: 17px; text-align: left; ">a functional supply chain that can quickly link all web-connected users with a wide range of innovative, reasonably-priced devices well-suited to their needs means better health outcomes in low-resource settings. </span><span style="color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 13px; line-height: 17px; text-align: left; ">BioMedLink aims to bridge the gap between device innovators, end users, and those who fund, manufacture, and distribute biomedical devices in the developing world. </span></p>
+<p><span style="color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 13px; line-height: 17px; text-align: left; ">While still in the concept phase, this hack has the potential to impact a variety of communities and increase the access to medical care for all. According to subject matter expert and team leader Terry Mandel, "</span><span style="color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 13px; line-height: 16px; text-align: left; ">Improving health in the developing world, in particular, requires access to affordable equipment for translational research, diagnosis, and treatment. Currently, business acumen and connections, charisma, and serendipity play an outsize role in equipping users with devices. A functional supply chain that can quickly link all web-connected users with a wide range of innovative, reasonably-priced devices well-suited to their needs means better health outcomes in low-resource settings. </span><span style="color: rgb(68, 68, 68); font-family: proxima-nova-1, proxima-nova-2, 'Helvetica Neue', Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 13px; line-height: 17px; text-align: left; ">End users want access to the best devices for their needs, so being able to source a wide variety of options and evaluate their suitability through user feedback are high priorities. Many clinics, hospitals, and labs in the developing world are now equipped — to whatever extent they are — with second-hand devices provided by charity-minded first-world physicians, institutions, NGOs, and others that may be outdated and ill-suited to their settings due to lack of reliable electricity, training, parts, supplies, technical support, or other requirements." </span></p>
+<p> </p>
+<p style="text-align: center; ">
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/bdc_BpLJb94" width="560"></iframe></p>
+<p style="text-align: center; "> </p>
+<p style="text-align: left; ">The entire RHoK community, sponsors and Core Team wish each of these teams the best of luck and look forward to seeing them take their hack to the next level. Stay tuned to the blog for regular updates on their progress.</p></div>  </div>  
+  <div class="read-more">        <a href="/blog/depth-look-sustainability-project-winners">Read More</a>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="post-date">        <span class="post-month">Jun</span>
+<span class="post-day">21</span>  </div>  
+          <h3 class=""><a href="/blog/welcoming-june-2012-accelerator-teams">Welcoming the June 2012 Accelerator Teams!</a></h3>    
+  <p class="author">    <span class="">Published by</span>    <span class="username" xml:lang="" about="/users/esabet" typeof="sioc:UserAccount" property="foaf:name">esabet</span>  </p>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><strong>Earlier this year, <a href="http://www.rhok.org/node/69942">we announced the RHoK Sustainability Project</a>--a plan to work with Sustainability Partners who will select promising projects coming out of RHoK hackathons and support them with 6 months of incubation and mentorship, accelerating those projects on their path to deployment and real-world impact.  RHoK Sustainability Partner <a href="http://www.gwob.org">Geeks Without Bounds </a>has just selected the first round of projects for their accelerator!  We are excited to see how these diverse projects develop and make a difference!  </strong></p>
+<p><strong>Cross-posted from<a href="http://www.gwob.org"> gwob.org</a>.</strong></p>
+<h3 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: bold; font-style: inherit; font-size: 16.5px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(153, 204, 51); line-height: 22px; ">A reminder of what we’re about:</h3>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; ">Technical people want to contribute to humanitarian response, too. Right now it’s incredibly difficult to figure out how to engage, though. We’ve had hackathons, and they’ve been great – but the projects coming out of them don’t often see full development. We think that’s a disservice to all parties involved. So we’re creating the structure on which developers and hackers can get involved – responsibly. The last thing first responders need is a tool full of promise that crashes when you need it most.</p>
+<h3 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: bold; font-style: inherit; font-size: 16.5px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(153, 204, 51); line-height: 22px; ">How this works:</h3>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; "><a href="http://gwob.org/wp-content/uploads/2012/06/gwobaccelerator.png" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; "><img alt="" class="alignright size-full wp-image-1263" height="198" src="http://gwob.org/wp-content/uploads/2012/06/gwobaccelerator.png" style="margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px; padding-top: 0px; padding-right: 0px; padding-bottom: 15px; padding-left: 15px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; border-style: initial; border-color: initial; float: right; border-style: initial; border-color: initial; " title="gwobaccelerator" width="291" /></a>Teams receive 6 months of mentorship in things like field relevance and pitch development. Read more <a href="http://gwob.org/2012/05/23/6-months-of-mentorship/" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; ">here</a>. They learn to support themselves even as they learn to contribute to humanitarian response.</p>
+<h3 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: bold; font-style: inherit; font-size: 16.5px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(153, 204, 51); line-height: 22px; ">How people got involved:</h3>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; ">Teams were invited to apply at the June RHoK all over the world. We received 11 applications from 5 countries, each with a rough business plan and video submission. Our <a href="http://gwob.org/about-2/who-is-gwob/" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; ">advisory board</a>reviewed the teams and ranked them based on ability to execute, a plan to become sustainable for the team as well as the customer base, and awareness of context.</p>
+<h1 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: bold; font-style: inherit; font-size: 30px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(98, 98, 98); line-height: 39px; ">The teams!</h1>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; ">Enough talking. Who won?</p>
+<h3 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: bold; font-style: inherit; font-size: 16.5px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(153, 204, 51); line-height: 22px; "><a href="http://www.rhok.org/problems/empowering-teachers-technology-phase-one-key" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 17px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; ">4Teachers Project</a> :</h3>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; ">The Desk is a one-stop teacher resource center. Our Goal is to create a searchable database of Texas teaching standards (called The Key); a lesson plan bank that allows teachers to upload or search for lesson plans (called The Cabinet); and a profile-based social network that allows teachers to search for and communicate with other teachers (called The Lounge).  The goal of The Desk is to help novice teachers get support and lessons to help make them better teachers and stay in the classroom, while experienced teachers get to track changing national and state standards by uploading their time-tested lessons.</p>
+<h3 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: bold; font-style: inherit; font-size: 16.5px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(153, 204, 51); line-height: 22px; "><a href="http://www.rhok.org/solutions/biomedlinknet" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 17px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; ">BioMedLink</a> :</h3>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; ">BioMedLink aims to bridge the gap between device innovators, end users, and those who fund, manufacture, and distribute biomedical devices in the developing world.  Despite a recent surge of innovation in biomedical devices for this audience, the existing supply chain is both highly fragmented and heavily dependent on established manufacturers and distribution networks.  Improving health in the developing world requires access to affordable equipment for translational research, diagnosis, and treatment. Currently, serendipity and charisma play an outsize role in equipping users with devices. A functional supply chain that can quickly link all web-connected users with a wide range of innovative, reasonably-priced devices well-suited to their needs means better health outcomes in low-resource settings.</p>
+<h3 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: bold; font-style: inherit; font-size: 16.5px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(153, 204, 51); line-height: 22px; "><a href="http://www.rhok.org/solutions/development-operational-water-stress-product-satellite-imagery" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 17px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(102, 102, 102); text-decoration: none; outline-style: none; outline-width: initial; outline-color: initial; ">WaterMe</a> :</h3>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; ">The aim of WaterMe is to develop a global and free to access drought monitoring and information service using NDWI data (measuring the amount of water stored in vegetation) extracted from freely available MODIS data supplied by NASA, the aim being to store the previous 10 years data and provide timely updates through a web interface using an open mapping solution, an API allowing further processing by interested parties, and an SMS gateway for use by end users using basic mobile telephony.</p>
+<h3 style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: bold; font-style: inherit; font-size: 16.5px; font-family: inherit; text-align: left; vertical-align: baseline; color: rgb(153, 204, 51); line-height: 22px; ">What’s Next?</h3>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; ">We’ll be reporting on the progress of the teams and also the mentoring they receive – we want many groups to benefit from this process, even if it is not specifically tailored to them. Watch this space for updates, live casts, challenges, and triumphs.</p>
+<p style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 12px; padding-left: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; font-weight: inherit; font-style: inherit; font-size: 13px; font-family: inherit; text-align: left; vertical-align: baseline; line-height: 17px; "><em>I hope it works.</em></p></div>  </div>  
+  <div class="read-more">        <a href="/blog/welcoming-june-2012-accelerator-teams">Read More</a>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="post-date">        <span class="post-month">Jun</span>
+<span class="post-day">20</span>  </div>  
+          <h3 class=""><a href="/blog/gamejamming-rhok-montreal">GameJamming at RHoK Montreal</a></h3>    
+  <p class="author">    <span class="">Published by</span>    <span class="username" xml:lang="" about="/users/thea-aldrich" typeof="sioc:UserAccount" property="foaf:name">Thea Aldrich</span>  </p>  
+  <div class="views-field views-field-body">        <div class="field-content"><h1 itemprop="name" style="padding: 0px; margin: 0px 0px 5px; background-color: rgb(244, 245, 247); text-align: center; "><span style="color: rgb(68, 85, 102); font-size: 36px; line-height: 1.1; font-family: helvetica, arial, sans-serif; ">Random Hacks of Kindness, Montreal June 1-3 2012</span></h1>
+<div class="description_wrapper" style="font-family: helvetica, arial, sans-serif; line-height: 20px; margin: 0px; padding: 0px; position: relative; ">
+<div class="description " data-expand-tooltip="Click to expand description" itemprop="description" style="margin: 0px; padding: 0px; line-height: 21px; max-height: 9999px; -webkit-transition: all 1s ease-in-out 0ms; ">
+<p class="first" style="color: rgb(113, 118, 122); font-size: 16px; margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; "> </p>
+<p class="first" style="color: rgb(113, 118, 122); font-size: 16px; margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; text-align: center; "><strong><em>Unai Miquelajáuregui from RHoK Montreal produced this amazing video showcasing just a few of the projects developed June 1-3, 2012. A special thanks to the organizers of the event, title sponsor Nokia and all the other volunteers, hackers and local sponsors for making the event truly epic. </em></strong></p>
+<p class="first" style="color: rgb(113, 118, 122); font-size: 16px; margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; text-align: center; "> </p>
+<p class="first" style="color: rgb(113, 118, 122); font-size: 16px; margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; text-align: center; "><strong><em></em></strong></p>
+<iframe allowfullscreen="" frameborder="0" height="281" longdesc="http://vimeo.com/44278371" mozallowfullscreen="" scrolling="no" src="http://player.vimeo.com/video/44278371" webkitallowfullscreen="" width="500"></iframe><p></p>
+<p style="text-align: center; "><strong><em><a href="http://vimeo.com/44278371">Random Hacks of Kindness, Montreal June 1-3 2012</a> from <a href="http://vimeo.com/decodeglobal">Decode Global</a> on <a href="http://vimeo.com">Vimeo</a>.</em></strong></p>
+<p class="first" style="margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; "> </p>
+</div>
+</div>
+<p class="first" style="color: rgb(113, 118, 122); font-family: helvetica, arial, sans-serif; font-size: 16px; line-height: 21px; margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; ">On the eve of June 1st, many developers and game enthusiasts could be seen chatting excitedly around the Hexagram Institute at Concordia University in Montreal, Canada. So why all the commotion?<br /><br />A game jam, of course! In most game jams, participants are invited to conceptualize and develop a game idea in 48 hours, based on a given theme.<br /><br />But this was no ordinary game jam - it was a Random Hacks of Kindness Game Jam - fueled by the desire to do good; every team was required to identify a social issue and design a game that addressed that issue.</p>
+<p style="color: rgb(113, 118, 122); font-family: helvetica, arial, sans-serif; font-size: 16px; line-height: 21px; margin: 10px 0px 0px; padding: 0px; ">Among the different global problems concerned were: lack of access to potable water, homelessness, street children, and others. The teams were incredibly creative in tackling the issues with their game ideas.</p></div>  </div>  
+  <div class="read-more">        <a href="/blog/gamejamming-rhok-montreal">Read More</a>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+       <p><a href="/blog" class="blog"><span>More from the Blog</span></a> <a href="/media" class="media"><span>RHoK in the Media</span></a></p>
+     </div>
+  
+  
+</div>   </div>
+</div>
+  </div>
+    </div>
+
+          <div id="sidebar-first">
+          <div class="region region-sidebar-first">
+    <div id="block-rhok-participation-rhok-participation" class="block block-rhok-participation">
+
+    <h2 class="block-title">Participation</h2>
+  
+  <div class="content">
+    <div class="members"><span class="number">4,431</span> <a href="/community">Members</a></div>
+<div class="problems"><span class="number">445</span> <a href="/problems">Problems</a></div>
+<div class="events"><span class="number">131</span> <a href="/events">Events</a></div>
+<div class="solutions"><span class="number">231</span> <a href="/solutions">Solutions</a></div>
+  </div>
+</div>
+<div id="block-block-3" class="block block-block">
+
+    
+  <div class="content">
+     <ul class="follow-rhok"><li><a class="twitter" href="http://twitter.com/#!/randomhacks">Twitter</a></li>
+<li><a class="facebook" href="http://www.facebook.com/RandomHacks">Facebook</a></li>
+<li><a class="rss" href="/blog/feed">RSS</a></li>
+</ul>  </div>
+</div>
+<div id="block-twitter-block-default" class="block block-twitter-block">
+
+    <h2 class="block-title">Twitter</h2>
+  
+  <div class="content">
+    <div id="twitter_block_results" class="twitter_block"><div class="item-list"><ul><li class="first"><div class="twitter_block tweet">
+  <div class="tweet_text"><p class="tweet">RT @<a href="http://twitter.com/NASA">NASA</a>: Join us at Random Hacks of Kindness and help us develop solutions for these two #<a href="http://search.twitter.com/search?q=%23NASA">NASA</a> challenges <a href="http://t.co/6YR2dBu7">http://t.co/6YR2dBu7</a>  #<a href="http://search.twitter.com/search?q=%23RHoK">RHoK</a></p></div> 
+  <div class="twitter_block_user">
+    <a class="twitter_block profile_image" href="http://twitter.com/DanielDaly13">
+      <span class="twitter_block_user_name">@DanielDaly13</span>
+    </a>
+    <span class="twitter_block_time_ago">2 days 2 hours</span>
+  </div>
+</div></li>
+<li><div class="twitter_block tweet">
+  <div class="tweet_text"><p class="tweet">RT @<a href="http://twitter.com/randomhacks">randomhacks</a>: @<a href="http://twitter.com/dius_au">dius_au</a> @<a href="http://twitter.com/FloateDesign">FloateDesign</a> team at #<a href="http://search.twitter.com/search?q=%23RHOK">RHOK</a> create an app to help communities recover after disasters.  <a href="http://t.co/Vigni4Rk">http://t.co/Vigni4Rk</a></p></div> 
+  <div class="twitter_block_user">
+    <a class="twitter_block profile_image" href="http://twitter.com/dius_au">
+      <span class="twitter_block_user_name">@dius_au</span>
+    </a>
+    <span class="twitter_block_time_ago">2 days 4 hours</span>
+  </div>
+</div></li>
+<li><div class="twitter_block tweet">
+  <div class="tweet_text"><p class="tweet">RT @<a href="http://twitter.com/assistMi">assistMi</a>: What's it mean to be a #<a href="http://search.twitter.com/search?q=%23RHoK">RHoK</a> Star? Bob Lannon talks about how Random Hacks of Kindness has affected his life <a href="http://t.co/G7SV32PI">http://t.co/G7SV32PI</a> #<a href="http://search.twitter.com/search?q=%23hack">hack</a> |...</p></div> 
+  <div class="twitter_block_user">
+    <a class="twitter_block profile_image" href="http://twitter.com/VALibrary">
+      <span class="twitter_block_user_name">@VALibrary</span>
+    </a>
+    <span class="twitter_block_time_ago">2 days 7 hours</span>
+  </div>
+</div></li>
+<li><div class="twitter_block tweet">
+  <div class="tweet_text"><p class="tweet">RT @<a href="http://twitter.com/assistMi">assistMi</a>: What's it mean to be a #<a href="http://search.twitter.com/search?q=%23RHoK">RHoK</a> Star? Bob Lannon talks about how Random Hacks of Kindness has affected his life <a href="http://t.co/G7SV32PI">http://t.co/G7SV32PI</a> #<a href="http://search.twitter.com/search?q=%23hack">hack</a> |...</p></div> 
+  <div class="twitter_block_user">
+    <a class="twitter_block profile_image" href="http://twitter.com/the_NMAG">
+      <span class="twitter_block_user_name">@the_NMAG</span>
+    </a>
+    <span class="twitter_block_time_ago">2 days 11 hours</span>
+  </div>
+</div></li>
+<li class="last"><div class="twitter_block tweet">
+  <div class="tweet_text"><p class="tweet">What's it mean to be a #<a href="http://search.twitter.com/search?q=%23RHoK">RHoK</a> Star? Bob Lannon talks about how Random Hacks of Kindness has affected his life <a href="http://t.co/G7SV32PI">http://t.co/G7SV32PI</a> #<a href="http://search.twitter.com/search?q=%23hack">hack</a> |...</p></div> 
+  <div class="twitter_block_user">
+    <a class="twitter_block profile_image" href="http://twitter.com/assistMi">
+      <span class="twitter_block_user_name">@assistMi</span>
+    </a>
+    <span class="twitter_block_time_ago">2 days 11 hours</span>
+  </div>
+</div></li>
+</ul></div></div>  </div>
+</div>
+  </div>
+      </div>
+      </div>
+</div>
+  
+<div id="footer" class="clearfix">
+  <div class="container">
+      <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    &copy; Copyright 2012 Random Hacks of Kindness  </div>
+</div>
+<div id="block-menu-block-1" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-menu-secondary-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-325"><a href="/media">In the Media</a></li>
+<li class="last leaf menu-mlid-326"><a href="/search/node" title="">Search</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-11585934-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+</body>
+</html>

@@ -1,0 +1,396 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.understandrisk.org/ur/sites/all/themes/underisk/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Understanding Risk</title>
+  <style type="text/css" media="all">@import url("http://www.understandrisk.org/ur/modules/system/system.base.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/system/system.menus.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/system/system.messages.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/system/system.theme.css?m57lnf");</style>
+<style type="text/css" media="all">@import url("http://www.understandrisk.org/ur/modules/aggregator/aggregator.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/comment/comment.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/field/theme/field.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/modules/logintoboggan/logintoboggan.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/node/node.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/search/search.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/user/user.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/forum/forum.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/modules/views/css/views.css?m57lnf");</style>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400&amp;subset=cyrillic" media="all" />
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic&amp;subset=cyrillic" media="all" />
+<style type="text/css" media="all">@import url("http://www.understandrisk.org/ur/sites/all/modules/ctools/css/ctools.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/modules/panels/css/panels.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/views_slideshow/views_slideshow.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/modules/views_slideshow/contrib/views_slideshow_cycle/views_slideshow_cycle.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/modules/date/date_api/date.css?m57lnf");</style>
+<style type="text/css" media="all">@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/html-reset.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/wireframes.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/layout-fixed.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/page-backgrounds.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/tabs.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/messages.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/pages.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/blocks.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/navigation.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/views-styles.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/nodes.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/comments.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/forms.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/fields.css?m57lnf");
+@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/custom.css?m57lnf");</style>
+<style type="text/css" media="print">@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/print.css?m57lnf");</style>
+
+<!--[if IE]>
+<style type="text/css" media="all">@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/ie.css?m57lnf");</style>
+<![endif]-->
+
+<!--[if lte IE 6]>
+<style type="text/css" media="all">@import url("http://www.understandrisk.org/ur/sites/all/themes/underisk/css/ie6.css?m57lnf");</style>
+<![endif]-->
+  <script type="text/javascript" src="http://www.understandrisk.org/ur/sites/default/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="http://www.understandrisk.org/ur/sites/default/files/js/js_lHowGa7Qb7wx7506xkfIPflvGuqzSd83LM6qsMYdCP8.js"></script>
+<script type="text/javascript" src="http://www.understandrisk.org/ur/sites/default/files/js/js_Dg5doY-Po4WJmH5jQqcUj3278Imv0C67mV21jh6YovE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-2767630-17"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.understandrisk.org/ur/sites/default/files/js/js_0ZID56FUrIA1QiZXpY52NLCPJ6OqDKDr2MCWC8yK6wo.js"></script>
+<script type="text/javascript" src="http://www.understandrisk.org/ur/sites/default/files/js/js_AHyBAYZMC0aoLby7IhzDcekyKo2__10bztcN6PSiv_g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/ur\/","pathPrefix":"","ajaxPageState":{"theme":"underisk","theme_token":"OQ9A8elYBnqvE95LsJtBwnX3cObedV6dvf5YOwFNx2k","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/sdnis\/js\/javascript.js":1,"sites\/all\/modules\/panels\/js\/panels.js":1,"modules\/views_slideshow\/js\/views_slideshow.js":1,"sites\/all\/libraries\/jquery.cycle\/jquery.cycle.all.js":1,"modules\/views_slideshow\/contrib\/views_slideshow_cycle\/js\/views_slideshow_cycle.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/underisk\/js\/custom.js":1,"sites\/all\/modules\/views\/js\/jquery.ui.dialog.patch.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans:300,400\u0026subset=cyrillic":1,"http:\/\/fonts.googleapis.com\/css?family=Open+Sans+Condensed:300,300italic\u0026subset=cyrillic":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"modules\/views_slideshow\/views_slideshow.css":1,"modules\/views_slideshow\/contrib\/views_slideshow_cycle\/views_slideshow_cycle.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/themes\/underisk\/css\/html-reset.css":1,"sites\/all\/themes\/underisk\/css\/wireframes.css":1,"sites\/all\/themes\/underisk\/css\/layout-fixed.css":1,"sites\/all\/themes\/underisk\/css\/page-backgrounds.css":1,"sites\/all\/themes\/underisk\/css\/tabs.css":1,"sites\/all\/themes\/underisk\/css\/messages.css":1,"sites\/all\/themes\/underisk\/css\/pages.css":1,"sites\/all\/themes\/underisk\/css\/blocks.css":1,"sites\/all\/themes\/underisk\/css\/navigation.css":1,"sites\/all\/themes\/underisk\/css\/views-styles.css":1,"sites\/all\/themes\/underisk\/css\/nodes.css":1,"sites\/all\/themes\/underisk\/css\/comments.css":1,"sites\/all\/themes\/underisk\/css\/forms.css":1,"sites\/all\/themes\/underisk\/css\/fields.css":1,"sites\/all\/themes\/underisk\/custom.css":1,"sites\/all\/themes\/underisk\/css\/print.css":1,"public:\/\/google_fonts.css":1,"sites\/all\/themes\/underisk\/css\/ie.css":1,"sites\/all\/themes\/underisk\/css\/ie6.css":1}},"viewsSlideshow":{"slideshow-block_1":{"methods":{"goToSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"nextSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"pause":["viewsSlideshowControls","viewsSlideshowCycle"],"play":["viewsSlideshowControls","viewsSlideshowCycle"],"previousSlide":["viewsSlideshowPager","viewsSlideshowSlideCounter","viewsSlideshowCycle"],"transitionBegin":["viewsSlideshowPager","viewsSlideshowSlideCounter"],"transitionEnd":[]},"paused":0}},"viewsSlideshowCycle":{"#views_slideshow_cycle_main_slideshow-block_1":{"num_divs":7,"id_prefix":"#views_slideshow_cycle_main_","div_prefix":"#views_slideshow_cycle_div_","vss_id":"slideshow-block_1","effect":"fade","transition_advanced":0,"timeout":5000,"speed":700,"delay":0,"sync":1,"random":0,"pause":1,"pause_on_click":0,"action_advanced":0,"start_paused":0,"remember_slide":0,"remember_slide_days":1,"pause_when_hidden":0,"pause_when_hidden_type":"full","amount_allowed_visible":"","nowrap":0,"fixed_height":1,"items_per_slide":1,"wait_for_image_load":1,"wait_for_image_load_timeout":3000,"cleartype":0,"cleartypenobg":0,"advanced_options":"{}"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  
+</head>
+<body class="html front not-logged-in no-sidebars page-main page-views" >
+  <div id="skip-link">
+    <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+  </div>
+    
+
+<div id="header-menu">
+
+ <div id="header-wrapper"><a class="drop" href="/ur">Understanding Risk Network</a>
+   
+      <div id="header-menu-inner">
+      <div id="header-menu-links">
+        <a href="/ur/user/register">Sign Up</a><a href="/ur/user/login">Sign In</a>      </div>
+<form action="/ur/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-OckJBBszbUFYt3wolwL5-8bxyj_rzuUj2EpHfTItiS0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+ </div>
+ </div>
+<div id="page-wrapper"><div id="page">
+
+  <div id="header"> <div id="header-image"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/all/themes/underisk/images/banner.jpg" alt="" />  <!--Share Links -->
+
+   <!--<div id="twitter"> 
+   </div>
+   </a>-->
+  </div>
+  </div>
+  <div class="section clearfix">
+    	 <div id="header-main-menu2">
+				<ul id="main-menu" class="links clearfix"><li class="menu-198 first active"><a href="/ur/" title="" class="active">Main</a></li>
+<li class="menu-323"><a href="/ur/user" title="">My Profile</a></li>
+<li class="menu-390"><a href="/ur/profiles/members" title="">Members</a></li>
+<li class="menu-389"><a href="/ur/groups" title="">Groups</a></li>
+<li class="menu-991"><a href="/ur/projectsmap">Projects</a></li>
+<li class="menu-696"><a href="https://www.understandrisk.org/ur/page/ur-2012" title="">2012 UR Forum</a></li>
+<li class="menu-994"><a href="/ur/node/4889" title="About UR">About UR</a></li>
+<li class="menu-995"><a href="/ur/recentblogs" title="">Blogs</a></li>
+<li class="menu-393 last"><a href="/ur/contact" title="">Contact Us</a></li>
+</ul><div style="clear:both"></div>
+              <div class="sharelink"> 
+  <a class="post_to_facebook imganchor" title="Share to facebook" target="_blank" href="http://www.facebook.com/sharer.php?u=http://www.understandrisk.org/">Facebook</a>
+   <!--<div id="fb"> 
+   </div>
+   </a>-->
+  <a class="post_to_twitter imganchor" title="Share to twitter" target="_blank" href="http://twitter.com/home?status=https://www.understandrisk.org">Twitter</a>
+	 </div>
+	 
+  </div>
+ 
+
+  </div><!-- /.section, /#header -->
+
+  <div id="main-wrapper"><div id="main" class="clearfix with-navigation">
+<table class="main-table">
+	<tr>
+		<td class="left-td" valign="top">
+						  <div class="region region-content-1">
+    <div id="block-block-11" class="block block-block  first last odd">
+
+        <h2 class="block-title">2012 UR Forums</h2>
+    
+  <div class="content">
+    <p><span style="FONT-SIZE: small; COLOR: #ff6600"><strong>The 2012 Understanding Risk Forum will take place from </strong><strong>July 2-6, Cape Town, South Africa</strong></span>  </p>
+<ul><li><span style="FONT-SIZE: small"><a href="https://www.understandrisk.org/ur/sites/default/files/files/useruploads/preliminary_program_june25.pdf">Agenda</a></span></li>
+<li><span style="FONT-SIZE: small"><a href="https://www.understandrisk.org/ur/sites/default/files/files/useruploads/invitation_for_innovation_expo_and_ignite_stage.pdf">Innovation Expo</a></span></li>
+<li><a href="https://www.understandrisk.org/ur/page/training-sessions"><span style="FONT-SIZE: small">Training Sessions</span></a></li>
+<li><a style="FONT-SIZE: small" href="https://www.understandrisk.org/ur/sites/default/files/files/useruploads/ur_invitation_to_community.pdf">Invitation Letter</a></li>
+<li><span style="FONT-SIZE: small"><a href="https://www.understandrisk.org/ur/page/logistics">Logistical Information</a> </span><span style="FONT-SIZE: x-small; COLOR: #888888">(information on Visa, hotels, etc)</span> </li></ul><p><span style="FONT-SIZE: small; COLOR: #808080; LINE-HEIGHT: 17px; FONT-FAMILY: Verdana, Tahoma, 'DejaVu Sans', sans-serif">For more information please see: </span><span style="FONT-SIZE: small; LINE-HEIGHT: 17px; FONT-FAMILY: Verdana, Tahoma, 'DejaVu Sans', sans-serif"><a href="https://www.understandrisk.org/ur/page/ur-2012">2012 UR Forum</a></span></p>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+		</td>
+		
+		<td class="middle-td" valign="top">
+        <div class="homemiddle">
+		   <div class="region region-highlight">
+    <div id="block-block-24" class="block block-block slideshowcaption first odd">
+
+      
+  <div class="content">
+    <p><img src="/ur/sites/default/files/files/useruploads/slideshowcaption.jpg" width="474" height="38" /></p>  </div>
+
+</div><!-- /.block -->
+<div id="block-views-slideshow-block-1" class="block block-views  last even">
+
+      
+  <div class="content">
+    <div class="view view-slideshow view-id-slideshow view-display-id-block_1 view-dom-id-2">
+        
+  
+  
+      <div class="view-content">
+      
+<div class="skin-default">
+  
+  <div id="views_slideshow_cycle_main_slideshow-block_1" class="views_slideshow_cycle_main views_slideshow_main"><div id="views_slideshow_cycle_teaser_section_slideshow-block_1" class="views-slideshow-cycle-main-frame views_slideshow_cycle_teaser_section">
+  <div id="views_slideshow_cycle_div_slideshow-block_1_0" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-1 views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image">        <div class="field-content imageslideshow"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/sliderimages/wildfire.jpg" width="640" height="427" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-block_1_1" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-2 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image">        <div class="field-content imageslideshow"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/sliderimages/sarychev_volcano.jpg" width="640" height="427" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-block_1_2" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image">        <div class="field-content imageslideshow"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/sliderimages/missouri_and_mississippi_rivers.jpg" width="471" height="480" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-block_1_3" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image">        <div class="field-content imageslideshow"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/sliderimages/flood.jpg" width="640" height="427" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-block_1_4" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image">        <div class="field-content imageslideshow"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/sliderimages/dust_plumes_libya.jpg" width="617" height="480" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-block_1_5" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-6 views_slideshow_cycle_hidden views-row-even">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image">        <div class="field-content imageslideshow"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/sliderimages/drought.jpg" width="640" height="427" alt="" /></div>  </div></div>
+</div>
+<div id="views_slideshow_cycle_div_slideshow-block_1_6" class="views-slideshow-cycle-main-frame-row views_slideshow_cycle_slide views_slideshow_slide views-row-7 views_slideshow_cycle_hidden views-row-odd">
+  <div class="views-slideshow-cycle-main-frame-row-item views-row views-row-0 views-row-first views-row-odd">
+    
+  <div class="views-field views-field-field-slide-image">        <div class="field-content imageslideshow"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/sliderimages/cape_town_138093217.jpg" width="640" height="427" alt="" /></div>  </div></div>
+</div>
+</div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+		  <div class="region region-content-2">
+    <div id="block-block-22" class="block block-block frontcaption first last odd">
+
+      
+  <div class="content">
+    <p style="text-align: center;"><span style="font-family: 'Open Sans Condensed', arial, serif; font-size: 24px; text-transform: uppercase; color: #000000;">UNDERSTANDING RISK NETWORK</span> </p><p style="text-align: center;"><span style="font-family: Verdana, Tahoma, 'DejaVu Sans', sans-serif; font-size: small; line-height: 18px; text-align: justify; color: #ff6600;">Welcome to the Understanding Risk Community website.</span></p><p style="text-align: center;"><span style="font-family: Verdana, Tahoma, 'DejaVu Sans', sans-serif; font-size: small; line-height: 18px; text-align: justify; color: #ff6600;"></span><span style="font-family: Verdana, Tahoma, 'DejaVu Sans', sans-serif; font-size: small; line-height: 18px; text-align: justify; color: #999999;">A series of online discussions on the conference sessions for the 2012 Forum are happening below. </span><span style="color: #999999; font-family: Verdana, Tahoma, 'DejaVu Sans', sans-serif; font-size: small; line-height: 18px; text-align: justify;">Please join the groups and participate in the discussions!</span></p>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+		
+
+    <div id="content" class="column">
+	<div class="section">
+     
+
+      
+      
+      <a id="main-content"></a>
+                                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system  first last odd">
+
+      
+  <div class="content">
+    <div class="view view-mainpage-feed-new view-id-mainpage_feed_new view-display-id-page group-listing-view view-dom-id-1">
+        
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-2">
+  <tbody>
+          <tr class="row-1 row-first">
+                  <td class="col-1 col-first home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/meteorological-hydrological-and-climate-services-support-risk-analysis"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/hydromet_jb.jpg" alt="" /></a><a href="/ur/group/meteorological-hydrological-and-climate-services-support-risk-analysis">Meteorological, Hydrological and Climate Services to Support Risk Analysis</a></td></tr></table></div>  </div>          </td>
+                  <td class="col-2 col-last home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/landslide-risk-assessments-decision-making"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/landslide.jpg" alt="" /></a><a href="/ur/group/landslide-risk-assessments-decision-making">Landslide Risk Assessments for Decision Making</a></td></tr></table></div>  </div>          </td>
+              </tr>
+          <tr class="row-2">
+                  <td class="col-1 col-first home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/working-together-advance-seismic-risk"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/gem_0.jpg" alt="" /></a><a href="/ur/group/working-together-advance-seismic-risk">Working together to assess seismic risk</a></td></tr></table></div>  </div>          </td>
+                  <td class="col-2 col-last home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/thinking-about-unthinkable"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/thinking_unthinkable_ken.jpg" alt="" /></a><a href="/ur/group/thinking-about-unthinkable">Thinking about the Unthinkable</a></td></tr></table></div>  </div>          </td>
+              </tr>
+          <tr class="row-3">
+                  <td class="col-1 col-first home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/assessing-risk-changing-climate"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/assessingrisk1_0.jpg" alt="" /></a><a href="/ur/group/assessing-risk-changing-climate">Assessing Risk in a Changing Climate</a></td></tr></table></div>  </div>          </td>
+                  <td class="col-2 col-last home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/earth-observation"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/eo.jpg" alt="" /></a><a href="/ur/group/earth-observation">Satellite Earth Observation and Disaster Risks</a></td></tr></table></div>  </div>          </td>
+              </tr>
+          <tr class="row-4">
+                  <td class="col-1 col-first home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/community-based-risk-assessment"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/com_risk_assessment.png" alt="" /></a><a href="/ur/group/community-based-risk-assessment">Community-based Risk Assessment</a></td></tr></table></div>  </div>          </td>
+                  <td class="col-2 col-last home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/wisdom-crowd"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/wisdom_crowd.jpg" alt="" /></a><a href="/ur/group/wisdom-crowd">Wisdom of the Crowd</a></td></tr></table></div>  </div>          </td>
+              </tr>
+          <tr class="row-5">
+                  <td class="col-1 col-first home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/open-source-risk-modeling-initiatives"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/inasafescreenshot.png" alt="" /></a><a href="/ur/group/open-source-risk-modeling-initiatives">New Tools and Methodologies for Building Disaster Resilience</a></td></tr></table></div>  </div>          </td>
+                  <td class="col-2 col-last home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/global-assessment-report"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/gar.jpg" alt="" /></a><a href="/ur/group/global-assessment-report">Global Assessment Report</a></td></tr></table></div>  </div>          </td>
+              </tr>
+          <tr class="row-6">
+                  <td class="col-1 col-first home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/advancing-risk-assessments-financial-applications"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/finance_and_risk.jpg" alt="" /></a><a href="/ur/group/advancing-risk-assessments-financial-applications">Advancing Risk Assessments for Financial Applications </a></td></tr></table></div>  </div>          </td>
+                  <td class="col-2 col-last home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/drought-risk"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/cities_and_floods.png" alt="" /></a><a href="/ur/group/drought-risk">Flood risks across spatial scales</a></td></tr></table></div>  </div>          </td>
+              </tr>
+          <tr class="row-7 row-last">
+                  <td class="col-1 col-first home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/open-data"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/opendata_logo_1_5.jpg" alt="" /></a><a href="/ur/group/open-data">Open Data</a></td></tr></table></div>  </div>          </td>
+                  <td class="col-2 col-last home-groups">
+              
+  <div class="views-field views-field-body">        <div class="field-content"><table><tr><td><a href="/ur/group/drought-response-and-resilience-innovations-sahel-horn-africa-and-beyond"><img typeof="foaf:Image" src="http://www.understandrisk.org/ur/sites/default/files/styles/group_listing/public/drought_risk2.jpg" alt="" /></a><a href="/ur/group/drought-response-and-resilience-innovations-sahel-horn-africa-and-beyond">Drought Response and Resilience - Innovations in the Horn of Africa and Beyond </a></td></tr></table></div>  </div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>   </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+          </div></div><!-- /.section, /#content -->
+    </div>
+</td>
+		
+		<td class="right-td" valign="top">
+		
+		
+
+
+   
+  <div class="region region-content-3">
+    <div id="block-blog-recent" class="block block-blog  first odd">
+
+        <h2 class="block-title">Blogs from the Forum</h2>
+    
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/ur/node/5473">Welcome to UR2012</a></li>
+<li><a href="/ur/node/5309">Crunch and the Pressure &amp; Release Models</a></li>
+<li class="last"><a href="/ur/node/4763">Japan&#039;s Tryst with Destiny ?</a></li>
+</ul></div><div class="more-link"><a href="/ur/blog" title="Read the latest blog entries.">More</a></div>  </div>
+
+</div><!-- /.block -->
+<div id="block-block-9" class="block block-block  even">
+
+        <h2 class="block-title">About Understanding Risk</h2>
+    
+  <div class="content">
+    <p><span style="font-size: small; color: #808080;">Understanding Risk (UR) is a community of global experts in disaster risk assessment. The Community convenes every 2 years at UR Forums. </span></p><p><span style="font-size: small; color: #808080;"><br /></span></p><p><span style="font-size: small; color: #808080;"><span style="color: #888888;">More information on </span><span style="color: #0050a2;"><a href="http://www.understandrisk.org/ur/page/2010-ur-forum"><span style="color: #0050a2;">2010 UR Forum</span></a></span></span></p><p><span style="font-size: small; color: #808080;"><span style="color: #0050a2;"><span style="color: #0050a2;"><br /></span></span></span></p>  </div>
+
+</div><!-- /.block -->
+<div id="block-block-17" class="block block-block  last odd">
+
+        <h2 class="block-title">UR 2012 FORUM PARTNERS</h2>
+    
+  <div class="content">
+    <table style="width: 211px; height: 155px;" border="0" cellpadding="3" align="center"><tbody><tr><td><a href="http://www.cogta.gov.za/" target="_blank"><img src="/ur/sites/default/files/files/useruploads/cogta-logo-small.png" width="125" height="36" style="display: block; margin-left: auto; margin-right: auto;" /></a></td><td align="right" valign="top"><a href="http://www.ndmc.gov.za/" target="_blank"><img src="/ur/sites/default/files/files/useruploads/ndmc-small.png" width="40" height="40" style="float: left;" /></a><p> </p></td></tr><tr><td><a href="http://www.gfdrr.org/gfdrr/" target="_blank"><img src="/ur/sites/default/files/files/useruploads/gfdrr.png" width="100" height="26" /></a></td><td align="right"><a href="http://www.afdb.org/en/" target="_blank"><img src="/ur/sites/default/files/files/useruploads/africa.png" width="86" height="45" style="display: block; margin-left: auto; margin-right: auto;" /></a></td></tr><tr><td><span><a href="http://www.unisdr.org/" target="_blank"><img src="/ur/sites/default/files/files/useruploads/logoisdr.gif" width="100" height="33" style="border-style: initial; border-color: initial;" /></a><br /></span></td><td><a href="http://www.worldbank.org/" target="_blank"><img src="/ur/sites/default/files/files/useruploads/worldbank-small.png" width="40" height="40" style="float: left;" /></a><br /><br /> </td></tr><tr><td colspan="2" align="left"><a href="http://www.europarl.europa.eu/intcoop/acp/10_01/default_en.htm"><img src="/ur/sites/default/files/files/useruploads/eu_0.png" width="100" height="33" style="display: block; margin-left: auto; margin-right: auto;" /></a></td></tr><tr><td style="text-align: center;" colspan="2" align="left"><p class="overline"> </p><p class="overline"><a href="https://www.understandrisk.org/ur/page/partners-0" title="partners">View More Partners</a></p></td></tr></tbody></table>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+    </td>
+	</tr>
+</table>
+
+
+    
+
+
+
+  </div></div><!-- /#main, /#main-wrapper -->
+
+    <div class="region region-footer">
+    <div id="block-block-12" class="block block-block  first last odd">
+
+      
+  <div class="content">
+    <div class="boxes_holder"><!--END box--><!--END box--><!--END box--><!--END box--><div class="subfooter"><ul><li><a href="/ur">Home</a></li><li><a href="/ur/user">My Profile</a></li><li><a href="/ur/profiles/members">Members</a></li><li><a href="/ur/groups">Groups</a></li><li><a href="/ur/projectsmap">Projects</a></li><li><a href="/ur/page/2010-ur-forum">2010 Forum</a></li><li><a href="/ur/node/4889">About Understanding Risk</a></li><li><a href="/ur/recentblogs">Blogs</a></li><li><a href="/ur/contact">Contact Us</a></li></ul></div><div class="subfooter"><a href="#" style="font-size: x-small;">Copyright 2012. Understanding Risk</a></div><!--END subfooter--></div>  </div>
+
+</div><!-- /.block -->
+  </div><!-- /.region -->
+
+</div></div><!-- /#page, /#page-wrapper -->
+
+  </body>
+</html>

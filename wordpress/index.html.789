@@ -1,0 +1,2063 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<title> Free Tax Filing, Online Tax Preparation & e-file Taxes Online, Tax Software - H&amp;R Block&reg; - H&amp;R Block&reg;</title>
+<meta name="keywords" content="h r block taxes">
+<meta name="description" content="H&amp;R Block<sup>&reg;</sup> is your single source for tax preparation and online tax services.  File income taxes online or using our great tax preparation software to e-file taxes. Enjoy hassle free tax filing with the help of tax professionals.">
+<meta name="robots" content="index,follow">
+<meta name="MSSmartTagsPreventParsing" content="TRUE"/>
+<meta name="rating" content="general"/>
+<meta name="distribution" content="global"/>
+<meta name="author" content="hrblock.com - Taxes"/>
+<meta name="copyright" content="Copyright H&amp;R Block. All Rights Reserved."/>
+
+	<!--<meta charset="utf-8">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">-->
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+	<link rel="shortcut icon" href="/favicon.ico">	<link rel="stylesheet" href="/css/hrb_style_redesign.css?v=1" media="screen,projection">
+	<!--<link rel="stylesheet" href="/css/hrb_print.css?v=1" media="print">-->
+	<!--[if lt IE 9]>
+	<script src="/includes/js/modernizr-1.5.min.js"></script>
+	<![endif]-->
+
+	<meta name="MSSmartTagsPreventParsing" content="TRUE">
+
+<!--
+<script type="text/javascript" src="/includes/js/webservices/partner_product_details_soap_client.js"></script>
+<script type="text/javascript" src="/includes/js/def_info_hrblock_2008.js"></script>
+<script type="text/javascript" src="/includes/js/header_init_hrblock_2008.js"></script>
+-->
+<script type="text/javascript" src="/includes/js/jquery.js"></script>
+<script type="text/javascript" src="/includes/js/hrb_merged_script.js"></script>
+
+<script type="text/javascript">
+
+var g_ttip_cat=null;
+
+var is_homepage = true;
+
+var g_pixel_tracking_allowed = false;
+
+</script>
+
+<style type="text/css">
+
+.bvRatings img
+{  border-style: none;
+}
+.bvRatings
+{
+	display: none;
+	visibility: hidden;
+	text-align:center;
+                padding-top:0px;
+	height: 50px;
+                cursor: pointer; cursor: hand;
+}
+</style>
+<style>
+
+
+.bvRatings ul,.bvRatings .bvProdRating, .bvRatings ul li{
+
+	list-style-type:none !important;
+
+}
+.bvRatings ul li{
+	width:130px;
+	margin-left:10px;
+
+}
+.bvRatings .bvProdRating{
+	background:url('/images/html5/meganav-hdr-ftr-sprite-homepage.png') no-repeat -219px -420px;
+	height:22px;
+}
+.bvRatings .bvProdRating div{
+	background:url('/images/html5/meganav-hdr-ftr-sprite-homepage.png') no-repeat -219px -446px;
+	height:22px;
+	width:20px;
+}
+div .marquee-image .calibribold .banner-selectors{
+	height: 17px;
+    width: 95px;
+}
+div .marquee-image .calibribold .banner-selectors .selectorNormal{
+	background:url(/images/html5/control_images.png) no-repeat -33px -83px;
+}
+div .marquee-image .calibribold .banner-selectors .selectorHover{
+	background:url(/images/html5/control_images.png) no-repeat -12px -84px;
+}
+
+</style>
+<script> 
+function specialOnloadProcessing(){
+var bv =[{"pid":"201","bvrating":"4.4563","bvreview":"846"},{"pid":"30","bvrating":"4.2369","bvreview":"401"},{"pid":"204","bvrating":"4.1532","bvreview":"346"},{"pid":"32","bvrating":"3.6771","bvreview":"96"},{"pid":"199","bvrating":"3.9827","bvreview":"173"},{"pid":"207","bvrating":"4.1441","bvreview":"1645"},{"pid":"36","bvrating":"4.0113","bvreview":"442"},{"pid":"38","bvrating":"2.5455","bvreview":"22"},{"pid":"208","bvrating":"3.8571","bvreview":"14"},{"pid":"33","bvrating":"3.9048","bvreview":"21"},{"pid":"85","bvrating":"4.5221","bvreview":"452"}];
+for (var i=0;i<bv.length ;i++ ){
+$('.bvRatings .bvProdRating .prodRating'+bv[i].pid).css('width',(23*bv[i].bvrating)+'px');	
+$('.bvRatings .bvProdReviews'+bv[i].pid).html(bv[i].bvreview+" customer reviews");}
+$('.bvRatings').css({'visibility':'visible','display':'block'});
+}
+</script>
+<script type="text/javascript">
+// Change the backroung image of the header
+//var pos = ['50% -1px','50% -329px','50% -652px','50% -977px'];
+var pos = ['50% -1px','50% -329px'];
+$(function() {
+	setTimeout(function updHeader() {
+		var _tempPos = $('.marquee-image1').css('backgroundPosition');
+		var index = $.inArray(_tempPos,pos);
+		if(index !=-1) {
+			if(index == pos.length -1)
+				_tempPos = pos[0];
+			else
+				_tempPos = pos[index+1];
+			$('.marquee-image1').css('backgroundPosition',_tempPos);
+		}
+		//setTimeout(arguments.callee, 5000);
+		setTimeout(updHeader, 5000);
+	},5000);
+});
+</script>
+
+<script type="text/javascript">
+g_bGetProductInfo = true; 
+
+if (document.location.pathname.indexOf("/taxes/products/software/back_editions") != -1)
+{
+	document.write('<script type="text/javascript" src="/includes/js/soft_product_processing.js"><\/script>');
+}
+</script>   
+
+
+
+</head>
+
+<!--[if lt IE 7 ]> <body class="ie6" onload="onloadProcessing();"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie7" onload="onloadProcessing();"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie8" onload="onloadProcessing();"> <![endif]-->
+<!--[if IE 9 ]>    <body class="ie9" onload="onloadProcessing();"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body onload="onloadProcessing();"> <!--<![endif]-->
+
+<script type="text/javascript" src="/includes/offermatica/mbox.js"></script>
+
+<noscript>
+    
+
+
+
+<div style="width:100%;background-color:#ffffff;text-align:left;overflow:hidden;height:700px;"><!-- Main Div -->
+
+    <div style="width:100%;"><!-- Top Div -->
+      
+        <div style="width:82%;text-align:center;float:left;">
+        	<br>
+            <p>
+            <b>You must have JavaScript enabled to view our site.</b>
+            </p>
+            <p>
+   Your browser currently has JavaScript disabled. Please follow the directions below to enable JavaScript. 
+            </p>
+        </div> <!-- End left Div -->
+        <div style="float:right;width:18%;height:40px;">&nbsp;</div>
+    </div> <!-- End Top Div -->
+    
+    <div style="width:100%;clear:both;">
+		<hr style="width:96%">
+	</div>
+    <div style="clear:both"></div>
+
+    <div style="width:96%;margin-left:20px;margin-right:20px;">
+		<div style="float:left;width:45%;margin-top:10px;"><a id="noscript_PC"><b>Instructions for enabling JavaScript on a PC</b></a>
+        <div style="margin-top:20px;">
+            <img src="/images/green_bullet.gif" alt="Internet Explorer 6 and above"> <a id="noscript_IE">Internet Explorer 6 and above</a>
+            <ol>
+                <li>On the <b>Tools</b> menu, click <b>Internet Options</b>, and then click the <b>Security</b> tab.</li> 
+                <li>Under <b>Select a zone</b>, click the <b>Internet</b> zone.</li>
+                <li>Under <b>Security level for this zone</b>, click <b>Default level</b>.</li>
+                <li>Click the <b>OK</b> button at the bottom of the window, and then <b>OK</b> again.</li>
+                    <li>Press F5 and refresh the page</li>
+            </ol>
+        </div>    
+        </div><!-- End first left Div -->
+        
+        <div style="float:right;width:45%;margin-top:10px;"><a id="noscript_MAC"><b>Instructions for enabling JavaScript on a Macintosh.</b></a>
+	        <div style="margin-top:20px;">
+                <img src="/images/green_bullet.gif" alt="Safari"> <a id="noscript_Safari">Safari</a> 
+                <ol>
+                    <li>Click on <b>Safari</b>, then select <b>Preferences</b>. (<i>PC Safari users: Click on <b>Edit</b>, then select 
+                    <b>Preferences</b>.</i>)</li>
+                    <li>Click on the <b>Security</b> tab.</li>
+                    <li>Under <b>Web content</b>, ensure that <b>Enable plug-ins</b> and <b>Enable JavaScript</b> are checked.</li>
+                    <li>Close the window.</li>
+                    <li>Quit Safari, and then restart the browser.</li>
+                    <li>Press F5 and refresh the page</li>
+                </ol>
+			</div>	    
+        </div><!-- End first right Div -->
+
+    
+    <div style="clear:both;"></div>
+		<div style="float:left;width:45%;">
+        <div ><img src="/images/green_bullet.gif" alt="Mozilla Firefox version 2 and above"> <a id="noscript_MozillaIE">Mozilla Firefox version 2 and above</a>
+        	<ol> 
+                <li>On the <b>Tools</b> menu, click <b>Options</b>.</li> 
+                <li>On the <b>Content</b> tab, click to select the <b>Enable JavaScript</b> check box.</li>
+                <li>Click the <b>OK</b> button at the bottom of the window.</li>
+                <li>Click the <b>Go back one page</b> button to return to the previous page, and then click the <b>Reload 
+                current page</b> button to run scripts.</li>
+                    <li>Press F5 and refresh the page</li>
+	        </ol>
+        </div>    
+		</div><!-- End 2 left Div -->
+		<div style="float:right;width:45%;">
+	        <div ><img src="/images/green_bullet.gif" alt="Mozilla Firefox version 2 and above"> <a id="noscript_mozillaFF">Mozilla Firefox version 2 and above </a>
+            <ol>
+                <li>Click on <b>Firefox</b> and select <b>Preferences</b>.</li>
+                <li>On the <b>Content</b> tab, click to select the <b>Enable JavaScript</b> check box.</li>
+                <li>Click the <b>OK</b> button at the bottom of the window.</li>
+                <li>Quit Mozilla Firefox, and then restart the browser.</li>
+                    <li>Press F5 and refresh the page</li>
+            </ol>
+          </div>
+       </div><!-- End 2 right Div -->
+
+       </div>
+</div>
+
+</noscript>
+
+<div id="container" style="display:none;" class="welcome">
+
+<!-- show container only when script is enabled changes for javascript disable -->
+<script type="text/javascript">
+document.getElementById('container').style.display='block'
+</script>
+
+<!-- BEGIN: HEADER -->
+<!--[if IE 7 ]><style type="text/css">.header .nav_new {    margin-left: 390px !important; }.header .nav_new li.taxservice {width:75px !important;}.header .nav_new li.whyhrblock {width:96px !important;}.header .nav_new li.taxanswers {width:75px !important;}.features .active .tab2-button .tab, .features .tab2-button .tab{letter-spacing: -1px !important;}header.header-footer .mega-nav #question{margin-bottom: 1px !important;}header.header-footer nav ul li div a:active, header.header-footer nav ul li div a:visited, header.header-footer nav ul li div a {    text-indent: 0 !important;}.home_bottom .podcontent{	padding-top:45px !important;}.features .active .tab1-button, .features .tab1-button,.features .active .tab2-button, .features .tab2-button, .features .active .tab3-button, .features .tab3-button{line-height:1 !important;}.features .active .info{margin-top: none !important;}.home_bottom .pod-right-image1{ background: url("/images/html5/meganav-hdr-ftr-sprite-homepage.png"); 	background-position: -175px -80px; 	height:53px; 	width:98px; 	margin: -28px 193px;}.features .info .officecontent .rightPanel .tabcontent{padding-top: 45px !important;}</style><![endif]--><!--[if IE 8 ]><style type="text/css">.home_bottom .podcontent{	padding-top:20px !important;}.home_bottom .pod-right-image1 { background: url("/images/html5/meganav-hdr-ftr-sprite-homepage.png"); 	background-position: -175px -80px; 	height:53px; 	width:98px; 	margin: -32px 193px;}.features .tab1-button, .features .tab2-button, .features .tab3-button{top: 2px !important;}.find-an-tax-pro-outline .clock-image{ 	background:url("/images/html5/meganav-hdr-ftr-sprite-homepage.png") no-repeat -110px -250px !important; 	height:115px; 	width:115px; 	margin: -95px 400px;}.find-an-tax-pro-outline .appt-content{padding-left: 50px !important;padding-top:15px !important;}</style><![endif]--><!--[if lte IE 8 ]><link rel="stylesheet" href="/css/IE_hrb_style.css?v=1" media="screen,projection"><![endif]--><div class="mboxDefault"></div><script type="text/javascript">	mboxCreate('PRICE_MBOX');</script><script type="text/javascript"> $(document).ready(function(){$('.header .nav_new .taxservice').addClass("current"); });</script>	<header class="header-footer">         
+ <script type="text/javascript">
+
+ function bankLoginAction(url){
+	 var accounts =new Array('https://www.onlinecardaccess.com/main/hrblockcard/Home','https://cibng.ibanking-services.com/cib/CEBMainServlet/Login?FIORG=520&FIFID=101089742')
+	var act =$("#bankaccountselect").val();
+	var homeUrl = $(location).attr('href');
+	if (act!=""){
+		// $("#bankaccountForm").attr("action",accounts[parseInt(act)-1]);
+		if(homeUrl.indexOf("/bank") != -1){
+			GB_showCenter_bank('nw',accounts[parseInt(act)-1],'410','715');
+		}else{
+			window.open(accounts[parseInt(act)-1]);
+		}
+	} 	else{
+
+		alert("Please select an account");
+
+
+	}
+
+	return false;
+
+}
+
+</script>
+
+
+
+
+
+ <div class="login-drawer">
+
+            <div class="drawer">
+
+                <div class="drawer-holder">
+
+                    <a class="close" title="CLOSE" href=""><span>X</span> CLOSE</a>
+
+					<iframe width="433" height="185" frameborder="0" allowtransparency="true" class="right" src="/includes/omniture/empty_iframe_source.html" id="tcoLoginFrame" title="tcologin">
+
+                    </iframe>
+
+
+
+		    <div class="more-logins" style="padding-right: 10px; width: 255px;">
+
+
+
+                    	<span style="color: #316E00;  font-size: 135%;  font-weight: bold;padding-left:10px"> Tax Customers</span>
+
+                        <div style="padding-top: 5px;padding-left:10px;">
+
+							<a class="status-check" href="/taxes/doing_my_taxes/check_status.html" title="Check Your E-file and Refund Status" onclick="omnitureOnClick('navLocation:h','navName:check_your_efile_and_refund_status');"><span class="context">  Check Your E-file and Refund Status</span></a>
+
+						</div>
+
+						<div style="float: left; padding-top: 12px; width: 185px;">
+
+							<div style="color: #316E00; line-height: 17px; font-weight: bold;font-style: italic;">Check Your E-file/Refund Status</div>
+
+							<div style="padding-top:5px;">Let us help you get the info you need</div>
+
+							<!--<div style="padding-top: 5px;"><a title="Read More" href="#"><strong>Read More &gt;&gt;</strong></a></div>
+-->
+						</div>
+
+
+
+                    </div>
+
+
+
+<div class="more-logins" style="padding-left: 5px; width: 160px;">
+
+<dl style="border-bottom:0px;">
+
+                            <!--<dt>Banking</dt>-->
+
+							<dd>
+
+							<form action="/bank/" onsubmit="return bankLoginAction()" method="get" id="bankaccountForm" >
+
+							<label style="color: #316E00; font-size: 135%; font-weight: bold;" title="Banking" for="bankaccountselect">Banking</label><br /><br />
+
+							<select style="font-size:95%;width:67%;" id="bankaccountselect" title="Select an account">
+
+							<option value="">Account type</option>
+
+							<option value="1">Emerald Card</option>
+
+							<option value="2">Online Banking</option>
+
+							</select>
+
+							<input type="submit" class="login-button" value="Login >" title="Login">
+
+
+
+
+							</form>
+
+
+
+							</dd>
+
+					</dl>
+
+
+
+                        <!--<dl>
+
+                            <dt>Banking Customers</dt>
+
+                            <dd><a href="https://www.onlinecardaccess.com/main/hrblockcard/Home" title="Emerald Card Login" onclick="omnitureOnClick('navLocation:h','navName:emerald_card_login');">Emerald Card Login</a></dd>
+
+                            <dd><a href="https://cibng.ibanking-services.com/cib/CEBMainServlet/Login?FIORG=520&amp;FIFID=101089742" title="Online Banking Login" onclick="omnitureOnClick('navLocation:h','navName:online_banking_login');">Online Banking Login</a></dd>
+
+
+
+                        </dl>
+
+                        <a href="/taxes/doing_my_taxes/check_status.html" title="Check Your E-file and Refund Status" class="status-check" onclick="omnitureOnClick('navLocation:h','navName:check_your_efile_and_refund_status');">Check Your <br>e-file and Refund Status</a>-->
+
+
+
+                    </div>
+
+
+
+
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+<div style="clear: both; text-align: left; margin: 0pt auto; height: 40px; background-color: #F2F2F2">
+
+
+
+
+
+	        <div class="header">
+
+			<!--<div style="float: left; margin-top: 10px;font-weight:bold;">
+				<a href="http://blogs.hrblock.com/2012/02/10/irs-informs-us-of-more-delays/" onclick="omnitureOnClick('navLocation:h','navName:irs_updates');">Update on IRS Funding Dates
+				</a>
+			</div>-->
+				<ul class="nav_new">
+
+				<li class="taxservice"><a onclick="omnitureOnClick('navLocation:h','navName:log_in');" title="Tax Services" href="/index.html">Tax Services <span class="context">  for  [topnav]</span></a></li>
+
+				<li>|</li>
+
+				<li class="banking"><a onclick="" title="Banking" href="/bank/index.html">Banking <span class="context">  for  [topnav]</span></a></li>
+
+				<li>|</li>
+				<li class="mobile"><a onclick="" title="Mobile" href="/mobile/index.html">Mobile <span class="context">  for  [topnav]</span></a></li>
+				<li>|</li>
+				<li class="taxanswers"><a onclick="omnitureOnClick('navLocation:h','navName:tax-answers');" title="Tax Answers" href="/tax-answers/index.html">Tax Answers <span class="context">  for  [topnav]</span></a></li>
+				<li>|</li>
+
+				<li class="whyhrblock"><a onclick="" title="Why H&amp;R Block" href="/why-hr-block/index.html">Why H&amp;R Block <span class="context">  for  [topnav]</span></a></li>
+
+
+
+
+
+				<!--<li>|</li>-->
+
+				<!--<li class="mytaxes"><a onclick="" title="myTaxes" href="">myTaxes</a></li>-->
+
+
+
+
+
+				</ul>
+
+			<div style="float:left;padding-left:5px;">
+
+				<a class="login" title="Log In" href="">LOGIN</a>
+
+			</div>
+
+
+
+
+
+
+
+	        </div>
+
+
+
+
+
+        </div>
+
+		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1"	id="hrbpfc" 	codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">		 		 			<param name="movie" value="/includes/pixel/pfc.swf" />		 		 			<param name="quality" value="high" />		 		 			<param name="allowScriptAccess" value="always" />		 		 			<embed src="/includes/pixel/pfc.swf" quality="high"	width="1" height="1" name="hrbpfc" align="middle" play="true" loop="false" quality="high" allowScriptAccess="always" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer"/> 		 		 			<noembed>Unable to load pfc.swf</noembed>				</object>        <div class="header taxservice">            <div class="logo">                <a href="/" title="H&amp;R Block home" onclick="omnitureOnClick('navLocation:h','navName:hr_block_logo');">H&amp;R Block home</a>            </div>            <div class="search" style="margin-left:120px;margin-right:15px;">                <form class="office-locator-form" action="/universal/office_locator.html" method="get">					<label for="location_header" title="find an office">Find An Office</label>                    <!--<input type="text" id="location_header" placeholder="Address, City, State or Zip" title="Find an Office" />                    <input type="image" src="/images/button-arrow.gif" class="submit" title="Find an Office" alt="Find an Office" />-->					<input type="text" id="location_header" class="textbox-large" placeholder="Address, City, State or Zip" title="Find an Office"/><button  class="textbox-arrow arrow-green" title="Find an Office"></button>                <div class="hide">				     <input type="submit">                </div>                </form>                <form method="get" action="#search-header" class="hrb-form">					<label for="search" title="Search">Search</label>                    <!--<input type="text" id="search" placeholder="Search" title="Search" />                    <input type="image" src="/images/button-arrow.gif" class="submit" title="Search" alt="Search" />-->					<input type="text" id="search" class="textbox-large" placeholder="Search" title="search"/><button  class="textbox-arrow arrow-green submit" title="Search"></button>                <div class="hide">					<input type="submit">                </div>                </form>            </div>            <nav>                <ul class="main">                    <li class="welcome main-nav"><a href="/" title="Home" onclick="omnitureOnClick('navLocation:hpn','navName:home');">Home</a></li>                    <li class="file-at-home main-nav"><a href="/online-tax-preparation/tax-software-online-file-taxes.html" title="File Online" onclick="omnitureOnClick('navLocation:hpn','navName:file_online');">File Online</a>                        <div class="mega-nav">                            <div class="mega-nav-bkg">                                <div class="mega-nav-content">									<div class="prep-options">										<!--start options-->										<div style="float:left;">											<!--<div style="float:left;width:15px;height:350px;background:url('/images/hrb_home_tab_content.jpg') no-repeat -650px -895px;">&nbsp;</div>											<div style="float:left;width:20px;height:350px;background:url('/images/hrb_home_tab_content.jpg') no-repeat -690px -895px;">&nbsp;</div>-->											<div class="hdr-ftr-sprite" style="float:left;width:17px;height:350px;background-position:-445px 30px;">&nbsp;</div>											<div class="hdr-ftr-sprite" style="float:left;width:15px;height:350px;background-position:-486px 30px;">&nbsp;</div>											<div class="hdr-ftr-sprite" style="float:left;width:180px;height:350px;background-position:-570px -13px;">											<!--<div class="meganav" style="float:left;width:180px;height:350px;">											<div class="grey-button">BASIC</div>-->											<dl>											    <dt class="meganav-products">BASIC</dt>												<!-- begin online BASIC -->                                                <dd class="options-product-title-online" style="margin:left:25px;">Simple tax situation<br/>&nbsp;</dd>												<dd class="options-product-price-online" style="margin:left:25px;">													<!--<span id="prodPrice30" class="price"></span>-->													<span  class="price prodPrice30"></span>												</dd>                                                <dd>                                                    <!--<a href="#" onClick="omnitureOnClick('navLocation:hmn','navName:30_start_now');callOffermatica('30_hrbo_start_onclick');productStartNow(30,'site:hrblock','linkname:free');return false;" title="Start for Free for online Basic">Start Now <span class="context">  for Basic product [mega nav]</span></a>-->													<a class="button-medium green" title="Start for Free for online Basic" onclick="productStartNow(30,'site:hrblock','linkname:free');" >Start for FREE</a>                                                </dd>												<dd style="text-align:center;">&nbsp;													<a href="#" onClick="omnitureOnClick('navLocation:hmn','navName:30_learn_more');productLearnMore(30,'site:hrblock','linkname:free');return false;" title="Learn more about the online Free product" class="arrow-link">Learn More<span class="context">  about the online Free product [mega nav]</span></a>												</dd>												<dd>													<!--<div class="options-separator" style="margin-left:0px !important;"></div>-->												</dd>												<!-- BEGIN: SOFTWARE BASIC -->												<dd>													<div style="margin-left:5px;">														<!--														<div style="float:left;width:80px;height:101px;background-image: url('/images/box_basic.png');">														</div>														-->														<div style="float:left;margin-top:20px;">															<dl style="margin:0px;padding:0px;">															  <div class="hdr-ftr-sprite" style="background-position:-14px -214px;height:100px;margin-bottom:10px;width:80px;" title="Basic">																<dd class="options-product-title-software-1">BASIC<br>&nbsp;</dd>																<!--<dd class="options-product-title-software-2">Software Version<br/>&nbsp;</dd>-->																<dd class="options-product-price-software">																	<!--<span id="prodPrice199" class="price">&nbsp;</span>-->																	<span class="price prodPrice199">$19.95</span>																</dd>															  </div>																<dd>        <!--<a title="Download Windows Basic" onclick="omnitureOnClick('navLocation:body','navName:199_start_now'); callOffermatica('199_hrbs_dl_onclick'); productStartNow(199,'site:hrblock','linkname:basic','sku:235273400');" href="#">Windows Download <span class="context">  for  Basic product [mega nav]</span></a>-->        <a title="Download Windows Basic" style="margin-left:-3px;" class="button-medium green" onclick="productStartNow(199,'site:hrblock','linkname:basic','sku:235273400');" href="#">Download</a>																</dd>																<dd style="text-align:center">&nbsp;        <a class="download" title="Download Mac Basic" onclick="omnitureOnClick('navLocation:body','navName:199_start_now'); callOffermatica('199_hrbs_dl_onclick'); productStartNow(199,'site:hrblock','linkname:basic','sku:235273500');" href="#">Mac Download<span class="context">  for Basic product [mega nav]</span></a>																</dd>																<dd style="text-align:center;">&nbsp;																	<a class="arrow-link" title="Learn more about the software Basic product" onclick="omnitureOnClick('navLocation:hmn','navName:199_learn_more');productLearnMore(199,'site:hrblock','linkname:basic');return false;" href="#">Learn More<span class="context">  about the software Basic product [mega nav]</span></a>																</dd>															</dl>														</div>													</div>												</dd>												</dl>											</div><!--first-->											<div style="float:left;width:2px;height:350px;"></div>											<div class="hdr-ftr-sprite" style="float:left;width:180px;height:350px;background-position:-570px -13px;"><!--second-->											<!--<div class="meganav" style="float:left;width:180px;height:350px;">											<div class="grey-button">DELUXE</div>-->											<dl >                                                <dt class="meganav-products">DELUXE</dt>                                                <dd class="options-product-title-online">Homeowners/Investors<br/>&nbsp;</dd>												<dd class="options-product-price-online">													<!--<span id="prodPrice204" class="price"></span>-->													<span  class="price prodPrice204"></span>												</dd>                                                <dd>                                                <!--<a href="#" onClick="omnitureOnClick('navLocation:hmn','navName:204_start_now');callOffermatica('204_hrbo_start_onclick');productStartNow(204,'site:hrblock','linkname:deluxe');return false;" title="Start for Free for online Deluxe">Start for Free <span class="context">  for Deluxe product [mega nav]</span></a>-->												<a title="Start for Free for online Deluxe" onclick="productStartNow(204,'site:hrblock','linkname:deluxe');return false;" class="button-medium green">Start for FREE</a>                                                </dd>												<dd style="text-align:center;">&nbsp;													<a href="#" onClick="omnitureOnClick('navLocation:hmn','navName:204_learn_more');productLearnMore(204,'site:hrblock','linkname:deluxe');return false;" title="Learn more about the online Deluxe product" class="arrow-link">Learn More <span class="context"> about the online Deluxe product [mega nav]</span></a>												</dd>												<dd>													<!--<div class="options-separator" style="margin-left:6px !important;"></div>-->												</dd>												<!-- BEGIN: SOFTWARE DELUXE -->												<dd >													<div style="margin-left:-2px;">														<!--														<div style="float:left;width:80px;height:101px;background-image: url('/images/box_basic.png');">														</div>														-->														<div style="float:left;margin-top:20px;">															<dl>															  <div class="hdr-ftr-sprite" style="background-position:-15px -11px; height:100px;margin-bottom:10px;width:80px;" title="Deluxe">																<dd class="options-product-title-software-1">DELUXE<br/>&nbsp;</dd>																<!--<dd class="options-product-title-software-2">Software Version<br/>&nbsp;</dd>-->																<dd class="options-product-price-software">																	<!--<span id="prodPrice207" class="price">&nbsp;</span>-->																	<span class="price prodPrice207">&nbsp;</span>																</dd>															  </div>																<dd>        <a href="#" style="margin-left:-3px;" class="button-medium green" onClick="productStartNow(207,'site:hrblock','linkname:deluxe_state','sku:235240100');" title="Download Windows Deluxe">Download</a>																</dd>																<dd style="text-align:center">&nbsp;        <a href="#" class="download" onClick="omnitureOnClick('navLocation:body','navName:207_start_now'); callOffermatica('207_hrbs_dl_onclick'); productStartNow(207,'site:hrblock','linkname:deluxe_state','sku:235240000');" title="Download Mac Deluxe">Mac Download<span class="context">  for Deluxe product [mega nav]</span></a>																</dd>																<dd style="text-align:center;">&nbsp;																	<a href="#" onClick="omnitureOnClick('navLocation:hmn','navName:207_learn_more');productLearnMore(207,'site:hrblock','linkname:deluxe');return false;" title="Learn more about the software Deluxe product" class="arrow-link">Learn More<span class="context"> about the software Deluxe product [mega nav]</span></a>																</dd>															</dl>														</div>													</div>												</dd>												</dl>											</div><!--second-->											<div style="float:left;width:0px;height:350px;"></div>											<div class="hdr-ftr-sprite" style="float:left;width:180px;height:350px;background-position:-570px -13px;"><!--third-->											<!--<div class="meganav" style="float:left;width:180px;height:350px;">											<div class="grey-button">PREMIUM</div>-->											<dl>                                                <dt class="meganav-products">PREMIUM</dt>                                                <dd class="options-product-title-online">Self-employed/Rental<br/>Property Owners</dd>												<dd class="options-product-price-online">													<!--<span id="prodPrice32" class="price"></span>-->													<span  class="price prodPrice32"></span>												</dd>                                                <dd>                                                    <!--<a href="#" onClick="omnitureOnClick('navLocation:hmn','navName:32_start_now');callOffermatica('32_hrbo_start_onclick');productStartNow(32,'site:hrblock','linkname:premium');return false;" title="Start for Free for online Premium">Start for Free <span class="context">  for Premium product [mega nav]</span></a>-->													<a title="Start for Free for online Premium" onclick="productStartNow(32,'site:hrblock','linkname:premium');return false;" class="button-medium green">Start for FREE</a>                                                </dd>												<dd style="text-align:center;">&nbsp;													<a href="#" onClick="omnitureOnClick('navLocation:hmn','navName:32_learn_more');productLearnMore(32,'site:hrblock','linkname:premium');return false;" title="Learn more about the online Premium product" class="arrow-link">Learn More <span class="context">  about the online Premium product [mega nav]</span></a>												</dd>												<dd>													<!--<div class="options-separator" style="margin-left:6px !important;"></div>-->												</dd>												<!-- BEGIN: SOFTWARE PREMIUM -->												<dd >													<div style="margin-left:-2px;">														<!--														<div style="float:left;width:80px;height:101px;background-image: url('/images/box_basic.png');">														</div>														-->														<div style="float:left;margin-top:20px;">															<dl>															  <div class="hdr-ftr-sprite" style="background-position:-14px -112px; height:100px;margin-bottom:10px;width:80px;" title="Premium">																<dd class="options-product-title-software-1">PREMIUM<br/>&nbsp;</dd>																<!--<dd class="options-product-title-software-2">Software<br/>Version<br/>&nbsp;</dd>-->																<dd class="options-product-price-software">																	<!--<span id="prodPrice36" class="price">&nbsp;</span>-->																	<span  class="price prodPrice36">&nbsp;</span>																</dd>															  </div>																<dd>        <a href="#" style="margin-left:-3px;" class="button-medium green" onClick="productStartNow(36,'site:hrblock','linkname:premium','sku:235353300');return false;"   title="Download Windows Premium">Download</a>																		</dd>																<dd style="text-align:center">&nbsp;        <a href="#" class="download" onClick="omnitureOnClick('navLocation:body','navName:36_start_now'); callOffermatica('36_hrbs_dl_onclick'); productStartNow(36,'site:hrblock','linkname:premium','sku:235353400');return false;"   title="Download Mac Premium">Mac Download<span class="context">  for Premium product [mega nav]</span></a>																</dd>																<dd style="text-align:center;">&nbsp;																	<a href="#" onClick="omnitureOnClick('navLocation:hmn','navName:36_learn_more');productLearnMore(36,'site:hrblock','linkname:premium');return false;" title="Learn more about the software Premium product" class="arrow-link">Learn More<span class="context"> about the software Premium product [mega nav]</span></a>																</dd>												</dl>												</div>													</div>												</dd>												</dl>											</div><!--third-->                                        </div><!--end options-->                                    </div>									<!--<div style="background: url('/images/bkg-fo-left.gif') repeat transparent;width:3px;margin-left:25px;height:270px;margin-top:40px;float:left;">&nbsp;									</div>-->									<div style="height: 270px; float: left; width: 15px; padding-left: 10px; padding-top: 10px;"><div style="width: 2px; height: 240px; background-color: rgb(218, 218, 218); margin-top:30px;margin-bottom:30px;margin-left:10px; border-right:1px solid #ddddddd;"></div>									</div>									<div class="quick-links" style="padding-top:50px; width:135px;">                                        <dl>                                            <dt style="font-size:150%;font-style:italic;padding-top:10px;color:#398112;">Returning Customers</dt>                                            <dd style="font-size:110%;line-height:1.1;"><a href="/taxes/doing_my_taxes/check_status.html" title="My E-file &amp; Refund Status" onclick="omnitureOnClick('navLocation:hmn','navName:my_efile_refund_status2');">Check e-file and<br/> Refund Status</a><br/><br/></dd>											<dd style="font-size:110%;line-height:1.1;"><a onclick="omnitureOnClick('navLocation:body','navName:login_to_your_account');" title="Login to Your Account" href="javascript:GB_showCenterNew('Login','https://taxes.hrblock.com/hrblock/DirectLogin/DirectLogin.aspx?ViewType=1',162,433);">Login in to Your Account</a></dd>											<dt style="font-size:150%;font-style:italic;color:#398112;">Best of Both</dt>											<dd style="font-size:110%;line-height:1.1;">Prepare your taxes online and file your return with a Tax Professional.											<br/>											<a href="/online-tax-preparation/best-of-both.html"  class="arrow-link" title="Best of Both" onclick="omnitureOnClick('navLocation:hmn','navName:best_of_both');">Go</a></dd>											<!--<dd style="width:184px; height:95px;background:url('/images/icon_best_of_both.png') center bottom no-repeat;">											</dd>-->											<!--<dd style="background: url('/images/hrb_home_tab_content.jpg') no-repeat scroll -617px -790px transparent; height: 100px;width:100px;"></dd>-->                                        <dd class="hdr-ftr-sprite" style="background-position:-5px -316px; height: 100px;width:100px;"></dd>                                        </dl>                                    </div>                                </div>                            </div>                        </div>                    </li>					<li class="find-an-office main-nav"><a href="/offices/index.html" title="File in an Office" onclick="omnitureOnClick('navLocation:hpn','navName:file_in_an_office');">File in an Office</a>                        <div class="mega-nav">                            <div class="mega-nav-bkg">                                <div class="mega-nav-content">                                    <div class="fo-left">                                        <div class="find-ps">                                            <div class="find-an-office">                                                <h1>File in an H&amp;R Block Tax Office</h1>												<div class="hdr-ftr-sprite" style="height:60px;width:280px;background-position:-108px -16px;margin-bottom:10px" title="File in H&R Block Tax office">												&nbsp;												</div>                                                <form class="office-locator-form" action="/universal/office_locator.html" method="get">                                                    <input class="textbox-large" title="Address, City, State or Zip" type="text" placeholder="Address, City, State or Zip" id="location_meganav" name="location" />                                                    <!--<input title="Go &gt;" alt="Go &gt;" type="image" src="/images/button-locator-go.gif" class="submit" />-->                                                    <input title="Go &gt;" type="submit" class="header-button-go" value="Go >" />                                                <div class="hide">													<input type="submit">                								</div>                                                </form>                                                <a href="/offices/tax-pro-finder.html" title="Find a Tax Professional" onclick="omnitureOnClick('navLocation:hmn','navName:find_a_tax_professional');">Find a Tax Professional</a>                                            </div>                                            <div class="products-services">                                                <h1>Office Products & Services</h1>                                                <ul>													<li><a href="https://www.hrblock.com/taxes/doing_my_taxes/w2/index.html"           title="Access your W-2"             onclick="omnitureOnClick('navLocation:hmn','navName:access_your_w2');">Access your W-2 Early</a></li>												    <li><a href="/offices/tax-services-second-look-review.html" title="Second Look&reg; Review" onclick="omnitureOnClick('navLocation:hmn','navName:free_second_look_review');"  >Second Look&reg; Review</a></li>                                                    <li><a href="/offices/tax-services-refund-options.html"     title="Refund Anticipation Check"    onclick="omnitureOnClick('navLocation:hmn','navName:refund_anticipation_loans');">Refund Anticipation Check</a></li>													<li><a href="/online-tax-preparation/best-of-both.html"     title="Best of Both"                 onclick="omnitureOnClick('navLocation:hmn','navName:best_of_both');">Best of Both</a></li>													<li><a href="/offices/tax-services-free-1040ez.html" title="Free 1040EZ" onclick="omnitureOnClick('navLocation:hmn','navName:free_1040ez');">Free 1040EZ</a></li>                                                    <!--<li><a href="/bank/emerald_advance/index.html" title="Emerald Advance&reg; Line of Credit" onclick="omnitureOnClick('navLocation:hmn','navName:emerald_advance_line_of_credit');">Emerald Advance&reg; Line of Credit</a></li>-->                                                    <!--<li><a href="/offices/tax-services-free-1040ez.html" title="Free 1040EZ" onclick="omnitureOnClick('navLocation:hmn','navName:free_1040ez');">Free 1040EZ</a></li>-->                                                    <li><a href="/offices/tax-office-products-services.html" title="More Products &amp; Services" class="arrow-link" onclick="omnitureOnClick('navLocation:hmn','navName:more_products_services');">More Products &amp; Services</a></li>                                                </ul>                                            </div>                                        </div>                                        <div class="find-an-tax-pro-outline">                                           <!-- <div class="make-an-appointment-top">                                                <div class="make-an-appointment-bottom">-->                                                	<div class="appt-content">                                                    <h1 style="margin-top:-20px;"><a href="/offices/tax-pro-finder.html" style="text-decoration:none;" title="Find A Tax Professional" onclick="omnitureOnClick('navLocation:hmn','navName:find_a_tax_pro');">Find A Tax Professional</a></h1>                                                    <p style="font-size:116%;line-height:1.2;">Put the expertise of our Tax Professionals to work on your returns. <a href="/offices/tax-pro-finder.html" title="Find A Tax Professional" class="arrow-link" onclick="omnitureOnClick('navLocation:hmn','navName:go');">Go</a></p>												</div>												<div class="clock-image"></div>                                                </div>                                            <!--</div>                                        </div>-->                                    </div>                                    <div class="quick-links">                                        <h1>Quick Links</h1>                                        <dl>                                            <dt>Returning Customers</dt>                                            <dd><a href="/taxes/doing_my_taxes/check_status.html" title="My E-file &amp; Refund Status" onclick="omnitureOnClick('navLocation:hmn','navName:my_efile_refund_status1');">My E-file &amp; Refund Status</a></dd>                                            <dt>Help &amp; General Info</dt>                                            <dd><a href="/offices/tax-preparation-checklist.html" title="Tax Checklist" onclick="omnitureOnClick('navLocation:hmn','navName:tax_checklist');">Tax Checklist</a></dd>                                            <dd><a href="/free-tax-tips-calculators/tax-estimator.html" title="Estimate Your Taxes" onclick="omnitureOnClick('navLocation:hmn','navName:estimate_your_taxes1');">Estimate Your Taxes</a></dd>                                            <dd><a href="/offices/tax-office-faq.html" title="FAQ" onclick="omnitureOnClick('navLocation:hmn','navName:faq1');">FAQ<span class="context">for [meganav]</span></a></dd>                                        </dl>                                    </div>                                </div>                            </div>                        </div>                    </li>					<!--                    <li class="why-hr-block main-nav"><a href="/why-hr-block/index.html" title="Why H&amp;R Block" onclick="omnitureOnClick('navLocation:hpn','navName:why_hr_block');">Why H&amp;R Block</a>                        <div class="mega-nav">                            <div class="mega-nav-bkg">                                <div class="mega-nav-content">                                    <div class="testimonial">                                        <a href="/why-hr-block/never-settle/index.html" onclick="omnitureOnClick('navLocation:hmn','navName:why_hrb_navimage');"> <img alt="" title="" src="/images/pixel.gif"></a>                                        <p class="testimonials">                                            <cite style="font-weight:bold;text-indent:0px;padding-left:0px;">We found Theresa an additional $5,344! </cite>                                            <q style="font-size:85%">Theresa Dudley-Ayers, Quilt Store Owner, Greenback, TN </q>                                        </p>                                        <p style="padding-top:15px;">See how we helped others like Theresa never settle for less.<a href="/why-hr-block/never-settle/index.html" title="Go" class="arrow-link" onclick="omnitureOnClick('navLocation:hmn','navName:see_more_stories');">Go</a></p>                                    </div>                                    <div class="our-guarantees">                                        <h3>Our Guarantees</h3>                                        <p>We're here for you at every step.</p>                                        <ul>                                            <li><a href="/why-hr-block/our-guarantees.html" title="Maximum Refund Guarantee" onclick="omnitureOnClick('navLocation:hmn','navName:maximum_refund_guarantee');">Maximum Refund Guarantee</a></li>                                            <li><a href="/why-hr-block/our-guarantees.html" title="Worry-free Audit Support" onclick="omnitureOnClick('navLocation:hmn','navName:worry_free_audit_support');">Worry-free Audit Support</a></li>                                            <li><a href="/why-hr-block/our-guarantees.html" title="See All of Our Guarantees" class="arrow-link" onclick="omnitureOnClick('navLocation:hmn','navName:see_all_of_our_guarantees');">See All of Our Guarantees</a></li>                                        </ul>                                    </div>                                    <div class="why-choose-hr-block">                                        <h3>Why Choose H&amp;R Block?</h3>                                        <ul>                                            <li><a href="/why-hr-block/advantage.html" title="The H&amp;R Block Advantage" onclick="omnitureOnClick('navLocation:body','navName:the_hr_block_advantage2');">The H&amp;R Block Advantage</a></li>                                            <li><a href="/why-hr-block/testimonials.html" title="Testimonials" onclick="omnitureOnClick('navLocation:hmn','navName:testimonials');">Testimonials</a></li>                                            <li><a href="/why-hr-block/reviews.html" title="Reviews" onclick="omnitureOnClick('navLocation:hmn','navName:reviews');">Reviews</a></li>                                            <li><a href="/why-hr-block/faq.html" title="FAQ" onclick="omnitureOnClick('navLocation:hmn','navName:faq3');">FAQ</a></li>                                        </ul>                                    </div>                                </div>                            </div>                        </div>                    </li>					-->                   <li class="file-with-block-live main-nav"><a href="/block-live/index.html" title="File With Block Live" onclick="omnitureOnClick('navLocation:hpn','navName:file_with_block_live');">File With Block Live</a>                        <div class="mega-nav">                            <div class="mega-nav-bkg">                                <div class="mega-nav-content" style="background:none;">									<div class="block_live_mega_nav_container">										<div class="block_live_top">											<div style="float:left;width:450px">												<h1>File with a Tax Professional from Anywhere</h1>												Prepare your taxes with an H&amp;R Block Tax Professional in real time via<br/>video conference.											</div>											<div style="float:left;width:200;">												<div>													<!--<a href="https://live.hrblock.com" title="Block Live Start Now" onclick="omnitureOnClick('navLocation:body','navName:block_live_start_now')">Available January, 2012 <span class="context">[mega nav]</span></a>-->													<a class="button-large green" href="https://live.hrblock.com" title="Block Live Start Now">Start Now</a>												</div>											</div>										</div>										<div style="clear: both;"></div>										<div class="block_live_middle">											<div class="hdr-ftr-sprite" style="background-position:-4px -419px; height: 70px;width: 75px;float: left;" title="Latest Technology">											</div>											<div style="float:left;width: 300px;padding-left:10px;">												<h1>Latest Technology</h1>												Connect with an H&amp;R Block Tax Professional<br/>												via live face-to-face video conference,<br/>												phone or chat.											</div>											<div class="hdr-ftr-sprite" style="background-position:-91px -80px;height: 70px;width: 75px;float: left;" title="Convenience">											</div>											<div style="float:left;width: 300px;padding-left:0px;">												<h1>Convenience</h1>												Work with an H&amp;R Block online tax professional from anywhere, at a time that's convenient for you.											</div>										</div>										<div style="clear: both;"></div>										<div class="block_live_bottom">											<div class="hdr-ftr-sprite" style="background-position:-2px -486px;height: 70px;width:75px;float: left;" title="Expertise">											</div>											<div style="float:left;width: 300px;padding-left:10px;">												<h1>Expertise</h1>												Each one of our tax professionals is required to pass over 84 hours of specialty training. That means your Tax Pro has the skills to handle your specific situation.											</div>											<div style="float:left;width: 120px;padding-left:30px;">												<h1>Learn More</h1>												<a href="/block-live/demo.html" title="Block Live Demo">Watch the Demo</a><br/>												<a href="/block-live/pricing.html" title="Block Live Pricing">Pricing</a><br/>											</div>											<div style="float:left;width: 150px;">												<h1>&nbsp;</h1>												<a href="/offices/tax-preparation-checklist.html" title="Tax Prep Checklist">Tax Prep Checklist</a><br/>												<a href="/block-live/faq.html" title="Block Live FAQ">FAQ</a><br/>											</div>										</div>										<div style="clear: both;"></div>									</div>								</div>                            </div>                        </div>                    </li>                    <li class="tax-tips-calculators main-nav"><a href="/free-tax-tips-calculators/index.html" title="Tax Calculators &amp; Tips" onclick="omnitureOnClick('navLocation:hpn','navName:tax_calculators_tips');">Tax Calculators &amp; Tips </a>                        <div class="mega-nav">                            <div class="mega-nav-bkg">                                <div class="mega-nav-content">                                    <div class="tax-estimator">                                        <h1>2011 Tax Estimator</h1>                                        <div class="mob-img" title="Tax Estimator">&nbsp;&nbsp;</div>                                        <div class="leftContent">                                        <form method="get" action="#estimator-header" class="hrb-form">                                            <div>                                                <label for="familystatus" title="Select your filing status">Select your filing status:</label>                                                <!--<input type="text" id="status" class="visuallyhidden" />-->                                                <select style="font-size:100%;" id="familystatus" title="Filing status">												                      <option selected> Select... </option>												                      <option value="0"> Single </option>												                      <option value="1"> Married Filing Jointly </option>												                      <option value="2"> Married Filing Separately </option>												                      <option value="3"> Head of Household </option>												                      <option value="4"> Qualifying Widow(er) </option>												               </select>                                            </div>                                            <p>                                                <label for="age" title="age">Your age on 12/31/11:</label>                                                <input type="text" id="age" maxlength="2" title="Age"/>                                            </p>                                            <p>                                                <label for="wages" title="wages">Your total 2011 wages:</label>                                                <input type="text" id="wages" maxlength="9" placeholder="W-2 Box 1" title="Wages"/>                                            </p>                                            <p>                                                <label class="submit" for ="refund-owe" title="Refund or Owe">Refund or Owe?</label>                                                <!--<input type="image" id="refund-owe" src="/images/button-find-out-now.gif" title="Find Out Now" alt="Find Out Now" class="submit" />-->                                                <input type="submit" id="refund-owe" title="Find Out Now" value="Calculate >" class="header-calculate submit" />                                            </p>                                        </form>                                        </div>                                        <p class="disclaimer">This is an estimation tool and should be used accordingly. Use a complete tax preparation tool for the most accurate information.</p>                                    </div>                                    <div class="tax-questions-calc">                                        <h1>H&amp;R Block Mobile </h1>                                        <p>Choose from an exciting array of mobile applications designed specifically for our customers on the go. <br />										<a href="/mobile/index.html" class="arrow-link" title="H&R Block Mobile">Learn More<span class="context"> about H&amp;R Block Mobile</span></a><br />										<!--<a href="/mobile/index.html"><img src="/images/iphone.gif" title="Mobile" alt="Mobile"></a>-->										<!--<div style="background: url('/testing/html5/images/meganav-hdr-ftr-sprite-homepage.gif') no-repeat scroll -175px -80px transparent;height: 80px;width: 130px;cursor:pointer;" onclick="location.href='/mobile/index.html'"></div>-->										<!--<div style="background: url('/images/hrb_home_tab_content.jpg') no-repeat scroll -475px -54px transparent;height: 80px;width: 130px;cursor:pointer;" onclick="location.href='/mobile/index.html'"></div>-->										</p>										<div onclick="location.href='/mobile/index.html'" class="hdr-ftr-sprite" style="background-position:-173px -79px;height: 52px;width: 97px;cursor:pointer; margin-top: 5px;" title="H&R Block Mobile">&nbsp;</div>                                        <!--<div class="topic-show">                                            General Income                                            <div class="topic-list-bottom">                                                <div class="topic-list-top">                                                    <div class="topic-list">                                                        <ul>                                                            <li class="first"><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=17&category=general-income" title="General Income" onclick="omnitureOnClick('navLocation:hmn','navName:general_income');">General Income</a></li>                                                            <li><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=13&category=state-local" title="State &amp; Local" onclick="omnitureOnClick('navLocation:hmn','navName:state_local');">State &amp; Local</a></li>                                                            <li><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=19&category=other-tax-questions" title="Other Tax Questions" onclick="omnitureOnClick('navLocation:hmn','navName:other_tax_questions');">Other Tax Questions</a></li>                                                            <li><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=12&category=real-estate-rentals" title="Real Estate &amp; Rentals" onclick="omnitureOnClick('navLocation:hmn','navName:real_estate_rentals');">Real Estate &amp; Rentals</a></li>                                                            <li><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=14&category=retirement" title="Retirement" onclick="omnitureOnClick('navLocation:hmn','navName:retirement');">Retirement</a></li>                                                            <li><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=15&category=education" title="Education" onclick="omnitureOnClick('navLocation:hmn','navName:education');">Education</a></li>                                                            <li><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=16&category=investments-div-int-sales" title="Investments" onclick="omnitureOnClick('navLocation:hmn','navName:investments');">Investments</a></li>                                                            <li><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=21&category=filing-status-exemptions-dependents" title="Filing Status, Exemptions &amp; Dependents" onclick="omnitureOnClick('navLocation:hmn','navName:filing_status_exemptions_dependents');">Filing Status, Exemptions &amp; Dependents</a></li>                                                            <li><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=18&category=deductions-credits" title="Tax Deductions &amp; Credits" onclick="omnitureOnClick('navLocation:hmn','navName:tax_deductions_credits');">Tax Deductions &amp; Credits</a></li>                                                            <li class="last"><a href="http://getitright.hrblock.com/community/tax-category.html?categoryid=20&category=business-income-expenses" title="Business Income &amp; Expenses" onclick="omnitureOnClick('navLocation:hmn','navName:business_income_expenses');">Business Income &amp; Expenses</a></li>                                                        </ul>                                                    </div>                                                </div>                                            </div>                                        </div>-->                                    </div>                                    <div class="quick-links">                                        <h1>More Tax Advice:</h1>                                        <ul>                                            <!--<li><a href="http://getitright.hrblock.com/" title="Ask Your Tax Question" onclick="omnitureOnClick('navLocation:hmn','navName:ask_your_tax_question');">Ask Your Tax Question</a></li>-->                                            <li><a href="/free-tax-tips-calculators/all-tax-tips.html" title="Tax Articles &amp; Tips" onclick="omnitureOnClick('navLocation:hmn','navName:tax_articles_tips');">Tax Articles &amp; Tips</a></li>											<li><a href="/taxes/tax_calculators/tools.html?dest=tax_tips" title="All calculators" onclick="omnitureOnClick('navLocation:hmn','navName:all_calc');">All Calculators</a></li>                                            <li><a href="http://getitright.hrblock.com/blogs.html" title="Tax Blog" onclick="omnitureOnClick('navLocation:hmn','navName:tax_blog');">Tax Blog</a></li>                                            <!--<li><a href="http://getitright.hrblock.com/tax-tips.html" title="Latest Tax Advice" onclick="omnitureOnClick('navLocation:hmn','navName:latest_tax_advice');">Latest Tax Advice</a></li>-->                                            <li><a href="/free-tax-tips-calculators/index.html" title="More Tax Advice" class="arrow-link" onclick="omnitureOnClick('navLocation:hmn','navName:more');">More</a></li>                                    </ul>                                    </div>                                </div>                            </div>                        </div>                    </li>                    <li class="support main-nav"><a href="/support/index.html" title="Support" onclick="omnitureOnClick('navLocation:hpn','navName:support');">Support</a>                        <div class="mega-nav">                            <div class="mega-nav-bkg">                                <div class="mega-nav-content">                                    <div class="need-help">                                        <h1>Need Help?</h1>                                       <img alt="Need Help?" title="Need Help?" src="/images/pixel.gif">                                        <dl>                                            <dt>call <br/>1-800-HRBLOCK</dt>                                            <dd>(1-800-472-5625)</dd>                                        </dl>                                    </div>                                    <div class="tax-answers">                                        <h1 style="height:28px;">Get Answers Fast</h1>                                        <dl>                                            <div class="clients" title="Office Clients">&nbsp;</div>                                            <dt><a href="/support/index.html" title="Office Clients" onclick="omnitureOnClick('navLocation:hmn','navName:office_clients');">Office Clients&nbsp;<img src="/images/icon-arrow-link.gif"  alt="office clients"></a></dt>                                            <dd>Questions for your next visit?</dd>                                        </dl>                                        <dl>                                            <div class="at-home" title="H&amp;R Block At Home&trade; Users">&nbsp;</div>                                            <dt><a href="/support/index.html" title="H&amp;R Block At Home&trade; Users" onclick="omnitureOnClick('navLocation:hmn','navName:hr_block_at_home_users');">H&amp;R Block At Home&trade; Users&nbsp;<img src="/images/icon-arrow-link.gif" alt="H&amp;R Block At Home Users" ></a></dt>                                            <dd>Need technical support?</dd>                                        </dl>                                        <dl>                                            <div class="emerald" title="Emerald Customers">&nbsp;</div>                                            <dt><a href="/support/index.html" title="Emerald Customers" onclick="omnitureOnClick('navLocation:hmn','navName:emerald_customers');">Emerald Customers&nbsp;<img src="/images/icon-arrow-link.gif" alt="Emerald Customers"></a></dt>                                            <dd>Product &amp; Services support</dd>                                        </dl>                                    </div>                                    <div class="tax-questions-support">                                        <ul>                                            <li><a href="/support/index.html" title="More Customer Support Options" onclick="omnitureOnClick('navLocation:hmn','navName:more_customer_support_options');">More Customer Support Options</a></li>                                            <li><a href="/free-tax-tips-calculators/all-tax-tips.html" title="Tax Articles" onclick="omnitureOnClick('navLocation:hmn','navName:tax_articles');">Tax Articles</a></li>                                        </ul>                                        <h1>Tax Questions?</h1>                                        <p>I&#39;m looking for help on:</p>                                        <form method="get" action="#search-nav" class="hrb-form">                                            <input type="text" id="question" title="I'm looking for help on:" /><button  class="textbox-arrow-support arrow-green submit" title="Go"></button>                                            <!--<input type="image" title="Get Tax Answers" alt="Go" class="submit" src="/images/button-arrow.gif" />-->                                        <div class="hide">											<input type="submit">                						</div>                                        </form>                                    </div>                                </div>                            </div>                        </div>                    </li>                </ul>            </nav>        </div>    </header>
+<!-- END:   HEADER -->
+
+<script type="text/javascript">
+var navClass = "welcome";
+</script>
+
+<!-- change to embed a mbox 1/31/2012 -->
+<div class="mboxDefault">
+<!-- change to embed a mbox 1/31/2012 -->
+
+
+<div class="marquee-green-bkg">
+	<div class="marquee-green">
+<!-- BEGIN: Banner Header -->
+<!-- BEGIN CMS-SOURCED CONTENT -->
+<!-- BEGIN: Banner Header -->
+<div class="marquee-image">
+
+
+		<h1 class="calibribold">
+
+		<div class="home_banner_text">
+
+	<div class="bannertext_0" style="margin-bottom:10px;">
+	File FREE Online with<br> H&amp;R Block At Home<sup>&trade;</sup><br/>
+
+
+	<!--<div  class="banner_free_getstarted">-->
+	<div>
+		<a href="/online-tax-preparation/free-edition.html" class="button-large green" style="margin-top:12px;" title="Start for Free"> Start now</a>
+	</div>
+
+	</div>
+	
+		<div class="bannertext_2"  style="display:none;">
+	
+		<!--Get the Maximum Refund You Deserve. -->
+	
+		Need more time? FREE Extension Filing!
+	
+		
+	
+		<!--<div  class="banner_make-appt">-->
+	
+			<!--<a href="/offices/tax-pro-finder.html" onclick="omnitureOnClick('navLocation:body','navName:max-refund');" title="1040EZ"> Free 1040EZ</a>-->
+	
+			<!--<a class="cta learn" title="Make an Appointment" href="/offices/tax-pro-finder.html">Make an Appointment</a>-->
+	
+		<div  class="banner_learnmore">
+	
+			<a href="/offices/free-extension.html" onclick="omnitureOnClick('navLocation:banner','navName:free-extension');" title="Free Extension"> Free Extension</a>
+	
+		</div>
+	
+		</div>
+	
+	
+	
+		<div class="bannertext_1"  style="display:none;">
+	
+		Come in for a Second Look<sup>&reg;</sup> Review
+	
+		<!--<div  class="banner_learnmore">-->
+		<div style="margin-top:5px;">
+	
+			<a href="/offices/tax-services-second-look-review.html" class="button-medium green" title="Second Look"> Learn More</a>
+	
+		</div>
+	
+		</div>
+	
+	
+	
+		<div class="bannertext_3" style="display:none;">
+	
+		Get started now for your chance <br>
+	
+		at the $100,000 Grand Prize!<br />
+	
+	
+	
+		<!--<div  class="banner_learnmore">
+	
+			<a href="/taxes/doing_my_taxes/w2/" onclick="omnitureOnClick('navLocation:banner','navName:w2');" title="W2 early access"> W2 early access</a>
+	
+		</div>-->
+	
+		<!--<div  class="banner_startonline">
+	
+			<a href="/online-tax-preparation/index.html" title="Start Online for your chance at the Grand Prize" >Start Online</a>
+	
+		</div>
+	
+		<div  class="banner_btndownload">
+	
+			<a  href="/tax-software/index.html" title="Download Now for your chance at the Grand Prize">Download</a>
+	
+		</div>-->
+	
+		<a class="banner_startonline" href="/online-tax-preparation/index.html" title="Start Online for your chance at the Grand Prize" >Start Online</a>
+	
+		<a  class="banner_btndownload" href="/tax-software/index.html" title="Download Now for your chance at the Grand Prize">Download</a>
+	
+	
+	
+		</div>
+	
+	
+	
+		
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	</div>
+	
+	
+	
+	<div class="banner-selectors" style="cursor: pointer;">
+	
+		<div class="home_banner_count selectorHover"></div>
+	
+		<div class="home_banner_count selectorNormal"></div>
+	
+	</div>
+	
+	
+	
+	<!--
+	
+	Ready to file your taxes?<br />
+	
+	<a href="/online-tax-preparation/index.html" style="color:#398112">Start online now</a> or <a href="/offices/tax-pro-finder.html" style="color:#398112">make an appointment</a>.
+	
+	
+	
+	
+	
+-->
+		</h1>
+
+
+
+
+			<style>
+			.find_an_office_button a {
+				background: url("/images/btn_find_an-office.gif") repeat scroll -6px top transparent;
+				float: left;
+				height: 44px;
+				overflow: hidden;
+				text-indent: -999em;
+				width: 182px;
+			}
+
+			.features {
+				//background: url("/images/bkg-features.png") no-repeat scroll 0 47px transparent;
+				background: none;
+			}
+
+			</style>
+			<script>
+				//var pos = ['center top','center -328px','center -654px','center -981px'];
+				var pos = ['center top','center -328px'];
+				//var countpos = ['-950px -110px','-950px -133px','-950px -155px','-950px -177px'];
+				var countpos = ['-950px -110px','-950px -133px'];
+				var indexpos=1;
+				function updateHeader () {
+					var _tempPos = pos[indexpos]
+					//alert(":::"+_tempPos);
+					$(".marquee-image").css("background-position",_tempPos);
+					if (indexpos == 0){
+						$(".marquee-image").css("background","url(/images/html5/file-online-marquee.png) no-repeat center top transparent");
+					}
+					if (indexpos == 1){
+						$(".marquee-image").css("background","url(/images/html5/second-look-marquee.png) no-repeat center top transparent");
+					}
+					$(".marquee-image .calibribold .home_banner_text").children().css('display','none');
+					$(".home_banner_text .bannertext_"+indexpos).css('display','block');
+					$(".marquee-image .calibribold .banner-selectors").children().each(function(index) {
+						if(index == indexpos) $(this).removeClass('selectorNormal').addClass('selectorHover');
+						else $(this).removeClass('selectorHover').addClass('selectorNormal');
+					});
+
+					indexpos++;
+					if (indexpos ==pos.length){
+						indexpos=0;
+					}
+				}
+				$(function() {
+					  $('.banner-selectors').click(function(event) {
+							$(this).children().each(function(index) {
+								if(this === event.target) {
+									if(intervalId) clearInterval(intervalId);
+									indexpos = index;
+									updateHeader();
+									intervalId = setInterval("updateHeader()", 4000);
+								}
+							});
+					  });
+					  intervalId = setInterval("updateHeader()", 6000);
+				});
+			</script>
+			<div style="background: url('/images/html5/file-online-marquee.png') no-repeat center top transparent;" class="marquee-image">
+			</div>
+
+		</div> <!-- end marquee-image -->
+<!-- END:   Banner Header -->
+<!-- END CMS-SOURCED CONTENT -->
+<!-- END:   Banner Header -->
+	</div> <!-- /marquee-green -->
+</div> <!-- /marquee-green-bkg -->
+
+
+<!-- change to embed a mbox 1/31/2012 -->
+	</div> <!-- /mboxDefault -->
+	<script type="text/javascript">
+	mboxCreate('home_marquee_top');
+	</script>
+<!-- change to embed a mbox 1/31/2012 -->
+
+<div id="main">
+    <div class="main">
+
+<!-- BEGIN:  <ul class="features"> -->
+<!-- BEGIN:  <ul class="features"> -->
+
+<style>
+
+
+
+ul {
+
+    list-style-type: disc;
+
+
+
+}
+
+.home_right_pod{
+
+margin-left:10px;
+
+padding-left:25px;
+
+}
+
+.home_right_pod h3{
+
+padding:0 0 5px 0px;
+
+color: #2D5910;
+
+font-size: 130%;
+
+font-weight: bold;
+
+line-height: 1.2;
+
+}
+.features .info .officecontent .rightPanel .w2accesstab{
+						height:140px;
+
+						width:305px;
+
+						margin-bottom:10px;
+
+						background:url('/images/hrb_home_tab_content.jpg') no-repeat -318px -290px;
+
+			}
+
+
+
+</style>
+
+
+
+<ul class="features">
+
+
+            <li class="active" id="uhp-tab-1"><!-- START DIV FOR DYNAMIC MBOX -->
+
+
+
+				<h2><a href="" class="tab1-button" title="Choose the right product for you.">File Online Now<br/><span class="tab">Choose the right product for you</span></a></h2>
+				<div class="mboxDefault">
+                <div class="info">
+
+
+
+
+
+
+
+
+
+					 <div class="compare" style="background:url(/images/pixel.gif) repeat-x;padding:0 45px 30px;background-color:#ffffff;margin:0;">
+
+                        <dl>
+
+                            <dt class="calibribold"><a style="text-decoration:none;color: #515151;" href="#" onClick="omnitureOnClick('navLocation:hmn','navName:201_learn_more');productLearnMore(201,'site:hrblock','linkname:free');return false;" title="Free Tax Prep">FREE EDITION</a><br/>&nbsp;</dt>
+
+                            <dd class="tag calibribolditalic">File For FREE&nbsp;</dd>
+
+							<dd>
+
+                                <!--<button class="button green" onclick="productStartNow(201,'site:hrblock','linkname:free');" title="Start Now">Start Now</button>-->
+								<a class="button-large green" onclick="productStartNow(201,'site:hrblock','linkname:free');" title="Start Now">Start Now</a>
+                            </dd>
+
+
+							<dd>
+
+								<div class="bvRatings"  onclick="handleInlineProductRatingsClick(201);">
+
+									<!--<img id="prod201RatingsImg" src="/images/transparent.gif" alt="BV ratings Free product">
+
+									<br/>
+
+									<div id="prod201NbrOfRatings"></div>-->
+
+									<ul >
+									<li class="bvProdRating"  style="text-align:left">
+										<div class="prodRating201" title="Customer Reviews for FREE"> </div>
+
+									</li><li class="bvProdReviews201" style="text-align:center"> </li>
+									</ul>
+
+								</div>
+
+							</dd>
+
+							<dd style="text-align:center;">&nbsp;</dd>
+
+							 <dd class="more" style="margin-left:50px;margin-top:-10px;padding-bottom:15px;">
+
+                                <a href="#" class="arrow-link"  onclick="omnitureOnClick('navLocation:body','navName:201_learn_more');productLearnMore(201,'site:hrblock','linkname:free');return false;" title="Learn More">Learn More</a>
+
+                            </dd>
+
+
+
+                            <dd>
+
+                                <ul>
+
+                                    <li>FREE to prepare, FREE to print, FREE to e-file</li>
+
+                                    <li>FREE expert advice from our community of tax specialists</li>
+
+									<li>FREE audit support and representation from an enrolled agent &ndash; <b>Only from H&amp;R Block</b></li>
+
+									<li>100% Accuracy Guarantee and Maximum Refund Guarantee</li>
+
+
+
+                                </ul>
+
+                            </dd>
+
+
+
+							<dd>1 federal e-file included</dd>
+
+                            <dd>
+
+                                <a href="javascript:WinOpen_('/taxes/products/online/popups/state_fees.html',600,600);" title="State additional fee" onclick="omnitureOnClick('navLocation:body','navName:state_additional_fee_1');">State additional fee</a>
+
+                            </dd>
+
+                        </dl>
+
+                        <dl>
+
+                            <dt class="calibribold"><a style="text-decoration:none;color: #515151;" href="#" onclick="omnitureOnClick('navLocation:body','navName:30_basic');productLearnMore(30,'site:hrblock','linkname:basic');return false;" title="Basic">BASIC</a><span id="prodPrice30" class="price"></span></dt>
+
+                            <dd class="tag calibribolditalic">Simple Tax Situations&nbsp;</dd>
+
+							<dd>
+
+                                <!--<button class="button green" onclick="productStartNow(30,'site:hrblock','linkname:basic');" title="Start for Free - Basic">Start for Free</button>-->
+								<a class="button-large green" onclick="productStartNow(30,'site:hrblock','linkname:basic');" title="Start for Free - Basic">Start For Free</a>
+                            </dd>
+
+							<dd>
+
+								<div class="bvRatings" onclick="handleInlineProductRatingsClick(30);">
+
+									<!--<img id="prod30RatingsImg" src="/images/transparent.gif"  alt="BV ratings Basic product">
+
+									<br/>
+
+									<div id="prod30NbrOfRatings"></div>-->
+
+									<ul >
+									<li class="bvProdRating"  style="text-align:left">
+										<div class="prodRating30" title="Customer Reviews for Basic"> </div>
+
+									</li><li class="bvProdReviews30" style="text-align:center"> </li>
+									</ul>
+
+								</div>
+
+							</dd>
+
+							<dd style="text-align:center;margin-top:-10px;">Pay when you're satisfied</dd>
+
+							<dd class="more" style="margin-left:50px;padding-bottom:15px;">
+
+								<a href="#" class="arrow-link" onclick="omnitureOnClick('navLocation:body','navName:30_learn_more');productLearnMore(30,'site:hrblock','linkname:basic');return false;" title="Learn more">Learn more<span class="context"> about Basic product.</span></a>
+
+                            </dd>
+
+
+
+                            <dd><strong>Everything in Free, plus:</strong></dd>
+
+							<dd>
+
+                                <ul>
+
+                                    <li>Import last year's return</li>
+
+                                    <li>Step-by-step guidance to maximize your refund</li>
+
+                                    <li>Accuracy Review double checks <br/>for errors</li>
+
+                                </ul>
+
+                            </dd>
+
+
+
+							 <dd>1 federal e-file included</dd>
+
+                             <dd>
+
+                                <a href="javascript:WinOpen_('/taxes/products/online/popups/state_fees.html',600,600);" title="State additional fee about Basic product" onclick="omnitureOnClick('navLocation:body','navName:state_additional_fee_2');">State additional fee<span class="context"> about Basic product.</span></a>
+
+                            </dd>
+
+                        </dl>
+
+                        <dl style="background:url(/images/html5/index-sprite-homepage.png) no-repeat -4px -136px transparent">
+
+                            <dt class="calibribold"><a style="text-decoration:none;color: #515151;" href="#" onclick="omnitureOnClick('navLocation:body','navName:204_deluxe');productLearnMore(204,'site:hrblock','linkname:deluxe');return false;" title="Deluxe">DELUXE</a><span id="prodPrice204" class="price"></span></dt>
+
+                            <dd class="tag calibribolditalic">Homeowners/Investors&nbsp;</dd>
+
+							<dd>
+
+                                <!--<button class="button green" onclick="productStartNow(204,'site:hrblock','linkname:deluxe');" title="Start for Free - Deluxe">Start for Free</button>-->
+                                <a class="button-large green" onclick="productStartNow(204,'site:hrblock','linkname:deluxe');" title="Start for Free - Deluxe">Start For Free</a>
+
+                            </dd>
+
+
+							<dd>
+
+								<div class="bvRatings" onclick="handleInlineProductRatingsClick(204);">
+
+									<!--<img id="prod204RatingsImg" src="/images/transparent.gif"  alt="BV ratings Deluxe product">
+
+									<br/>
+
+									<div id="prod204NbrOfRatings"></div>-->
+									<ul >
+									<li class="bvProdRating"  style="text-align:left">
+										<div class="prodRating204" title="Customer Reviews for Deluxe"> </div>
+
+									</li><li class="bvProdReviews204" style="text-align:center"> </li>
+									</ul>
+
+								</div>
+
+							</dd>
+
+							<dd style="text-align:center;margin-top:-10px;">Pay when you're satisfied</dd>
+
+							<dd class="more" style="margin-left:50px;padding-bottom:15px;">
+
+                                <a href="#" class="arrow-link" onclick="omnitureOnClick('navLocation:body','navName:204_learn_more');productLearnMore(204,'site:hrblock','linkname:deluxe');return false;" title="Learn more">Learn more<span class="context"> about Deluxe product.</span></a>
+
+                            </dd>
+
+
+
+                            <dd><strong>Everything in Basic, plus:</strong></dd>
+
+                            <dd>
+
+                                <ul>
+
+                                    <li>Import your W-2, 1099 and last year's return</li>
+
+									<li>Searches hundreds of deductions</li>
+
+                                    <li>Personalized tax guidance</li>
+
+                                    <li>Mortgage interest and charitable tax deduction maximizers</li>
+
+									<li>Sale of stocks, bonds, and mutual funds</li>
+
+                                 </ul>
+
+                            </dd>
+
+
+
+							<dd>1 federal e-file included</dd>
+
+                             <dd>
+
+                                <a href="javascript:WinOpen_('/taxes/products/online/popups/state_fees.html',600,600);" title="State additional fee about Deluxe product" onclick="omnitureOnClick('navLocation:body','navName:state_additional_fee_3');">State additional fee <span class="context"> about Deluxe product.</span></a>
+
+                            </dd>
+
+                        </dl>
+
+                        <dl>
+
+                            <dt class="calibribold"><a style="text-decoration:none;color: #515151;" href="#" onclick="omnitureOnClick('navLocation:body','navName:32_premium');productLearnMore(32,'site:hrblock','linkname:premium');return false;" title="Premium">PREMIUM</a><span id="prodPrice32" class="price"></span></dt>
+
+                            <dd class="tag calibribolditalic">Self-employed&nbsp;</dd>
+
+							<dd>
+
+                                <!--<button class="button green" onclick="productStartNow(32,'site:hrblock','linkname:premium');" title="Start for Free -Premium">Start for Free</button>-->
+                                <a class="button-large green" onclick="productStartNow(32,'site:hrblock','linkname:premium');" title="Start for Free -Premium">Start For Free</a>
+
+                            </dd>
+
+							<dd>
+
+								<div class="bvRatings" onclick="handleInlineProductRatingsClick(32);">
+
+									<!--<img id="prod32RatingsImg" src="/images/transparent.gif"  alt="BV ratings Premium product">
+
+									<br/>
+
+									<div id="prod32NbrOfRatings"></div>-->
+									<ul >
+									<li class="bvProdRating"  style="text-align:left">
+										<div class="prodRating32" title="Customer Reviews for Premium"> </div>
+
+									</li><li class="bvProdReviews32" style="text-align:center"> </li>
+									</ul>
+
+								</div>
+
+							</dd>
+
+							<dd style="text-align:center;margin-top:-10px;">Pay when you're satisfied</dd>
+
+							<dd class="more" style="margin-left:50px;padding-bottom:15px;">
+
+                                <a href="#" class="arrow-link" onclick="omnitureOnClick('navLocation:body','navName:32_learn_more');productLearnMore(32,'site:hrblock','linkname:premium');return false;" title="Learn more">Learn more <span class="context">  about Premium product</span></a>
+
+                            </dd>
+
+
+
+                            <dd><strong>Everything in Deluxe, plus:</strong></dd>
+
+                            <dd>
+
+                                <ul>
+
+                                    <li>FREE live tax advice<sup>2</sup></li>
+
+                                    <li>Schedule C guidance </li>
+
+                                    <li>Tax laws and planning resources </li>
+
+                                    <li>Advanced tax calculators</li>
+
+                                    <li>Rental income assistance</li>
+
+                                </ul>
+
+                            </dd>
+
+
+
+							<dd>1 federal e-file included</dd>
+
+                             <dd>
+
+                                <a href="javascript:WinOpen_('/taxes/products/online/popups/state_fees.html',600,600);" title="State additional fee about Premium product" onclick="omnitureOnClick('navLocation:body','navName:state_additional_fee_4');">State additional fee <span class="context"> about Premium product.</span></a>
+
+                            </dd>
+
+                        </dl>
+
+
+
+						<div style="clear:both;"></div>
+
+						<!--<div style="padding-left:20px;padding-top:20px;font-size:18px;color:#70b939;"><i>FREE audit support and representation from an enrolled agent &ndash;<b> NEW and only from H&R Block</b></i>
+
+						</div>-->
+
+
+
+						<div style="padding-left:20px;padding-top:20px;font-size:18px;color:#70b939;">
+
+						<i><b>NEW! Import last year's tax data from TurboTax&reg; and TaxACT&reg; online.</b></i>
+
+						</div>
+
+
+
+						<hr style="border-color:#7DC243;border-width: 3px 0 0;">
+
+                    </div>
+				</div>
+				</div> <!-- /mboxDefault -->
+		<script type="text/javascript">
+		mboxCreate('home-tab-1');
+		</script>
+
+
+			</li><!-- END DIV FOR DYNAMIC MBOX -->
+
+            <li id="uhp-tab-2"><!-- START DIV FOR DYNAMIC MBOX -->
+
+				<h2><a href="" class="tab2-button" title="Search by location or tax professional">File in an Office<br/><span class="tab">Search by location or tax professional</span></a></h2>
+
+
+				<div class="mboxDefault">
+                <div id="info2" class="info">
+                <h1>Loading........</h1>
+				<span class="context">File in an office</span>
+
+
+
+
+
+
+				</div>
+			</div> <!-- /mboxDefault -->
+		<script type="text/javascript">
+		mboxCreate('home-tab-2');
+		</script>
+
+
+			</li><!-- END DIV FOR DYNAMIC MBOX -->
+			<!--BLOCK LIVE LI -->
+			<style>
+						.block_live_container .startnow_bl {
+						    height: 39px;
+						    width: 153px;
+						}
+						.block_live_container .startnow_bl a {
+
+							background: url("/images/hrb_home_tab_content.jpg") no-repeat scroll -1279px -723px transparent;
+						    border: medium none;
+						    float: left;
+						    height: 100%;
+						    margin-bottom: 10px;
+						    outline: medium none;
+						    overflow: hidden;
+						    text-indent: -999em;
+						    width: 100%;
+						}
+						.block_live_container .startnow_bl a:hover {
+
+							background: url("/images/hrb_home_tab_content.jpg") no-repeat scroll -1279px -685px transparent;
+						}
+
+						.block_live_container .watchdemo_bl {
+						    height: 39px;
+						    width: 168px;
+						}
+						.block_live_container .watchdemo_bl a {
+
+							background: url("/images/hrb_home_tab_content.jpg") no-repeat scroll -1279px -801px transparent;
+						    border: medium none;
+						    float: left;
+						    height: 100%;
+						    margin-bottom: 10px;
+						    outline: medium none;
+						    overflow: hidden;
+						    text-indent: -999em;
+						    width: 100%;
+						}
+						.block_live_container .watchdemo_bl a:hover {
+
+							background: url("/images/hrb_home_tab_content.jpg") no-repeat scroll -1279px -762px transparent;
+						}
+</style>
+
+			 <li id="uhp-tab-3"> <!-- START DIV FOR DYNAMIC MBOX -->
+
+				<h2><a href="" class="tab3-button" title="Work with a tax professional from anywhere">File with Block Live<br/><span class="tab">Work with a tax professional from anywhere</span></a></h2>
+
+                <div class="mboxDefault">
+                <div id="info3" class="info">
+				<h1>Loading........</h1>
+				<span class="context">File with Block Live</span>
+
+				</div>
+           </div> <!-- /mboxDefault -->
+		<script type="text/javascript">
+		mboxCreate('home-tab-3');
+		</script>
+			</li> <!-- END DIV FOR DYNAMIC MBOX -->
+			<!--BLOCK LIVE LI -->
+
+            <li class="stint"></li>
+
+        </ul>
+
+<!-- END:    <ul class="features"> -->
+
+
+
+		<div style="clear:both;" class="home_bottom">
+			<div class="podspacer">&nbsp;</div>
+			<div class="pod-outline1" style="cursor:pointer;" onclick="location.href='/mobile/index.html'" title="H&amp;R Block for Mobile">
+
+				<div class="podcontent" style="padding-top:10px;">
+						<p class="home_pod_heading" style="margin-top:-25px;">H&amp;R Block for Mobile</p>
+						Access H&amp;R Block services<br> on your mobile device.<br><a href="/mobile/index.html" title="H&amp;R Block for Mobile">Go<span class="context">H&amp;R Block for Mobile</span></a>
+				</div>
+				<div class="pod-right-image1"></div>
+			</div>
+			<div class="podspacer">&nbsp;</div>
+			<div class="pod-outline2" style="cursor:pointer;" onclick="location.href='/block-live/index.html'" title="Block Live">
+				<div class="podcontent" style="padding-top:10px;">
+						<p class="home_pod_heading" style="margin-top:-25px;">Block Live</p>
+
+						Conveniently video conference,<br> phone or chat with one of our <br>online Tax Professionals. <a href="/block-live/index.html" title="Block Live">Go<span class="context"> Block Live</span></a>
+				</div>
+				<div class="pod-right-image2"></div>
+			</div>
+			<div class="podspacer">&nbsp;</div>
+			<div class="pod-outline3" style="cursor:pointer;" onclick="location.href='/tax-software/index.html'" title="Software">
+				<div class="podcontent" style="padding-top:10px;">
+						<p class="home_pod_heading" style="margin-top:-25px;">H&amp;R Block At Home&trade; Software </p>
+						Download our program and<br>let us do the math.<a href="/tax-software/index.html" title="Software" >Go<span class="context">  H&amp;R Block At Home&trade; Software</span></a>
+
+				</div>
+				<div class="pod-right-image3"></div>
+			</div>
+
+
+
+
+		</div>
+
+<!--[if IE 7 ]>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+$('.features .info').css({'margin-top':'42px'});
+});
+
+$('.features .tab3-button').click(function(event){
+$('.features .info').css({'margin-top':'18px'});
+})
+
+$('.features .tab2-button').click(function(event){
+$('.features .info').css({'margin-top':'30px'});
+})
+
+$('.features .tab1-button').click(function(event){
+$('.features .info').css({'margin-top':'42px'});
+})
+
+</script>
+<![endif]-->
+<!-- END:    <ul class="features"> -->
+
+		<!-- error! pod id 950 value is "null" -->
+	<!-- total pods: 0 -->
+<!-- BEGIN: Disclaimer -->
+<div class="disclaimer">
+<p>*This offer is available at participating offices only.&nbsp;&nbsp;<a title="See Details"
+href="/offices/tax-services-free-1040ez.html">See details</a>
+</p>
+<p><sup>1</sup>Worry-free Audit Support is available for clients who purchase and use H&amp;R Block tax software or <a href="/online-tax-preparation/index.html" title="Online Tax Prep" onclick="omnitureOnClick('navLocation:body','navName:online-tax-prep');">online tax preparation</a> solutions to prepare and successfully file (via e-file or print and mail) their 2011 individual income tax returns (federal or state). It does not provide for reimbursement of any taxes, penalties or interest imposed by taxing authorities. Additional terms and restrictions apply; see <a href="javascript:WinOpen_('/popups/pop_wfa_features.html',600,600);" title="Worry-free Audit Support" onclick="omnitureOnClick('navLocation:body','navName:worry_free_audit_support_1');">Worry-free Audit Support</a>  for complete details.</p>
+
+<p><sup>2</sup>Purchase of this program entitles you to one session with an H&amp;R Block tax professional.</p>
+<p><sup>3</sup>Error rates are for 2010 Second Look<sup>&reg;</sup> reviews. Fees apply if you have us prepare a corrected or amended return.</p>
+<p>Free Edition: Extra charge for returns that include income from self-employment, rental property, royalties, estates, trusts, partnerships, farming, or sale of assets. </p>
+<p>We guarantee accurate calculations or we'll reimburse resulting IRS penalties and interest charges (limits apply).
+</p>
+<p>If you find another tax software/online preparation method that results in a larger refund (or smaller liability) than that calculated by H&R Block At Home tax software / <a href="/online-tax-preparation/index.html" title="Online Tax Prep" onclick="omnitureOnClick('navLocation:body','navName:online-tax-prep-disclaimer');"> online tax 
+prep</a> program, we will refund the fees you paid us to use our tax software/online program to prepare that return. To qualify, the larger refund or smaller tax liability must not be due to difference in data supplied by you or positions taken on your return that are contrary to law.</p>
+
+<p>H&amp;R Block At Home&trade; prices are ultimately determined at the time of print or e-file. All prices are subject to change without notice.</p>
+
+<p>H&amp;R Block At Home is a registered trademark of HRB Innovations, Inc. TurboTax is a registered trademark of Intuit, Inc.</p>
+</div> <!-- /disclaimer -->
+<!-- END:   Disclaimer -->
+    </div> <!-- end class main --> 
+</div> <!-- end id main -->
+
+<!-- BEGIN: FOOTER -->
+
+	<footer class="header-footer">
+        <dl class="office">
+           <!--<dt>
+		   <a href="/offices/index.html" title="Find an Office" onclick="omnitureOnClick('navLocation:fpn','navName:find_an_office');">FIND AN OFFICE</a>
+		   </dt>-->
+            <dd>
+                <form method='get' action='/universal/office_locator.html' class='office-locator-form'>
+
+				<label for="location_footer" style="color:#254911;"><b>FIND AN OFFICE</b></label><br /><br />
+
+<!--<input type="text" id="location_footer" placeholder="Address, City, State or Zip" title="Find an Office" /> <input type="image" src="/images/button-arrow.gif" class="submit" title="Find an Office" alt="Find an Office" />-->
+ <input type="text" id="location_footer" class="textbox-small" placeholder="Address, City, State or Zip" title="Find an Office"/><button  class="textbox-arrow arrow-green" title="Go"></button>
+<div class="hide">
+	<input type="submit">
+</div>
+</form>
+            </dd>			<br/>
+            <dd>
+                <a href="/offices/tax-pro-finder.html" title="Find A Tax Professional" onclick="omnitureOnClick('navLocation:fpn','navName:find_a_tax_pro');"> Find A Tax Professional</a>
+                <br/>&nbsp;<br/>&nbsp;
+            </dd>
+        </dl>
+        <dl class="online-prep">
+            <dt>ONLINE TAX PREP</dt>
+            <dd>
+                <a class="footer-start" href="/online-tax-preparation/tax-software-online-file-taxes.html" title="Start for Free for Online Tax Preparation">Start for Free</a>
+            </dd>
+            <dd class="clear">Pay when you're satisfied!</dd>
+            <dd><a href="javascript:WinOpen_('/taxes/products/online/popups/state_fees.html',600,600);" title="State Additional Fee" onclick="omnitureOnClick('navLocation:fpn','navName:state_additional_fee');">State Additional Fee</a><br/>&nbsp;</dd>
+        </dl>
+        <dl>
+            <dt>TAX PREP OPTIONS</dt>
+            <dd><a href="/offices/index.html" title="Tax Offices" onclick="omnitureOnClick('navLocation:fpn','navName:tax_offices');">Tax Offices</a></dd>
+            <dd><a href="/online-tax-preparation/index.html" title="Online Tax Prep" onclick="omnitureOnClick('navLocation:fpn','navName:online_tax_prep');">Online Tax Prep</a></dd>
+            <dd><a href="/tax-software/index.html" title="Tax Software" onclick="omnitureOnClick('navLocation:fpn','navName:tax_software');">Tax Software</a></dd>
+            <dd><a href="/online-tax-preparation/best-of-both.html" title="Best of Both" onclick="omnitureOnClick('navLocation:fpn','navName:best_of_both');">Best of Both</a></dd>
+            <dd id="choose"><a href="javascript:javascript:GB_showCenterNew('What\'s Best for Me','/taxes/products/select/whats_right_for_me.html',297,618);" title="Help Me Choose" onclick="omnitureOnClick('navLocation:fpn','navName:help_me_choose');">Help Me Choose</a></dd>
+			<dd><a href="/block-live/index.html" title="Block Live" onclick="omnitureOnClick('navLocation:fpn','navName:block-live');">Block Live</a></dd>
+        </dl>
+        <dl class="middle">
+            <dt>WHY CHOOSE H&amp;R BLOCK</dt>
+            <dd><a href="/why-hr-block/advantage.html" title="Our Advantage" onclick="omnitureOnClick('navLocation:fpn','navName:our_advantage');">Our Advantage</a></dd>
+            <dd><a href="/why-hr-block/our-guarantees.html" title="Our Guarantees" onclick="omnitureOnClick('navLocation:fpn','navName:our_guarantees');">Our Guarantees</a></dd>
+            <dd><a href="/why-hr-block/testimonials.html" title="Testimonials" onclick="omnitureOnClick('navLocation:fpn','navName:testimonials');">Testimonials</a></dd>
+            <dd><a href="/why-hr-block/reviews.html" title="Reviews" onclick="omnitureOnClick('navLocation:fpn','navName:reviews');">Reviews</a></dd>
+        </dl>
+        <dl>
+            <dt>TAX ADVICE &amp; INFO</dt>
+            <dd><a href="/free-tax-tips-calculators/tax-estimator.html" title="Tax Estimator" onclick="omnitureOnClick('navLocation:fpn','navName:tax_estimator');">Tax Estimator</a></dd>
+            <dd><a href="/free-tax-tips-calculators/index.html" title="Tax Calculators &amp; Tips" onclick="omnitureOnClick('navLocation:fpn','navName:tax_calculators_tips');">Tax Calculators &amp; Tips</a></dd>
+
+            <dd><a href="/free-tax-tips-calculators/deductions-credits/overlooked-deductions.html?ttiptitle=Deductions" title="Deductions" onclick="omnitureOnClick('navLocation:fpn','navName:deductions');">Deductions</a></dd>
+			<dd><a href="http://getitright.hrblock.com/blogs.html" title="Blog" onclick="omnitureOnClick('navLocation:fpn','navName:Blog');">Blog</a></dd>
+
+            <dd><a href="/mobile/index.html" title="H&amp;R Block Mobile" onclick="omnitureOnClick('navLocation:fpn','navName: H&amp;R Block Mobile');"> H&amp;R Block Mobile</a></dd>
+        </dl>
+        <dl class="conversation">
+            <dt>JOIN THE CONVERSATION</dt>
+            <dd class="facebook"><a href="http://www.facebook.com/hrblock" target="_blank" title="H&amp;R Block on Facebook" onclick="omnitureOnClick('navLocation:fpn','navName:hr_block_on_facebook');">H&amp;R Block on Facebook</a></dd>
+            <dd class="youtube"><a href="http://www.youtube.com/hrblock" target="_blank" title="H&amp;R Block on YouTube" onclick="omnitureOnClick('navLocation:fpn','navName:hr_block_on_youtube');">H&amp;R Block on YouTube</a></dd>
+            <dd class="twitter"><a href="http://www.twitter.com/hrblock" target="_blank" title="H&amp;R Block on Twitter" onclick="omnitureOnClick('navLocation:fpn','navName:hr_block_on_twitter');">H&amp;R Block on Twitter</a></dd>
+            <dd class="email">
+
+                Get tips, advice and special offers!
+                <form class="hrb-form" action="#footer-email">
+				<label for="email">EMAIL NEWSLETTER</label>
+                    <!--<input type="email" id="email" placeholder="Email Address" title="Email Address" />
+                    <input type="image" src="/images/button-arrow.gif" title="Sign up for the Email Newsletter" alt="Sign up for the Email Newsletter" class="submit" />-->		<input type="email" id="email" placeholder="Email Address" title="Email Address"/><button class="textbox-arrow-email arrow-green submit" title="submit">		</button><div class="hide">
+				     <input type="submit">
+                </div>
+                </form>
+            </dd>
+        </dl>
+        <ul class="footer">
+            <li><a href="/career/index.html" title="Careers" onclick="omnitureOnClick('navLocation:f','navName:careers');">Careers</a></li>
+            <li>|</li>
+            <li><a href="/company/index.html" title="Company" onclick="omnitureOnClick('navLocation:f','navName:company');">Company</a></li>
+            <li>|</li>
+            <li><a href="/bank/products-services/emerald.html" title="Emerald Card&reg;" onclick="omnitureOnClick('navLocation:f','navName:emerald_card');">Emerald Card&reg;</a></li>
+            <li>|</li>
+            <li><a href="/bank/index.html" title="Banking" onclick="omnitureOnClick('navLocation:f','navName:banking');">Banking</a></li>
+            <li>|</li>
+            <li><a href="/espanol/index.html" title="En Espa&#241;ol" onclick="omnitureOnClick('navLocation:f','navName:# En espa&ntilde;ol');">En Espa&#241;ol</a></li>
+
+			<li>|</li>
+            <li><a href="http://www.hrbds.com/"  target="_blank" title="H&amp;R Block Dollars &amp; Sense" onclick="omnitureOnClick('navLocation:f','navName:hrb_dollars_sense');">H&amp;R Block Dollars & Sense</a></li>
+
+            <li>|</li>
+            <li><a href="/company/tax_franchise/index.html" title="Franchises" onclick="omnitureOnClick('navLocation:f','navName:franchises');">Franchises</a></li>
+            <li>|</li>
+            <li><a href="/taxes/planning/tax_courses/index.html" title="Income Tax Course" onclick="omnitureOnClick('navLocation:f','navName:income_tax_course');">Income Tax Course</a></li>
+            <li>|</li>
+            <li><a href="/support/index.html" title="Customer Support" onclick="omnitureOnClick('navLocation:f','navName:customer_support');">Customer Support</a></li>
+            <li>|</li>
+            <li><a href="/company/blocknet/hrblock_employees.html" title="Employees" onclick="omnitureOnClick('navLocation:f','navName:employees');">Employees</a></li>
+            <li>|</li>
+            <li><a href="/press/index.jsp" title="Press Center" onclick="omnitureOnClick('navLocation:f','navName:press_center');">Press Center</a></li>			<li>|</li>			<li><a href="http://investors.hrblock.com/phoenix.zhtml?c=76888&p=irol-irhome" title="Investor Relations" onclick="omnitureOnClick('navLocation:f','navName:investor_relations');">Investor Relations <span class="context">footer</span></a></li>
+        </ul>		<ul class="footer copyright" style="margin-right:110px;">		        	<li class="right_efile_logo" title="efile"></li>
+        </ul>
+
+        <ul class="footer copyright investments">
+            <li class="wide">Brokerage, investment and financial advisory services are made available through Ameriprise Financial Services Inc. Member FINRA and SIPC. Some products and services may not be available in all jurisdictions or to all clients. Ameriprise Financial cannot guarantee future financial results. Ameriprise Financial and H&amp;R Block are not affiliated.</li>
+        </ul>
+        <ul class="footer copyright regular">
+            <li class="wide">Copyright &copy; 2011-2012 HRB Digital LLC. All Rights Reserved.</li>
+            <li class="wide">At H&amp;R Block your satisfaction is guaranteed.</li>
+            <li><a href="/irs/index.html" title="IRS" onclick="omnitureOnClick('navLocation:f','navName:irs');">IRS</a></li>
+            <li>|</li>
+            <li><a href="/universal/terms.html" title="Legal" onclick="omnitureOnClick('navLocation:f','navName:legal');">Legal</a></li>
+            <li>|</li>
+            <li><a href="/universal/web_privacy_policy.html" title="Privacy Statement" onclick="omnitureOnClick('navLocation:f','navName:privacy_statement');">Privacy Statement</a></li>
+            <li>|</li>
+            <li><a href="/investments/index.html" title="Investments" onclick="omnitureOnClick('navLocation:f','navName:investments');">Investments</a></li>
+            <li>|</li>
+            <li><a href="/taxes_site_index.html" title="Site Map" onclick="omnitureOnClick('navLocation:f','navName:site_map');">Site Map</a></li>
+            <li>|</li>
+            <li><a href="http://www.TheTaxInstitute.com" target="_blank" title="TheTaxInstitute.com" onclick="omnitureOnClick('navLocation:f','navName:the_tax_institute_com');">TheTaxInstitute.com</a></li>
+        </ul>
+        <ul class="footer copyright investments">
+            <li class="wide">&copy; 2011-2012 Ameriprise Financial, Inc. All rights reserved.</li>
+            <li><a href="http://investor-relations.ameriprise.com" title="Investor Relations">Investor Relations</a></li>
+            <li>|</li>
+            <li><a href="http://www.ameriprise.com/about-ameriprise-financial/press-center/default.asp" title="Press Center for Bank">Press Center<span class="context"> for Bank</span></a></li>
+            <li>|</li>
+            <li><a href="http://www.ameriprise.com/about-ameriprise-financial/rss-feeds.asp" title="RSS Feeds">RSS Feeds</a></li>
+            <li>|</li>
+            <li><a href="http://www.ameriprise.com/sitemap/" title="Site Map for Bank">Site Map <span class="context"> for Bank</span></a></li>
+        </ul>
+        <ul class="footer copyright banking">
+            <li class="wide">Copyright &copy; 2011-2012 HRB Digital LLC. All Rights Reserved.</li>
+            <li class="wide">H&amp;R Block Bank, a Federal Savings Bank, Member FDIC.</li>
+            <li><a href="/bank/terms-and-conditions.html" title="Terms and Conditions">Terms and Conditions</a></li>
+            <li>|</li>
+            <li>
+			<a href="/bank/privacy-statement.html" title="Privacy Statement for Bank">  Privacy Statement <span class="context"> for Bank</span> </a></li>
+
+            <li>|</li>
+            <li><a href="/bank/online-security.html" title="Online Security">Online Security</a></li>
+        </ul>
+        <ul class="footer copyright investments no-padding">
+            <li><a href="http://www.ameriprise.com/legal/disclosures.asp" title="Corporate Entities and Important Disclosures">Corporate Entities and Important Disclosures</a></li>
+            <li>|</li>
+            <li><a href="http://www.ameriprise.com/legal/website-rules.asp" title="Website Rules and Regulations">Website Rules and Regulations</a></li>
+            <li>|</li>
+            <li><a href="http://www.ameriprise.com/customer-service/privacy-security/default.asp" title="Privacy and Security Center">Privacy and Security Center</a></li>
+            <li>|</li>
+            <li><a href="http://www.ameriprise.com/legal/email-fraud.asp" title="About Email Fraud">About Email Fraud</a></li>
+        </ul>
+        <!--
+        <ul class="footer copyright banking">
+            <li class="wide">
+			<p align="center">NOTICE OF CHANGES IN TEMPORARY FDIC INSURANCE<br />
+								COVERAGE FOR TRANSACTION ACCOUNTS
+			</p>
+			All funds in a "noninterest-bearing transaction account" are insured in full by the Federal Deposit Insurance Corporation from December 31, 2010, through December 31, 2012. This
+			temporary unlimited coverage is in addition to, and separate from, the coverage of at least $250,000 available to depositors under the FDIC's general deposit insurance rules.<br /><br />
+			The term "noninterest-bearing transaction account" includes a traditional checking account or demand deposit account on which the insured depository institution pays no interest. It
+			does not include other accounts, such as traditional checking or demand deposit accounts that may earn interest, NOW accounts, money-market deposit accounts, and Interest on Lawyers Trust Account ("IOLTAs").<br /><br />
+			For more information about temporary FDIC insurance coverage of transaction accounts, visit <a href="javascript:showExitPopUp('http://www.fdic.gov','true');" onclick="omnitureOnClick('navLocation:footer', 'navName:fdic');">www.fdic.gov</a>.
+			</li>
+        </ul>
+        -->
+        <ul class="footer copyright banking">
+		            <li class="wide">
+					<p class="footer-notice">NOTICE OF CHANGES IN TEMPORARY FDIC INSURANCE<br />
+										COVERAGE FOR TRANSACTION ACCOUNTS
+					</p>
+					All funds in a "noninterest-bearing transaction account" are insured in full by the Federal Deposit Insurance Corporation from
+					December 31, 2010, through December 31, 2012. This temporary unlimited coverage is in addition to, and separate from, the coverage of
+					at least $250,000 available to depositors under the FDIC's general deposit insurance rules.
+					<br /><br />
+					The term "noninterest-bearing transaction account" includes a traditional checking account or demand deposit account on which the
+					insured depository institution pays no interest. It also includes Interest on Lawyers Trust Accounts ("IOLTAs"). It does <i>not</i> include other
+					accounts, such as traditional checking or demand deposit accounts that may earn interest, NOW accounts, and money-market deposit
+					accounts.
+					<br /><br />
+					For more information about temporary FDIC insurance coverage of transaction accounts, visit <a href="http://www.fdic.gov" target="_blank" onclick="omnitureOnClick('navLocation:footer', 'navName:fdic');return false;" title="FDIC">www.fdic.gov</a>.
+					</li>
+        </ul>
+        <ul class="footer copyright banking no-padding">
+            <li class="fdic_logo"></li>
+        </ul>
+    </footer>
+<!-- END:   FOOTER -->
+</div> <!-- /container -->
+
+<script src="/includes/js/hrb_plugins.js?v=1"></script>
+<script src="/includes/js/hrb_script.js?v=1"></script>
+
+<!--[if lt IE 7 ]>
+<script src="/includes/js/hrb_pngfix.js?v=1"></script>
+<script src="/includes/js/hrb_script-ie6.js?v=1"></script>
+<![endif]-->
+
+<!-- BEGIN OMNITURE -->
+<script type="text/javascript">
+// account information captured in template for omniture reporting
+omni_account = "hrblockcom";
+</script>
+
+<script type="text/javascript">
+// other information captured in template for omniture reporting
+var omni_channel    = "hrblock".toLowerCase();
+var omni_eVar12     = "hrblock".toLowerCase();
+
+var omni_subchannel = "home".toLowerCase();
+var omni_prop1      = "home".toLowerCase();
+var omni_eVar13     = "home".toLowerCase();
+var omni_pagename = "hrblock".toLowerCase() +":"+"home".toLowerCase() +":"+"homepage".toLowerCase();
+</script>
+<div style="display:none">
+<!-- SiteCatalyst code version: H.20.3  -->
+<!-- Copyright 1997-2009 Omniture, Inc. More info available at  -->
+<!-- http://www.omniture.com -->
+<!-- Specify the Report Suite ID(s) to track here  -->
+
+<!-- ********* values specified in teamsite data capture page are inserted above this section ********* -->
+
+<script type="text/javascript">
+// ******************************************************************************
+// value s_account and s_hrb.account appropriatly depending on if calling from
+//               hrblock.com, taxcut.com or taxnet.com
+// ******************************************************************************
+var s_account = "";     //***Change this for the site***
+
+s_account = ((typeof omni_account )!="undefined" && omni_account != "") ? omni_account  : "hrblockglobal,hrblockcom";  // for hrblock.com
+//s_account = ((typeof omni_account )!="undefined" && omni_account != "") ? omni_account  : "hrblockglobal,hrblocktcutcom";  // for taxcut.com
+
+try{  
+	if (g_sys.checkEnv()=="DEV" || g_sys.checkEnv()=="QA"){
+		s_account = "hrblockcomdev";  
+	}
+}
+catch(e)
+{}
+
+</script>
+
+<script type="text/javascript" src="/includes/omniture/omniture_std.js"></script>
+
+<script type="text/javascript">
+if (typeof omni_channel     != "undefined") { omni_channel      = omni_channel.toLowerCase(); }
+if (typeof omni_eVar12      != "undefined") { omni_eVar12       = omni_eVar12.toLowerCase(); }
+if (typeof omni_subchannel  != "undefined") { omni_subchannel   = omni_subchannel.toLowerCase(); }
+if (typeof omni_prop1       != "undefined") { omni_prop1        = omni_prop1.toLowerCase(); }
+if (typeof omni_eVar13      != "undefined") { omni_eVar13       = omni_eVar13.toLowerCase(); }
+if (typeof omni_page_id     != "undefined") { omni_page_id      = omni_page_id.toLowerCase(); }
+if (typeof omni_pagename    != "undefined") { omni_pagename     = omni_pagename.toLowerCase(); }
+
+s_hrb.account   = s_account;
+
+s_hrb.channel   = omni_channel;     // 02/01/2008
+
+if ((typeof s_hrb.pageName) == "undefined")
+{
+	s_hrb.pageName = "";
+}
+
+if ((typeof url_for_wtl) != "undefined" && url_for_wtl != "")
+{
+	s_hrb.pageName = url_for_wtl;
+}
+else if ((typeof omni_pagename != "undefined") && omni_pagename != "")
+{
+	s_hrb.pageName = omni_pagename;
+}
+else
+{
+	//s_hrb.pageName = "";
+}
+
+s_hrb.pageName = s_hrb.pageName.toLowerCase();  // toLowerCase() prevents reporting issue in omniture
+
+var previousPageName = s_hrb.getPreviousValue(s_hrb.pageName, 'gpv_pn','');
+
+if (s_hrb.pageName == "hrblock:tax_offices:office_locator_redirect")
+{
+	if (s_hrb.getQueryParam("zip") != "")
+	{
+		s_hrb.prop31 = previousPageName + ":" + s_hrb.getQueryParam("zip");
+	}
+	else if  (s_hrb.getQueryParam("address") != "")
+	{
+		s_hrb.prop31 = previousPageName + ":" + s_hrb.getQueryParam("address");
+	}
+}
+
+// ********** BEGIN ATOMZ SEARCH ****************//
+// Get the Atomz search term value, either in sp-q or sp_q.
+// Atomz search urls start with "search." or "search3."
+// The variable atomz_search_term is used to value s_hrb.prop4 AND s_hrb.eVar14
+
+var atomz_search_term         = "";
+var atomz_search_q            = "";
+var atomz_search_sp_q         = "";
+var atomz_search_sp_dash_q    = "";
+
+if (document.location.host.indexOf("search.") == 0)
+{
+	var atomz_search_sp_q       = s_hrb.getQueryParam("sp_q");
+	var atomz_search_sp_dash_q  = s_hrb.getQueryParam("sp-q");
+
+	if (atomz_search_sp_dash_q != "")
+	{
+		atomz_search_term = document.location.hostname+":"+atomz_search_sp_dash_q;
+	}
+	else if (atomz_search_sp_q != "")
+	{
+		atomz_search_term = document.location.hostname+":"+atomz_search_sp_q;
+	}
+}
+else if (document.location.host.indexOf("search3.") == 0)
+{
+	var atomz_search_q          = s_hrb.getQueryParam("q");
+
+	if (atomz_search_q != "")
+	{
+		atomz_search_term =  document.location.hostname+":"+atomz_search_q;
+	}
+}
+// ********** END ATOMZ SEARCH ****************//
+
+s_hrb.hier1     = ((typeof omni_hier1)   !="undefined" && omni_hier1    != "") ? omni_hier1    : ""; // initially used for customer support pages
+s_hrb.pageType  = ((typeof omni_pagetype)!="undefined" && omni_pagetype != "") ? omni_pagetype : "";
+s_hrb.server    = document.location.hostname;
+
+// PROPS
+s_hrb.prop1     = omni_prop1;       // 02/01/2008
+
+s_hrb.prop4     = atomz_search_term;  // dynamic value from atomz search results page
+
+s_hrb.prop5     = "";  // valued when start now is clicked
+s_hrb.prop6     = "";  // valued when learn more is clicked
+s_hrb.prop8     = "";  // valued on taxcut.com when add to cart is clicked
+
+s_hrb.prop19    = s_hrb.pageName;
+
+s_hrb.prop47    = s_hrb.getQueryParam("campaignId");
+
+// begin: added for tpf
+if (typeof omni_prop32 !='undefined' && omni_prop32!=null){
+	s_hrb.prop32    = omni_prop32;
+}
+if (typeof omni_prop34 !='undefined' && omni_prop34!=null){
+	s_hrb.prop34    = omni_prop34;
+}
+// end: added for tpf
+
+
+// EVARS
+s_hrb.eVar1     = s_hrb.getQueryParam("campaignId");
+s_hrb.eVar2     = s_hrb.getQueryParam("campaignId");
+
+s_hrb.eVar9     = ((typeof omni_pagename)!="undefined" && omni_pagename != "") ? omni_pagename : "";
+
+s_hrb.eVar10    = "";  // valued when start now is clicked
+s_hrb.eVar11    = "";  // valued when learn more is clicked
+
+s_hrb.eVar12    = omni_eVar12;      // 02/01/2008
+s_hrb.eVar13    = omni_eVar13;      // 02/01/2008
+
+s_hrb.eVar14    = atomz_search_term;  // dynamic value from atomz search results page
+
+s_hrb.eVar15    = s_hrb.getQueryParam("CID");
+s_hrb.eVar16    = s_hrb.getQueryParam("CID");
+
+// begin: added for tpf
+if (typeof omni_eVar47 !='undefined' && omni_eVar47!=null){
+	s_hrb.eVar47    = omni_eVar47;
+}
+if (typeof omni_eVar55 !='undefined' && omni_eVar55!=null){
+	s_hrb.eVar55    = omni_eVar55;
+}
+// end added for tpf
+
+//added for the calculators
+if (typeof omni_eVar17 !='undefined' && omni_eVar17!=null){
+	s_hrb.eVar17    = omni_eVar17;
+}					
+else{
+	s_hrb.eVar17    = s_hrb.getQueryParam("CID");
+}
+s_hrb.eVar18    = s_hrb.getQueryParam("otpPartnerId");
+s_hrb.eVar19    = s_hrb.getQueryParam("otpPartnerId");
+
+
+s_hrb.eVar21    = s_hrb.getQueryParam("campaignId");
+s_hrb.eVar22    = s_hrb.getQueryParam("campaignId");
+
+// only populate the flash version if this is the home page
+if (omni_pagename == "taxcut:home:homepage" || omni_pagename == "hrblock:home:homepage")
+{
+	if ((typeof g_flashVersion) !="undefined" && g_flashVersion == "")
+	{
+		// getFlashVersion() hasn't been called on the homepage, so call it now so omniture has what it needs to record the flash version
+		try
+		{
+			g_flashVersion = checkFlash();
+			FLASH_VERSION = g_flashVersion;
+		}
+		catch (e)
+		{
+			// call to getFlashVersion() failed
+			g_flashVersion  = -1;
+			FLASH_VERSION   = -1;
+		}
+	}
+
+	s_hrb.prop24    = omni_channel + ":Flash Version:" + FLASH_VERSION; // determines flash version (used on home page)
+}
+
+/* E-commerce Variables */
+s_hrb.campaign  = s_hrb.getQueryParam("campaignId");
+
+/* Events Variables */
+if ((typeof g_paidSearch) !="undefined" && g_paidSearch==1)
+{
+	s_hrb.events    = "event16";  // event16 indicates paid search referral
+}
+
+//added for the calculators
+else if (typeof omni_events !='undefined' && omni_events !=null){
+	s_hrb.events    = omni_events; 
+}
+else
+{
+	s_hrb.events    = "";  // event12 valued when the retail coupon is displayed, event13 valued when the office locator is displayed
+}
+
+/* ************ DO NOT ALTER THE FOLLOWING LINE ! ************* */
+var s_code=s_hrb.t();if(s_code)document.write(s_code);
+/* ************ DO NOT ALTER THE FOLLOWING LINE ! ************* */
+
+if (typeof srch_pageName != "undefined" && srch_pageName != "")
+{
+	srch_webAnalytics("Search Popup: Rendered")
+}
+
+</script>
+
+<script type="text/javascript">
+
+var g_exceptionToRecord = "";   // used when using ominture to record exception conditions encountered
+
+function recordExceptionInOmniture(error_code, severity_level, message_text)
+{
+	// webAnalytics() requires first parm to be an anchor object
+	var myOmnitureAnchorObj = document.getElementById("omnitureAnchorObj");
+
+	if (myOmnitureAnchorObj == null)
+	{
+		myOmnitureAnchorObj = document.createElement("a");
+	}
+
+	myOmnitureAnchorObj.setAttribute("id", "omnitureAnchorObj");
+	myOmnitureAnchorObj.setAttribute("href",  document.location.href);
+
+	var myBid = getCookie("bsc_browserid");
+
+	if (error_code=="pws")
+	{
+		try
+		{
+			g_exceptionToRecord = "EXP,pws5a1,"+myBid+","+message_text;
+			webAnalytics(myOmnitureAnchorObj, "type:o");
+		}
+		catch (e)
+		{
+			// no op
+		}
+	}
+	else if (error_code=="pwsx")
+	{
+		try
+		{
+			g_exceptionToRecord = "EXP,pws5b1,"+message_text;
+			webAnalytics(myOmnitureAnchorObj, "type:o");
+		}
+		catch (e)
+		{
+			// no op
+		}
+	}
+	else
+	{
+		g_exceptionToRecord = "EXP^"+error_code+"^"+severity_level+"^"+window.location.protocol+"^"+window.location.host+"^"+window.location.pathname+"^"+message_text;
+		webAnalytics(myOmnitureAnchorObj, "type:o");
+	}
+}
+
+function webAnalytics()
+{
+	/*
+		Sample call for a start now link.  trackvars and trackevents values will be different:
+		<a href="#" onclick="webAnalytics(this, 'trackvars:prop5=TaxCut Online Basic&eVar10=TaxCut Online Basic&', 'trackevents:event12,event13,event14', 'linkname:TaxCut_Online_Basic', 'type:o');staticProductStartNow(30);return false">start now</a>
+
+		The first parm to webAnalystics must be 'this' without quotes, where 'this' is the anchor object.  If your call to this
+		function is not in an anchor tag, a null anchor object may be defined on the page like this:
+
+		<form name="tmpForm">
+			<a href="/" id="tmplink" />
+		</form>
+
+		and and passed to webAnalytics() like this:
+
+		webAnalytics(document.getElementById('tmplink'), 'trackvars:prop5=TaxCut Online Basic&eVar10=TaxCut Online Basic&', 'trackevents:event12,event13,event14', 'linkname:TaxCut_Online_Basic', 'type:o');staticProductStartNow(30);return false">start now</a>
+
+		Sequence does not matter on the remaining parms.
+
+		The "trackvars"   parms are case specific, parm names must be followed by "=" and a value.
+		The "trackevents" parms are case specific.
+		The linkname should be unique on this page.
+
+		Values for the "type" parameter are:  o = custom links, e = exit links, d = download links
+	*/
+
+try
+{
+	if (getQueryValue("bugClicks")=="true")
+	{
+		var bugMsg  = "";
+		bugMsg += "webAnalytics(";
+
+		var bAddComma  = false;
+
+		var args            = arguments;
+		var argsLen         = arguments.length;
+
+		for (var x=0; x<argsLen; x++ )
+		{
+			if (bAddComma)
+			{
+				bugMsg += ",";
+			}
+			bugMsg += arguments[x];
+			bAddComma  = true;
+		}
+
+		bugMsg += ")";
+		alert(bugMsg);
+	}
+}
+catch (e)
+{
+}
+
+	var parmTrackVars   = "";
+	var parmTrackEvents = "";
+	var parmLinkName    = "";
+	var parmLinkType    = "";
+
+	var tempTrackVars   = "";
+	var thisHref        = "";
+	var tangoPageName   = "";
+
+	if (arguments[0]=="")
+	{
+		try
+		{
+			thisHref = document.getElementById('tmplink').href;
+		}
+		catch (err)
+		{
+		}
+	}
+	else
+	{
+		thisHref        = arguments[0].href;
+	}
+
+	if (thisHref.indexOf("?") != -1)
+	{
+		thisHref = thisHref.substr(0, thisHref.indexOf("?"));   // remove query string from href value
+	}
+
+	if (thisHref.indexOf("javascript:void(0)") != -1)
+	{
+		arguments[0].href=document.location;
+	}
+
+	if (thisHref.substr((thisHref.length)-1, 1)=="#")
+	{
+		thisHref = thisHref.substr(0, (thisHref.length)-1);   // remove # from href value
+	}
+
+	var arrTrackVars;
+	var nameCounter     = 0;
+	var nbrOfTrackVars  = 0;
+
+	var csvTrackVars    = "";   // comma separated list of names passed in parameter trackvars:
+	var csvTrackEvents  = "";   // comma separated list of event names specified in parameter trackevents:
+	var csvTrackProds   = "";   // variable for products
+
+	for (i = 1; i < arguments.length; i++)
+	{
+		if (arguments[i].indexOf("trackvars:") == 0)
+		{
+			// begin: find number of parameters  contained in the 'trackvars:' argument
+			String.prototype.replaceAll=function(s1, s2)
+			{
+				return this.replace(new RegExp(s1,"g"), s2);
+			}
+			nbrOfTrackVars = arguments[i].replaceAll('[^=]','').length;
+
+			// end: find number of parameters  contained in the 'trackvars:' argument
+
+			arrTrackVars = new Array(nbrOfTrackVars);
+
+			for (ii = 0; ii < arrTrackVars.length; ii++)
+			{
+				arrTrackVars[ii] = new Array(2);
+			}
+
+			parmTrackVars   = arguments[i].substr(10);      // chop off "trackvars:"
+
+			while (parmTrackVars.charAt(parmTrackVars.length-1)=="&")
+			{
+				// remove trailing '&' in parmTrackVars
+				parmTrackVars = parmTrackVars.slice(0, parmTrackVars.length - 1);
+			}
+
+			var indexer     = 0;
+
+			var buildString = "";
+
+			while (indexer <= parmTrackVars.length)
+			{
+				currentChar = parmTrackVars.substr(indexer,1);
+
+				if (currentChar == "=")
+				{
+					// store the NAME of this name/value pair
+					arrTrackVars[nameCounter][0]=buildString;
+					csvTrackVars += buildString + ",";
+				}
+				else if (currentChar == "&" || indexer == parmTrackVars.length)
+				{
+					// store the VALUE of this name/value pair
+					if (buildString=="" && (arrTrackVars[nameCounter][0].indexOf("prop") == 0 || arrTrackVars[nameCounter][0].indexOf("eVar") == 0))
+					{
+						// a track variable was specified w/o a value, so use the currently assigned value from the s.hrb object
+						// arrTrackVars[nameCounter][1]= eval('s_hrb.'+arrTrackVars[nameCounter][0]);
+					}
+					else
+					{
+						arrTrackVars[nameCounter][1]=buildString.toLowerCase();
+					}
+					nameCounter++;
+				}
+
+				if (currentChar == "=" || currentChar == "&")
+				{
+					buildString = "";
+				}
+				else
+				{
+					buildString += currentChar;
+				}
+
+				indexer++;
+
+			}
+		}
+
+		if (arguments[i].indexOf("trackevents:") == 0)
+		{
+			// chop off "trackevents:".
+			parmTrackEvents = arguments[i].substr(12);
+			csvTrackEvents  = parmTrackEvents;
+		}
+
+		if (arguments[i].indexOf("linkname:") == 0)
+		{
+			// chop off "linkname:"
+			parmLinkName    = arguments[i].substr(9);
+		}
+
+		if (arguments[i].indexOf("type:") == 0)
+		{
+			// chop off "type:"
+			parmLinkType    = arguments[i].substr(5);
+		}
+
+		/*********** code added for tango **************/
+		if (arguments[i].indexOf("tango:") == 0)
+		{
+			// do not chop off 'tango:'
+			tangoPageName    = arguments[i];
+		}
+
+		/*********** code added for registering the products **************/
+		if (arguments[i].indexOf("trackproducts:") == 0)
+		{
+			// chop off "trackproducts:"
+			csvTrackProds    = arguments[i].substr(14);
+		}
+	}
+
+	var s = s_gi(s_hrb.account);
+
+	if (s_hrb.pageName == "")
+	{
+		s.prop19 = thisHref;
+	}
+	else
+	{
+		s.prop19 = s_hrb.pageName;
+	}
+
+	s.prop20 = s.prop19;
+
+	if (csvTrackEvents != "")
+	{
+		s.events            = csvTrackEvents;
+		s.linkTrackEvents   = csvTrackEvents;
+		csvTrackVars        += ",events";
+	}
+
+	if (csvTrackVars != "")
+	{
+		s.linkTrackVars = csvTrackVars;
+	}
+
+	// the following code is dynamically creating code like s.prop6 = basic; s.eVar11=basic;
+	for (i = 0; i < nameCounter; i++)
+	{
+		eval('s.'+arrTrackVars[i][0]+" = '"+arrTrackVars[i][1]+"'");
+	}
+
+	/* code for the products*/
+	if (csvTrackProds!="")
+	{
+		if (csvTrackProds.indexOf("purchaseid")>0)
+		{
+			s.products=csvTrackProds.substring(0,csvTrackProds.indexOf('&'));
+			s.purchaseID=csvTrackProds.substr(csvTrackProds.indexOf("purchaseid")+11);
+		}
+		else
+		{
+			s.products=csvTrackProds;
+		}
+	}
+
+	if (tangoPageName != "")
+	{
+		//if condition is specific for tango product
+		s_hrb.pageName=tangoPageName;
+		s.prop20    = "";
+		s.prop19    = "";
+		s.tl(arguments[0], parmLinkType, tangoPageName);
+	}
+	else if (typeof srch_pageName != "undefined" && srch_pageName != "" )
+	{
+		s.tl(arguments[0], parmLinkType, srch_pageName);
+		srch_pageName       = "";
+	}
+	else if (typeof g_exceptionToRecord != "undefined" && g_exceptionToRecord != "" )
+	{
+		s.tl(arguments[0], parmLinkType, g_exceptionToRecord);
+		g_exceptionToRecord = "";
+	}
+	else
+	{
+		s.tl(arguments[0], parmLinkType, s.prop19);
+	}
+	//s.tl(arguments[0], parmLinkType, s.prop19);
+
+	/*****************************************
+	BEGIN: Reset variables recored in Omniture
+	*****************************************/
+	if (typeof arrTrackVars != "undefined")
+	{
+		for (var j = 0; j < arrTrackVars.length; j++)
+		{
+			eval('s.'+arrTrackVars[j][0]+" = ''");
+		}
+	}
+
+	if (csvTrackProds!="")
+	{
+		s.products  = "";
+		s.purchaseID= "";
+	}
+	/*****************************************
+	END Reset variables recored in Omniture
+	*****************************************/
+}
+
+</script>
+
+<!-- End SiteCatalyst code version: H.7. -->
+</div> <!-- end div to prevent omniture pixels from affecting page layout -->
+<!-- END OMNITURE -->
+
+
+</body>
+
+<script type="text/javascript">
+// BEGIN set nav class
+setNavClass(navClass);
+function setNavClass(navClass) {
+	var elems = document.getElementsByTagName("nav");
+	if ( elems.length >= 1 ) {
+		// set first <nav/> element's class
+		elems[0].className = navClass;
+		elems[0].setAttribute("class",navClass);
+	}
+}
+// END set nav class
+</script>
+<!-- 
+{"$i$":[ {"ctdv":"296","f":"n","g":"10:26:14, Thu Jun 21, 2012","pgid":"1452","t":"hrblock_ddb_uhp.vtt","ttip":"","vmid":"8d83d62df7d8f210VgnVCM2000007006150aRCRD"} ]} 
+-->
+<!-- hrblock_ddb_uhp.vtt v1.0 -->
+</html>

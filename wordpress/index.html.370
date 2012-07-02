@@ -1,0 +1,622 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+    <head>
+		<meta name="title" content="Portal del Año Internacional de la Astronomía AIA-IYA 2009 en España." />
+		<meta name="Description" content="Portal del Año Internacional de la Astronomía AIA-IYA 2009 en España." />
+		<meta name="Keywords" content="astronomia, 2009, españa, año, internacional, CSIC, AIA" />
+		<meta name="language" content="es" />
+		<meta name="author" content="Alia Multimedia" />
+		<meta name="owner" content="CSIC" />
+		 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=7" />
+        <meta name="verify-v1" content="bZ/LM4igThYj89DJ150YrinLICNh/OkVh38iRj7d6V4=" />
+        <meta name="WebsiteSpark" content="UhwWdZ6LLl" />
+
+		<title>A&ntilde;o Internacional de la Astronom&iacute;a 2009 en Espa&ntilde;a</title>
+		
+        <link rel="stylesheet" href="http://astronomia2009.es/libs/widgEditor/css/widgEditor.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="http://astronomia2009.es/css/lightbox.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="http://astronomia2009.es/libs/date-picker/css/datepicker.css" type="text/css" media="screen" />
+		<link href="http://astronomia2009.es/css/astronomia.css" rel="stylesheet" type="text/css" />
+        <link href="http://astronomia2009.es/css/modalbox.css" rel="stylesheet" type="text/css" />
+
+		<script type="text/javascript" src="http://astronomia2009.es/libs/scriptaculous/prototype.js"></script>
+		<script type="text/javascript" src="http://astronomia2009.es/libs/scriptaculous/scriptaculous.js?load=effects,builder"></script>	
+		<script type="text/javascript" src="http://astronomia2009.es/js/AC_RunActiveContent.js"></script>
+   		<script type="text/javascript" src="http://astronomia2009.es/js/lightbox.js"></script>
+   		<script type="text/javascript" src="http://astronomia2009.es/js/common.js"></script>
+		<script type="text/javascript" src="http://astronomia2009.es/libs/widgEditor/scripts/widgEditor.js"></script>	
+		<script type="text/javascript" src="http://astronomia2009.es/libs/js/fd-datepicker.js"></script>	
+		<script type="text/javascript" src="http://astronomia2009.es/js/swfobject.js"></script>
+		<script type="text/javascript" src="http://astronomia2009.es/js/player_interaction.js"></script>   
+        <script type="text/javascript" src="http://astronomia2009.es/js/modalbox.js"></script>     	
+        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+        
+        <!-- Para flowplayer eclipse 09 -->
+        
+        <script type="text/javascript" src="http://astronomia2009.es/flowplayer/tools.flashembed-1.0.3.min.js"></script>
+        <script type="text/javascript" src="http://astronomia2009.es/flowplayer/flowplayer-3.1.1.min.js"></script>
+        <!--[if lt IE 7]>
+                <script type="text/javascript" src="http://astronomia2009.es/js/unitpngfix.js"></script>
+        <![endif]--> 
+        
+        
+
+     
+		<script type="text/javascript">
+             
+             
+        </script>
+	
+    </head>
+
+
+
+    <body > 
+    
+            <div id="cabecera">
+	
+    <div id="cabecera_izq">
+    	<a href="http://www.astronomia2009.es" title="Año Internacional de la Astronomía 2009 en España"><img src="http://astronomia2009.es/imgs/logo_portada.png" alt="Año Internacional de la Astronomía 2009 en España" title="Año Internacional de la Astronomía 2009 en España" /></a>
+    </div>
+	
+    <div id="cabecera_der">
+    
+    	<div id="destacado1">
+        	<div class="destacado_tit">Tema del mes</div>
+            <div id="destacado_cont1">
+            	<a href="http://astronomia2009.es/El_Tema_del_mes.html" title="El tema del mes">
+                    <img src="http://astronomia2009.es/imgs/temadelmes1.png" alt="Doce Miradas al Universo" title="Doce Miradas al Universo" />
+            	</a>
+            	<!--
+            <a href="http://astronomia2009.es/tema_del_mes.php?pk=" title=""><img src="http://astronomia2009.es/" alt="" title="" /></a>
+            	-->
+            	<!--<h5  class="estrella_morada"><a href="http://astronomia2009.es/tema_del_mes/_.html" title=""></a></h5>
+                <img src="imgs/destacado_portada1_test.jpg" alt="titulo_foto" />
+                <br class="clear" />
+                	<p class="estrella_morada">
+                        <span class="destacado_cont1_entrevista"><a href="http://astronomia2009.es/tema_del_mes/_.html" title="Entrevista del mes">Entrevista:</a></span>
+                        <span class="destacado_cont1_nombre"></span>
+                    </p>
+                    <p class="estrella_morada">
+                        <span class="destacado_cont1_entrevista"><a href="http://astronomia2009.es/tema_del_mes/_.html" title="Reportaje del mes">Reportaje:</a></span>
+                        <span class="destacado_cont1_nombre"></span>
+                    </p>-->
+            </div>
+        </div>
+        <div id="destacado2">
+       
+        	<div class="destacado_tit">Imagen del dia</div>
+            <div id="destacado_cont2">
+            	<a href="http://astronomia2009.es/imagen_del_dia.php" title="Imagen del dia"><img src="http://astronomia2009.es/data/imgdia/imgdia.jpg" alt="Conjunciones cerca del amanecer" width="138" height="104" title="Conjunciones cerca del amanecer" /></a>
+                 <p><a href="http://astronomia2009.es/imagen_del_dia.php" class="estrella_morada2" title="Conjunciones cerca del amanecer">Conjunciones cerca...</a></p>
+            </div>
+        </div>
+        
+        
+    	<div id="destacado3">
+            <div class="destacado_tit2">El Legado</div>
+            <div id="destacado_cont3">
+            	<a href="http://astronomia2009.es/El_Legado_del_AIA-IYA2009.html" title="El Legado del A�o Internacional de la Astronom�a">  <img src="http://astronomia2009.es/imgs/legado_icono.png" alt="Recursos de divulgaci�n del AIA-IYA2009" title="Recursos de divulgaci�n del AIA-IYA2009" /></a>
+            </div>
+        </div>
+        
+        <br class="clear" />
+        
+        <div id="login">
+                    	<!-- ESTO APARECE SI NO ESTÁS LOGUEADO -->
+            <form name="form_login" action="" method="post" > 	
+                <img class="login_tit" src="http://astronomia2009.es/imgs/mi.ano.de.la.astronomia.png" alt="Mi año de la astronomía" title="Mi año de la astronomía" />
+                <label class="label_login" for="usuario">Usuario</label>
+                <input class="input_login" name="usuario" id="usuario" type="text" maxlength="30" />
+                <label class="label_login_gr" for="pass">Contraseña</label>
+                <input class="input_login" name="pass" id="pass" type="password" maxlength="20" />
+                <input class="btn_ir" name="submit_login" value="IR" type="submit" />
+                <div id="txt_login">
+                    <a href="http://astronomia2009.es/registro.php" title="Registrarme">Registrarme</a>
+                    <a class="a_login2" href="http://astronomia2009.es/recordar_pass.php" title="Recordar contraseña">Nueva contraseña</a>
+                </div>
+                <br class="clear" />
+       		</form>
+                    </div>
+
+
+
+        <div id="buscador">
+        	<form action="http://www.google.com/cse" id="cse-search-box">
+              <div>
+                <input type="hidden" name="cx" id="cx" value="003807317060041783881:le449z2-yg0" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <input type="text" class="input_buscar" name="q" id="q" />
+                <input type="submit" class="btn_buscar" name="sa" id="sa" value="Buscar" />
+              </div>
+            </form>
+            <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+            
+        </div>
+        
+    	<div id="ver_publico">
+        	<p>Buscar artículos por público objetivo</p>
+                    		<a href="http://astronomia2009.es/seccion.php?publico=1" title="Público objetivo: Público General"><img src="http://astronomia2009.es/imgs/ico_pub_todos.png" alt="Público objetivo: Público General" title="Público objetivo: Público General" /></a>
+                   		<a href="http://astronomia2009.es/seccion.php?publico=2" title="Público objetivo: Infantil/Primaria"><img src="http://astronomia2009.es/imgs/ico_pub_ninos.png" alt="Público objetivo: Infantil/Primaria" title="Público objetivo: Infantil/Primaria" /></a>
+                   		<a href="http://astronomia2009.es/seccion.php?publico=3" title="Público objetivo: Secundaria/FP"><img src="http://astronomia2009.es/imgs/ico_pub_secundaria.png" alt="Público objetivo: Secundaria/FP" title="Público objetivo: Secundaria/FP" /></a>
+                   		<a href="http://astronomia2009.es/seccion.php?publico=4" title="Público objetivo: Universitarios"><img src="http://astronomia2009.es/imgs/ico_pub_universitarios.png" alt="Público objetivo: Universitarios" title="Público objetivo: Universitarios" /></a>
+                   		<a href="http://astronomia2009.es/seccion.php?publico=5" title="Público objetivo: Docentes"><img src="http://astronomia2009.es/imgs/ico_pub_docentes.png" alt="Público objetivo: Docentes" title="Público objetivo: Docentes" /></a>
+                   		<a href="http://astronomia2009.es/seccion.php?publico=6" title="Público objetivo: Astrónomos aficionados"><img src="http://astronomia2009.es/imgs/ico_pub_aficionados.png" alt="Público objetivo: Astrónomos aficionados" title="Público objetivo: Astrónomos aficionados" /></a>
+                   		<a href="http://astronomia2009.es/seccion.php?publico=7" title="Público objetivo: Medios de Comunicación"><img src="http://astronomia2009.es/imgs/ico_pub_medios.png" alt="Público objetivo: Medios de Comunicación" title="Público objetivo: Medios de Comunicación" /></a>
+                   		<a href="http://astronomia2009.es/seccion.php?publico=8" title="Público objetivo: Personas con discapacidad"><img src="http://astronomia2009.es/imgs/ico_pub_discapacitados.png" alt="Público objetivo: Personas con discapacidad" title="Público objetivo: Personas con discapacidad" /></a>
+                         <br class="clear" />
+        </div>    
+        <br class="clear" />
+        
+        
+        <div id="enlaces_cabecera">
+	<!--
+            <a href="http://astronomia2009.es/index.php?idioma=cas" title="Castellano"><img src="http://astronomia2009.es/imgs/bandera_espana.jpg" alt="Castellano" title="Castellano" /></a>
+            <a href="http://astronomia2009.es/index.php?idioma=cat" title="Catalán"><img src="http://astronomia2009.es/imgs/bandera_cataluna.jpg" alt="Catalán" title="Catalán" /></a>
+            <a href="http://astronomia2009.es/index.php?idioma=eus" title="Euskera"><img src="http://astronomia2009.es/imgs/bandera_pais_vasco.jpg" alt="Euskera" title="Euskera" /></a>
+            <a href="http://astronomia2009.es/index.php?idioma=gal" title="Gallego"><img src="http://astronomia2009.es/imgs/bandera_galicia.jpg" alt="Gallego" title="Gallego" /></a>
+	-->
+            <a href="http://www.astronomy2009.org" title="">www.astronomy2009.org</a>
+            <a href="http://www.astronomia2009.es" title="">www.astronomia2009.es</a>
+        </div>
+        <br class="clear" />
+    </div>
+    <br class="clear" />
+    
+</div>            <div id="contenedor">
+                <div id="col_izq">
+    
+        <div id="menu">
+        	<ul>
+                        	                <li><a href="http://astronomia2009.es/portada.html" title="Portada">Portada</a></li>
+                                       	                <li><a href="http://astronomia2009.es/Sobre_el_AIA-IYA2009.html" title="Sobre el AIA-IYA2009">Sobre el AIA-IYA2009</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/agenda_de_actividades.html" title="Actividades">Actividades</a></li>
+                                       	                <li><a href="http://astronomia2009.es/Noticias_AIA-IYA2009.html" title="Noticias AIA-IYA2009">Noticias AIA-IYA2009</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Sala_de_Prensa.html" title="Sala de Prensa">Sala de Prensa</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Proyectos_pilares.html" title="Proyectos pilares">Proyectos pilares</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Proyectos_de_ambito_nacional.html" title="Proyectos de ámbito nacional">Proyectos de ámbito nacional</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/El_Tema_del_mes.html" title="El Tema del mes">El Tema del mes</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Zona_Articulos.html" title="Zona Artículos">Zona Artículos</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Astroeduca-t.html" title="Astroeduca-t">Astroeduca-t</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Astronomia_Adaptada.html" title="Astronomía Adaptada">Astronomía Adaptada</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Blogs_Cosmicos.html" title="Blogs Cósmicos">Blogs Cósmicos</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Astrodirectorio.html" title="Astrodirectorio">Astrodirectorio</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/Glosario_Astronomico.html" title="Glosario Astronómico">Glosario Astronómico</a></li>
+                                                       	                <li><a href="http://astronomia2009.es/lista_novedades.html" title="Novedades">Novedades</a></li>
+                                        	<!--<li><a href="legal.php" title="Aviso Legal">Aviso Legal</a></li>
+            	<li><a href="mapa_web.php" title="Mapa web">Mapa web</a></li>-->
+       	</ul>
+        </div>
+        <br class="clear" />
+        
+        
+        
+            <h4 class="h4_novedades2">Destacados</h4>
+                            <div class="novedades2">
+                <a href="http://astronomia2009.es/lista_novedades/III_Reunion_Nacional_AIA-IYA2009.html" title="III Reuni&Atilde;&sup3;n Nacional AIA-IYA2009"><img src="/data/imagen/novedad_571.png" alt="III Reuni&Atilde;&sup3;n Nacional AIA-IYA2009" title="III Reuni&Atilde;&sup3;n Nacional AIA-IYA2009" /></a>                    <h5 class="h5_novedades2"><a href="http://astronomia2009.es/lista_novedades/III_Reunion_Nacional_AIA-IYA2009.html" title="III Reuni&Atilde;&sup3;n Nacional AIA-IYA2009">III Reunión Nacional AIA-IYA2009</a></h5>
+                    <p>Ya puedes ver las presentaciones. </p>
+                </div>
+                        
+            <div class="novedades2">
+               <a href="http://astronomia2009.es/agenda_de_actividades.html" title="Actividades AIA-IYA2009"><img src="/imgs/agenda2_banercillo.png" alt="Actividades AIA-IYA2009" title="Actividades AIA-IYA2009" /></a>
+                   
+                </div>
+            <!--
+            <div class="novedades2">
+               <a href="http://astronomia2009.es/Ayudanos_a_evaluar_el_AIA-IYA2009.html" title="Eclipse 2009"><img src="/imgs/Destacados-Eval-Anyo.png" alt="Ayudanos a evaluar el año" title="Ayudanos a evaluar el año" /></a>
+              
+                   
+                </div>
+                -->
+                
+                 <div class="novedades2">
+               <a href="http://astronomia2009.es/Sobre_el_AIA-IYA2009/Ceremonias_AIA-IYA2009.html" title="Ceremonias AIA-IYA2009"><img src="/imgs/banercillo_convocatorias.png" alt="Ceremonias AIA-IYA2009" title="Ceremonias AIA-IYA2009" /></a>
+                   
+                </div>
+                
+           <div class="novedades2">
+               <a href="http://astronomia2009.es/Proyectos_de_ambito_nacional/Astronomia_en_vinetas.html" title="Astronomía en Viñetas"><img src="/imgs/bannercillo_vinetas.png" alt="Astronomía en viñetas" title="Astronomía en viñetas" /></a>
+                   </div>
+           
+                   
+                       <div class="novedades2">
+               <a href="http://astronomia2009.es/Proyectos_pilares/Ella_es_una_Astronoma/Con_A_de_Astronoma.html" title="Con A de Astrónoma: Exposición Virtual"><img src="/imgs/banercillo_A.png" alt="Con A de Astrónoma: Exposición Virtual" title="Con A de Astrónoma: Exposición Virtual" /></a>
+                   </div>
+                          
+                       <div class="novedades2">
+               <a href="http://astronomia2009.es/Proyectos_pilares/Ella_es_una_Astronoma/Proyectos.html" title="Mujeres en las estrellas"><img src="/imgs/bannercillo_mujeres.png" alt="Mujeres en las Estrellas" title="Mujeres en las estrellas" /></a>
+                   </div>
+         <!--                
+            
+                <div class="novedades2">
+               <a href="http://astronomia2009.es/Noticias_AIA-IYA2009/Concurso_Tercer_Milenio_En_que_lugar_del_Universo_esta.html" title="Concurso Tercer Milenio - ¿En que lugar del Universo está?"><img src="/imgs/bannercillo_concurso.png" alt="Concurso Tercer Milenio - ¿En que lugar del Universo está?" title="Concurso Tercer Milenio - ¿En que lugar del Universo está?" /></a>
+                   
+                </div>
+                -->
+                 
+                <div class="novedades2">
+               <a href="http://www.elpais.com/especial/astronomia/" title="Especial Astronomia - elpais.com"><img src="/imgs/bannercillo_elpais.png" alt="Especial Astronomia - elpais.com" title="Especial Astronomia - elpais.com" /></a>
+                   </div>
+                
+                <div class="novedades2">
+               <a href="http://www.astronomia2009.es/Proyectos_de_ambito_nacional/La_medida_del_Radio_de_la_Tierra.html" title="La Medida del Radio de la Tierra - Informe Final"><img src="/imgs/bannercillo_gnomon.png" alt="La Medida del Radio de la Tierra - Informe Final" title="La Medida del Radio de la Tierra - Informe Final" /></a>
+                               </div>   
+                               
+                                 <div class="novedades2">
+               <a href="http://astronomia2009.es/Eclipse09.html" title="Eclipse 2009"><img src="/imgs/banercillo_eclipse.png" alt="El Eclipse más largo del siglo" title="El Eclipse más largo del siglo" /></a>
+                   
+                </div>
+
+               
+                
+ <div class="novedades2">
+               <a href="http://astronomia2009.es/Noticias_AIA-IYA2009/La_Luna_y_sus_45_caras.html" title="La Luna para la Humanidad"><img src="http://www.astronomia2009.es/imgs/bannercillo_banderas.png" alt="La Luna para la Humanidad" title="La Luna para la Humanidad" /></a>
+                               </div>   
+               
+    <div class="novedades2">
+               <a href="http://astronomia2009.es/Sobre_el_AIA-IYA2009/Recursos_y_descargas.html" title="Logo M&aacute;s Alla"><img src="http://www.astronomia2009.es/imgs/logobeyond.png"  /></a>
+                               </div>
+            
+               
+                    <!-- <h5 class="h5_novedades2"><a href="#" title="alt titulo">Título ejemplo</a></h5>
+                    <p>Subtítulo </p> -->
+                   
+			<!-- Fin ejemplo -->
+        <!--
+             <div class="destacado_menu">
+             	<div class="destacado_menu_tit">Astroparatodos</div>
+                <p class="destacado_menu_txt">¡¡Personaliza <br /> tu m&oacute;vil y ordenador!! </p>
+                <div class="tlf">
+                    <a href="http://www.astroparatodos.es" title="Astroparatodos">
+                    <img src="http://astronomia2009.es/imgs/astroparatodos2.png" alt="Astroparatodos" title="Astroparatodos" />
+                    </a>
+                </div>
+             </div>-->
+             
+             <br class="clear" />
+        
+        
+        
+    </div>                <div id="contenido">
+        
+ <!-- COMENTAMOS ESTA PARTE QUE CORRESPONDE A LA ACTIVIDAD DE LA SEMANA Y A ENVÍA TU ACTIVIDAD -->
+ <!--
+ 
+        <div id="estasemana">
+  
+       	<div id="estasemana_destacada">
+                <div class="estasemana_destacada_top"><p><a href="agenda_de_actividades/actividad:AIA-002888.html" title="Actividad de la semana">Actividad de la semana</a></p></div>
+                <div class="estasemana_destacada_medio">
+                	<div class="estasemana_destacada_medio_izq">
+                    	<h6><a href="agenda_de_actividades/actividad:AIA-002888.html" title="Exposici&Atilde;&sup3;n fotogr&Atilde;&iexcl;fica 'De la Tierra al Universo. La belleza de la evoluci&Atilde;&sup3;n del Cosmos'">Exposición fotográfica 'De la Tierra al...</a></h6>
+                    	<p>A partir del 29 de diciembre y hasta el 30 de enero se podrá visitar en Fuente Obejuna (Córdoba) la...</p>
+    				</div>
+                    <p class="estasemana_destacada_medio_der">
+                    	<span class="azul">Fecha: </span>29 dic 2009
+						 a 30 ene 2010<br />
+                        <span class="azul">Lugar: </span>Córdoba
+                    </p>
+                    <br class="clear" />
+                </div>
+                <div class="estasemana_destacada_bottom"></div>
+        	</div>
+            
+        	<div id="estasemana_envia">
+                <div class="estasemana_envia_top"><p>Envía tu actividad</p></div>
+                <div class="estasemana_envia_medio">
+                	<p><a href="registro_completo.php" title="Registro">Regístrate</a> para poder enviar actividades. Si ya estás registrado, visita tu <a href="zona_user_bienvenida.php" title="Zona de usuario">zona de usuario</a>.</p>
+                </div>
+                <div class="estasemana_envia_bottom"></div>
+        	</div>
+            <br class="clear" />
+        </div>
+        <br class="clear" />
+        
+        
+        -->
+        
+        
+        <div class="post">
+        <p></p>
+        </div>
+		<br class="clear" />
+         
+        
+                <div class="post">
+        	
+            <img class="post_tipo" src="imgs/post_tipo_articulo.png" alt="Tipo: Articulo" title="Tipo: Articulo" /><br class="clear" />
+            <h2 class="h2_portada"><a href="2009_La_fiesta_de_la_Astronomia.html" title="2009. La fiesta de la Astronom&Atilde;&shy;a">2009. La fiesta de la Astronomía</a></h2>
+                
+                <div class="iconos_portada">
+
+                                                <img class="post_ico" src="imgs/ico_pub_todos.png" alt="Público objetivo: Público General" title="Público objetivo: Público General" />
+                                               
+                                                <img class="post_ico" src="data/categorias/categoria_8.png" alt="Temática: Astronomía/Astrofísica" title="Temática: Astronomía/Astrofísica" />
+                        
+                </div>
+               
+            <br class="clear" />
+           
+            <div class="post_img">
+                <div class="uno"><img  src="http://astronomia2009.es/data/imagen/archivo_948.png" alt="" title="" /></div>
+            	<div class="dos"> <a href="2009_La_fiesta_de_la_Astronomia.html" title="2009. La fiesta de la Astronom&Atilde;&shy;a"><img  src="imgs/deco_img_post.png" alt="2009. La fiesta de la Astronom&Atilde;&shy;a" title="2009. La fiesta de la Astronom&Atilde;&shy;a" /></a></div>
+				<div class="tres"> 3 may <br />2010</div>
+                <br class="clear" />
+            </div>
+             <div class="subtit_articulo">Rafael Rodrigo. Presidente de la Comisión Nacional de la Astronomía (CNA) y presidente del CSIC</div>
+            <p> 
+     
+         
+               
+             
+              En 2009 los astrónomos estuvimos de fiesta. En conmemoración del cuarto centenario de la primera observación astronómica realizada por Galileo Galilei con un telescopio, la Unión Astronómica Internacional declaró, a través...</p>
+       		
+            	<p class="post_autor">AUTOR >> <span class="azul">Rafael Rodrigo. Presidente de la CNA y presidente del CSIC</span></p>
+            	<!-- p class="post_autor">ESCRITO POR >> <span class="azul">Emilio García</span>
+					<br />AIA-IYA2009</p -->
+            
+       		<div class="post_mas_info">
+            	<a href="2009_La_fiesta_de_la_Astronomia.html" title="Leer más">Leer más</a>
+                <a href="2009_La_fiesta_de_la_Astronomia.html#comentarios" title="Comentarios">0 coment.</a>
+            </div>
+            <br class="clear" />
+
+            
+        </div>
+        <br class="clear" />
+                <div class="post">
+        	
+            <img class="post_tipo" src="imgs/post_tipo_articulo.png" alt="Tipo: Articulo" title="Tipo: Articulo" /><br class="clear" />
+            <h2 class="h2_portada"><a href="Adios_al_Ano_Internacional_de_la_Astronomia_2009.html" title="Adios al A&Atilde;&plusmn;o Internacional de la Astronom&Atilde;&shy;a 2009">Adios al Año Internacional de la Astronomía 2009</a></h2>
+                
+                <div class="iconos_portada">
+
+                                                <img class="post_ico" src="imgs/ico_pub_todos.png" alt="Público objetivo: Público General" title="Público objetivo: Público General" />
+                                               
+                                                <img class="post_ico" src="data/categorias/categoria_17.png" alt="Temática: Otros" title="Temática: Otros" />
+                        
+                </div>
+               
+            <br class="clear" />
+           
+            <div class="post_img">
+                <div class="uno"><img  src="http://astronomia2009.es/data/imagen/archivo_947.png" alt="" title="" /></div>
+            	<div class="dos"> <a href="Adios_al_Ano_Internacional_de_la_Astronomia_2009.html" title="Adios al A&Atilde;&plusmn;o Internacional de la Astronom&Atilde;&shy;a 2009"><img  src="imgs/deco_img_post.png" alt="Adios al A&Atilde;&plusmn;o Internacional de la Astronom&Atilde;&shy;a 2009" title="Adios al A&Atilde;&plusmn;o Internacional de la Astronom&Atilde;&shy;a 2009" /></a></div>
+				<div class="tres"> 3 may <br />2010</div>
+                <br class="clear" />
+            </div>
+             <div class="subtit_articulo"> Montse Villar - Coordinadora del AIA-IYA2009 - Instituto de Astrofísica de Andalucía (IAA-CSIC)</div>
+            <p> 
+     
+         
+             
+               
+             
+             
+             En 2009 celebramos el Año Internacional de la Astronomía (AIA-IYA2009). Conmemoramos el 400 aniversario de un evento que revolucionó la ciencia: la primera observación del cosmos a través de un...</p>
+       		
+            	<p class="post_autor">AUTOR >> <span class="azul">Montserrat Villar Martín</span></p>
+            	<!-- p class="post_autor">ESCRITO POR >> <span class="azul">Emilio García</span>
+					<br />AIA-IYA2009</p -->
+            
+       		<div class="post_mas_info">
+            	<a href="Adios_al_Ano_Internacional_de_la_Astronomia_2009.html" title="Leer más">Leer más</a>
+                <a href="Adios_al_Ano_Internacional_de_la_Astronomia_2009.html#comentarios" title="Comentarios">0 coment.</a>
+            </div>
+            <br class="clear" />
+
+            
+        </div>
+        <br class="clear" />
+                <div class="post">
+        	
+            <img class="post_tipo" src="imgs/post_tipo_articulo.png" alt="Tipo: Articulo" title="Tipo: Articulo" /><br class="clear" />
+            <h2 class="h2_portada"><a href="Noticias_AIA-IYA2009/Ano_Internacional_de_la_Astronomia_2009_Informe_Final.html" title="A&Atilde;&plusmn;o Internacional de la Astronom&Atilde;&shy;a 2009. Informe Final">Año Internacional de la Astronomía 2009. Informe Final</a></h2>
+                
+                <div class="iconos_portada">
+
+                                                <img class="post_ico" src="imgs/ico_pub_todos.png" alt="Público objetivo: Público General" title="Público objetivo: Público General" />
+                                               
+                                                <img class="post_ico" src="data/categorias/categoria_8.png" alt="Temática: Astronomía/Astrofísica" title="Temática: Astronomía/Astrofísica" />
+                        
+                </div>
+               
+            <br class="clear" />
+           
+            <div class="post_img">
+                <div class="uno"><img  src="http://astronomia2009.es/data/imagen/archivo_946.png" alt="" title="" /></div>
+            	<div class="dos"> <a href="Noticias_AIA-IYA2009/Ano_Internacional_de_la_Astronomia_2009_Informe_Final.html" title="A&Atilde;&plusmn;o Internacional de la Astronom&Atilde;&shy;a 2009. Informe Final"><img  src="imgs/deco_img_post.png" alt="A&Atilde;&plusmn;o Internacional de la Astronom&Atilde;&shy;a 2009. Informe Final" title="A&Atilde;&plusmn;o Internacional de la Astronom&Atilde;&shy;a 2009. Informe Final" /></a></div>
+				<div class="tres">29 abr <br />2010</div>
+                <br class="clear" />
+            </div>
+             <div class="subtit_articulo"> </div>
+            <p> 
+     
+         
+             
+              Informe final sobre el Año Internacional de la Astronomía (AIA-IYA2009)&#160;elaborado por el    Nodo Español para el AIA-IYA2009    (*).  16 Abril 2010    
+             
+               
+         
+         
+               Prefacio   -...</p>
+       		
+            	<p class="post_autor">AUTOR >> <span class="azul">Noticias AIA-IYA2009</span></p>
+            	<!-- p class="post_autor">ESCRITO POR >> <span class="azul">Emilio García</span>
+					<br />AIA-IYA2009</p -->
+            
+       		<div class="post_mas_info">
+            	<a href="Noticias_AIA-IYA2009/Ano_Internacional_de_la_Astronomia_2009_Informe_Final.html" title="Leer más">Leer más</a>
+                <a href="Noticias_AIA-IYA2009/Ano_Internacional_de_la_Astronomia_2009_Informe_Final.html#comentarios" title="Comentarios">0 coment.</a>
+            </div>
+            <br class="clear" />
+
+            
+        </div>
+        <br class="clear" />
+                <div class="post">
+        	
+            <img class="post_tipo" src="imgs/post_tipo_noticia.png" alt="Tipo: Noticia" title="Tipo: Noticia" /><br class="clear" />
+            <h2 class="h2_portada"><a href="Noticias_AIA-IYA2009/Abril_el_mes_de_la_Astronomia.html" title="Abril, el mes de la Astronom&Atilde;&shy;a">Abril, el mes de la Astronomía</a></h2>
+                
+                <div class="iconos_portada">
+
+                                                <img class="post_ico" src="imgs/ico_pub_todos.png" alt="Público objetivo: Público General" title="Público objetivo: Público General" />
+                                                <img class="post_ico" src="imgs/ico_pub_aficionados.png" alt="Público objetivo: Astrónomos aficionados" title="Público objetivo: Astrónomos aficionados" />
+                                                <img class="post_ico" src="imgs/ico_pub_medios.png" alt="Público objetivo: Medios de Comunicación" title="Público objetivo: Medios de Comunicación" />
+                                               
+                                                <img class="post_ico" src="data/categorias/categoria_8.png" alt="Temática: Astronomía/Astrofísica" title="Temática: Astronomía/Astrofísica" />
+                        
+                </div>
+               
+            <br class="clear" />
+           
+            <div class="post_img">
+                <div class="uno"><img  src="http://astronomia2009.es/data/imagen/archivo_943.png" alt="" title="" /></div>
+            	<div class="dos"> <a href="Noticias_AIA-IYA2009/Abril_el_mes_de_la_Astronomia.html" title="Abril, el mes de la Astronom&Atilde;&shy;a"><img  src="imgs/deco_img_post.png" alt="Abril, el mes de la Astronom&Atilde;&shy;a" title="Abril, el mes de la Astronom&Atilde;&shy;a" /></a></div>
+				<div class="tres">29 mar <br />2010</div>
+                <br class="clear" />
+            </div>
+             <div class="subtit_articulo">Apúntate al Mes de la Astronomía</div>
+            <p> 
+ 
+     
+         
+              &#160; 
+             
+             Uno de los mayores logros del  Año Internacional de la Astronomía 2009  fue mostrar que la comunidad astronómica mundial puede trabajar de manera conjunta. Ejemplo de ello fue el éxito de las  100 Horas de Astronomía...</p>
+       		
+            	<p class="post_autor">AUTOR >> <span class="azul">Noticias AIA-IYA2009</span></p>
+            	<!-- p class="post_autor">ESCRITO POR >> <span class="azul">Emilio García</span>
+					<br />AIA-IYA2009</p -->
+            
+       		<div class="post_mas_info">
+            	<a href="Noticias_AIA-IYA2009/Abril_el_mes_de_la_Astronomia.html" title="Leer más">Leer más</a>
+                <a href="Noticias_AIA-IYA2009/Abril_el_mes_de_la_Astronomia.html#comentarios" title="Comentarios">0 coment.</a>
+            </div>
+            <br class="clear" />
+
+            
+        </div>
+        <br class="clear" />
+                <div class="post">
+        	
+            <img class="post_tipo" src="imgs/post_tipo_noticia.png" alt="Tipo: Noticia" title="Tipo: Noticia" /><br class="clear" />
+            <h2 class="h2_portada"><a href="Noticias_AIA-IYA2009/aNuevo_logo.html" title="&Acirc;&iexcl;Nuevo logo!">¡Nuevo logo!</a></h2>
+                
+                <div class="iconos_portada">
+
+                                                <img class="post_ico" src="imgs/ico_pub_aficionados.png" alt="Público objetivo: Astrónomos aficionados" title="Público objetivo: Astrónomos aficionados" />
+                                               
+                                                <img class="post_ico" src="data/categorias/categoria_17.png" alt="Temática: Otros" title="Temática: Otros" />
+                        
+                </div>
+               
+            <br class="clear" />
+           
+            <div class="post_img">
+                <div class="uno"><img  src="http://astronomia2009.es/data/imagen/archivo_932.png" alt="" title="" /></div>
+            	<div class="dos"> <a href="Noticias_AIA-IYA2009/aNuevo_logo.html" title="&Acirc;&iexcl;Nuevo logo!"><img  src="imgs/deco_img_post.png" alt="&Acirc;&iexcl;Nuevo logo!" title="&Acirc;&iexcl;Nuevo logo!" /></a></div>
+				<div class="tres"> 2 feb <br />2010</div>
+                <br class="clear" />
+            </div>
+             <div class="subtit_articulo">Ya puedes descargarte el logo Más Allá del AIA-IYA2009 en todas las lenguas oficiales.</div>
+            <p> El Año Internacional de la Astronomía no termina en 2009. Muchos son los proyectos que continuarán en marcha más allá de este recién finalizado año.&#160; 
+ La IAU&#160;ha lanzado un logo que sirva para unir todas aquellas iniciativas surgidas de este año tan importante para la...</p>
+       		
+            	<p class="post_autor">AUTOR >> <span class="azul">Noticia AIA-IYA2009</span></p>
+            	<!-- p class="post_autor">ESCRITO POR >> <span class="azul">Emilio García</span>
+					<br />AIA-IYA2009</p -->
+            
+       		<div class="post_mas_info">
+            	<a href="Noticias_AIA-IYA2009/aNuevo_logo.html" title="Leer más">Leer más</a>
+                <a href="Noticias_AIA-IYA2009/aNuevo_logo.html#comentarios" title="Comentarios">0 coment.</a>
+            </div>
+            <br class="clear" />
+
+            
+        </div>
+        <br class="clear" />
+                <br class="clear" />
+        
+        
+        <!--<div id="galeria_destacada">
+        	<h3>Galería Multimedia</h3>
+            <div id="galeria_destacada_fotos">
+            		<a href="galeria_multimedia_img.php" title=""><img src="imgs/minifoto_test.jpg" alt="" title="" /></a>
+                    <a href="galeria_multimedia_img.php" title=""><img src="imgs/minifoto_test.jpg" alt="" title="" /></a>
+                    <a href="galeria_multimedia_img.php" title=""><img src="imgs/minifoto_test.jpg" alt="" title="" /></a>
+                    <a href="galeria_multimedia_img.php" title=""><img src="imgs/minifoto_test.jpg" alt="" title="" /></a>
+                    
+                    
+          			
+            </div>
+        	<br class="clear" />
+        </div>-->
+
+    </div>            <br class="clear" />
+            </div><br class="clear" />
+            
+            <div id="pie">
+  <div id="pie_menu">
+        	<ul class="pie_izq">
+            	<li><a href="http://astronomia2009.es/portada.html" title="Portada">Portada</a></li>
+            	<li><a href="http://astronomia2009.es/agenda_de_actividades.html" title="Actividades">Actividades</a></li>
+            	<li><a href="http://astronomia2009.es/Sobre_el_AIA-IYA2009/Contacta_con_nosotros.html" title="Contacto">Contacto</a></li>
+            	
+			</ul>
+        	<ul class="pie_der">
+            	<li><a href="http://astronomia2009.es/legal.php" title="Aviso Legal">Aviso Legal</a></li>
+            	<li><a href="http://astronomia2009.es/mapa_web.php" title="Mapa Web">Mapa Web</a></li>
+			</ul>
+  </div>
+    
+    <div id="pie_logos">
+        <a href="http://www.iau.org/" title="International Astronomical Union"><img src="http://astronomia2009.es/imgs/logo_iau.png" alt="International Astronomical Union" title="International Astronomical Union" /></a>
+    	<a href="http://web.micinn.es/" title="Ministerio de Ciencia e Innovación. Gobierno de España"><img src="http://astronomia2009.es/imgs/logo_micinn.png" alt="Ministerio de Ciencia e Innovación. Gobierno de España" title="Ministerio de Ciencia e Innovación. Gobierno de España" /></a>
+    	<a href="http://www.csic.es/" title="Consejo Superior de Investigaciones Científicas"><img src="http://astronomia2009.es/imgs/logo_csic_gr.png" alt="Consejo Superior de Investigaciones Científicas" title="Consejo Superior de Investigaciones Científicas" /></a>
+    	<a href="http://sea.am.ub.es//" title="Sociedad Española de Astronomía"><img src="http://astronomia2009.es/imgs/logo_sea.png" alt="Sociedad Española de Astronomía" title="Sociedad Española de Astronomía" /></a>
+        <a href="http://www.iaa.es/" title="Instituto de Astrofísica de Andalucía"><img src="http://astronomia2009.es/imgs/logo_iaa.png" alt="Instituto de Astrofísica de Andalucía" title="Instituto de Astrofísica de Andalucía" /></a>
+        <a href="http://www.fecyt.es" title="Fundación Española para la Ciencia y la Tecnología"><img src="http://astronomia2009.es/imgs/logo_fecyt.png" alt="Fundación Española para la Ciencia y la Tecnología" title="Fundación Española para la Ciencia y la Tecnología" /></a><br /><br />
+    </div>
+     <div id="pie_info">
+    	<img src="http://astronomia2009.es/imgs/validacion2.png" alt="Web xhtml, css y Wai-AA válida" title="Web xhtml, css y Wai-AA válida" />
+        <br class="clear" />
+  		  
+  	</div>
+     
+    <br class="clear" />
+    <div class="pie_logos2">
+        <p class="txt_pie">Medios de comunicación colaboradores:</p>
+        <a href="http://www.rtve.es/radio" title="Radio Nacional de España"><img src="http://astronomia2009.es/imgs/logo_rne.png" alt="Radio Nacional de España" title="Radio Nacional de España" /></a>
+        <a href="http://www.rtve.es/television" title="La 2 de Televisión Española"><img src="http://astronomia2009.es/imgs/logo_tve2.png" alt="La 2 de Televisión Española" title="La 2 de Televisión Española" /></a>
+        <a href="http://www.uned.es" title="Universidad Nacional de Educación a Distancia"><img src="http://astronomia2009.es/imgs/logo_uned.png" alt="Universidad Nacional de Educación a Distancia" title="Universidad Nacional de Educación a Distancia" /></a>
+        <a href="http://www.astronomia-e.com" title="Astronomia"><img src="http://astronomia2009.es/imgs/logo_astronomia.png" alt="Astronomia" title="Atronomia" /></a>
+        <a href="http://www.elpais.com" title="El País"><img src="http://astronomia2009.es/imgs/Logo_elpais.jpg" alt="El País" title="El País" /></a>
+<a href="http://www.elmundo.es" title="El Mundo"><img src="http://astronomia2009.es/imgs/Logo_elmundo.png" alt="El Mundo" title="El Mundo" /></a>    	
+    	<p class="pie_copy">&copy; 2009 Año Internacional de la Astronomía</p>
+    </div>  
+    
+    	
+    	
+  
+    
+    <div id="pie_alia">
+    	<a href="http://www.alia.pro" title="Desarrollo y diseño web por Alia Multimedia">Proyecto desarrollado por Alia Multimedia</a>
+    </div> 
+</div>            
+            
+            <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script>
+            <script type="text/javascript">
+            var pageTracker = _gat._getTracker("UA-375349-19");
+            pageTracker._initData();
+            pageTracker._trackPageview();
+            </script>
+    </body>
+</html>

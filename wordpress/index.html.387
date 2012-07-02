@@ -1,0 +1,554 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+<head>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+
+
+<title>compromiso ASTURIAS XXI, ¿Qu&eacute; es CAXXI?</title>
+
+
+
+<link href="css/estilos.css" rel="stylesheet" type="text/css" />
+
+<script type='text/javascript' src='js/jquery-1.2.3.min.js'></script>
+
+<link rel="stylesheet" href="js/boxy.css" type="text/css" />
+
+<script type="text/javascript" src="js/jquery.boxy.js"></script>
+
+
+
+
+
+<style>
+
+	#columna p
+
+	{
+
+		margin-left:330px;
+
+	}
+
+	object
+
+	{
+
+		display:block;
+
+		margin-top:20px;
+
+		width:300px;
+
+		float:left;
+
+		clear:both;
+
+	}
+
+	div.izq
+
+	{
+
+		width:300px;
+
+		display:block;
+
+		float:left;
+		
+		margin-bottom:70px;
+
+	}
+
+	#columna h2
+
+	{
+
+		margin-left:330px;
+
+	}
+
+	
+
+</style>
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+<div id="contenedor">
+
+
+
+	<h1><span>compromiso ASTURIAS XXI, buenas prácticas para asturias</span></h1>
+
+
+
+    <div id="cuerpo">
+
+
+
+    	<div id="menu">
+
+
+
+        	<ul>
+
+            	<li><a href="index.html" title="¿Qu&eacute; es CAXXI?">¿Qu&eacute; es CAXXI?</a></li>
+
+            	<li><a href="objetivo.html" title="Objetivo">Objetivo</a></li>
+
+            	<li><a href="junta-directiva.html" title="junta directiva">Junta Directiva</a></li>
+
+				<li><a href="files/registroyestatutos.pdf" title="Estatutos" target="_blank">Estatutos</a></li>
+
+                <li><a href="lineas-actuacion.html" title="lineas de actuación">Líneas de actuación</a>
+
+                	<ul style="margin-top:10px;">
+
+                    <li>1.<a href="organizar.html" title="organizacion">Organización de seminarios / conferencias.</a></li>
+
+                    <li>2.<a href="ayudas.html" title="ayuda a jovenes">Ayudar a los jóvenes asturianos a encontrar su primer empleo.</a></li>
+
+                    <li>3.<a href="motor-ideas.html" title="motor de ideas">Convertirnos en un Think-Tank, un motor de ideas para Asturias.</a></li>
+
+                    </ul>
+
+                </li>
+
+                <li><a href="colaboradores.html" title="colaboradores">Colaboradores</a></li>
+
+                <li><a href="contacto.html" title="contacto">Contacto</a></li>
+
+				
+
+				<li><a href="http://mas.lne.es/caxxi/" title="Votacion">Votación de las 100 ideas</a></li>                
+
+                <li><a href="faq.html" title="Preguntas frecuentes">Preguntas frecuentes</a></li>
+
+            </ul>
+            
+            <p>&nbsp;</p>
+
+			<p><a href="http://mas.lne.es/compromisoasturiasxxi/" target="_blank"><img src="img/lne-compromisoxxi.jpg" width="248px" border="0"  alt="Participa en el nuevo blog Queremos una Asturias mejor" /></a></p>
+
+            <p>&nbsp;</p>
+
+			<p><a href="jovenes.html"><img src="img/ayudas.jpg" width="248px" border="0"  alt="Ayudar a los jóvenes asturianos a encontrar su primer empleo" /></a></p>
+            
+			<p>&nbsp;</p>
+            
+            <p><a href="/files/buenas-practicas-caxxi.pdf"><img src="img/libro_09.jpg" width="248px" border="0"  alt="Buenas prácticas para Asturias." /></a></p>
+
+             <p>&nbsp;</p>
+
+             <br />
+
+			<p style="padding-top: 12px;"><a href="http://directo.uniovi.es/postgrado/cabecera_ep.asp?Curso=2009&IdPrograma=5453" target="_blank"><img src="img/banner_uniovi.jpg" border="0"  alt="¿Cómo trabajar en Europa?" /></a></p>
+
+        </div>
+
+
+
+        <div id="columna">
+
+			<div class="izq">
+			
+			<a href="files/memoriaCompromiso.pdf" title="Queremos una Asturias mejor"><img src="img/memoriaCompromiso.jpg" border="0" width="300px"  alt="MEMORIA COMPROMISO ASTURIAS XXI" /></a>
+
+			<br /><br />
+			
+            <a href="buzon_sugerencias.html" title="Buzón de sugerencias"><img src="img/sugerencias.jpg" border="0" width="300px" /></a>
+
+            <br /><br />
+            
+            <a href="http://issuu.com/compromisoasturiasxxi/docs/revista_compromiso_asturias_xxi-junio" target="_blank" title="Revista Compromiso Asturias XXI"><img src="img/revistaCompromiso.jpg" border="0" width="300px"  alt="REVISTA COMPROMISO ASTURIAS XXI" /></a>
+
+			<br /><br />
+
+            <a href="sectores-con-futuro.html" title="Sectores con futuro"><img src="img/sectores-con-futuro-2010.jpg" border="0" width="300px"  alt="SECTORES/ACTIVIDADES CON FUTURO PARA ASTURIAS" /></a>
+
+            <br /><br />
+
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="330" height="248">
+
+			  <param name="movie" value="files/video/Title1_1_Chapter1.swf">
+
+              <param name="ShowControls" VALUE="True">
+
+			  <param name="quality" value="high">
+
+			  <param name="allowScriptAccess" value="sameDomain" />
+
+			  <param name="allowFullScreen" value="False" />
+
+              <param value="files/video/Title1_1_Chapter1.jpg" name="FlashVars">
+
+			  <embed src="files/video/Title1_1_Chapter1.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="248" allowScriptAccess="sameDomain" allowFullScreen="false" ShowControls="true">
+
+			</embed>             
+
+			</object>
+			<br />	<br style="clear:both" /><br /><br />
+<a href="leonardo.html"><img src="img/becas_leonardo_da_vinci.jpg"  border="0"  alt="Becas Leonardo Da Vinci" /></a>
+            </div>
+
+
+
+            <h2>¿Qu&eacute; es CAXXI?</h2>                                    
+
+
+
+            <p>Compromiso Asturias XXI es una iniciativa de la sociedad civil, independiente, sin ánimo de lucro y al margen de la actividad política, que busca el interés y el progreso de Asturias y hacer de ella un lugar cada vez mejor para vivir.</p>
+
+
+
+            
+
+
+
+			<p><strong>Destacados:</strong></p>
+            
+            <p style="color:#0099FF;">Diego Canga en el programa de la TPA, Debate en 30.</p>
+			<p><a href="http://www.rtpa.es/video:Debate%20en%2030_1334236927.html" target="_blank" class="enlacepeg" style="font-size:9px;">Ver programa</a></p>
+			
+			<p style="color:#0099FF;">Debate del documento &#34;Queremos una Asturias mejor&#34; con alcaldes de los concejos de Asturias.</p>
+			<p><a href="files/memoriaCompromiso.pdf" target="_blank" class="enlacepeg" style="font-size:9px;">Ver documento</a></p>
+
+			<p>Geront&oacute;logos y dem&oacute;grafos analizan las fortalezas y flaquezas de la regi&oacute;n, 31 de mayo de 2012</p>
+<p><a href="http://www.lne.es/asturias/2012/05/31/gerontologos-demografos-analizan-fortalezas-flaquezas-region/1249846.html" class="enlacepeg" target="_blank" style="font-size:9px;">Ver noticia.</a></p>
+
+			<p>Compromiso Asturias XXI organiza una jornada sobre deporte, 30 de marzo de 2012</p>
+<p><a href="http://www.elcomercio.es/v/20120424/oviedo/compromiso-asturias-organiza-jornada-20120424.html" class="enlacepeg" target="_blank" style="font-size:9px;">Ver noticia.</a></p>
+            
+
+			<p>Compromiso Asturias XXI y la FACC organizan unas jornadas sobre &#39;Queremos una Asturias mejor&#39;, 30 de marzo de 2012</p>
+
+            <p><a href="http://www.facc.info/noticia.aspx?id=512" class="enlacepeg" target="_blank" style="font-size:9px;">Ver noticia.</a></p>
+
+
+
+            <p>«Asturias podría jugar la Liga de Campeones y no lo está haciendo», 4 de marzo de 2012</p>
+
+            <p><a href="http://www.lne.es/economia/2012/03/04/asturias-jugar-liga-campeones-haciendo/1208835.html" class="enlacepeg" target="_blank" style="font-size:9px;">Ver noticia.</a></p>
+
+            
+
+			<p>Oportunidades de negocio, la hora de la verdad, 19 de febrero de 2012</p>
+
+			<p><a href="http://www.lne.es/opinion/2012/02/19/oportunidades-negocio-hora/1201491.html" target="_blank" class="enlacepeg" style="font-size:9px;">Ver noticia</a></p>    		
+
+            
+
+            <p>Lorenzo Silva: &#34;No tiene sentido perseguir al que baja un libro, pero s&iacute; al que vive de las descargas&#34;, 9 de enero de 2012</p>
+
+            <p><a href="http://www.lne.es/sociedad-cultura/2012/01/06/sentido-perseguir-baja-libro-vive-descargas/1180284.html" target="_blank" class="enlacepeg" style="font-size:9px;">Ver noticia</a></p>
+
+            
+
+            
+
+
+            <p><a href="/files/buenas-practicas-caxxi.pdf">Descarga el Manual de La buenas prácticas para Asturias</a></p>
+
+		  <p><a href="sugerencias.html">&iquest;Tienes alguna idea que aportar? D&iacute;nosla</a></p>
+
+            <br />
+
+
+
+
+
+
+
+
+
+          <div align="center"><a href="prensa12jun.html"><img src="img/dossier.jpg" width="76" height="50" border="0" /></a><br />
+
+
+
+          </div>
+
+
+
+             
+
+
+
+          </p> 
+
+
+
+
+
+
+
+			<div style="height:150px">&nbsp;</div>
+
+
+
+		</div>
+
+
+
+    </div>
+
+
+
+    <div id="pie"><p><a href="http://www.isertia.com" title="ISERTIA">Diseño + Programación <span>Diseño + Programación</span><span class="isertia">&nbsp;</span></a></p></div>
+
+
+
+</div>
+
+<style>
+
+/*.boxy-inner
+
+{
+
+	float:left;
+
+	height:680px;
+
+	width:650px;
+
+}*/
+
+.boxy-content
+{
+
+	width:685px;
+	height:480px;
+	overflow:scroll;
+	float:left;
+}
+
+.boxy-content h2
+{
+	color:#0099FF;
+	font-size:1.5em;
+	letter-spacing:3px;
+	text-align:center;
+	text-transform:capitalize;
+
+}
+
+.boxy-content
+{
+	line-height:2em;
+	/*width:490px;*/
+}
+
+.boxy-content a font
+{
+	font-size:20px;
+	font-weight:bold;
+}
+
+.question
+{
+	height:300px;
+	width:490px;
+}
+
+object
+{
+	/*display:none;*/
+}
+
+div.invitacion
+{
+	float:left;
+	width:685px;
+}
+
+div.invitacion p
+{
+	margin-top:16px;
+	margin-bottom:16px;
+}
+div.invitacion h2
+{
+	font-size:1.3em;
+}
+
+
+</style>
+
+<div class="ventana">
+
+</div>
+
+<script>
+
+	
+
+	
+
+	$(document).ready(function()
+
+	{
+
+		var dim=___getPageSize();		
+
+		//Boxy.load("jovenes26032011.html", {closeable: true, title: "Oportunidades para los jóvenes: los empleos del mañana",modal:'true',afterHide: function() {$("object").css("display","block");}});		
+
+	});	
+
+	
+
+	
+
+	function ___getPageSize() {
+
+			var xScroll, yScroll;
+
+			if (window.innerHeight && window.scrollMaxY) {	
+
+				xScroll = window.innerWidth + window.scrollMaxX;
+
+				yScroll = window.innerHeight + window.scrollMaxY;
+
+			} else if (document.body.scrollHeight > document.body.offsetHeight){ // all but Explorer Mac
+
+				xScroll = document.body.scrollWidth;
+
+				yScroll = document.body.scrollHeight;
+
+			} else { // Explorer Mac...would also work in Explorer 6 Strict, Mozilla and Safari
+
+				xScroll = document.body.offsetWidth;
+
+				yScroll = document.body.offsetHeight;
+
+			}
+
+			var windowWidth, windowHeight;
+
+			if (self.innerHeight) {	// all except Explorer
+
+				if(document.documentElement.clientWidth){
+
+					windowWidth = document.documentElement.clientWidth; 
+
+				} else {
+
+					windowWidth = self.innerWidth;
+
+				}
+
+				windowHeight = self.innerHeight;
+
+			} else if (document.documentElement && document.documentElement.clientHeight) { // Explorer 6 Strict Mode
+
+				windowWidth = document.documentElement.clientWidth;
+
+				windowHeight = document.documentElement.clientHeight;
+
+			} else if (document.body) { // other Explorers
+
+				windowWidth = document.body.clientWidth;
+
+				windowHeight = document.body.clientHeight;
+
+			}	
+
+			// for small pages with total height less then height of the viewport
+
+			if(yScroll < windowHeight){
+
+				pageHeight = windowHeight;
+
+			} else { 
+
+				pageHeight = yScroll;
+
+			}
+
+			// for small pages with total width less then width of the viewport
+
+			if(xScroll < windowWidth){	
+
+				pageWidth = xScroll;		
+
+			} else {
+
+				pageWidth = windowWidth;
+
+			}
+
+			arrayPageSize = new Array(pageWidth,pageHeight,windowWidth,windowHeight);
+
+			return arrayPageSize;
+
+		};	
+
+</script>
+
+<script type="text/javascript">
+
+
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+
+
+</script>
+
+
+
+<script type="text/javascript">
+
+
+
+try {
+
+
+
+var pageTracker = _gat._getTracker("UA-887801-38");
+
+
+
+pageTracker._trackPageview();
+
+
+
+} catch(err) {}
+
+
+
+</script>
+
+
+
+</body>
+
+
+
+</html>
+
+
+
+
+

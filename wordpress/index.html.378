@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Marti Minoves</title>
+<meta name="keywords" content="Marti Minoves Farres Curriculum Vitae information email sms telephone">
+<meta name="description" content="Marti Minoves Farres Web page.">
+<meta name="distribution" content="local">
+<meta http-equiv="expires" content="TUES, 1 JAN 1980 12:00:00 GMT">
+<meta http-equiv="pragma" content="no-cache">
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5854382-8']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body bgcolor="#FFFFFF">
+<style type="text/css">
+<!--
+BODY {
+	margin: 0px;
+	padding: 0px;
+    text-align: center; /* use text-align to make IE in quirks mode centre the divs */
+}
+.flashcontent {
+position: absolute;
+left: 50%; 
+top: 50%;
+margin-top: -225px;  /*minus half the height of the movie, so if your movie was 600 pixels high this would be -300px etc... */
+margin-left: -400px; /* minus half the width of the movie */
+}
+
+-->
+</style>
+
+<center>
+<div class="flashcontent">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0"
+  id="main" width="800" height="450" align="middle">
+  <param name="movie" value="preloader.swf">
+  <param name="menu" value="false">
+  <param name="quality" value="High">
+  <param name="base" value="./">
+  <param name="bgcolor" value="#ffffff">
+    <embed name="main" src="main.swf"
+     menu="false" quality="High" base="./" bgcolor="#ffffff"
+     width="800" height="450"
+     type="application/x-shockwave-flash"
+     pluginspage="http://www.macromedia.com/go/getflashplayer"></embed>
+</object>
+</div>
+</center>
+</body>
+</html>
+

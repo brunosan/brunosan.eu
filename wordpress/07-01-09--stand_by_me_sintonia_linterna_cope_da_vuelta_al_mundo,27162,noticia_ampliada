@@ -1,0 +1,68 @@
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Se ha producido un error</title>
+<link rel="stylesheet" href="/gestor/css/styles_gris.css">
+<link rel="stylesheet" href="/proyecto/temas/cope/estilos.css">
+<style>
+#traza{
+	display: none;
+}
+
+pre{
+	border: 1px dashed #CCCCCC;
+	background: #EEEEEE;
+}
+</style>
+
+</head>
+
+<body>
+
+
+<div id="contenido_error">
+
+<div id="desarrollo_error">
+
+
+<div class="caja_error">
+
+<div id="contenidos_error">
+<div id="logo">
+					<a title="Portada" href="/index.jsp"><img src="/proyecto/temas/cope/img/logo_cope.gif" alt="COPE"> </a>
+			</div>
+
+
+<h1>Se ha producido un error</h1>
+
+<h2>Lo sentimos, en estos momentos no podemos ofrecerle el contenido solicitado</h2>
+<!--<p>Inténtelo de nuevo en breves momentos</p>-->
+
+
+
+
+
+<div id="traza">
+
+<pre></pre>
+</div>
+
+</div> <!-- contenedor -->
+
+<div id="contenedor_botonverde">
+	<div class="botonverde"><a href="/">Ir a la portada</a></div>
+</div>
+
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
+
+

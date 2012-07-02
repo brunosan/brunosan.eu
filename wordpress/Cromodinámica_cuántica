@@ -1,0 +1,402 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="es" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Cromodinámica cuántica - Wikipedia, la enciclopedia libre</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.20wmf5" />
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit" />
+<link rel="edit" title="Editar" href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit" />
+<link rel="apple-touch-icon" href="//es.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)" />
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Feed Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=ext.gadget.a-commons-directo%2Cimagenesinfobox%2CrefToolbar%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: eswiki:resourceloader:filter:minify-css:7:d5a1bf6cbd05fc6cc2705e47f52062dc */</style>
+
+<script src="//bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cromodinámica_cuántica","wgTitle":"Cromodinámica cuántica","wgCurRevisionId":57353380,"wgArticleId":51637,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Cromodinámica cuántica"],"wgBreakFrames":false,"wgPageContentLanguage":"es","wgSeparatorTransformTable":[",	.",".	,"],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Cromodinámica_cuántica","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0,100,104],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"2f3f0498c64c1d42da7dfce57de74aa7","wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia"});
+}</script><script type="text/javascript">if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"variant":"es","language":"es","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":true,"searchNs101":false,"searchNs102":false,"searchNs103":false,"searchNs104":true,"searchNs105":false,"gadget-a-commons-directo":1,"gadget-refToolbar":1,"gadget-imagenesinfobox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: eswiki:resourceloader:filter:minify-js:7:c5f8ab69e30cdbdd46cc34ead2a14da8 */
+}</script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.20wmf5/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Cromodinámica_cuántica skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Cromodinámica cuántica</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">De Wikipedia, la enciclopedia libre</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Saltar a: <a href="#mw-head">navegación</a>,
+					<a href="#p-search">búsqueda</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Quark_structure_neutron.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Quark_structure_neutron.svg/220px-Quark_structure_neutron.svg.png" width="220" height="220" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/Archivo:Quark_structure_neutron.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Ejemplo de estructura de color de un <a href="/wiki/Neutr%C3%B3n" title="Neutrón">neutrón</a>. Puede observarse la composición de <a href="/wiki/Quark" title="Quark">quarks</a> y la <a href="/wiki/Carga_de_color" title="Carga de color">carga de color</a> que adopta.</div>
+</div>
+</div>
+<p>La <b>cromodinámica cuántica</b> (QCD) es una <a href="/wiki/Teor%C3%ADa_cu%C3%A1ntica_de_campos" title="Teoría cuántica de campos">teoría cuántica de campos</a> que describe una de las <a href="/wiki/Fuerza_fundamental" title="Fuerza fundamental" class="mw-redirect">fuerzas fundamentales</a>, la <a href="/wiki/Interacci%C3%B3n_fuerte" title="Interacción fuerte" class="mw-redirect">interacción fuerte</a>. Fue propuesta a comienzos de los años 70 por <a href="/wiki/David_Politzer" title="David Politzer">David Politzer</a> y por <a href="/wiki/Frank_Wilczek" title="Frank Wilczek">Frank Wilczek</a> y <a href="/wiki/David_Gross" title="David Gross" class="mw-redirect">David Gross</a> como teoría para entender la estructura de los <a href="/wiki/Bari%C3%B3n" title="Barión">bariones</a> (colectivos de tres <a href="/wiki/Quark" title="Quark">quarks</a>, como <a href="/wiki/Prot%C3%B3n" title="Protón">protones</a> y <a href="/wiki/Neutr%C3%B3n" title="Neutrón">neutrones</a>) y <a href="/wiki/Mes%C3%B3n" title="Mesón">mesones</a> (pares quark-antiquark, como los <a href="/wiki/Pion" title="Pion">piones</a>).<sup id="cite_ref-halzen_0-0" class="reference"><a href="#cite_note-halzen-0"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup> Por su trabajo en cromodinámica cuántica, a Gross, Wilczek, y Politzer les fue concedido el <a href="/wiki/Anexo:Premio_Nobel_de_F%C3%ADsica" title="Anexo:Premio Nobel de Física" class="mw-redirect">Premio Nobel de Física</a> del año <a href="/wiki/2004" title="2004">2004</a>.</p>
+<p>El nombre «cromodinámica» viene de la palabra griega <i>chromos</i> 'color'. Este nombre es oportuno ya que a la carga de los quarks, partículas básicas dentro de esta teoría, se designa como <a href="/wiki/Carga_de_color" title="Carga de color">carga de color</a>; aunque no está relacionada a la percepción visual del <a href="/wiki/Color" title="Color">color</a>. La cromodinámica cuántica es una parte muy importante del <a href="/wiki/Modelo_est%C3%A1ndar" title="Modelo estándar" class="mw-redirect">modelo estándar</a> de la <a href="/wiki/F%C3%ADsica_de_part%C3%ADculas" title="Física de partículas">física de partículas</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contenido</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Descripci.C3.B3n"><span class="tocnumber">1</span> <span class="toctext">Descripción</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Caracter.C3.ADsticas"><span class="tocnumber">2</span> <span class="toctext">Características</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Libertad_asint.C3.B3tica"><span class="tocnumber">2.1</span> <span class="toctext">Libertad asintótica</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Conservaci.C3.B3n_de_la_carga_de_color"><span class="tocnumber">2.2</span> <span class="toctext">Conservación de la carga de color</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Confinamiento_de_la_carga_de_color"><span class="tocnumber">2.3</span> <span class="toctext">Confinamiento de la carga de color</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Lagrangiano"><span class="tocnumber">2.4</span> <span class="toctext">Lagrangiano</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Cromodin.C3.A1mica_Cu.C3.A1ntica_en_el_Ret.C3.ADculo"><span class="tocnumber">3</span> <span class="toctext">Cromodinámica Cuántica en el Retículo</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#V.C3.A9ase_tambi.C3.A9n"><span class="tocnumber">4</span> <span class="toctext">Véase también</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Referencias"><span class="tocnumber">5</span> <span class="toctext">Referencias</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=1" title="Editar sección: Descripción">editar</a>]</span> <span class="mw-headline" id="Descripci.C3.B3n">Descripción</span></h2>
+<p>La cromodinámica cuántica es una <a href="/wiki/Teor%C3%ADa_de_campo_de_gauge" title="Teoría de campo de gauge">teoría de gauge</a> que describe la interacción entre <a href="/wiki/Quark" title="Quark">quarks</a> y <a href="/wiki/Glu%C3%B3n" title="Gluón" class="mw-redirect">gluones</a>. Los quarks son los <a href="/wiki/Fermi%C3%B3n" title="Fermión">fermiones</a> de esta teoría y desempeñan un papel análogo a los electrones y neutrinos del <a href="/wiki/Modelo_electrod%C3%A9bil" title="Modelo electrodébil">modelo electrodébil</a>, los gluones son los bosones de gauge de la teoría, y desempeñan un papel análogo a los fotones en la <a href="/wiki/Electrodin%C3%A1mica_cu%C3%A1ntica" title="Electrodinámica cuántica">QED</a>.<sup id="cite_ref-halzen_0-1" class="reference"><a href="#cite_note-halzen-0"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup></p>
+<p>Según esta teoría, el carácter de la interacción fuerte está determinado por una simetría especial entre las <a href="/wiki/Carga_de_color" title="Carga de color">cargas de color</a> de los <a href="/wiki/Quark" title="Quark">quarks</a>. Se conoce a esta simetría como el <a href="/wiki/Teor%C3%ADa_de_gauge" title="Teoría de gauge" class="mw-redirect">grupo de gauge</a> <a href="/wiki/Grupo_especial_unitario" title="Grupo especial unitario" class="mw-redirect">SU(3)</a> y los <a href="/wiki/Quark" title="Quark">quarks</a> se transforman bajo este grupo como <a href="/wiki/Representaciones_de_grupos_de_Lie" title="Representaciones de grupos de Lie">tripletes</a> <a href="/wiki/Grupo_especial_unitario" title="Grupo especial unitario" class="mw-redirect">SU(3)</a> de <a href="/wiki/Campo_(f%C3%ADsica)" title="Campo (física)">campos</a> <a href="/wiki/Fermi%C3%B3n" title="Fermión">fermiónicos</a> de <a href="/wiki/Dirac" title="Dirac" class="mw-redirect">Dirac</a>. Aunque las <a href="/w/index.php?title=Expansi%C3%B3n_perturbativa&amp;action=edit&amp;redlink=1" class="new" title="Expansión perturbativa (page does not exist)">expansiones perturbativas</a> eran importantes para el desarrollo de la QCD, esta también predice muchos efectos no perturbativos tales como <a href="/wiki/Confinamiento" title="Confinamiento">confinamiento</a>, <a href="/wiki/Condensado_fermi%C3%B3nico" title="Condensado fermiónico">condensados fermiónicos</a> e <a href="/wiki/Instant%C3%B3n" title="Instantón">instantones</a>.</p>
+<p>Un enfoque particular a la QCD, a saber los <a href="/wiki/Modelo_de_red" title="Modelo de red">modelos de red</a>, ha permitido a los investigadores obtener algunos resultados y cantidades teóricas que eran previamente incalculables.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=2" title="Editar sección: Características">editar</a>]</span> <span class="mw-headline" id="Caracter.C3.ADsticas">Características</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=3" title="Editar sección: Libertad asintótica">editar</a>]</span> <span class="mw-headline" id="Libertad_asint.C3.B3tica">Libertad asintótica</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span> <i><a href="/wiki/Libertad_asint%C3%B3tica" title="Libertad asintótica">Libertad asintótica</a></i>.</div>
+<p>Una de las propiedades básicas de la teoría es la <a href="/wiki/Libertad_asint%C3%B3tica" title="Libertad asintótica">libertad asintótica</a>: a cortas distancias, las partículas cargadas son prácticamente libres. Sin embargo, cuando las distancia entre ellas aumenta, la interacción que las mantiene juntas también aumenta. Esto contrasta fuertemente con el carácter de otras interacciones como la electromagnética y la gravitatoria, que disminuyen con la distancia.</p>
+<p>Este comportamiento anómalo de la cromodinámica cuántica se debe a que los mediadores de la interacción (los gluones), son capaces de interactuar entre ellos. Esto contrasta con la interacción electromagnética cuyos mediadores, los <a href="/wiki/Fot%C3%B3n" title="Fotón">fotones</a>, no interactúan entre ellos.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=4" title="Editar sección: Conservación de la carga de color">editar</a>]</span> <span class="mw-headline" id="Conservaci.C3.B3n_de_la_carga_de_color">Conservación de la carga de color</span></h3>
+<p>El <a href="/wiki/Lagrangiano" title="Lagrangiano">lagrangiano</a> de la cromodinámica cuántica posee una simetría <i>SU</i>(3)<i><sub>c</sub></i> en la parte dependiente de los campos leptónicos. Eso implica por el <a href="/wiki/Teorema_de_Noether" title="Teorema de Noether">teorema de Noether</a> que existen magnitudes conservadas asociada a esa simetría. La magnitud conservada es lo que llamamos "color". Las tres variedades de color se designan normalmente como R (<i>red</i>), B (<i>blue</i>) y G (<i>green</i>) (aunque estos nombres no tienen nada que ver con el color visual, que es un fenómeno electromagnético asociado a diferentes longitudes de onda).</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=5" title="Editar sección: Confinamiento de la carga de color">editar</a>]</span> <span class="mw-headline" id="Confinamiento_de_la_carga_de_color">Confinamiento de la carga de color</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span> <i><a href="/wiki/Confinamiento_del_color" title="Confinamiento del color">Confinamiento del color</a></i>.</div>
+<p>El confinamiento de la carga de color se produce por el hecho de que los gluones a su vez pueden interaccionar entre ellos según su carga de color. Esto contrasta con la situación de los fotones del campo electromagnético que como están desprovistos de carga no interaccionan entre ellos. Esa diferencia crucial hace que la interacción electromagnética tenga un alcance potencialmente infinito frente al muy corto alcance de la interacción fuerte.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=6" title="Editar sección: Lagrangiano">editar</a>]</span> <span class="mw-headline" id="Lagrangiano">Lagrangiano</span></h3>
+<p>El <a href="/wiki/Lagrangiano" title="Lagrangiano">lagrangiano</a> de la teoría es <a href="/wiki/Covariancia_de_Lorentz" title="Covariancia de Lorentz">invariante lorentz</a> e invariante bajo transformaciones de fase locales del grupo <a href="/wiki/SU(3)" title="SU(3)" class="mw-redirect">SU(3)</a> (por la <a href="/wiki/Carga_de_color" title="Carga de color">carga de color</a>) y tiene la siguiente forma:</p>
+<blockquote style="padding: 5px 10px;background-color: white; color:black; text-align:left; margin-left:30px; margin-bottom:0.4em; margin-top:0.2em; min-width:50%;">
+<p><img class="tex" alt="\mathcal{L}_\mathrm{QCD} =\bar{q} i \gamma^\mu \partial_\mu q  - \bar{q} m q - g \bar{q} \gamma^\mu T_a q G^a_\mu - \frac{1}{4}G^a_{\mu \nu} G^{\mu \nu}_a" src="//upload.wikimedia.org/wikipedia/es/math/c/b/7/cb7f41c85deea8a0a5731c6a03346049.png" /></p>
+</blockquote>
+<div style="clear:both;width:65%;" class="NavFrame">
+<div class="NavHead" style="background-color:#FFFAF0; text-align:left; font-size:larger;">Deducción</div>
+<div class="NavContent" style="text-align:left;">Queremos que el <a href="/wiki/Lagrangiano" title="Lagrangiano">lagrangiano</a>de una pareja de <a href="/wiki/Quark" title="Quark">quarks</a><img class="tex" alt="\mathcal{L}=\bar{q_j}\left(\dot{\imath}\gamma^{\mu}\partial_{\mu}-m\right)q_j" src="//upload.wikimedia.org/wikipedia/es/math/a/9/5/a959dab8716d8718e173766858074d74.png" />sea invariante gauge local. Para ellos se deben cumplir unas serie de cosas:<sup id="cite_ref-halzen_0-2" class="reference"><a href="#cite_note-halzen-0"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>
+<ul>
+<li>El <a href="/wiki/Campo_vectorial" title="Campo vectorial">campo</a> de los quarks deberá ser invariante bajo transformaciones de fase locales del grupo <a href="/wiki/SU(3)" title="SU(3)" class="mw-redirect">SU(3)</a> (<a href="/wiki/Carga_de_color" title="Carga de color">carga de color</a>):</li>
+</ul>
+<dl>
+<dd><img class="tex" alt="q(x)\rightarrow e^{-\dot{\imath}\alpha_a(x)T_a}q(x)" src="//upload.wikimedia.org/wikipedia/es/math/8/6/f/86f842318ca576af17d22a74a0be1ce3.png" /></dd>
+</dl>
+<ul>
+<li>La <a href="/wiki/Derivada_covariante" title="Derivada covariante">derivada covariante</a> y el gauge serán:</li>
+</ul>
+<dl>
+<dd><img class="tex" alt="D_{\mu}=\partial_{\mu}+\dot{\imath}gT_a G^a_{\mu}\qquad \therefore\qquad G^a_{\mu}\rightarrow G^a_{\mu}-\frac{1}{g}\partial_{\mu}\alpha_a-f_{abc}a_bG^c_{\mu}." src="//upload.wikimedia.org/wikipedia/es/math/1/a/6/1a6e72597440ea95e83b194e861f269c.png" /></dd>
+</dl>
+Con todo esto, el lagrangiano quedará:
+<blockquote style="padding: 5px 10px;background-color: white; color:black; text-align:left; margin-left:30px; margin-bottom:0.4em; margin-top:0.2em; min-width:50%;">
+<p><img class="tex" alt="\begin{align}
+\mathcal{L}_\mathrm{QCD} 
+&amp; = \bar{q}\left(i \gamma^\mu D_\mu - m \right) q - \frac{1}{4}G^a_{\mu \nu} G^{\mu \nu}_a \\
+&amp; = \bar{q}\left(i \gamma^\mu (\partial_\mu + i g T_a G^a_\mu ) - m \right) q - \frac{1}{4}G^a_{\mu \nu} G^{\mu \nu}_a \\
+&amp; = \bar{q}\left(i \gamma^\mu \partial_\mu - m \right) q - g \left(\bar{q} \gamma^\mu T_a q \right) G^a_{\mu\nu} - \frac{1}{4}G^a_{\mu \nu} G^{\mu \nu}_a \\
+\end{align}
+" src="//upload.wikimedia.org/wikipedia/es/math/d/4/0/d40091e74e62a00e1066f1817aeb9293.png" /></p>
+</blockquote>
+<table>
+<tr>
+<td></td>
+</tr>
+</table>
+</div>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=7" title="Editar sección: Cromodinámica Cuántica en el Retículo">editar</a>]</span> <span class="mw-headline" id="Cromodin.C3.A1mica_Cu.C3.A1ntica_en_el_Ret.C3.ADculo">Cromodinámica Cuántica en el Retículo</span></h2>
+<p>Es una formulación de la Cromodinámica Cuántica es un espacio-tiempo discretizado. Fue propuesta por Keneth Wilson en 1974 como una alternativa que permite usar el computador para simular la teoría en los casos que la teoría de perturbaciones falla.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=8" title="Editar sección: Véase también">editar</a>]</span> <span class="mw-headline" id="V.C3.A9ase_tambi.C3.A9n">Véase también</span></h2>
+<ul>
+<li><a href="/wiki/Quark" title="Quark">Quark</a></li>
+<li><a href="/wiki/Teoria_cu%C3%A1ntica" title="Teoria cuántica" class="mw-redirect">Teoria cuántica</a></li>
+<li><a href="/wiki/Teor%C3%ADa_cu%C3%A1ntica_de_campos" title="Teoría cuántica de campos">Teoría cuántica de campos</a>, <a href="/wiki/Teor%C3%ADa_de_gauge" title="Teoría de gauge" class="mw-redirect">Teoría de gauge</a>, <a href="/w/index.php?title=Teor%C3%ADa_de_gauge_cu%C3%A1ntica&amp;action=edit&amp;redlink=1" class="new" title="Teoría de gauge cuántica (page does not exist)">Teoría de gauge cuántica</a>, <a href="/w/index.php?title=Fantasma_de_Faddeev-Popov&amp;action=edit&amp;redlink=1" class="new" title="Fantasma de Faddeev-Popov (page does not exist)">Fantasma de Faddeev-Popov</a>.</li>
+<li><a href="/wiki/Interacci%C3%B3n_fuerte" title="Interacción fuerte" class="mw-redirect">Interacción fuerte</a>, <a href="/w/index.php?title=Modelo_de_red_de_QCD&amp;action=edit&amp;redlink=1" class="new" title="Modelo de red de QCD (page does not exist)">Modelo de red de QCD</a>.</li>
+<li><a href="/w/index.php?title=BRST&amp;action=edit&amp;redlink=1" class="new" title="BRST (page does not exist)">BRST</a>,, <a href="/wiki/Condensado_fermi%C3%B3nico" title="Condensado fermiónico">Condensado fermiónico</a>, <a href="/w/index.php?title=Expansi%C3%B3n_1/N&amp;action=edit&amp;redlink=1" class="new" title="Expansión 1/N (page does not exist)">Expansión 1/N</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;section=9" title="Editar sección: Referencias">editar</a>]</span> <span class="mw-headline" id="Referencias">Referencias</span></h2>
+<div class="listaref" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-halzen-0"><span class="mw-cite-backlink">↑ <a href="#cite_ref-halzen_0-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-halzen_0-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-halzen_0-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation cita-libro" id="CITAREFHalzenD.Martin.2C_Alan1984"><a href="/w/index.php?title=Francis_Halzen&amp;action=edit&amp;redlink=1" class="new" title="Francis Halzen (page does not exist)">Halzen, Francis</a>; D.Martin, Alan (1984). <a href="/wiki/Universidad_de_Wisconsin" title="Universidad de Wisconsin" class="mw-redirect">Universidad de Wisconsin</a>. ed. <i>Quarks and Lepons: <small>An Introducory Course in Modern Particle Physics</small></i>. <a href="/wiki/Universidad_de_Durham" title="Universidad de Durham">Universidad de Durham</a> (1ª edición). Canadá: Wiley. pp.&#160;396. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a> <a href="/wiki/Especial:FuentesDeLibros/QC793.5.Q2522H34" title="Especial:FuentesDeLibros/QC793.5.Q2522H34">QC793.5.Q2522H34</a></small>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Quarks+and+Lepons%3A+%3Csmall%3EAn+Introducory+Course+in+Modern+Particle+Physics%3C%2Fsmall%3E&amp;rft.aulast=Halzen&amp;rft.aufirst=Francis&amp;rft.au=Halzen%2C%26%2332%3BFrancis&amp;rft.au=D.Martin%2C+Alan&amp;rft.date=1984&amp;rft.pages=pp.%26nbsp%3B396&amp;rft.edition=1%C2%AA&amp;rft.place=Canad%C3%A1&amp;rft.pub=Wiley&amp;rft.isbn=QC793.5.Q2522H34&amp;rfr_id=info:sid/es.wikipedia.org:Cromodin%C3%A1mica_cu%C3%A1ntica"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 992/1000000
+Post-expand include size: 6210/2048000 bytes
+Template argument size: 1639/2048000 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:51637-0!0!0!!es!4!* and timestamp 20120627055618 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Obtenido de «<a href="http://es.wikipedia.org/w/index.php?title=Cromodinámica_cuántica&amp;oldid=57353380">http://es.wikipedia.org/w/index.php?title=Cromodinámica_cuántica&amp;oldid=57353380</a>»				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categoría</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Cromodin%C3%A1mica_cu%C3%A1ntica" title="Categoría:Cromodinámica cuántica">Cromodinámica cuántica</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Herramientas personales</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Cromodin%C3%A1mica+cu%C3%A1ntica&amp;type=signup">Crea una nueva cuenta</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Cromodin%C3%A1mica+cu%C3%A1ntica" title="Te recomendamos iniciar sesión, sin embargo no es obligatorio [o]" accesskey="o">Ingresar</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Espacios de nombres</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Cromodin%C3%A1mica_cu%C3%A1ntica"  title="Ver el artículo [c]" accesskey="c">Artículo</a></span></li>
+					<li  id="ca-talk" class="new"><span><a href="/w/index.php?title=Discusi%C3%B3n:Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit&amp;redlink=1"  title="Discusión acerca del artículo [t]" accesskey="t">Discusión</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variantes</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Vistas</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Cromodin%C3%A1mica_cu%C3%A1ntica" >Leer</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=edit"  title="Puedes editar esta página. Utiliza el botón de previsualización antes de guardar [e]" accesskey="e">Editar</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;action=history"  title="Versiones anteriores de esta página y sus autores [h]" accesskey="h">Ver historial</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Acciones</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Buscar</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Buscar en este wiki [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Busca páginas con este texto." id="searchButton" width="12" height="13"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/vector/images/search-ltr.png?303-4" alt="Buscar" /></button>								<input type='hidden' name="title" value="Especial:Buscar"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/commons/8/8c/Wikipedia-logo-v2-es.png);" href="/wiki/Wikipedia:Portada"  title="Visitar la página principal"></a></div>
+				<!-- /logo -->
+				
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navegación</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li>
+			<li id="n-portal"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Actualidad" title="Información de contexto sobre acontecimientos actuales">Actualidad</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li>
+			<li id="n-newpages"><a href="/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li>
+			<li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li>
+			<li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=es" title="Apóyanos">Donaciones</a></li>
+			<li id="n-bug_in_article"><a href="/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Imprimir/exportar</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Cromodin%C3%A1mica+cu%C3%A1ntica" title="Crear un libro o colección de página" rel="nofollow">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=render_article&amp;arttitle=Cromodin%C3%A1mica+cu%C3%A1ntica&amp;oldid=57353380&amp;writer=rl" title="Descargar una versión PDF de esta página wiki" rel="nofollow">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Herramientas</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Cromodin%C3%A1mica_cu%C3%A1ntica" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Cromodin%C3%A1mica_cu%C3%A1ntica" title="Cambios recientes en las páginas que enlazan con ésta [k]" accesskey="k">Cambios en enlazadas</a></li>
+			<li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir imágenes o archivos multimedia [u]" accesskey="u">Subir un archivo</a></li>
+			<li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;oldid=57353380" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;id=57353380" title="Información de como citar esta página">Citar este artículo</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>En otros idiomas</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%AF%D9%8A%D9%86%D8%A7%D9%85%D9%8A%D9%83%D8%A7_%D9%84%D9%88%D9%86%D9%8A%D8%A9_%D9%83%D9%85%D9%8A%D8%A9" title="ديناميكا لونية كمية" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.org/wiki/Kvantna_hromodinamika" title="Kvantna hromodinamika" lang="bs" hreflang="bs">bosanski</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Cromodin%C3%A0mica_qu%C3%A0ntica" title="Cromodinàmica quàntica" lang="ca" hreflang="ca">català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Kvantov%C3%A1_chromodynamika" title="Kvantová chromodynamika" lang="cs" hreflang="cs">česky</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Quantenchromodynamik" title="Quantenchromodynamik" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-en"><a href="//en.wikipedia.org/wiki/Quantum_chromodynamics" title="Quantum chromodynamics" lang="en" hreflang="en">English</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Kvantuma_kolordinamiko" title="Kvantuma kolordinamiko" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%DA%A9%D8%B1%D9%88%D9%85%D9%88%D8%AF%DB%8C%D9%86%D8%A7%D9%85%DB%8C%DA%A9_%DA%A9%D9%88%D8%A7%D9%86%D8%AA%D9%88%D9%85%DB%8C" title="کرومودینامیک کوانتومی" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Kvanttiv%C3%A4ridynamiikka" title="Kvanttiväridynamiikka" lang="fi" hreflang="fi">suomi</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Chromodynamique_quantique" title="Chromodynamique quantique" lang="fr" hreflang="fr">français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Cromodin%C3%A1mica_cu%C3%A1ntica" title="Cromodinámica cuántica" lang="gl" hreflang="gl">galego</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%9B%D7%A8%D7%95%D7%9E%D7%95%D7%93%D7%99%D7%A0%D7%9E%D7%99%D7%A7%D7%94_%D7%A7%D7%95%D7%95%D7%A0%D7%98%D7%99%D7%AA" title="כרומודינמיקה קוונטית" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Kvantna_kromodinamika" title="Kvantna kromodinamika" lang="hr" hreflang="hr">hrvatski</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Kvantum-sz%C3%ADndinamika" title="Kvantum-színdinamika" lang="hu" hreflang="hu">magyar</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Kromodinamika_kuantum" title="Kromodinamika kuantum" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Cromodinamica_quantistica" title="Cromodinamica quantistica" lang="it" hreflang="it">italiano</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E8%89%B2%E5%8A%9B%E5%AD%A6" title="量子色力学" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%96%91%EC%9E%90%EC%83%89%EC%97%AD%ED%95%99" title="양자색역학" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-lt"><a href="//lt.wikipedia.org/wiki/Kvantin%C4%97_chromodinamika" title="Kvantinė chromodinamika" lang="lt" hreflang="lt">lietuvių</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Kromodinamik_kuantum" title="Kromodinamik kuantum" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Kwantumchromodynamica" title="Kwantumchromodynamica" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Chromodynamika_kwantowa" title="Chromodynamika kwantowa" lang="pl" hreflang="pl">polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Cromodin%C3%A2mica_qu%C3%A2ntica" title="Cromodinâmica quântica" lang="pt" hreflang="pt">português</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%85%D1%80%D0%BE%D0%BC%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0" title="Квантовая хромодинамика" lang="ru" hreflang="ru">русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Kvantov%C3%A1_chromodynamika" title="Kvantová chromodynamika" lang="sk" hreflang="sk">slovenčina</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Kvantkromodynamik" title="Kvantkromodynamik" lang="sv" hreflang="sv">svenska</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Kuantum_renk_dinami%C4%9Fi" title="Kuantum renk dinamiği" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0_%D1%85%D1%80%D0%BE%D0%BC%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D1%96%D0%BA%D0%B0" title="Квантова хромодинаміка" lang="uk" hreflang="uk">українська</a></li>
+			<li class="interwiki-ur"><a href="//ur.wikipedia.org/wiki/%D9%85%D9%82%D8%AF%D8%A7%D8%B1%DB%8C%DB%81_%D9%84%D9%88%D9%86%DB%8C_%D8%AD%D8%B1%DA%A9%DB%8C%D8%A7%D8%AA" title="مقداریہ لونی حرکیات" lang="ur" hreflang="ur">اردو</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Thuy%E1%BA%BFt_s%E1%BA%AFc_%C4%91%E1%BB%99ng_l%E1%BB%B1c_h%E1%BB%8Dc_l%C6%B0%E1%BB%A3ng_t%E1%BB%AD" title="Thuyết sắc động lực học lượng tử" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E8%89%B2%E5%8B%95%E5%8A%9B%E5%AD%B8" title="量子色動力學" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> Esta página fue modificada por última vez el 27 jun 2012, a las 05:56.</li>
+											<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n/Compartir-Igual_3.0">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+podrían ser aplicables cláusulas adicionales.
+Lee los <a href="//wikimediafoundation.org/wiki/T%C3%A9rminos_de_Uso">términos de uso</a> para más información.<br />
+Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.<br></li><li class="noprint"><a class="internal" href="/wiki/Wikipedia:Contacto">Contacto</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Pol%C3%ADtica_de_privacidad" title="wikimedia:Política de privacidad">Política de privacidad</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+											<li id="footer-places-mobileview"><a href="http://es.m.wikipedia.org/w/index.php?title=Cromodin%C3%A1mica_cu%C3%A1ntica&amp;mobileaction=toggle_view_mobile" class="noprint">Versión para móviles</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script type="text/javascript">if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest","ext.gadget.a-commons-directo","ext.gadget.refToolbar","ext.gadget.imagenesinfobox","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup"], null, true);
+}</script>
+<script src="/w/index.php?title=Especial:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/es.wikipedia.org/load.php?debug=false&amp;lang=es&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv210 in 0.115 secs. -->
+	</body>
+</html>

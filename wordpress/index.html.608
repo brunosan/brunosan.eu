@@ -1,0 +1,393 @@
+<!doctype html>
+<head>
+    
+    <!-- METADATA AREA -->
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="hqO8Ncg_XRKnYV49Spgj0Euljt-ewPJODtlAoIUNpjI" /><!-- from old site Design parse file -->
+    
+    <title>RSA - Home</title>
+    
+    <!--ICON AREA -->
+    
+    <!-- tags from old parse-->
+    <link rel="Shortcut Icon" href="http://www.thersa.org/__data/assets/file/0010/391843/favicon.ico">
+    <link rel="shortcut icon" href="http://www.thersa.org/__data/assets/file/0010/391843/favicon.ico"> 
+    <link rel="icon" type="image/ico" href="http://www.thersa.org/__data/assets/file/0010/391843/favicon.ico">
+
+    <!-- from client design - we do not have this from them yet <link rel="apple-touch-icon" href="/apple-touch-icon.png"> -->
+    
+    
+    <!-- CSS AREA -->
+    
+    
+						<link rel="stylesheet" type="text/css" href="http://www.thersa.org/_designs/main-site-2011-design-update/css/reset.css" media="all" />
+								<link rel="stylesheet" type="text/css" href="http://www.thersa.org/_designs/main-site-2011-design-update/css/text.css" media="all" />
+								<link rel="stylesheet" type="text/css" href="http://www.thersa.org/_designs/main-site-2011-design-update/css/960.css" media="all" />
+								<link rel="stylesheet" type="text/css" href="http://www.thersa.org/_designs/main-site-2011-design-update/css/style.css" media="all" />
+								<link rel="stylesheet" type="text/css" href="http://www.thersa.org/_designs/main-site-2011-design-update/css/movingboxes.css" media="screen" />
+								<link rel="stylesheet" type="text/css" href="http://www.thersa.org/_designs/main-site-2011-design-update/css/print.css" media="print" />
+					    <!--[if IE]>
+        
+						<link rel="stylesheet" type="text/css" href="http://www.thersa.org/_designs/main-site-2011-design-update/css/ie.css" media="all" />
+								
+    <![endif]-->
+
+    <!-- Dynamic JS file, design #428 -->
+<script src="/_designs/main-site-2011-design-update/scripts/dynamic-content.js/_nocache"></script> 
+
+
+    
+    <!-- JS AREA TOP -->
+    
+                
+    
+			<!--  PUT JQUERY HERE -->
+
+<script type="text/javascript" src="http://www.thersa.org/__data/assets/js_file/0020/392204/jquery-1.5.1.min.js"></script>   <!--  jquery 1.5.1.min.js -->
+<!-- script type="text/javascript" src="http://www.thersa.org/__data/assets/js_file/0005/392207/jquery.movingboxes.js" script commented out ARB-95978-814 -->   <!--  jquery movingboxes.js -->			
+    
+    
+    
+    
+    <!--can we move this into a file? -->
+
+   
+
+    
+			<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2727103-2']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript';
+	ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ga, s);
+  })();
+</script>			
+
+
+<!--
+  Running Squiz Matrix
+  Developed by Squiz - http://www.squiz.net
+  MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
+  Page generated: 02 July 2012 09:13:56
+-->
+
+
+
+</head>
+
+<body>
+
+<div id="wrapper">
+
+    <div id="container" class="container_16">
+    <header>
+
+
+    
+			
+<div id="top_bar_wrapper">
+<div id="topbar">
+
+<div id="topText" class="grid_6 push_7">
+  <script type="text/javascript">print_content("header_logged_in_welcome_message");</script>&emsp;&emsp;
+  <script type="text/javascript">print_content("header_logged_in_links");</script>
+  <noscript><a href="http://www.thersa.org/login">Sign In</a>
+  </noscript>
+  &emsp;&emsp;|&emsp;&emsp; 
+
+
+
+<a href="/stylesheet-switch?switch=mobile&target=http%3A%2F%2Fwww.thersa.org" class="mobile-link">Mobile</a>   | 
+   Default Text   | 
+   <a href="/stylesheet-switch?switch=large-text&target=http%3A%2F%2Fwww.thersa.org" class="large-text-link">Large Text</a><!--   | 
+   <a href="/stylesheet-switch?switch=high-contrast&target=http%3A%2F%2Fwww.thersa.org" class="high-contrast-link">High Contrast</a>-->
+
+
+
+
+
+
+
+</div>
+
+<div id="topIcons">
+		<span><a id="yt" href="http://www.youtube.com/user/theRSAorg"></a></span> 
+                <span><a id="fb" href="http://www.facebook.com/theRSAorg"></a></span>
+                <span><a id="tw" href="http://twitter.com/theRSAorg"></a></span>
+                <span><a id="li" href="http://www.linkedin.com/company/royal-society-for-the-encouragement-of-arts-manufactures-and-commerce-the-rsa-"></a></span>
+                <span><a id="rss" href="/rss"></a></span>
+                <span><a id="vim" href="http://www.vimeo.com/thersa"></a></span>
+</div>
+
+</div>
+</div>
+			
+
+        <div id="logo" class="grid_3"><a href="/"></a></div>
+        <div id="searchbox" class="push_10 grid_4">
+          <form id="search" method="get" action="/search">
+                    <input type="text" id="queries_term_query" name="queries_term_query" value="Search" class="search-field"/>
+                   <input id="arrow" name="submit" src="http://www.thersa.org/__data/assets/image/0006/394341/arrow.gif" type="image"> 
+          </form>
+        </div>
+        <div id="tagline" class="push_2 grid_7">
+          <p>Ideas and actions for a 21st century enlightenment</p>
+        </div>
+
+<!-- top horizontal black menu -->
+         <div id="nav" class="grid_16">
+         
+					
+              <ul class="
+			home			">
+                              <li class="home"><a href="http://www.thersa.org/assets-shown-on-home-page/menu-simulation/home">Home</a></li>
+                              <li class="about-us"><a href="http://www.thersa.org/assets-shown-on-home-page/menu-simulation/about-us">About Us</a></li>
+                              <li class="fellowship"><a href="http://www.thersa.org/assets-shown-on-home-page/menu-simulation/fellowship">Fellowship</a></li>
+                              <li class="projects"><a href="http://www.thersa.org/assets-shown-on-home-page/menu-simulation/projects">Projects</a></li>
+                              <li class="events"><a href="http://www.thersa.org/assets-shown-on-home-page/menu-simulation/events">Events</a></li>
+                              <li class="publications"><a href="http://www.thersa.org/assets-shown-on-home-page/menu-simulation/publications">Publications</a></li>
+                              <li class="house"><a href="http://www.thersa.org/assets-shown-on-home-page/menu-simulation/house">House</a></li>
+                              <li class="support-us"><a href="http://www.thersa.org/assets-shown-on-home-page/menu-simulation/support-us">Support Us</a></li>
+               
+              </ul>
+            
+							  
+        </div>
+
+      </header>
+      
+      <div id="main" role="main">
+
+     <div id="featuredcontent" class="grid_16"><ul class="mb-slider" id="slider">
+<li class="first">
+<a href="http://www.thersa.org/about-us/media/press-releases/personalised-recovery-for-west-kent-drug-misusers"><img src="http://www.thersa.org/__data/assets/image/0003/621192/westkentrecovery.jpg" width="705" height="292" alt="Personalised recovery for West Kent drug misusers" title="Personalised recovery for West Kent drug misusers" /></a>
+  <div class="sliderText">
+    <h2>Personalised recovery for West Kent drug misusers</h2>
+    <p>
+    Drug misusers in West Kent are to get help reintegrating back into their communities through new local 'recovery alliances' as part of our major new project.
+    </p>
+    <a class="link" href="http://www.thersa.org/about-us/media/press-releases/personalised-recovery-for-west-kent-drug-misusers">Find out more</a> 
+  </div>
+</li><li>
+<a href="http://www.thersa.org/projects/time-for-a-plan-c"><img src="http://www.thersa.org/__data/assets/image/0003/605982/planc_kelly_johnson.jpg" width="705" height="292" alt="Time for a Plan C" title="Time for a Plan C?" /></a>
+  <div class="sliderText">
+    <h2>Time for a Plan C?</h2>
+    <p>
+    How can we cope, even thrive, with significant long term slow growth? Read our latest essays by <strong>Gavin Kelly</strong> and <strong>Paul Johnson</strong> which explore whether slow growth requires a more profound shift in policy, expectations and culture.
+    </p>
+    <a class="link" href="http://www.thersa.org/projects/time-for-a-plan-c">Read more</a> 
+  </div>
+</li>
+<li>
+<a href="http://www.thersa.org/events/our-events/wait-the-useful-art-of-procrastination"><img src="http://www.thersa.org/__data/assets/image/0005/607271/wait-sign_procrastination.jpg" width="705" height="292" alt="Wait: The useful art of procrastination" title="Wait: The useful art of procrastination" /></a>
+  <div class="sliderText">
+    <h2>Wait: The useful art of procrastination</h2>
+    <p>
+    <strong>Frank Partnoy</strong> reveals the science behind our decision-making disasters and successes, and argues that decisions of all kinds benefit from being made at the last possible moment. <strong>Tuesday 3 July, 1pm</strong>
+    </p>
+    <a class="link" href="http://www.thersa.org/events/our-events/wait-the-useful-art-of-procrastination">Find out more</a> 
+  </div>
+</li>
+<li>
+<a href="http://www.thersa.org/projects/social-brain/power-of-curiosity"><img src="http://www.thersa.org/__data/assets/image/0007/606877/thepowerofcuriosity.jpg" width="705" height="292" alt="The Power of Curiosity" title="The Power of Curiosity" /></a>
+  <div class="sliderText">
+    <h2>The Power of Curiosity</h2>
+    <p>
+    Our latest report, commissioned by British Gas Generation Green, reveals that Britain needs to encourage the kind of curiosity required to stimulate innovation and solve our future energy challenges. 
+    </p>
+    <a class="link" href="http://www.thersa.org/projects/social-brain/power-of-curiosity">Find out more</a> 
+  </div>
+</li>
+<li>
+<a href="http://www.thersa.org/events/video/animate/rsa-animate-the-power-of-networks"><img src="http://www.thersa.org/__data/assets/image/0004/605362/rsa-animate-manuel.jpg" width="705" height="292" alt="Latest RSA Animate on the power of networks" title="Latest RSA Animate on the power of networks " /></a>
+  <div class="sliderText">
+    <h2>Latest RSA Animate on the power of networks </h2>
+    <p>
+    In this new RSA Animate, Manuel Lima, senior UX design lead at Microsoft Bing, explores the power of network visualisation to help navigate our complex modern world. 
+    </p>
+    <a class="link" href="http://www.thersa.org/events/video/animate/rsa-animate-the-power-of-networks">Watch now</a> 
+  </div>
+</li>
+<li>
+<a href="http://www.thersa.org/support-the-rsa/great-room-appeal"><img src="http://www.thersa.org/__data/assets/image/0008/580436/lecture_greatroom.jpg" width="705" height="292" alt="Support the Great Room appeal" title="Support the RSA Great Room appeal" /></a>
+  <div class="sliderText">
+    <h2>Support the RSA Great Room appeal</h2>
+    <p>
+    Make a donation to our appeal and help shape the future of the RSA.
+    </p>
+    <a class="link" href="http://www.thersa.org/support-the-rsa/great-room-appeal">Donate now</a> 
+  </div>
+</li>
+<li>
+<a href="http://www.thersa.org/fellowship"><img src="http://www.thersa.org/__data/assets/image/0004/394285/fellowship4.jpg" width="705" height="292" alt="RSA Fellows deliver capacity, commitment and innovation to communities from the global to the local." title="About the Fellowship" /></a>
+  <div class="sliderText">
+    <h2>About the Fellowship</h2>
+    <p>
+    A global network of individuals from a variety of backgrounds and disciplines who deliver capacity, commitment and innovation to communities globally to the locally. Our Catalyst fund supports Fellow-led ideas that aim to have a tangible and positive social impact. 
+    </p>
+    <a class="link" href="http://www.thersa.org/fellowship">Get involved</a> 
+  </div>
+</li>
+<li>
+<a href="http://www.thersa.org/about-us"><img src="http://www.thersa.org/__data/assets/image/0005/394286/aboutrsa.jpg" width="705" height="292" alt="About the RSA" title="About the RSA" /></a>
+  <div class="sliderText">
+    <h2>About the RSA</h2>
+    <p>
+    The RSA: meeting 21st century challenges by showcasing ideas, undertaking innovative research and building civic capacity around the world.
+    </p>
+    <a class="link" href="http://www.thersa.org/about-us">Find out more</a> 
+  </div>
+</li>
+
+</ul></div><!--end--><div id="latestVideos" class="grid_5">
+<h2><a href="http://www.thersa.org/events/video">Featured videos</a></h2>
+            <div class="videobox">
+              <a href="/events/video/vision-videos/nhs-foundation-trusts-a-model-for-the-future"><img src="http://www.thersa.org/__data/assets/image/0009/619668/20120517_SLIPMANSue.jpg" width="130" height="98" alt="Watch Sue Slipman and Francis Maude MP discuss NHS Foundation Trusts" title="Sue Slipman" /></a>
+              <div class="videoboxText">
+                <h3><a href="/events/video/vision-videos/nhs-foundation-trusts-a-model-for-the-future">Sue Slipman OBE and Rt Hon Francis Maude MP</a></h3>
+                <p>Rt Hon Francis Maude MP is the Minister for the Cabinet Office, Sue Slipman OBE is chief executive of the Foundation Trust Network</p>
+              </div>
+            </div>
+            <div class="videobox">
+              <a href="/events/video/vision-videos/x-and-the-city"><img src="http://www.thersa.org/__data/assets/image/0004/619645/20120517_ADAMJohn.jpg" width="130" height="98" alt="Watch John Adam's talk at the RSA" title="John A Adam" /></a>
+              <div class="videoboxText">
+                <h3><a href="/events/video/vision-videos/x-and-the-city">X and the City</a></h3>
+                <p>John Adam is professor of mathematics at the Old Dominion University.</p>
+              </div>
+            </div>
+            <div class="videobox last">
+              <a href="http://www.thersa.org/__data/assets/image/0008/606806/20120516_HIGGINSPolly.jpg"><img src="http://www.thersa.org/__data/assets/image/0008/606806/20120516_HIGGINSPolly.jpg" width="130" height="98" alt="Watch our video with Polly Higgins" title="Polly Higgins" /></a>
+              <h3><a href="/events/video/vision-videos/earth-is-our-business">Earth is our Business</a></h3>
+              <p>Polly Higgins is an international environment lawyer, activist and author</p>
+            </div>
+
+<a href="http://www.thersa.org/events/video" class="link">See all 361 videos</a>
+</div><div id="middle" class="grid_8">
+          <div id="latestProjects">
+            <h2><a href="http://www.thersa.org/projects">Latest from Projects</a></h2>
+            <h3>RSA Projects put enlightened thinking to work in practical ways</h3>
+            <div class="project left">
+<h4><a href="/about-us/media/articles-and-speeches/articles/guardian-a-future-without-growth-need-not-be-dismal-if-we-use-plan-c">Guardian - Future without growth need not be dismal if we use Plan C</a></h4>
+<p class="projectText">New economic analysis talks not of Westminster's fight over thinning turf but of change as something we do for ourselves...</p>
+              <a href="http://www.thersa.org/projects/our-projects" class="link alignbottom">More about Projects</a>
+            </div>
+            <div class="project right">
+
+<div id="content_div_394031">
+              <h4><a href="http://feedproxy.google.com/~r/rsaprojects/~3/sf-EdJHr0kQ/" target="_blank">Beef, Bananarama and processology… in Suffolk</a></h4>
+              <p class="projectText">Joe Hallgarten says: RSA Education is delighted to have been commissioned to lead an inquiry into education in Suffolk. Chaired by Matthew Taylor, the aim of this ...</p>
+
+</div>
+              <a href="http://www.rsablogs.org.uk" class="link alignbottom">More blog posts</a>
+            </div>
+            <div class="clearfix"></div>
+          </div>
+<div id="eventsComingUp">
+<h2><a href="http://www.thersa.org/events/our-events">Events coming up</a></h2>
+           <div class="event">
+              <div class="date">
+                <p class="day">03</p>
+                <p class="month">Jul</p>
+              </div>
+              <div class="eventInfo" >
+                <h3><a href="/events/our-events/wait-the-useful-art-of-procrastination">Wait: The useful art of procrastination</a></h3>
+                <p ><b>Frank Partnoy</b> ex-Wall Street derivative trader and self-confessed procrastinator, reveals the science behind our decision-making disasters and successes, and argues that decisions of all kinds, whether ‘snap’ or long-term, benefit from being made at the last possible moment.</p>
+              </div>
+            </div>           <div class="event last">
+              <div class="date">
+                <p class="day">04</p>
+                <p class="month">Jul</p>
+              </div>
+
+              <div class="eventInfo">
+                <h3><a href="/events/our-events/four-thought-july-2012">Four Thought</a></h3>
+                <p>Join our live audience and be part of Radio 4’s exciting talks strand - Four Thought – when our speakers <b>Joe Dunthorne</b>, <b>Leisa Rea</b> and <b>Ali Manghera</b> will share their latest thinking on the ideas, interests and passions that affect our culture and society.</p>
+                <a href="http://www.thersa.org/events" class="link">More Events</a>
+              </div>
+            </div></div>          </div>
+          
+ <div id="quickLinks" class="grid_3">
+  <h4>Quick Links</h4>
+<ul>
+<li><a href="http://www.matthewtaylorsblog.com/">Matthew Taylor's Blog</a></li><li><a href="http://comment.rsablogs.org.uk/videos/">RSA Animate</a></li><li><a href="http://comment.rsablogs.org.uk/">RSA Comment</a></li><li><a href="http://www.thersa.org/fellowship/journal">Digital Journal</a></li><li><a href="http://www.thersa.org/fellowship/apply">Become a Fellow</a></li><li><a href="http://www.thersa.org/fellowship/where-you-are">Where you are</a></li><li><a href="http://www.thersa.org/about-us/media">RSA in the media</a></li><li><a href="http://www.thersa.org/house">Venue hire</a></li><li><a href="http://www.thersa.org/fellowship/fellows-facilities/house/vaults">Restaurant bookings</a></li><li><a href="http://www.thersa.org/contact">Contact us</a></li>
+</ul></div>			
+      
+      
+      </div><!-- end main -->
+    
+    </div> <!-- end container -->
+
+</div> <!-- end wrapper -->
+
+    
+			<div id="footer" class="container_16">
+
+      <div id="footerlinks" class="grid_5">
+        <ul>  
+          <li><a href="http://www.thersa.org/privacy">Privacy</a></li>
+          |
+          <li><a href="http://www.thersa.org/sitemap">Sitemap</a></li>
+          |
+          <li><a href="http://www.thersa.org/disclaimer">Disclaimer</a></li>
+          |
+          <li><a href="http://www.thersa.org/contact">Contact Us</a></li>
+        </ul>
+      </div>
+      
+      <div id="copyright" class="grid_8">
+        <p>Copyight © RSA 2008–12</p>
+      </div>
+      
+      <div id="downloadlink" class="grid_3">  
+        <div><a id="rsa" href="http://www.thersa.org/iphone"></a></div>
+        <a href="http://www.thersa.org/iphone">Download our RSA Vision mobile app for free</a>
+      </div>
+
+
+</div><!-- end footer -->
+			
+    
+    <!-- JS AREA BOTTOM -->
+    
+                
+    
+			<!--  PUT JQUERY HERE -->
+
+<script type="text/javascript" src="http://www.thersa.org/__data/assets/js_file/0020/392204/jquery-1.5.1.min.js"></script>   <!--  jquery 1.5.1.min.js -->
+<script type="text/javascript" src="http://www.thersa.org/__data/assets/js_file/0006/408804/jquery.movingboxes.js"></script>   <!--  jquery movingboxes.js was 392207 -->
+<script type="text/javascript" src="http://www.thersa.org/__data/assets/js_file/0020/402185/moving_boxes_config.js"></script>   <!--  jquery movingboxes.js config -->
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+  /* disappear "Search" text in search input - start (rszarafinski) */
+  try{
+    $("#queries_term_query").focus(function(){
+      if($("#queries_term_query").val() == "Search"){$("#queries_term_query").val("");}
+    });
+    $("#queries_term_query").blur(function(){
+      if($("#queries_term_query").val() == ""){$("#queries_term_query").val("Search");}
+    });
+  }
+  catch(error){}
+  /* disappear "Search" text in search input - end (rszarafinski) */
+});
+</script>			
+    
+    <!-- end scripts-->
+    
+    <!--[if lt IE 7 ]>
+    <script src="http://www.thersa.org/__data/assets/js_file/0016/402235/dd_belatedpng.js"></script>
+    <script>DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+    <![endif]-->
+
+
+</body>
+</html>

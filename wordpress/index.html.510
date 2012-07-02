@@ -1,0 +1,3686 @@
+<!DOCTYPE html>
+<html b:version='2' class='v2' dir='ltr'>
+<head>
+<meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<script type="text/javascript">(function() { var a=window,c="jstiming",d="tick";var e=function(b){this.t={};this.tick=function(b,o,f){f=void 0!=f?f:(new Date).getTime();this.t[b]=[f,o]};this[d]("start",null,b)},h=new e;a.jstiming={Timer:e,load:h};if(a.performance&&a.performance.timing){var i=a.performance.timing,j=a[c].load,k=i.navigationStart,l=i.responseStart;0<k&&l>=k&&(j[d]("_wtsrt",void 0,k),j[d]("wtsrt_","_wtsrt",l))}
+try{var m=null;a.chrome&&a.chrome.csi&&(m=Math.floor(a.chrome.csi().pageT));null==m&&a.gtbExternal&&(m=a.gtbExternal.pageT());null==m&&a.external&&(m=a.external.pageT);m&&(a[c].pt=m)}catch(n){};a.tickAboveFold=function(b){var g=0;if(b.offsetParent){do g+=b.offsetTop;while(b=b.offsetParent)}b=g;750>=b&&a[c].load[d]("aft")};var p=!1;function q(){p||(p=!0,a[c].load[d]("firstScrollTime"))}a.addEventListener?a.addEventListener("scroll",q,!1):a.attachEvent("onscroll",q);
+ })();</script>
+<meta content='true' name='MSSmartTagsPreventParsing'/>
+<meta content='blogger' name='generator'/>
+<link href='http://criaturasferoces.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://criaturasferoces.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Criaturas Feroces - Atom" href="http://criaturasferoces.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Criaturas Feroces - RSS" href="http://criaturasferoces.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Criaturas Feroces - Atom" href="http://www.blogger.com/feeds/5380227228282952060/posts/default" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.blogger.com/rsd.g?blogID=5380227228282952060" />
+<link rel="me" href="http://www.blogger.com/profile/18431685413365683782" />
+<link rel="openid.server" href="http://www.blogger.com/openid-server.g" />
+<link rel="openid.delegate" href="http://criaturasferoces.blogspot.com/" />
+<!--[if IE]><script type="text/javascript" src="http://www.blogger.com/static/v1/jsbin/2558391684-ieretrofit.js"></script>
+<![endif]-->
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Criaturas Feroces</title>
+<link type='text/css' rel='stylesheet' href='http://www.blogger.com/static/v1/widgets/209053924-widget_css_2_bundle.css' />
+<link type='text/css' rel='stylesheet' href='//www.google.com/uds/css/gsearch.css' />
+<link type="text/css" rel="stylesheet" href="http://www.blogger.com/dyn-css/authorization.css?targetBlogID=5380227228282952060&zx=1c00751f-6330-4788-a1e3-1e558b664158"/>
+<style type="text/css">
+#navbar-iframe { display:block }
+</style>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Simple
+Designer: Josh Peterson
+URL:      www.noaesthetic.com
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#66bbdd"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#222222"/>
+</Group>
+<Group description="Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#66bbdd"/>
+<Variable name="content.background.color" description="Main Background" type="color" default="#ffffff"/>
+<Variable name="header.background.color" description="Header Background" type="color" default="transparent"/>
+</Group>
+<Group description="Links" selector=".main-outer">
+<Variable name="link.color" description="Link Color" type="color" default="#2288bb"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#888888"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#33aaff"/>
+</Group>
+<Group description="Blog Title" selector=".header h1">
+<Variable name="header.font" description="Font" type="font"
+default="normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#3399bb" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#777777" />
+</Group>
+<Group description="Tabs Text" selector=".tabs-inner .widget li a">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#999999"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#000000"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.background.color" description="Background Color" type="color" default="#f5f5f5"/>
+<Variable name="tabs.selected.background.color" description="Selected Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Post Title" selector="h3.post-title, .comments h4">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+</Group>
+<Group description="Date Header" selector=".date-header">
+<Variable name="date.header.color" description="Text Color" type="color"
+default="#cccccc"/>
+<Variable name="date.header.background.color" description="Background Color" type="color"
+default="transparent"/>
+</Group>
+<Group description="Post Footer" selector=".post-footer">
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#666666"/>
+<Variable name="post.footer.background.color" description="Background Color" type="color"
+default="#f9f9f9"/>
+<Variable name="post.footer.border.color" description="Shadow Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Gadgets" selector="h2">
+<Variable name="widget.title.font" description="Title Font" type="font"
+default="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#000000"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#999999"/>
+</Group>
+<Group description="Images" selector=".main-inner">
+<Variable name="image.background.color" description="Background Color" type="color" default="#ffffff"/>
+<Variable name="image.border.color" description="Border Color" type="color" default="#eeeeee"/>
+<Variable name="image.text.color" description="Caption Text Color" type="color" default="#cccccc"/>
+</Group>
+<Group description="Accents" selector=".content-inner">
+<Variable name="body.rule.color" description="Separator Line Color" type="color" default="#eeeeee"/>
+<Variable name="tabs.border.color" description="Tabs Border Color" type="color" default="#404040"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#292929" default="$(color) none repeat scroll top left"/>
+<Variable name="body.background.override" description="Body Background Override" type="string" default=""/>
+<Variable name="body.background.gradient.cap" description="Body Gradient Cap" type="url"
+default="url(http://www.blogblog.com/1kt/simple/gradients_light.png)"/>
+<Variable name="body.background.gradient.tile" description="Body Gradient Tile" type="url"
+default="url(http://www.blogblog.com/1kt/simple/body_gradient_tile_light.png)"/>
+<Variable name="content.background.color.selector" description="Content Background Color Selector" type="string" default=".content-inner"/>
+<Variable name="content.padding" description="Content Padding" type="length" default="10px"/>
+<Variable name="content.padding.horizontal" description="Content Horizontal Padding" type="length" default="10px"/>
+<Variable name="content.shadow.spread" description="Content Shadow Spread" type="length" default="40px"/>
+<Variable name="content.shadow.spread.webkit" description="Content Shadow Spread (WebKit)" type="length" default="5px"/>
+<Variable name="content.shadow.spread.ie" description="Content Shadow Spread (IE)" type="length" default="10px"/>
+<Variable name="main.border.width" description="Main Border Width" type="length" default="0"/>
+<Variable name="header.background.gradient" description="Header Gradient" type="url" default="none"/>
+<Variable name="header.shadow.offset.left" description="Header Shadow Offset Left" type="length" default="-1px"/>
+<Variable name="header.shadow.offset.top" description="Header Shadow Offset Top" type="length" default="-1px"/>
+<Variable name="header.shadow.spread" description="Header Shadow Spread" type="length" default="1px"/>
+<Variable name="header.padding" description="Header Padding" type="length" default="30px"/>
+<Variable name="header.border.size" description="Header Border Size" type="length" default="1px"/>
+<Variable name="header.bottom.border.size" description="Header Bottom Border Size" type="length" default="1px"/>
+<Variable name="header.border.horizontalsize" description="Header Horizontal Border Size" type="length" default="0"/>
+<Variable name="description.text.size" description="Description Text Size" type="string" default="140%"/>
+<Variable name="tabs.margin.top" description="Tabs Margin Top" type="length" default="0" />
+<Variable name="tabs.margin.side" description="Tabs Side Margin" type="length" default="30px" />
+<Variable name="tabs.background.gradient" description="Tabs Background Gradient" type="url"
+default="url(http://www.blogblog.com/1kt/simple/gradients_light.png)"/>
+<Variable name="tabs.border.width" description="Tabs Border Width" type="length" default="1px"/>
+<Variable name="tabs.bevel.border.width" description="Tabs Bevel Border Width" type="length" default="1px"/>
+<Variable name="date.header.padding" description="Date Header Padding" type="string" default="inherit"/>
+<Variable name="date.header.letterspacing" description="Date Header Letter Spacing" type="string" default="inherit"/>
+<Variable name="date.header.margin" description="Date Header Margin" type="string" default="inherit"/>
+<Variable name="post.margin.bottom" description="Post Bottom Margin" type="length" default="25px"/>
+<Variable name="image.border.small.size" description="Image Border Small Size" type="length" default="2px"/>
+<Variable name="image.border.large.size" description="Image Border Large Size" type="length" default="5px"/>
+<Variable name="page.width.selector" description="Page Width Selector" type="string" default=".region-inner"/>
+<Variable name="page.width" description="Page Width" type="string" default="auto"/>
+<Variable name="main.section.margin" description="Main Section Margin" type="length" default="15px"/>
+<Variable name="main.padding" description="Main Padding" type="length" default="15px"/>
+<Variable name="main.padding.top" description="Main Padding Top" type="length" default="30px"/>
+<Variable name="main.padding.bottom" description="Main Padding Bottom" type="length" default="30px"/>
+<Variable name="paging.background"
+color="#333333"
+description="Background of blog paging area" type="background"
+default="transparent none no-repeat scroll top center"/>
+<Variable name="footer.bevel" description="Bevel border length of footer" type="length" default="0"/>
+<Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
+default="transparent none repeat scroll top left"/>
+<Variable name="mobile.background.size" description="Mobile Background Size" type="string" default="auto"/>
+<Variable name="mobile.button.color" description="Mobile Button Color" type="color" default="#ffffff" />
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #cccccc;
+background: #292929 none repeat scroll top left;
+padding: 0 40px 40px 40px;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+a:link {
+text-decoration:none;
+color: #dd7700;
+}
+a:visited {
+text-decoration:none;
+color: #cc6600;
+}
+a:hover {
+text-decoration:underline;
+color: #cc6600;
+}
+.body-fauxcolumn-outer .fauxcolumn-inner {
+background: transparent none repeat scroll top left;
+_background-image: none;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 400px;
+width: 100%;
+background: #292929 none repeat scroll top left;
+}
+.body-fauxcolumn-outer .cap-top .cap-left {
+width: 100%;
+background: transparent none repeat-x scroll top left;
+_background-image: none;
+}
+.content-outer {
+-moz-box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 10px #333333;
+box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+margin-bottom: 1px;
+}
+.content-inner {
+padding: 10px 10px;
+}
+.content-inner {
+background-color: #333333;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+background: transparent none repeat-x scroll 0 -400px;
+_background-image: none;
+}
+.Header h1 {
+font: normal normal 40px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+text-shadow: -1px -1px 1px rgba(0, 0, 0, .2);
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 140%;
+color: #ffffff;
+}
+.header-inner .Header .titlewrapper {
+padding: 22px 30px;
+}
+.header-inner .Header .descriptionwrapper {
+padding: 0 30px;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section:first-child {
+border-top: 1px solid #404040;
+}
+.tabs-inner .section:first-child ul {
+margin-top: -1px;
+border-top: 1px solid #404040;
+border-left: 0 solid #404040;
+border-right: 0 solid #404040;
+}
+.tabs-inner .widget ul {
+background: #222222 none repeat-x scroll 0 -800px;
+_background-image: none;
+border-bottom: 1px solid #404040;
+margin-top: 0;
+margin-left: -30px;
+margin-right: -30px;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .6em 1em;
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #999999;
+border-left: 1px solid #333333;
+border-right: 0 solid #404040;
+}
+.tabs-inner .widget li:first-child a {
+border-left: none;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #ffffff;
+background-color: #000000;
+text-decoration: none;
+}
+/* Columns
+----------------------------------------------- */
+.main-outer {
+border-top: 0 solid #404040;
+}
+.fauxcolumn-left-outer .fauxcolumn-inner {
+border-right: 1px solid #404040;
+}
+.fauxcolumn-right-outer .fauxcolumn-inner {
+border-left: 1px solid #404040;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+margin: 0 0 1em 0;
+font: normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+text-transform: uppercase;
+}
+/* Widgets
+----------------------------------------------- */
+.widget .zippy {
+color: #999999;
+text-shadow: 2px 2px 1px rgba(0, 0, 0, .1);
+}
+.widget .popular-posts ul {
+list-style: none;
+}
+/* Posts
+----------------------------------------------- */
+.date-header span {
+background-color: transparent;
+color: #cccccc;
+padding: inherit;
+letter-spacing: inherit;
+margin: inherit;
+}
+.main-inner {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.main-inner .column-center-inner {
+padding: 0 15px;
+}
+.main-inner .column-center-inner .section {
+margin: 0 15px;
+}
+.post {
+margin: 0 0 25px 0;
+}
+h3.post-title, .comments h4 {
+font: normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+margin: .75em 0 0;
+}
+.post-body {
+font-size: 110%;
+line-height: 1.4;
+position: relative;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 0;
+background: #111111;
+border: 1px solid #111111;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 1px;
+}
+.post-body .tr-caption-container {
+color: #cccccc;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+.post-header {
+margin: 0 0 1.5em;
+line-height: 1.6;
+font-size: 90%;
+}
+.post-footer {
+margin: 20px -2px 0;
+padding: 5px 10px;
+color: #888888;
+background-color: #303030;
+border-bottom: 1px solid #444444;
+line-height: 1.6;
+font-size: 90%;
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: 1px solid #404040;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+#comments .avatar-image-container img {
+border: 1px solid #111111;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #999999;
+border-bottom: 1px solid #999999;
+}
+.comments .comment-thread.inline-thread {
+background-color: #303030;
+}
+.comments .continue {
+border-top: 2px solid #999999;
+}
+/* Accents
+---------------------------------------------- */
+.section-columns td.columns-cell {
+border-left: 1px solid #404040;
+}
+.blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+background-color: #333333;
+padding: 5px;
+}
+.footer-outer {
+border-top: 0 dashed #bbbbbb;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+.mobile .body-fauxcolumn-outer .cap-top {
+background-size: 100% auto;
+}
+.mobile .content-outer {
+-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+padding: 0 40px;
+}
+body.mobile .AdSense {
+margin: 0 -40px;
+}
+.mobile .tabs-inner .widget ul {
+margin-left: 0;
+margin-right: 0;
+}
+.mobile .post {
+margin: 0;
+}
+.mobile .main-inner .column-center-inner .section {
+margin: 0;
+}
+.mobile .date-header span {
+padding: 0.1em 10px;
+margin: 0 -10px;
+}
+.mobile h3.post-title {
+margin: 0;
+}
+.mobile .blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.mobile .footer-outer {
+border-top: none;
+}
+.mobile .main-inner, .mobile .footer-inner {
+background-color: #333333;
+}
+.mobile-index-contents {
+color: #cccccc;
+}
+.mobile-link-button {
+background-color: #dd7700;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile .tabs-inner .section:first-child {
+border-top: none;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background-color: #000000;
+color: #ffffff;
+border-top: 1px solid #404040;
+border-bottom: 1px solid #404040;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #404040;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 990px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 990px;
+max-width: 990px;
+_width: 990px;
+}
+.main-inner .columns {
+padding-left: 0;
+padding-right: 260px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0;
+right: 260px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0") -
+parseInt("260px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 260px;
+}
+.main-inner .column-left-outer {
+width: 0;
+right: 100%;
+margin-left: -0;
+}
+.main-inner .column-right-outer {
+width: 260px;
+margin-right: -260px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+--></style>
+<script type="text/javascript">var a=navigator,b="userAgent",c="indexOf",f="&m=1",g="(^|&)m=",h="?",i="?m=1";function j(){var d=window.location.href,e=d.split(h);switch(e.length){case 1:return d+i;case 2:return 0<=e[1].search(g)?null:d+f;default:return null}}if(-1!=a[b][c]("Mobile")&&-1!=a[b][c]("WebKit")&&-1==a[b][c]("iPad")||-1!=a[b][c]("Opera Mini")||-1!=a[b][c]("IEMobile")){var k=j();k&&window.location.replace(k)};
+</script><script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('headEnd');
+</script></head>
+<body class='loading'>
+<div class='navbar section' id='navbar'><div class='widget Navbar' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<iframe src="//www.blogger.com/navbar.g?targetBlogID=5380227228282952060&amp;blogName=Criaturas+Feroces&amp;publishMode=PUBLISH_MODE_BLOGSPOT&amp;navbarType=LIGHT&amp;layoutType=LAYOUTS&amp;searchRoot=http://criaturasferoces.blogspot.com/search&amp;blogLocale=es&amp;v=1&amp;homepageUrl=http://criaturasferoces.blogspot.com/&amp;vt=4019125013577014263" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="30px" width="100%" id="navbar-iframe" allowtransparency="true" title="Navegación y búsqueda de Blogger"></iframe>
+<div></div><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='Criaturas Feroces' itemprop='name'/>
+</div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header'><div class='widget Header' id='Header1'>
+<div id='header-inner' style='background-image: url("http://4.bp.blogspot.com/-ky4WyxO4NEM/TwnvoRpb3EI/AAAAAAAADOs/1K5K5ahro8Y/s1600/criaturas-feroces.jpg"); background-position: left; width: 970px; min-height: 186px; _height: 186px; background-repeat: no-repeat; '>
+<div class='titlewrapper' style='background: transparent'>
+<h1 class='title' style='background: transparent; border-width: 0px'>
+Criaturas Feroces
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Observando la naturaleza.</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs section' id='crosscol'></div>
+<div class='tabs section' id='crosscol-overflow'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main'><div class='widget Blog' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!-- google_ad_section_start(name=default) -->
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>sábado, 16 de junio de 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<a name='2370265375463494972'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://criaturasferoces.blogspot.com/2012/06/colirrojo-tizon-phoenicurus-ochruros.html'>Colirrojo tizón (Phoenicurus ochruros)</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2370265375463494972' itemprop='articleBody'>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://3.bp.blogspot.com/-E5WNnypy3C4/T9yZssxzmLI/AAAAAAAADbQ/OYkTDuO6duw/s1600/colirojo-tizon.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="422" src="http://3.bp.blogspot.com/-E5WNnypy3C4/T9yZssxzmLI/AAAAAAAADbQ/OYkTDuO6duw/s640/colirojo-tizon.jpg" width="640" /></a></div>
+La semana pasada desde la terraza de mi casa observé a este colirrojo tizón posado sobre la cubierta. Me llamó la atención los muñones de sus patas, suele ser común en las palomas de los parques por ejemplo.
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Publicado por
+<span class='fn'>
+<a href='http://www.blogger.com/profile/18431685413365683782' itemprop='author' rel='author' title='author profile'>
+Javier Polancos.
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<a class='timestamp-link' href='http://criaturasferoces.blogspot.com/2012/06/colirrojo-tizon-phoenicurus-ochruros.html' itemprop='url' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-06-16T16:42:00+02:00'>16:42</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criaturasferoces.blogspot.com/2012/06/colirrojo-tizon-phoenicurus-ochruros.html#comment-form' onclick=''>
+1 comentario:
+              </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1159759919'>
+<a href='http://www.blogger.com/post-edit.g?blogID=5380227228282952060&postID=2370265375463494972&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2370265375463494972&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2370265375463494972&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2370265375463494972&target=twitter' target='_blank' title='Compartir con Twitter'><span class='share-button-link-text'>Compartir con Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2370265375463494972&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger' href='http://criaturasferoces.blogspot.com/2012/06/colirrojo-tizon-phoenicurus-ochruros.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Etiquetas:
+<a href='http://criaturasferoces.blogspot.com/search/label/AVES' rel='tag'>AVES</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/Colirrojo%20tiz%C3%B3n' rel='tag'>Colirrojo tizón</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>miércoles, 30 de mayo de 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<a name='6484762115405477632'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://criaturasferoces.blogspot.com/2012/05/pinzon-vulgar-fringilla-coelebs.html'>Pinzón vulgar (Fringilla coelebs)</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6484762115405477632' itemprop='articleBody'>
+El Domingo estuve un largo tiempo observando a este pinzón en el alto del Fito. Casi era él el que me seguía y colocaba en posición como si quisiera que le retratase. Los pinzones son los paseriformes más comunes y viven en hábitats muy variados. Su canto es potente escuchándose a distancia. 
+
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-BPtaq44UD6Q/T8aJiAUJ1RI/AAAAAAAADbI/ed2DazH3QOA/s1600/pinzon-vulgar-02.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="422" src="http://4.bp.blogspot.com/-BPtaq44UD6Q/T8aJiAUJ1RI/AAAAAAAADbI/ed2DazH3QOA/s640/pinzon-vulgar-02.jpg" width="640" /></a></div>
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://4.bp.blogspot.com/-FhsDxFWKlzc/T8aGYS62BDI/AAAAAAAADa0/M3KjMjLpfeM/s1600/pinzon-vulgar-01.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="424" src="http://4.bp.blogspot.com/-FhsDxFWKlzc/T8aGYS62BDI/AAAAAAAADa0/M3KjMjLpfeM/s640/pinzon-vulgar-01.jpg" width="640" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-DQ4k5JX9LWQ/T8aGY8rey3I/AAAAAAAADbA/cbjumCPzE5c/s1600/pinzon-vulgar-00.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="424" src="http://2.bp.blogspot.com/-DQ4k5JX9LWQ/T8aGY8rey3I/AAAAAAAADbA/cbjumCPzE5c/s640/pinzon-vulgar-00.jpg" width="640" /></a></div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Publicado por
+<span class='fn'>
+<a href='http://www.blogger.com/profile/18431685413365683782' itemprop='author' rel='author' title='author profile'>
+Javier Polancos.
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<a class='timestamp-link' href='http://criaturasferoces.blogspot.com/2012/05/pinzon-vulgar-fringilla-coelebs.html' itemprop='url' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-05-30T22:51:00+02:00'>22:51</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criaturasferoces.blogspot.com/2012/05/pinzon-vulgar-fringilla-coelebs.html#comment-form' onclick=''>
+4 comentarios:
+              </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1159759919'>
+<a href='http://www.blogger.com/post-edit.g?blogID=5380227228282952060&postID=6484762115405477632&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=6484762115405477632&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=6484762115405477632&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=6484762115405477632&target=twitter' target='_blank' title='Compartir con Twitter'><span class='share-button-link-text'>Compartir con Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=6484762115405477632&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger' href='http://criaturasferoces.blogspot.com/2012/05/pinzon-vulgar-fringilla-coelebs.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Etiquetas:
+<a href='http://criaturasferoces.blogspot.com/search/label/AVES' rel='tag'>AVES</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/Pinz%C3%B3n%20vulgar' rel='tag'>Pinzón vulgar</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>jueves, 24 de mayo de 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<a name='5077820589455352414'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://criaturasferoces.blogspot.com/2012/05/paso-pre-nupcial-de-correlimos-comun-y.html'>Paso Pre-nupcial de limícolas en la Playa de Bañugues.</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5077820589455352414' itemprop='articleBody'>
+Como veis el domingo 20 de mayo&nbsp;fue prolífico en cuanto observaciones, tanto es así que todavía hoy&nbsp;sigo&nbsp;subiendo&nbsp;fotos.<br />
+<br />
+Todas estas aves&nbsp;están&nbsp;recorriendo el camino de vuelta hacia sus zonas de&nbsp;cría. Ahora en las zonas más&nbsp;septentrionales&nbsp;las temperaturas se&nbsp;suavizan&nbsp;y hay más horas de luz, por lo que pueden dedicar más tiempo a la recolección de comida para su progenie.<br />
+<br />
+Este año se ha retrasado un poco el paso, pero por la información que tengo ha sido bueno en cuanto al número de limícolas observados.&nbsp;Los Correlimos comunes (<i>Calidris alpina)</i><i>&nbsp;</i>se distinguen bien, ahora en este tiempo, por su llamativa mancha negra en el vientre.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://4.bp.blogspot.com/-u-uzKk3IOiM/T76YWqWR4rI/AAAAAAAADZI/e6GJs6OXVLw/s1600/correlimos_comun_01.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://4.bp.blogspot.com/-u-uzKk3IOiM/T76YWqWR4rI/AAAAAAAADZI/e6GJs6OXVLw/s640/correlimos_comun_01.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos común&nbsp;(<i>Calidris alpina</i>)</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-5HLC3TYuMRI/T76YZY4j9tI/AAAAAAAADZQ/sljC6pDKVw8/s1600/correlimos_comun_02.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://3.bp.blogspot.com/-5HLC3TYuMRI/T76YZY4j9tI/AAAAAAAADZQ/sljC6pDKVw8/s640/correlimos_comun_02.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos común&nbsp;(<i>Calidris alpina</i>)
+</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-tHcLkboIIWw/T76YbQq24iI/AAAAAAAADZY/lNN5N67CQy8/s1600/correlimos_comun_03.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://1.bp.blogspot.com/-tHcLkboIIWw/T76YbQq24iI/AAAAAAAADZY/lNN5N67CQy8/s640/correlimos_comun_03.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos común&nbsp;(<i>Calidris alpina</i>)
+</td></tr>
+</tbody></table>
+<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-U4oLX3C90Jg/T76Ydm8MymI/AAAAAAAADZg/AcV-8eIT9fk/s1600/correlimos_comun_04.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://3.bp.blogspot.com/-U4oLX3C90Jg/T76Ydm8MymI/AAAAAAAADZg/AcV-8eIT9fk/s640/correlimos_comun_04.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos común&nbsp;(<i>Calidris alpina</i>)
+</td></tr>
+</tbody></table>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-_GGHIu3gBGw/T76YgCwVwRI/AAAAAAAADZo/vGc_kmF9PlU/s1600/correlimos_comun_06.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://1.bp.blogspot.com/-_GGHIu3gBGw/T76YgCwVwRI/AAAAAAAADZo/vGc_kmF9PlU/s640/correlimos_comun_06.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos común&nbsp;(<i>Calidris alpina</i>) junto con algún Correlimos tridáctilo (<i>Calidris alba)</i></td></tr>
+</tbody></table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><div style="text-align: left;">
+<span style="text-align: -webkit-auto;"><br /></span></div>
+<div style="text-align: left;">
+<span style="text-align: -webkit-auto;">Durante el vuelo a los Correlimos tridáctilos se les ve el vientre bien blanco y una ancha franja alar.
+
+</span><a href="http://3.bp.blogspot.com/-IHIMB6RLSdg/T76bPfsqYaI/AAAAAAAADaI/2W2IJIAXkkQ/s1600/tridactilos03.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://3.bp.blogspot.com/-IHIMB6RLSdg/T76bPfsqYaI/AAAAAAAADaI/2W2IJIAXkkQ/s640/tridactilos03.jpg" width="640" /></a></div>
+</td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos tridáctilo (<i>Calidris alba)</i>
+</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://4.bp.blogspot.com/-kWJENToVxaI/T76bQwkRCVI/AAAAAAAADaQ/0Vh4_AlmaRk/s1600/tridactilos04.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://4.bp.blogspot.com/-kWJENToVxaI/T76bQwkRCVI/AAAAAAAADaQ/0Vh4_AlmaRk/s640/tridactilos04.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos tridáctilo (<i>Calidris alba)</i>
+</td></tr>
+</tbody></table>
+<div style="text-align: left;">
+<br /></div>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-_tPTSFU9M9g/T76bLmTMVzI/AAAAAAAADZ4/nIeO2IPmbO0/s1600/tridactilos01.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://3.bp.blogspot.com/-_tPTSFU9M9g/T76bLmTMVzI/AAAAAAAADZ4/nIeO2IPmbO0/s640/tridactilos01.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos tridáctilo (<i>Calidris alba)</i>
+</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-zHi1QFgSCUI/T76bNih4X9I/AAAAAAAADaA/KPh6DtsiFf8/s1600/tridactilos02.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://2.bp.blogspot.com/-zHi1QFgSCUI/T76bNih4X9I/AAAAAAAADaA/KPh6DtsiFf8/s640/tridactilos02.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos tridáctilo (<i>Calidris alba)</i>
+</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-PBV9W2tXqs0/T76bTHCZqvI/AAAAAAAADaY/AsqF--TuIQA/s1600/tridactilos05.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="423" src="http://2.bp.blogspot.com/-PBV9W2tXqs0/T76bTHCZqvI/AAAAAAAADaY/AsqF--TuIQA/s640/tridactilos05.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos tridáctilo (<i>Calidris alba)</i>
+</td></tr>
+</tbody></table>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: left;">
+Por último decir que también&nbsp;había&nbsp;un chorlito gris <i>(Pluvialis squatarola)<span style="font-family: sans-serif; font-size: x-small;"><span style="line-height: 19px;">&nbsp;</span></span></i>entre los correlimos.</div>
+<div class="separator" style="clear: both; text-align: left;">
+<br /></div>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-gWdHQ8rTLXY/T76cQmRa-eI/AAAAAAAADao/03qpskVyn-Y/s1600/chorlito_gris.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://2.bp.blogspot.com/-gWdHQ8rTLXY/T76cQmRa-eI/AAAAAAAADao/03qpskVyn-Y/s640/chorlito_gris.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><div style="text-align: center;">
+<span style="font-size: x-small;">Chorlito gris&nbsp;<i>(Pluvialis squatarola)</i></span>
+</div>
+</td></tr>
+</tbody></table>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Publicado por
+<span class='fn'>
+<a href='http://www.blogger.com/profile/18431685413365683782' itemprop='author' rel='author' title='author profile'>
+Javier Polancos.
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<a class='timestamp-link' href='http://criaturasferoces.blogspot.com/2012/05/paso-pre-nupcial-de-correlimos-comun-y.html' itemprop='url' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-05-24T22:51:00+02:00'>22:51</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criaturasferoces.blogspot.com/2012/05/paso-pre-nupcial-de-correlimos-comun-y.html#comment-form' onclick=''>
+2 comentarios:
+              </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1159759919'>
+<a href='http://www.blogger.com/post-edit.g?blogID=5380227228282952060&postID=5077820589455352414&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=5077820589455352414&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=5077820589455352414&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=5077820589455352414&target=twitter' target='_blank' title='Compartir con Twitter'><span class='share-button-link-text'>Compartir con Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=5077820589455352414&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger' href='http://criaturasferoces.blogspot.com/2012/05/paso-pre-nupcial-de-correlimos-comun-y.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Etiquetas:
+<a href='http://criaturasferoces.blogspot.com/search/label/AVES' rel='tag'>AVES</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/Correlimos%20com%C3%BAn' rel='tag'>Correlimos común</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/Correlimos%20trid%C3%A1ctilo' rel='tag'>Correlimos tridáctilo</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>miércoles, 23 de mayo de 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<a name='6384343394476556040'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://criaturasferoces.blogspot.com/2012/05/pardillo-comun-carduelis-cannabina.html'>Pardillo común (Carduelis cannabina)</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-6384343394476556040' itemprop='articleBody'>
+Observado compartiendo habitat con currucas cabecinegra, Buitrón y Lavandera boyera.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-zknP76u6A5c/T71O9gdLvTI/AAAAAAAADYw/pXbzRyySzy4/s1600/pardillo00.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://2.bp.blogspot.com/-zknP76u6A5c/T71O9gdLvTI/AAAAAAAADYw/pXbzRyySzy4/s640/pardillo00.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Pardillo común (macho)
+</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://4.bp.blogspot.com/-QlkOOKoPG8Y/T71PAE-jn7I/AAAAAAAADY4/k9oWFhih9Xc/s1600/pardillo03.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://4.bp.blogspot.com/-QlkOOKoPG8Y/T71PAE-jn7I/AAAAAAAADY4/k9oWFhih9Xc/s640/pardillo03.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Pardillo común (macho)</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-JSppRg6RxvM/T71PDUDqB0I/AAAAAAAADZA/tD1zQtZRhNY/s1600/pardillo_hrmbra.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://1.bp.blogspot.com/-JSppRg6RxvM/T71PDUDqB0I/AAAAAAAADZA/tD1zQtZRhNY/s640/pardillo_hrmbra.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Pardillo común (hembra)</td></tr>
+</tbody></table>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Publicado por
+<span class='fn'>
+<a href='http://www.blogger.com/profile/18431685413365683782' itemprop='author' rel='author' title='author profile'>
+Javier Polancos.
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<a class='timestamp-link' href='http://criaturasferoces.blogspot.com/2012/05/pardillo-comun-carduelis-cannabina.html' itemprop='url' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-05-23T22:57:00+02:00'>22:57</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criaturasferoces.blogspot.com/2012/05/pardillo-comun-carduelis-cannabina.html#comment-form' onclick=''>
+3 comentarios:
+              </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1159759919'>
+<a href='http://www.blogger.com/post-edit.g?blogID=5380227228282952060&postID=6384343394476556040&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=6384343394476556040&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=6384343394476556040&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=6384343394476556040&target=twitter' target='_blank' title='Compartir con Twitter'><span class='share-button-link-text'>Compartir con Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=6384343394476556040&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger' href='http://criaturasferoces.blogspot.com/2012/05/pardillo-comun-carduelis-cannabina.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Etiquetas:
+<a href='http://criaturasferoces.blogspot.com/search/label/AVES' rel='tag'>AVES</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/Pardillo%20com%C3%BAn' rel='tag'>Pardillo común</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+<div class='post-outer'>
+<div class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<a name='2110645188966896840'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://criaturasferoces.blogspot.com/2012/05/buitron-cisticola-juncidis.html'>Buitrón (Cisticola juncidis)</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2110645188966896840' itemprop='articleBody'>
+En la misma zona y día que las currucas cabecinegras de la entrada anterior, andaban anidando una pareja de Buitrones. Es la primera vez que veo esta especie y para asegurarme de la identificación, pregunte a Asturnatura para que lo confirmaran.<br />
+Son bastante&nbsp;difíciles&nbsp;de ver por su mimético plumaje y discreción. <br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://1.bp.blogspot.com/-qdv9VQbA3Pk/T71MX7M1NHI/AAAAAAAADYY/MwhnWzMRqQI/s1600/20120520_0332.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="422" src="http://1.bp.blogspot.com/-qdv9VQbA3Pk/T71MX7M1NHI/AAAAAAAADYY/MwhnWzMRqQI/s640/20120520_0332.jpg" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-iqcOrqKwc7c/T71MZ-Yye5I/AAAAAAAADYg/h8Y21mtIQjc/s1600/20120520_0343_00.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="422" src="http://2.bp.blogspot.com/-iqcOrqKwc7c/T71MZ-Yye5I/AAAAAAAADYg/h8Y21mtIQjc/s640/20120520_0343_00.jpg" width="640" /></a></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-HT8TgQXxjco/T71MbjhCXkI/AAAAAAAADYo/r1_Ume1zmfs/s1600/buitron03.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="422" src="http://2.bp.blogspot.com/-HT8TgQXxjco/T71MbjhCXkI/AAAAAAAADYo/r1_Ume1zmfs/s640/buitron03.jpg" width="640" /></a></div>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Publicado por
+<span class='fn'>
+<a href='http://www.blogger.com/profile/18431685413365683782' itemprop='author' rel='author' title='author profile'>
+Javier Polancos.
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<a class='timestamp-link' href='http://criaturasferoces.blogspot.com/2012/05/buitron-cisticola-juncidis.html' itemprop='url' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-05-23T22:46:00+02:00'>22:46</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criaturasferoces.blogspot.com/2012/05/buitron-cisticola-juncidis.html#comment-form' onclick=''>
+1 comentario:
+              </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1159759919'>
+<a href='http://www.blogger.com/post-edit.g?blogID=5380227228282952060&postID=2110645188966896840&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2110645188966896840&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2110645188966896840&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2110645188966896840&target=twitter' target='_blank' title='Compartir con Twitter'><span class='share-button-link-text'>Compartir con Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2110645188966896840&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger' href='http://criaturasferoces.blogspot.com/2012/05/buitron-cisticola-juncidis.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Etiquetas:
+<a href='http://criaturasferoces.blogspot.com/search/label/AVES' rel='tag'>AVES</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/Buitr%C3%B3n' rel='tag'>Buitrón</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>martes, 22 de mayo de 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<a name='2547992973779347797'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://criaturasferoces.blogspot.com/2012/05/antromero-rasa-costera-de-gozon.html'>Curruca cebecinegra con pollos volanderos.</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-2547992973779347797' itemprop='articleBody'>
+Dando el domingo 20 de mayo, una vuelta por Antromero, Gozón, pude observar a una pareja de currucas cabecinegras muy atareadas en la construcción o reparación del nido.&nbsp;&nbsp;Frecuentaban unas zarzas en la rasa costera muy cerca del acantilado. Son muy dificiles de fotografiar por lo activas que se muestran en todo momento. La hembra de la foto lleva una buena araña en el pico, buen&nbsp;provecho...<br />
+Según me ha comentado Fran Nieto los ejemplares de la segunda y tercera foto son pollos volanderos. Se me&nbsp;había&nbsp;pasado, gracias Fran.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-wl4MRLMwRBk/T7q-VQlfVkI/AAAAAAAADXo/vD6gU2yJc2w/s1600/curruca-cabecinegra-hembra-01_filtered.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://2.bp.blogspot.com/-wl4MRLMwRBk/T7q-VQlfVkI/AAAAAAAADXo/vD6gU2yJc2w/s640/curruca-cabecinegra-hembra-01_filtered.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Curruca cabecinegra (hembra)</td></tr>
+</tbody></table>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-ZgpFdCHPhAc/T7rBKkMFrzI/AAAAAAAADYQ/U8P-rAr2lck/s1600/curruca-cabecinegra-hembra-05_filtered.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://2.bp.blogspot.com/-ZgpFdCHPhAc/T7rBKkMFrzI/AAAAAAAADYQ/U8P-rAr2lck/s640/curruca-cabecinegra-hembra-05_filtered.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Curruca cabecinegra (pollo volandero)
+</td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-28X3MPjJkBQ/T7rApA_0TMI/AAAAAAAADYI/YrymFXFRmNo/s1600/curruca-cabecinegra-hembra-04_filtered.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://1.bp.blogspot.com/-28X3MPjJkBQ/T7rApA_0TMI/AAAAAAAADYI/YrymFXFRmNo/s640/curruca-cabecinegra-hembra-04_filtered.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Curruca cabecinegra (pollo volandero)
+</td></tr>
+</tbody></table>
+<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-SMIZscsXWiI/T7q-gMjhpXI/AAAAAAAADXw/yPGArdf-Xlc/s1600/curruca-cabecinegra-macho-00_filtered.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://3.bp.blogspot.com/-SMIZscsXWiI/T7q-gMjhpXI/AAAAAAAADXw/yPGArdf-Xlc/s640/curruca-cabecinegra-macho-00_filtered.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Curruca cabecinegra (macho)</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-OtNzySXD_DI/T7q-5ZtgGxI/AAAAAAAADYA/XwTy83EkB30/s1600/curruca-cabecinegra-macho_filtered.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://1.bp.blogspot.com/-OtNzySXD_DI/T7q-5ZtgGxI/AAAAAAAADYA/XwTy83EkB30/s640/curruca-cabecinegra-macho_filtered.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Curruca cabecinegra (macho)</td></tr>
+</tbody></table>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://2.bp.blogspot.com/-vY-7ir7bx38/T7q-vDMhxGI/AAAAAAAADX4/aKrLRBLQvSc/s1600/curruca-cabecinegra-hembra-04.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a></div>
+<br />
+<br />
+<span id="goog_127741404"></span><span id="goog_127741405"></span>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Publicado por
+<span class='fn'>
+<a href='http://www.blogger.com/profile/18431685413365683782' itemprop='author' rel='author' title='author profile'>
+Javier Polancos.
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<a class='timestamp-link' href='http://criaturasferoces.blogspot.com/2012/05/antromero-rasa-costera-de-gozon.html' itemprop='url' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-05-22T00:19:00+02:00'>00:19</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criaturasferoces.blogspot.com/2012/05/antromero-rasa-costera-de-gozon.html#comment-form' onclick=''>
+4 comentarios:
+              </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1159759919'>
+<a href='http://www.blogger.com/post-edit.g?blogID=5380227228282952060&postID=2547992973779347797&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2547992973779347797&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2547992973779347797&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2547992973779347797&target=twitter' target='_blank' title='Compartir con Twitter'><span class='share-button-link-text'>Compartir con Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=2547992973779347797&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger' href='http://criaturasferoces.blogspot.com/2012/05/antromero-rasa-costera-de-gozon.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Etiquetas:
+<a href='http://criaturasferoces.blogspot.com/search/label/AVES' rel='tag'>AVES</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/Curruca%20cabecinegra' rel='tag'>Curruca cabecinegra</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>jueves, 17 de mayo de 2012</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<a name='4273173551951732189'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+<a href='http://criaturasferoces.blogspot.com/2012/05/de-vuelta-por-la-ria-de-villaviciosa.html'>De vuelta por la Ría de Villaviciosa</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4273173551951732189' itemprop='articleBody'>
+Observaciones de ayer y de hoy por la Ria. Nada extraordinario pero siempre agradable un paseo por la zona. En el Cierrón y la Espuncia. De reseñar la observación que me ha hecho mi corrector oficial, Fran Nieto, de que el gorrión común es leucístico, esto es la&nbsp;falta parcial o total de eumelanina&nbsp;o faeomelanina&nbsp;en las plumas, debido 
+a un disturbio heredado en el proceso de formación de esos pigmentos que le da un aspecto de albino, aunque no lo sea.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://4.bp.blogspot.com/-dCS9NjcO1Bw/T7VmfkjebQI/AAAAAAAADVQ/xVevlhKWBLk/s1600/cprrelimos00.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://4.bp.blogspot.com/-dCS9NjcO1Bw/T7VmfkjebQI/AAAAAAAADVQ/xVevlhKWBLk/s640/cprrelimos00.JPG" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Correlimos común</td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-PzC6YSusY40/T7VmpBHAO8I/AAAAAAAADVY/qlODjBKNWPQ/s1600/gorrion_comun_hembra_filtered.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://2.bp.blogspot.com/-PzC6YSusY40/T7VmpBHAO8I/AAAAAAAADVY/qlODjBKNWPQ/s640/gorrion_comun_hembra_filtered.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Gorrión común (hembra)</td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-ZPjqH69-aoQ/T7Vm_5VA-5I/AAAAAAAADVw/DTChYbegSxY/s1600/archibebe02.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://1.bp.blogspot.com/-ZPjqH69-aoQ/T7Vm_5VA-5I/AAAAAAAADVw/DTChYbegSxY/s640/archibebe02.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Archibebe claro</td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-EMU1JLIooDA/T7VnCk-8soI/AAAAAAAADV4/cB61H3QWWWc/s1600/cigue%C3%B1uelas.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://1.bp.blogspot.com/-EMU1JLIooDA/T7VnCk-8soI/AAAAAAAADV4/cB61H3QWWWc/s640/cigue%C3%B1uelas.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Cigüeñuelas</td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/--SAT2I2lHkA/T7VnEK1o8OI/AAAAAAAADWA/O_O6tJ-itxA/s1600/gorrion.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://3.bp.blogspot.com/--SAT2I2lHkA/T7VnEK1o8OI/AAAAAAAADWA/O_O6tJ-itxA/s640/gorrion.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Gorrión común (leucistico)</td></tr>
+</tbody></table>
+<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-Dm3OKxKegJE/T7VnGJ7lX7I/AAAAAAAADWI/ieHVZ-Wpht0/s1600/gorrion00.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://2.bp.blogspot.com/-Dm3OKxKegJE/T7VnGJ7lX7I/AAAAAAAADWI/ieHVZ-Wpht0/s640/gorrion00.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Gorrión común (leucistico)</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-k7GBPu_9Iw8/T7Vmw1yXSCI/AAAAAAAADVg/WRKJTjMUshc/s1600/polladeagua.JPG" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="422" src="http://2.bp.blogspot.com/-k7GBPu_9Iw8/T7Vmw1yXSCI/AAAAAAAADVg/WRKJTjMUshc/s640/polladeagua.JPG" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Polla de agua común</td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-AxkcSU0eUuc/T7VnTB5911I/AAAAAAAADWQ/loe6SeTbH9Y/s1600/polla00.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="424" src="http://2.bp.blogspot.com/-AxkcSU0eUuc/T7VnTB5911I/AAAAAAAADWQ/loe6SeTbH9Y/s640/polla00.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Polla de agua común</td></tr>
+</tbody></table>
+<br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Publicado por
+<span class='fn'>
+<a href='http://www.blogger.com/profile/18431685413365683782' itemprop='author' rel='author' title='author profile'>
+Javier Polancos.
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+en
+<a class='timestamp-link' href='http://criaturasferoces.blogspot.com/2012/05/de-vuelta-por-la-ria-de-villaviciosa.html' itemprop='url' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2012-05-17T23:10:00+02:00'>23:10</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criaturasferoces.blogspot.com/2012/05/de-vuelta-por-la-ria-de-villaviciosa.html#comment-form' onclick=''>
+2 comentarios:
+              </a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-1159759919'>
+<a href='http://www.blogger.com/post-edit.g?blogID=5380227228282952060&postID=4273173551951732189&from=pencil' title='Editar entrada'>
+<img alt='' class='icon-action' height='18' src='http://img2.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=4273173551951732189&target=email' target='_blank' title='Enviar por correo electrónico'><span class='share-button-link-text'>Enviar por correo electrónico</span></a><a class='goog-inline-block share-button sb-blog' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=4273173551951732189&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Escribe un blog'><span class='share-button-link-text'>Escribe un blog</span></a><a class='goog-inline-block share-button sb-twitter' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=4273173551951732189&target=twitter' target='_blank' title='Compartir con Twitter'><span class='share-button-link-text'>Compartir con Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='http://www.blogger.com/share-post.g?blogID=5380227228282952060&postID=4273173551951732189&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartir con Facebook'><span class='share-button-link-text'>Compartir con Facebook</span></a><div class='goog-inline-block dummy-container'><g:plusone source='blogger' href='http://criaturasferoces.blogspot.com/2012/05/de-vuelta-por-la-ria-de-villaviciosa.html' size='medium' width='300' annotation='inline'/></div>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Etiquetas:
+<a href='http://criaturasferoces.blogspot.com/search/label/Archibebe%20claro' rel='tag'>Archibebe claro</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/AVES' rel='tag'>AVES</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/Correlimos%20com%C3%BAn' rel='tag'>Correlimos común</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/gorrion%20com%C3%BAn' rel='tag'>gorrion común</a>,
+<a href='http://criaturasferoces.blogspot.com/search/label/polla%20de%20agua' rel='tag'>polla de agua</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'></div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+<!-- google_ad_section_end -->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='http://criaturasferoces.blogspot.com/search?updated-max=2012-05-17T23:10:00%2B02:00&amp;max-results=7' id='Blog1_blog-pager-older-link' title='Entradas antiguas'>Entradas antiguas</a>
+</span>
+<a class='home-link' href='http://criaturasferoces.blogspot.com/'>Página principal</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Suscribirse a:
+<a class='feed-link' href='http://criaturasferoces.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Entradas (Atom)</a>
+</div>
+</div>
+<script type="text/javascript">window.___gcfg = {'lang': 'es'};window.___gapisync = false;(function() {var po = document.createElement('script');po.type = 'text/javascript';po.async = true;po.src = 'https://apis.google.com/js/plusone.js';var s = document.body.getElementsByTagName('script')[0];s.parentNode.insertBefore(po, s);})();</script>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget Profile' id='Profile1'>
+<h2>Datos personales</h2>
+<div class='widget-content'>
+<a href='http://www.blogger.com/profile/18431685413365683782'><img alt='Mi foto' class='profile-img' height='68' src='http://4.bp.blogspot.com/_yetxH9i7XSI/SrUCnFJ0QqI/AAAAAAAAAqg/qWntvw9KtFY/S220/me.jpg' width='80'/></a>
+<dl class='profile-datablock'>
+<dt class='profile-data'>
+<a class='profile-name-link' href='http://www.blogger.com/profile/18431685413365683782' rel='author' style='background-image: url(//www.blogger.com/img/logo-16.png);'>
+Javier Polancos.
+</a>
+</dt>
+</dl>
+<a class='profile-link' href='http://www.blogger.com/profile/18431685413365683782' rel='author'>Ver todo mi perfil</a>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=Profile&widgetId=Profile1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Profile1"));' target='configProfile1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget CustomSearch' id='CustomSearch1'>
+<h2 class='title'>Buscar en el blog</h2>
+<div class='widget-content'>
+<div id='CustomSearch1_form'>
+<span class='cse-status'>Cargando...</span>
+</div>
+</div>
+<style type='text/css'>
+      #uds-searchControl .gs-result .gs-title,
+      #uds-searchControl .gs-result .gs-title *,
+      #uds-searchControl .gsc-results .gsc-trailing-more-results,
+      #uds-searchControl .gsc-results .gsc-trailing-more-results * {
+        color:#dd7700;
+      }
+
+      #uds-searchControl .gs-result .gs-title a:visited,
+      #uds-searchControl .gs-result .gs-title a:visited * {
+        color:#cc6600;
+      }
+
+      #uds-searchControl .gs-relativePublishedDate,
+      #uds-searchControl .gs-publishedDate {
+        color: #ffffff;
+      }
+
+      #uds-searchControl .gs-result a.gs-visibleUrl,
+      #uds-searchControl .gs-result .gs-visibleUrl {
+        color: #dd7700;
+      }
+
+      #uds-searchControl .gsc-results {
+        border-color: #404040;
+        background-color: #333333;
+      }
+
+      #uds-searchControl .gsc-tabhActive {
+        border-color: #404040;
+        border-top-color: #404040;
+        background-color: #333333;
+        color: #cccccc;
+      }
+
+      #uds-searchControl .gsc-tabhInactive {
+        border-color: #404040;
+        background-color: transparent;
+        color: #dd7700;
+      }
+
+      #uds-searchClearResults {
+        border-color: #404040;
+      }
+
+      #uds-searchClearResults:hover {
+        border-color: #404040;
+      }
+
+      #uds-searchControl .gsc-cursor-page {
+        color: #dd7700;
+      }
+
+      #uds-searchControl .gsc-cursor-current-page {
+        color: #cccccc;
+      }
+    </style>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=CustomSearch&widgetId=CustomSearch1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("CustomSearch1"));' target='configCustomSearch1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget FollowByEmail' id='FollowByEmail1'>
+<h2 class='title'>&#191;Quieres seguir el blog por e-mail?</h2>
+<div class='widget-content'>
+<div class='follow-by-email-inner'>
+<form action='http://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open("http://feedburner.google.com/fb/a/mailverify?uri=CriaturasFeroces", "popupwindow", "scrollbars=yes,width=550,height=520"); return true' target='popupwindow'>
+<table width='100%'>
+<tr>
+<td>
+<input class='follow-by-email-address' name='email' placeholder='Email address...' type='text'/>
+</td>
+<td width='64px'>
+<input class='follow-by-email-submit' type='submit' value='Submit'/>
+</td>
+</tr>
+</table>
+<input name='uri' type='hidden' value='CriaturasFeroces'/>
+<input name='loc' type='hidden' value='en_US'/>
+</form>
+</div>
+</div>
+<span class='item-control blog-admin'>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=FollowByEmail&widgetId=FollowByEmail1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("FollowByEmail1"));' target='configFollowByEmail1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</span>
+</div><div class='widget Followers' id='Followers1'>
+<h2 class='title'>Seguidores</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<script type="text/javascript">
+        if (!window.google || !google.friendconnect) {
+          document.write('<script type="text/javascript"' +
+              'src="http://www.google.com/friendconnect/script/friendconnect.js">' +
+              '</scr' + 'ipt>');
+        }
+      </script>
+<script type="text/javascript">
+      if (!window.registeredBloggerCallbacks) {
+        window.registeredBloggerCallbacks = true;
+
+        
+
+        
+        gadgets.rpc.register('requestReload', function() {
+          document.location.reload();
+        });
+
+        
+        gadgets.rpc.register('requestSignOut', function(siteId) {
+          
+          google.friendconnect.container.openSocialSiteId = siteId;
+          google.friendconnect.requestSignOut();
+        });
+      }
+    </script>
+<script type="text/javascript">
+    
+    function registerGetBlogUrls() {
+      gadgets.rpc.register('getBlogUrls', function() {
+        var holder = {};
+        
+          
+          
+          
+            holder.postFeed = "http://www.blogger.com/feeds/5380227228282952060/posts/default";
+          
+          
+          
+            holder.commentFeed = "http://www.blogger.com/feeds/5380227228282952060/comments/default";
+          
+          holder.currentBlogUrl = "http://criaturasferoces.blogspot.com/";
+          holder.currentBlogId = "5380227228282952060";
+        
+        return holder;
+      });
+    }
+  </script>
+<script type="text/javascript">
+  if (!window.registeredCommonBloggerCallbacks) {
+    window.registeredCommonBloggerCallbacks = true;
+
+    gadgets.rpc.register('resize_iframe', function(height) {
+      var el = document.getElementById(this['f']);
+      if (el) {
+        el.style.height = height + 'px';
+      }
+    });
+
+    
+    gadgets.rpc.register('set_pref', function() {});
+
+    registerGetBlogUrls();
+  }
+  </script>
+<div id="div-1cyap0i2viy6x" style="width: 100%; "></div>
+<script type="text/javascript">
+    var skin = {};
+    skin['FACE_SIZE'] = '32';
+    skin['HEIGHT'] = "260";
+    skin['TITLE'] = "Seguidores";
+    skin['BORDER_COLOR'] = "transparent";
+    skin['ENDCAP_BG_COLOR'] = "transparent";
+    skin['ENDCAP_TEXT_COLOR'] = "#cccccc";
+    skin['ENDCAP_LINK_COLOR'] = "#dd7700";
+    skin['ALTERNATE_BG_COLOR'] = "transparent";
+    
+    skin['CONTENT_BG_COLOR'] = "transparent";
+    skin['CONTENT_LINK_COLOR'] = "#dd7700";
+    skin['CONTENT_TEXT_COLOR'] = "#cccccc";
+    skin['CONTENT_SECONDARY_LINK_COLOR'] = "#dd7700";
+    skin['CONTENT_SECONDARY_TEXT_COLOR'] = "#999999";
+    skin['CONTENT_HEADLINE_COLOR'] = "#ffffff";
+    skin['FONT_FACE'] = "normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif";
+    google.friendconnect.container.setParentUrl("/");
+    google.friendconnect.container["renderMembersGadget"](
+    {id: "div-1cyap0i2viy6x",
+     height: 260,
+     
+     
+     
+     site: "10121867186660775406",
+     
+     locale: 'es' },
+     skin);
+  </script>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=Followers&widgetId=Followers1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Followers1"));' target='configFollowers1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget LinkList' id='LinkList1'>
+<h2>Categorias</h2>
+<div class='widget-content'>
+<ul>
+<li><a href='http://criaturasferoces.blogspot.com/search/label/ASTRONOMIA'>ASTRONOMIA</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/search/label/AVES'>AVES</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/search/label/MICOLOGIA'>MICOLOGIA</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/search/label/VIAJES'>VIAJES</a></li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=LinkList&widgetId=LinkList1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("LinkList1"));' target='configLinkList1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' id='BlogArchive1'>
+<h2>Archivo del blog</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>&#9660;&#160;</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/search?updated-min=2012-01-01T00:00:00%2B01:00&amp;updated-max=2013-01-01T00:00:00%2B01:00&amp;max-results=29'>2012</a>
+<span class='post-count' dir='ltr'>(29)</span>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>&#9660;&#160;</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2012_06_01_archive.html'>junio</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2012/06/colirrojo-tizon-phoenicurus-ochruros.html'>Colirrojo tizón (Phoenicurus ochruros)</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2012_05_01_archive.html'>mayo</a>
+<span class='post-count' dir='ltr'>(7)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2012/05/pinzon-vulgar-fringilla-coelebs.html'>Pinzón vulgar (Fringilla coelebs)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/05/paso-pre-nupcial-de-correlimos-comun-y.html'>Paso Pre-nupcial de limícolas en la Playa de Bañug...</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/05/pardillo-comun-carduelis-cannabina.html'>Pardillo común (Carduelis cannabina)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/05/buitron-cisticola-juncidis.html'>Buitrón (Cisticola juncidis)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/05/antromero-rasa-costera-de-gozon.html'>Curruca cebecinegra con pollos volanderos.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/05/de-vuelta-por-la-ria-de-villaviciosa.html'>De vuelta por la Ría de Villaviciosa</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/05/rana-comun.html'>Rana común</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2012_04_01_archive.html'>abril</a>
+<span class='post-count' dir='ltr'>(2)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2012/04/paxarinos.html'>Paxarinos.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/04/paseando-por-el-bosque-de-ribera.html'>Paseando por el bosque de ribera.</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2012_03_01_archive.html'>marzo</a>
+<span class='post-count' dir='ltr'>(6)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2012/03/m13-cumulo-de-hercules.html'>M13, Cúmulo de Hércules.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/03/asterismo-del-tiburon-y-la-galaxia-m104.html'>Asterismo del Tiburón y la Galaxia M104</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/03/cumulo-globular-m5.html'>Cúmulo globular, M5</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/03/supernova-en-la-galaxia-de-espiral-m95.html'>Supernova en la galaxia de espiral M95.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/03/zorzal-comun-turdus-philomelos.html'>Zorzal común (Turdus philomelos)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/03/observacion-solar.html'>Observación solar</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2012_02_01_archive.html'>febrero</a>
+<span class='post-count' dir='ltr'>(8)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2012/02/nebulosa-de-la-rosetta-caldwell-49.html'>Nebulosa de la Rosetta, Caldwell 49</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/02/comienzo-de-la-nidificacion-para-la.html'>&#191;Comienzo de la nidificación para la Tarabilla com...</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/02/espatulas-subfamilia-plataleinae.html'>Espátulas (Platalea leucorodia)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/02/blog-post.html'>Bisbita alpino (Anthus spinoletta)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/02/herrerillo-comun-parus-cyanistes.html'>Herrerillo común (Parus (Cyanistes) caeruleus)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/02/galaxias-en-la-constelacion-de-virgo.html'>Galaxias en la constelación de Virgo.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/02/mito-aegithalos-caudatus.html'>Mito (Aegithalos caudatus)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/02/invierno-escaso-de-aves.html'>Invierno escaso de aves.</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2012_01_01_archive.html'>enero</a>
+<span class='post-count' dir='ltr'>(5)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2012/01/insectivoros.html'>Insectívoros</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/01/agachadizas-en-las-charcas-del-cierron.html'>Agachadizas en las charcas del Cierrón</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/01/donde-esta-la-estrella-polar.html'>&#191;Donde esta la estrella Polar?</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/01/por-la-playa-de-banugues.html'>Por la playa de Bañugues.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2012/01/m45-las-pleyades.html'>M45, Las Pléyades</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/search?updated-min=2011-01-01T00:00:00%2B01:00&amp;updated-max=2012-01-01T00:00:00%2B01:00&amp;max-results=50'>2011</a>
+<span class='post-count' dir='ltr'>(58)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_12_01_archive.html'>diciembre</a>
+<span class='post-count' dir='ltr'>(8)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2011/12/nebulosa-de-la-roseta-ngc-2237.html'>Nebulosa de la Roseta, NGC 2237</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/12/correlimos-comun-calidris-alpina.html'>Correlimos común (Calidris alpina)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/12/archibebe-comun-tringa-totanus.html'>Archibebe común (Tringa totanus)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/12/martin-pescador-alcedo-atthis.html'>Martín Pescador (Alcedo atthis)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/12/m47cumulo-abierto-en-puppis.html'>M47,Cúmulo abierto en Puppis</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/12/hoy-26-al-atardecer-se-pudo-contemplar.html'>Conjunción Venus-Luna.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/12/archibebe-claro-tringa-nebularia.html'>Archibebe claro (Tringa nebularia)</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/12/torcecuello-jynx-torquilla-en-el.html'>Torcecuello (Jynx torquilla) en el Cierrón. Ria de...</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_11_01_archive.html'>noviembre</a>
+<span class='post-count' dir='ltr'>(4)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2011/11/entre-casiopea-y-perseo.html'>Entre Casiopea y Perseo.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/11/cumulo-abierto-m52-o-ngc-7654.html'>Cúmulo abierto M52 o NGC 7654</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/11/orion-el-cazador.html'>La constelación de Orión.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/11/paso-de-pelagicas-desde-la-punta-la.html'>Paso de pelágicas desde La Punta La Vaca. (Luanco)...</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_10_01_archive.html'>octubre</a>
+<span class='post-count' dir='ltr'>(11)</span>
+<ul class='posts'>
+<li><a href='http://criaturasferoces.blogspot.com/2011/10/m74-galaxia-del-abanico-ngc-628.html'>M74, Galaxia del Abanico, NGC 628</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/10/ic434-nebulosa-de-la-cabeza-de-caballo.html'>IC434, Nebulosa de la Cabeza de Caballo.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2010/05/m20-nebulosa-trifida.html'>M20, Nebulosa Trífida</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/10/cumulo-doble-de-perseo.html'>Cúmulo doble de Perseo</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/10/jupiter-y-sus-lunas-io-europa-ganimedes.html'>Júpiter y sus lunas. Io, Europa, Ganímedes y Calis...</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/10/albireo.html'>Albireo</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/10/la-luna-casi-llena.html'>La Luna casi llena.</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/10/cumulo-abierto-m35.html'>Cúmulo abierto M35</a></li>
+<li><a href='http://criaturasferoces.blogspot.com/2011/10/las-pleyades-m45.html'>Las Pleyades, M45</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_09_01_archive.html'>septiembre</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_06_01_archive.html'>junio</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_05_01_archive.html'>mayo</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_03_01_archive.html'>marzo</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_02_01_archive.html'>febrero</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2011_01_01_archive.html'>enero</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/search?updated-min=2010-01-01T00:00:00%2B01:00&amp;updated-max=2011-01-01T00:00:00%2B01:00&amp;max-results=50'>2010</a>
+<span class='post-count' dir='ltr'>(75)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_12_01_archive.html'>diciembre</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_11_01_archive.html'>noviembre</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_10_01_archive.html'>octubre</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_09_01_archive.html'>septiembre</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_08_01_archive.html'>agosto</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_07_01_archive.html'>julio</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_06_01_archive.html'>junio</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_05_01_archive.html'>mayo</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_04_01_archive.html'>abril</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2010_03_01_archive.html'>marzo</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/search?updated-min=2009-01-01T00:00:00%2B01:00&amp;updated-max=2010-01-01T00:00:00%2B01:00&amp;max-results=27'>2009</a>
+<span class='post-count' dir='ltr'>(27)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2009_12_01_archive.html'>diciembre</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2009_11_01_archive.html'>noviembre</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2009_09_01_archive.html'>septiembre</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2009_08_01_archive.html'>agosto</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2009_07_01_archive.html'>julio</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2009_06_01_archive.html'>junio</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2009_05_01_archive.html'>mayo</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/search?updated-min=2007-01-01T00:00:00%2B01:00&amp;updated-max=2008-01-01T00:00:00%2B01:00&amp;max-results=1'>2007</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2007_11_01_archive.html'>noviembre</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/search?updated-min=2006-01-01T00:00:00%2B01:00&amp;updated-max=2007-01-01T00:00:00%2B01:00&amp;max-results=1'>2006</a>
+<span class='post-count' dir='ltr'>(1)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+          &#9658;&#160;
+        
+</span>
+</a>
+<a class='post-count-link' href='http://criaturasferoces.blogspot.com/2006_01_01_archive.html'>enero</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' target='configBlogArchive1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Label' id='Label1'>
+<h2>Etiquetas</h2>
+<div class='widget-content cloud-label-widget-content'>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Aalsmeer'>Aalsmeer</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Agachadiza%20Com%C3%BAn'>Agachadiza Común</a>
+<span class='label-count' dir='ltr'>(4)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Agateador'>Agateador</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Aguila%20pescadora'>Aguila pescadora</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Aguilucho%20lagunero'>Aguilucho lagunero</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Agujas%20colinegras'>Agujas colinegras</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Albireo'>Albireo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Alcarav%C3%A1n'>Alcaraván</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Alcatraz%20atl%C3%A1ntico'>Alcatraz atlántico</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Aleuria%20aurantia'>Aleuria aurantia</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Amanecer'>Amanecer</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Anade%20real'>Anade real</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Andarrios%20chico'>Andarrios chico</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Antelope%20Canyon'>Antelope Canyon</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Archibebe%20claro'>Archibebe claro</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Archibebe%20com%C3%BAn'>Archibebe común</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/ARIZONA'>ARIZONA</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Artziniega'>Artziniega</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/ASTRONOMIA'>ASTRONOMIA</a>
+<span class='label-count' dir='ltr'>(66)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Atardeceres'>Atardeceres</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Avefria'>Avefria</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/AVES'>AVES</a>
+<span class='label-count' dir='ltr'>(68)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Baeza'>Baeza</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Bisbita%20alpino'>Bisbita alpino</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Bloemenveiling'>Bloemenveiling</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Boletus%20erythropus'>Boletus erythropus</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Bufones%20de%20Pria'>Bufones de Pria</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Buitr%C3%B3n'>Buitrón</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Caldwell%2049'>Caldwell 49</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/CALIFORNIA'>CALIFORNIA</a>
+<span class='label-count' dir='ltr'>(8)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cantharellus%20tubaeformis'>Cantharellus tubaeformis</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Carbayeda%20pantanosa'>Carbayeda pantanosa</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Castillo%20de%20De%20Haar'>Castillo de De Haar</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cazorla'>Cazorla</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cerceta'>Cerceta</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Charranes'>Charranes</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Choch%C3%ADn'>Chochín</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Chorlitejo%20Grande'>Chorlitejo Grande</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Colirrojo%20tiz%C3%B3n'>Colirrojo tizón</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cometa%20103%2FP%20Hartley'>Cometa 103/P Hartley</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cometa%20C%2F2009%20P1%20Garradd'>Cometa C/2009 P1 Garradd</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cometa%20Wild%2081P'>Cometa Wild 81P</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Conjuncion'>Conjuncion</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Correlimos%20com%C3%BAn'>Correlimos común</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Correlimos%20trid%C3%A1ctilo'>Correlimos tridáctilo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Corza'>Corza</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cumulo%20de%20Hercules'>Cumulo de Hercules</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cumulo%20de%20la%20Mariposa'>Cumulo de la Mariposa</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Cumulo%20doble%20de%20Perseo'>Cumulo doble de Perseo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Curruca%20cabecinegra'>Curruca cabecinegra</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/C%C3%BAmulo%20de%20Brocchi'>Cúmulo de Brocchi</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/C%C3%BAmulo%20de%20E.T.'>Cúmulo de E.T.</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/C%C3%BAmulo%20del%20B%C3%BAho'>Cúmulo del Búho</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/C%C3%BAmulo%20Doble%20de%20Perseo'>Cúmulo Doble de Perseo</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Delf'>Delf</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Desierto%20de%20Mojave'>Desierto de Mojave</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Donibane%20Lohizune'>Donibane Lohizune</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Downtown'>Downtown</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Dubrovnik'>Dubrovnik</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Efeso'>Efeso</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/El%20Cairo'>El Cairo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Espatula%20com%C3%BAn'>Espatula común</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Faro%20de%20Lluces'>Faro de Lluces</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Galaxia%20de%20Andromeda'>Galaxia de Andromeda</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Galaxia%20del%20Molinete'>Galaxia del Molinete</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Galaxia%20del%20Remolino'>Galaxia del Remolino</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Galaxia%20del%20sombrero'>Galaxia del sombrero</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Galaxia%20del%20Triangulo'>Galaxia del Triangulo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Galaxias'>Galaxias</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Garceta%20com%C3%BAn'>Garceta común</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Gij%C3%B3n'>Gijón</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Golondrina%20com%C3%BAn'>Golondrina común</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/gorrion%20com%C3%BAn'>gorrion común</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Gouda'>Gouda</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Gran%20Ca%C3%B1%C3%B3n'>Gran Cañón</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Grecia'>Grecia</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Griffith%20Observatory'>Griffith Observatory</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/HAIGHT%20ASHBURY'>HAIGHT ASHBURY</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Herrerillo%20comun.%20AVES'>Herrerillo comun. AVES</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Herrerillo%20com%C3%BAn'>Herrerillo común</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Hertogenbosch'>Hertogenbosch</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Holanda'>Holanda</a>
+<span class='label-count' dir='ltr'>(14)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/IC%20434'>IC 434</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Inglaterra'>Inglaterra</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Insect%C3%ADvoras'>Insectívoras</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Isla%20de%20Thira'>Isla de Thira</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/JAEN'>JAEN</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Ja%C3%A9n'>Jaén</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Jilguero'>Jilguero</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Jupiter'>Jupiter</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Jynx%20torquilla'>Jynx torquilla</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Keunkenhof'>Keunkenhof</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Kinderdijk'>Kinderdijk</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/La%20Luna%22'>La Luna"</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/La%20Percha'>La Percha</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Las%20Pleyades'>Las Pleyades</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Lavandera%20cascade%C3%B1a'>Lavandera cascadeña</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Leccinum%20crocipodium'>Leccinum crocipodium</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Leiden'>Leiden</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Limicolas'>Limicolas</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Llanes'>Llanes</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Los%20Angeles'>Los Angeles</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Luci%C3%B3n'>Lución</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Luna'>Luna</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M1'>M1</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M101'>M101</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M104'>M104</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M13'>M13</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M16'>M16</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M20'>M20</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M22'>M22</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M27'>M27</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M31'>M31</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M33'>M33</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M35'>M35</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M38'>M38</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M39'>M39</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M41'>M41</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M42'>M42</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M45'>M45</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M47'>M47</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M5'>M5</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M51'>M51</a>
+<span class='label-count' dir='ltr'>(4)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M52'>M52</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M57'>M57</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M6'>M6</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M67'>M67</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M74'>M74</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M8'>M8</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M81'>M81</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M82'>M82</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/M95'>M95</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Mariposas'>Mariposas</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Martin%20Pescador'>Martin Pescador</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Mendieta'>Mendieta</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Mercurio'>Mercurio</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-3'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/MICOLOGIA'>MICOLOGIA</a>
+<span class='label-count' dir='ltr'>(5)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Mito'>Mito</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Mosquitero'>Mosquitero</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Mycena%20clavicularis'>Mycena clavicularis</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20Anular%20de%20Lira'>Nebulosa Anular de Lira</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20cabeza%20de%20caballo'>Nebulosa cabeza de caballo</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20de%20Dumbell'>Nebulosa de Dumbell</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20de%20la%20Laguna'>Nebulosa de la Laguna</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20de%20la%20Roseta'>Nebulosa de la Roseta</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20de%20Orion'>Nebulosa de Orion</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20del%20Aguila'>Nebulosa del Aguila</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20del%20cangrejo'>Nebulosa del cangrejo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20del%20Velo'>Nebulosa del Velo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20Rosetta'>Nebulosa Rosetta</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nebulosa%20Tr%C3%ADfida'>Nebulosa Trífida</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/NGC%201907'>NGC 1907</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/NGC%202237'>NGC 2237</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/NGC%20547'>NGC 547</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/NGC%20628'>NGC 628</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/NGC%206633'>NGC 6633</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/NGC%206992'>NGC 6992</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/NGC3077'>NGC3077</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/NGC6656'>NGC6656</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Nigmejen'>Nigmejen</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-4'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/OBJETOS%20MESSIER'>OBJETOS MESSIER</a>
+<span class='label-count' dir='ltr'>(17)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Observatorio%20Lowell'>Observatorio Lowell</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Ori%C3%B3n'>Orión</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Oudewater'>Oudewater</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Oxford'>Oxford</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Pardillo%20com%C3%BAn'>Pardillo común</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Pato%20colorado'>Pato colorado</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Pato%20cuchara'>Pato cuchara</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Pavo%20real'>Pavo real</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Petirojo'>Petirojo</a>
+<span class='label-count' dir='ltr'>(3)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Petirrojo'>Petirrojo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Peziza%20anaranjada'>Peziza anaranjada</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Pinwheel%20Galaxy'>Pinwheel Galaxy</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Pinz%C3%B3n'>Pinzón</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Pinz%C3%B3n%20vulgar'>Pinzón vulgar</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Platalea%20leucorodia'>Platalea leucorodia</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/polla%20de%20agua'>polla de agua</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/P%C3%A1galo%20grande'>Págalo grande</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Quitar%20contaminaci%C3%B3n%20lum%C3%ADnica%20de%20una%20foto'>Quitar contaminación lumínica de una foto</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Rana%20bermeja'>Rana bermeja</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Rana%20com%C3%BAn'>Rana común</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Ratonero%20com%C3%BAn'>Ratonero común</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/REPTILES'>REPTILES</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Rodas'>Rodas</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/ROUTE%2066'>ROUTE 66</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/SAN%20FRANCISCO'>SAN FRANCISCO</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/San%20Ju%C3%A1n%20de%20Luz'>San Juán de Luz</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Santorini'>Santorini</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/saturno'>saturno</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Sol'>Sol</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Somormujo%20lavanco'>Somormujo lavanco</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Supernova'>Supernova</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Tarabilla%20comun'>Tarabilla comun</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Tarro%20blanco'>Tarro blanco</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Torcecuello'>Torcecuello</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Tortola%20turca'>Tortola turca</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Turquia'>Turquia</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Utrecht'>Utrecht</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Vaught%20SS%20Kamp'>Vaught SS Kamp</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Venezia'>Venezia</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Venice%20Beach'>Venice Beach</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Venus'>Venus</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Verdecillo'>Verdecillo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Verder%C3%B3n%20com%C3%BAn'>Verderón común</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-5'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/VIAJES'>VIAJES</a>
+<span class='label-count' dir='ltr'>(42)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Villaviciosa'>Villaviciosa</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Virgo'>Virgo</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Yosemite'>Yosemite</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-1'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Zampullin%20chico'>Zampullin chico</a>
+<span class='label-count' dir='ltr'>(1)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/Zorzal%20com%C3%BAn'>Zorzal común</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<span class='label-size label-size-2'>
+<a dir='ltr' href='http://criaturasferoces.blogspot.com/search/label/%C3%81lava'>Álava</a>
+<span class='label-count' dir='ltr'>(2)</span>
+</span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' target='configLabel1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget PopularPosts' id='PopularPosts1'>
+<h2>Entradas populares</h2>
+<div class='widget-content popular-posts'>
+<ul>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2010/11/blog-post_8799.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://2.bp.blogspot.com/_yetxH9i7XSI/TNWcu9YblYI/AAAAAAAACYY/2MdaiwkbGTo/s72-c/DSC_0259.JPG' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2010/11/blog-post_8799.html'>Delf, Holanda</a></div>
+<div class='item-snippet'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2011/01/pinzon-vulgar-fringilla-coelebs.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://4.bp.blogspot.com/_yetxH9i7XSI/TTL3HIfvniI/AAAAAAAACuI/QkcsamRNY4Q/s72-c/pinzon_vulgar_15ene2011.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2011/01/pinzon-vulgar-fringilla-coelebs.html'>Pinzón vulgar (Fringilla coelebs)</a></div>
+<div class='item-snippet'> Durante estos días se están viendo gran número de pinzones vulgares, procedentes del norte de Europa. Los ejemplares juveniles, como este d...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2010/05/blog-post.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/_yetxH9i7XSI/S_xAb_OlBnI/AAAAAAAAB58/9TjFUeCgSq0/s72-c/M16_MAX_00.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2010/05/blog-post.html'>M16, La Nebulosa del Aguila</a></div>
+<div class='item-snippet'>La Nebulosa del Aguila se encuentra en la constelación de Serpents.  Se aprecia el cúmulo abierto que esta asociado&#160;con la&#160;nebulosa IC 4703....</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2011/12/torcecuello-jynx-torquilla-en-el.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://4.bp.blogspot.com/-L6MJH4dZDX8/TujyocJom3I/AAAAAAAADI4/HST-hyI2KQQ/s72-c/Torcecuello+%25281%2529+%255B800x600%255D.JPG' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2011/12/torcecuello-jynx-torquilla-en-el.html'>Torcecuello (Jynx torquilla) en el Cierrón. Ria de Villaviciosa</a></div>
+<div class='item-snippet'>El Domingo 11 de diciembre vi un torcecuello en el Cierrón, Ría de Villaviciosa. Según me comenta Fran Nieto es una cita de interés ya que n...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2011/02/saturno-el-dia-4-de-febrero-desde-gijon.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://2.bp.blogspot.com/_yetxH9i7XSI/TVLjQQMhRrI/AAAAAAAACvw/L0Cba6WagU0/s72-c/saturno_4_feb_2011.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2011/02/saturno-el-dia-4-de-febrero-desde-gijon.html'>Saturno el día 4 de febrero desde Gijón.</a></div>
+<div class='item-snippet'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2010/11/blog-post.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://2.bp.blogspot.com/_yetxH9i7XSI/TNV-TvY4E_I/AAAAAAAACVo/VSikX3SCQds/s72-c/Rodas_00.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2010/11/blog-post.html'>Rodas, Grecia</a></div>
+<div class='item-snippet'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2010/04/m67-king-cobra-cluster.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://1.bp.blogspot.com/_yetxH9i7XSI/S8zBIKt-fHI/AAAAAAAABxU/OLgA1uMerSo/s72-c/M67_KING+COBRA_000_10_04_2010.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2010/04/m67-king-cobra-cluster.html'>M67, King Cobra Cluster.</a></div>
+<div class='item-snippet'>  M67 es un cúmulo abierto situado en la constelación de Cáncer.  Descubierto por Johann Gottfried Koehler en una fecha anterior a 1779, es ...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2010/11/bufones-de-pria-llanes.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://4.bp.blogspot.com/_yetxH9i7XSI/TNxD-k0H3fI/AAAAAAAACkc/sWg-hcpr7bU/s72-c/DSC_0006.JPG' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2010/11/bufones-de-pria-llanes.html'>Bufones de Pria, Llanes, Temporal del 10 de Noviembre de 2010</a></div>
+<div class='item-snippet'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2011/01/cumulo-abierto-m41-en-canis-major.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://4.bp.blogspot.com/_yetxH9i7XSI/TTYSvwEZPuI/AAAAAAAACvI/Vx9919Bv940/s72-c/M41_800x600.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2011/01/cumulo-abierto-m41-en-canis-major.html'>Cúmulo abierto M41 en Canis Major.</a></div>
+<div class='item-snippet'>A unos 4º al sur de Sirio, en la constelación del Can Mayor, se encuentra este maravilloso cúmulo abierto que contiene unas 100 estrellas. E...</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://criaturasferoces.blogspot.com/2010/12/jilgueros-en-el-parque-fluvial-del.html' target='_blank'>
+<img alt='' border='0' height='72' src='http://1.bp.blogspot.com/_yetxH9i7XSI/TQ53dkNxywI/AAAAAAAACo8/XF2WSZDc1qk/s72-c/Jilguero_01.jpg' width='72'/>
+</a>
+</div>
+<div class='item-title'><a href='http://criaturasferoces.blogspot.com/2010/12/jilgueros-en-el-parque-fluvial-del.html'>Jilgueros en el Parque Fluvial del Piles, Gijón.</a></div>
+<div class='item-snippet'>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("PopularPosts1"));' target='configPopularPosts1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget Stats' id='Stats1'>
+<h2>Páginas vistas en total</h2>
+<div class='widget-content'>
+<div id='Stats1_content' style='display: none;'>
+<img alt='Sparkline' height='30' id='Stats1_sparkline' width='75'/>
+<span class='counter-wrapper text-counter-wrapper' id='Stats1_totalCount'></span>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=Stats&widgetId=Stats1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("Stats1"));' target='configStats1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div><div class='widget BlogList' id='BlogList1'>
+<h2 class='title'>Mi lista de blogs</h2>
+<div class='widget-content'>
+<div class='blog-list-container' id='BlogList1_container'>
+<ul id='BlogList1_blogs'>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://mitallemdrumunddran.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://mitallemdrumunddran.blogspot.com/' target='_blank'>
+mit allem Drum und Dran</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://mitallemdrumunddran.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/-_q_IGptoXvI/T-so9lQG2fI/AAAAAAAABJI/Ndu7PhhYu4w/s72-c/9+(13).JPG' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://mitallemdrumunddran.blogspot.com/2012/07/almadraba-un-infierno-bajo-el-agua.html' target='_blank'>
+Almadraba, un infierno bajo el agua.</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+
+
+
+A finales del mes de abril cuando llega el momento del desove, los atunes 
+rojos del Atlántico migran formando grandes bancos hasta el Mediterráneo 
+para...
+</span>
+<div class='item-time'>
+Hace 2 horas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://riadelavilla.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://riadelavilla.blogspot.com/' target='_blank'>
+RÍA DE LA VILLA</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://riadelavilla.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://2.bp.blogspot.com/-nXK9RdIua3k/T_DHyci4LvI/AAAAAAAAI18/tF7upjiuXlQ/s72-c/IMGP2053.jpg' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://riadelavilla.blogspot.com/2012/07/la-familia-bien-gracias.html' target='_blank'>
+La familia, bien, gracias</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+La feliz pareja de Cigüeñuelas comunes (*Himantopus himantopus, Cigoñina*) 
+que primero se estableció en las charcas del entorno de El Cierrón, está 
+sacand...
+</span>
+<div class='item-time'>
+Hace 9 horas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://naturalezacantabrica.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://naturalezacantabrica.blogspot.com/' target='_blank'>
+Naturaleza Cantábrica</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://naturalezacantabrica.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/-T8dLChDmoBk/T-rROIOEv0I/AAAAAAAAFfM/HmucMTxbImA/s72-c/ara%C3%B1abodega.jpg' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://naturalezacantabrica.blogspot.com/2012/06/el-guardian-de-la-puerta.html' target='_blank'>
+El guardián de la puerta</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+*Meta* sp.
+
+Hay pocos animales que produzcan tanta repulsión e incluso tanto miedo como 
+las arañas, aunque la gran mayoría son inofensivas para el ser huma...
+</span>
+<div class='item-time'>
+Hace 2 días
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://avesyestrellas.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://avesyestrellas.blogspot.com/' target='_blank'>
+AVES Y ESTRELLAS</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://avesyestrellas.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/-YqoWM7c5QeE/T-zAUJx7qAI/AAAAAAAABtg/sC2owocjGU0/s72-c/IMG_6291.JPG' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://avesyestrellas.blogspot.com/2012/06/carronada-en-quintanilla-del-agua.html' target='_blank'>
+Carroñada en Quintanilla del Agua</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+
+El fin de semana pasado estuvimos en Quintanilla del Agua invitados por 
+nuestros amigos Lolo, Darío, Isra y Ángel. La intención era vernos y de 
+paso sali...
+</span>
+<div class='item-time'>
+Hace 3 días
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://isoper.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://isoper.blogspot.com/' target='_blank'>
+Salidas fotográficas</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://isoper.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://1.bp.blogspot.com/-wE00Pw2_fuM/T-vj506Co5I/AAAAAAAAGRo/qK_2v_Np3OA/s72-c/DSC_2775-lirones.jpg' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://isoper.blogspot.com/2012/06/confirmado.html' target='_blank'>
+Confirmado.</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+Esta primavera hizo 23 años que nos hicimos con la cabaña. En aquellos 
+meses primaverales de 1989, tocaba prepararla para hacerla un poco 
+habitable. Cuand...
+</span>
+<div class='item-time'>
+Hace 4 días
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://elnidodelxuan.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://elnidodelxuan.blogspot.com/' target='_blank'>
+EL ÑERU DEL XUAN</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://elnidodelxuan.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/-IoAsPXD-_3Y/T9pfhhvzwjI/AAAAAAAADb0/7rlSIccCGfI/s72-c/_JVS8200.JPG' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://elnidodelxuan.blogspot.com/2012/06/hola-amigos-y-amigas-amantes-del.html' target='_blank'>
+EL CAMACHUELO COMÚN.(Pyrrhula pyrrhula)</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+*Hola amigos y amigas amantes del alpiste!!*
+Después de hablar un poco el otro día de las Urracas o "*Pegas*", odiadas 
+por muchos y admiradas por unos pocos...
+</span>
+<div class='item-time'>
+Hace 2 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://elobservatoriu.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://elobservatoriu.blogspot.com/' target='_blank'>
+L'Observatoriu blog</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://elobservatoriu.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/-ozIrXCDZ05o/T9NkyGppswI/AAAAAAAAHMc/IZhehBHJnTk/s72-c/cl+cg.gif' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://elobservatoriu.blogspot.com/2012/06/supernova-2012cg-en-la-galaxia-ngc-4424.html' target='_blank'>
+Supernova 2012cg en la galaxia NGC 4424</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+ 
+Esta supernova en la galaxia NGC 4424 descubierta el 15 de Mayo 2012 desde 
+el observatorio Lickdel tipo denominado Ia, esta localizada cerca del 
+núcleo d...
+</span>
+<div class='item-time'>
+Hace 3 semanas
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://zonaosera.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://zonaosera.blogspot.com/' target='_blank'>
+Zona Osera</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://zonaosera.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/-TmaP45mBAjE/T7TiH_19TrI/AAAAAAAACDk/FGEfgvbDYuA/s72-c/cenizabien.jpg' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://feedproxy.google.com/~r/ZonaOsera/~3/Hb_UCWCAWdc/aguiluchos-cenizos.html' target='_blank'>
+Aguiluchos cenizos</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+Si observando zonas abiertas de la montaña o de los llanos véis una rapaz 
+de grandes alas que planea como si fuese una cometa con sus ojos clavados 
+continu...
+</span>
+<div class='item-time'>
+Hace 1 mes.
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+<li style='display: block;'>
+<div class='blog-icon'>
+<input type='hidden' value='http://avesporgijon.blogspot.com/favicon.ico'/>
+</div>
+<div class='blog-content'>
+<div class='blog-title'>
+<a href='http://avesporgijon.blogspot.com/' target='_blank'>
+Aves en Gijón</a>
+</div>
+<div class='item-content'>
+<div class='item-thumbnail'>
+<a href='http://avesporgijon.blogspot.com/' target='_blank'>
+<img alt='' border='0' height='72' src='http://3.bp.blogspot.com/_aFbgSuVJGXE/TBXsCW8em8I/AAAAAAAABmo/NdAEBNfUFdk/s72-c/_MG_3202.jpg' width='72'/>
+</a>
+</div>
+<span class='item-title'>
+<a href='http://avesporgijon.blogspot.com/2010/06/parque-fluvial-del-piles-y-embalse-de.html' target='_blank'>
+Parque Fluvial del Piles y embalse de San Andrés de los Tacones. Sapillo pintojo ibérico.</a>
+</span>
+
+                      -
+                    
+<span class='item-snippet'>
+
+El diario gijonés "El Comercio" en su edición del día siete de junio trae 
+la noticia de la inauguración del Parque Fluvial del Piles. Es una de las 
+zonas ...
+</span>
+<div class='item-time'>
+Hace 2 años
+</div>
+</div>
+</div>
+<div style='clear: both;'></div>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=BlogList&widgetId=BlogList1&action=editWidget&sectionId=sidebar-right-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogList1"));' target='configBlogList1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3'><div class='widget Attribution' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Plantilla Simple. Con la tecnología de <a href='http://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='http://www.blogger.com/rearrange?blogID=5380227228282952060&widgetType=Attribution&widgetId=Attribution1&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("Attribution1"));' target='configAttribution1' title='Editar'>
+<img alt='' height='18' src='http://img1.blogblog.com/img/icon18_wrench_allbkg.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<script type="text/javascript">
+if (window.jstiming) window.jstiming.load.tick('widgetJsBefore');
+</script><script type="text/javascript" src="http://www.blogger.com/static/v1/widgets/295479852-widgets.js"></script>
+<script type="text/javascript" src="//www.google.com/jsapi"></script>
+<script type='text/javascript'>
+if (typeof(BLOG_attachCsiOnload) != 'undefined' && BLOG_attachCsiOnload != null) { window['blogger_templates_experiment_id'] = "templatesV2";window['blogger_blog_id'] = '5380227228282952060';BLOG_attachCsiOnload(''); }_WidgetManager._Init('http://www.blogger.com/rearrange?blogID\x3d5380227228282952060','http://criaturasferoces.blogspot.com/','5380227228282952060');
+_WidgetManager._SetPageActionUrl('http://www.blogger.com/display?blogID\x3d5380227228282952060','APq4FmDDfbr6kCWXkkioJqrW8Rts4TJbQjFLjZqIyGnHCLB6ihevoUAOpbZi08ill0IIr79AObFpltFBjatyqsnsSM3siOVXXlLIGaC3HKQBJ33md0_JcnE\x3d','AOuZoY4Veh-KMR4oZHhGn0fWPHzcoSX7LQ:1341214997765');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '5380227228282952060', 'bloggerUrl': 'http://www.blogger.com', 'title': 'Criaturas Feroces', 'pageType': 'index', 'url': 'http://criaturasferoces.blogspot.com/', 'canonicalUrl': 'http://criaturasferoces.blogspot.com/', 'canonicalHomepageUrl': 'http://criaturasferoces.blogspot.com/', 'homepageUrl': 'http://criaturasferoces.blogspot.com/', 'blogspotFaviconUrl': 'http://criaturasferoces.blogspot.com/favicon.ico', 'enabledCommentProfileImages': true, 'adultContent': false, 'analyticsAccountNumber': '', 'searchLabel': '', 'searchQuery': '', 'pageName': '', 'pageTitle': 'Criaturas Feroces', 'encoding': 'UTF-8', 'locale': 'es', 'isPrivate': false, 'isMobile': false, 'mobileClass': '', 'isPrivateBlog': false, 'languageDirection': 'ltr', 'feedLinks': '\74link rel\75\42alternate\42 type\75\42application/atom+xml\42 title\75\42Criaturas Feroces - Atom\42 href\75\42http://criaturasferoces.blogspot.com/feeds/posts/default\42 /\76\n\74link rel\75\42alternate\42 type\75\42application/rss+xml\42 title\75\42Criaturas Feroces - RSS\42 href\75\42http://criaturasferoces.blogspot.com/feeds/posts/default?alt\75rss\42 /\76\n\74link rel\75\42service.post\42 type\75\42application/atom+xml\42 title\75\42Criaturas Feroces - Atom\42 href\75\42http://www.blogger.com/feeds/5380227228282952060/posts/default\42 /\76\n\74link rel\75\42EditURI\42 type\75\42application/rsd+xml\42 title\75\42RSD\42 href\75\42http://www.blogger.com/rsd.g?blogID\0755380227228282952060\42 /\076', 'meTag': '\74link rel\75\42me\42 href\75\42http://www.blogger.com/profile/18431685413365683782\42 /\76\n', 'openIdOpTag': '\74link rel\75\42openid.server\42 href\75\42http://www.blogger.com/openid-server.g\42 /\76\n\74link rel\75\42openid.delegate\42 href\75\42http://criaturasferoces.blogspot.com/\42 /\76\n', 'imageSrcTag': '', 'latencyHeadScript': '\74script type\75\42text/javascript\42\76(function() { var a\75window,c\75\42jstiming\42,d\75\42tick\42;var e\75function(b){this.t\75{};this.tick\75function(b,o,f){f\75void 0!\75f?f:(new Date).getTime();this.t[b]\75[f,o]};this[d](\42start\42,null,b)},h\75new e;a.jstiming\75{Timer:e,load:h};if(a.performance\46\46a.performance.timing){var i\75a.performance.timing,j\75a[c].load,k\75i.navigationStart,l\75i.responseStart;0\74k\46\46l\76\75k\46\46(j[d](\42_wtsrt\42,void 0,k),j[d](\42wtsrt_\42,\42_wtsrt\42,l))}\ntry{var m\75null;a.chrome\46\46a.chrome.csi\46\46(m\75Math.floor(a.chrome.csi().pageT));null\75\75m\46\46a.gtbExternal\46\46(m\75a.gtbExternal.pageT());null\75\75m\46\46a.external\46\46(m\75a.external.pageT);m\46\46(a[c].pt\75m)}catch(n){};a.tickAboveFold\75function(b){var g\0750;if(b.offsetParent){do g+\75b.offsetTop;while(b\75b.offsetParent)}b\75g;750\76\75b\46\46a[c].load[d](\42aft\42)};var p\75!1;function q(){p||(p\75!0,a[c].load[d](\42firstScrollTime\42))}a.addEventListener?a.addEventListener(\42scroll\42,q,!1):a.attachEvent(\42onscroll\42,q);\n })();\74/script\076', 'mobileHeadScript': '', 'ieCssRetrofitLinks': '\74!--[if IE]\76\74script type\75\42text/javascript\42 src\75\42http://www.blogger.com/static/v1/jsbin/2558391684-ieretrofit.js\42\76\74/script\76\n\74![endif]--\076', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/fd3d7a59ef034be3'}}, {'name': 'skin', 'data': {'vars': {'content_padding': '10px', 'paging_background': 'transparent none no-repeat scroll top center', 'image_border_small_size': '0', 'body_background_gradient_cap': 'none', 'tabs_selected_background_color': '#000000', 'body_rule_color': '#404040', 'header_shadow_spread': '1px', 'header_shadow_offset_left': '-1px', 'header_padding': '30px', 'link_visited_color': '#cc6600', 'mobile_background_size': 'auto', 'post_title_font': 'normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'tabs_text_color': '#999999', 'date_header_margin': 'inherit', 'header_background_gradient': 'none', 'content_shadow_spread_webkit': '5px', 'header_bottom_border_size': '1px', 'header_shadow_offset_top': '-1px', 'mobile_button_color': '#ffffff', 'widget_title_font': 'normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'main_section_margin': '15px', 'keycolor': '#dd7700', 'content_shadow_spread': '40px', 'image_background_color': '#111111', 'header_font': 'normal normal 40px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'header_background_color': 'transparent', 'main_border_width': '0', 'main_padding': '15px', 'tabs_border_color': '#404040', 'image_text_color': '#cccccc', 'description_text_size': '140%', 'post_footer_background_color': '#303030', 'body_background_gradient_tile': 'none', 'page_width': 'auto', 'tabs_background_gradient': 'none', 'mobile_background_overlay': 'transparent none repeat scroll top left', 'main_padding_bottom': '30px', 'tabs_background_color': '#222222', 'image_border_large_size': '1px', 'post_margin_bottom': '25px', 'body_background_override': '', 'tabs_margin_side': '30px', 'link_hover_color': '#cc6600', 'description_text_color': '#ffffff', 'body_text_color': '#cccccc', 'content_padding_horizontal': '10px', 'endSide': 'right', 'page_width_selector': '.region-inner', 'date_header_padding': 'inherit', 'post_footer_text_color': '#888888', 'startSide': 'left', 'date_header_color': '#cccccc', 'tabs_font': 'normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'post_footer_border_color': '#444444', 'body_font': 'normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif', 'footer_bevel': '0', 'tabs_bevel_border_width': '0', 'date_header_background_color': 'transparent', 'content_shadow_spread_ie': '10px', 'widget_title_text_color': '#ffffff', 'header_border_horizontalsize': '0', 'image_border_color': '#111111', 'tabs_border_width': '1px', 'content_background_color': '#333333', 'link_color': '#dd7700', 'header_text_color': '#ffffff', 'date_header_letterspacing': 'inherit', 'tabs_margin_top': '0', 'main_padding_top': '30px', 'header_border_size': '1px', 'tabs_selected_text_color': '#ffffff', 'content_background_color_selector': '.content-inner', 'body_background_color': '#292929', 'widget_alternate_text_color': '#999999'}, 'override': ''}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '/?view\75classic'}, 'flipcard': {'name': 'flipcard', 'url': '/?view\75flipcard'}, 'magazine': {'name': 'magazine', 'url': '/?view\75magazine'}, 'mosaic': {'name': 'mosaic', 'url': '/?view\75mosaic'}, 'sidebar': {'name': 'sidebar', 'url': '/?view\75sidebar'}, 'snapshot': {'name': 'snapshot', 'url': '/?view\75snapshot'}, 'timeslide': {'name': 'timeslide', 'url': '/?view\75timeslide'}}}]);
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', null, document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_CustomSearchView', new _WidgetInfo('CustomSearch1', 'sidebar-right-1', null, document.getElementById('CustomSearch1'), {'title': 'Buscar en el blog', 'includeBlog': true, 'includePostLinks': true, 'includeWeb': true, 'linkLists': [], 'blogUrl': 'http://criaturasferoces.blogspot.com/', 'loadingMsg': 'Cargando...', 'thisBlogMsg': 'Este blog', 'linkedFromHereMsg': 'Acceso desde aquí', 'theWebMsg': 'Internet', 'backgroundColor': '#333333', 'textColor': '#cccccc', 'dateColor': '#ffffff', 'linkColor': '#dd7700', 'urlColor': '#dd7700', 'visitedLinkColor': '#cc6600', 'borderColor': '#404040', 'activeBorderColor': '#404040'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowByEmailView', new _WidgetInfo('FollowByEmail1', 'sidebar-right-1', null, document.getElementById('FollowByEmail1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar-right-1', null, document.getElementById('Followers1'), {'title': 'Seguidores', 'codeSnippet': '\74script type\75\42text/javascript\42\76\n        if (!window.google || !google.friendconnect) {\n          document.write(\47\74script type\75\42text/javascript\42\47 +\n              \47src\75\42http://www.google.com/friendconnect/script/friendconnect.js\42\76\47 +\n              \47\74/scr\47 + \47ipt\76\47);\n        }\n      \74/script\76\n\74script type\75\42text/javascript\42\76\n      if (!window.registeredBloggerCallbacks) {\n        window.registeredBloggerCallbacks \75 true;\n\n        \n\n        \n        gadgets.rpc.register(\47requestReload\47, function() {\n          document.location.reload();\n        });\n\n        \n        gadgets.rpc.register(\47requestSignOut\47, function(siteId) {\n          \n          google.friendconnect.container.openSocialSiteId \75 siteId;\n          google.friendconnect.requestSignOut();\n        });\n      }\n    \74/script\76\n\74script type\75\42text/javascript\42\76\n    \n    function registerGetBlogUrls() {\n      gadgets.rpc.register(\47getBlogUrls\47, function() {\n        var holder \75 {};\n        \n          \n          \n          \n            holder.postFeed \75 \42http://www.blogger.com/feeds/5380227228282952060/posts/default\42;\n          \n          \n          \n            holder.commentFeed \75 \42http://www.blogger.com/feeds/5380227228282952060/comments/default\42;\n          \n          holder.currentBlogUrl \75 \42http://criaturasferoces.blogspot.com/\42;\n          holder.currentBlogId \75 \0425380227228282952060\42;\n        \n        return holder;\n      });\n    }\n  \74/script\76\n\74script type\75\42text/javascript\42\76\n  if (!window.registeredCommonBloggerCallbacks) {\n    window.registeredCommonBloggerCallbacks \75 true;\n\n    gadgets.rpc.register(\47resize_iframe\47, function(height) {\n      var el \75 document.getElementById(this[\47f\47]);\n      if (el) {\n        el.style.height \75 height + \47px\47;\n      }\n    });\n\n    \n    gadgets.rpc.register(\47set_pref\47, function() {});\n\n    registerGetBlogUrls();\n  }\n  \74/script\76\n\74div id\75\42div-18f7tf9ywdgtk\42 style\75\42width: 100%; \42\76\74/div\76\n\74script type\75\42text/javascript\42\76\n    var skin \75 {};\n    skin[\47FACE_SIZE\47] \75 \04732\47;\n    skin[\47HEIGHT\47] \75 \042260\42;\n    skin[\47TITLE\47] \75 \42Seguidores\42;\n    skin[\47BORDER_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47ENDCAP_TEXT_COLOR\47] \75 \42#cccccc\42;\n    skin[\47ENDCAP_LINK_COLOR\47] \75 \42#dd7700\42;\n    skin[\47ALTERNATE_BG_COLOR\47] \75 \42transparent\42;\n    \n    skin[\47CONTENT_BG_COLOR\47] \75 \42transparent\42;\n    skin[\47CONTENT_LINK_COLOR\47] \75 \42#dd7700\42;\n    skin[\47CONTENT_TEXT_COLOR\47] \75 \42#cccccc\42;\n    skin[\47CONTENT_SECONDARY_LINK_COLOR\47] \75 \42#dd7700\42;\n    skin[\47CONTENT_SECONDARY_TEXT_COLOR\47] \75 \42#999999\42;\n    skin[\47CONTENT_HEADLINE_COLOR\47] \75 \42#ffffff\42;\n    skin[\47FONT_FACE\47] \75 \42normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif\42;\n    google.friendconnect.container.setParentUrl(\42/\42);\n    google.friendconnect.container[\42renderMembersGadget\42](\n    {id: \42div-18f7tf9ywdgtk\42,\n     height: 260,\n     \n     \n     \n     site: \04210121867186660775406\42,\n     \n     locale: \47es\47 },\n     skin);\n  \74/script\076'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar-right-1', null, document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', null, document.getElementById('BlogArchive1'), {'languageDirection': 'ltr'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar-right-1', null, document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar-right-1', null, document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'sidebar-right-1', null, document.getElementById('Stats1'), {'title': 'Páginas vistas en total', 'showGraphicalCounter': false, 'showAnimatedCounter': false, 'showSparkline': true, 'statsUrl': 'http://criaturasferoces.blogspot.com/b/stats?style\75BLACK_TRANSPARENT\46timeRange\75ALL_TIME\46token\75BzFcSDgBAAA.NZ5cvJDuYekjPApv-iPd1RXf8wdAAegzsFiYPV82NDY.ciAdbtyuEEQW4ao-QF2k8A'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogListView', new _WidgetInfo('BlogList1', 'sidebar-right-1', null, document.getElementById('BlogList1'), {'numItemsToShow': 0, 'totalItems': 9}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', null, document.getElementById('Attribution1'), {'attribution': 'Plantilla Simple. Con la tecnología de \74a href\75\47http://www.blogger.com\47 target\75\47_blank\47\76Blogger\74/a\76.'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', null, document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', null, document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', null, document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'http://www.blogger.com/static/v1/jsbin/268167200-lbx_es.js', 'lightboxCssUrl': 'http://www.blogger.com/static/v1/v-css/228702327-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'null', null, document.getElementById('PageList1'), {'title': 'Páginas', 'links': [{'href': 'http://criaturasferoces.blogspot.com/', 'title': 'Página principal', 'isCurrentPage': true}], 'mobile': false}, 'displayModeFull'));
+</script>
+</body>
+</html>

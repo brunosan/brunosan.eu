@@ -1,0 +1,1352 @@
+<!DOCTYPE html>
+<html xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cc="http://creativecommons.org/ns#" lang="en-us">
+<head>
+
+	<title>Welcome home Ms. MacBook Air. | Flickr - Photo Sharing!</title>
+
+	<script data-script-purpose="page_timing">
+	 var farm_timing = {}; farm_timing.page_start = new Date().getTime();
+	</script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="viaemail, brunosan">	<meta name="description" content="Designed in California. Made in China, went to Alaska, to New Jersey, to Washington, to home.">
+	<meta http-equiv="imagetoolbar" content="no">
+	<link href="/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+	<meta name="title" content="Welcome home Ms. MacBook Air.">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=9"> 
+
+		<meta name="medium" content="image">
+	<link rel="image_src" href="http://farm6.staticflickr.com/5290/5238337232_4bae72e415_m.jpg" id="image-src">
+			<link id="canonicalurl" rel="canonical" href="http://www.flickr.com/photos/nasonurb/5238337232/">
+			<link id="shorturl" rev="canonical" type="text/html" href="http://flic.kr/p/8YTRab">
+	
+			<meta property="fb:app_id" content="137206539707334" />
+			<meta property="og:title" content="Welcome home Ms. MacBook Air." />
+			<meta property="og:type" content="flickr_photos:photo" />
+			<meta property="og:url" content="http://www.flickr.com/photos/nasonurb/5238337232/" />
+			<meta property="og:site_name" content="Flickr" />
+			<meta property="og:description" content="Designed in California. Made in China, went to Alaska, to New Jersey, to Washington, to home." />
+			<meta property="og:image" content="http://farm6.staticflickr.com/5290/5238337232_4bae72e415_z.jpg" />
+			<meta property="og:image:width" content="640" />
+			<meta property="og:image:height" content="480" />
+			<meta property="flickr_photos:by" content="brunosan" />
+	
+	<meta name="viewport" content="width=1036">
+	<script>
+		
+	F = window.F || {};
+	
+		(function(F){var TIMEOUT=10000;var pollers={},pollerCount=0,cachedEls={},support={nativeTrim:typeof String.prototype.trim==='function',classList:'classList'in document.createElement('div')};F.util={clone:function(o){if(o===null||typeof o!=='object'){return o;} var c=new o.constructor();for(var k in o){c[k]=F.util.clone(o[k]);} return c;},trim:function(str){if(support.nativeTrim){return str.trim();} else{return str.replace(/^\s+|\s+$/g,'');}},getElementById:function(id){if(!cachedEls[id]){cachedEls[id]=document.getElementById(id);} return cachedEls[id];},hasClass:function(el,className){if(support.classList){return el.classList.contains(className);} else{var re=new RegExp('(?:^|\\s+)'+className+'(?:\\s+|$)');return re.test(el.className);}},addClass:function(el,className){if(support.classList){el.classList.add(className);} else if(!F.util.hasClass(el,className)){el.className=F.util.trim([el.className,className].join(' '));}},removeClass:function(el,className){if(support.classList){el.classList.remove(className);} else if(className&&F.util.hasClass(el,className)){el.className=F.util.trim(el.className.replace(new RegExp('(?:^|\\s+)'+className+'(?:\\s+|$)'),' '));if(F.util.hasClass(el,className)){F.util.removeClass(el,className);}}},whenElementExists:function(id,callback,interval){var iterations=0,pollerId=id+pollerCount++;interval=interval||10;var checkElementAndCallback=function(){var el=(id==='body')?document.body:F.util.getElementById(id);if(el){clearInterval(pollers[pollerId]);callback(el);return true;} else if(++iterations*interval>=TIMEOUT){clearInterval(pollers[pollerId]);return false;}};if(!checkElementAndCallback()){pollers[pollerId]=setInterval(checkElementAndCallback,interval);}},addListener:function(el,type,fn,capture){if(el.addEventListener){el.addEventListener(type,fn,capture);} else if(el.attachEvent){el.attachEvent('on'+type,fn);}},setCookie:function(name,value,days,path){var date,expires='',path=path||'/';if(days){date=new Date();date.setTime(date.getTime()+(days*24*60*60*1000));expires='; expires='+date.toGMTString();} document.cookie=name+'='+value+expires+'; path='+path;},getCookie:function(name){var i,cookies=' '+document.cookie+';';name=' '+name+'=';if((i=cookies.indexOf(name))>=0){i+=name.length;cookies=cookies.substring(i,cookies.indexOf(';',i));return cookies;}},removeCookie:function(name){return F.util.setCookie(name,'',0);}};}(F));
+				
+(function(wipe_msg, root_url, bust_image_search, is_debug) {
+
+var w=window,d=document,top_loc=top.location,self_loc=self.location,referrer=d.referrer,flickr_regex=/^[A-Za-z]+:\/{2,3}(?:[0-9\-A-Za-z]+\.)*flickr\.(?:(?:com)|(?:net))(?::\d+)?(?:\/[^?#]*)?(?:\?[^#]*)?(?:#.*)?$/i,self_is_offline=(self_loc.protocol&&self_loc.protocol.indexOf('http')<0),self_is_flickr=flickr_regex.test(self_loc),self_url=self_is_flickr?self_loc.href:root_url+'/',photo_page_re_result=self_is_flickr&&/\/photos\/[^\/]+\/(\d+)/i.exec(self_loc.pathname),photo_id=photo_page_re_result&&parseInt(photo_page_re_result[1],10),frame_whitelist_regex=/^[A-Za-z]+:\/{2,3}(?:[0-9\-A-Za-z]+\.)*(?:(?:flickr\.(?:(?:com)|(?:net)))|(?:yahoo\.(?:(?:com)|(?:net)|(?:(?:com?\.)?[A-Za-z]{2})))|(?:creativecommons\.org)|(?:eyewonderlabs\.com)|(?:stumbleupon\.com)|(?:su\.pr)|(?:bing\.com)|(?:google\.(?:(?:com)|(?:(?:com?\.)?[A-Za-z]{2}))))(?::\d+)?(?:\/[^?#]*)?(?:\?[^#]*)?(?:#.*)?$/i,self_whitelist_regex=/^[A-Za-z]+:\/{2,3}(?:[0-9\-A-Za-z]+\.)*(?:(?:flickr\.(?:(?:com)|(?:net)))|(?:yahoo\.(?:(?:com)|(?:net)|(?:(?:com?\.)?[A-Za-z]{2})))|(?:translate\.google\.com)|(?:translate\.googleusercontent\.com)|(?:web\.archive\.org))(?::\d+)?(?:\/[^?#]*)?(?:\?[^#]*)?(?:#.*)?$/i,image_search_regex=/^[A-Za-z]+:\/{2,3}(?:[0-9\-A-Za-z]+\.)*(?:(?:(?:google)|(?:bing))\.(?:(?:com)|(?:(?:com?\.)?[A-Za-z]{2})))(?::\d+)?(?:\/[^?#]*)?(?:\?[^#]*)?(?:#.*)?$/i,referrer_is_flickr=flickr_regex.test(referrer),referrer_is_whitelisted=frame_whitelist_regex.test(referrer),referrer_is_image_search=image_search_regex.test(referrer),faq_url=root_url+'/frame_redir.gne?source='+encodeURIComponent(referrer)+'&dest='+encodeURIComponent(root_url+'/help/blogging/#1392237'),redir_url=root_url+'/frame_redir.gne?source='+encodeURIComponent(referrer)+'&dest='+encodeURIComponent(self_url),should_bust,should_wipe,base;function redirect(){w.onerror=function(){return true;};if(typeof top_loc.replace==='function'){top_loc.replace(redir_url);}else{top_loc.href=redir_url;}} function wipe(){var logo_w,font_size,win_width,html,msg;w.onerror=function(){return true;};logo_w=162;font_size='12px';setInterval(function(){if(d&&d.body){if(d.body.lastChild&&d.body.lastChild.className&&d.body.lastChild.className==='wipe-msg'){}else{msg=wipe_msg.replace('{url}',redir_url).replace('{faq}',faq_url);if(typeof w.innerWidth==='number'){win_width=w.innerWidth;}else if(d.body.clientWidth){win_width=d.body.clientWidth;} if(win_width&&win_width<162){logo_w=win_width;font_size='10px';} html='<div class="wipe-msg" style="font-size:'+font_size+';text-align:left;"><div style="margin-bottom:3px;"><img alt="Flickr" width="'+logo_w+'" src="http://l.yimg.com/g/images/logo_home.png"></div><div style="padding-left:5px;line-height:1.2em;">'+msg+'</div></div>';d.body.style.margin='0';d.body.innerHTML=html;}}},200);} function get_frame_depth(){var win=self,frame_depth=0;while(win!==win.parent){frame_depth+=1;win=win.parent;} return frame_depth;} function debug(){if(is_debug){console.log(arguments);}} if(self_is_flickr&&self_loc===top_loc){}else if(self_is_offline){}else if(!self_is_flickr&&!self_whitelist_regex.test(self_loc)){should_wipe=true;}else if(bust_image_search&&photo_id&&referrer_is_image_search){should_bust=true;}else if(referrer&&!referrer_is_whitelisted){should_wipe=true;}else if(!referrer_is_flickr&&get_frame_depth()>1){should_wipe=true;} if(is_debug){debug({self_is_flickr:self_is_flickr,top_loc:top_loc,self_loc:self_loc,referrer:referrer,self_is_offline:self_is_offline,self_is_flickr:self_is_flickr,self_url:self_url,photo_page_re_result:photo_page_re_result,photo_id:photo_id,referrer_is_flickr:referrer_is_flickr,referrer_is_whitelisted:referrer_is_whitelisted,referrer_is_image_search:referrer_is_image_search,faq_url:faq_url,redir_url:redir_url,should_bust:should_bust,should_wipe:should_wipe,base:base});}else{if(should_bust){setTimeout(function(){w.onbeforeunload=w.onunload=null;redirect();},1000);setTimeout(wipe,2000);redirect();}else if(should_wipe){wipe();}else if(referrer_is_whitelisted&&!referrer_is_flickr){base=document.createElement('base');base.target='_top';document.getElementsByTagName('head')[0].appendChild(base);}}
+
+}('We\'re sorry, Flickr <a href="{faq}" target="_top">doesn\'t allow embedding within frames</a>.<br><br>If you\'d like to view this content, <a href="{url}" target="_top">please click here</a>.', 'http://www.flickr.com', true, false));
+
+	
+		(function(F){var el,w,d,n,ua,ae,is_away_from_tab,de,disabled=false,assigned_events=false;w=window;d=w.document;n=w.navigator;ua=n&&n.userAgent;var supportsActiveElt=false;if('activeElement'in document){supportsActiveElt=true;} function doF(e,me){if(is_away_from_tab&&e.target===w){is_away_from_tab=false;}else{el=e.target||me;}} function doB(e){if(el!==w&&e.target===w){is_away_from_tab=true;}else{el=undefined;}} function get(){var nt,in_doc;if(supportsActiveElt){el=document.activeElement;}else if(el&&(nt=el.nodeType)){if(d.contains){if((ua&&ua.match(/Opera[\s\/]([^\s]*)/))||nt===1){in_doc=d.contains(el);}else{while(el){if(d===el){in_doc=true;} el=el.parentNode;}}}else if(d.compareDocumentPosition){if(d===el||!!(d.compareDocumentPosition(el)&16)){in_doc=true;}}else{var myEl=el;while(myEl){if(d===myEl){in_doc=true;} myEl=myEl.parentNode;}}} return in_doc?el:undefined;} function isInput(){var n=get(),nn;if(!n){return false;} nn=n.nodeName.toLowerCase();return(nn==='input'||nn==='textarea');} function instrumentInputs(){if(!assigned_events){var i,me,inputs=document.getElementsByTagName('input'),tas=document.getElementsByTagName('textarea'),nInputs=inputs.length,nTextAreas=tas.length;if(nInputs||nTextAreas){for(i=0;i<nTextAreas;i++){me=tas[i];tas[i].attachEvent('onfocusin',function(e){if(!disabled){doF(e,me);}});} for(i=0;i<nInputs;i++){me=inputs[i];inputs[i].attachEvent('onfocusin',function(e){if(!disabled){doF(e,me);}});} assigned_events=true;}}} function destroy(){disabled=true;if(de=w.removeEventListener){de('focus',doF,true);de('blur',doB,true);}else if(de=d.removeEvent){de('blur',doB);}} function dom_onready(onready_handler){if(typeof onready_handler==='undefined'){return false;} if(document.readyState==='complete'){onready_handler();}else{if(document.addEventListener){DOMContentLoaded=function(){document.removeEventListener('DOMContentLoaded',DOMContentLoaded,false);onready_handler();};}else if(document.attachEvent){DOMContentLoaded=function(){if(document.readyState==='complete'){document.detachEvent('onreadystatechange',DOMContentLoaded);onready_handler();}};} if(document.addEventListener){document.addEventListener('DOMContentLoaded',onready_handler,false);}else if(document.attachEvent){document.attachEvent('onreadystatechange',onready_handler);}}} if(ae=w.addEventListener){ae('focus',doF,true);ae('blur',doB,true);}else if(ae=d.attachEvent){dom_onready(instrumentInputs);ae('onfocusout',doB);} F.focus_tracker={get:get,isInput:isInput,destroy:destroy};}(F));	
+		(function(){var mod='imageChecker',imgs={},i=0;function stamp(node){return node.id||(node.id=mod+'-'+new Date().getTime()+i++);} F[mod]={load:function(node){imgs[stamp(node)]=true;},error:function(node){imgs[stamp(node)]=false;},check:function(node){return imgs[stamp(node)];}};}());
+	
+					
+						
+			(function(F){var listeners=[],old_func,enabled=false,graylist=false;var okB=[/AppleWebKit\/([^\s]*)/,/MSIE\s([89][^;]*)/,/Gecko\/([^\s]*)/,/Opera/];function sniff(){var nav=window.navigator,ua=nav&&nav.userAgent,len=okB.length;if(ua.match(/Mobile/)){return false;} if(ua.match(okB[1])){if(document.documentMode==7){return false;} graylist=true;} if(ua.match(/Version\/[1234][0-9\.\s]+Safari/i)){return false;} for(var i=0;i<len;i++){if(ua.match(okB[i])){return true;}};return false;} enabled=sniff();if(typeof document.onkeydown==='function'){old_func=document.onkeydown;document.onkeydown=combine_funcs(old_func,handle_keydown);} else{document.onkeydown=handle_keydown;} function handle_keydown(e){if(enabled&&!F.focus_tracker.isInput()&&!graylist){var evt=(e)?e:window.event;if(listeners[evt.keyCode]){listeners[evt.keyCode](evt);evt.returnValue=false;return false;}}} function combine_funcs(old_func,new_func){return function(e){old_func(e);new_func(e);};} F.keyListener={on:function(key_code_string,func){if(enabled){var key_codes=key_code_string.split(',');for(var n=0,len=key_codes.length;n<len;n++){if(typeof listeners[key_codes[n]]==='function'){func=combine_funcs(listeners[key_codes[n]],func);} listeners[key_codes[n]]=func;}}},detach_all:function(){enabled=false;},detach:function(key_codes){for(var n=0,len=key_codes.length;n<len;n++){if(typeof listeners[key_codes[n]]==='function'){listeners[key_codes[n]]=false;}}},enabled:enabled};}(F));	
+									
+			F.keyListener.on('37,39,74,75', function(e) {
+	if (F.focus_tracker.isInput() || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+		if (e.keyCode === 37 || e.keyCode === 75) window.location = '/photos/nasonurb/5242700436/in/photostream/';
+			if (e.keyCode === 39 || e.keyCode === 74) window.location = '/photos/nasonurb/5229056829/in/photostream/';
+	});
+			
+		(function(){var w,d,c,smarty_timestamp,decode,nameEq,i,len,cookies,cookie,dv_cookie,subs,sub,c_time,photo_id,dv_id;w=window;d=document;c=d.cookie;smarty_timestamp='1341216839';photo_id='5238337232';dv_id='8YTRab';nameEq='dvz=';decode=decodeURIComponent;if(!smarty_timestamp||!dv_id||c.indexOf(nameEq)===-1){return false;} cookies=c.split(';');for(i=0,len=cookies.length;i<len;i+=1){cookie=cookies[i];while(cookie.charAt(0)===' '){cookie=cookie.substring(1,cookie.length);} if(cookie.indexOf(nameEq)===0){dv_cookie=decode(cookie.substring(nameEq.length,cookie.length));break;}} if(dv_cookie){nameEq=decode(dv_id)+'=';if(dv_cookie.indexOf(nameEq)===-1){return false;} subs=dv_cookie.split('&');for(i=0,len=subs.length;i<len;i+=1){sub=subs[i];if(sub.indexOf(nameEq)===0){c_time=decode(sub.substring(nameEq.length,sub.length));break;}} if(c_time&&c_time>=smarty_timestamp){if(photo_id){document.cookie='flignoreview='+photo_id+'; expires='+(new Date((new Date()).getTime()+1000*60*5)).toUTCString()+'; path=/; domain=.flickr.com';} w.setTimeout(function(){d.body.style.visibility='hidden';w.location.reload();},0);}}}());	(function(){var l,hash_pos,photo_page_regex,path_parts,hash_path_parts,old_id,new_id,url_values,hash_values,new_location,i,len,states,state;l=window.location;hash_pos=l.href.indexOf('#');if(hash_pos===-1){return;} photo_page_regex=/^\/photos\/([^\/]+)\/(\d+)(?:\/in\/([^\/]+))?(?:(?:\/page(\d+))|(?:\/(lightbox))|(?:\/(tour)))?/;path_parts=photo_page_regex.exec(l.pathname);if(!path_parts||!path_parts instanceof Array||!path_parts[1]||!path_parts[2]){return;} old_id=path_parts[2];new_location={hash:l.href.substr(hash_pos),host:l.host,pathname:l.pathname,protocol:l.protocol,search:l.search};if(new_location.hash.substr(1,1)==='/'){new_location.pathname=new_location.hash.substr(1);new_location.search='';new_location.hash='';hash_path_parts=photo_page_regex.exec(new_location.pathname);if(!hash_path_parts||!hash_path_parts instanceof Array||!hash_path_parts[1]||!hash_path_parts[2]){return;} new_id=hash_path_parts[2];} new_location.href=new_location.protocol+'//'+new_location.host+new_location.pathname+new_location.search+new_location.hash;if(new_location.pathname!==l.pathname){if(old_id===new_id){document.cookie='flignoreview='+new_id+'; expires='+(new Date((new Date()).getTime()+1000*60*5)).toUTCString()+'; path=/; domain=.flickr.com';}else{} if(typeof l.replace==='function'){l.replace(new_location.href);}else{l.href=new_location.href;}}}());
+		(function(F){var registered_ids={},id_to_module_map={},interim_actions={},cleanup_actions={},clicked_ids={},queueing=true;function jsFailBeacon(){var key='flickr.jsfail.fail',title='flickr_js_fail',endpoint='/flanal_event.gne?target='+key+'&title='+title+'&rand='+Math.random();F.jsFail=true;window.setTimeout(function(){if(F.jsFail&&(Math.floor(Math.random()*100)==1)){(new Image()).src=endpoint;}},10000);} F.jsFailBeacon=jsFailBeacon;function register_id(id,callbacks,required_module){id=id.replace('*','.*');registered_ids[id]=true;id_to_module_map[id]=required_module;interim_actions[id]=callbacks.interim;cleanup_actions[id]=callbacks.cleanup;} function rectify_id(actual_id){for(var key_id in registered_ids){if(registered_ids.hasOwnProperty(key_id)&&actual_id.search(key_id)!==-1){return key_id;}} return actual_id;} F.actionQueue={register:function(id,callbacks,required_module){if(id instanceof Array){for(var n=0,len=id.length;n<len;n++){register_id(id[n],callbacks,required_module);}} else{register_id(id,callbacks,required_module);}},queue_click:function(id){var id_key=rectify_id(id);if(queueing&&id&&id_key&&registered_ids[id_key]){clicked_ids[id_key]=true;if(typeof interim_actions[id_key]==='function'){interim_actions[id_key].apply(this,arguments);} return false;} else if(queueing){return false;} return true;},module_loaded:function(module_name,id_to_restrict_to){queueing=false;for(var id in id_to_module_map){if(id_to_module_map.hasOwnProperty(id)&&clicked_ids[id]&&id_to_module_map[id]===module_name){cleanup_actions[id](id_to_restrict_to?id_to_restrict_to:id);}}},get_viewport_dimensions:function(){var doc=window.document,win=doc.defaultView||doc.parentWindow,mode=doc['compatMode'],h=win.innerHeight,w=win.innerWidth,root=doc['documentElement'];if(mode&&navigator.userAgent.search(/Opera[\s\/]([^\s]*)/)===-1){if(mode!='CSS1Compat'){root=doc.body;} h=root.clientHeight;w=root.clientWidth;} return{height:h,width:w};}};}(F));	(function(F){var geoOverlay1,geoOverlay2,last_context_clicked;F.actionQueue.register('button-bar-fave',{interim:function(id){var fave_button=document.getElementById(id);if(fave_button.className.search(/fave/)===-1){fave_button.className='Butt ywa-track fave-button fave';} else{fave_button.className='Butt ywa-track fave-button';}},cleanup:function(id){F.actionQueue['photo-button-bar'].toggle_fave();}},'photo-button-bar');F.actionQueue.register('context-link-*',{interim:function(id){last_context_clicked=id;},cleanup:function(id){if(last_context_clicked===id){F.actionQueue['photo-filmstrip'][last_context_clicked].display();}}},'photo-filmstrip');F.actionQueue.register('add-a-tag',{interim:function(id){},cleanup:function(id){}},'flickr-tagrs');F.actionQueue.register('add-a-person',{interim:function(id){},cleanup:function(id){}},'photo-people');F.actionQueue.register('photoGeolocationEdit-addbutton',{interim:function(id){},cleanup:function(id){}},'mapr');F.actionQueue.register(['edit-privacy','edit-viewgeo','edit-comment-perm','edit-addmeta','edit-nipsa','edit-safety-level','edit-content-type'],{interim:function(id){},cleanup:function(id){}},'photo-sidebar-owner');F.actionQueue.register('photoGeopanel-*',{interim:function(id){var viewport_dimensions=F.actionQueue.get_viewport_dimensions();photoGeopanel=document.createElement('div');photoGeopanel.className="interim-spinner-transparent";document.body.appendChild(photoGeopanel);},cleanup:function(id){if(typeof F.actionQueue.photoGeopanel.display==='function'){F.actionQueue.photoGeopanel.display();} if(photoGeopanel){photoGeopanel.parentNode.removeChild(photoGeopanel);}}},'photoGeopanel');F.actionQueue.register('photoGeolocation-*',{interim:function(id){var viewport_dimensions=F.actionQueue.get_viewport_dimensions();geoOverlay1=document.createElement('div');geoOverlay1.className="interim-spinner-transparent";document.body.appendChild(geoOverlay1);},cleanup:function(id){if(F.actionQueue.photoGeolocation&&typeof F.actionQueue.photoGeolocation.display==='function'){F.actionQueue.photoGeolocation.display();} if(geoOverlay1){geoOverlay1.parentNode.removeChild(geoOverlay1);}}},'photoGeolocation');F.actionQueue.register('photoGeolocationEdit-*',{interim:function(id){var viewport_dimensions=F.actionQueue.get_viewport_dimensions();geoOverlay2=document.createElement('div');geoOverlay2.className="interim-spinner-transparent";document.body.appendChild(geoOverlay2);},cleanup:function(id){if(F.actionQueue.photoGeolocationEdit&&typeof F.actionQueue.photoGeolocationEdit.display==='function'){F.actionQueue.photoGeolocationEdit.display();} if(geoOverlay2){geoOverlay2.parentNode.removeChild(geoOverlay2);}}},'photoGeolocationEdit');}(F));
+	(function(F){F.actionQueue.register('button-bar-options',{interim:function(id){var button=document.getElementById(id);if(button.className.search(/ActiveButt/)===-1){button.className=button.className+' ActiveButt';} button.blur();if(!document.getElementById('interim-menu-action')){var fake_menu=document.createElement('div');fake_menu.id='interim-menu-action';fake_menu.className=(document.getElementById('button-bar-fave'))?((document.getElementById('button-bar-fave').className.replace(/fave-button/,'').search(/fave/)!==-1)?'interim-menu interim-menu-fave':'interim-menu'):'interim-menu interim-menu-owner';fake_menu.innerHTML='<div class="yui3-popover-arrow yui3-popover-arrow-t interim-menu-arrow">◣</div>'+'<div class="interim-menu-arrow-mask"></div>';document.getElementById('nav').appendChild(fake_menu);} if(document.getElementById('interim-menu-share')){var fake_share_menu=document.getElementById('interim-menu-share');fake_share_menu.parentNode.removeChild(fake_share_menu);if(document.getElementById('button-bar-share')){document.getElementById('button-bar-share').className=document.getElementById('button-bar-share').className.replace(/ActiveButt/,'');}}},cleanup:function(id){var fake_menu=document.getElementById('interim-menu-action');if(fake_menu){fake_menu.parentNode.removeChild(fake_menu);} F.actionQueue['photo-button-bar'].display_action();}},'photo-button-bar');}(F));			(function(F){F.actionQueue.register('share-this-v3-more-button',{interim:function(id){var button=document.getElementById(id);if(button.className.search(/ActiveButt/)===-1){button.className=button.className+' ActiveButt';} button.blur();if(!document.getElementById('interim-menu-share')){var fake_menu=document.createElement('div');fake_menu.id='interim-menu-share';fake_menu.className=(document.getElementById('button-bar-fave'))?((document.getElementById('button-bar-fave').className.replace(/fave-button/,'').search(/fave/)!==-1)?'interim-menu interim-menu-fave':'interim-menu'):'interim-menu interim-menu-owner';fake_menu.innerHTML='<div class="yui3-popover-arrow yui3-popover-arrow-t interim-menu-arrow">◣</div>'+'<div class="interim-menu-arrow-mask"></div>';document.getElementById('nav').appendChild(fake_menu);} if(document.getElementById('interim-menu-action')){var fake_action_menu=document.getElementById('interim-menu-action');fake_action_menu.parentNode.removeChild(fake_action_menu);if(document.getElementById('button-bar-options')){document.getElementById('button-bar-options').className=document.getElementById('button-bar-options').className.replace(/ActiveButt/,'');}}},cleanup:function(id){var fake_menu=document.getElementById('interim-menu-share');if(fake_menu){fake_menu.parentNode.removeChild(fake_menu);} F.actionQueue['share-this-v3-more-button'].display_share();}},'share-this-v3-more-button');}(F));	
+		(function(F){var nav;function hasClass(o,cStr){return(o?new RegExp('(^|\\s)'+cStr+'(\\s|$)').test(o.className):false);};function addClass(o,cStr){if(!o||!cStr||hasClass(o,cStr)){return false;} o.className=(o.className?o.className+' ':'')+cStr;};function removeClass(o,cStr){if(!o||!cStr||!hasClass(o,cStr)){return false;} o.className=o.className.replace(new RegExp('( '+cStr+')|('+cStr+')','g'),'');};function toggleClass(o,sClass){if(hasClass(o,sClass)){removeClass(o,sClass);}else{addClass(o,sClass);}} function getParentByNodeName(oChild,sParentNodeName){if(!oChild||!sParentNodeName){return false;} sParentNodeName=sParentNodeName.toLowerCase();while(oChild.parentNode&&sParentNodeName!==oChild.parentNode.nodeName.toLowerCase()){oChild=oChild.parentNode;} return(oChild.parentNode&&sParentNodeName===oChild.parentNode.nodeName.toLowerCase()?oChild.parentNode:null);};F.actionQueue.register('flickr-nav',{interim:function(id,e){var oClicked=(e?(e.target?e.target:e.srcElement):null),oLI;if(!oClicked){return false;} oLI=getParentByNodeName(oClicked,'li');},cleanup:function(id){}},'flickr-nav');}(F));
+	(function(F){var overlay;F.actionQueue.register('lightbox',{interim:function(id){var viewport_dimensions=F.actionQueue.get_viewport_dimensions();overlay=document.createElement('div');overlay.className='interim-overlay';overlay.style.width=viewport_dimensions.width+'px';overlay.style.height=viewport_dimensions.height+'px';overlay.innerHTML='<img src="http://l.yimg.com/g/images/progress/balls-24x12-black.gif" class="interim-spinner">';document.body.appendChild(overlay);},cleanup:function(id){if(F.actionQueue['lightbox']&&typeof F.actionQueue['lightbox'].open==='function'){F.actionQueue['lightbox'].open();} if(overlay){overlay.parentNode.removeChild(overlay);}}},'lightbox');}(F));
+
+
+	</script>
+
+
+					
+		
+		<script src="http://l.yimg.com/g/combo/1/3.5.0?j/yui/3.5.0/yui/yui-.E.A.v23buK&amp;j/yui/3.5.0/.FN/.FN-.E.A.v22Egi"></script>
+
+			
+
+
+
+
+
+
+	<link rel="stylesheet" href="http://l.yimg.com/g/combo/1/3.5.0?c/c_.J_nav.BC.v23FyX&c/c_.J_.D.BC.v23GkM&c/c_.B_.D.BC.v23Mfg&c/c_.B-.D-.F.BC.vNxbc&c/c_.IS-.BB.BC.v23BzV&c/c_.T-bar.BC.vY3sk&c/c_.N.BC.v23orR&c/c_.B-.M.BC.vYjx6&c/c_.CX-.CY.BC.vYjx6&c/c_box-.DG.BC.vPHXR&c/c_.B-.BE-.D.BC.v23nMV&c/c_.EC-.L-.D.BC.vYjx6&c/c_.B-.O.BC.v23DUp&c/c_.BF_.D.BC.vYjx6&c/c_social_upsell.BC.vT11g&c/c_.HG.BC.v23S2R&c/c_.FW-.HN.BC.v23HJP&c/c_.B-.BBs-v3.BC.v23BzV&c/c_.CN-.DD.BC.vMrRM&c/c_.EG-.D.BC.vL1tz&c/c_.EM_.D.BC.v23trv&" type="text/css">
+
+
+
+
+
+
+
+
+	<link rel="shortcut icon" type="image/ico" href="http://l.yimg.com/g/favicon.ico">
+
+	<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Flickr">
+
+
+</head><body class="zeus en-us new-footer signed-out new-footer-tight-ass">
+<script>(function(){var b=document.body,ua=typeof YUI==='function'&&YUI()&&YUI().UA,os=ua&&(ua.os?ua.os.replace(/\s/g,''):'')||(ua.ios?'ios':'')||(ua.android?'android':'');function make_class(browser){return(os&&ua[browser])?'ua-'+os+'-'+browser+' '+'ua-'+os+'-'+browser+'-'+Math.floor(ua[browser]):'';} b.className=[b.className,'js',make_class('webkit')||make_class('ie')||make_class('gecko')].join(' ');}());</script>
+		
+<noscript>
+	<div id="beacon"><img src="http://geo.yahoo.com/f?s=792600146&t=ba00be0c781a895ab18863d3bc741eea&fl_ev=0&lang=en&intl=us" width="0" height="0" alt="" /></div>
+</noscript>
+	
+		
+	
+	<a name="top"></a>
+
+
+<script>
+	/*jslint white: false, undef: false, browser: true, eqeqeq: true, regexp: false, newcap: true, immed: true, onevar: false, plusplus: false */
+/*global F: false, YUI: false, window: false */ 
+
+(function(F) {
+
+	var useNativeOnly = false, // Set this to true to only use detent widths.
+	    useNativeOnlyUnder1024 = true; // Set this to true to only use detent widths for 1024 and below.
+
+var SCROLLBAR_WIDTH=15,MIN_PAGE_WIDTH=1024,MIN_PAGE_HEIGHT=768,SECONDARY_PAGE_CONTENT_WIDTH=335,SIDE_GUTTER_WIDTH=49,HEIGHT_TO_PHOTO_TOP=124,HEIGHT_OF_TITLE=45,HEADER_WIDTH_ADJUSTMENT_ZEUS=15,HEADER_WIDTH_ADJUSTMENT_NON_ZEUS=5,DETENTS=[640,800,1024,1600,2048],DETENT_TOLERENCE=100,LARGEST_PHOTO_WIDTH=2048;var bodyInitialized=false,cachedPhotoWidth,cachedWorkabelHeight;function verifyDimension(n){return(typeof n==='number'&&n>0);} F.liquid={getDimensions:function(){var doc=window.document,win=doc.defaultView||doc.parentWindow,mode=doc.compatMode,h=win.innerHeight,w=win.innerWidth,root=doc.documentElement;if(mode){if(mode!=='CSS1Compat'){root=doc.body;} h=root.clientHeight;w=root.clientWidth;} w=w-SCROLLBAR_WIDTH;if(verifyDimension(w)&&verifyDimension(h)){return{height:h,width:w};} return false;},getAvailableSpaceForPhoto:function(invalidateCache){var dimensions,bestWidth=MIN_PAGE_WIDTH-SECONDARY_PAGE_CONTENT_WIDTH-SIDE_GUTTER_WIDTH,workableWidth,workableHeight,n,len;if(invalidateCache){cachedPhotoWidth=cachedWorkabelHeight=null;} if(cachedPhotoWidth&&cachedWorkabelHeight){return{w:cachedPhotoWidth,h:cachedWorkabelHeight};} dimensions=F.liquid.getDimensions()||{width:MIN_PAGE_WIDTH,height:MIN_PAGE_HEIGHT};workableWidth=dimensions.width-SECONDARY_PAGE_CONTENT_WIDTH-SIDE_GUTTER_WIDTH;workableHeight=dimensions.height-HEIGHT_TO_PHOTO_TOP-HEIGHT_OF_TITLE;if(useNativeOnly&&dimensions.width>MIN_PAGE_WIDTH){if(workableWidth*3/4>workableHeight){workableWidth=Math.max(Math.floor(workableHeight*4/3),MIN_PAGE_WIDTH-SECONDARY_PAGE_CONTENT_WIDTH-SIDE_GUTTER_WIDTH);} for(n=0,len=DETENTS.length;n<len;n++){if(workableWidth>DETENTS[n]||n===0){bestWidth=DETENTS[n];}}} else if(dimensions.width>MIN_PAGE_WIDTH){if(workableWidth*3/4>workableHeight){bestWidth=Math.max(Math.floor(workableHeight*4/3),MIN_PAGE_WIDTH-SECONDARY_PAGE_CONTENT_WIDTH-SIDE_GUTTER_WIDTH);} else{bestWidth=workableWidth;} if(bestWidth>LARGEST_PHOTO_WIDTH){bestWidth=LARGEST_PHOTO_WIDTH;} else{for(n=0,len=DETENTS.length;n<len;n++){if(bestWidth>DETENTS[n]&&((bestWidth<DETENTS[n]+DETENT_TOLERENCE)||(useNativeOnlyUnder1024&&bestWidth<1024&&n+1<len&&bestWidth<DETENTS[n+1]))){bestWidth=DETENTS[n];break;}}}} cachedPhotoWidth=bestWidth;cachedWorkabelHeight=workableHeight;return{w:bestWidth,h:workableHeight};},getBestPageWidth:function(invalidateCache){return F.liquid.getAvailableSpaceForPhoto(invalidateCache).w+SECONDARY_PAGE_CONTENT_WIDTH;},scaleDownPhotoToViewable:function(photoDimensions,scalingFactor){var dimensions=F.liquid.getDimensions()||{width:MIN_PAGE_WIDTH,height:MIN_PAGE_HEIGHT},workableHeight=dimensions.height-HEIGHT_TO_PHOTO_TOP-HEIGHT_OF_TITLE,biggestDimension=Math.max(photoDimensions.w,photoDimensions.h),n,len,scaledBiggestDimension;if(photoDimensions.h*scalingFactor>workableHeight){scalingFactor=workableHeight/photoDimensions.h;if(biggestDimension*scalingFactor<MIN_PAGE_WIDTH-SECONDARY_PAGE_CONTENT_WIDTH-SIDE_GUTTER_WIDTH){scalingFactor=1;}} if(useNativeOnlyUnder1024&&photoDimensions.w<=1024&&photoDimensions.h<=1024){scalingFactor=1;} else{scaledBiggestDimension=Math.floor(biggestDimension*scalingFactor);for(n=0,len=DETENTS.length;n<len;n++){if(scaledBiggestDimension>DETENTS[n]&&scaledBiggestDimension<DETENTS[n]+DETENT_TOLERENCE){scalingFactor=DETENTS[n]/biggestDimension;break;}}} return scalingFactor;},resizePage:function(invalidateCache){var totalPageWidth=F.liquid.getBestPageWidth(invalidateCache);F.util.setCookie('liqpw',totalPageWidth,365);if(!bodyInitialized){F.util.whenElementExists('body',function(body){F.util.addClass(body,'liquid');bodyInitialized=true;});} F.util.whenElementExists('main',function(main){if(!F.util.hasClass(document.body,'breakout')&&F.util.hasClass(main,'allow-liquid-width')){main.style.width=totalPageWidth+'px';}});F.util.whenElementExists('head-nav-bar',function(headNavBar){var headTop=F.util.getElementById('head-top'),headerWidthAdjustment=(headTop.tagName==='TABLE')?HEADER_WIDTH_ADJUSTMENT_NON_ZEUS:HEADER_WIDTH_ADJUSTMENT_ZEUS;headTop.style.width=(totalPageWidth+headerWidthAdjustment)+'px';headNavBar.style.width=(totalPageWidth+headerWidthAdjustment)+'px';});F.util.whenElementExists('foot',function(foot){foot.style.width=totalPageWidth+'px';});return totalPageWidth;}};}(F));	F.liquid.resizePage();
+	
+	
+			/*jslint white: false, undef: false, browser: true, eqeqeq: true, regexp: false, newcap: true, immed: true, onevar: false, plusplus: false */
+/*global F: false, YUI: false, window: false */
+
+(function(F) {
+
+	var photo = {
+		id: 5238337232,
+		baseURL: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415.jpg',
+		baseWidth: 640,
+		baseHeight: 480,
+		ratioWidthBasis: 500,
+		isVideo: 0,
+		sizeMap: [{"name":"Thumbnail","shortName":"t","maxDimension":100,"minDimension":75,"fileExtension":"_t"},{"name":"Small","shortName":"s","maxDimension":240,"minDimension":180,"fileExtension":"_m"},{"name":"Small 320","shortName":"n","maxDimension":320,"minDimension":240,"fileExtension":"_n"},{"name":"Medium 500","shortName":"m","maxDimension":500,"minDimension":375,"fileExtension":""},{"name":"Medium 640","shortName":"z","maxDimension":640,"minDimension":480,"fileExtension":"_z"},{"name":"Large","shortName":"l","maxDimension":1024,"minDimension":768,"fileExtension":"_b"}]
+	    },
+	    enableFarmTimingSampling = true,
+	    enablePageTimingSampling = false,
+	    allowDownsampledPhotos = true, // Set this to false to never downsample photos.
+	    useNativeOnlyUnder1024 = true; // Set this to true to only use detent widths for 1024 and below.
+
+var MIN_PRIMARY_COLUMN_WIDTH=562,DESCRIPTION_COLUMN_PADDING=44,DETENT_TOLERENCE=100,ELEMENT_EXISTS_TIMEOUT=10000,BUFFER_PERIOD=2000,RETRY_LIMIT=3,RETRY_DELAY=500;var overlaysHaveBeenMoved=false,changingPhoto=false,currentlyUsedSize={name:''},currentlyFetchingSize={name:''},loadedSizes={},bufferImg,bufferShowingTimeout,imageRetryTimeout,errorRetries=0;function getBestSizeForAvailableSpace(targetWidth,targetHeight){var bestSize,n,len=photo.sizeMap.length,viewportRatio,photoRatio,isPhotoLandscape=(photo.baseWidth>=photo.baseHeight),dimensionToCompare=targetWidth,dimensionToCompareLabel=isPhotoLandscape?'maxDimension':'minDimension';if(photo.isVideo){bestSize={maxDimension:targetWidth,minDimension:targetWidth*((photo.baseWidth>photo.baseHeight)?photo.baseHeight/photo.baseWidth:photo.baseWidth/photo.baseHeight)};} else{viewportRatio=targetWidth/targetHeight;photoRatio=photo.baseWidth/photo.baseHeight;if(viewportRatio>photoRatio){dimensionToCompare=targetHeight;dimensionToCompareLabel=isPhotoLandscape?'minDimension':'maxDimension';} for(n=0;n<len;n++){if((photo.sizeMap[n].shortName==='m'||photo.sizeMap[n].shortName==='n'||photo.sizeMap[n].shortName==='s'||photo.sizeMap[n].shortName==='t')&&n<len-1){continue;} if(dimensionToCompare===photo.sizeMap[n][dimensionToCompareLabel]){bestSize=photo.sizeMap[n];break;} else if(dimensionToCompare>photo.sizeMap[n][dimensionToCompareLabel]){bestSize=photo.sizeMap[n];} else if(allowDownsampledPhotos&&(!useNativeOnlyUnder1024||((photo.sizeMap[n].shortName==='h'||photo.sizeMap[n].shortName==='k')&&(isPhotoLandscape?targetWidth:targetHeight)>=1024+DETENT_TOLERENCE))){bestSize=photo.sizeMap[n];break;}}} if(!bestSize){for(n=len-1;n>=0;n--){if(photo.sizeMap[n].shortName==='z'||photo.sizeMap[n].shortName==='m'||photo.sizeMap[n].shortName==='n'||photo.sizeMap[n].shortName==='s'||photo.sizeMap[n].shortName==='t'){bestSize=photo.sizeMap[n];break;}}} return bestSize;} function fetchAndSizePhoto(bestSize){if(photo.isVideo){return;} if(!F.photoFetcher.img){if(!F.util.getElementById('liquid-photo')){F.photoFetcher.img=new Image();F.photoFetcher.img.id='liquid-photo';F.photoFetcher.img.alt='photo';F.photoFetcher.img.setAttribute('aria-describedby','title_div');} else{F.photoFetcher.img=F.util.getElementById('liquid-photo');} bufferImg=new Image();bufferImg.id='liquid-photo-buffer';bufferImg.alt='';bufferImg.setAttribute('role','presentation');bufferImg.onload=function(e){if(enablePageTimingSampling&&page_timing&&!page_timing.photo_end){page_timing.photo_end=new Date().getTime();} if(enableFarmTimingSampling&&farm_timing&&!farm_timing.photo_end){farm_timing.photo_end=new Date().getTime();} bufferImg.style.visibility='visible';clearTimeout(bufferShowingTimeout);bufferShowingTimeout=setTimeout(function(){F.photoFetcher.img.src=bufferImg.src;F.photoFetcher.img.style.visibility='visible';bufferImg.style.visibility='hidden';},BUFFER_PERIOD);currentlyUsedSize=currentlyFetchingSize;errorRetries=0;};bufferImg.onerror=function(e){if(errorRetries++<RETRY_LIMIT){imageRetryTimeout=setTimeout(function(){bufferImg.src=createPhotoURL(currentlyFetchingSize);},RETRY_DELAY*errorRetries);}};} if(bestSize.name!==currentlyUsedSize.name&&bestSize.name!==currentlyFetchingSize.name){if(enablePageTimingSampling&&page_timing&&!page_timing.photo_start){page_timing.photo_start=new Date().getTime();} if(enableFarmTimingSampling&&farm_timing&&!farm_timing.photo_start){farm_timing.photo_start=new Date().getTime();} if(changingPhoto){F.photoFetcher.img.style.visibility=bufferImg.style.visibility='hidden';changingPhoto=false;} bufferImg.src=createPhotoURL(bestSize);if(enableFarmTimingSampling&&farm_timing){farm_timing.src=bufferImg.src;} currentlyFetchingSize=bestSize;} F.photoFetcher.img.width=bufferImg.width=F.liquid.photoWidth;F.photoFetcher.img.height=bufferImg.height=F.liquid.photoHeight;} function createPhotoURL(size){var url;if(size.secret){url=photo.baseURL.replace(/_.*\.jpg$/,'_'+size.secret+size.fileExtension+'.jpg');} else{url=photo.baseURL.replace(/\.jpg$/,size.fileExtension+'.jpg');} if(size.queryString){url+=size.queryString;} return url;} function resizePhotoPage(photoWidth,photoHeight,notesRatio,primaryColumnWidth){var photoNotesInterval;if(photoWidth<primaryColumnWidth||overlaysHaveBeenMoved){if(bufferImg){bufferImg.style.left=((primaryColumnWidth-photoWidth)/2)+'px';overlaysHaveBeenMoved=true;} F.util.addClass(F.photoFetcher.img,'centered');} if(!photo.isVideo){if(F.photoNotes){F.photoNotes.setRatio(notesRatio,photoWidth,photoHeight);} else{photoNotesInterval=setInterval(function(){if(F.photoNotes){F.photoNotes.setRatio(notesRatio,photoWidth,photoHeight);clearInterval(photoNotesInterval);}},10);}} F.util.whenElementExists('primary-column',function(primaryColumn){primaryColumn.style.width=primaryColumnWidth+'px';if(primaryColumnWidth>MIN_PRIMARY_COLUMN_WIDTH*2+DESCRIPTION_COLUMN_PADDING){F.util.addClass(primaryColumn,'columnify');} else{F.util.removeClass(primaryColumn,'columnify');}});if(!photo.isVideo){F.util.whenElementExists('photo-drag-proxy',function(photoDragProxy){photoDragProxy.style.width=photoWidth+'px';photoDragProxy.style.height=photoHeight+'px';if(photoWidth<primaryColumnWidth||overlaysHaveBeenMoved){photoDragProxy.style.left=((primaryColumnWidth-photoWidth)/2)+'px';overlaysHaveBeenMoved=true;}});} if(photo.isVideo){F.util.whenElementExists('stewart_swf'+photo.id,function(videoElement){videoElement.width=photoWidth;videoElement.height=photoHeight;videoElement.parentNode.style.width=photoWidth+'px';videoElement.parentNode.style.height=photoHeight+'px';});F.util.whenElementExists('stewart_swf'+photo.id+'_loading_el',function(loadingElement){loadingElement.style.top=Math.floor((photoHeight-22)/2)+'px';loadingElement.style.left=Math.floor((photoWidth-66)/2)+'px';});}} F.photoFetcher={fetch:function(){var dimensions,availableSpace,bestSize,ratio=photo.baseWidth/photo.baseHeight,isPhotoLandscape=(photo.baseWidth>=photo.baseHeight),isPhotoSquare=(ratio>0.95&&ratio<1.05),scalingFactor=1,primaryColumnWidth;availableSpace=F.liquid.getAvailableSpaceForPhoto();bestSize=getBestSizeForAvailableSpace(availableSpace.w,availableSpace.h);if(allowDownsampledPhotos&&availableSpace.w<bestSize.maxDimension){scalingFactor=availableSpace.w/bestSize.maxDimension;} if(allowDownsampledPhotos){scalingFactor=F.liquid.scaleDownPhotoToViewable({w:(isPhotoLandscape?bestSize.maxDimension:bestSize.minDimension),h:(isPhotoLandscape?bestSize.minDimension:bestSize.maxDimension)},scalingFactor);} F.liquid.photoWidth=(isPhotoLandscape?bestSize.maxDimension:bestSize.minDimension)*scalingFactor;F.liquid.photoHeight=(isPhotoLandscape?bestSize.minDimension:bestSize.maxDimension)*scalingFactor;F.liquid.notesRatio=F.liquid.photoWidth/photo.ratioWidthBasis;F.liquid.bestSize=bestSize;fetchAndSizePhoto(bestSize);primaryColumnWidth=Math.max(MIN_PRIMARY_COLUMN_WIDTH,availableSpace.w);resizePhotoPage(F.liquid.photoWidth,F.liquid.photoHeight,F.liquid.notesRatio,primaryColumnWidth);},loadPhoto:function(){F.util.getElementById('main-photo-container').appendChild(F.photoFetcher.img);F.util.getElementById('main-photo-container').appendChild(bufferImg);},loadVideoContainer:function(content){var videoContainer=document.createElement('div');videoContainer.id='stewart_swf'+photo.id+'_div';videoContainer.className='video-wrapper';videoContainer.style.width=F.liquid.photoWidth+'px';videoContainer.style.height=F.liquid.photoHeight+'px';videoContainer.innerHTML=content;F.util.getElementById('main-photo-container').appendChild(videoContainer);},reInit:function(obj){for(var key in obj){if(obj.hasOwnProperty(key)){photo[key]=obj[key];}} overlaysHaveBeenMoved=true;changingPhoto=true;currentlyUsedSize={name:''};currentlyFetchingSize={name:''};loadedSizes={};if(bufferShowingTimeout){clearTimeout(bufferShowingTimeout);bufferShowingTimeout=undefined;} if(imageRetryTimeout){clearTimeout(imageRetryTimeout);imageRetryTimeout=undefined;} errorRetries=0;}};F.photoFetcher.fetch();
+
+}(F));
+	
+
+</script>
+
+
+
+	
+	
+
+	
+	
+
+
+
+
+
+
+	<div id="head" role="banner">
+
+		<div id="head-top">
+			<div id="head-logo">
+															<a tabindex="-1" data-track="home-logo" href="/"><img src="http://l.yimg.com/g/images/en-us/flickr-yahoo-logo.png.v4" width="180" height="30" alt="Flickr logo. If you click it, you'll go home"></a>
+														</div>
+			<div id="head-status">
+			    
+								You aren't signed in
+					&nbsp;&nbsp;&nbsp;
+					<a data-track="signin" id="head-signin-link" href="/signin/" class="ywa-track signin-popup" data-ywa-name="Sign in (top)">Sign In</a>
+
+					&nbsp;&nbsp;
+					<a data-track="help" href="/help/">Help</a>
+						</div>
+		</div>
+
+		<div id="head-nav-bar">
+							
+
+					
+								
+	
+
+<div id="search_header_container">
+
+         
+	<form action="/search/" method="get" id="headersearchform" class="nav-selecta" role="search">
+		<input name="q" id="nav-selecta-field" aria-label="Search" type="text" tabindex="5" class="Box" autocomplete="off" value="">
+		<input value="Search" type="submit" tabindex="5" id="nav-selecta-search-button">
+	</form>
+
+	</div>				
+
+<div id="flickr_nav" class="flickr_nav no_js clearfix">
+	<ul role="navigation">
+
+		<li class="no_menu_li"><span><a href="/" data-track="toto">Home</a></span></li>
+				
+		
+		<li class="no_menu_li">
+			<span><a href="/tour/" title="Take the Flickr tour" class="ywa-track" data-ywa-name="Tour">The Tour</a></span>
+		</li>
+		
+		<li class="no_menu_li">
+			<span><a data-track="signup" id="head-sign-up" href="/signup/" title="Sign Up for a Free Account" class="ywa-track" data-ywa-name="Sign up (top)">Sign Up</a></span>
+		</li>
+
+
+
+		<li class="menu_li ywa-track" data-ywa-name="Explore" id="flickr_nav_button_explore">
+		
+			<span>
+				<a href="/explore/" data-track="explore-top-link" title="Explore Flickr">Explore</a> <a href="#flickr_nav_button_explore" data-track="explore_menu" title="More options" onclick="if (F.actionQueue) {F.actionQueue.queue_click('flickr-nav', event);} return false" class="nav_more"><img src="http://l.yimg.com/g/images/spaceout.gif" class="nav_button_caret" width="18" height="15" alt="More options"></a>
+			</span>
+
+			<ul class="flickr_nav_menu" id="flickr_nav_menu_explore">
+					
+				<li>
+					<a data-track="explore" href="/explore/">Explore Home</a>
+				</li>
+
+				<li>
+					<a href="/explore/interesting/7days/">Last 7 Days Interesting</a>
+				</li>
+			
+				<li>
+					<a href="/photos/tags/">Popular Tags</a>
+				</li>
+			
+				<li>
+					<a data-track="interesting-calendar" href="/explore/interesting/2012/07/">Calendar</a>
+				</li>
+			
+				<li>
+					<a href="/photos/">Most Recent Uploads</a>
+				</li>
+			
+				<li>
+					<a href="/explore/video/">Video on Flickr</a>
+				</li>
+			
+									<li>
+						<a href="/galleries/">Galleries</a>
+					</li>
+							
+							
+								
+				<li>
+					<a href="/gettyimages" title="Getty Images">Getty Images</a>
+				</li>
+			
+							
+									<li>
+						<hr />
+						<a href="/map/" title="Photos and videos on a map">World Map</a>
+					</li>
+							
+									<li>
+						<a href="/places/">Places</a>
+					</li>
+							
+				<li>
+					<hr />
+					<a href="/commons/">The Commons</a>
+				</li>
+			
+				<li>
+					<a href="/creativecommons/">Creative Commons</a>
+				</li>
+			
+				<li>
+					<hr />
+					<a href="http://blog.flickr.com/">FlickrBlog</a>
+				</li>
+			
+				<li>
+					<a href="http://code.flickr.com/">code.flickr</a>
+				</li>
+			
+				<li>
+					<a href="/services/">The App Garden</a>
+				</li>
+
+									<li>
+						<a href="/cameras/">Camera Finder</a>
+					</li>
+								
+				
+				<li>
+					<a href="/mobile">Flickr for mobile</a>
+				</li>	
+					
+
+			</ul>
+		</li>
+
+		
+		<li class="no_menu_li last_item">
+			<span><a id="head-upload-link" href="/photos/upload/">Upload</a></span>
+		</li>
+
+	</ul>
+</div>
+
+			
+
+		</div>
+	</div>
+
+
+	
+			
+						
+			
+	
+	<div id="main" class="clearfix allow-liquid-width" role="main">
+		
+	
+
+<script>if (F && F.actionQueue) { F.jsFailBeacon(); }</script>
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+ 	
+<noscript>
+	<div class="info"><span class="msg-icon"></span><p>To take full advantage of Flickr, you should use a JavaScript-enabled browser and <a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash">install the latest version of the Macromedia Flash Player</a>.</p>
+	</div>
+</noscript>
+
+
+
+
+
+
+
+		<div id="primary-column">
+
+
+			
+	<div id="nav">
+			<ul id="button-bar" class="button-list share-options-list"><li class="first first-if-can-fave visible-if-can-fave"><a title="Save this to your favorites" href="#" class="Butt ywa-track fave-button visible-if-can-fave" id="button-bar-fave" data-ywa-name="Favorites star" onclick="return F.actionQueue.queue_click(this.id);" tabindex="4"><span class="ie-hack">&nbsp;</span><span class="star">&#9734;</span> &nbsp;Favorite</a></li><li class="divider visible-if-can-fave"><span> <span></span></span></li><li class=" first-if-cannot-fave"><a href="#" class="Butt ywa-track" id="button-bar-options" data-ywa-name="Actions" onclick="return F.actionQueue.queue_click(this.id);" tabindex="4"><span>Actions</span><span class="caret">&#9662;</span></a></li><li class="divider"><span> <span></span></span></li><li class="share-this-v3 share-service-first"><span class="share-service-options"><span class="Butt"><a href="#" title="Share via email" data-service-type-id="130" data-service-needs-setup="false" data-service-always-use-popup="false" class="share-dialog-action share-icon share-via-email share-via-service-130">Share via email</a></span></span></li><li class="share-this-v3 share-service"><span class="share-service-options"><span class="Butt"><a href="#" title="Share on Facebook" data-service-type-id="128" data-service-needs-setup="false" data-service-always-use-popup="false" class="share-dialog-action share-icon share-via-service-128">Share on Facebook</a></span></span></li><li class="share-this-v3 share-service share-service-last"><span class="share-service-options"><span class="Butt"><a href="#" title="Share on Twitter" data-service-type-id="9" data-service-needs-setup="false" data-service-always-use-popup="false" class="share-dialog-action share-icon share-via-service-9">Share on Twitter</a></span></span></li><li class="share-this-v3 divider"><span><span>&nbsp;</span></span></li><li class="share-this-v3 share-this-more last"><a href="#" tabindex="4" id="share-this-v3-more-button" class="Butt share-dropdown-arrow" title="More ways to share" onclick="return F.actionQueue && F.actionQueue.queue_click(this.id);">Share<span class="caret">&#9662;</span></a></li></ul>		
+				<ul id="nav-bar" class="button-list"><li class="first"><a id="nav-bar-prev" data-track="prev_button" class="Butt ywa-track" data-ywa-name="Next, previous" href="/photos/nasonurb/5242700436/in/photostream/" tabindex="4"><span class="arrow"></span><span class="text">Newer</span></a></li><li class="divider"><span> <span></span></span></li><li><a id="nav-bar-lightbox" data-track="lightbox" class="Butt ywa-track rapidnofollow" data-ywa-name="Lightbox Icon" href="/photos/nasonurb/5238337232/sizes/l/" title="View in light box" onclick="return F.actionQueue.queue_click(this.id);" tabindex="4"><span></span></a></li><li class="divider"><span> <span></span></span></li><li class="last"><a data-track="next_button" id="nav-bar-next" class="Butt ywa-track" data-ywa-name="Next, previous" href="/photos/nasonurb/5229056829/in/photostream/" tabindex="4"><span class="text">Older</span><span class="arrow"></span></a></li>
+		</ul>
+		
+
+	
+
+		
+	</div>
+
+			
+	<div id="photo">
+		<div id="photo-drag-proxy" class="zoom-trigger" style="width: 640px; height:480px;"><ul id="notes" class="boxes"></ul>	</div><div class="photo-div" id="main-photo-container">
+
+<script data-script-purpose="page_timing">farm_timing.photo_start = new Date().getTime();</script><noscript><img src="http://farm6.staticflickr.com/5290/5238337232_4bae72e415_z.jpg" alt="photo" aria-describedby="title_div" width="640" height="480"></noscript><script data-script-purpose="liquid">F.photoFetcher.loadPhoto();</script>	</div>
+			</div>
+
+			
+	<div id="meta">
+	
+		<h1 id="title_div" property="dc:title" class="photo-title">Welcome home Ms. MacBook Air.</h1>
+
+		<div id="description_div" class="photo-desc"><p>Designed in California. Made in China, went to Alaska, to New Jersey,
+to<br>Washington, to home.</p></div>
+
+	</div>
+
+				
+	<div id="invites-and-comments">
+
+			
+	<div id="invites" class="collapsed">
+		</div>
+
+
+			
+	<div id="comments">
+
+	
+				
+
+<h3>Comments and faves</h3>
+
+
+
+	
+				<ol id="photo-activity" class="mixed rolleddown" data-comments-total="1">
+																														<li id="comment72157625417220661" class="comment-block" data-comment-nsid="23526149@N00" data-comment-id="521605-5238337232-72157625417220661">
+			<div class="comment-icon">
+																		<a href="/photos/azugaldia/" class="comment-buddy-icon-link"><img src="http://l.yimg.com/g/images/spaceout.gif" data-defer-src="http://farm1.staticflickr.com/2/buddyicons/23526149@N00.jpg?1274804122#23526149@N00" alt="" width="48" height="48" class="comment-buddy-icon defer personmenu-trigger"></a>
+								</div>
+			<div class="comment-content">
+				<p class="comment-head">
+					<span class="comment-owner">
+																<span class="comment-author-container"><a href="/photos/azugaldia/" class="comment-author ywa-track" data-ywa-name="Commenter names">zugaldia</a>  <a href="/upgrade/" title="Find out about upgrading to Pro" class="pro-link"></a></span>
+										</span>
+										<small class="comment-meta">
+											(<span class="comment-date"><a href="/photos/nasonurb/5238337232/comment72157625417220661/" title="December 6, 2010">19 months ago</a></span><span class="comment-controls"> | <a href="#" class="comment-reply">reply</a></span>)
+					</small>
+				</p>
+									<div class="comment-body">
+													
+					<p>Quiero verlo en directo! :-)~~</p>
+														</div>
+			</div>
+		</li>
+								
+		 		</ol>
+		
+								
+
+					 	
+		
+	
+	<div class="comment-block add-comment-form adding-comment">
+		<div class="comment-icon">
+				<noscript><a href="/photos//" class="comment-buddy-icon-link" title="view profile"><img src="http://l.yimg.com/g/images/buddyicon.gif#" alt="" width="48" height="48" class="comment-buddy-icon"></a></noscript>			<a href="/photos//" class="comment-buddy-icon-link" title="view profile"><img src="http://l.yimg.com/g/images/spaceout.gif" data-defer-src="http://l.yimg.com/g/images/buddyicon.gif#" alt="" width="48" height="48" class="comment-buddy-icon personmenu-trigger defer"></a>
+		</div>
+		<div class="comment-content">
+			<p class="comment-head show-during-preview">
+					</p>
+
+								
+
+						<form action="/photos/nasonurb/5238337232/#preview" method="post" id="comment-form">
+
+																									
+				
+				<input type="hidden" name="magic_cookie" value="2d1a87110583b6a1571fadc93c0f6192" />
+								<input type="hidden" name="photo" value="5238337232">
+								<input type="hidden" name="addcomment" value="1">
+				<input type="hidden" name="flash_ver" id="flash_ver" value="unknown">
+									
+								<div class="hide-during-preview">
+										<textarea id="message" name="message" rows="8" tabindex="2" placeholder="Add your comment here..." aria-label="Add your comment"></textarea>
+															<div class="html-info-trigger"><a target="_blank" href="/html.gne?tighten=0&amp;type=comment" id="html-info-link"><span id="html-info-caret" class="caret"></span> <span id="html-info-text">Want to format your comment?</span></a></div>
+	
+				</div>
+				
+								<div class="buttons">
+															<input name="Submit" type="submit" class="Butt comment-button-post ywa-track" tabindex="2" data-ywa-name="Comment, Post" value="POST COMMENT">
+				</div>
+
+			</form>
+			
+		</div>
+	</div>
+									
+
+	</div>
+
+			
+	</div>
+
+
+</div>
+
+
+
+<div id="sidebar">
+
+
+
+
+
+	<div id="photo-story">
+		
+		<div id="photo-story-attribution" class="clearfix">
+																<p class="flickr-user" nsid="64887888@N00">
+		<span class="name">
+			<a href="/photos/nasonurb/"><img src="http://farm4.staticflickr.com/3150/buddyicons/64887888@N00.jpg?1279561718#64887888@N00" width="24" height="24" align="absmiddle" data-menu-id="photo-owner-icon" class="buddyicon personmenu-trigger" alt=""></a>
+					<strong class="username">By <a href="/photos/nasonurb/">brunosan</a></strong>
+				<span class="realname"> 		<span class="photo_navi_contact"><a href="/people/nasonurb/">	Bruno Sanchez-Andrade NuÃ±o</a></span><a class="badge_add_contact badge_edit_contact contact-changer-trigger" href="/people/nasonurb/relationship/">+ Add Contact</a>
+	</span>
+		</span>
+</p>
+
+						</div>
+		
+		<p id="photo-story-story">
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+						
+						
+									This photo was taken on <a href="/photos/nasonurb/archives/date-taken/2010/12/06/" title="Uploaded December 6, 2010. " class="ywa-track" data-ywa-name="Date, Taken on">December 6, 2010</a> in <a href="/photos/nasonurb/map/?photo=5238337232" id="photoGeolocation-storylink" onClick="return F.actionQueue.queue_click(this.id);" class="photo-story-geopanel-trigger ywa-track" data-ywa-name="Location, Taken in, Map">
+
+	
+	
+Lanier Heights,&nbsp;Washington,&nbsp;DC,&nbsp;US</a>, using an <a href="/photos/nasonurb/5238337232/meta/" class="ywa-track" data-ywa-name="Camera, Taken with">HTC Nexus One</a>.
+				
+					
+		
+		
+		</p>
+		
+
+		
+
+
+
+		
+			
+											
+	
+
+
+			
+			<div id="photo-story-map">
+		<a href="/photos/nasonurb/map/?photo=5238337232" id="photoGeolocation-smallmap" onClick="return F.actionQueue.queue_click(this.id);" class="photo-story-geopanel-trigger ywa-track" data-ywa-name="Location, Taken in, Map">
+
+							<img id="photo-story-map-zoom-out" class="map-gen-3" src="http://lbs.ovi.com/dmr/?nodot=1&f=0&nocrop=1&nocp=1&w=300&h=100&ml=eng&r1=,,,&c=38.923552,-77.044&z=3&z=3" width="300" height="100" alt="" style="opacity:0.7;">
+				<img id="photo-story-map-zoom-in" class="defer" src="http://l.yimg.com/g/images/spaceout.gif" data-defer-src="http://lbs.ovi.com/dmr/?nodot=1&f=0&nocrop=1&nocp=1&w=300&h=100&ml=eng&r1=,,,&c=38.923552,-77.044&z=6&z=6" width="300" height="100" alt="">
+				<img id="photo-story-map-zoom-street" class="defer" src="http://l.yimg.com/g/images/spaceout.gif" data-defer-src="http://lbs.ovi.com/dmr/?nodot=1&f=0&nocrop=1&nocp=1&w=300&h=100&ml=eng&r1=,,,&c=38.923552,-77.044&z=14&z=14" width="300" height="100" alt="">
+			
+			<div id="photo-story-image-dot"></div>
+		</a>
+		</div>
+		
+				
+				
+	
+		
+
+		
+
+		<div id="photo-story-stats">
+
+			<span id="view-count" class="stat-item">
+				<span class="stat-icon"></span>
+				143 <span class="full-text">views</span>
+			</span>	
+		
+			<a href="#comments" id="comment-count" class="stat-item">
+				<span class="stat-icon"></span>
+				1 <span class="full-text">comment</span>
+			</a>
+		
+			<a href="/photos/nasonurb/5238337232/favorites/" class="ywa-track stat-item zero" data-ywa-name="Favorites count" id="fave-count">
+				<span class="stat-icon"></span>
+				0 <span class="full-text">favorites</span>
+			</a>
+
+			<a href="/photos/nasonurb/5238337232/galleries/" class="ywa-track stat-item zero" data-ywa-name="Gallery count" id="gallery-count" data-gallery-count="0">
+				<span class="stat-icon"></span>
+				0 <span class="full-text">galleries</span>
+			</a>
+		</div>	</div>
+
+
+
+
+<div id="sidebar-contexts">
+
+
+	<h4 class="primary-context-label">This photo belongs to</h4>
+	<ul id="primary-context">
+
+
+	
+	<li id="context-stream-" data-context-id="photostream" data-context-type="stream" class="sidebar-context sidebar-context-open sidebar-context-first sidebar-context-first-only">
+
+		<div id="contextDiv_stream" class="ugly-temporary-hack" style="display:block;"></div>
+
+				
+						
+		<div class="context-header">
+						<a href="/photos/nasonurb/with/5238337232/" class="context-link context-stream chunk ywa-track" data-ywa-name="Context Title" id="context-link-stream-" onclick="return F.actionQueue.queue_click(this.id);">
+							<span class="context-wrapper">
+					<span class="context-icon"></span>
+					<span class="caret"></span>
+										<span class="context-title" title="brunosan's photostream">brunosan's photostream</span>
+					<small class="context-num" id="context-num-stream-">
+							(2,322)
+						</small>
+				</span>
+						</a>
+				
+		</div>
+
+		<div id="context-photos-stream" class="context-photos">
+			<ul id="context-photos-list-stream-" class="context-photos-list">
+				<li style="left:-122px" data-context-position="-2" class="loaded">
+						<a class="context-thumb-link ywa-track" href="/photos/nasonurb/5249151188/in/photostream/" title="2$ bill" data-ywa-name="Current context prev">
+						<img id="nextprev_thumb_stream5249151188" class="nextprev_thumb" src="http://farm6.staticflickr.com/5243/5249151188_df7b9c0bb5_s.jpg" width="56" height="56" alt="2$ bill">
+											</a>
+					</li>
+				<li style="left:-61px" data-context-position="-1" class="loaded">
+						<a class="context-thumb-link ywa-track" href="/photos/nasonurb/5242700436/in/photostream/" title="7:28 hours of battery with my MacBook Air. oh, yes. Ésa es mi Mac ina!" data-ywa-name="Current context prev">
+						<img id="nextprev_thumb_stream5242700436" class="nextprev_thumb" src="http://farm6.staticflickr.com/5125/5242700436_bf8347d06e_s.jpg" width="56" height="56" alt="7:28 hours of battery with my MacBook Air. oh, yes. Ésa es mi Mac ina!">
+											</a>
+					</li>
+				<li style="left:0px" data-context-position="0" class="loaded">
+					<a class="context-thumb-link" href="/photos/nasonurb/5238337232/in/photostream/">
+						<img id="nextprev_thumb_stream5238337232" class="nextprev_thumb" src="http://farm6.staticflickr.com/5290/5238337232_4bae72e415_s.jpg" width="58" height="58" alt="Welcome home Ms. MacBook Air.">
+											</a>
+				</li>
+				<li style="left:61px" data-context-position="1" class="loaded">
+						<a class="context-thumb-link ywa-track" href="/photos/nasonurb/5229056829/in/photostream/" title="Fojol brothers, ethiopian truck food. Por qué no se hace esto en España? #jobs" data-ywa-name="Context Widget (any photo)">
+						<img id="nextprev_thumb_stream5229056829" class="nextprev_thumb" src="http://farm6.staticflickr.com/5203/5229056829_b35d3bf937_s.jpg" width="56" height="56" alt="Fojol brothers, ethiopian truck food. Por qué no se hace esto en España? #jobs">
+											</a>
+					</li>
+				<li style="left:122px" data-context-position="2" class="loaded">
+						<a class="context-thumb-link ywa-track" href="/photos/nasonurb/5225022838/in/photostream/" title="At the inauguration of the &quot;Global Adaptation Institute&quot;. Really looking forward to see what they've prepared. #climate" data-ywa-name="Context Widget (any photo)">
+						<img id="nextprev_thumb_stream5225022838" class="nextprev_thumb" src="http://farm6.staticflickr.com/5208/5225022838_35baa4c3cb_s.jpg" width="56" height="56" alt="At the inauguration of the &quot;Global Adaptation Institute&quot;. Really looking forward to see what they've prepared. #climate">
+											</a>
+					</li>
+			</ul>
+		
+
+
+	
+		</div>
+	</li>
+	</ul>
+
+
+</div>
+
+
+
+
+
+
+<div id="sidecar">	
+			
+				
+
+			
+		<div id="photo-sidebar-tags" class="tag-list">
+		<h4>Tags</h4>
+
+	
+	<div id="thetags-wrapper">
+							<ul id="thetags" class="sidecar-list"><li id="tagdiv521605-5238337232-32526549" class="first tag-element"><span class="tag-wrapper"><a href="/photos/nasonurb/tags/brunosan/" data-tag="brunosan" data-photo-owner-screenname="brunosan" class="tag-item ywa-track" data-ywa-name="Tag(s)">brunosan</a></span></li><li id="tagdiv521605-5238337232-4649" class="last tag-element"><span class="tag-wrapper"><a href="/photos/nasonurb/tags/viaemail/" data-tag="viaemail" data-photo-owner-screenname="brunosan" class="tag-item ywa-track" data-ywa-name="Tag(s)">via email</a></span></li></ul><div class="clearfix"></div>
+				</div>
+	
+	
+	<div id="tag-global-search-template">
+	<!--
+		<div class="tag-global-search">
+	
+			<div class="bd">
+	
+				<div class="global-search-message">
+															<div class="added-by"></div>
+											<div class="from-this-member">View photos <a href="%s" title="View photos tagged with %s from %s" class="user_tag_search">from this member</a> or <a href="%s" title="View photos tagged with %s from everyone" class="global_tag_search ywa-track" data-ywa-name="Tag(s), Global">from everyone</a></div>
+									</div>
+
+				<div class="wedge"></div>
+
+			</div>
+
+		</div>
+	-->
+	</div>
+
+	
+	
+		<div id="machine_tag_toggle"class="empty">
+			<a href="#"  id="machine_tag_toggle_show"><span class="caret"></span>&nbsp;Show machine tags (<span id="span_machine_tags_show_count">0</span>)</a>
+			<a href="#"  id="machine_tag_toggle_hide"><span class="caret caret-down"></span>&nbsp;Hide machine tags (<span id="span_machine_tags_hide_count">0</span>)</a>
+		</div>
+
+		<div id="themachinetags-wrapper">
+			<ul id="themachinetags" class="icon-left sidecar-list">
+
+					</ul>
+			<div class="clear"> </div>
+		</div>
+	
+	</div>
+	
+		<div style="clear:both"></div>
+	
+	
+	
+				
+		
+	
+				
+		
+				 
+	
+		
+			
+		<div id="photo-sidebar-can-use" class="sidecar">
+		<h4>License</h4>
+
+		<ul class="icon-inline sidecar-list">
+			<li class="Stats license">
+		 		
+			    				<span class="force-left"><span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://l.yimg.com/g/images/spaceout.gif"  border="0" alt="Attribution" title="Attribution" class="f-sprite fs-cc_icon_attribution_small"></a></span>
+</span>
+
+				 				<a href="http://creativecommons.org/licenses/by/2.0/deed.en" rel="license cc:license">Some rights reserved</a>
+									
+		
+							</li>
+			 
+					
+					<li><span class="getty force-left"><img src="http://l.yimg.com/g/images/spaceout.gif" height="15" width="15" class="f-sprite fs-icon_getty_15x15"></span><a href="/photos/nasonurb/5238337232/request/" class="Plain">Request to license</a> brunosan's photos via Getty Images</li>	
+		
+			
+			
+				
+					</ul>
+	</div>
+		
+
+			
+		
+	<div id="photo-sidebar-privacy" class="sidecar">
+		<h4>Privacy</h4>
+
+		
+		<ul class="icon-left sidecar-list">
+			<li>
+											<img src="http://l.yimg.com/g/images/spaceout.gif" width="15" height="15" align="left" class="f-sprite fs-icon_public force-left"> 
+				This photo is visible to everyone										</li>
+			
+			
+			
+		</ul>
+		
+	</div>
+		
+				
+		
+	
+			
+	
+	
+	
+				</div>	
+
+
+
+
+
+			
+
+
+</div>
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+	<div id="shortcuts" class="enabled">
+		keyboard shortcuts:
+		<kbd>←</kbd> previous photo
+		<kbd>→</kbd> next photo
+		<kbd>L</kbd> view in light box
+				<kbd>F</kbd> favorite
+				<kbd>&lt;</kbd> scroll film strip left
+		<kbd>&gt;</kbd> scroll film strip right
+						<span class="keyboard-shortcut-legend-trigger">
+			<kbd>?</kbd> show all shortcuts
+		</span>
+			</div>
+
+
+
+
+	<div class="yui3-popover-content-hider share-this-v3-hider-fix">
+	<div id="options-menu">
+			<ul>
+								
+	
+										<li><a href="/photos/nasonurb/5238337232/sizes/" class="option-all-sizes ywa-track" data-ywa-name="All Sizes" tabindex="10"><span></span>View all sizes</a></li>		<li><a href="/photos/nasonurb/show/with/5238337232/" class="option-slideshow ywa-track" data-ywa-name="Slideshow" tabindex="10"><span></span>View slideshow</a></li>
+		<li><a href="/photos/nasonurb/5238337232/meta/" class="option-meta ywa-track" data-ywa-name="Camera, More properties" tabindex="10"><span></span>View Exif info</a></li>				
+													
+					</ul>	</div>
+	</div>
+
+	
+<div class="yui3-popover-content-hider share-this-v3-hider-fix">
+<div id="share-menu-v3" class=" share-menu-bs">
+
+	<ul class="share-panel-list">
+
+				
+
+
+		<li id="share-options-grablink" data-panel-name="link" class="share-options share-options-open">
+
+			<div class="share-options-header">
+				<span class="caret"></span> Grab the link
+			</div>
+				<div class="share-options-inner">
+				
+<form id="grab-link">
+			
+				
+		
+	<p>
+					Here's a link to this photo. Just copy and paste!
+				</p>
+						
+		<p><input type="text" value="http://www.flickr.com/photos/nasonurb/5238337232/" id="share-options-grablink-input"></p>
+						
+			<p id="short-url">
+		<input id="gp-short-url" name="gp-short-url" type="checkbox" data-url-short="http://flic.kr/p/8YTRab" data-url-long="http://www.flickr.com/photos/nasonurb/5238337232/">
+		<label for="gp-short-url">&nbsp;show short URL</label>
+	</p>
+	
+		
+
+</form>			</div>
+			</li>
+
+	
+			<li id="share-options-embed" data-panel-name="embed" class="share-options">
+		
+
+
+	
+	
+		
+										
+										
+										
+										
+										
+										
+								
+		
+		
+										
+		
+		
+										
+	
+				
+		
+																	
+	
+
+	
+		<div class="share-options-header"><span class="caret"></span> Grab the HTML/BBCode</div>
+		<div class="share-options-inner">
+			<p class="sharing_faded_text">Copy and paste the code below:</p>
+			<p class="sharing_embed_cont">
+
+				<textarea name="SharingEmbedMarkup" id="share-options-embed-textarea" rows="4" wrap="virtual" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupT" id="share-options-embed-textarea-t" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415_t.jpg&quot; width=&quot;100&quot; height=&quot;75&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupTBBCode" id="share-options-embed-textarea-t-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_4bae72e415_t.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupSQ" id="share-options-embed-textarea-sq" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415_s.jpg&quot; width=&quot;75&quot; height=&quot;75&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupSQBBCode" id="share-options-embed-textarea-sq-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_4bae72e415_s.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupQ" id="share-options-embed-textarea-q" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415_q.jpg&quot; width=&quot;150&quot; height=&quot;150&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupQBBCode" id="share-options-embed-textarea-q-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_4bae72e415_q.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupS" id="share-options-embed-textarea-s" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415_m.jpg&quot; width=&quot;240&quot; height=&quot;180&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupSBBCode" id="share-options-embed-textarea-s-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_4bae72e415_m.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupN" id="share-options-embed-textarea-n" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415_n.jpg&quot; width=&quot;320&quot; height=&quot;240&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupNBBCode" id="share-options-embed-textarea-n-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_4bae72e415_n.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupM" id="share-options-embed-textarea-m" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415.jpg&quot; width=&quot;500&quot; height=&quot;375&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupMBBCode" id="share-options-embed-textarea-m-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_4bae72e415.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupZ" id="share-options-embed-textarea-z" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415_z.jpg&quot; width=&quot;640&quot; height=&quot;480&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupZBBCode" id="share-options-embed-textarea-z-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_4bae72e415_z.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupC" id="share-options-embed-textarea-c" rows="4" wrap="virtual" style="display:none" class="embed-markup"></textarea>
+				<textarea name="SharingEmbedMarkupCBBCode" id="share-options-embed-textarea-c-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupL" id="share-options-embed-textarea-l" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_4bae72e415_b.jpg&quot; width=&quot;1024&quot; height=&quot;768&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+				<textarea name="SharingEmbedMarkupLBBCode" id="share-options-embed-textarea-l-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_4bae72e415_b.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupH" id="share-options-embed-textarea-h" rows="4" wrap="virtual" style="display:none" class="embed-markup"></textarea>
+									<textarea name="SharingEmbedMarkupOBBCode" id="share-options-embed-textarea-o-bbcode" rows="4" wrap="virtual" style="display:none" class="embed-markup">[url=http://www.flickr.com/photos/nasonurb/5238337232/][img]http://farm6.staticflickr.com/5290/5238337232_1b68261e57_o.jpg[/img][/url]
+[url=http://www.flickr.com/photos/nasonurb/5238337232/]Welcome home Ms. MacBook Air.[/url] by [url=http://www.flickr.com/people/nasonurb/]brunosan[/url], on Flickr</textarea>
+				<textarea name="SharingEmbedMarkupO" id="share-options-embed-textarea-o" rows="4" wrap="virtual" style="display:none" class="embed-markup">&lt;a href=&quot;http://www.flickr.com/photos/nasonurb/5238337232/&quot; title=&quot;Welcome home Ms. MacBook Air. by brunosan, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5290/5238337232_1b68261e57_o.jpg&quot; width=&quot;2592&quot; height=&quot;1944&quot; alt=&quot;Welcome home Ms. MacBook Air.&quot;&gt;&lt;/a&gt;</textarea>
+	
+			</p>
+
+	
+		<form id="sharing-get-html-form" action="#">
+
+			<select id="sharing_size" name="sharing_size">
+
+			
+			Size: <option value="Square" >						Square 75 (75 x 75)</option>Size: <option value="Large Square" >						Square 150 (150 x 150)</option>Size: <option value="Thumbnail" >						Thumbnail (100 x 75)</option>Size: <option value="Small" >						Small 240 (240 x 180)</option>Size: <option value="Small 320" >						Small 320 (320 x 240)</option>Size: <option value="Medium" selected="selected">						Medium 500 (500 x 375)</option>Size: <option value="Medium 640" >						Medium 640 (640 x 480)</option>Size: <option value="Large" >						Large 1024 (1024 x 768)</option>Size: <option value="Original" >						Original (2592 x 1944)</option>
+			</select>
+
+			<div id="code-types">
+				<input name="code-type" id="code-type-html" type="radio" value="html" checked="checked"> <label for="code-type-html">HTML</label>&nbsp;
+				<input name="code-type" id="code-type-bbcode" type="radio" value="BBCode"> <label for="code-type-bbcode">BBCode</label>
+			</div>
+
+			<div class="clearfix"></div>
+
+		</form>
+
+	
+			
+<p class="share-menu-v3-license-info">
+
+Photo license: 
+
+
+<span class="force-left"><span class="ccIcn ccIcnSmall"><a href="http://creativecommons.org/licenses/by/2.0/"><img src="http://l.yimg.com/g/images/spaceout.gif"  border="0" alt="Attribution" title="Attribution" class="f-sprite fs-cc_icon_attribution_small"></a></span>
+</span>
+
+	 <a href="http://creativecommons.org/licenses/by/2.0/deed.en" rel="license cc:license">Some rights reserved</a>
+		
+</p>			</div>		</li>
+	
+	</ul>
+
+	<div class="clearfix"></div>
+
+</div>
+</div>
+
+    	</div>
+
+
+	
+
+ 	<div id="foot" class="new-foot" role="contentinfo">
+		<div id="foot-wrap" class="clearfix">
+	 			<div id="foot-nav" class="clearfix">
+	<div class="foot-nav-col-new">
+		<dl>
+			
+			<dt>About Flickr</dt>
+			<dd><a href="/about/">Who we are</a></dd>
+			<dd><a href="/tour/">Take the tour</a></dd>
+			<dd><a href="http://blog.flickr.net/">Flickr blog</a></dd>
+			<dd><a href="/jobs/">Jobs</a></dd>
+		</dl>
+	</div>
+	<div class="foot-nav-col-new">
+		<dl>
+			<dt>Community</dt> 
+			<dd><a href="/help/guidelines/">Community Guidelines</a></dd>
+			<dd><a id="ft-report-abuse" href="/abuse/">Report abuse</a></dd>
+		</dl>
+	</div>
+	<div class="foot-nav-col-new">
+		<dl>
+			<dt>Help</dt>
+			<dd><a href="/help/">Need help? Start here!</a></dd>
+			<dd><a href="/help/forum/">Help forum</a></dd>
+			<dd><a href="/help/faq/">FAQs</a></dd>
+			<dd><a href="http://info.yahoo.com/relevantads" target="_blank">About Our Ads</a></dd>		</dl>
+	</div>
+	<div class="foot-nav-col-new">
+		<dl>
+			<dt>Apps and the API</dt>
+			<dd><a href="/mobile">Flickr for mobile</a></dd>
+			<dd><a href="/services/">App Garden</a></dd>
+			<dd><a href="/services/api/">API documentation</a></dd>
+			<dd><a href="http://code.flickr.com/">Developer blog</a></dd>
+			<dd><a href="/services/developer/">Developer Guide</a></dd>
+		</dl>
+	</div>
+	<div class="foot-nav-col-new last">
+		<dl>			<dd><a class="ft-twitter" title="Twitter" href="http://twitter.com/flickr"><span class="icon"></span><span class="link-text">Follow us</span></a></dd>
+			<dd><a class="ft-facebook" title="Facebook" href="http://facebook.com/flickr"><span class="icon"></span><span class="link-text">Like us</span></a></dd>
+			
+		</dl>
+	</div>
+	
+</div>				<div id="foot-lang">
+						<ul>
+			<li><a href="/change_language.gne?lang=zh-hk&magic_cookie=2d1a87110583b6a1571fadc93c0f6192" class="image_link" id="lang_zh-hk"><img src="http://l.yimg.com/g/images/spaceout.gif" width="45" height="13" id="langselect_zh-hk" alt="繁體中文"></a></li>
+			<li><a href="/change_language.gne?lang=de-de&magic_cookie=2d1a87110583b6a1571fadc93c0f6192">Deutsch</a></li>
+			<li><a href="/change_language.gne?lang=en-us&magic_cookie=2d1a87110583b6a1571fadc93c0f6192" class="selected">English</a></li>
+			<li><a href="/change_language.gne?lang=es-us&magic_cookie=2d1a87110583b6a1571fadc93c0f6192">Espa&#241;ol</a></li>
+			<li><a href="/change_language.gne?lang=fr-fr&magic_cookie=2d1a87110583b6a1571fadc93c0f6192">Fran&#231;ais</a></li>
+			<li><a href="/change_language.gne?lang=ko-kr&magic_cookie=2d1a87110583b6a1571fadc93c0f6192" class="image_link" id="lang_ko-kr"><img src="http://l.yimg.com/g/images/spaceout.gif" width="23" height="13" id="langselect_ko-kr" alt="한글"></a></li>
+			<li><a href="/change_language.gne?lang=it-it&magic_cookie=2d1a87110583b6a1571fadc93c0f6192">Italiano</a></li>
+			<li><a href="/change_language.gne?lang=pt-br&magic_cookie=2d1a87110583b6a1571fadc93c0f6192">Portugu&#234;s</a></li>
+			<li><a href="/change_language.gne?lang=vn-vn&magic_cookie=2d1a87110583b6a1571fadc93c0f6192">Tiếng Việt</a></li>			<li class="last"><a href="/change_language.gne?lang=id-id&magic_cookie=2d1a87110583b6a1571fadc93c0f6192">Bahasa Indonesia</a></li>					</ul>
+			</div>
+			<div id="foot-legalsleeze">
+				<div>
+					<a href="/help/terms/">Terms of Use</a> <span style="color: #eee;">|</span> 
+					<a href="/help/privacy-policy/">Your privacy</a> <span style="color: #eee;">|</span>
+					<a href="http://safely.yahoo.com">Yahoo! Safely</a>					 <span style="color: #eee;">|</span> <a href="http://info.yahoo.com/legal/us/yahoo/copyright/en-us/">Copyright/IP Policy</a>				</div>
+				<div>
+					Copyright &copy; 2012 Yahoo! Inc. All rights reserved.<br>Map images by Nokia, <a href="/map/attribution/" target="_blank">copyright info</a>				</div>
+			</div>
+			</div>
+	</div>
+
+<div id="global-dialog-background"></div>
+
+
+
+
+
+
+
+<div id="page-gen"><!-- page generated by www1 (in bf1) at 01:14:00 07/02/12 in 273ms --></div>
+
+
+ 
+
+
+
+
+			
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--beacons: 0 -->
+
+
+
+
+
+
+
+
+		<script>
+	(function() {
+				
+
+	
+		
+	
+F.intl = 'en-us';
+
+var yconf = {"flickr":{"flags":{"enable_grease":true,"enable_advanced_gestures":true,"enable_advanced_gestures_lightbox":true,"enable_fave_keyboard_shortcut":true,"enable_sets_keyboard_shortcut":true,"enable_faves_manage":true,"enable_galleries_context":true,"enable_rapid_tracking":true,"enable_groups_keyboard_shortcut":true,"enable_gallery_keyboard_shortcut":true,"enable_addperson_keyboard_shortcut":true,"enable_tags_keyboard_shortcut":true,"enable_comments_keyboard_shortcut":true,"enable_sitekey_fetcher":true,"enable_keyboard_shortcut_legend":true,"enable_keyboard_shortcut_legend_keyboard_layouts":true,"enable_keyboard_shortcuts":true,"enable_faves_page_flanal":true,"enable_viewing_party_ie9_support_messages":true,"enable_facebook_2":true,"enable_touch_lightbox_searchified":true,"enable_tag_selecta_uploadr":true,"enable_exif_thumbs":true,"enable_retina_justified":true,"aviary_photo_editing":true,"enable_jsfail_detection":true,"enable_farm_timing_sampling":true,"enable_high_res_pref":true,"enable_liquid_everything":true},"farm_samples":{"f1":4,"f2":5,"f3":15,"f4":20,"f5":20,"f6":20,"f7":20,"f8":70,"f9":20,"f10":20},"is_zeus":true,"page_type":"photo","page_owner":"64887888@N00","justified_row_height":210,"lang":"en-us","photo_root":"http:\/\/farm.staticflickr.com\/","site_root":"http:\/\/www.flickr.com","images_root":"http:\/\/l.yimg.com\/g\/images","intl_images_root":"http:\/\/l.yimg.com\/g\/images\/en-us","int2lang":{"1":"en-us","2":"fr-fr","3":"es-us","4":"de-de","5":"it-it","6":"pt-br","7":"ko-kr","9":"zh-hk","13":"vn-vn","14":"id-id"},"search":{"search_default":"","search_alias":"nasonurb","textsearch_enabled":true,"search_scope":"all","search_profile_nsid":"64887888@N00"},"dejaview":{"id":"8YTRab"},"photos":[],"contact_limit":3000,"server_timestamp":1341216840,"magic_cookie":"2d1a87110583b6a1571fadc93c0f6192","filmstrips":{"preload_page_count":2,"photos_per_page":4,"container":"#sidebar"},"notes":{"can_add_note":false,"can_add_person":false,"photo_id":"5238337232","ratio":1.28,"count":0,"max_count":100},"photo":{"id":"5238337232"},"video_player_version":"109786","lightbox":{"enable":true,"enable_faves":true,"enable_comments":true,"enable_favorites_count":true,"node_prune_threshold":50,"node_prune_amount":10,"position_preload_limit":10,"position_preload_threshold":5,"image_preload_limit":2,"hd_default":false,"video_autoplay":true,"enable_mobile_lightbox":true,"enable_mobile_lightbox_pinch_zoom":true,"enable_fullscreen":true},"max_photo_ids_per_api_call":20,"flickr_api_uri_direct":"http:\/\/api.flickr.com\/services\/rest\/","user":{"user_ok":false,"useragent_fully_supported":true,"enable_alternate_map_type":4},"printing":{"use_printcart":true,"snapfish_cart_url":"http:\/\/www.snapfish.com\/flickrentry\/"},"sharing":{"use_share_this_v3":true,"object":{"owner_nsid":"64887888@N00","type":"photo","id":"5238337232"}},"nav_selecta":{"additional_sections":[{"name":"Terms of Use","sectionType":"text","url":"\/help\/terms\/"},{"name":"Your Privacy","sectionType":"text","url":"\/help\/privacy-policy\/"},{"name":"Copyright\/IP Policy","sectionType":"text","url":"http:\/\/info.yahoo.com\/legal\/us\/yahoo\/copyright\/en-us\/"}],"photostream_search_user":{"nsid":"64887888@N00","owner_name_possessive":"brunosan's"}},"people":{"api_url":"","can_only_add_self":false},"tags":{"api_url":""}},"flickrAPI":{"flickr_api_uri":"\/services\/rest\/","api_key":"9571a18fff689bea3996339ffce198aa","auth_hash":"2d1a87110583b6a1571fadc93c0f6192","auth_token":"","secret":"632dc593389ab91c"},"flickrMap":{"generatedInYconf":true,"enable_alternate_tiles_plugin":1,"nokia_slippy_tile_host":"maptile.lbs.ovi.com","nokia_slippy_tile_path":"maptiler\/v2\/maptile\/","nokia_slippy_tile_version":"newest","nokia_tile_app_id":"jFUN9E0JFN_TXnDyO88h","nokia_tile_api_token":"XoOs1zgg22N_l6qNMEKs-A"},"yui2":"2.5.2","loadOptional":false,"combine":true,"root":"","base":"http:\/\/l.yimg.com\/g\/combo\/1\/3.5.0?","comboBase":"http:\/\/l.yimg.com\/g\/combo\/1\/3.5.0?","workerBase":"\/combo\/1\/3.5.0?","maxURLLength":1999,"dev":false,"debug":false,"modules":{"account-order-transjax":{"path":"j\/.IR-order-.C-.F.A.vYVDi","requires":["transjax-base","yui-base"],"ext":false},"account-order-zeus":{"path":"j\/.IR-order-.D.A.v23RYp","requires":["account-order-transjax","io-base","sprintf","yui-base"],"ext":false},"account-rules":{"path":"j\/.IR-rules.A.vY7UX","requires":["dd-constrain","dd-drop","dd-proxy","event","flickr-dialog-confirmation","gallery-flickr-api","node","yui-base"],"ext":false},"ad-masker":{"path":"j\/ad-masker.A.vUFeV","requires":["context-manager","node","yui-base"],"ext":false},"add-to-dialog-css":{"path":"c\/c_add-to-.W-.D.BC.vYjx6","type":"css","ext":false},"addressbook":{"path":"j\/.HE.A.v22NwB","requires":["better-throttle","event","gallery-flickr-api","io","node","yui-base"],"ext":false},"autocomplete-2-5-1":{"path":"j\/.CM\/.BA_2.5.1-.D.A.vPzut","requires":["yui2-datasource","yui2-dom","yui2-event","yui2-yahoo"],"ext":false},"aviary-editor-frame-css":{"path":"c\/c_aviary-.GZor-frame.BC.v238Ri","type":"css","ext":false},"aviary-editor-frame-transjax":{"path":"j\/aviary-.GZor-frame-.C-.F.A.v22w9B","requires":["transjax-base","yui-base"],"ext":false},"aviary-editor-frame":{"path":"j\/aviary-.GZor-frame.A.v22YPa","requires":["base","aviary-editor-frame-css","aviary-editor-frame-transjax","event","flickr-dialog-frame","flickr-dialog-spinner","yui-base"],"ext":false},"beehive-contact-suggestions":{"path":"j\/.IT-.FF-.IL.A.v22NwB","requires":["anim","beehive-contact-suggestions-transjax","contact-changer","gallery-flickr-api","node","yui-base"],"ext":false},"beehive-contact-suggestions-transjax":{"path":"j\/.IT-.FF-.IL-.C-.F.A.vR9sk","requires":["transjax-base","yui-base"],"ext":false},"better-throttle":{"path":"j\/.EH-.EB.A.vWJ4i","requires":["yui-base","yui-later"],"ext":false},"bitmap-text":{"path":"j\/.Z-.DK-.D.A.vLQEp","requires":["yui-base"],"ext":false},"bitmap-type-silkscreen":{"path":"j\/.Z-.DJ-.BJ.A.vLQEp","requires":["yui-base"],"ext":false},"boomerang":{"path":"j\/boomerang.A.v235xV","requires":["yui-base"],"ext":false},"box-host":{"path":"j\/box-.DG.A.v23NMV","requires":["event-mousedrag","math","node","yui-base"],"ext":false},"bo-selecta":{"path":"j\/.HO-.D.A.v22NwB","requires":["anim","autocomplete-2-5-1","bo-selecta-css","bo-selecta-transjax","event","event-custom","gallery-flickr-api","io-base","node","string-filters","yui-base"],"ext":false},"bo-selecta-3":{"path":"j\/.HO-3.A.v23pfp","requires":["anim","autocomplete","bo-selecta-3-css","bo-selecta-global-search-datasource","bo-selecta-transjax","datasource-function","event","event-custom","gallery-flickr-api","image-fader","io-base","node","string-filters","yui-base"],"optional":["contact-changer"],"ext":false},"bo-selecta-css":{"path":"c\/c_.HO-.D.BC.vSJiV","type":"css","ext":false},"bo-selecta-3-css":{"path":"c\/c_.HO-3.BC.v223Np","type":"css","ext":false},"bo-selecta-global-search-datasource":{"path":"j\/.HO-.X-.CA-.BYsource.A.v22NwB","requires":["bo-selecta-transjax","datasource-local","gallery-flickr-api","yui-base"],"ext":false},"bo-selecta-transjax":{"path":"j\/.HO-.C-.F.A.vT2dX","requires":["transjax-base","yui-base"],"ext":false},"cache-simple":{"path":"j\/.EJ-.GK.A.vS6ox","requires":["yui-base"],"ext":false},"comscore":{"path":"j\/comscore.A.v22NTi","ext":false},"contact-changer":{"path":"j\/.FF-.FG-.D.A.vXp7P","requires":["contact-changer-css","contact-changer-transjax","event-custom","event-delegate","gallery-flickr-api","global-dialog","io-base","yui-base"],"ext":false},"contact-changer-css":{"path":"c\/c_.FF-.FG-.D.BC.vQmmc","type":"css","ext":false},"contact-changer-transjax":{"path":"j\/.FF-.FG-.C-.F.A.vLpu4","requires":["transjax-base","yui-base"],"ext":false},"context-data":{"path":"j\/.H-.BY.A.v23NF2","requires":["event-custom","gallery-flickr-api","photo-data","urls","yui-base"],"ext":false},"context-manager":{"path":"j\/.H-.K.A.vUjRa","requires":["event-custom","yui-base"],"ext":false},"dataview":{"path":"j\/.BY.JB.A.v23Hge","requires":["yui-base"],"ext":false},"defer-images":{"path":"j\/.GI-.GC.A.v232Gp","requires":["node-visibility","retry-image-on-error","yui-base"],"ext":false},"dejaview":{"path":"j\/deja.JB-.D.A.vNstM","requires":["cookie","yui-base"],"ext":false},"editr":{"path":"j\/.GZr.A.v23aHV","requires":["boomerang","context-manager","editr-edit-panel","editr-errors","editr-grid","editr-publish-dialog","editr-toolbar","event-base","feature-tour","health-check","gallery-popover","polyfills-placeholder","yui-base"],"optional":["editr-file-picker","editr-photo-picker","editr-upload-queue","flickr-dialog"],"ext":false},"editr-data-base":{"path":"j\/.GZr-.BY-.BL.A.v23ETi","requires":["array-extras","event-custom","yui-base"],"ext":false},"editr-data-groups":{"path":"j\/.GZr-.BY-.DMs.A.v23nZZ","requires":["editr-data-photos","editr-data-base","type-cast","yui-base"],"ext":false},"editr-data-people":{"path":"j\/.GZr-.BY-.L.A.vZXG4","requires":["editr-data-base","type-cast","yui-base"],"ext":false},"editr-data-photos":{"path":"j\/.GZr-.BY-.EC.A.v22vuF","requires":["editr-data-base","type-cast","yui-base"],"ext":false},"editr-data-sets":{"path":"j\/.GZr-.BY-sets.A.v22RFn","requires":["editr-data-photos","editr-data-base","type-cast","yui-base"],"ext":false},"editr-edit-panel":{"path":"j\/.GZr-.GZ.IC.A.v23Asp","requires":["better-throttle","editr-data-photos","editr-edit-panel-tooltip","editr-edit-panel-groups","editr-edit-panel-owner-settings","editr-edit-panel-people","editr-edit-panel-sets","editr-edit-panel-tags","editr-edit-panel-title-description","editr-edit-panel-transjax","editr-grid","event-base","substitute","string-filters","yui-base"],"ext":false},"editr-edit-panel-component":{"path":"j\/.GZr-.GZ.IC-component.A.v22jGP","requires":["event-base","keyboard-shortcut-manager","yui-base"],"ext":false},"editr-edit-panel-groups":{"path":"j\/.GZr-.GZ.IC-.DMs.A.v23P9B","requires":["editr-data-photos","editr-data-groups","editr-edit-panel-tooltip","editr-edit-panel-transjax","event-base","flickr-dialog","keyboard-shortcut-manager","string-filters","yui-base"],"ext":false},"editr-edit-panel-location":{"path":"j\/.GZr-.GZ.IC-.BR.A.v21Cze","requires":["editr-data-photos","editr-edit-panel-component","editr-edit-panel-transjax","yui-base"],"ext":false},"editr-edit-panel-owner-settings":{"path":"j\/.GZr-.GZ.IC-.BK-.FR.A.v23BDn","requires":["editr-data-photos","editr-edit-panel-component","editr-edit-panel-transjax","yui-base"],"ext":false},"editr-edit-panel-people":{"path":"j\/.GZr-.GZ.IC-.L.A.v22AiZ","requires":["bo-selecta-3","editr-data-people","editr-data-photos","editr-edit-panel-component","editr-edit-panel-transjax","event-base","flickr-dialog","photo-keyboard-shortcuts-transjax","photo-people-transjax","string-filters","yui-base"],"ext":false},"editr-edit-panel-sets":{"path":"j\/.GZr-.GZ.IC-sets.A.v23P9B","requires":["editr-data-photos","editr-data-sets","editr-edit-panel-tooltip","editr-edit-panel-transjax","event-base","flickr-dialog","keyboard-shortcut-manager","string-filters","yui-base"],"ext":false},"editr-edit-panel-tags":{"path":"j\/.GZr-.GZ.IC-tags.A.v23Bwt","requires":["editr-data-photos","editr-edit-panel-transjax","event-base","tag-selecta","yui-base"],"ext":false},"editr-edit-panel-title-description":{"path":"j\/.GZr-.GZ.IC-title-description.A.v23Cvn","requires":["better-throttle","editr-data-photos","editr-edit-panel-transjax","event-base","focus-tracker","yui-base"],"ext":false},"editr-edit-panel-tooltip":{"path":"j\/.GZr-.GZ.IC-tooltip.A.v23NMV","requires":["editr-edit-panel-tooltip-css","editr-edit-panel-tooltip-transjax","event-base","gallery-popover","yui-base"],"ext":false},"editr-edit-panel-tooltip-css":{"path":"c\/c_.GZr-.GZ.IC-tooltip.BC.v22oAF","type":"css","ext":false},"editr-edit-panel-tooltip-transjax":{"path":"j\/.GZr-.GZ.IC-tooltip-.C-.F.A.v22HRV","requires":["transjax-base","yui-base"],"ext":false},"editr-edit-panel-transjax":{"path":"j\/.GZr-.GZ.IC-.C-.F.A.v23x6z","requires":["transjax-base","yui-base"],"ext":false},"editr-errors":{"path":"j\/.GZr-errors.A.v23ykZ","requires":["editr-data-photos","yui-base"],"ext":false},"editr-exif":{"path":"j\/.GZr-.GO.A.v23Pbk","requires":["editr-data-photos","exif-thumbnail-extractor","datatype-xml","worker","yui-base"],"ext":false},"editr-file-picker":{"path":"j\/.GZr-file-picker.A.v23LjP","requires":["datatype","editr-data-photos","editr-exif","flickr-dialog","gallery-flickr-api","health-check","md5","string-filters","uploader","yui-base"],"ext":false},"editr-grid":{"path":"j\/.GZr-grid.A.v23RN4","requires":["editr-grid-transjax","editr-data-photos","event-custom","editr-zoom","editr-errors","flickr-dialog","focus-tracker","gallery-popover","menus","yui-base"],"optional":["editr-upload-queue"],"ext":false},"editr-grid-transjax":{"path":"j\/.GZr-grid-.C-.F.A.v23EnZ","requires":["transjax-base","yui-base"],"ext":false},"editr-photo-picker":{"path":"j\/.GZr-.B-picker.A.vZW9p","requires":["editr-data-photos","flickr-dialog-spinner","flickr-geo","gallery-flickr-api","yui-base"],"ext":false},"editr-publish-dialog":{"path":"j\/.GZr-publish-.W.A.v23rbt","requires":["editr-publisher","editr-publisher-transjax","editr-upload-queue","event-base","event-custom","flickr-dialog","gallery-flickr-api","health-check","yui-base"],"optional":["flanal"],"ext":false},"editr-publisher":{"path":"j\/.GZr-publisher.A.v23D1F","requires":["editr-data-people","editr-data-photos","editr-data-sets","editr-errors","editr-publisher-transjax","editr-upload-queue","event-base","event-custom","flickr-dialog","gallery-flickr-api","health-check","yui-base"],"ext":false},"editr-publisher-transjax":{"path":"j\/.GZr-publisher-.C-.F.A.v23o2H","requires":["transjax-base","yui-base"],"ext":false},"editr-toolbar":{"path":"j\/.GZr-toolbar.A.v23nBz","requires":["editr-grid","menus","yui-base"],"ext":false},"editr-upload-queue":{"path":"j\/.GZr-upload-.CT.A.v23Mu4","requires":["editr-data-photos","editr-errors","editr-file-picker","editr-publisher","event-custom","gallery-flickr-api","health-check","json","yui-base"],"ext":false},"editr-zoom":{"path":"j\/.GZr-zoom.A.v23foB","requires":["editr-data-photos","editr-file-picker","event-base","event-custom","flickr-dialog","node-event-html5","yui-base"],"ext":false},"exif-extractor":{"path":"j\/.GO-.IN.A.v23Hge","requires":["exif-extractor-tags","xmp-extractor","yui-base"],"ext":false},"exif-extractor-tags":{"path":"j\/.GO-.IN-tags.A.v21yYB","requires":["yui-base"],"ext":false},"exif-thumbnail-extractor":{"path":"j\/.GO-.IM-.IN.A.vWJcV","requires":["yui-base"],"ext":false},"event-annotations":{"path":"j\/.G-.BD.A.vNHST","requires":["yui-base"],"ext":false},"event-mousedrag":{"path":"j\/.G-.BO.A.vWNQT","requires":["event-annotations","event-custom-complex","event-synthetic","node","yui-base","yui-throttle"],"ext":false},"fave-star":{"path":"j\/.CX-.CY.A.v23AVZ","requires":["anim","node","yui-base"],"ext":false},"farm_timing":{"path":"j\/farm_.FZ.A.v23iXv","requires":["node","yui-base","io","event"],"ext":false},"feature-tour":{"path":"j\/feature-.DA.A.v22Vxv","requires":["anim","cookie","dom","event","photo","feature-tour-css","feature-tour-transjax","yui-base"],"ext":false},"feature-tour-css":{"path":"c\/c_feature-.DA.BC.v22Vxv","type":"css","ext":false},"feature-tour-transjax":{"path":"j\/feature-.DA-.C-.F.A.v22t7K","requires":["transjax-base","yui-base"],"ext":false},"flanal":{"path":"j\/.IU.A.vWvCB","requires":["yui-base"],"optional":["io"],"ext":false},"flapid":{"path":"j\/flapid.A.vT5pr","requires":["gallery-flickr-api","yui-base"],"ext":false},"flickr":{"path":"j\/.J-.D.A.v21B4i","requires":["flickr-tooltips","personmenu","yui-base"],"optional":["gallery-flickr-api","share-this-v3-menu"],"ext":false},"flickr-dialog":{"path":"j\/.IZ.A.vXokZ","requires":["flickr-dialog-alert","flickr-dialog-confirmation","flickr-dialog-destructive-confirmation","flickr-dialog-frame","flickr-dialog-short-message","flickr-dialog-spinner","yui-base"],"ext":false},"flickr-dialog-alert":{"path":"j\/.IZ-alert.A.vYz1K","requires":["flickr-dialog-base","substitute","yui-base"],"ext":false},"flickr-dialog-base":{"path":"j\/.IZ-.BL.A.v23yhx","requires":["attribute","better-throttle","context-manager","event","event-custom","focus-tracker","flickr-dialog-css","global-dialog-transjax","keyboard-shortcut-manager","node","substitute","yui-base"],"ext":false},"flickr-dialog-confirmation":{"path":"j\/.IZ-confirmation.A.vYzPi","requires":["flickr-dialog-base","substitute","yui-base"],"ext":false},"flickr-dialog-css":{"path":"c\/c_.IZ.BC.vZbk2","type":"css","ext":false},"flickr-dialog-destructive-confirmation":{"path":"j\/.IZ-destructive-confirmation.A.v227uc","requires":["flickr-dialog-base","yui-base"],"ext":false},"flickr-dialog-frame":{"path":"j\/.IZ-frame.A.vXqP6","requires":["flickr-dialog-base","yui-base"],"ext":false},"flickr-dialog-geo-css":{"path":"c\/c_.IZ-geo.BC.vZP3k","type":"css","ext":false},"flickr-dialog-geo":{"path":"j\/.IZ-geo.A.vZP3k","requires":["flickr-dialog-base","flickr-dialog-geo-css","flickr-map2","yui-base"],"ext":false},"flickr-dialog-infinite-spinner-css":{"path":"c\/c_.IZ-infinite-spinner.BC.v23BaM","type":"css","ext":false},"flickr-dialog-infinite-spinner":{"path":"j\/.IZ-infinite-spinner.A.v21TaM","requires":["flickr-dialog-base","flickr-dialog-infinite-spinner-css","yui-base","html5-balls"],"ext":false},"flickr-dialog-short-message":{"path":"j\/.IZ-short-message.A.vYz1K","requires":["flickr-dialog-base","substitute","yui-base"],"ext":false},"flickr-dialog-spinner":{"path":"j\/.IZ-spinner.A.vXUzr","requires":["flickr-dialog-base","yui-base"],"ext":false},"flickr-gallery-comments":{"path":"j\/.J-.FW-.O.A.vY4GK","requires":["anim","anim-scroll","context-manager","dejaview","event-custom","event-delegate","formatting-tips-css","gallery-flickr-api","global-dialog","history-manager","input-hint","io-form","node","node-visibility","photo-comments-transjax","swfobject","yui-base"],"ext":false},"flickr-gallery-gallery-owner":{"path":"j\/.J-.FW-.FW-.BK.A.vVtRn","requires":["dd-drop","dd-proxy","event","flickr-gallery-gallery-owner-transjax","flickr-gallery-photo-remover","insitu","node","yui-base"],"ext":false},"flickr-gallery-gallery-owner-actions-menu":{"path":"j\/.J-.FW-.FW-.BK-.IS-.BB.A.vVtRn","requires":["event","gallery-popover","menus","node","yui-base"],"optional":["flickr-gallery-gallery-owner"],"ext":false},"flickr-gallery-gallery-owner-transjax":{"path":"j\/.J-.FW-.FW-.BK-.C-.F.A.vUnPz","requires":["transjax-base","yui-base"],"ext":false},"flickr-gallery-keyboard-shortcuts":{"path":"j\/.J-.FW-.HZs.A.vXp7P","requires":["anim","anim-scroll","better-throttle","event","flickr-gallery-keyboard-shortcuts-transjax","keyboard-shortcut-manager","node","node-visibility","yui-base"],"ext":false},"flickr-gallery-keyboard-shortcuts-transjax":{"path":"j\/.J-.FW-.HZs-.C-.F.A.vUDUk","requires":["transjax-base","yui-base"],"ext":false},"flickr-gallery-photo-owner":{"path":"j\/.J-.FW-.B-.BK.A.vVtRn","requires":["event","flickr-gallery-photo-remover","node","yui-base"],"ext":false},"flickr-gallery-photo-remover":{"path":"j\/.J-.FW-.B-.IP.A.vUus4","requires":["event","flickr-gallery-photo-remover-transjax","gallery-flickr-api","global-dialog","node","yui-base"],"ext":false},"flickr-gallery-photo-remover-transjax":{"path":"j\/.J-.FW-.B-.IP-.C-.F.A.vUioF","requires":["transjax-base","yui-base"],"ext":false},"flickr-geo":{"path":"j\/.J-geo.A.vZWAg","requires":["io","yui-base"],"ext":false},"flickr-leaflet-utils":{"path":"j\/.J-leaflet-utils.A.v23SmP","requires":["osm-places","yui-base"],"ext":false},"flickr-location-search":{"path":"j\/.J_.BR_.CA.A.vTd1P","requires":["event","node","query-string-args","yui-base"],"ext":false},"flickr-map":{"path":"j\/.J-map.A.v23FHz","requires":["flickr-map-transjax","base","selector-css3","slider","gallery-flickr-api","photo","dragdrop","dd-drag","flickr-map-css","flickr-map-css-intl","excanvas","json","gallery-storage-lite","better-throttle","selector-circle","yui-base"],"ext":false},"flickr-map2":{"path":"j\/.J-map2.A.v23xMe","requires":["flickr-map-transjax","base","selector-css3","slider","dragdrop","dd-drag","flickr-map-css","cookie","context-manager","keyboard-shortcut-manager","flickr-geo","yui-base","event"],"ext":false},"flickr-map-provider-ymap":{"path":"j\/.J-.IK-ymap.A.v231xa","requires":["ymap","yui-base","yui2_5-yahoo","yui2_5-event","yui2_5-dom","yui2_5-animation","yui2_5-dragdrop"],"ext":false},"flickr-map-provider-bing":{"path":"j\/.J-.IK-bing.A.vRygn","requires":["bing_map","yui-base"],"ext":false},"flickr-map-provider-ovi":{"path":"j\/.J-.IK-ovi.A.v21obK","requires":["yui-base"],"ext":false},"flickr-map-provider-gmap":{"path":"j\/.J-.IK-gmap.A.vZg4a","requires":["yui-base"],"ext":false},"flickr-map-provider-flickr_osm":{"path":"j\/.J-.IK-.J_osm.A.v23Q54","requires":["yui-base"],"ext":false},"flickr-map-transjax":{"path":"j\/.J-map-.C-.F.A.vWtST","requires":["transjax-base","yui-base"],"ext":false},"flickr-map-css":{"path":"c\/c_.J-map.BC.v21obK","type":"css","ext":false},"flickr-map-css-intl":{"path":"c\/c_.J-map-.F.BC.vPfWB","type":"css","ext":false},"flickr-nav":{"path":"j\/.J_nav.A.v23DZz","requires":["event","node","context-manager","yui-base"],"ext":false},"flickr-overlay-css":{"path":"c\/c_.J-overlay-.BL.BC.v21tNB","type":"css","ext":false},"flickr-overlay-base":{"path":"j\/.J-overlay-.BL.A.v21tNB","requires":["attribute","better-throttle","context-manager","event","event-custom","focus-tracker","flickr-overlay-css","keyboard-shortcut-manager","node","substitute","yui-base"],"ext":false},"flickr-page-timing":{"path":"j\/.J_.GF_.FZ.A.v23vfF","requires":["event","node","yui-base"],"ext":false},"flickr-printing":{"path":"j\/.J_.FD.A.vU6PZ","requires":["node","event","io","gallery-flickr-api","event-delegate","global-dialog","sprintf","flickr-printing-css","flickr-printing-transjax","flickr-tooltips","yui-base"],"ext":false},"flickr-printing-css":{"path":"c\/c_.J_.FD_.D.BC.vMaXn","type":"css","ext":false},"flickr-printing-transjax":{"path":"j\/.J_.FD-.C-.F.A.vNwWp","requires":["transjax-base","yui-base"],"ext":false},"flickr-tagrs":{"path":"j\/.BF_.D.A.v23NMV","requires":["event","event-delegate","flickr-tagrs-transjax","node","node-visibility","photo","query-string-args","urls","yui-base"],"ext":false},"flickr-tagrs-transjax":{"path":"j\/.BF_.D-.C-.F.A.vPGYX","requires":["transjax-base","yui-base"],"ext":false},"flickr-tooltips":{"path":"j\/.J-.GA.A.vThpZ","requires":["event","event-delegate","yui-base"],"ext":false},"focus-tracker":{"path":"j\/.CV-.CH.A.v22DsK","requires":["event","node","yui-base"],"ext":false},"formatting-tips-css":{"path":"c\/c_.EN_.EQ_.D.BC.vPVcz","type":"css","ext":false},"gallery-boomr":{"path":"j\/.FW-boomr.A.vS9f4","requires":["lang","yui-base"],"ext":false},"gallery-calendar":{"path":"j\/.FW-.IO.A.vXyki","requires":["gallery-calendar-transjax","gallery-popover","node","yui-base"],"ext":false},"gallery-calendar-transjax":{"path":"j\/.FW-.IO-.C-.F.A.vXh6V","requires":["transjax-base","yui-base"],"ext":false},"gallery-flickr-api":{"path":"j\/.J_api.A.v23gzz","requires":["dump","event","io-xdr","json-parse","yui-base"],"ext":false},"gallery-history-lite":{"path":"j\/.FW-.CE-.GH.A.vL4in","requires":["event-custom","event-custom-complex","node","yui-base"],"ext":false},"gallery-popover":{"path":"j\/.FW-.HN.A.v22W8Z","requires":["event-custom","node","overlay","yui-base"],"ext":false},"gallery-popover-css":{"path":"c\/c_.FW-.HN.BC.v23HJP","type":"css","ext":false},"gallery-storage-lite":{"path":"j\/.FW-.FX-.GH.A.vTo82","requires":["event-base","event-custom","event-custom-complex","json","yui-base"],"ext":false},"geo-exif-backfill-transjax":{"path":"j\/geo-.GO-.IF-.C-.F.A.vXkce","requires":["transjax-base","yui-base"],"ext":false},"geofences-geopanel-css":{"path":"c\/c_.IA-.IB.BC.vXjHD","type":"css","ext":false},"geofences-geopanel-transjax":{"path":"j\/.IA-.IB-.C-.F.A.vXjvz","requires":["transjax-base","yui-base"],"ext":false},"geofences-geopanel":{"path":"j\/.IA-.IB.A.v23iMa","requires":["geofences-geopanel-transjax","geofences-geopanel-css","geopanel","global-dialog","map-pinwin","yui-base"],"ext":false},"geofences":{"path":"j\/.IA.A.vWZSx","requires":["base","yui-base"],"optional":["gallery-flickr-api"],"ext":false},"geofences-apply-panel":{"path":"j\/.IA.IE.IC.A.vXjvz","requires":["anim","event","event-custom","gallery-flickr-api","geofences","geofences-transjax","global-dialog","io","node","node-visibility","yui-base"],"optional":["geofences-geopanel"],"ext":false},"geofences-apply-progress":{"path":"j\/.IA.IE.ID.A.vXa62","requires":["better-throttle","event-custom","gallery-flickr-api","geofences","yui-base"],"ext":false},"geofences-list-view":{"path":"j\/.IA-.CZ-.JB.A.vX1fX","requires":["better-throttle","event","event-custom","geofences-geopanel","geofences","geofences-apply-panel","geofences-apply-progress","global-dialog","io","node","yui-base"],"optional":["anim"],"ext":false},"geofences-prefs-map":{"path":"j\/.IA-prefs-map.A.vXW1c","requires":["node","event","css3pie","flickr-map","geofences","geofences-transjax","geofences-prefs-map-transjax","map-pinwin","yui-base"],"ext":false},"geofences-prefs-map-transjax":{"path":"j\/.IA-prefs-map-.C-.F.A.v21yYB","requires":["transjax-base","yui-base"],"ext":false},"geofences-transjax":{"path":"j\/.IA-.C-.F.A.vX5dg","requires":["transjax-base","yui-base"],"ext":false},"geopanel-css":{"path":"c\/c_.IB.BC.vXjM6","type":"css","ext":false},"geopanel":{"path":"j\/.IB.A.v22UwT","requires":["event","global-dialog","geopanel-css","yui-base"],"optional":["autocomplete-2-5-1","flickr-map","gallery-flickr-api"],"ext":false},"getty":{"path":"j\/.FI_new.A.vT8GP","requires":["anim","dom","event","gallery-flickr-api","node","yui-base"],"ext":false},"global-dialog":{"path":"j\/.X-.W-.D.A.vXp7P","requires":["context-manager","event","event-custom","event-delegate","event-key","focus-tracker","global-dialog-css","global-dialog-transjax","keyboard-shortcut-manager","node","yui-base"],"ext":false},"global-dialog-css":{"path":"c\/c_.X-.W-.D.BC.vZF8H","type":"css","ext":false},"global-dialog-transjax":{"path":"j\/.X-.W-.C-.F.A.vKPQk","requires":["transjax-base","yui-base"],"ext":false},"gn-darklaunch":{"path":"j\/gn-darklaunch.A.v23SgD","requires":["murmurhash","io","yui-base"],"ext":false},"gn-model":{"path":"j\/gn-.JA.A.v23SgD","requires":["model","murmurhash","io","yui-base"],"ext":false},"gn-you-model":{"path":"j\/gn-you-.JA.A.v23NYg","requires":["model","yui-base","gn-model"],"ext":false},"gn-explore-model":{"path":"j\/gn-.FP-.JA.A.v23SgD","requires":["model","yui-base","gn-model"],"ext":false},"gn-contacts-model":{"path":"j\/gn-.FFs-.JA.A.v23NYg","requires":["model","gn-model","yui-base"],"ext":false},"gn-gear-model":{"path":"j\/gn-gear-.JA.A.v22naV","requires":["model","gn-model","yui-base"],"ext":false},"gn-contacts-view":{"path":"j\/gn-.FFs-.JB.A.v23RPM","requires":["view","justifier","handlebars","gn-you-model","yui-base"],"ext":false},"gn-explore-view":{"path":"j\/gn-.FP-.JB.A.v23RPM","requires":["view","handlebars","justifier","gn-you-model","yui-base"],"ext":false},"gn-gear-view":{"path":"j\/gn-gear-.JB.A.v22naV","requires":["view","handlebars","gn-you-model","yui-base"],"ext":false},"gn-you-view":{"path":"j\/gn-you-.JB.A.v23RJB","requires":["view","handlebars","gn-you-model","justifier","yui-base"],"ext":false},"gn-groups-view":{"path":"j\/gn-.DMs-.JB.A.v23RPM","requires":["view","handlebars","gn-you-model","yui-base"],"ext":false},"gn-groups-model":{"path":"j\/gn-.DMs-.JA.A.v23Nwp","requires":["view","handlebars","gn-groups-model","yui-base"],"ext":false},"gn-global-nav-view":{"path":"j\/gn-.JE.A.v23JVM","requires":["view","handlebars","gn-you-model","yui-base","transition"],"ext":false},"global-nav":{"path":"j\/.JC.A.v23LVi","requires":["context-manager","event","gallery-flickr-api","gallery-storage-lite","gn-you-view","gn-you-model","gn-model","gn-gear-model","gn-gear-view","gn-contacts-view","gn-contacts-model","gn-groups-view","gn-groups-model","gn-explore-model","gn-explore-view","gn-global-nav-view","handlebars","io","model","node","substitute","yui-base","view"],"ext":false},"group-blast-insitu":{"path":"j\/.DM-blast-.DT.A.vUvsF","requires":["event","insitu","node","string-filters","yui-base"],"ext":false},"guestpass-hide":{"path":"j\/.DZ-.ET.A.vVdVR","requires":["anim","cookie","node","yui-base"],"ext":false},"grease":{"path":"j\/.HQ.A.v23NMV","requires":["event-focus","gallery-flickr-api","gallery-storage-lite","global-dialog","json","node","occult","photo-data","urls","yui-base"],"ext":false},"grease-css":{"path":"c\/c_.HQ.BC.vZqNF","type":"css","ext":false},"health-check":{"path":"j\/health-check.A.v22qwK","requires":["event-custom","gallery-flickr-api","yui-base"],"ext":false},"history-manager":{"path":"j\/.CE-.K.A.v23NF2","requires":["event","urls","yui-base"],"ext":false},"html5-balls":{"path":"j\/html5-balls.A.v21TaM","requires":["event","urls","base","yui-base","html5-balls-css"],"ext":false},"html5-balls-css":{"path":"c\/c_html5-balls.BC.v211kv","type":"css","ext":false},"image-fader":{"path":"j\/.CW-.CU.A.vZNyK","requires":["anim","node","yui-base"],"ext":false},"infinite-scrolling-transjax":{"path":"j\/infinite-scrolling-.C-.F.A.v21C6D","requires":["transjax-base","yui-base"],"ext":false},"input-hint":{"path":"j\/.CN-.DD.A.v23LDM","requires":["event-focus","focus-tracker","node","yui-base"],"ext":false},"input-counter":{"path":"j\/.CN-counter.A.vUvzz","requires":["event","node","yui-base"],"ext":false},"india-disclaimer":{"path":"j\/.IH.A.vRTta","requires":["event","global-dialog","io-base","node","yui-base"],"ext":false},"insitu":{"path":"j\/.DT-.D.A.v23qUX","requires":["input-counter","dejaview","event-custom","event-key","gallery-flickr-api","insitu-transjax","json-stringify","node","string-filters","substitute","yui-base"],"optional":["anim","anim-scroll","io","photo-data"],"ext":false},"insitu-transjax":{"path":"j\/.DT-.C-.F.A.vTQBe","requires":["transjax-base","yui-base"],"ext":false},"jfif-extractor":{"path":"j\/jfif-.IN.A.v23Hge","requires":["yui-base"],"ext":false},"jobs":{"path":"j\/jobs.A.v23ypr","requires":["event","flanal","flickr-page-timing","io","motion-blur","node","popup-login","rapid-tracker","transition","yui-base"],"ext":false},"justifier":{"path":"j\/justifier.A.v23RPM","requires":["yui-base"],"ext":false},"keyboard-shortcut-legend":{"path":"j\/.HZ-.HY.A.vYgRV","requires":["better-throttle","context-manager","cookie","gallery-flickr-api","global-dialog","keyboard-shortcut-legend-css","keyboard-shortcut-legend-layouts","keyboard-shortcut-legend-transjax","yui-base"],"ext":false},"keyboard-shortcut-legend-css":{"path":"c\/c_.HZ-.HY.BC.vYjx6","type":"css","ext":false},"keyboard-shortcut-legend-layouts":{"path":"j\/.HZ-.HY-layouts.A.vYgFz","requires":["keyboard-shortcut-legend-transjax","yui-base"],"ext":false},"keyboard-shortcut-legend-transjax":{"path":"j\/.HZ-.HY-.C-.F.A.vYgTD","requires":["transjax-base","yui-base"],"ext":false},"keyboard-shortcut-manager":{"path":"j\/.HZ-.K.A.v23NMV","requires":["context-manager","event-custom","event-focus","event-key","focus-tracker","keyboard-shortcut-legend","node","yui-base"],"optional":["photo-people-list"],"ext":false},"leaflet":{"path":"j\/leaflet.A.v23P2H","requires":["flickr-leaflet-utils","leaflet-css","leaflet-utils-css","yui-base"],"ext":false},"leaflet-css":{"path":"c\/c_leaflet.BC.v23Dp6","type":"css","ext":false},"leaflet-utils-css":{"path":"c\/c_leaflet-utils.BC.v23QB6","type":"css","ext":false},"lightbox":{"path":"j\/.N.A.v23Sk6","requires":["anim","better-throttle","context-data","context-manager","cookie","node","event-annotations","event-custom","event-delegate","event-gestures","event-key","fave-star","gallery-flickr-api","history-manager","json","keyboard-shortcut-manager","lightbox-transjax","node-visibility","photo-context-menu","photo-transjax","photo-ywa-tracking","rapid-tracker","string-filters","swfobject","transition","urls","view-count","yui-base","yui-throttle"],"optional":["global-dialog","search-results-display-transjax"],"ext":false},"lightbox-transjax":{"path":"j\/.N-.C-.F.A.v2397P","requires":["transjax-base","yui-base"],"ext":false},"liquid-photo-resizer":{"path":"j\/liquid-.B-resizer.A.v233Dz","requires":["event"],"ext":false},"liquid-resizer":{"path":"j\/liquid-resizer.A.v22DzD","requires":["event"],"ext":false},"location-picker-css":{"path":"c\/c_.BR-picker.BC.vZRmP","type":"css","ext":false},"location-picker":{"path":"j\/.BR-picker.A.vZRmP","requires":["location-picker-css","keyboard-shortcut-manager","flickr-geo","event","map-pinwin","dragdrop","dd-drag","yui-base"],"ext":false},"location-selecta-css":{"path":"c\/c_.BR-.S.BC.vYRsc","type":"css","ext":false},"location-selecta":{"path":"j\/.BR-.S.A.vZPh8","requires":["location-selecta-css","keyboard-shortcut-manager","flickr-geo","event","yui-base"],"ext":false},"mail-zeus":{"path":"j\/mail-.D.A.vYGeH","requires":["mail-zeus-transjax","flickr-dialog-confirmation","event","node","yui-base"],"ext":false},"mail-zeus-transjax":{"path":"j\/mail-.D-.C-.F.A.vYCRa","requires":["transjax-base","yui-base"],"ext":false},"map-pinwin":{"path":"j\/map-.IV.A.vYzkH","requires":["map-pinwin-css","string-filters","yui-base"],"ext":false},"map-pinwin-css":{"path":"c\/c_map-.IV.BC.vWsVH","type":"css","ext":false},"math":{"path":"j\/.DL.A.vLPjP","requires":["yui-base"],"ext":false},"matrix-math":{"path":"j\/matrix-.DL.A.vVRWp","requires":["yui-base"],"ext":false},"md5":{"path":"j\/md5-.D.A.vXTyP","ext":false},"menus":{"path":"j\/.BBs.A.vWxVn","requires":["base","context-manager","event","event-custom","gallery-popover","keyboard-shortcut-manager","node","yui-base"],"ext":false},"motion-blur":{"path":"j\/motion-blur.A.vUD1B","requires":["node","transition","yui-base"],"ext":false},"mrpinchy":{"path":"j\/mrpinchy.A.vWCYt","requires":["node","event","event-custom","transition","urls","matrix-math","yui-base"],"ext":false},"murmurhash":{"path":"j\/murmurhash3_gc.A.v23PFD","ext":false},"nav-selecta":{"path":"j\/nav-.S.A.v23tLt","requires":["bo-selecta-3","keyboard-shortcut-manager","nav-selecta-css","nav-selecta-transjax","nav-selecta-rapid","node","string-filters","yui-base"],"ext":false},"nav-selecta-css":{"path":"c\/c_nav-.S.BC.vU1S4","type":"css","ext":false},"nav-selecta-transjax":{"path":"j\/nav-.S-.C-.F.A.v23tYx","requires":["transjax-base","yui-base"],"ext":false},"nav-selecta-rapid":{"path":"j\/nav-.S-.IY.A.v22o1c","requires":["event","rapid-tracker","yui-base"],"ext":false},"node-visibility":{"path":"j\/.CR-.DY.A.v21zQB","requires":["better-throttle","cache-simple","node","node-pluginhost","yui-base"],"optional":["anim","anim-scroll"],"ext":false},"note-data":{"path":"j\/note-.BY.A.vRjAg","requires":["base","person-data","yui-base"],"ext":false},"notification-base":{"path":"j\/notification-.BL.A.v22wAt","requires":["attribute","notification-center"],"ext":false},"notification-center":{"path":"j\/notification-center.A.v22wQg","requires":["attribute","cookie","event","event-custom","gallery-flickr-api"],"ext":false},"number":{"path":"j\/.Y.A.vSPsc","requires":["number-transjax","yui-base"],"ext":false},"number-transjax":{"path":"j\/.Y-.C-.F.A.vNqGk","requires":["transjax-base","yui-base"],"ext":false},"occult":{"path":"j\/.CF.A.vNC2e","requires":["node","yui-base"],"ext":false},"osm-places":{"path":"j\/osm-places.A.v23Sin","requires":["yui-base"],"ext":false},"pagination-keyboard-shortcuts":{"path":"j\/.EG-.HZs.A.vXp7P","requires":["keyboard-shortcut-manager","node","pagination-keyboard-shortcuts-transjax","yui-base"],"ext":false},"pagination-keyboard-shortcuts-transjax":{"path":"j\/.EG-.HZs-.C-.F.A.vUYz6","requires":["transjax-base","yui-base"],"ext":false},"person-data":{"path":"j\/.FK-.BY.A.vRjAg","requires":["base","yui-base"],"ext":false},"personmenu":{"path":"j\/.CB-.D.A.vYCj8","requires":["anim","anim-scroll","cache-simple","event-custom","io-base","node","node-visibility","personmenu-css","personmenu-transjax","personmenu-rapid","yui-base"],"optional":["contact-changer"],"ext":false},"personmenu-css":{"path":"c\/c_.CB-.D.BC.vYjx6","type":"css","ext":false},"personmenu-transjax":{"path":"j\/.CB-.C-.F.A.vNwWp","requires":["transjax-base","yui-base"],"ext":false},"personmenu-rapid":{"path":"j\/.CB-.IY.A.vZzGc","requires":["event","rapid-tracker","yui-base"],"ext":false},"photo":{"path":"j\/.B-.D.A.v23LQ8","requires":["anim","anim-scroll","context-data","context-manager","event-annotations","event-custom","event-delegate","event-key","event-mousedrag","event-mouseenter","focus-tracker","global-dialog","history-manager","keyboard-shortcut-manager","math","node-visibility","occult","photo-button-bar","photo-comments","photo-context-menu","photo-data","photo-keyboard-shortcuts","photo-notes","photo-sidebar","photo-ywa-tracking","retry-image-on-error","lightbox","urls","yahoo-ult","yui-base"],"optional":["gallery-flickr-api","photo-insitu"],"ext":false},"photo-button-bar":{"path":"j\/.B-.T-bar.A.v23S9K","requires":["add-to-dialog-css","context-data","context-manager","event","event-custom","event-delegate","event-key","fave-star","focus-tracker","gallery-flickr-api","gallery-popover","global-dialog","io-base","keyboard-shortcut-manager","menus","node","node-event-simulate","photo-button-bar-transjax","photo-people-list","querystring-stringify-simple","urls","yui-base"],"optional":["flickr-printing","photo-notes","photo-replace","photo-rotate","picnik"],"ext":false},"photo-button-bar-transjax":{"path":"j\/.B-.T-bar-.C-.F.A.v22Etn","requires":["transjax-base","yui-base"],"ext":false},"photo-comments":{"path":"j\/.B-.O.A.v23QZv","requires":["anim","anim-scroll","context-manager","dejaview","event-custom","event-delegate","formatting-tips-css","gallery-flickr-api","global-dialog","history-manager","input-hint","io-form","node","node-visibility","photo-comments-transjax","photo-data","swfobject","yui-base"],"optional":["insitu"],"ext":false},"photo-comments-image-hiding":{"path":"j\/.B-.O-.CW-hiding.A.vTJvM","requires":["node","yui-base"],"ext":false},"photo-comments-transjax":{"path":"j\/.B-.O-.C-.F.A.v23QZv","requires":["transjax-base","yui-base"],"ext":false},"photo-context-menu":{"path":"j\/.B-.H-.BB.A.v23cmK","requires":["event","node","photo","photo-context-menu-css","photo-context-menu-transjax","photo-data","urls","yui-base"],"ext":false},"photo-context-menu-css":{"path":"c\/c_.B-.H-.BB.BC.vNzuF","type":"css","ext":false},"photo-context-menu-transjax":{"path":"j\/.B-.H-.BB-.C-.F.A.v221oK","requires":["transjax-base","yui-base"],"ext":false},"photo-data":{"path":"j\/.B-.BY.A.v23LC4","requires":["anim","base","cookie","event","gallery-flickr-api","grease","node","photo-transjax","type-cast","urls","yui-base"],"ext":false},"photo-filmstrip":{"path":"j\/.B-.M.A.v23KY8","requires":["anim","base","better-throttle","context-data","context-manager","event","event-custom","event-delegate","event-key","focus-tracker","global-dialog","image-fader","io","keyboard-shortcut-manager","node","number","photo-button-bar-transjax","photo-data","photo-filmstrip-transjax","retry-image-on-error","string-filters","transition","urls","yui-base"],"ext":false},"photo-filmstrip-transjax":{"path":"j\/.B-.M-.C-.F.A.vVkjx","requires":["transjax-base","yui-base"],"ext":false},"photo-geolocation":{"path":"j\/.B-.R.A.v23FHz","requires":["context-manager","global-dialog","photo","photo-geolocation-transjax","yui-base"],"optional":["autocomplete-2-5-1","flickr-map","gallery-flickr-api","photo-geolocation-css"],"ext":false},"photo-geolocation-transjax":{"path":"j\/.B-.R-.C-.F.A.vXt8z","requires":["transjax-base","yui-base"],"ext":false},"photo-geolocation-css":{"path":"c\/c_.B-.R.BC.vVSAk","type":"css","ext":false},"photo-geopanel":{"path":"j\/.B-.IB.A.v23xMe","requires":["yui-base"],"ext":false},"photo-group-invites":{"path":"j\/.B-.DM-.CO.A.v23NMV","requires":["context-data","gallery-flickr-api","global-dialog","node","photo","photo-group-invites-transjax","yui-base"],"ext":false},"photo-group-invites-transjax":{"path":"j\/.B-.DM-.CO-.C-.F.A.vU8jc","requires":["transjax-base","yui-base"],"ext":false},"photo-insitu":{"path":"j\/.B-.DT.A.v23qN4","requires":["insitu","photo","photo-data","photo-transjax","yui-base"],"ext":false},"photo-keyboard-shortcuts":{"path":"j\/.B-.HZs.A.v23zbg","requires":["context-manager","cookie","event-focus","event-key","event-simulate","focus-tracker","keyboard-shortcut-manager","node","photo-keyboard-shortcuts-transjax","yui-base"],"optional":["photo-people-list"],"ext":false},"photo-keyboard-shortcuts-transjax":{"path":"j\/.B-.HZs-.C-.F.A.v21yYB","requires":["transjax-base","yui-base"],"ext":false},"photo-map-display-pinwin-css":{"path":"c\/c_.B-map-.IQ-.IV.BC.vYzkH","type":"css","ext":false},"photo-map-display-pinwin":{"path":"j\/.B-map-.IQ-.IV.A.vZtQx","requires":["flickr-geo","map-pinwin","base","photo-map-display-pinwin-css","yui-base"],"ext":false},"photo-notes":{"path":"j\/.B-.BE-.D.A.v23NMV","requires":["better-throttle","bo-selecta-3","bo-selecta-transjax","box-host","event","event-annotations","event-delegate","focus-tracker","gallery-flickr-api","global-dialog","node","node-visibility","photo-notes-transjax","photo-people-controller","photo-people-transjax","string-filters","urls","yui-base"],"optional":["note-data"],"ext":false},"photo-notes-transjax":{"path":"j\/.B-.BE-.C-.F.A.vYpcM","requires":["transjax-base","yui-base"],"ext":false},"photo-owner-dialogs-css":{"path":"c\/c_.B-.BK-.EO-.D.BC.vSewX","type":"css","ext":false},"photo-people-controller":{"path":"j\/.HX-.BH.A.v22NwB","requires":["event","gallery-flickr-api","dejaview","photo-people-transjax","yui-base"],"ext":false},"photo-people-list":{"path":"j\/.HX-.CZ.A.v23NMV","requires":["anim","bo-selecta-3","event-delegate","global-dialog","node-visibility","photo","photo-people-controller","photo-people-transjax","string-filters","urls","yui-base"],"optional":["photo-notes"],"ext":false},"photo-people-transjax":{"path":"j\/.HX-.C-.F.A.vNxQ8","requires":["transjax-base","yui-base"],"ext":false},"photo-preloader":{"path":"j\/.B-.FJ.A.v22ACX","requires":["context-data","event","yui-base"],"ext":false},"photo-replace":{"path":"j\/.B-.GQ.A.v23Sdc","requires":["event","global-dialog","io","node","yui-base"],"optional":["flanal","worker"],"ext":false},"photo-rotate":{"path":"j\/.B-.GE.A.vVgGc","requires":["anim","event","gallery-flickr-api","node","photo","photo-data","photo-rotate-css","photo-rotate-transjax","yui-base"],"ext":false},"photo-rotate-css":{"path":"c\/c_.B-.GE.BC.vYx5F","type":"css","ext":false},"photo-rotate-transjax":{"path":"j\/.B-.GE-.C-.F.A.vPnbF","requires":["transjax-base","yui-base"],"ext":false},"photo-session-marketing":{"path":"j\/.IJ-marketing.A.vXAyB","requires":["event","gallery-flickr-api","global-dialog","node","viewing-party-invitation-creator-transjax","yahoo-web-analytics","yui-base"],"ext":false},"photo-sidebar":{"path":"j\/.HV.A.v23S9K","requires":["anim","bitmap-text","bitmap-type-silkscreen","event-custom","event-delegate","excanvas","flapid","gallery-flickr-api","io-base","node","node-visibility","photo-data","photo-filmstrip","photo-sidebar-transjax","querystring-stringify-simple","stylesheet","yui-base"],"optional":["context-data"],"ext":false},"photo-sidebar-transjax":{"path":"j\/.HV-.C-.F.A.vPKTV","requires":["transjax-base","yui-base"],"ext":false},"photo-sidebar-not-owner":{"path":"j\/.HV-.HW.A.v23NMV","requires":["gallery-flickr-api","global-dialog","photo-owner-dialogs-css","photo-sidebar","photo-sidebar-not-owner-transjax","yui-base"],"ext":false},"photo-sidebar-not-owner-transjax":{"path":"j\/.HV-.HW-.C-.F.A.vNwZR","requires":["transjax-base","yui-base"],"ext":false},"photo-sidebar-owner":{"path":"j\/.HV-.BK.A.v23NMV","requires":["better-throttle","context-manager","event-custom","gallery-flickr-api","global-dialog","photo-owner-dialogs-css","photo-data","photo-sidebar","photo-sidebar-owner-transjax","yui-base"],"ext":false},"photo-sidebar-owner-transjax":{"path":"j\/.HV-.BK-.C-.F.A.vX3nn","requires":["transjax-base","yui-base"],"ext":false},"photo-tour":{"path":"j\/.B-.DA.A.vNGEc","requires":["anim","cookie","dom","event","photo","photo-tour-transjax","yui-base"],"ext":false},"photo-tour-transjax":{"path":"j\/.B-.DA-.C-.F.A.vN3j4","requires":["transjax-base","yui-base"],"ext":false},"photo-transjax":{"path":"j\/.B-.C-.F.A.vQ7Ta","requires":["transjax-base","yui-base"],"ext":false},"photo-ywa-tracking":{"path":"j\/.B-ywa-.BW.A.vPwkH","requires":["event","yahoo-web-analytics","yui-base"],"ext":false},"photos-user-favorites":{"path":"j\/.EC-user-.FH.A.vQd5T","requires":["event","io","node","yui-base"],"ext":false},"photos-display":{"path":"j\/.EC-.IQ.A.v23sKR","requires":["photos-display-css","event","io","node","photo-data","selector-css3","photos-display-transjax","yui-base"],"ext":false},"photos-display-transjax":{"path":"j\/.EC-.IQ-.C-.F.A.vUYVM","requires":["transjax-base","yui-base"],"ext":false},"photos-display-css":{"path":"c\/c_.EC-.IQ.BC.v23CS4","type":"css","ext":false},"photostream-insitu":{"path":"j\/.ECtream-.DT.A.vVjPe","requires":["event","insitu","node","yui-base"],"ext":false},"picnik":{"path":"j\/.EY-.D.A.v23NMV","requires":["global-dialog","io-base","json","picnik-css","picnik-transjax","swfobject","yui-base"],"ext":false},"picnik-css":{"path":"c\/c_.EY-.D.BC.vRXiz","type":"css","ext":false},"picnik-transjax":{"path":"j\/.EY-.C-.F.A.vLqsX","requires":["transjax-base","yui-base"],"ext":false},"polyfills-placeholder":{"path":"j\/polyfills-placeholder.A.v23CyP","requires":["node","yui-base"],"ext":false},"popup-login":{"path":"j\/.HP.A.vXeMr","requires":["event","node","io-base","yui-base"],"ext":false},"pro-upsell-bandwidth-limit-notification":{"path":"j\/pro-upsell-bandwidth-limit-notification.A.v22wQg","requires":["flickr-dialog-confirmation","notification-base","pro-upsell-notification-transjax"],"ext":false},"pro-upsell-photo-limit-notification":{"path":"j\/pro-upsell-.B-limit-notification.A.v22xh8","requires":["flickr-dialog-confirmation","notification-base","pro-upsell-notification-transjax"],"ext":false},"pro-upsell-notification-transjax":{"path":"j\/pro-upsell-notification-.C-.F.A.v22xh8","requires":["transjax-base","yui-base"],"ext":false},"query-string-args":{"path":"j\/.CP-.U-.DE.A.vKEJK","requires":["yui-base"],"ext":false},"rapid-tracker":{"path":"j\/.IY-.CH.A.v22e2v","requires":["yui-base"],"ext":false},"retry-image-on-error":{"path":"j\/retry-.CW-on-error.A.v22TPv","requires":["event-base","yui-base","yui-later"],"optional":["flanal"],"ext":false},"rev-dan-map":{"path":"j\/rev-dan-map.A.v23RaR","requires":["event-base","yui-base"],"ext":false},"rushmore-settings":{"path":"j\/.FS-.FR.A.v21HLX","requires":["event","event-delegate","global-dialog","io","node","yui-base"],"ext":false},"search-refer":{"path":"j\/.CA-.DX-.D.A.vT4tZ","requires":["anim","cookie","node","yahoo-ult","yui-base"],"ext":false},"search-results-display":{"path":"j\/.CA-.II.A.v23PDV","requires":["anim","anim-scroll","better-throttle","cookie","defer-images","event","flanal","gallery-flickr-api","gallery-popover","global-dialog","io","keyboard-shortcut-manager","menus","murmurhash","node","node-visibility","pagination-keyboard-shortcuts","photo-data","search-results-display-transjax","string-filters","better-throttle","urls","yui-base"],"optional":["lightbox"],"ext":false},"search-results-display-transjax":{"path":"j\/.CA-.II-.C-.F.A.vYV8Z","requires":["transjax-base","yui-base"],"ext":false},"selector-circle-css":{"path":"c\/c_.GB-circle.BC.vWLRn","type":"css","ext":false},"selector-circle":{"path":"j\/.GB-circle.A.vXbxv","requires":["base","css3pie","event","selector-circle-css","yui-base"],"ext":false},"set-meta-insitu":{"path":"j\/set-meta-.DT.A.vTUoc","requires":["event","insitu","node","yui-base"],"ext":false},"share-menu-transjax":{"path":"j\/.DN-.BB-.D-.C-.F.A.vVvzn","requires":["transjax-base","yui-base"],"ext":false},"share-this-v3-account-settings":{"path":"j\/.HG-.IR-.FR.A.v21yYB","requires":["dom","event","global-dialog","io","io-form","querystring-stringify-simple","yui-base"],"ext":false},"share-this-v3-css":{"path":"c\/c_.HG.BC.v23S2R","type":"css","ext":false},"share-this-v3-dialog":{"path":"j\/.HG-.W.A.vXKSg","requires":["dom","event","global-dialog","io-base","node","share-menu-transjax","share-this-v3-dialog-css","share-this-v3-dialog-transjax","share-this-v3-services","yui-base"],"optional":["flanal"],"ext":false},"share-this-v3-dialog-css":{"path":"c\/c_.HG-.W.BC.vX3iV","type":"css","ext":false},"share-this-v3-dialog-transjax":{"path":"j\/.HG-.W-.C-.F.A.vVVDV","requires":["transjax-base","yui-base"],"ext":false},"share-this-v3-menu":{"path":"j\/.HG-.BB.A.v23NMV","requires":["better-throttle","dom","event","event-custom","gallery-flickr-api","gallery-popover","global-dialog","io-base","json-stringify","menus","node","share-menu-transjax","share-this-v3-triggers","yui-base"],"optional":["photo-data"],"ext":false},"share-this-v3-service-blogger":{"path":"j\/.HF.HJ.A.vU5pe","requires":["share-this-v3-services","yui-base"],"ext":false},"share-this-v3-service-email":{"path":"j\/.HF.HH.A.vXp7P","requires":["bo-selecta-3","share-this-v3-services","share-this-v3-service-email-transjax","yui-base"],"ext":false},"share-this-v3-service-email-transjax":{"path":"j\/.HF.HH-.C-.F.A.vTPCk","requires":["transjax-base","yui-base"],"ext":false},"share-this-v3-service-facebook":{"path":"j\/.HF.HL.A.v22bcH","requires":["share-this-v3-services","yui-base"],"ext":false},"share-this-v3-service-livejournal":{"path":"j\/.HF.HT.A.vTV8i","requires":["share-this-v3-services","yui-base"],"ext":false},"share-this-v3-service-tumblr":{"path":"j\/.HF.HU.A.vVs3c","requires":["share-this-v3-services","yui-base"],"ext":false},"share-this-v3-service-twitter":{"path":"j\/.HF.HK.A.vVJx6","requires":["share-this-v3-services","share-this-v3-service-twitter-transjax","yui-base"],"ext":false},"share-this-v3-service-twitter-transjax":{"path":"j\/.HF.HK-.C-.F.A.vUELk","requires":["transjax-base","yui-base"],"ext":false},"share-this-v3-service-wordpress":{"path":"j\/.HF.HM.A.vVt5x","requires":["share-this-v3-services","yui-base"],"ext":false},"share-this-v3-service-yahoo-pulse":{"path":"j\/.HF.CM-.HI.A.vU1vn","requires":["share-this-v3-services","yui-base"],"ext":false},"share-this-v3-service-pinterest":{"path":"j\/.HFpinterest.A.v22VZn","requires":["share-this-v3-services","yui-base"],"ext":false},"share-this-v3-services":{"path":"j\/.HG-.HR.A.vVs3c","requires":["share-this-v3-service-blogger","share-this-v3-service-email","share-this-v3-service-facebook","share-this-v3-service-livejournal","share-this-v3-service-pinterest","share-this-v3-service-tumblr","share-this-v3-service-twitter","share-this-v3-service-wordpress","share-this-v3-service-yahoo-pulse","yui-base"],"ext":false},"share-this-v3-triggers":{"path":"j\/.HG-.HS.A.vXKTZ","requires":["event","flanal","node","share-this-v3-dialog","yui-base"],"ext":false},"sprintf":{"path":"j\/.CC.A.vVNpe","requires":["yui-base"],"ext":false},"string-filters":{"path":"j\/.U-.CG.A.v23pni","requires":["yui-base"],"ext":false},"soup":{"path":"j\/soup.A.vZfUx","requires":["event","flanal","flickr-page-timing","io","motion-blur","node","popup-login","rapid-tracker","transition","yui-base"],"ext":false},"tag-selecta":{"path":"j\/tag-.S.A.vZj4i","requires":["anim","autocomplete","tag-selecta-css","tag-selecta-transjax","datasource-function","event","event-custom","gallery-flickr-api","image-fader","io-base","node","string-filters","yui-base"],"ext":false},"tag-selecta-css":{"path":"c\/c_tag-.S.BC.vYiGP","type":"css","ext":false},"tag-selecta-transjax":{"path":"j\/tag-.S-.C-.F.A.vYx98","requires":["transjax-base","yui-base"],"ext":false},"timing-average":{"path":"j\/.FZ-.JJ.A.v22o1c","requires":["cookie","event","yui-base"],"ext":false},"tour-nav":{"path":"j\/.DA-nav.A.vWSJK","requires":["anim","node","node-event-simulate","io","querystring","history","yahoo-ult","yui-base"],"ext":false},"tour-carousel":{"path":"j\/.DA-.ER.A.vN3Ux","requires":["anim","node","yui-base"],"ext":false},"touch-lightbox":{"path":"j\/touch-.N.A.v2392D","requires":["node","event","gallery-flickr-api","history-manager","context-data","context-manager","lightbox-transjax","mrpinchy","photo-transjax","rapid-tracker","transition","urls","view-count","yui-base"],"optional":["lightbox"],"ext":false},"type-cast":{"path":"j\/.DJ-cast.A.vZVnz","requires":["yui-base"],"ext":false},"transjax-base":{"path":"j\/.C-.BL.A.vPPjc","requires":["sprintf","yui-base"],"ext":false},"urls":{"path":"j\/urls.A.v23NF2","requires":["yui-base"],"ext":false},"user-refave":{"path":"j\/user-re.CX.A.vPWbt","requires":["event","gallery-flickr-api","node","yui-base"],"ext":false},"video":{"path":"j\/.DV-.D.A.vZvoc","requires":["cookie","event-custom","gallery-flickr-api","node","query-string-args","string-filters","swfobject","video-transjax","yui-base"],"ext":false},"video-masker":{"path":"j\/.DV-masker-.D.A.vSvaR","requires":["context-manager","node","yui-base"],"ext":false},"video-transjax":{"path":"j\/.DV-.D-.C-.F.A.v217nv","requires":["transjax-base","yui-base"],"ext":false},"view-count":{"path":"j\/.JB-count.A.v21B4i","requires":["gallery-flickr-api","json","yui-base"],"ext":false},"viewing-party-invitation-creator":{"path":"j\/.JBing-party-invitation-creator.A.vYkdK","requires":["bo-selecta-3","gallery-flickr-api","global-dialog","io-base","node","viewing-party-invitation-creator-css","viewing-party-invitation-creator-transjax","yahoo-web-analytics","zero-clipboard","yui-base"],"ext":false},"viewing-party-invitation-creator-css":{"path":"c\/c_.JBing-party-invitation-creator.BC.vWxia","type":"css","ext":false},"viewing-party-invitation-creator-transjax":{"path":"j\/.JBing-party-invitation-creator-.C-.F.A.vXAyB","requires":["transjax-base","yui-base"],"ext":false},"whispers":{"path":"j\/whispers.A.vUbGK","requires":["node","event","gallery-flickr-api","yui-base"],"ext":false},"woe-corrector-css":{"path":"c\/c_woe-corrector.BC.vZKva","type":"css","ext":false},"woe-corrector":{"path":"j\/woe-corrector.A.vZWAg","requires":["base","woe-corrector-css","keyboard-shortcut-manager","flickr-geo","event","yui-base"],"ext":false},"worker":{"path":"j\/.IW.A.vYkW8","requires":["base","event","yui-base"],"ext":false},"xmp-extractor":{"path":"j\/xmp-.IN.A.v23NMV","requires":["yui-base"],"ext":false},"zero-clipboard":{"path":"j\/zero-clipboard.A.vV8nr","requires":["yui-base"],"ext":false},"swfobject":{"path":"j\/.BM.A.vSDL8","ext":false},"yahoo-ult":{"path":"j\/.CM-ult.A.vPboP","ext":false},"yahoo-web-analytics":{"path":"j\/ywa.A.vN4Ng","ext":false},"roundtrip":{"path":"j\/roundtrip.A.vXmv6","ext":false},"ymap":{"path":"j\/.FV.A.vZWmt","requires":["event-synthetic","yui2_5-animation","yui2_5-yahoo","yui2_5-event","yui2_5-dom","yui2_5-dragdrop"],"ext":false},"bing_map":{"path":"j\/bing_map_6_3.A.vRhTZ","ext":false},"yui2_5-yahoo":{"path":"j\/.CM\/.CM_2.5.1.A.vr3bk","ext":false},"yui2_5-event":{"path":"j\/.CM\/.G_2.5.1.A.vr3bk","requires":["yui2_5-yahoo"],"ext":false},"yui2_5-dom":{"path":"j\/.CM\/dom_2.5.1.A.vr3bk","requires":["yui2_5-yahoo"],"ext":false},"yui2_5-dragdrop":{"path":"j\/.CM\/.FT_2.5.1.A.vWHY8","requires":["yui2_5-dom","yui2_5-event","yui2_5-yahoo"],"ext":false},"yui2_5-animation":{"path":"j\/.CM\/.FL_2.5.1.A.vr3bk","requires":["yui2_5-dom","yui2_5-event","yui2_5-yahoo"],"ext":false},"worker-echo":{"path":"j\/.IW-echo.A.vWYgr","requires":["worker-yui-ready","yui-base"],"ext":false},"worker-exif-extractor":{"path":"j\/.IW-.GO-.IN.A.v23Hge","requires":["jfif-extractor","better-throttle","dataview","exif-extractor","exif-extractor-tags","worker-yui-ready","yui-base","xmp-extractor"],"ext":false},"worker-yui-ready":{"path":"j\/.IW-yui-ready.A.vWPcz","requires":["event","event-custom","yui-base"],"ext":false}}};
+
+	
+		
+	
+		
+	
+		
+
+	
+
+F.config = F.util.clone(yconf);		YUI(yconf).use(function (Y) {
+						Y.use('flickr-nav', 'defer-images', 'farm_timing', 'rapid-tracker', 'nav-selecta-rapid', function(Y) {
+
+	Y.flickr_nav.init({
+				open_on_hover: false
+			});
+
+		Y.deferImages('#comments img.defer', { threshold: Y.DOM.winHeight() });
+	
+			Y.deferImages('#photo-story-map img.defer', { threshold: Y.DOM.winHeight() });
+		
+	Y.deferImages('#sidebar-contexts img.defer', { threshold: Y.DOM.winHeight() });
+
+	Y.farmTiming.init();
+
+
+
+
+
+	var keys = {A_pn:'/photo.gne'};
+	var conf = {
+			keys:keys, 
+			lt_attr:'data-track', 
+			client_only:1, 
+			spaceid:'792600146',
+
+			
+			
+			nofollow_class:["nav_more","signin-popup","rapidnofollow","contact-changer-trigger","personmenu-relationship-change"],
+			
+		
+
+			use_sampling:false,
+
+		
+
+	
+	
+
+			tracked_mods:[], 
+			track_lv:true
+		};
+		
+
+        
+        
+        
+        
+		
+		            conf.tracked_mods.push('head-logo');
+		            conf.tracked_mods.push('head-status');
+		            conf.tracked_mods.push('searchform');
+		            conf.tracked_mods.push('flickr_nav');
+		            conf.tracked_mods.push('nav-bar');
+		            conf.tracked_mods.push('photostream-subnav-normalized');
+		            conf.tracked_mods.push('my-photostream-subnav');
+		            conf.tracked_mods.push('nav-personmenu');
+			Y.config.flickr.rapidconf = conf;
+	Y.rapidTracker.init(conf);
+
+
+	
+});
+			Y.use('nav-selecta', 'popup-login', 'liquid-resizer', 'photo', 'context-data', 'flickr-tagrs', 'photo-sidebar-not-owner', 'photo-geolocation', 'liquid-photo-resizer', 'grease', 'flickr', 'share-this-v3-menu', 'comscore', function(Y) {
+
+	
+		var nav_selecta = new Y.NavSelecta('#nav-selecta-field', {linkUsernameToPhotostream:1});
+	
+	
+	Y.popup_login.init();
+
+			Y.liquidResizer.init();
+		
+
+	Y.photo.init({"id":"5238337232","title":"Welcome home Ms. MacBook Air.","license":"4","safety_level":1,"owner":"64887888@N00","ownername":"brunosan","pathalias":"nasonurb","url":"\/photos\/nasonurb\/5238337232\/","media":"photo","date_posted":"1291649233","date_taken":"2010-12-06 10:23:12","fave_count":"0","comment_count":"1","group_count":0,"people_count":0,"needs_interstitial":0,"is_fave":false,"secret":"4bae72e415","sizes":{"sq":{"label":"Square","file":"_4bae72e415_s.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_s.jpg","width":75,"height":75},"q":{"label":"Large Square","file":"_4bae72e415_q.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_q.jpg","width":"150","height":"150"},"t":{"label":"Thumbnail","file":"_4bae72e415_t.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_t.jpg","width":"100","height":"75"},"s":{"label":"Small","file":"_4bae72e415_m.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_m.jpg","width":"240","height":"180"},"n":{"label":"Small 320","file":"_4bae72e415_n.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_n.jpg","width":"320","height":240},"m":{"label":"Medium","file":"_4bae72e415.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415.jpg","width":"500","height":"375"},"z":{"label":"Medium 640","file":"_4bae72e415_z.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_z.jpg","width":"640","height":"480"},"l":{"label":"Large","file":"_4bae72e415_b.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_b.jpg","width":"1024","height":"768"},"o":{"label":"Original","file":"_1b68261e57_o.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_1b68261e57_o.jpg","width":"2592","height":"1944"}},"perm_viewgeo":"0","geo":{"latitude":38.923552,"longitude":-77.044,"accuracy":"16"},"woe":{"area":"0.3042789996","box":{"necorner":{"latitude":"38.9294090271","longitude":"-77.0358200073"},"swcorner":{"latitude":"38.9228591919","longitude":"-77.0447998047"}},"centroid":{"latitude":"38.9261398315","longitude":"-77.0403137207"},"centroidwithdriveway":{"latitude":"38.9261398315","longitude":"-77.0403137207"},"country":"United States","county":"District of Columbia","defaultLanguage":"1","isPoint":0,"isfuzzystreetmatch":0,"isnull":0,"iso2countrycode":"226","name":"Lanier Heights","normalname":"Lanier Heights","placetype":"22","placetypename":"Suburb","posttown":"Washington","state":"District of Columbia","stateshortcode":"DC","streetname":"","town":"Washington","woeid":"2436408","zip":"","known_place_type":1,"alpha2countrycode":"US","taken_in":"Taken in <b>Lanier Heights, <span class='locality'>Washington<\/span>, <span class='region'>DC<\/span>, <span class='country-name'> US <\/span><\/b>","pretty_name":"Taken in <b>Lanier Heights, Washington, DC,  US <\/b>","taken_in_clean":"Taken in Lanier Heights, Washington, DC,  US ","places_url":"\/United+States\/District+of+Columbia\/Washington\/Lanier+Heights","breadcrumb":{"country":{"name":"United States","url":"\/United States\/"},"region":{"name":"District of Columbia","url":"\/United States\/District of Columbia\/"},"locality":{"name":"Washington","url":"\/United States\/District of Columbia\/Washington\/"},"neighbourhood":{"name":"Lanier Heights","url":"\/United States\/District of Columbia\/Washington\/Lanier Heights\/"}}}},
+		{
+		width: 	F.liquid.photoWidth,
+		height: F.liquid.photoHeight,
+		printing: {
+			country_name: '',
+			country_code: '',
+			provider: ''
+		},
+		server: '5290',
+		ownersUrl: '/photos/nasonurb/',
+		zoomUrl: '/photos/nasonurb/5238337232/sizes/l/',
+		license: 4,
+		sizes: {
+					sq: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415_s.jpg',
+				width: 75,
+				height: 75
+			},			q: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415_q.jpg',
+				width: 150,
+				height: 150
+			},			t: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415_t.jpg',
+				width: 100,
+				height: 75
+			},			s: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415_m.jpg',
+				width: 240,
+				height: 180
+			},			n: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415_n.jpg',
+				width: 320,
+				height: 240
+			},			m: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415.jpg',
+				width: 500,
+				height: 375
+			},			z: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415_z.jpg',
+				width: 640,
+				height: 480
+			},			l: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415_b.jpg',
+				width: 1024,
+				height: 768
+			},			o: {
+				url: 'http://farm6.staticflickr.com/5290/5238337232_1b68261e57_o.jpg',
+				width: 2592,
+				height: 1944
+			}		
+		},
+		tags: [],
+		tags_raw: [],
+		swfObjSrc: 'http://l.yimg.com/g/javascript/swfobject.js.v98826.27',
+		is_public: 1,
+		woe : {
+		box:{
+		"necorner":{
+			latitude:38.9294090271,
+			longitude:-77.0358200073
+		},
+		"swcorner":{
+			latitude:38.9228591919,
+			longitude:-77.0447998047
+		}
+	},
+			county:'District of Columbia',
+			name:'Lanier Heights',
+			normalname:'Lanier Heights',
+			state:'District of Columbia',
+				town:'Washington',
+			woeid:2436408,
+			places_url:'/United+States/District+of+Columbia/Washington/Lanier+Heights',
+				breadcrumb:{"country":{"name":"United States","url":"\/United States\/"},"region":{"name":"District of Columbia","url":"\/United States\/District of Columbia\/"},"locality":{"name":"Washington","url":"\/United States\/District of Columbia\/Washington\/"},"neighbourhood":{"name":"Lanier Heights","url":"\/United States\/District of Columbia\/Washington\/Lanier Heights\/"}},
+			centroid:{
+		latitude:38.9261398315,
+		longitude:-77.0403137207
+	},
+		trailing_commas_are_bad_for_ie: true
+	
+},
+latitude   : 38.923552,
+longitude  : -77.044,
+pretty_latlong : '38&#176;55\' 25\" N, 77&#176;2\' 38\" W<span class=\'geo\' style=\'display:none\'><span class=\'latitude\'>38.923552<\/span><span class=\'longitude\'>-77.044<\/span><\/span>',
+accuracy       : 16,		ownerNsid: '64887888@N00',
+		taken_year: '2010',
+		print_order: [],
+		user_can_create_sets: 0,
+		current_url: '/photos/nasonurb/5238337232/',
+		qoop_url: 'http://www.qoop.com/photobooks/flickr_user/flickr_start.php?product=prints&b_id=photoID-5238337232',
+		tinyprints_url: 'http://www.tinyprints.com/flickr',
+		in_groups: [
+		],
+		geo_map_url: '/photos/nasonurb/5238337232/map/',
+		geo_possessed_username: 'brunosan\'s',
+		geo_thmb: 'http://farm6.staticflickr.com/5290/5238337232_4bae72e415_s.jpg',
+		has_geo: true,
+		is_editing_geo: false,
+		gallery_ids_for_user: [
+		],
+		fave_count: 0	});
+	
+	
+
+	
+		
+Y.ContextData.add({
+		id: 'photostream',
+	type: 'stream',
+	title: 'brunosan\'s Photostream',
+	url: '/photos/nasonurb/',
+	total: '2322',
+	open: true,
+	open_on_page_load: true,
+	photos: {
+		'-2': {"id":"5249151188","title":"2$ bill","license":"4","safety_level":1,"owner":"64887888@N00","ownername":"brunosan","pathalias":"nasonurb","url":"\/photos\/nasonurb\/5249151188\/in\/photostream","media":"photo","date_posted":"1291990978","date_taken":"2010-12-10 09:17:48","fave_count":"0","comment_count":"0","needs_interstitial":0,"is_fave":false,"secret":"df7b9c0bb5","sizes":{"sq":{"label":"Square","file":"_df7b9c0bb5_s.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_df7b9c0bb5_s.jpg","width":75,"height":75},"q":{"label":"Large Square","file":"_df7b9c0bb5_q.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_df7b9c0bb5_q.jpg","width":"150","height":"150"},"t":{"label":"Thumbnail","file":"_df7b9c0bb5_t.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_df7b9c0bb5_t.jpg","width":"100","height":"75"},"s":{"label":"Small","file":"_df7b9c0bb5_m.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_df7b9c0bb5_m.jpg","width":"240","height":"180"},"n":{"label":"Small 320","file":"_df7b9c0bb5_n.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_df7b9c0bb5_n.jpg","width":"320","height":240},"m":{"label":"Medium","file":"_df7b9c0bb5.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_df7b9c0bb5.jpg","width":"500","height":"375"},"z":{"label":"Medium 640","file":"_df7b9c0bb5_z.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_df7b9c0bb5_z.jpg","width":"640","height":"480"},"l":{"label":"Large","file":"_df7b9c0bb5_b.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_df7b9c0bb5_b.jpg","width":"1024","height":"768"},"o":{"label":"Original","file":"_3731fb5586_o.jpg","url":"http:\/\/farm6.staticflickr.com\/5243\/5249151188_3731fb5586_o.jpg","width":"2592","height":"1944"}},"perm_viewgeo":null,"woe":{"woeid":null}},
+		'-1': {"id":"5242700436","title":"7:28 hours of battery with my MacBook Air. oh, yes. \u00c9sa es mi Mac ina!","license":"4","safety_level":1,"owner":"64887888@N00","ownername":"brunosan","pathalias":"nasonurb","url":"\/photos\/nasonurb\/5242700436\/in\/photostream","media":"photo","date_posted":"1291768227","date_taken":"2010-12-07 19:27:10","fave_count":"0","comment_count":"0","needs_interstitial":0,"is_fave":false,"secret":"bf8347d06e","sizes":{"sq":{"label":"Square","file":"_bf8347d06e_s.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_bf8347d06e_s.jpg","width":75,"height":75},"q":{"label":"Large Square","file":"_bf8347d06e_q.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_bf8347d06e_q.jpg","width":"150","height":"150"},"t":{"label":"Thumbnail","file":"_bf8347d06e_t.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_bf8347d06e_t.jpg","width":"100","height":"75"},"s":{"label":"Small","file":"_bf8347d06e_m.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_bf8347d06e_m.jpg","width":"240","height":"180"},"n":{"label":"Small 320","file":"_bf8347d06e_n.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_bf8347d06e_n.jpg","width":"320","height":240},"m":{"label":"Medium","file":"_bf8347d06e.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_bf8347d06e.jpg","width":"500","height":"375"},"z":{"label":"Medium 640","file":"_bf8347d06e_z.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_bf8347d06e_z.jpg","width":"640","height":"480"},"l":{"label":"Large","file":"_bf8347d06e_b.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_bf8347d06e_b.jpg","width":"1024","height":"768"},"o":{"label":"Original","file":"_0f164d90b0_o.jpg","url":"http:\/\/farm6.staticflickr.com\/5125\/5242700436_0f164d90b0_o.jpg","width":"2592","height":"1944"}},"perm_viewgeo":null,"woe":{"woeid":null}},
+		'1': {"id":"5229056829","title":"Fojol brothers, ethiopian truck food. Por qu\u00e9 no se hace esto en Espa\u00f1a? #jobs","license":"4","safety_level":1,"owner":"64887888@N00","ownername":"brunosan","pathalias":"nasonurb","url":"\/photos\/nasonurb\/5229056829\/in\/photostream","media":"photo","date_posted":"1291400408","date_taken":"2010-12-03 12:31:27","fave_count":"0","comment_count":"0","needs_interstitial":0,"is_fave":false,"secret":"b35d3bf937","sizes":{"sq":{"label":"Square","file":"_b35d3bf937_s.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_b35d3bf937_s.jpg","width":75,"height":75},"q":{"label":"Large Square","file":"_b35d3bf937_q.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_b35d3bf937_q.jpg","width":"150","height":"150"},"t":{"label":"Thumbnail","file":"_b35d3bf937_t.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_b35d3bf937_t.jpg","width":"100","height":"75"},"s":{"label":"Small","file":"_b35d3bf937_m.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_b35d3bf937_m.jpg","width":"240","height":"180"},"n":{"label":"Small 320","file":"_b35d3bf937_n.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_b35d3bf937_n.jpg","width":"320","height":240},"m":{"label":"Medium","file":"_b35d3bf937.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_b35d3bf937.jpg","width":"500","height":"375"},"z":{"label":"Medium 640","file":"_b35d3bf937_z.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_b35d3bf937_z.jpg","width":"640","height":"480"},"l":{"label":"Large","file":"_b35d3bf937_b.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_b35d3bf937_b.jpg","width":"1024","height":"768"},"o":{"label":"Original","file":"_9f7d98f047_o.jpg","url":"http:\/\/farm6.staticflickr.com\/5203\/5229056829_9f7d98f047_o.jpg","width":"2592","height":"1944"}},"perm_viewgeo":null,"woe":{"woeid":null}},
+		'2': {"id":"5225022838","title":"At the inauguration of the \"Global Adaptation Institute\". Really looking forward to see what they've prepared. #climate","license":"4","safety_level":1,"owner":"64887888@N00","ownername":"brunosan","pathalias":"nasonurb","url":"\/photos\/nasonurb\/5225022838\/in\/photostream","media":"photo","date_posted":"1291244185","date_taken":"2010-12-01 17:35:01","fave_count":"0","comment_count":"0","needs_interstitial":0,"is_fave":false,"secret":"35baa4c3cb","sizes":{"sq":{"label":"Square","file":"_35baa4c3cb_s.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_35baa4c3cb_s.jpg","width":75,"height":75},"q":{"label":"Large Square","file":"_35baa4c3cb_q.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_35baa4c3cb_q.jpg","width":"150","height":"150"},"t":{"label":"Thumbnail","file":"_35baa4c3cb_t.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_35baa4c3cb_t.jpg","width":"100","height":"75"},"s":{"label":"Small","file":"_35baa4c3cb_m.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_35baa4c3cb_m.jpg","width":"240","height":"180"},"n":{"label":"Small 320","file":"_35baa4c3cb_n.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_35baa4c3cb_n.jpg","width":"320","height":240},"m":{"label":"Medium","file":"_35baa4c3cb.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_35baa4c3cb.jpg","width":"500","height":"375"},"z":{"label":"Medium 640","file":"_35baa4c3cb_z.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_35baa4c3cb_z.jpg","width":"640","height":"480"},"l":{"label":"Large","file":"_35baa4c3cb_b.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_35baa4c3cb_b.jpg","width":"1024","height":"768"},"o":{"label":"Original","file":"_a46a5bbffb_o.jpg","url":"http:\/\/farm6.staticflickr.com\/5208\/5225022838_a46a5bbffb_o.jpg","width":"2592","height":"1944"}},"perm_viewgeo":null,"woe":{"woeid":null}},
+		'0': {"id":"5238337232","title":"Welcome home Ms. MacBook Air.","license":"4","safety_level":1,"owner":"64887888@N00","ownername":"brunosan","pathalias":"nasonurb","url":"\/photos\/nasonurb\/5238337232\/in\/photostream","media":"photo","date_posted":"1291649233","date_taken":"2010-12-06 10:23:12","fave_count":"0","comment_count":"1","people_count":0,"is_fave":false,"secret":"4bae72e415","sizes":{"sq":{"label":"Square","file":"_4bae72e415_s.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_s.jpg","width":75,"height":75},"q":{"label":"Large Square","file":"_4bae72e415_q.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_q.jpg","width":"150","height":"150"},"t":{"label":"Thumbnail","file":"_4bae72e415_t.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_t.jpg","width":"100","height":"75"},"s":{"label":"Small","file":"_4bae72e415_m.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_m.jpg","width":"240","height":"180"},"n":{"label":"Small 320","file":"_4bae72e415_n.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_n.jpg","width":"320","height":240},"m":{"label":"Medium","file":"_4bae72e415.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415.jpg","width":"500","height":"375"},"z":{"label":"Medium 640","file":"_4bae72e415_z.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_z.jpg","width":"640","height":"480"},"l":{"label":"Large","file":"_4bae72e415_b.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_4bae72e415_b.jpg","width":"1024","height":"768"},"o":{"label":"Original","file":"_1b68261e57_o.jpg","url":"http:\/\/farm6.staticflickr.com\/5290\/5238337232_1b68261e57_o.jpg","width":"2592","height":"1944"}},"perm_viewgeo":"0","geo":{"latitude":38.923552,"longitude":-77.044,"accuracy":"16"},"woe":{"area":"0.3042789996","box":{"necorner":{"latitude":"38.9294090271","longitude":"-77.0358200073"},"swcorner":{"latitude":"38.9228591919","longitude":"-77.0447998047"}},"centroid":{"latitude":"38.9261398315","longitude":"-77.0403137207"},"centroidwithdriveway":{"latitude":"38.9261398315","longitude":"-77.0403137207"},"country":"United States","county":"District of Columbia","defaultLanguage":"1","isPoint":0,"isfuzzystreetmatch":0,"isnull":0,"iso2countrycode":"226","name":"Lanier Heights","normalname":"Lanier Heights","placetype":"22","placetypename":"Suburb","posttown":"Washington","state":"District of Columbia","stateshortcode":"DC","streetname":"","town":"Washington","woeid":"2436408","zip":"","known_place_type":1,"alpha2countrycode":"US","taken_in":"Taken in <b>Lanier Heights, <span class='locality'>Washington<\/span>, <span class='region'>DC<\/span>, <span class='country-name'> US <\/span><\/b>","pretty_name":"Taken in <b>Lanier Heights, Washington, DC,  US <\/b>","taken_in_clean":"Taken in Lanier Heights, Washington, DC,  US ","places_url":"\/United+States\/District+of+Columbia\/Washington\/Lanier+Heights","breadcrumb":{"country":{"name":"United States","url":"\/United States\/"},"region":{"name":"District of Columbia","url":"\/United States\/District of Columbia\/"},"locality":{"name":"Washington","url":"\/United States\/District of Columbia\/Washington\/"},"neighbourhood":{"name":"Lanier Heights","url":"\/United States\/District of Columbia\/Washington\/Lanier Heights\/"}}}}
+	}
+});	
+			Y.tagRS.addTag('brunosan', 'brunosan');
+			Y.tagRS.addTag('viaemail', 'via email');
+		
+
+	Y.photoSidebarNotOwner();
+
+
+		Y.photoGeolocation.init('.photo-story-geopanel-trigger');
+	
+Y.tagRS.init({
+	old_machine_tags: 0,
+	global_tag_limit: '75'
+});
+
+		Y.liquidPhotoResizer.init();
+	
+	Y.grease.init(0);
+
+		Y.flickr();
+	
+	COMSCORE._flickrconf = { c1: 2, c2: 7241469, c3: "", c4: "www.flickr.com%2Fphotos%2Fcfcd208495d565ef66e7dff9f98764da%2F5238337232%2F", c5: "792600146", c6: "", c15: "" };
+	COMSCORE.beacon(COMSCORE._flickrconf);
+
+
+	
+});
+			Y.use('photo-preloader', function(Y) {
+
+
+	Y.photoPreloader.init({
+		preload_limits: {
+			low: -1,
+			high: 1		}
+	});
+
+
+
+	
+});
+		});
+	})();
+	</script>
+
+<noscript>
+
+	<img src="http://b.scorecardresearch.com/b?c1=2&c2=7241469&c3=&c4=www.flickr.com%2Fphotos%2Fcfcd208495d565ef66e7dff9f98764da%2F5238337232%2F&c5=792600146&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+
+
+
+
+</body>
+</html>

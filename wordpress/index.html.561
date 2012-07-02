@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<!-- turing_cluster_prod -->
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <title>stamarfas.com</title>
+    <meta name="keywords" content="stamarfas.com" />
+    <meta name="description" content="stamarfas.com" />
+    <meta name="robots" content="index, follow" />
+    <meta name="revisit-after" content="10" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+
+
+     <script type="text/javascript">  
+cookie_callback = function(val) {
+    var exdate=new Date();
+    exdate.setFullYear(exdate.getFullYear() + 1);
+    document.cookie = "Spusr=" + escape(val) +
+      "; expires=" + exdate.toUTCString();
+    document.cookie = "jsc=1";
+}
+</script>  <script src="http://dsparking.com/?epl=mAEESzBGUGYAp-Z-flyRt-AduI8IEgqnSO7ip1ppNgsIuJ16n-HqilytQTijc2IIiMIziuLGlVTioGi0AyQWgwWbAmWAwMV4cIFg79kcl_iwZZ3uF6WYRDpclUvXpXlFSF9sKpmNFp9Nkct95q1nfJ_4sJl6AEiYbGpqempqP1WD9NTTNABq06iHespTRJUAIGDc778AAOB_AQAAQIBbCgAA78B9RFlTJllBMTZoWkKcAAAA8A">
+</script> 
+  </head>
+  <frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+    <frame src="http://www.stamarfas.com?epl=A6OPW_t0Al5w6ozw3P2HGkBiRnwRJBROkdzFL9WPFrdFAZ2BlANTkGCGOWmKjyraiGLY2tngOhfOlRsc6K23P1AhJkQtpwoIbDyvLEzOswbbGBGy_UguYo9ogHqSGRRGHoMaAw1hyuRRniJ0ACAA3Ke_AADgfwEAAECA2wcAAIkZ8UVZUyZZQTE2aFpCbgAAAPA" name="stamarfas.com">
+  </frameset>
+  <noframes>
+	<body><a href="http://www.stamarfas.com?epl=A6OPW_t0Al5w6ozw3P2HGkBiRnwRJBROkdzFL9WPFrdFAZ2BlANTkGCGOWmKjyraiGLY2tngOhfOlRsc6K23P1AhJkQtpwoIbDyvLEzOswbbGBGy_UguYo9ogHqSGRRGHoMaAw1hyuRRniJ0ACAA3Ke_AADgfwEAAECA2wcAAIkZ8UVZUyZZQTE2aFpCbgAAAPA">Click here to go to stamarfas.com</a>.</body>
+  </noframes>
+</html>

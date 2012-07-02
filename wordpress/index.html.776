@@ -1,0 +1,194 @@
+  <!DOCTYPE html>
+<html>
+
+
+<head>
+  <meta charset='utf-8' />
+  <title>Home | Global Adaptation Institute</title>
+
+  <meta name="description" content="The Global Adaptation Institute works to save lives and livelihoods by fostering private sector investment in adaptation to climate change.">
+  <meta name="keywords" content="Adaptation, GaIn, climate, change, population, economy, growth, Vulnerability, Readiness, data, Index, Global, OpenData, transparency, nodejs">
+
+  <script src='http://gain.org/site.js'></script>
+  <link rel="canonical" href="http://gain.org/" />
+
+  <link rel='shortcut icon' href='http://gain.org/images/favicon.ico' type='image/x-icon' />
+  <link rel='stylesheet' href='http://gain.org/site.css' media='all' />
+  <link rel='stylesheet' href='http://gain.org/print.css' media='print' />
+  
+  <!-- Place this tag in the <head> of your document-->
+  <link href="https://plus.google.com/117326365348480888951/" rel="publisher" />
+  
+  <script type="text/javascript">
+    // Enforce canonical domain
+    var domain = window.location.protocol + '//' + window.location.hostname + '/',
+        baseurl = 'http://gain.org/',
+        path = window.location.href.replace(domain, '');
+    if (domain !== baseurl) {
+        window.location = baseurl + path.substring(path.indexOf('/') + 1);
+    }
+  </script>
+  
+  
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-23256792-1']);
+      _gaq.push(['_setDomainName', '.gain.org']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+</head>
+<body>
+  <div id='header'><div class='limiter'>
+  <h1><a class='logo' href='http://gain.org/'>The Global Adaptation Institute</a></h1>
+  <ul class='navigation'>
+    <li class='gain'><a class='button' href='http://index.gain.org'>Browse the Global Adaptation Index™</a></li>
+    <li class='contact'><a href='http://gain.org/contact'>
+      <h3>Contact</h3>
+      <p>Partner or reach out to learn more</p>
+    </a></li>
+    <li class='team'><a href='http://gain.org/team'>
+      <h3>Team</h3>
+      <p>Who we are and what we do</p>
+    </a></li>
+    <li class='blog'><a href='http://news.gain.org'>
+      <h3>News</h3>
+      <p>Adaptation and the private sector</p>
+    </a></li>
+    <li class='work'><a href='http://gain.org/work'>
+      <h3>Our Work</h3>
+      <p>How GAIN is building resilience</p>
+    </a></li>
+  </ul>
+</div></div>
+
+
+  <div id='page' class='clearfix'><div class='limiter'>
+      
+        <div id='intro'>
+            
+              <div class='video'><iframe src="http://player.vimeo.com/video/43843215?byline=0&amp;title=0&amp;autoplay=0&amp;portrait=0&amp;color=68BB37" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> </div>
+
+            
+        </div>
+      
+      <div class='main ' id='main'><div class='clearfix'>
+  <div class='blog sidebar clearfix container'>
+    <div id='featured'></div>
+    <h3>Latest News</h3>
+
+<ul id='blogPosts'>
+  <li>loading news ...</li>
+</ul>
+
+<a class='button blog' href='http://news.gain.org/'>News</a>
+
+  </div>
+
+  <div class='container prose clearfix'>
+
+    <h3>Adaptation At Work</h3>
+    <div class='button prose slideshow'>
+   <div id='cycle'>
+    
+    <div class='slide first'>
+      <div class='clip'><img width="100%" src='http://gain.org/images/highlights/USAID.jpg' /></div>
+      <div class='content'>
+        <a href='http://news.gain.org/post/25929735211/gain-index-presentation-june-27-at-usaid'><h4>GAIN Index Presentation, June 27 at USAID</h4></a>
+        <p>Global Adaptation Institute Founding CEO Dr. Juan José Daboub will present the GAIN Index during a meeting at the U.S. Agency for International Development (USAID) June 27.</p>
+      </div>
+    </div>
+    
+    <div class='slide '>
+      <div class='clip'><img width="100%" src='http://gain.org/images/highlights/rio20.jpg' /></div>
+      <div class='content'>
+        <a href='http://news.gain.org/post/25929948555/rio-20-were-the-side-events-the-main-event'><h4>Rio+20 — Were the “side events” the “main event”?</h4></a>
+        <p>GAIN Director of Science &amp; Technology Dr. Bruno Sánchez-Andrade Nuño and GAIN Council of Scientific Advisors member Dr. Claudio Szlafsztein discuss their experience at the Rio+20 Conference in Rio de Janeiro, Brazil.</p>
+      </div>
+    </div>
+    
+    <div class='slide '>
+      <div class='clip'><img width="100%" src='http://gain.org/images/highlights/umbrella.jpg' /></div>
+      <div class='content'>
+        <a href='http://news.gain.org/post/25578845025/carlotta-reminder-for-g20-and-rio-20-of-what'><h4>Carlotta — Reminder for G20 and Rio+20 of what vulnerable people face each year</h4></a>
+        <p>Last week as world leaders prepared for the start of the G20 Summit, an even more real event – a natural disaster – approached the host country of Mexico. The annual G20 Summit occurred June 18-19 and as that date approached, so did Hurricane Carlotta in its descent on Mexico and Central America.</p>
+      </div>
+    </div>
+    
+    <div class='slide '>
+      <div class='clip'><img width="100%" src='http://gain.org/images/highlights/brunorio.jpg' /></div>
+      <div class='content'>
+        <a href='http://news.gain.org/post/25461991943/rio-20-an-opportunity-to-converge-on-adaptation'><h4>Rio+20 — An Opportunity to Converge on Adaptation</h4></a>
+        <p>Adaptation is the new paradigm around which the world must tackle global challenges. This message must resonate with world leaders during the Rio + 20 Earth Summit.</p>
+      </div>
+    </div>
+    
+    <div class='slide '>
+      <div class='clip'><img width="100%" src='http://gain.org/images/highlights/rio.jpg' /></div>
+      <div class='content'>
+        <a href='http://news.gain.org/post/25157259221/gain-index-a-tangible-tool-featured-at-u-n-s-rio-20'><h4>GAIN Index — A Tangible Tool Featured at U.N.’s Rio+20</h4></a>
+        <p>Global Adaptation Institute (GAIN) Director of Science &amp; Technology Dr. Bruno Sánchez-Andrade Nuño will bring the discussion of adaptation and the GAIN Index to Rio de Janeiro, Brazil, for the U.N. Conference on Sustainable Development June 20-22.</p>
+      </div>
+    </div>
+    
+  </div>
+  <div id='carousel-nav'></div>
+</div>
+
+
+
+    <a class='button partner' href='/contact'>Partner with the Global Adaptation Institute</a>
+    <div class='buttons clearfix'>
+      <div class='button split'>
+        <a class='press' href='/press'>Press</a>
+        <a class='team' href='/team'>Team</a>
+      </div><br>
+<div><center><div class='video'><iframe src='http://player.vimeo.com/video/28950907?title=0&amp;byline=0&amp;autoplay=0&amp;portrait=0&amp;color=68BB37' width='600' height='340' frameborder='0' webkitAllowFullScreen allowFullScreen></iframe></div></center>
+    </div>
+  </div>
+</div>
+
+<div id='gain-ad'>
+  <div class='sidebar container'>
+    <h3>The GAIN Index</h3>
+    <p>The GAIN Index is a powerful open data browser that gives
+    a unique look at a country's vulnerability to climate change and readiness to adapt.</p>
+    <a class='button gain' href='http://index.gain.org'>Browse the GAIN Index</a>
+  </div>
+  <div class='container prose'>
+    <a href='http://index.gain.org'><img class='framed' src='http://gain.org/images/gain-screenshot-III.png' /></a>
+  </div>
+</div>
+
+</div>
+  </div></div>
+  <div id='footer1' class='clearfix'>
+    <div class='limiter'>
+      <div class='twitter'>
+        <a class='icon' href='http://twitter.com/GAINorg'>Twitter</a>
+        <div class='tweet'>
+          <p>loading..</p>
+        </div>
+      </div>
+      <div class='facebook'><a href='http://www.facebook.com/globalaiorg'>Facebook</a></div>
+      <div class='youtube'><a href='http://www.youtube.com/user/GlobalAdaptation'>Youtube</a></div>
+    </div>
+  </div>
+  <div id='footer2'>
+  	<div class='limiter'>
+      <div id='address' class='container'>Copyright &copy; 2012 <a href='http://gain.org'>Global Adaptation Institute.</a><br />
+        Licensed under Creative Commons Attribution-NonCommercial 3.0 Unported License.<br>
+        1747 Pennsylvania Ave NW, Suite 1125 - Washington, DC 20006</div>
+  	</div>
+  </div>
+</body>
+</html>
+

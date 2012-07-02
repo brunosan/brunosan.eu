@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<title>A world of music - Spotify</title>
+	<meta name="description" content="Spotify is a digital music service that gives you access to millions of songs.">
+	<meta name="keywords" content="Spotify, music, online, listen, streaming, play, digital, album, artist, playlist">
+	<meta charset="UTF-8">
+	<meta property="fb:app_id" content="174829003346">
+	<meta property="og:title" content="A world of music - Spotify">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://www.spotify.com/">
+	<meta property="og:image" content="http://cf.scdn.co/i/touch-icon.png">
+	<meta property="og:description" content="Spotify is a digital music service that gives you access to millions of songs.">
+	<link rel="shortcut icon" href="http://cf.scdn.co/i/favicon.ico" type="image/vnd.microsoft.icon">
+	<link rel="apple-touch-icon" href="http://cf.scdn.co/i/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://cf.scdn.co/i/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="http://cf.scdn.co/i/touch-icon-iphone4.png">
+	<link href="http://cf.scdn.co/css/base-v5.css" type="text/css" rel="stylesheet" media="screen">
+	<link href="http://cf.scdn.co/css/old-v4.css" type="text/css" rel="stylesheet" media="screen">
+	<!--[if IE]>
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<![endif]-->
+	<!--[if IE 8]>
+	<link href="http://cf.scdn.co/css/ie8.css" type="text/css" rel="stylesheet" media="screen">
+	<![endif]-->
+	<!--[if lte IE 7]>
+	<link href="http://cf.scdn.co/css/ie7.css" type="text/css" rel="stylesheet" media="screen">
+	<![endif]-->
+	<link href="http://cf.scdn.co/css/notification-bar.css" type="text/css" rel="stylesheet" media="screen">
+	<script type="text/javascript">
+	//<![CDATA[
+	var _gaq = _gaq || [], _kmq = _kmq || [], spyConfig = {"googleanalytics":true,"twitter":true,"static":"http:\/\/cf.scdn.co"};
+	function spyASL(src){ setTimeout(function(){
+			var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = src;
+			var e = document.getElementsByTagName("script")[0]; e.parentNode.insertBefore(s, e);
+		}, 1);
+	}
+	//]]>
+	</script>
+
+</head>
+<body class="m-us l-en p-homepage">
+<div id="fb-root"></div>
+<div id="container">
+	<div id="header">
+		<a href="/us/" class="logo">Spotify</a>
+		<ul class="menu"><li><a href="/us/about/what/">What is Spotify?</a></li><li><a href="/us/get-spotify/overview/">Get Spotify</a></li><li><a href="/us/mobile/overview/">Mobile</a></li><li><a href="http://community.spotify.com">Community</a></li><li><a href="/us/about-us/contact/">About us</a></li><li><a href="/us/jobs/">Jobs</a></li><li><a href="/us/help/overview/">Help</a></li></ul>
+		<div class="account">
+			<a href="https://www.spotify.com/us/login/?forward_url=%2Fus%2F" id="accountbtn">Log in<span>.</span></a>
+			<div id="accdropdown" class="login-active">
+				<a class="sp-fb-login sp-btn fb login-fixed-width">
+					<span class="step1">Log in with Facebook</span>
+					<span class="step2" style="display: none;">Logging in to Spotify...</span>
+					<span class="step3" style="display: none;">Logging in</span>
+				</a>
+				<div class="old-login">
+					<a class="sp-btn login-select login-fixed-width">
+						<span>Log in using Spotify details<div class="select-arrow"></div></span>
+
+					</a>
+					<div class="old-login-form" style="display:none;">
+						<form action="https://www.spotify.com/us/login/" method="post">
+							<input type="hidden" name="forward_url" value="/us/">
+							<input type="hidden" name="utm-keywords" value="0c713d6cd6743e24df1ac4b08903b7a6">
+							<p>
+								<label for="login-username">Username</label><br>
+								<input type="text" name="user_name" tabindex="1" id="login-username">
+							</p>
+							<p>
+								<label for="login-password">Password</label><br>
+								<input type="password" name="password" tabindex="2" id="login-password">
+							</p>
+							<p class="left">
+								<button type="submit" tabindex="3"><span>Log in</span></button>
+							</p>
+							<p>
+								<a href="/us/password-reset/" target="_blank">Forgot password or username?</a>
+							</p>
+						</form>
+					</div>
+				</div>
+			</div>
+			<a href="/us/signup/open/" class="sp-btn-small">Sign up<span>.</span></a>
+		</div>
+	<div id="headerdude" class="header-message">
+		<a href="http://spoti.fi/PjV6aH" title="Download it now!" class="dude"></a>
+		<div class="balloon">
+			<ul>
+				<li>
+					<p>Have you tried radio on your mobile yet? It&rsquo;s free for our iPhone and iPad friends. <a href="http://spoti.fi/PjV6aH" title="Download it now!">Download it now!</a></p>
+				</li>
+			</ul>
+			<div class="left"></div>
+			<div class="right"></div>
+		</div>
+	</div>
+
+	</div>
+<div id="pbody">
+	<div id="billboard" data-product="new">
+<div title="Radio you can save" style="background-image: url(http://cf.scdn.co/u/wp/billboards/billboard_28_en.jpg);" class="slide">
+	<h2><strong>Radio you can save</strong></h2>
+	<p class="big">Introducing free radio on your iPhone and iPad</p>
+	<a href="http://spoti.fi/NG6IaU" class="big_button"><span>Download now &raquo;</span></a>
+</div>
+		<div class="bar"></div>
+	</div>
+
+	<div class="cframe">
+<div class="puffs">
+	<div class="gbox">
+		<a href="/us/get-spotify/premium/" style="font-size:13px; background-image:url(http://cf.scdn.co/i/startpage/puff/spotify_on_mobile.jpg);" class="content">
+ 			<span>Spotify on your mobile</span>
+			Enjoy Spotify Premium on your phone for just $9.99 a month. Stream or listen offline.
+		</a>
+	</div>
+	<div class="gbox">
+		<a href="/us/get-spotify/go/open/" style="font-size:13px; background-image:url(http://cf.scdn.co/i/startpage/puff/search_and_play.png);" class="content">
+ 			<span class="heading">Search and play.</span>
+			Get listening. Millions of tracks are now at your fingertips.
+		</a>
+	</div>
+	<div class="gbox">
+		<a href="/us/about/play/" style="font-size:13px; background-image:url(http://cf.scdn.co/i/startpage/puff/offline_mode.png); background-position: center 105px;" class="content">
+			<span>Offline Mode!</span>
+			No internet connection required.
+		</a>
+	</div>
+</div>
+<div class="gbox2">
+	<div class="content">
+		<h2>New music releases on Spotify</h2>
+		<p>Subscribe to our <a href="http://open.spotify.com/user/spotify/playlist/3Yrvm5lBgnhzTYTXx2l55x">New Album Releases playlist</a> playlist for weekly updates.</p>
+		<ul class="coverlist">
+<li><a href="http://open.spotify.com/album/4JSNpsxNnuVDKMyNd2CrZt"><img src="http://o.scdn.co/image/bc687e27de9d3211f1ae952f0f11793f98934c82" height="90" width="90" alt="Oceania"><strong>Smashing Pumpkins</strong><br>Oceania</a></li>
+<li><a href="http://open.spotify.com/album/1QhonXpNQq8wrGEKX0ofbk"><img src="http://o.scdn.co/image/74f612b3404a8231ed73ff680da2da1128fa9f55" height="90" width="90" alt="Walk The Moon"><strong>Walk the Moon</strong><br>Walk The Moon</a></li>
+<li><a href="http://open.spotify.com/album/7uccppFArLf9dNOwDftOZa"><img src="http://o.scdn.co/image/601f500a10ee465976f830247e50089ef552c414" height="90" width="90" alt="The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do"><strong>Fiona Apple</strong><br>The Idler Wheel Is Wiser Than the Driver of the Screw and Whipping Cords Will Serve You More Than Ropes Will Ever Do</a></li>
+<li><a href="http://open.spotify.com/album/70f70xLCpH7wHaVvB2oZT9"><img src="http://o.scdn.co/image/da051bfdc3098ba760305593a6c3057074feda34" height="90" width="90" alt="Believe"><strong>Justin Bieber</strong><br>Believe</a></li>
+<li><a href="http://open.spotify.com/album/51QFmzBXGScogQ4vyDiIA2"><img src="http://o.scdn.co/image/cde4924c153eef5eacbb041409fbae7e698bf0c5" height="90" width="90" alt="Rhythm And Repose"><strong>Glen Hansard</strong><br>Rhythm And Repose</a></li>
+<li><a href="http://open.spotify.com/album/1jbg4grojEFWidZQZRRcJk"><img src="http://o.scdn.co/image/eaae1a91b79b6ecb9a315f7319b7500f579a0928" height="90" width="90" alt="Welcome To The Fishbowl (Track by Track)"><strong>Kenny Chesney</strong><br>Welcome To The Fishbowl (Track by Track)</a></li>
+		</ul>
+	</div>
+</div><div class="gbox">
+	<div class="drawing" style="background-image: url(http://cf.scdn.co/i/drawings/rediscovering_en.png);">
+		Music is rediscovering forgotten favorites.	</div>
+</div>	</div>
+</div>
+	<div id="footer">
+		<div class="qlinks">
+			<h2>Quick links</h2>
+<div class="section about_spotify"><h3><a href="/us/about/what/">What is Spotify?</a></h3><ul><li><a href="/us/about/what/">What is Spotify?</a></li><li><a href="/us/about/features/">Features</a></li><li><a href="/us/about/play/">Play Button</a></li><li><a href="/us/about/apps/">Spotify apps</a></li><li><a href="/us/about/spotify-on-facebook/">Spotify on Facebook</a></li><li><a href="/us/about/spotify-on-ipad/">Spotify on iPad</a></li><li><a href="/us/about/local-music/">Local music</a></li><li><a href="/us/about/music-catalogue-info/">Music catalogue info</a></li></ul></div><div class="section download"><h3><a href="/us/download/">Download</a></h3><ul><li><a href="/us/download/mac/">Mac OS X</a></li><li><a href="/us/download/windows/">Windows</a></li><li><a href="/us/download/other/">Other platforms</a></li><li><a href="/us/download/previews/">Previews</a></li></ul></div><div class="section account"><h3><a href="/us/account/overview/">Account</a></h3><ul><li><a href="/us/account/overview/">Overview</a></li><li><a href="/us/account/profile/">Edit profile</a></li><li><a href="/us/account/share/">Share Spotify</a></li><li><a href="/us/account/subscription/">Subscription</a></li><li><a href="/us/redeem/">Redeem a code</a></li></ul></div><div class="section work_with_us"><h3><a href="/us/work-with-us/labels-and-artists/">Work with us</a></h3><ul><li><a href="/us/work-with-us/labels-and-artists/">Labels and Artists</a></li><li><a href="/us/work-with-us/advertisers/">Advertisers</a></li><li><a href="/us/work-with-us/partners/">Partners</a></li><li><a href="http://developer.spotify.com/">Developers</a></li></ul></div><div class="section about_us"><h3><a href="/us/about-us/contact/">About us</a></h3><ul><li><a href="/us/about-us/contact/">Contact</a></li><li><a href="/us/about-us/press/">Press</a></li><li><a href="/us/about-us/jobs/">Jobs</a></li><li><a href="/us/blog/">Blog</a></li></ul></div><div class="section legal"><h3><a href="/us/legal/">Legal</a></h3><ul><li><a href="/us/legal/privacy-policy/">Privacy policy</a></li><li><a href="/us/legal/end-user-agreement/">Terms and Conditions of Use</a></li><li><a href="/us/legal/premium-code-terms-and-conditions/">Premium Code Terms</a></li><li><a href="/us/legal/mobile-terms-and-conditions/">Mobile Terms of Use</a></li><li><a href="/us/legal/unlimited-code-terms-and-conditions/">Unlimited Code Terms</a></li><li><a href="/us/legal/48-hour-free-trial-continuation-offer-terms-and-conditions/">48-Hour Free Trial Continuation Offer Terms and Conditions</a></li><li><a href="/us/legal/new-30-days-free-trial-terms-and-conditions/">New 30-Days Free Trial Terms and Conditions</a></li></ul></div>			<div class="breaker"></div>
+			<div class="copyright">Copyright &copy; 2007-2012 Spotify Ltd</div>
+		</div>
+		<div class="fright">
+			<div id="marketswitch">
+				<h2>Country</h2>
+				<a class="market" title="Click to change">
+					<span class="flag us">USA</span>
+				</a>
+				<div class="selector">
+					Select your country:
+					<ul>
+						<li><a href="/au/" rel="au" title="Australia"><span class="flag au">Australia</span></a></li>
+						<li><a href="/at/" rel="at" title="Austria"><span class="flag at">Austria</span></a></li>
+						<li><a href="/be-nl/" rel="be-nl" title="Belgium (Dutch)"><span class="flag be-nl">Belgium (Dutch)</span></a></li>
+						<li><a href="/be-fr/" rel="be-fr" title="Belgium (French)"><span class="flag be-fr">Belgium (French)</span></a></li>
+						<li><a href="/dk/" rel="dk" title="Denmark"><span class="flag dk">Denmark</span></a></li>
+						<li><a href="/fi/" rel="fi" title="Finland"><span class="flag fi">Finland</span></a></li>
+						<li><a href="/fr/" rel="fr" title="France"><span class="flag fr">France</span></a></li>
+						<li><a href="/de/" rel="de" title="Germany"><span class="flag de">Germany</span></a></li>
+						<li><a href="/nl/" rel="nl" title="Netherlands"><span class="flag nl">Netherlands</span></a></li>
+						<li><a href="/nz/" rel="nz" title="New Zealand"><span class="flag nz">New Zealand</span></a></li>
+						<li><a href="/no/" rel="no" title="Norway"><span class="flag no">Norway</span></a></li>
+						<li><a href="/es/" rel="es" title="Spain"><span class="flag es">Spain</span></a></li>
+						<li><a href="/se/" rel="se" title="Sweden"><span class="flag se">Sweden</span></a></li>
+						<li><a href="/ch-fr/" rel="ch-fr" title="Switzerland (French)"><span class="flag ch-fr">Switzerland (French)</span></a></li>
+						<li><a href="/ch-de/" rel="ch-de" title="Switzerland (German)"><span class="flag ch-de">Switzerland (German)</span></a></li>
+						<li><a href="/us/" rel="us" title="USA"><span class="flag us">USA</span></a></li>
+						<li><a href="/uk/" rel="uk" title="United Kingdom"><span class="flag uk">United Kingdom</span></a></li>
+					</ul>
+					<div class="breaker"></div>
+				</div>
+			</div>
+			<div class="social">
+				<h2>Spotify on</h2>
+				<ul>
+					<li><a class="facebook" href="http://www.facebook.com/Spotify">Facebook</a></li>
+					<li><a class="twitter" href="http://www.twitter.com/Spotify">Twitter</a></li>
+					<li><a class="flickr" href="http://www.flickr.com/groups/spotify/pool">Flickr</a></li>
+					<li><a class="youtube" href="http://www.youtube.com/spotifydemo">YouTube</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="breaker"></div>
+	</div>
+</div>
+<script src="http://cf.scdn.co/js/base-v4.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Spy.Login.init(174829003346, "https://www.spotify.com/us/login/fb/?forward_url=/us/");
+spyASL('//connect.facebook.net/en_US/all.js');
+_gaq.push(["_setAccount", "UA-5784146-1"],["_trackPageview", "/"],["_setCustomVar", 5, "Market", "us"],["_setDomainName", ".spotify.com"],["_setAllowHash", false]);
+spyASL("http://www.google-analytics.com/ga.js");
+//]]>
+</script>
+<script type="text/javascript">
+	if(Spy && Spy.MobileInstaller) Spy.MobileInstaller.init('us');
+</script>
+</body>
+</html>

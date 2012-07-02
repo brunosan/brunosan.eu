@@ -1,0 +1,976 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><head>
+	<title>IPCC - Intergovernmental Panel on Climate Change</title>
+	<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" >
+	<link href="news.rss" rel="alternate" type="application/rss+xml" title="IPCC News" />
+	
+	<meta name="google-site-verification" content="fqT2GJwdIFfYrmWQH44_3HvSLH8LmpwY3x41yDsD_aE" />
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta content=" " name="description">
+	<meta content=" " name="keywords">
+
+	<LINK href="/css/redmond/jquery-ui-1.8.5.custom.css" type=text/css rel=stylesheet>		
+	<link rel="stylesheet" type="text/css" href="styles/screen.css" /> 
+	<link rel="stylesheet" type="text/css" href="styles/jPortlet.css"></link>
+	<link href="/styles/style.css" type="text/css" rel="stylesheet">
+	<link href="/styles/home.css" type="text/css" rel="stylesheet">
+	<link href="/styles/7g0.css" type="text/css" rel="stylesheet">
+	<link rel="stylesheet" href="styles/menu_style.css" type="text/css" media="all" />
+	<style>
+		ul {
+			margin-left: -5px;
+		}
+		
+		.boxheader {
+			width: 96%;
+			padding: 8px 5px;
+			font-size: 1.1em;
+			font-weight: bold;
+			color: #fff;
+			background-color: #990002;
+			-moz-border-radius: 7px;		
+			-khtml-border-radius: 7px;
+			-webkit-border-radius: 7px;
+			border-radius: 7px;				
+		}
+		
+		ul.extramenu {
+			padding: 10px 10px;
+		}
+		
+		.extramenu li {
+			list-style: none;
+			list-style-type: none
+			font-color: #ffffff;
+			padding: 3px;
+		}
+		
+		.extramenu li a {
+			color: #ffffff;
+			font-weight: bold;
+			text-decoration: none;
+		}		
+		
+	</style>	
+	
+	<script src="/js/jquery-1.5.min.js"></script>
+	<SCRIPT src="/js/jquery-ui-1.8.5.custom.min.js" type=text/javascript></SCRIPT>		
+	<script type="text/javascript" src="/js/jPortlet.js"></script>
+	<script type="text/javascript" src="http://swfobject.googlecode.com/svn/trunk/swfobject/swfobject.js"></script>
+</head>
+<body leftmargin="0" topmargin="0" bgcolor="#ffffff" marginheight="0" marginwidth="0" text="#000000">
+<div align="center">
+	<table border="0" cellpadding="0" cellspacing="0" height="100%" width="1000">
+		<tbody>
+			<!-- top banner -->
+			<tr> 
+				<td colspan="4" height="81" valign="top">
+					<img src="/Home_files/bannersmall.jpg" height="81" width="99%"/>
+				</td>
+			</tr>
+			<!-- seond level -->
+			<tr>
+				<td colspan="4" height='36px' style='padding: 0px;'>
+					<table cellspacing="0" cellpadding="0" width="99%" style='padding: 0px 0px;'>
+						<TBODY>
+							<tr>
+								<td bgcolor="#b5cbe0" width="630" height="36"><img src="/Home_files/Banner_02.jpg" width="630" height="36"/></td>
+								<td align="right" background="/Home_files/Banner_03.jpg" valign="middle"  >
+									<SELECT class="field" onChange="navigate(this);" size=1 width="50" id="list_languages"> 
+										<OPTION selected>Languages</OPTION> 
+										<OPTION value="/home_languages_main.shtml">Main page</OPTION> 
+										<OPTION value="/home_languages_main_arabic.shtml">Arabic</OPTION> 
+										<OPTION value="/home_languages_main_chinese.shtml">Chinese</OPTION> 
+										<OPTION value="/home_languages_main_french.shtml">French</OPTION> 
+										<OPTION value="/home_languages_main_russian.shtml">Russian</OPTION> 
+										<OPTION value="/home_languages_main_spanish.shtml">Spanish</OPTION>
+									</SELECT>&nbsp;&nbsp;
+									<SELECT onChange="navigate(this);" size=1 id="ListeWG" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial; width: 123px;">
+										<OPTION value=# selected>IPCC web pages</OPTION>
+										<OPTION value="/index.htm">IPCC Home</OPTION>
+										<OPTION value="http://www.ipcc-wg1.unibe.ch">Working Group I</OPTION>
+										<OPTION value="http://www.ipcc-wg2.gov">Working Group II</OPTION>
+										<option value="http://www.ipcc-wg3.de">Working Group III</option>										
+										<OPTION value="http://www.ipcc-syr.nl">Synthesis Report</OPTION>
+										<option value="http://www.ipcc-nggip.iges.or.jp">TFI / NGGIP</option>
+										<OPTION value="/activities/activities.shtml#tabs-4">TGICA</option>
+									</select> 
+									&nbsp;&nbsp;
+									<input value="Search" class="field" type="button" id="search" onclick="gotosearch()" style='padding:1px 4px;'/>
+									&nbsp;&nbsp;
+								</td>
+							</tr>
+						</TBODY>
+					</table>
+				</td>
+			</tr>			
+			<tr>
+				<!-- left hand column with menu -->
+				<td bgcolor="#5492cd" valign="top">
+					<table border="0" cellpadding="0" cellspacing="0" width="220">
+						<tbody>
+							<tr>
+								<td class="menunav" bgcolor="#990002" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav" bgcolor="#990002"><a  href="index.htm">Home</a></td>
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#c22009" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav"><a  href="organization/organization.shtml">Organization</a></td>
+							</tr>
+							<tr> 
+								<td class=menunav vAlign=top width=9 bgcolor="#D3230A"><img height=21 src="/Home_files/pixel.gif" width=9></td>
+								<td class=nav><a href="/organization/organization_procedures.shtml">Procedures</a></td>
+							</tr>													
+							<tr>
+								<td class="menunav" bgcolor="#e00000" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav"><a  href="working_groups/working_groups.shtml">Working Groups / Task Force</a></td>
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#ef550f" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav"><a  href="activities/activities.shtml">Activities</a></td>
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#fecb00" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav"><a  href="scripts/_calendar_template.php?wg=8">Calendar of Meetings</a></td> 
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#fbf06a" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav" width="204"><a  href="meeting_documentation/meeting_documentation.shtml">Meeting Documentation</a></td>
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#444444" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav" width="204"><a  href="news_and_events/news_and_events.shtml">News and Outreach</a></td>
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#66ccff" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav" width="204"><a  href="publications_and_data/publications_and_data_reports.shtml">Publications and Data</a></td>
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#0066cb" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav"><a  href="presentations_and_speeches/presentations_and_speeches.shtml">Presentations and Speeches</a></td> 
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#009933" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav" width="204"><a  href="ipcc-scholarship-programme/ipcc_scholarshipprogramme.shtml">IPCC Scholarship Programme</a></td>
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#000034" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav" width="204"><a  href="links/links.shtml">Links</a></td>
+							</tr>
+							<tr>
+								<td class="menunav" bgcolor="#7f006e" valign="top" width="9"><img src="/Home_files/pixel.gif" height="21" width="9"/></td>
+								<td class="nav" width="204"><a  href="contact/contact.shtml">Contact</a></td>
+								</tr>
+							<tr>
+								<td colspan="2">&nbsp;</td>
+							</tr>
+							<tr>
+								<td class="menunav" colspan="2" valign="top"> 
+									<div align="center">
+										<a href='organization/organization_history.shtml'><img src="/Home_files/7g0_IPCC_Nobel_CD_big2.png" border="0" height="100" width="100"/></a><br/>
+										<span class="address">
+											Phone: +41-22-730-8208 /84/54<br/>
+											Email: IPCC-Sec@wmo.int
+										</span>
+										<br/>&nbsp; 
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2" align="center">
+									<span style='text-align: left; margin-left: 10px; font-weight: bold; font-color: #ffffff;'>
+										<ul class="extramenu">										
+											<li><a href="home_copyright.shtml">Copyright 2012</a></li>
+											<li><a href="/home_scams.shtml">Scams notice</a></li>
+											<!-- <li><a href="/home_disclaimer_report.shtml">Disclaimer Draft IPCC Reports</a></li>	 -->
+											<li><a href="/home_disclaimer.shtml">Disclaimer</a></li>											
+											<li><a href="home_sitemap.shtml">Sitemap</a> <img src='/img/divers/new.gif' alt="new" /></li>
+										</ul>
+									</span>
+									<br/>
+									<!-- AddThis Button BEGIN -->
+									<div class="addthis_toolbox addthis_default_style" style="border:0; padding: 3px 5px;">
+										<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=jesbin" class="addthis_button_compact">Share</a>
+										<span class="addthis_separator">|</span>
+										<a class="addthis_button_preferred_1"></a>
+										<a class="addthis_button_preferred_2"></a>
+										<a class="addthis_button_preferred_3"></a>
+										<a class="addthis_button_preferred_4"></a>
+									</div>
+									<script type="text/javascript">var addthis_config = {data_track_clickback:true, data_track_textcopy:true, data_track_addressbar: true};</script>
+									<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=jesbin"></script>
+									<!-- AddThis Button END -->							
+									<br/>
+									<!-- facebook like button --->
+									<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.ipcc.ch&amp;layout=button_count&amp;show_faces=true&amp;width=120&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe>
+								</td>							
+							</tr>					
+						</tbody>
+				</table>
+			</td>
+  
+				<!-- separator -->
+				<td valign="top" width="4">
+					<img src="/Home_files/pixel.gif" height="1" width="4"/>
+				</td>
+				<!-- main content -->
+				<td valign="top" width="765">
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr>
+								<!-- central column -->
+								<td valign="top" width="548">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody>
+											<tr> 
+												<td valign="top"> 
+													<div align="center"> 
+														<table border="0" cellpadding="0" cellspacing="0" width="99%">
+															<tbody>
+																<tr> 
+																	<td valign="top">																		
+																		<img src="/Home_files/pixel.gif" width="5" height="5px" style="padding-top:3px;" />
+																		<!-- SRREN menu -->
+																		<div style="position:relative;width:600px;">
+																			<div style='width:600px; padding:0;'>	
+																				<div id='srextitle' style="font-size: 16px;">
+																					Special Report on Managing the Risks of Extreme Events</br>
+																					and Disasters to Advance Climate Change Adaptation
+																				</div>		
+																				<div style='width:600px; height: 280px;'>
+																					<img src='img/srex_cover.jpg' alt='' title='[Special Report on Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation] &copy; Reuters' width='600px' height='280px' />
+																				</div>
+																				<ul id='menu'  style='width:100%; padding: 0;'>
+																					<li class="button"><a class='link' href='#' data-id="Report" data-height="72">Report</a></li>
+																					<li class="button"><a class='link' href='#' data-id="Press" data-height="32">Press</a></li>
+																					<li class="button"><a class='link' href='#' data-id="Videos" data-height="72">Videos</a></li>
+																					<li class="button"><a class='link' href='http://www.ipcc-wg2.gov/SREX/' data-id="SREX" data-height="0" target='_blank'>SREX Website</a></li>																							
+																				</ul>
+														
+																			</div>
+																			<div id='overlay' style='display:none;'>
+																			</div>		
+																		</div>
+																	</td>
+																</tr>
+																<tr> 
+																	<td valign="top">
+																		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+																			<tbody>
+																				<tr> 
+																					<td align="left" bgcolor="#ffffff" height="" valign="middle" width="">
+																					<div id="tabs" width="510px" style="padding:0px;">
+																						<ul>
+																							<li><a href="#tabs-2">SRREN</a></li>
+																							<li><a href="#tabs-0">Fifth Assessment Report</a></li>
+																							<li><a href="#tabs-1">AR4 - Climate Change 2007</a></li>									
+																						</ul>		
+																						<div id="tabs-2">									
+																							<table style='border-collapse: collapse;' cellpadding='2'>
+																								<thead><tr><td colspan="2"><h3 style='width: 100%;color: #000; font-size: 1.1em; background-color:#aabbcc; padding-bottom: 5px;'>Special Report on Renewable Energy Sources and Climate Change Mitigation (SRREN)</h3></td></tr></thead>
+																								<tbody>
+																								<tr style='vertical-align:top;'>
+																									<td width='40%'>
+																										<a href='http://www.srren.org' target='_blank'><img src='img/coversrren_normal_web_s.png' height='258' width='200' style='text-align:center;' /></a>
+																									</td>
+																									<td style='padding:0px;'>	
+																										<h3 style='color: #000; width:100%; background-color:#ccddee;'>Report</h3>
+																										<ul>
+																											<li><a href='http://www.srren.org' target='_blank'>SRREN Website</a></li>
+																											<!-- 
+																											<li><font color='#000' style='margin-left:2px;'>Summary for Policymakers/Technical Summary:</font> <a href='/pdf/special-reports/srren/srren_report_ar.pdf' target='_blank'>Arabic</a> - 
+																														&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+																														<a href='/pdf/special-reports/srren/srren_report_zh.pdf' target='_blank'>Chinese</a> - 
+																														<a href='/pdf/special-reports/srren/SRREN_FD_SPM_final.pdf' target='_blank'>English</a> - 
+																														<a href='/pdf/special-reports/srren/srren_report_fr.pdf' target='_blank'>French</a> - 
+																														<a href='/pdf/special-reports/srren/srren_report_ru.pdf' target='_blank'>Russian</a> - 
+																														<a href='/pdf/special-reports/srren/srren_report_es.pdf' target='_blank'>Spanish</a>  
+																											</li>
+																											-->
+																											<li><font color='#000' style='margin-left:2px;'>Summary for Policymakers/Technical Summary:</font> 
+																														<a href='https://docs.google.com/open?id=0B1gFp6Ioo3akWFdhOFc0QUdMSUk' target='_blank'>Arabic</a> - 
+																														&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+																														<a href='https://docs.google.com/open?id=0B1gFp6Ioo3akdUNmUXhWYzdTUlU' target='_blank'>Chinese</a> - 
+																														<a href='https://docs.google.com/open?id=0B1gFp6Ioo3akeGxneEJCejQxdzg' target='_blank'>English</a> - 
+																														<a href='https://docs.google.com/open?id=0B1gFp6Ioo3akWDJ2RnVRTFZXRHc' target='_blank'>French</a> - 
+																														<a href='https://docs.google.com/open?id=0B1gFp6Ioo3akTDNEY2ZFeE1lZ00' target='_blank'>Russian</a> - 
+																														<a href='https://docs.google.com/open?id=0B1gFp6Ioo3akdXY2TkpNOGQ1MTA' target='_blank'>Spanish</a>  
+																											</li>																											
+																											<li><a href='http://srren.ipcc-wg3.de/report' target='_blank'>Full Report</a> - <span style='color: #000;'>printed volume now available from <br/>
+																													&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cambridge University Press </li>
+																										</ul>
+																										<br/>
+																										<h3 style='color: #000; width:100%; background-color:#ccddee;' >Videos</h3>
+																										<ul>
+																											<li><a style='cursor:pointer;' class='youtube' data-youtube='THBnMJEF6HY' xhref='http://www.youtube.com/watch?v=THBnMJEF6HY' target='_blank'>Youba Sokona on Climate Change TV, SBSTA 34, Bonn</a></li>
+																											<li><a style='cursor:pointer;' class='youtube' data-youtube='aQ34vqOeK3M'>Overview of IPCC Special Report on Renewable Energy</a></li>
+																											<li><a style='cursor:pointer;' class='youtube' data-youtube='Db_gWJUrsN8'>Ottmar Edenhofer, IPCC WG III Co-Chair</a></li>
+																											<li><a style='cursor:pointer;' class='youtube' data-youtube='pci0x9O_9q8'>Youba Sokona, IPCC WG III Co-Chair</a></li>
+																											<li><a style='cursor:pointer;' class='youtube' data-youtube='Op4m5yLggNg'>Rajendra Pachauri, IPCC Chair: importance of the SRREN </a></li>
+																											<li><a style='cursor:pointer;' class='youtube' data-youtube='qXGesCljgYg'>Helena Chum: Bioenergy</a></li>
+																											<li><a style='cursor:pointer;' class='youtube' data-youtube='1OPEdl_Zk7M'>Catherine Mitchell: Policy, Financing and Implementation </a></li>																										
+																										</ul>
+																										<br/>
+																										<span style='float:right'>
+																											<a href="http://www.ipcc.ch/apps/mobile/publication/"><img src="img/mobile.png" height="32px" width="32px" title="SRREN/SREX Report for mobile devices (beta)" style='border: 0;' /></a>
+																										</span>	
+																									</td>
+																								</tr>
+																								</tbody>
+																							</table>		
+																						</div>
+
+																						<div id="tabs-0" style='border: 1px solid #5492cd;'>			
+																							<table border='0' width="100%" style="padding: 2px; width: 570px;">
+																							  <tbody>
+																								  <tr>
+																									  <td align="left" bgcolor="#ffffff" height="" valign="top" width="310px">
+																											<p style="margin-left:4px; margin-right: 4px; text-align: justify">		
+																												The Fifth Assessment Report (AR5) will provide an update of knowledge on the scientific, technical and socio-economic aspects of climate change. 
+																												It will be composed of three working group reports and a Synthesis Report (SYR). Outline and content can be found in the 
+																												<a href='pdf/ar5/ar5-outline-compilation.pdf' target='_blank'>AR5 reference document</a> and 
+																												<a href='meetings/session32/syr_final_scoping_document.pdf' target='_blank'>SYR Scoping document</a>. 
+																												<br/>&nbsp;<br/>
+																												More than <a href='/pdf/ar5/ar5_authors_review_editors_updated.pdf' target='_blank'>800 authors</a> are involved in writing the reports. First 
+																												Lead Authors meetings have been held and the expert review of the Working Group contributions has started. For further information on the review 
+																												process and how to participate please follow <a href='pdf/ar5/review_of_wg_contributions.pdf' target='_blank'>this link</a>. For an update on 
+																												the review process please follow <a href='/pdf/ar5/pr_ar5_progress.pdf' target='_blank'>this link</a>.
+																												<br/>&nbsp;<br/>
+																												A number of workshops and expert meetings, in support of the assessment process, have been held and the proceedings published (see below).  
+																									  </td>
+																									  <td align="left" bgcolor="#ffffff" height="" valign="top" width="260px">
+																										<p style="margin-left:5px; margin-right: 4px; text-align: justify">
+																											The Working Group (WG) Reports and  Synthesis Report, will be  completed in 2013/2014:
+																											<br/>&nbsp;<br/>
+																											</p>	 
+																											<p style="margin-left:4px; margin-right: 4px; text-align: justify"><a href='https://www.ipcc-wg1.unibe.ch/' target='_blank'><b>WG I</b></a>: The Physical Science Basis <br/>
+																														&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>mid September 2013</em></p>
+																											<p style="margin-left:4px; margin-right: 4px; text-align: justify"><a href='http://www.ipcc-wg2.gov/' target='_blank'><b>WG II</b></a>: Impacts, Adaptation and Vulnerability <br/>
+																														&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>mid March 2014</em></p>
+																											<p style="margin-left:4px; margin-right: 4px; text-align: justify"><a href='http://www.ipcc-wg3.de/' target='_blank'><b>WG III</b></a>: Mitigation of Climate Change <br/>
+																														&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>early April 2014</em></p>
+																											<p style="margin-left:4px; margin-right: 4px; text-align: justify"><a href='http://www.ipcc-syr.nl/' target='_blank'><b>AR5 Synthesis Report</b></a> (SYR) <br/>
+																														&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>October 2014</em></p>
+																											<br/>
+																											Overview of <a href='activities/key_dates_AR5_schedulepdf.pdf' target='_blank'>important dates for AR5</a> preparations.
+																											<br/>&nbsp;<br/>
+																											<div style='float:right'><a href='activities/activities.shtml'>more information...</a></div>
+																										</p>
+																									  </td>
+																								  </tr>
+																								  <tr><td colspan="2">&nbsp;</td></tr>											
+																								  <tr>
+																									<td colspan="2">
+																										A number of workshops and expert meetings, in support of the assessment process, have been held.  
+																										<br/>
+																										<table border="0" cellpadding="0" cellspacing="1" style="margin: 0px; padding: 2px;">
+																											 <tbody>
+																												<tr>
+																													<td align="center">						
+																														<!-- <a target="_blank" href="pdf/supporting-material/CostingEM_Report_FINAL_web.pdf"> -->
+																														<a target="_blank" href="https://docs.google.com/open?id=0B1gFp6Ioo3akVkxibjhjenNWdzQ">
+																															<img height="175" width="130" title='IPCC Expert Meeting on Economic Analysis, Costing Methods, and Ethics, Lima, Peru, 23-25 June 2011' class="selector"
+																																src="/Home_files/CostingEM_Report_Cover_web.png" border="0"/></a>																																
+																													</td>
+																												
+																													<td align="center">						
+																														<!-- <a target="_blank"  href="/pdf/supporting-material/IPCC_IAOMBE_WorkshopReport_Japan.pdf"> -->
+																														<a target="_blank"  href="https://docs.google.com/open?id=0B1gFp6Ioo3akNEZwT2hHQVlRWDQ">																														
+																															<img width="130" height="175" src="/Home_files/IPCC_IOAMBE_cover_web_s.png" border="0" title='IPCC Workshop on Impacts of Ocean Acidification on Marine Biology and Ecosystems was held in Bankoku Shinryokan, Okinawa, Japan, 17-19 January 2011' class="selector" />
+																														</a>
+																													</td> 													
+																													<td align="center">						
+																														<!-- <a target="_blank"  href="/pdf/supporting-material/SLW_WorkshopReport_kuala_lumpur.pdf"> -->
+																														<a target="_blank"  href="https://docs.google.com/open?id=0B1gFp6Ioo3akSDU0Y2JwSlBXaEU">																														
+																															<img width="130" height="175" src="/Home_files/IPCC_SLR_cover.gif" border="0" title='IPCC Workshop on Sea Level Rise and Ice Sheet Instabilities was held in Kuala Lumpur, Malaysia, 21-24 June 2010' class="selector" />
+																														</a>
+																													</td>
+																													<td align="center">						
+																														<!-- <a target="_blank" href="pdf/supporting-material/expert-meeting-assessing-multi-model-projections-2010-01.pdf"> -->
+																														<a target="_blank" href="https://docs.google.com/open?id=0B1gFp6Ioo3akaUd4UkF3UVFkZWs">																														
+																															<img height="175" width="130" src="Home_files/IPCC_EM_ACMM_small_cover.jpg" border="0" title='IPCC Expert Meeting on Assessing and Combining Multi Model Climate Projections was held in Boulder, Colorado, USA 25-27 January 2010' class="selector"/>
+																														</a>
+																													</td>
+																													<!-- 
+																													<td align="center">						
+																														<a target="_blank" href="pdf/supporting-material/expert-meeting-detection-anthropogenic-2009-09.pdf">
+																															<img height="175" width="130" title='IPCC Expert Meeting on Detection and Attribution Related to Anthropogenic Climate Change was held in Geneva, Switzerland, 14-16 September 2009' class="selector"
+																																src="/Home_files/IPCC_EM_DA_cover_small.jpg" border="0"/></a>
+																													</td>
+																													
+																													<td align="center">						
+																														<a target="_blank" href="/pdf/supporting-material/tgica_reg-meet-fiji-2007.pdf">
+																															<img height="175" width="130" src="/Home_files/tgica_reg-meet-fiji-2007-cover.jpg" border="0"
+																																title='The IPCC TGICA Expert Meeting - Integrating Analysis of Regional Climate Change and Response Options was held in Denarau Island, Nadi, Fiji, 20-22 June 2007' class="selector"/>
+																														</a>
+																													</td>
+																													-->
+																												</tr>
+																											</tbody>
+																										</table>												
+																									</td>
+																								  </tr>											
+																							  </tbody>
+																							</table>			
+																						</div>
+
+																						<div id="tabs-1">												
+																							 <table border="0" cellpadding="0" cellspacing="1" style="margin: 0px; padding: 2px; width: 535px;">
+																								<tbody>
+																									  <tr>
+																										<td align="center">
+																											<a  href="/publications_and_data/ar4/syr/en/contents.html"> <img  src="/Home_files/AR4-Synthesis.jpg" border="0" width="130" title='AR4 Synthesis Report' class="selector"/></a> 
+																										</td>
+																										<td align="center">
+																											<a  href="/publications_and_data/ar4/wg1/en/contents.html"> <img  src="/Home_files/ar4-wg1.jpg" border="0" width="130" title='WG I: The Physical Science Basis' class="selector"/></a> 
+																										</td>
+																										<td align="center">
+																											<a  href="/publications_and_data/ar4/wg2/en/contents.html"> <img  src="/Home_files/ar4-wg2.jpg" border="0" width="130" title='WG II: Impacts, Adaptation and Vulnerability' class="selector"/></a> 
+																										</td>
+																										<td align="center">
+																											<a  href="/publications_and_data/ar4/wg3/en/contents.html"> <img  src="/Home_files/ar4-wg3.jpg" border="0" width="130" title='WG III: Mitigation of Climate Change' class="selector"/></a> 
+																										</td>
+																									  </tr>
+																									  <tr>
+																										<td colspan="4" align="right">
+																											<input type="button" id="buttonMore" value="More Info" title="Show more info"/>
+																											<input type="button" id="buttonOther" value="Other Reports" title="Show Other Reports"/>
+																											<br/>&nbsp;<p>
+																											<div id="divcachee1" style="text-align:justify; display: none;"> 
+																												<p style='color: navy; font-size: 11px;text-align: justify; background-color: #ccddee; padding: 5px 5px;'>														
+																													The three Working Groups full reports and the Synthesis Report, the final part of the AR4, 
+																													are available online (see here below). Hardcopies of the Summaries for Policymakers + Technical 
+																													Summaries are available for free in the 6 UN official languages upon request to the IPCC Secretariat. 
+																													Hardcopies of the full reports can be purchased from <a  href="http://www.cambridge.org/browse/browse_highlights.asp?subjectid=710" target="_blank">Cambridge University Press</a>. 
+																													A limited number of free copies are available for academic institutions from developing countries and 
+																													countries with economies in transition upon request to the Secretariat.
+																													<br/>&nbsp;<br/>
+																													Unless otherwise stated, the information available on this website, including text, logos, graphics, 
+																													maps, images, audio clips or electronic downloads is the propriety of the IPCC and is protected by 
+																													intellectual and industrial property laws.
+																													<br/>&nbsp;<br/>
+																													You may freely download and copy the material contained on this website for your personal, 
+																													non-commercial use, without any right to resell or redistribute it or to compile or create 
+																													derivative works therefrom, subject to more specific restrictions that may apply to specific materials.
+																													<br/>&nbsp;<br/>
+																													Reproduction of figures or short excerpts of IPCC material is authorized free of charge and 
+																													without formal written permission provided that the original source is properly acknowledged, 
+																													with mention of the complete name of the report, the publisher and the numbering of the page(s) 
+																													or the figure(s). Permission can only be granted to use the material exactly as it is in the report. 
+																													Please be aware that figures cannot be altered in any way, including the full legend. For media 
+																													use it is sufficient to cite the source while using the original graphic or figure. 
+																													In line with established Internet usage, any external website may provide a hyperlink to the IPCC 
+																													website or to any of its pages without requesting permission.
+																													<br/>&nbsp;<br/>
+																													For any other use, permission is required. To obtain permission, please address your request 
+																													to the Secretary of the IPCC in a signed letter with all relevant details using official 
+																													letterhead and fax it to: +41 22 730 8025. All communications by mail should be addressed to: 
+																													IPCC Secretariat, World Meteorological Organization, 7bis Avenue de la Paix, P.O. Box No. 2300, 
+																													CH-1211 Geneva 2, Switzerland.
+																												</p>
+																											</div>																					
+																										</td>
+																									  </tr>
+																								  </tbody>
+																							</table>									
+																						</div>
+																					</div>
+																					<p style='color: navy; font-weight: bold; font-size: 11px;text-align: justify; padding: 8px 8px;'  id="booktitle"></p>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+
+								<!-- right hand column -->		
+								<td rowspan="2" valign="top" width="225">									
+									<table style="width: 217px; " cellpadding="0" cellspacing="0" width="220">
+										<tbody>      
+											<tr> 
+												<td colspan="2" align="left" valign="top">
+													<div align="center">	
+														<!-- box news -->
+														<!-- 
+														<table style="width: 197px; height: 46px; border: 1px solid #5492cd;" align="center" cellpadding="1" cellspacing="2">
+														  <tbody>
+															<tr><td>
+																<div class="boxheader">
+																	NEWS and EVENTS
+																</div>															
+															</td></tr>
+															<tr>
+															  <td>			
+																	<a href='news_and_events/news.shtml'><strong>IPCC launches Special Report on Extreme Weather Events</strong></a> 
+																	<br/>&nbsp;<br/>
+																	<p style="text-align:justify">																		
+																		The IPCC released its Special Report on Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX) on 28 March. 
+																		Please click <a href="/news_and_events/docs/srex/srex_press_release.pdf" target='_blank'>here</a> for an IPCC press release on the report, 
+																		and <a href="http://www.ipcc-wg2.gov/SREX/images/uploads/SREX-All_FINAL.pdf" target='_blank'>here</a> for the report itself.																	
+																		<br/>&nbsp;<br/>
+																		<a href='/news_and_events/docs/srex/SREXteleconference3-28-12.mp3' target='_blank'>Recording</a> of the SREX press conference on 28 March
+																		<br/>&nbsp;<br/>
+																		SREX outreach events - <a href='/news_and_events/docs/srex/srex_media_advisory_11.04.2012.pdf' target='_blank'>Media Advisory</a> 
+																	</p>	
+															   </td>
+															</tr>
+														  </tbody>
+														</table>
+														-->
+														<!-- end: box news -->
+
+														<!-- box P-35  -->														
+														<table style="width: 197px; height: 46px; border: 1px solid #5492cd;" align="center" cellpadding="1" cellspacing="2">
+														  <tbody>
+															<tr><td>
+																<div class="boxheader">
+																	IPCC 35<sup>th</sup> Plenary Session <br/>
+																	Geneva, Switzerland<br>
+																	6-9 June 2012														  
+																</div>															
+															</td></tr>
+															<tr>
+															  <td>	
+																<p><img src='/img/home.gif' /><a href='/scripts/_session_template.php?page=_35ipcc.htm'>Decisions <img src='/img/divers/new.gif' alt="new" /> and</a><br/>
+																	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='/scripts/_session_template.php?page=_35ipcc.htm'>Documents</a></p>																	
+																<p><img src='/img/home.gif' /><a href='/news_and_events/docs/p35/press_release_tfi.pdf' target='_blank'>Press Release</a>: TFI to develop <br/>
+																	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guidelines</p>																																				
+															   </td>
+															</tr>
+														  </tbody>
+														</table>
+														<!-- end: box P-35  -->
+														
+														<!-- IAC Review  -->											
+														<img src="../Organization_files/pixel.gif" width="5"/><br/>														
+														<table style="width: 197px; height: 46px; border: 1px solid #5492cd;" align="center" cellpadding="1" cellspacing="2">
+														  <tbody>
+															<tr><td>
+																<div class="boxheader">
+																	Review of IPCC Processes and Procedures
+																</div>															
+															</td></tr>
+															<tr>
+															  <td>	
+																<p><img src='/img/home.gif' /><a href='/pdf/IAC_report/IAC_PR_Completion.pdf' target='_blank'>Press Release</a> :IPCC <br/>
+																&nbsp;&nbsp;&nbsp;&nbsp;completes review of processes<br/>
+																&nbsp;&nbsp;&nbsp;&nbsp;and procedures <img src='/img/divers/new.gif' alt="new" /></p>
+																<p><img src='/img/home.gif' /><a href='/organization/organization_review.shtml'>Summary of Decisions <img src='/img/divers/new.gif' alt="new" /></a></p>
+															   </td>
+															</tr>
+														  </tbody>
+														</table>
+														<!-- end: IAC Review  -->														
+
+														<!-- box Rio+20  -->
+														<img src="../Organization_files/pixel.gif" width="5"/><br/>
+														<table style="width: 197px; height: 46px; border: 1px solid #5492cd;" align="center" cellpadding="1" cellspacing="2">
+														  <tbody>
+															<tr><td>
+																<div class="boxheader">
+																	IPCC at Rio+20	
+																</div>															
+															</td></tr>
+															<tr>
+															  <td>	
+																	<p><img src='/img/home.gif' /><a href='http://www.uncsd2012.org/index.php?page=view&type=1000&nr=247&menu=126' target='_blank'>IPCC side event at UNCSD</a></p>
+																	<p><img src='/img/home.gif' /><a href='http://www.iisd.ca/uncsd/rio20/enbots/15jun.html' target='_blank'>ENB Coverage</a> of Side Events 
+																			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;held on 15 June 2012</p>
+																	<p><img src='/img/home.gif' /><a href='/meetings/rio20/rio_media_advisory.pdf' target='_blank'>Media Advisory</a></p>
+																	
+															   </td>
+															</tr>
+														  </tbody>
+														</table>
+														<!-- end: RIO -->
+														
+														<!-- Statement -->
+														<img src="../Organization_files/pixel.gif" width="5"/><br/>
+														<table style="width: 197px; height: 46px; border: 1px solid #5492cd;" align="center" cellpadding="1" cellspacing="2">
+														  <tbody>
+															<tr><td>
+																<div class="boxheader">
+																	IPCC Statements
+																</div>															
+															</td></tr>
+															<tr>
+															  <td>			
+																	<a href="/pdf/ar5/statement/newscientist.pdf" target='_blank'>IPCC Statement</a> on New Scientist article
+															   </td>
+															</tr>
+														  </tbody>
+														</table>														
+														<!-- end: Statement -->
+														
+														<!-- box AR5 -->
+														<img src="../Organization_files/pixel.gif" width="5"/><br/>
+														<table style="width: 197px; height: 46px; border: 1px solid #5492cd;" align="center" cellpadding="1" cellspacing="2">
+														  <tbody>
+															<tr><td>
+																<div class="boxheader">
+																	Fifth Assessment Report (AR5) - Update
+																</div>															
+															</td></tr>
+															<tr>
+															  <td>																  
+																<p><img id="de_element_image" src="img/home.gif"/><a href='http://www.ipcc-wg3.de/news/ipcc-working-group-iii-calls-experts-to-review-assessment-report' target='_blank'>WG III Review</a> <img src='/img/divers/new.gif' alt="new" /></p>																	
+																<p><img id="de_element_image" src="img/home.gif"/><a href='pdf/ar5/pr_ar5_progress.pdf' target='_blank'>Press Release</a> - Progress <br/>&nbsp;&nbsp;&nbsp;&nbsp;
+																	towards AR5 </p>
+																<p><img id="de_element_image" src="img/home.gif"/><a href='http://www.ipcc-syr.nl' target='_blank'>Synthesis Report website</a></p>
+																<p><img id="de_element_image" src="img/home.gif"/><a href='pdf/ar5/review_of_wg_contributions.pdf' target='_blank'>Review of Working Group</a><br>&nbsp;&nbsp;&nbsp;&nbsp;
+																	<a href='pdf/ar5/review_of_wg_contributions.pdf' target='_blank'>contributions</a> to the AR5</p>
+																<p><img id="de_element_image" src="img/home.gif"/><a href='activities/key_dates_AR5_schedulepdf.pdf' target='_blank'>Key AR5 Dates</a></p>
+																<p><img id="de_element_image" src="img/home.gif"/><a href='pdf/ar5/ar5-cut-off-dates.pdf' target='_blank'>Cut-off Dates</a> for literature</p>
+															   </td>
+															</tr>
+														  </tbody>
+														</table>
+														<!-- end: box AR5 -->
+																											
+															<!-- 		
+															<img src="../Organization_files/pixel.gif" width="5"/><br/>
+															-- this is a rotating news ---		
+															<table style="width: 200px; height: 38px;" cellpadding="0" cellspacing="0">
+																<tbody>
+																	<tr></tr>
+																	<tr>
+																		<td align="left" bgcolor="#990002" valign="top"><img src="/Home_files/CornerTopLeftRed.gif" border="0" height="6" width="7"/></td>
+																		<td style="text-align: center;" bgcolor="#990002">&nbsp;</td>
+																		<td align="right" bgcolor="#990002" valign="top"><img src="/Home_files/CornerTopRightRed.gif" border="0" height="6" width="7"/></td>
+																	</tr>
+																	<tr>
+																		<td bgcolor="#990002" width="7"><img src="/Home_files/pixel.gif" height="1" width="1"/></td>
+																		<td class="highlightlightWhite" align="center" bgcolor="#990002">
+																			<font color="#ffffff">News</font>					</td>
+																		<td bgcolor="#990002" width="7"><img src="/Home_files/pixel.gif" height="1" width="1"/></td>
+																	</tr>
+																	<tr>
+																		<td bgcolor="#990002" valign="bottom"><img src="/Home_files/CornerBottomLeftRed.gif" border="0" height="9" width="7"/></td>
+																		<td bgcolor="#990002">&nbsp;</td>
+																		<td bgcolor="#990002" valign="bottom"><img src="/Home_files/CornerBottomRightRed.gif" border="0" height="9" width="7"/></td>
+																	</tr>
+																</tbody>
+															</table>
+														
+															<table style="width: 197px; height: 46px; border: 2px solid #5492cd;" align="center" cellpadding="1" cellspacing="2"> 
+																<tbody>
+																	<tr>
+																		<td align='center'>
+																			<div id="verSlide" class="box">
+																				<div>
+																					<b>IPCC Media Advisory</b>
+																					<br/>&nbsp;<br/>
+																					<em>IPCC Sessions in Kampala, Uganda</em> 
+																					<br/>&nbsp;<br/>
+																					<a href='/news_and_events/press_information.shtml#tabs-9'>Special Report Approval and Launch: Managing the Risks of Extrement Weather Events</a>
+																				</div>							
+																				<div>					
+																					<p>							
+																						IPCC announces 9 <a href='/ipcc-scholarship-programme/ipcc_scholarshipprogramme.shtml'>IPCC Scholarship Programme</a> Awards to young students from developing countries							
+																					</p>		
+																				</div>
+																			</div>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															<img src="/Home_files/pixel.gif" height="4px" width="9px"/>
+															<table style="width: 197px; height: 46px; border: 2px solid #5492cd;" align="center" cellpadding="1" cellspacing="2"> 
+																<tbody>
+																	<tr>
+																		<td>
+																			<ul style='margin-left: 15px; color: #000;'>
+																				<li>IPCC announces 9 <a href='/ipcc-scholarship-programme/ipcc_scholarshipprogramme.shtml'>IPCC Scholarship Programme</a> Awards to young students from developing countries</li>
+																			</ul>					</td>
+																	</tr>
+																</tbody>
+															</table>
+															-->		
+																							
+														<img src="../Organization_files/pixel.gif" width="5"/><br/>
+														<!--<table style="width: 197px; height: 46px; border: 1px solid #5492cd;" align="center" cellpadding="1" cellspacing="2"> 
+															<tbody>
+																<tr><td>
+																	<div class="boxheader">
+																		<a  href="/scripts/_session_template.php?page=_34ipcc.htm"><font color="#ffffff">Procedures revised at the 35th Session, Geneva, Switzerland</font></a>
+																	</div>															
+																</td></tr>															
+																<tr>
+																	<td><p style="text-align:center;font-weight: bold;">
+																			 <div style="text-align: left;">
+																				<strong>Decisions</strong> <br/>
+																				<p><img id="de_element_image" src="img/home.gif"/>Procedures: <a href='/pdf/ipcc-principles/appendix_a_decision.pdf' target='_blank'>Appendix A</a></p>
+																				<p><img id="de_element_image" src="img/home.gif"/>Programme and Budget; <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Procedures: <a href='/pdf/ipcc-principles/appendix-b_decision.pdf' target='_blank'>Appendix B</a></p>
+																				<p><img id="de_element_image" src="img/home.gif"/><a href='/pdf/ipcc-principles/ipcc-conflict-of-interest_decision.pdf' target='_blank'>Conflict of Interest Policy</a></p><br/>
+															                    <p>
+															                    <p><img id="de_element_image" src="img/home.gif"/><a href='meetings/session34/draft_report_p34.pdf' target='_blank'>Draft report</a> of the 34th Session<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of the IPCC</p>
+													                  </div>
+																	</td>
+																</tr>
+															</tbody>
+														</table>-->	
+
+														<!-- upcoming events   
+														<img src="../Organization_files/pixel.gif" width="5"/><br/>
+														<table style="width: 197px; height: 46px; border: 1px solid #5492cd;" align="center" cellpadding="1" cellspacing="2"> 
+															<tbody>
+																<tr><td>
+																	<div class="boxheader">
+																		Upcoming Events
+																		<a target="_blank" href="/apps/calendar/rss.php"><img src='/img/rss2.png' alt="RSS" style="float:right;" title="Calendar RSS"  border="0" class="ipcctoolbar" /></a>
+																		<a href="/scripts/_calendar_template.php"><img src='/img/link.png' alt="Show events" style="float:right;" title="show all events"  border="0"  class="ipcctoolbar" /></a>
+																	</div>															
+																</td></tr>															
+																<tr>
+																	<td><p style="text-align:center;font-weight: bold;">
+																		<div id="divupcoming" style='width:190px;'><img src='/img/loading.gif' /> Loading upcoming events...</div>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+														 end: upcoming events -->
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td colspan="2" align="left" valign="top">&nbsp;</td>
+											</tr>
+											<tr>
+												<td valign="bottom" width="161">&nbsp;</td>
+												<td valign="top" width="51"></td>
+												<td valign="bottom" width="10">&nbsp;</td>
+											</tr>
+											<tr>
+												<td valign="top"> 									  
+													<br/>
+												</td>
+											</tr>
+											<tr>
+												<td colspan="3" valign="top">&nbsp; </td> 
+											</tr>
+										</tbody>
+									</table>
+
+									<div id="external-video-form" title="IPCC@Tube" style="display:none; height: 500px; width: 290px;">
+										<object width="480" height="270">
+											<param name="movie" value="http://www.unmultimedia.org/tv/webcast/swfs/player.swf" />
+											<param name="allowFullScreen" value="true" /><param name="bgcolor" value="000000" />
+											<param name="allowscriptaccess" value="always"></param>
+											<param name="flashvars" value="file=pressconference/2011/pc110628pm.flv&image=http://www.unmultimedia.org/tv/webcast/2011/06/full/pc110628.jpg&autostart=false&controlbar=over&start=0&duration=1105&dock=true&stretching=uniform&streamer=rtmp://webcast-flash.un.org/ondemand/" />
+											<embed src="http://www.unmultimedia.org/tv/webcast/swfs/player.swf?file=pressconference/2011/pc110628pm.flv&image=http://www.unmultimedia.org/tv/webcast/2011/06/full/pc110628.jpg&autostart=false&controlbar=over&start=0&duration=1105&dock=true&stretching=uniform&streamer=rtmp://webcast-flash.un.org/ondemand/" width="480" height="270" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always"/>
+										</object>	
+									</div>
+
+									<div id="youtube-dialog-form" title="IPCC@Tube" style="display:none">
+										<div id="playerContainer">
+											<object id="player"></object>
+										</div>						
+									</div>
+	
+									<!-- 
+									<div id='dialogwindow' onClick="hidepic();">
+										<img src='img/Greeting_2011.jpg' width='640' height='571' alt='IPCC New Year Greeting 2011' class='dialogcontent'/>
+									</div>
+									-->
+									
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>		
+		</tbody>
+	</table>
+</div>	
+						
+<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-22445768-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+
+		function gotosearch() {
+			//location.href = '/search.shtml';
+			location.href = '/search';
+		}	  
+		
+		function getlinks(id) {
+			var html = "<h4>" +  id + "</h4>";
+			switch (id) {
+				case "Report":
+					//html += "<ul><li><a href='/pdf/special-reports/srex/SREX_FD_SPM_final.pdf' target='_blank'>Summary for Policymakers</a></li><li><a href='http://www.ipcc-wg2.gov/SREX/images/uploads/SREX-All_FINAL.pdf' target='_blank'>Full Report</a></li><li><a href='/news_and_events/docs/srex/SREX_slide_deck.pdf' target='_blank'>Generic Presentation</a></li><li><a href='/news_and_events/docs/srex/stocker12UNenv.pdf' target='_blank'>Presentation by Thomas Stocker</a></li><li><a href='/news_and_events/docs/srex/stocker12UNenv.pdf' target='_blank'>Fact Sheet</a></li></ul>";						
+					html += "<ul><li><a href='https://docs.google.com/open?id=0B1gFp6Ioo3akYklZcWkwWHJud00' target='_blank'>Summary for Policymakers</a></li><li><a href='http://www.ipcc-wg2.gov/SREX/images/uploads/SREX-All_FINAL.pdf' target='_blank'>Full Report</a></li><li><a href='/news_and_events/docs/srex/SREX_slide_deck.pdf' target='_blank'>Generic Presentation</a></li><li><a href='/news_and_events/docs/srex/stocker12UNenv.pdf' target='_blank'>Presentation by Thomas Stocker</a></li><li><a href='/news_and_events/docs/srex/stocker12UNenv.pdf' target='_blank'>Fact Sheet</a></li></ul>";											
+					break;
+				case "Press":
+					//<li><a href='http://ipcc.newzpoint.com' target='_blank'>Press Conference Video</a></li>
+					html += "<ul><li><a href='/news_and_events/docs/srex/srex_press_release.pdf' target='_blank'>Press Release</a></li></ul>";	
+					break;
+				case "Videos":
+					html += "<ul>";										
+					// VIGeHzuwFSQ
+					html += "<li><a class='youtube' data-youtube='Fq8P9RhEpiQ' xhref='http://www.youtube.com/watch?v=Fq8P9RhEpiQ' target='_blank'>Overview of SREX</a></li>";	
+					html += "<li><a class='youtube' data-youtube='zCBAZqKP9g0' xhref='http://www.youtube.com/watch?v=Fq8P9RhEpiQ' target='_blank'>Rajendra Pachauri - IPCC Chair</a></li>";	
+					html += "<li><a class='youtube' data-youtube='jLRIkCXnNik' xhref='http://www.youtube.com/watch?v=Fq8P9RhEpiQ' target='_blank'>Vicente Barros - WGII Co-chair</a></li>";	
+					html += "<li><a class='youtube' data-youtube='1OyMH5hNlAw' xhref='http://www.youtube.com/watch?v=Fq8P9RhEpiQ' target='_blank'>Thomas Stocker - WGI Co-chair</a></li>";	
+					html += "<li><a class='youtube' data-youtube='1ZvNcJHqBaI' xhref='http://www.youtube.com/watch?v=Fq8P9RhEpiQ' target='_blank'>Virginia Murray - Chapter 9, CLA</a></li>";	
+					html += "</ul>";
+					break;						
+			}
+			return (html);
+		}
+
+		$(document).ready(function() {
+			var calendaritems = 3;
+			$("#tabs" ).tabs();
+			$("#buttonMore, #buttonOther").button().css("font-size", 10);
+			$("#buttonPress").button().css("font-size", 12).css('width', '120px').css('font-weight', 'bold');
+			$('div#verSlide').jPortlet({ 'width': 187, 'height': 200, 'effect': 'verSlide', 'speed': 12000 });			
+			
+		
+
+			$("#buttonMore").click(function() {
+				var text = $(this).val();
+				if (text == "More Info")  {
+					$("#divcachee1").show();
+					$(this).val('Hide Info');
+				} else  {
+					$(this).val('More Info');
+					$("#divcachee1").hide();
+				}
+			});
+			
+			$("#buttonOther").click(function() {
+				location.href = '/publications_and_data/publications_and_data_reports.shtml';
+			});
+			
+			$("#buttonPress").click(function() {
+				location.href = '/news_and_events/press_menu.shtml';
+			});
+			
+			var t;
+			$(".button a.link").click(function() {
+				var item = $(this);
+				var pos = $(item).position();
+				var ht = $(item).attr("data-height");
+				$("#overlay").css('top', 320 - ht - 90).css("opacity", 0.6);
+				var id = $(item).attr("data-id");
+				var data = getlinks(id);
+				if (data) {
+					$("#overlay").html(data);
+					$("#overlay").slideDown("slow");					
+					clearTimeout(t);
+					t = setTimeout(function() {						
+						$("#overlay").fadeOut('slow');						
+					}, 5000);
+				}	
+				else $("#overlay").fadeOut('slow');						
+			});
+			
+			/*
+			$("#overlay").mouseout(function(event) {
+				var target = $(event.target);
+				if (target.is("div.overlay"))	
+					$(this).fadeOut('slow');
+			});
+			*/
+			
+			$("#overlay ul li a").live( {
+				mouseover: function() { $(this).css("color", "#F9DA8A"); } ,
+				mouseout: function() { $(this).css("color", "white"); } 
+			});
+			
+			$(".selector").hover(
+				function() { var title = $(this).attr('title'); $('#booktitle').html(title).css('background-color', '#ccddee'); },
+				function() { $('#booktitle').html('').css('background-color', '#ffffff'); }
+			);
+			
+			$("#external-video-form, #youtube-dialog-form").dialog({
+				autoOpen: false,
+				height: 420,
+				width: 540,
+				modal: false,
+				buttons: {
+					Close: function() 
+					{					
+						$(this).dialog('close');
+					}
+				}
+			});		
+			
+			$('#playvideo').click(function() {
+				$('#external-video-form').dialog('open').dialog("option", "height", 400);
+			});
+			
+			
+			$('.youtube').live('click', function() {
+				$('#youtube-dialog-form').dialog('open').dialog("option", "height", 420);	
+				var autoplay = 0;
+				var url = $(this).attr('data-youtube');
+				if (url) {
+					embedurl = 'http://www.youtube.com/v/' + url + '?f=playlists&app=youtube_gdata';
+					swfobject.embedSWF(embedurl + '&rel=1&border=0&fs=1&autoplay=' + (autoplay?1:0), 'player', '430', '290', '9.0.0', false, false, {allowfullscreen: 'true', allowScriptAccess: 'always' });
+				}
+			});
+			
+			// yet another workaround for IE. 
+			// when the model window with flash video is closed then IE continues playing the video. Works fine in Mozilla or WebKit
+			// workaround: to remove the object and re-add it (only for IE)
+			function stopVideo()
+			{
+				var playerObj = document.getElementById("player");
+				if (playerObj) {
+					var clone = $("#player").clone(true);
+					$("#player").remove();
+					$("#playerContainer").html(clone);				
+				} 
+			}					
+			
+			// load upcoming events
+			/*
+			$.get("/apps/calendar/viewer/upcomingevents.php",
+						{count: calendaritems},
+						function(data) {
+							$("#divupcoming").html(data);	
+						});
+			*/			
+		 });
+
+
+		function hidepic() {
+			document.getElementById('dialogwindow').style.display = 'none';
+		}
+
+		function showgreeting(timeout) {
+			document.getElementById('dialogwindow').style.visibility = 'visible';
+			setTimeout(function() { 
+								document.getElementById('dialogwindow').style.visibility = 'hidden';
+							}, timeout);	
+		}
+
+		function navigate(location) {
+			var url = location.value;
+			if (url) {
+				if (url.indexOf("http") >= 0) 
+					window.open(url);
+				else 
+					window.location.href = url;
+			}		
+		}
+		 
+//showgreeting(15000);
+</script>
+</body></HTML>

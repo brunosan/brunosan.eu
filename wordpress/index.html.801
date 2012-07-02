@@ -1,0 +1,166 @@
+  <!DOCTYPE html>
+<html>
+
+
+<head>
+  <meta charset='utf-8' />
+  <title>Our Work | Global Adaptation Institute</title>
+
+  <meta name="description" content="The Global Adaptation Institute works to save lives and livelihoods by fostering private sector investment in adaptation to climate change.">
+  <meta name="keywords" content="Adaptation, GaIn, climate, change, population, economy, growth, Vulnerability, Readiness, data, Index, Global, OpenData, transparency, nodejs">
+
+  <script src='http://gain.org/site.js'></script>
+  <link rel="canonical" href="http://gain.org/" />
+
+  <link rel='shortcut icon' href='http://gain.org/images/favicon.ico' type='image/x-icon' />
+  <link rel='stylesheet' href='http://gain.org/site.css' media='all' />
+  <link rel='stylesheet' href='http://gain.org/print.css' media='print' />
+  
+  <!-- Place this tag in the <head> of your document-->
+  <link href="https://plus.google.com/117326365348480888951/" rel="publisher" />
+  
+  <script type="text/javascript">
+    // Enforce canonical domain
+    var domain = window.location.protocol + '//' + window.location.hostname + '/',
+        baseurl = 'http://gain.org/',
+        path = window.location.href.replace(domain, '');
+    if (domain !== baseurl) {
+        window.location = baseurl + path.substring(path.indexOf('/') + 1);
+    }
+  </script>
+  
+  
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-23256792-1']);
+      _gaq.push(['_setDomainName', '.gain.org']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+</head>
+<body>
+  <div id='header'><div class='limiter'>
+  <h1><a class='logo' href='http://gain.org/'>The Global Adaptation Institute</a></h1>
+  <ul class='navigation'>
+    <li class='gain'><a class='button' href='http://index.gain.org'>Browse the Global Adaptation Index™</a></li>
+    <li class='contact'><a href='http://gain.org/contact'>
+      <h3>Contact</h3>
+      <p>Partner or reach out to learn more</p>
+    </a></li>
+    <li class='team'><a href='http://gain.org/team'>
+      <h3>Team</h3>
+      <p>Who we are and what we do</p>
+    </a></li>
+    <li class='blog'><a href='http://news.gain.org'>
+      <h3>News</h3>
+      <p>Adaptation and the private sector</p>
+    </a></li>
+    <li class='work'><a href='http://gain.org/work'>
+      <h3>Our Work</h3>
+      <p>How GAIN is building resilience</p>
+    </a></li>
+  </ul>
+</div></div>
+
+
+  <div id='page' class='clearfix'><div class='limiter'>
+      
+        <div id='intro'>
+            
+              <div class='image' id='cycle-img'>
+  
+    
+    <img class='first' src='http://gain.org/images/press_cycle/slide1.jpg' />
+    
+  
+    
+    <img src='http://gain.org/images/press_cycle/slide2.jpg' />
+    
+  
+    
+    <img src='http://gain.org/images/press_cycle/slide3.jpg' />
+    
+  
+    
+    <img src='http://gain.org/images/press_cycle/slide4.jpg' />
+    
+  
+    
+    <img src='http://gain.org/images/press_cycle/slide5.jpg' />
+    
+  
+</div>
+
+            
+        </div>
+      
+      <div class='main ' id='main'>
+  <div class='preface container clearfix'>
+	<h3>Our Work</h3>
+	<blockquote>The Global Adaptation Institute's (GAIN) mission is to enhance the world's understanding of the urgency for adaptation to climate change and other global forces and for the support needed through private and public investments for developing countries. Climate change, population growth, urbanization and resource scarcity jeopardize the improvements made on many human development goals, particularly in developing nations. The world must adapt now, and adapt in a way that harnesses human ingenuity and creativity.<br><br>
+	Through the open-source <a href="http://index.gain.org/">GAIN Index</a>, <a href="http://gain.org/prize/">demonstration projects</a> and <a href="http://gain.org/annual-meeting-highlights/">outreach</a> with businesses, government leaders and other NGOs, GAIN is showing how the private sector can bring about change to help those most vulnerable adapt.</blockquote></p>
+	 </div>
+<div class='sidebar container '>
+	<left>Listen to GAIN Founding CEO, <a href="/team/juan-jose-daboub/">Dr. Juan José Daboub</a> discuss the importance of adaptation and goals of the Institute. <a href="http://www.youtube.com/watch?v=Jv91fyNXDjA&list=UUOLEE6s95d0zDCBxmRFLavQ&index=34&feature=plcp">Video >></a></left><br><br>
+	<center><a href="http://www.youtube.com/watch?v=Jv91fyNXDjA&list=UUOLEE6s95d0zDCBxmRFLavQ&index=34&feature=plcp"><img src="http://farm7.staticflickr.com/6003/5881409416_63d9e442ca_m.jpg" width="170" height="216" alt="Dr. Juan José Daboub"></a></center><br>
+<center>GAIN initiatives include:</center>
+	  <h6>The GAIN Index™</h6>
+	The <a href="http://index.gain.org/">GAIN Index</a> is a navigation tool to assess a country's ability to address climate change and help decision-makers prioritize actions that harness the power of the private and public sectors. The Index shows the level of vulnerability of a country to the effects of climate change and other global forces, and the readiness of a country to successfully implement adaptation solutions.
+	 <h6>Demonstration Projects</h6>
+	  GAIN is identifying result-oriented <a href="http://gain.org/prize/">demonstration projects</a> that can be rapidly implemented to spark sustainable change and present innovative solutions to adaptation challenges around the world.
+      <h6>Outreach</h6>
+      GAIN is communicating ideas and efforts to governments, NGOs and the business community to increase awareness of the urgent need to adapt. Our <a href="http://gain.org/annual-meeting-highlights/">Annual Meeting and Scientific Convening</a> gathers an unparalleled field of private sector, academic and government adaptation leaders.<br><br><br><br><br>	
+	 </div>
+	 <div class='preface container clearfix'>
+	GAIN is concentrating its efforts in four sectors crucial to saving lives and improving livelihoods:<br>
+	<h4>Water</h4>
+	<a href="http://www.flickr.com/photos/oxfam/6328756633/" title="Drinking water, Province Orientale, DRC by Oxfam International, on Flickr"><img src="http://farm7.staticflickr.com/6234/6328756633_36c4a4b218_m.jpg" width="240" height="160" align="left" style="padding-right: 10px;alt="Drinking water, Province Orientale, DRC"></a>
+	Reliable water supplies are the basis for economies and civilizations. Industry, agriculture and human health can be immediately impacted by alterations in water levels and precipitation. Technologies that make water use more efficient will be in high demand and resilient water distribution systems will save lives.<br>
+	<br><br><br><h7>CC Image Courtesy of Oxfam International on Flickr</h7>
+	<h4>Coastal Protection</h4> 
+	<a href="http://www.flickr.com/photos/keithmarshall/474369474/" title="Shanghai Skyline by Keith Marshall, on Flickr"><img src="http://farm1.staticflickr.com/225/474369474_b3f250bace_m.jpg" width="240" height="160" align="left" style="padding-right: 10px; alt="Shanghai Skyline"></a>Rising sea levels will create challenges to any nation with a coastline and those communities living near the sea. Land loss will not only lead to a decline in the value of coastal property, but also eliminate livelihoods dependent on fishing and tourism in these areas.<br>
+	<br><br><br><br><h7>CC Image Courtesy of Keith Marshall on Flickr</h7>
+	<h4>Food & Agriculture</h4> 
+	<a href="http://www.flickr.com/photos/un_photo/6350299439/" title="Food and Agriculture in Viet Nam by United Nations Photo, on Flickr"><img src="http://farm7.staticflickr.com/6059/6350299439_158263759c_m.jpg" width="240" height="180" align="left" style="padding-right: 10px; alt="Food and Agriculture in Viet Nam"></a> Billions around the world depend on agriculture and on the land they farm for their livelihood and subsistence. Population growth, environmental degradation and climate change are all stresses on current agricultural production. Through research and development, the private sector can help develop more drought-resistant crops, irrigation techniques and delivery systems to help provide safety nets for farmers experiencing increasing uncertainty.<br>
+	<br><br><h7>CC Image Courtesy of United Nations on Flickr</h7>
+	<h4>Energy</h4> 
+	<a href="http://www.flickr.com/photos/internationalrivers/3522581021/" title="Tucuruí Dam by International Rivers, on Flickr"><img src="http://farm4.staticflickr.com/3661/3522581021_a04453ae40_m.jpg" width="240" height="162" align="left" style="padding-right: 10px;alt="Tucuruí Dam"></a>Energy plays a fundamental role in the economic, social and technological development of all societies. Climate change will affect all energy systems - from traditional wood burning to industrial fossil fuel and renewable energy production. Increases in natural disasters can disrupt energy transport and transmission routes, as well as physically damage energy facilities.<br>
+	<br><br><h7>CC Image Courtesy of International Rivers on Flickr</h7>
+	<br>
+	
+	</div>
+
+</div>
+
+</div>
+  </div></div>
+  <div id='footer1' class='clearfix'>
+    <div class='limiter'>
+      <div class='twitter'>
+        <a class='icon' href='http://twitter.com/GAINorg'>Twitter</a>
+        <div class='tweet'>
+          <p>loading..</p>
+        </div>
+      </div>
+      <div class='facebook'><a href='http://www.facebook.com/globalaiorg'>Facebook</a></div>
+      <div class='youtube'><a href='http://www.youtube.com/user/GlobalAdaptation'>Youtube</a></div>
+    </div>
+  </div>
+  <div id='footer2'>
+  	<div class='limiter'>
+      <div id='address' class='container'>Copyright &copy; 2012 <a href='http://gain.org'>Global Adaptation Institute.</a><br />
+        Licensed under Creative Commons Attribution-NonCommercial 3.0 Unported License.<br>
+        1747 Pennsylvania Ave NW, Suite 1125 - Washington, DC 20006</div>
+  	</div>
+  </div>
+</body>
+</html>
+

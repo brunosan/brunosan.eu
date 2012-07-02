@@ -1,0 +1,203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="climate change, greenhouse gases, ghg, cdm, clean development mechanism, unfccc, forestry, redd+, emissions trading scheme" />
+  <meta name="title" content="International Emissions Trading Association (IETA)" />
+  <meta name="author" content="International Emissions Trading Association (c) 2010" />
+  <meta name="description" content="The leading voice of the global business community on emissions trading since 2000. " />
+  <meta name="generator" content="MemberClicks Content Management System" />
+  <title>International Emissions Trading Association (IETA)</title>
+  <link href="/templates/ieta-jt/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <script type="text/javascript" src="http://www.ieta.org/includes/js/jquery-1.6.js"></script>
+  <script type="text/javascript">jQuery.noConflict();</script>
+  <script type="text/javascript" src="http://www.ieta.org/includes/js/jquery-ui-1.8.13.custom.min.js"></script>
+  <script type="text/javascript" src="http://www.ieta.org/includes/js/jQueryUIDialogInclude.js"></script>
+  <script type="text/javascript" src="http://www.ieta.org/includes/js/jquery.dataTables.js"></script>
+  <script type="text/javascript" src="http://www.ieta.org/includes/js/jquery.tablednd-0.5.js"></script>
+  <script type="text/javascript" src="http://www.ieta.org/includes/js/json2.js"></script>
+  <link rel="stylesheet" href="http://www.ieta.org/includes/css/themes/base/ui.all.css" type="text/css" />
+  <link rel="stylesheet" href="http://www.ieta.org/includes/css/jqueryui.css" type="text/css" />
+  <script type="text/javascript" src="/plugins/system/mtupgrade/mootools.js"></script>
+  <script type="text/javascript" src="/includes/js/joomla.javascript.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type='text/javascript'>
+/*<![CDATA[*/
+	var jax_live_site = 'http://www.ieta.org/index.php';
+	var jax_site_type = '1.5';
+	var jax_token_var = '82d94db0c32132422144016b3e4681f4';
+/*]]>*/
+</script><script type="text/javascript" src="http://www.ieta.org/plugins/system/pc_includes/ajax_1.3.js"></script>
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript">
+      window.addEvent("domready", function() {
+          SqueezeBox.initialize({});
+          $$("a.modal").each(function(el) {
+              el.addEvent("click", function(e) {
+                  new Event(e).stop();
+                  SqueezeBox.fromElement(el);
+              });
+          });
+      });
+  </script>
+
+<script type='text/javascript' src='/templates/ieta-jt/js/slider.js'></script>
+<script type='text/javascript' src='/templates/ieta-jt/js/hoverIntent.js'></script>
+<script type='text/javascript' src='/templates/ieta-jt/js/superfish.js'></script>
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+<link rel="stylesheet" href="/templates/ieta-jt/css/3839.css" type="text/css" />
+</head>
+<body id="bkg">
+    <div id="siteWrap">
+        <div id="siteFrame">
+            <div id="header">
+                <div id="googleSearch">
+                    <form id="siteSearchForm" name="siteSearchForm" method="get" action="http://www.google.com/search">
+                        <input name="sitesearch" value="www.ieta.org" type="radio" style="display: none;" checked="checked">
+                        <input name="q" id="gsInput" type="text" value="" onClick="this.value='';">
+                        <a href="javascript:document.siteSearchForm.submit();"><span class="hiddenText">search</span></a>
+                    </form>
+                </div><!-- search -->
+                <h1 id="logoLink"><a href="/">IETA | International Emissions Trading Association</a></h1>
+                <div id="topNavContainer"><ul class="menu" id="topNav"><li class="parent item75"><span class="separator"><span>About</span></span><ul><li class="item114"><a href="/overview"><span>Overview</span></a></li><li class="item80"><a href="/emissions-trading"><span>Emissions Trading</span></a></li><li class="parent item82"><a href="/membership"><span>Membership</span></a><ul><li class="item136"><a href="/our-members"><span>Our Members</span></a></li></ul></li><li class="item86"><a href="/governance"><span>Governance</span></a></li><li class="item95"><a href="/work-for-us"><span>Work For Us</span></a></li><li class="item87"><a href="/contact"><span>Contact</span></a></li></ul></li><li class="parent item76"><span class="separator"><span>News</span></span><ul><li class="item88"><a href="/press-releases"><span>Press Releases</span></a></li><li class="item89"><a href="/ieta-in-the-news"><span>IETA in the News</span></a></li><li class="item90"><a href="/newsletters"><span>Newsletters</span></a></li></ul></li><li class="parent item77"><span class="separator"><span>Publications</span></span><ul><li class="parent item91"><a href="/position-papers"><span>Position Papers</span></a><ul></ul></li><li class="item135"><a href="/3-minute-briefings"><span>3 Minute Briefings</span></a></li><li class="parent item93"><a href="/reports"><span>Reports</span></a><ul><li class="item165"><a href="/external-reports"><span>External Reports</span></a></li></ul></li><li class="item137"><a href="/trading-documents"><span>Trading Documents</span></a></li></ul></li><li class="parent item78"><span class="separator"><span>Events</span></span><ul><li class="item115"><a href="/upcoming-events"><span>Upcoming Events</span></a></li><li class="item92"><a href="/past-events"><span>Past Events</span></a></li></ul></li><li class="parent item120"><span class="separator"><span>Working Groups</span></span><ul><li class="item121"><a href="/working-groups-overview"><span>Working Groups Overview</span></a></li><li class="item122"><a href="/us"><span>US</span></a></li><li class="item123"><a href="/canadian"><span>Canadian</span></a></li><li class="item124"><a href="/eu"><span>EU</span></a></li><li class="item125"><a href="/emerging-trading-markets"><span>Emerging Trading Markets</span></a></li><li class="item126"><a href="/post-2012"><span>Post-2012</span></a></li><li class="item127"><a href="/cdmjioffsets"><span>CDM/JI/Offsets</span></a></li><li class="item128"><a href="/market-oversight"><span>US Market Oversight</span></a></li><li class="item129"><a href="/legal-technology-a-verification"><span>Legal, Technology &amp; Verification</span></a></li><li class="item130"><a href="/land-useforestry"><span>Land Use/Forestry</span></a></li><li class="item131"><a href="/carbon-capture-a-storage-ccs"><span>Carbon Capture &amp; Storage (CCS)</span></a></li><li class="item146"><a href="/icroa"><span>ICROA and the Voluntary Markets WG</span></a></li></ul></li><li class="parent item79"><a href="/login"><span>Member Center</span></a><ul></ul></li></ul></div><!-- navWrap -->
+            </div><!-- header -->
+            <div id="mini-feature-wrap"></div>
+            <div id="midsection">
+                
+                <table cellspacing="0" cellpadding="0" border="0" id="layoutTable">
+                <tbody>
+                    <tr>
+                        <td>
+                            <div id="contentWrap">
+                                <div id="contentPadding"> 
+
+
+
+<table class="contentpaneopen">
+<tr>
+		<td class="contentheading" width="100%">
+					International Emissions Trading Association (IETA)			</td>
+				
+		
+					</tr>
+</table>
+
+<table class="contentpaneopen">
+
+
+
+<tr>
+<td valign="top">
+<script type="text/javascript" src="/templates/ieta-jt/js/jquery.min.1.2.6.js"></script>
+<script type="text/javascript" src="/templates/ieta-jt/js/jqueryslidemenu.js"></script>
+<script type="text/javascript" src="/templates/ieta-jt/js/carousel/stepcarousel.js"></script>
+<script type="text/javascript" src="/templates/ieta-jt/js/stepcarousel.js"></script>
+<script type="text/javascript" src="/templates/ieta-jt/js/carousel/stepcarouselsetup.js"></script>
+<script type="text/javascript" src="/templates/ieta-jt/js/jquery/jquery.js?ver=1.4.2"></script>
+<div class="                                                                      " id="board">
+<div id="board_left">
+<div id="board_items">
+<div id="board_body">
+<ul id="board_carusel_nav">
+<li id="board_carusel_nav_1"><a class="selected" href="/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=82"><strong>Join Us</strong><span class="padding10">Learn more about IETA membership and the future of Emissions Trading.</span></a></li>
+<li id="board_carusel_nav_2"><a href="/index.php?option=com_content&amp;view=article&amp;id=27&amp;Itemid=84"><strong>Discuss With Us</strong><span class="padding10">Join the conversation on emissions trading in our Working Groups.</span></a></li>
+<li id="board_carusel_nav_3"><a href="/index.php?option=com_content&amp;view=article&amp;id=15&amp;Itemid=114"><strong>Learn About Us</strong><span class="contentheading">Learn about our history, emissions trading, and become a member.</span></a></li>
+</ul>
+<div id="board_carusel">
+<div class="belt">
+<div class="board_item"><!-- board_item --><a href="/index.php?option=com_content&amp;view=article&amp;id=17&amp;Itemid=82"><img src="/assets/Widgets/centerpiecesolarpanels.jpg" alt="" /></a> <!-- /board_item --></div>
+<div class="board_item"><!-- board_item --><img src="/assets/Widgets/discuss2.jpg" alt="" /> <!-- /board_item --></div>
+<div class="board_item"><!-- board_item --><img src="/assets/Widgets/seewhatsnext.jpg" alt="" /> <!-- /board_item --></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- end of board element -->
+<div id="hp-bottom">
+<div class="hp-box hp-box2" style="width: 261px; height: 201px;">
+<h3>Latest News</h3>
+<p style="padding-left: 30px;"><strong><a href="/ieta-comments-on-the-transition-to-a-single-eu-registry">IETA Comments on the transition to a single EU registry, June 20, 2012</a><a href="/ieta-stakeholder-comments-on-rggi-program-review"><br /><br /></a></strong><a href="/ieta-stakeholder-comments-on-rggi-program-review">IETA Stakeholder Comments on RGGI Program Review</a><br /></p>
+<p style="padding-left: 30px;"><a href="/ieta-releases-2012-ghg-market-sentiment-survey">IETA Releases 2012 GHG Market Sentiment Survey</a><a href="/ieta-comments-to-chairman-bingaman-on-cesa-of-2012"></a><a href="/ieta-comments-to-chairman-bingaman-on-cesa-of-2012"><br /><br />IETA Comments to Chairman Bingaman on CESA of 2012</a><br /></p>
+<p style="padding-left: 30px;"><a href="/eu-emission-market-not-broken">EU Emission Market Not Broken</a></p>
+<p style="padding-left: 30px;"><a href="/release-of-the-international-emissions-trading-master-agreement-ietma"><span style="font-size: 10px;"><span style="font-size: 12px;">Release of the International Emissions Trading Master Agreement (IETMA), April 16, 2012 </span></span></a><a href="http://www.ieta.org/index.php?option=com_content&amp;view=article&amp;id=505:ieta-comments-on-citizens-climate-lobby-suit-against-offsets-in-california&amp;catid=20:press-releases&amp;Itemid=88"><span style="font-size: 10px;"><span style="font-size: 12px;"></span></span></a><span style="font-size: 10px;"><span style="font-size: 12px;"><a href="/ieta-and-pdf-submission-on-the-revision-of-the-joint-implementation-ji-guidelines-april-16-2012"></a></span></span><br /><br /><span style="font-size: 10px;"><span style="font-size: 12px;"></span></span></p>
+<p style="padding-left: 30px;"><span style="font-size: 10px;"><span style="font-size: 12px;"><br /></span></span></p>
+</div>
+<!-- /hp-box -->
+<div class="hp-box hp-box2" style="width: 261px; height: 201px;">
+<h3>Upcoming Events</h3>
+<p style="text-align: center;"><a href="http://www.ietacarbonforum.org" target="_blank"><span><br /><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/images/cfna_2012.jpg" alt="" width="103" height="103" /><br />Carbon Forum North America 2012, October 1-2, Washington, DC</span></a></p>
+</div>
+<div class="hp-box">
+<div class="hp-box">
+<h3>Features</h3>
+<p style="text-align: left;"><span style="font-size: 12px;"><strong></strong><a href="/ieta-summary-of-california-cap-and-trade-regulations2">IETA California Summary</a>: <span style="font-size: 12px;">California</span>&nbsp; <span style="font-size: 12px;">cap-and-trade</span> trading rules overview <br /><strong></strong></span></p>
+<p style="text-align: left;"><span style="font-size: 12px;"><strong> <a href="/administrator/index.php?option=com_content&amp;sectionid=-1&amp;task=edit&amp;cid[]=446&amp;fpRedirect=0"> </a></strong></span><span style="font-size: 12px;"><a href="http://www.ieta.org/3-minute-briefings" target="_blank">EU ETS &amp; Aviation</a></span><span style="font-size: 12px;"></span><strong><span style="font-size: 12px;">: </span></strong><span style="font-size: 12px;">Regulating</span><span style="font-size: 12px;"> emissions from the aviation </span><span style="font-size: 12px;">sector</span><strong><span style="font-size: 12px;"><br /></span></strong><span style="font-size: 12px;"><span style="font-size: 10px;"><span style="font-size: 12px;"><br /><a href="/briefing-on-the-eus-emissions-trading-scheme">Briefing on the EU&rsquo;s Emissions Trading Scheme</a><a><br /></a></span></span></span><strong><span style="font-size: 12px;"><br /></span></strong><span style="font-size: 12px;"><span style="font-size: 10px;"><span style="font-size: 12px;"><a href="/assets/cdm%20policy%20dialogue_ieta%20input_011612.pdf" target="_blank">IETA Input on CDM Policy Dialogue</a></span></span></span></p>
+<p style="text-align: left;"><span style="font-size: 12px;"><span style="font-size: 10px;"><span style="font-size: 12px;"><span style="font-size: 12px;"><a href="/ieta-summary-of-quebec-cap-and-trade-regulations">IETA Quebec Summary</a>: Quebec <span style="font-size: 12px;"><span style="font-size: 10px;"><span style="font-size: 12px;"><span style="font-size: 12px;">cap-and-trade</span></span></span></span>&nbsp; trading rules overview</span></span></span></span></p>
+<p style="text-align: left;"><span style="font-size: 12px;"><span style="font-size: 10px;"><span style="font-size: 12px;"><span style="font-size: 12px;"><a href="/assets/ieta pacific rim climate workshop summary report_march 2012.pdf">IETA Pacific Rim Climate Workshop Report</a><br /></span></span></span></span></p>
+<p style="text-align: left;"><span style="font-size: 10px;"><span style="font-family: Calibri;"><span style="font-size: 10px;"><span style="font-size: 12px;"><br /></span></span></span></span></p>
+<div></div>
+</div>
+<!-- /hp-box --></div>
+<!-- /hp-bottom --></div></td>
+</tr>
+
+</table>
+<span class="article_separator">&nbsp;</span>
+</div><!-- contentPadding -->
+                            </div><!-- contentWrap -->
+                        </td>
+                        <td>
+                            <div id="rightBar"></div>
+                        </td>
+                    </tr>
+                </tbody>
+                </table>     
+                
+            </div><!-- midsection -->
+        </div><!-- siteFrame -->
+    </div><!-- siteWrap -->
+<div id="footer">
+    <div id="footerIn">
+<p>&copy; Copyright 1999-2012, International Emissions Trading Association. All rights reserved <span>|</span> <a href="/sitemap">Site Map</a><span>| <a href="/index.php?option=com_content&amp;view=article&amp;catid=19:default&amp;id=163:privacy-policy">Privacy Policy</a><span>|&nbsp; <a href="http://www.linkedin.com/groups?viewMembers=&amp;gid=1426767&amp;sik=1286470271163"><img style="vertical-align: bottom;" title="Join us on LinkedIn" src="/assets/images/linkedin.gif" alt="LinkedIn" width="18" /></a> <a href="http://twitter.com/ieta2012" target="_blank"><img style="vertical-align: bottom;" title="Follow us on Twitter" src="/assets/images/twitter.gif" alt="Twitter Logo" width="18" /></a></span><br /></span></p>
+<div id="ftrLogo">
+<p>&nbsp;</p>
+</div>
+<p>&nbsp;</p>
+</div>
+</div><!-- footer -->
+<div id="pbmcWrap"><a id="pbmc" href="http://www.memberclicks.com/">powered by MemberClicks</a></div>
+    
+<script type="text/javascript">
+topsfHover = function() {
+    if ( document.getElementById("topNav") )
+    {
+        var sfEls = document.getElementById("topNav").getElementsByTagName("LI");
+        for (var i=0; i<sfEls.length; i++) {
+            sfEls[i].onmouseover=function() {
+                this.className+=" topsfHover";
+            }
+            sfEls[i].onmouseout=function() {
+                this.className=this.className.replace(new RegExp(" topsfHover\\b"), "");
+            }
+        }
+    }
+}
+if (window.attachEvent) window.attachEvent("onload", topsfHover);
+</script>
+
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-18813338-1");
+			pageTracker._trackPageview();
+			} catch(err) {}</script>
+			</body></html>

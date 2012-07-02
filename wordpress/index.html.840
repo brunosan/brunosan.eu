@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" class="hl-en not-logged-in  can-open-media">
+<head>
+    <meta charset="UTF-8" />
+    <title>Photo by adamwells &bull; Instagram</title>
+
+    <link rel="Shortcut Icon" type="image/x-icon" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/ec97aef/images/favicon.ico" />
+
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    
+
+    
+    
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ec97aef/scripts/html5.js"></script>
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ec97aef/scripts/jquery.js"></script>
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ec97aef/scripts/bluebar.js"></script>
+        <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ec97aef/scripts/bluebar_desktop.js"></script>
+    
+    <script type="text/javascript" src="//d36xtkk24g8jdx.cloudfront.net/bluebar/ec97aef/scripts/loading.js"></script>
+
+
+    
+    
+    
+    <meta property="og:site_name" content="Instagram">
+    <meta name="twitter:card" value="photo">
+
+    
+    <meta name="twitter:title" value="Second only to the launch, this is one of the most amazing things I have ever seen. #WelcomeDiscovery" />
+    
+    <meta name="twitter:site" value="@instagram" />
+    <meta name="twitter:description" value="" />
+
+    <meta property="og:title" content="photo" />
+    <meta property="og:image" content="http://distilleryimage4.s3.amazonaws.com/8e619056889a11e1a39b1231381b7ba1_7.jpg" />
+    <meta property="og:description" content="adamwells's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/JhjkbYiUjA/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+    <link rel="stylesheet" type="text/css" href="//d36xtkk24g8jdx.cloudfront.net/bluebar/ec97aef/cache/media/media-main.css"/>
+
+
+</head>
+<body class="page-media media-open">
+
+<div class="root">
+
+
+    <div class="page">
+        
+        <header class="top-bar">
+            <div class="wrapper">
+                <hgroup>
+                    <h1 class="logo"><a href="/">Instagram</a></h1>
+                    
+                </hgroup>
+
+                
+
+                <div class="account-state">
+                    <ul class="actions">
+                        
+                        
+                        <li id="link_profile" class="link-signin">
+                                <a href="/accounts/login/?next=%2Fp%2FJhjkbYiUjA%2F">
+                                <i></i>
+                                <strong>Login</strong>
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </header> <!-- .top-bar -->
+        
+
+        
+        <div class="main">
+            
+            <div class="wrapper">
+                
+    <section class="media-wrapper" id="media_wrapper">
+        <div class="media-inner" id="media_inner">
+            <div class="media-user" id="media_user">
+                <h2><a href="javascript:;" onclick="toggleUserTooltip();">adamwells<b></b></a></h2>
+
+                <span class="img-inset user-avatar" style="background-image: url(http://images.instagram.com/profiles/profile_315593_75sq_1307927483.jpg);">
+                    <img src="http://images.instagram.com/profiles/profile_315593_75sq_1307927483.jpg" />
+                    <b></b>
+                </span>
+
+                <div class="user-tooltip" id="user_tooltip">
+                    <div class="user-tooltip-inner">
+                        <p class="user-fullname"><strong>Adam Wells</strong></p>
+                        
+                        <p class="user-url"><a href="http://twitter.com/adamwells" rel="nofollow">http://twitter.com/adamwells</a></p>
+                        <ul class="user-stats">
+                            <li><span class="number-statistic">192</span> photos</li>
+                            <li><span class="number-statistic">138</span> followers</li>
+                        </ul>
+                        
+                    </div>
+                </div>
+            </div>
+
+            
+
+            <div class="media-photo" id="media_photo">
+                <span id="i_like_big" class="i-like-big"></span>
+
+                <span class="img" style="background-image: url(http://distilleryimage4.s3.amazonaws.com/8e619056889a11e1a39b1231381b7ba1_7.jpg);">
+                    <img class="photo" src="http://distilleryimage4.s3.amazonaws.com/8e619056889a11e1a39b1231381b7ba1_7.jpg" />
+                </span>
+
+                
+                <p class="media-caption">
+                    <span class="caption-text">Second only to the launch, this is one of the most amazing things I have ever seen. #WelcomeDiscovery</span>
+                    <span class="caption-location"><span>at </span><strong>United States Capitol Building</strong></span>
+                    <a href="javascript:;" onclick="dismissCaption();" class="dismiss"></a>
+                </p>
+                
+            </div>
+
+            <div class="media-info">
+
+                
+
+                <section class="media-likes">
+                    <h2><span class="like-count"></span><b>Likes</b></h2>
+
+                    <p class="likes-notice"><span>No likes yet.</span></p>
+
+                    <div class="like-list " id="like_list">
+                        <ul>
+                            
+
+                            
+                            <li class="like first-two">
+                                <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_4108168_75sq_1338577972.jpg);">
+                                    <img src="http://images.instagram.com/profiles/profile_4108168_75sq_1338577972.jpg" alt="smijes" />
+                                    <b></b>
+                                </span>
+                                <strong class="tooltip">smijes</strong>
+                            </li>
+                            
+                            <li class="like">
+                                <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_16189087_75sq_1325083001.jpg);">
+                                    <img src="http://images.instagram.com/profiles/profile_16189087_75sq_1325083001.jpg" alt="dchuiko" />
+                                    <b></b>
+                                </span>
+                                <strong class="tooltip">dchuiko</strong>
+                            </li>
+                            
+                            <li class="like">
+                                <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_8614372_75sq_1335106779.jpg);">
+                                    <img src="http://images.instagram.com/profiles/profile_8614372_75sq_1335106779.jpg" alt="p41nfu11" />
+                                    <b></b>
+                                </span>
+                                <strong class="tooltip">p41nfu11</strong>
+                            </li>
+                            
+                            <li class="like">
+                                <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_1756490_75sq_1308252746.jpg);">
+                                    <img src="http://images.instagram.com/profiles/profile_1756490_75sq_1308252746.jpg" alt="sebtrance" />
+                                    <b></b>
+                                </span>
+                                <strong class="tooltip">sebtrance</strong>
+                            </li>
+                            
+                            <li class="like last-two">
+                                <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_1567923_75sq_1306725887.jpg);">
+                                    <img src="http://images.instagram.com/profiles/profile_1567923_75sq_1306725887.jpg" alt="colordeficiency" />
+                                    <b></b>
+                                </span>
+                                <strong class="tooltip">colordeficiency</strong>
+                            </li>
+                            
+                            <li class="like last-two">
+                                <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_7781628_75sq_1312743353.jpg);">
+                                    <img src="http://images.instagram.com/profiles/profile_7781628_75sq_1312743353.jpg" alt="andreasmundt" />
+                                    <b></b>
+                                </span>
+                                <strong class="tooltip">andreasmundt</strong>
+                            </li>
+                            
+                            <li class="like last-two">
+                                <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_1567645_75sq_1334259782.jpg);">
+                                    <img src="http://images.instagram.com/profiles/profile_1567645_75sq_1334259782.jpg" alt="skyblue1509" />
+                                    <b></b>
+                                </span>
+                                <strong class="tooltip">skyblue1509</strong>
+                            </li>
+                            
+                        </ul>
+                    </div>
+
+                    <i class="media-likes-fade"></i>
+                </section>
+
+                <section class="media-comments">
+                <h2><span class="comment-count"></span><b>Comments</b></h2>
+                    
+                        
+    <div class="comment caption" data-id="171575884758206686">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_315593_75sq_1307927483.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_315593_75sq_1307927483.jpg" alt="adamwells" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">adamwells</strong>
+            <span class="comment-text">Second only to the launch, this is one of the most amazing things I have ever seen. #WelcomeDiscovery</span>
+            <span class="comment-meta"><time datetime="2012-04-17T14:37:41+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </div>
+
+                    
+
+                    <ul id="comment_list">
+                    
+                        
+    <li class="comment" data-id="171581060411902218">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_2645315_75sq_1332643517.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_2645315_75sq_1332643517.jpg" alt="tanyalias" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">tanyalias</strong>
+            <span class="comment-text">Love it!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T14:47:58+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171581401593366799">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_385480_75sq_1340822468.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_385480_75sq_1340822468.jpg" alt="dvw2" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">dvw2</strong>
+            <span class="comment-text">Wow. Well done.</span>
+            <span class="comment-meta"><time datetime="2012-04-17T14:48:38+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171581794004060432">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_127352_75sq_1327851437.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_127352_75sq_1327851437.jpg" alt="jharrier" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">jharrier</strong>
+            <span class="comment-text">A</span>
+            <span class="comment-meta"><time datetime="2012-04-17T14:49:25+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171581857178667281">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_127352_75sq_1327851437.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_127352_75sq_1327851437.jpg" alt="jharrier" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">jharrier</strong>
+            <span class="comment-text">Amazing shot!!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T14:49:32+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171585424392276271">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_8342717_75sq_1321987075.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_8342717_75sq_1321987075.jpg" alt="tpwpguide" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">tpwpguide</strong>
+            <span class="comment-text">Gorgeous!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T14:56:38+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171586101059340597">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_290277_75sq_1337811654.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_290277_75sq_1337811654.jpg" alt="jamesanthonycampbell" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">jamesanthonycampbell</strong>
+            <span class="comment-text">Nice.</span>
+            <span class="comment-meta"><time datetime="2012-04-17T14:57:58+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171587206023563578">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_6449735_75sq_1334117010.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_6449735_75sq_1334117010.jpg" alt="vbrookeb" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">vbrookeb</strong>
+            <span class="comment-text">Amazing!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:00:10+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171588791873128778">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_22733728_75sq_1334498212.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_22733728_75sq_1334498212.jpg" alt="coding_doc" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">coding_doc</strong>
+            <span class="comment-text">Once in a lifetime shot for you, the shuttle and the Capitol. Awesome.</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:03:19+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171591395856435545">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_22219894_75sq_1339788277.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_22219894_75sq_1339788277.jpg" alt="pfunk_allstar" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">pfunk_allstar</strong>
+            <span class="comment-text">Best shot of the discovery that I've seen thus far</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:08:30+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171591569257351516">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/anonymousUser.jpg);">
+            <img src="http://images.instagram.com/profiles/anonymousUser.jpg" alt="98fiver" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">98fiver</strong>
+            <span class="comment-text">Unbelievable</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:08:50+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171600215185901972">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_11188229_75sq_1339038131.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_11188229_75sq_1339038131.jpg" alt="bear_caldwell" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">bear_caldwell</strong>
+            <span class="comment-text">#SpotTheShuttle</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:26:01+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171600889478990232">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_6155997_75sq_1323224272.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_6155997_75sq_1323224272.jpg" alt="jaydistrict" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">jaydistrict</strong>
+            <span class="comment-text">Nice!!! 👏👏👏👏</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:27:21+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171603638073510314">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_30814324_75sq_1339990461.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_30814324_75sq_1339990461.jpg" alt="mrversatal" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">mrversatal</strong>
+            <span class="comment-text">Amazing shot, man... Good stuff</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:32:49+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171603985881975215">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/anonymousUser.jpg);">
+            <img src="http://images.instagram.com/profiles/anonymousUser.jpg" alt="yamame" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">yamame</strong>
+            <span class="comment-text">amazing!!!!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:33:30+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171606855247284672">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_156652_75sq_1287849632.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_156652_75sq_1287849632.jpg" alt="bigboxcar" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">bigboxcar</strong>
+            <span class="comment-text">Great shot.</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:39:12+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171607267169880516">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_11500784_75sq_1326568814.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_11500784_75sq_1326568814.jpg" alt="transplantedindc" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">transplantedindc</strong>
+            <span class="comment-text">That is awesome...</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:40:02+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171608356917168587">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_1907362_75sq_1335721151.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_1907362_75sq_1335721151.jpg" alt="sergolaya" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">sergolaya</strong>
+            <span class="comment-text">Do you have the source photo by any chance?</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:42:12+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171616740231956987">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_3311486_75sq_1321696654.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_3311486_75sq_1321696654.jpg" alt="carlmilner" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">carlmilner</strong>
+            <span class="comment-text">Absolute cracking shot Adam</span>
+            <span class="comment-meta"><time datetime="2012-04-17T15:58:51+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171632694567455319">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_17202156_75sq_1337043370.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_17202156_75sq_1337043370.jpg" alt="lsburroughs" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">lsburroughs</strong>
+            <span class="comment-text">Saw this tweeted via Mashable, nice job!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T16:30:33+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171635654051580520">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_7466534_75sq_1312273498.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_7466534_75sq_1312273498.jpg" alt="oh_steph" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">oh_steph</strong>
+            <span class="comment-text">Just gorgeous. Saw it on DCist and had to come tip my hat.</span>
+            <span class="comment-meta"><time datetime="2012-04-17T16:36:26+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171657126589582069">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_4253714_75sq_1338133979.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_4253714_75sq_1338133979.jpg" alt="gmp3" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">gmp3</strong>
+            <span class="comment-text">Saw this on @gothamist .. Amazing shot dude!!! Best out there @adamwells</span>
+            <span class="comment-meta"><time datetime="2012-04-17T17:19:05+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171663496068025121">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_885047_75sq_1295902052.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_885047_75sq_1295902052.jpg" alt="namays" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">namays</strong>
+            <span class="comment-text">Just saw this pic on theblaze.com and had to find and like this pic. Epic in every way!  Congrats!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T17:31:45+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171667243670260543">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_6498953_75sq_1333320912.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_6498953_75sq_1333320912.jpg" alt="dommiewhitesi" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">dommiewhitesi</strong>
+            <span class="comment-text">Just saw this pic on cult of Mac 👍</span>
+            <span class="comment-meta"><time datetime="2012-04-17T17:39:11+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171673858515487593">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_315593_75sq_1307927483.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_315593_75sq_1307927483.jpg" alt="adamwells" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">adamwells</strong>
+            <span class="comment-text">Thanks all! For those looking for my original, you can find it at http://Flickr.com/photos/adamwells/6941617526/</span>
+            <span class="comment-meta"><time datetime="2012-04-17T17:52:20+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171689897240382402">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_15994054_75sq_1339305117.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_15994054_75sq_1339305117.jpg" alt="cameronwilder" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">cameronwilder</strong>
+            <span class="comment-text">Great Shot! You are all over the internet!!!!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T18:24:12+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171699943303104536">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_7202910_75sq_1311823261.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_7202910_75sq_1311823261.jpg" alt="smrourke" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">smrourke</strong>
+            <span class="comment-text">Amazing! Congrats on your new Instagram celebrity status!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T18:44:09+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171726428319598810">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_2092538_75sq_1335200180.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_2092538_75sq_1335200180.jpg" alt="mr_tebow" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">mr_tebow</strong>
+            <span class="comment-text">Saw your pic on Space.com! Love it!</span>
+            <span class="comment-meta"><time datetime="2012-04-17T19:36:47+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171749747760646546">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_41155789_75sq_1334460165.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_41155789_75sq_1334460165.jpg" alt="ahmedabdelwahab" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">ahmedabdelwahab</strong>
+            <span class="comment-text">Well done ,your shot is amazing.</span>
+            <span class="comment-meta"><time datetime="2012-04-17T20:23:07+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="171958780371224614">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_31815872_75sq_1340222621.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_31815872_75sq_1340222621.jpg" alt="joshuakmcclain" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">joshuakmcclain</strong>
+            <span class="comment-text">Fantastic shot</span>
+            <span class="comment-meta"><time datetime="2012-04-18T03:18:25+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="172089073430252330">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_179968_75sq_1287424836.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_179968_75sq_1287424836.jpg" alt="travel_junkie" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">travel_junkie</strong>
+            <span class="comment-text">Very nice indeed</span>
+            <span class="comment-meta"><time datetime="2012-04-18T07:37:17+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="172190566879676436">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_2147318_75sq_1328213450.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_2147318_75sq_1328213450.jpg" alt="davidfindley" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">davidfindley</strong>
+            <span class="comment-text">Incredible shot. Well done!</span>
+            <span class="comment-meta"><time datetime="2012-04-18T10:58:56+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="172354093271567254">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_3013110_75sq_1305742472.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_3013110_75sq_1305742472.jpg" alt="poorlight" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">poorlight</strong>
+            <span class="comment-text">Great picture with perfect timing and historic moment. Superb!</span>
+            <span class="comment-meta"><time datetime="2012-04-18T16:23:50+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                        
+    <li class="comment" data-id="173895696368879808">
+        
+        <span class="like-avatar img-inset" style="background-image: url(http://images.instagram.com/profiles/profile_1567645_75sq_1334259782.jpg);">
+            <img src="http://images.instagram.com/profiles/profile_1567645_75sq_1334259782.jpg" alt="skyblue1509" />
+            <b></b>
+        </span>
+        
+        <p>
+            <strong class="username">skyblue1509</strong>
+            <span class="comment-text">The Best Shot of Ever, Absolutely! 👏👍</span>
+            <span class="comment-meta"><time datetime="2012-04-20T19:26:44+00:00">10w</time></span>
+            <span class="comment-info">
+                
+            </span>
+        </p>
+    </li>
+
+                    
+                    </ul>
+                </section>
+
+                
+                <div class="cta-addcomment">
+                    <p>To add a comment, please <a onclick="login_with_intent('comment')">sign in</a>.</p>
+                </div>
+                
+
+                
+
+                <div class="media-bar">
+                    <a class="bar-handle" href="javascript:;" onclick="toggleMediaState();"></a>
+
+                    <ul>
+                        <li class="like-control">
+                            <strong><span class="count-badge like-count"></span><b>Likes</b></strong>
+                            <a id="like_button" class="like-button" href="javascript:;" onclick="iLike();">
+                                <span>Like</span>
+                                <b></b>
+                                <i></i>
+                            </a>
+                        </li>
+                        <li class="comment-control">
+                        <strong><span class="count-badge comment-count"></span><b>Comments</b></strong>
+                            <a id="comment_button" class="comment-button" href="javascript:;" onclick="mediaBarComment();">
+                                <span>Comment</span>
+                                <b></b>
+                                <i></i>
+                            </a>
+                        </li>
+                    </ul>
+
+                    <span id="i_like" class="i-like"></span>
+                    <span class="bar-glyph"></span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+
+    // SETUP
+
+    
+    is_logged_in = false
+    myUsername = "";
+    myProfilePicURL = "#";
+    
+
+    
+    can_comment = true
+    
+
+    numLikes = parseInt(173)
+    numComments = parseInt(34)
+
+    comment_placeholder = "Add a comment...";
+
+    // ON LOAD
+
+    $(function() {
+        $('#comment_text').val(comment_placeholder);
+        $('#comment_text').addClass("placeholder");
+        $('#comment_text').autogrow();
+
+        $('#comment_text').focus(function(e) {
+            if ($(this).val() == comment_placeholder) {
+                $(this).removeClass('placeholder');
+                $(this).val('');
+            }
+        });
+
+        $('#comment_text').blur(function(e) {
+            if ($(this).val() == "") {
+                $(this).addClass('placeholder');
+                $(this).val(comment_placeholder);
+            }
+        });
+    });
+
+    // GENERIC
+
+    function scrollCommentsToBottom() {
+        var comment_list = $("#comment_list");
+        comment_list.scrollTop(comment_list[0].scrollHeight - comment_list.height());
+    }
+
+    // COMMENTING
+
+    function focusComment() {
+        $('#comment_text').focus();
+    }
+
+    function comment() {
+        var comment_text = $.trim($("#comment_text").val());
+        if (comment_text == "" || comment_text == comment_placeholder) {
+            return;
+        }
+        var comment = addComment(comment_text);
+        postComment(comment);
+        $("#comment_text").val('');
+        $('#comment_text').blur();
+        $('#comment_text').css('height', 31);
+    }
+
+    function addComment(comment_text) {
+        numComments++;
+        var extra_classes = (comment_text.length < 31) ? ' time-br' : '';
+        var new_comment = $(document.createElement('li'));
+        new_comment.addClass("comment"+extra_classes);
+        new_comment.append(
+            '<span class="like-avatar img-inset" style="background-image:url(' + myProfilePicURL + ');">' +
+                '<img src="' + myProfilePicURL + '" alt="' + myUsername + '" />' +
+                '<b></b>' +
+            '</span>' +
+            '<p>' +
+                '<strong class="username">' + myUsername + '</strong> ' +
+                '<span class="comment-text">' + comment_text + '</span> ' +
+                '<span class="comment-meta"><time>Now</time></span>' +
+                '<span class="comment-info">' +
+                '</span>' +
+            '</p>'
+        );
+        var comment_list = $("#comment_list");
+        comment_list.append(new_comment);
+        setUpCommentList();
+        scrollCommentsToBottom();
+        return new_comment;
+    }
+
+    function postComment(comment) {
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: "/web/comments/171574695748520128/add/",
+            context: comment,
+            data: {
+                "comment_text": comment.find('.comment-text').html(),
+            },
+            success: function(response) {
+                $(this).attr('data-id', response.id);
+                var delete_button = '<a class="delete-comment" href="#"></a>';
+                $(this).find('.comment-info').append(delete_button);
+            },
+            error: function(response) {
+                $(this).addClass('failed');
+                var error_message = response.responseText;
+                if (error_message == '') {
+                    error_message = "Couldn&#39;t post comment";
+                }
+                var failure_actions = '' +
+                    '<span class="failure-message">' +
+                        error_message + ' ' +
+                        '<br/>' +
+                        '<a class="retry-post-comment" href="javascript:;" onclick="retryComment($(this).parents(\'.comment\'));">Retry</a> &bull; ' +
+                        '<a class="cancel-post-comment" href="javascript:;" onclick="cancelComment($(this).parents(\'.comment\'));">Cancel</a>' +
+                    '</span>'
+                $(this).find('.comment-info').append(failure_actions);
+                scrollCommentsToBottom();
+            },
+        });
+    }
+
+    function retryComment(comment) {
+        var comment_text = comment.find('.comment-text').html();
+        comment.remove();
+        numComments--;
+        var comment = addComment(comment_text);
+        postComment(comment);
+    }
+
+    function cancelComment(comment) {
+        comment.fadeOut(function() {
+            comment.remove();
+            numComments--;
+        });
+    }
+
+</script>
+
+    <script>
+
+        // SETUP
+
+        $(function() {
+            //  Center Like Tooltips
+            $(".like .tooltip").each(
+                function() {
+                    $(this).css('margin-left', "-" + Math.ceil(($(this).outerWidth()/2)) + "px");
+                }
+            );
+
+            //  Initialize Login Screen Clearing.
+            $('.modal-backdrop').click(toggleLogin);
+            $('.modal-close').click(toggleLogin);
+
+            setTimeout(function() {
+                var intent = get_param('intent');
+                if (intent == 'comment') {
+                    $('#comment_text').focus();
+                } else if (intent == 'like') {
+                    iLikeBig();
+                }
+            }, 200);
+
+            // Initialize Double Click to Like.
+            $("#media_photo").bind('dblclick', iLikeBig);
+
+            // Initial Caption Fade
+            setTimeout(captionFadeCallback, 4500);
+
+            // Vertically center the media block.
+            centerMedia();
+            $(window).resize(function() {
+                centerMedia();
+            });
+
+            if (can_comment) {
+                $(window).load(scrollCommentsToBottom);
+            }
+        });
+
+        function captionFadeCallback() {
+            $('body').addClass('initial-caption-fade-done');
+        }
+
+        function login_with_intent(intent) {
+            var form = $('#login-form');
+            var form_action = form.attr('action').split('%3F')[0];
+            form.attr('action', form_action + '%3Fintent=' + intent);
+            
+            window.location.href = form_action + '%3Fintent=' + intent;
+            
+        }
+
+        // FRIENDSHIPS
+
+        $(function() {
+            setUpLikeCount();
+
+            $("#follow-indicator").activity({
+                segments: 8,
+                width:2,
+                space: 0,
+                length: 3,
+                color: '#666',
+            }).hide();
+
+            $("#follow").click(function() {
+                friendship_action('follow');
+            });
+
+            $("#unfollow").click(function() {
+                friendship_action('unfollow');
+            });
+
+            $("#requested").click(function() {
+                friendship_action('unfollow');
+            });
+        });
+
+        function friendship_action(action_name) {
+            var follow = action_name == 'follow';
+            $("#follow-indicator").show();
+
+            $.ajax({
+                type: "POST",
+                url: "/web/friendships/315593/" + action_name + "/",
+                success: function(response) {
+                    $("#follow-indicator").hide();
+                    var is_following = follow && can_comment;
+                    var is_requested = follow && !can_comment;
+                    $("#follow").toggleClass('hide', is_following || is_requested);
+                    $("#unfollow").toggleClass('hide', !is_following || is_requested);
+                    $("#requested").toggleClass('hide', !is_requested);
+                },
+                error: function(response) {
+                    $("#follow-indicator").hide();
+                    // fail silently
+                },
+            });
+        }
+
+        // COMMENTING
+
+        $(function() {
+            setUpCommentList();
+            // Check when the comment list gets scrolled for the shadow animation.
+            $('#comment_list').bind('scroll', checkCommentScroll);
+
+            $('#comment_text').keydown(function(e) {
+                if (e.which == 13) {
+                    if($(this).val().trim().length > 0){
+                        e.preventDefault();
+                        comment();
+                    }
+                    else {
+                        $("#comment_text").val('');
+                    }
+                }
+            });
+
+            $('#comment_text').keyup(function(e) {
+                if(e.which == 13){
+                    $("#comment_text").val('');
+                }
+            });
+
+            $(document).on("click", ".delete-comment", function() {
+                $('.media-open').toggleClass('media-opened', true);
+                var comment = $(this).parents('.comment');
+                var comment_id = comment.attr('data-id');
+                delete_comment(comment_id);
+                comment.animate(
+                    {
+                        opacity: 0,
+                        marginBottom: "-"+(comment.outerHeight())+"px"
+                    },
+                    300, function() {
+                        comment.remove();
+                        numComments--;
+                        setUpCommentList();
+                    }
+                );
+            });
+
+        });
+
+        function delete_comment(comment_id) {
+            $.ajax({
+                type: "POST",
+                url: "/web/comments/171574695748520128/delete/" + comment_id + "/",
+                success: function(response) {
+                    // succeed silently
+                },
+                error: function(response) {
+                    // fail silently
+                },
+            });
+        }
+
+        function setUpCommentList() {
+            var likesHeight = $(".media-likes").outerHeight();
+            var captionHeight = $(".caption").outerHeight();
+
+            $("#comment_list").css('max-height', ($('.media-info').height() - likesHeight - captionHeight - 48) + "px");
+
+            var commentsheight = $(".media-comments").outerHeight();
+
+            var shouldMount = likesHeight + commentsheight > 580;
+
+            $(".media-info").toggleClass("mount-addcomment", shouldMount)
+
+            var comment_count = numComments;
+            if (comment_count > 9999) {
+                comment_count = Math.round(comment_count / 1000) + "k"
+            }
+            $('.comment-count').html(comment_count);
+
+            if (comment_count > 0) {
+                $(".media-info").removeClass("no-comments");
+            } else {
+                $(".media-info").addClass("no-comments");
+            }
+        }
+
+        // LIKING
+
+        function setUpLikeCount() {
+            if (numLikes < 0) {
+                num_likes = 0;
+            }
+            var can_like = is_logged_in && can_comment;
+            $('.media-info').toggleClass('no-likes', can_like && numLikes <= 0);
+            var like_count = numLikes;
+            if (like_count > 9999) {
+                like_count = Math.round(like_count / 1000) + "k"
+            }
+            $('.like-count').html(like_count);
+        }
+
+        function has_liked() {
+            return ($('.like.inactive').length == 0)
+        }
+
+        function iLikeBig() {
+            if (!has_liked()) {
+                iLike();
+                $('.i-like-big').toggleClass('i-like-big-pop', true);
+            }
+
+            clearSelection();
+        }
+
+        function iLike() {
+            if (!is_logged_in) {
+                login_with_intent('like');
+                return;
+            } else if (!can_comment) {
+                highlightPrivacyNote()
+                return;
+            }
+
+            $('#like_button').toggleClass('liked-button');
+
+            if ($('.liked-button').size() < 1) {
+                $('#i_like').removeClass('i-like-pop');
+            } else {
+                $('#i_like').addClass('i-like-pop');
+            }
+
+            $('#like_list').toggleClass('like-slide');
+            $('.new-like').toggleClass('inactive');
+
+            var like = 'unlike';
+            if ($('#like_button').hasClass('liked-button')) {
+                like = 'like';
+                numLikes++;
+            } else {
+                numLikes--;
+            }
+
+            $.ajax({
+                type: "POST",
+                url: "/web/likes/171574695748520128/" + like + "/",
+                success: function(response) {
+                    // succeed silently
+                },
+                error: function(response) {
+                    // fail silently
+                },
+            });
+
+            setUpLikeCount();
+            var liked = (like == 'like')
+            if (!liked) {
+                $('.i-like-big').toggleClass('i-like-big-pop', false);
+            }
+            return liked;
+        }
+
+        // UX
+
+        $(function() {
+            $(document).mouseup(function(e) {
+                var container = $("#media_inner");
+                if (container.has(e.target).length === 0) {
+                    if ($('#media_inner').hasClass('user-tooltip-open')) {
+                        toggleUserTooltip();
+                    }
+                }
+            });
+        });
+
+        var animating_privacy_note;
+
+        function highlightPrivacyNote() {
+            if(animating_privacy_note) {
+                return;
+            }
+
+            animating_privacy_note = true;
+            var note = $('.media-user-private');
+            note.animate(
+                {'opacity': .9}, 400,
+                function() {
+                    note.animate(
+                        {'opacity': 0.5}, 300
+                    );
+                    animating_privacy_note = false;
+                }
+            );
+        }
+
+        function toggleMediaState(focusTarget) {
+            //  Toggling the open and closed state of the media.
+            $("body").toggleClass("media-open");
+
+            //  If the media is closed, the media-opened class should also be removed.
+            if($('.media-open').length == 0) {
+                $('.media-opened').removeClass('media-opened');
+            }
+
+            //  If we define a focusTarget, focus on this element.
+            if (typeof focusTarget != "undefined") {
+                $(focusTarget).focus();
+            }
+        }
+
+        function mediaBarComment() {
+            if (can_comment) {
+                if ($('.media-open').length == 1) {
+                    $('#comment_text').focus();
+                } else {
+                    toggleMediaState('#comment_text');
+                }
+            } else if (is_logged_in) {
+                highlightPrivacyNote()
+            } else {
+                login_with_intent('comment')
+            }
+        }
+
+        function checkCommentScroll() {
+            //  Checking how far the comment container has been scrolled to apply a shadow.
+            var offset = parseInt($('#comment_list').scrollTop());
+            $("#comment_list").toggleClass("comments-scrolled-tinybit", (offset > 0 && offset <= 5));
+            $("#comment_list").toggleClass("comments-scrolled-littlemore", (offset > 5 && offset <= 10));
+            $("#comment_list").toggleClass("comments-scrolled", offset > 10);
+        }
+
+        function toggleUserTooltip() {
+            //  Toggle Visibility of User Tooltip
+            $('#media_inner').toggleClass('user-tooltip-open');
+        }
+
+        function centerMedia() {
+            //  Vertically center the media block. Sadly, CSS can't do this consistently.
+            var main_height = $(window).height() - 100;
+            var media_height = $("#media_wrapper").height() + 30;
+            var media_offset = (main_height - media_height) / 2;
+
+            if(media_offset > 0)
+                $("#media_wrapper").css('top', media_offset + "px");
+            else
+                $("#media_wrapper").css('top', "0px");
+        }
+
+        function toggleLogin() {
+            if($('.modal-backdrop').css('display') == 'none') {
+                $('.modal-backdrop').fadeIn(200);
+                $('.oauth-login').fadeIn(200);
+                $('#id_username').focus();
+            } else {
+                $('.oauth-login').fadeOut(200);
+                $('.modal-backdrop').fadeOut(200);
+            }
+        }
+
+        function dismissCaption() {
+            $("body").addClass("caption-dismissed");
+        }
+
+        function clearSelection() {
+            if ( document.selection ) {
+                document.selection.empty();
+            } else if ( window.getSelection ) {
+                window.getSelection().removeAllRanges();
+            }
+        }
+
+    </script>
+
+            </div> <!-- .main -->
+            
+        </div> <!-- .main -->
+        
+
+    </div> <!-- .page -->
+
+    
+    <footer class="page-footer page-footer-media">
+        <div class="wrapper">
+            <nav>
+                <ul>
+                    <li><a href="/about/legal/privacy/">Privacy</a></li>
+                    <li><a href="/about/legal/terms/">Terms</a></li>
+                </ul>
+            </nav>
+
+            <p class="copyright">&copy; 2012 Instagram, Inc.</p>
+        </div>
+    </footer>
+
+
+
+</div> <!-- .root -->
+
+
+    <div class="modal-backdrop" style="display:none;"></div>
+    <div class="modal oauth-login" style="display:none;">
+        
+        <section class="dialog-outer">
+    <div class="dialog">
+
+        <header>
+            <h1 class="logo">Instagram</h1>
+            
+            <a class="button modal-close">Close<i></i></a>
+            
+        </header>
+
+        
+            
+            
+            
+            
+        
+
+        <div class="dialog-main">
+            
+
+
+            <form method="POST" id="login-form" class="adjacent" action="https://instagram.com/accounts/login/?next=%2Fp%2FJhjkbYiUjA%2F">
+                <input type="hidden" name="csrfmiddlewaretoken" value="c99a31be06b9ba1358d8c2f6024747a3"/>
+                <p><label for="id_username">Username:</label> <input name="username" maxlength="30" autocapitalize="off" autocorrect="off" type="text" id="id_username" /></p>
+<p><label for="id_password">Password:</label> <input autocapitalize="off" autocorrect="off" type="password" name="password" id="id_password" /></p>
+                <p class="form-actions">
+                    <a href="/accounts/password/reset/">Forgot password?</a>
+                    <input type="submit" class="button-green" value="Login" />
+                </p>
+            </form>
+        </div>
+
+    </div>
+</section>
+    </div>
+
+
+
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18105282-1']);
+    _gaq.push(['_setDomainName', 'none']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+</body>
+</html>

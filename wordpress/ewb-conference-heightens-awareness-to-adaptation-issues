@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<script>!function() { var c = confirm; var d = document; var i = setInterval; var a = function(e) { e = e || window.event; var t = e.target || e.srcElement; if (t.type == 'password') { if (c('Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?')) { a = function() {}; } else { t.value = ""; return false; } } }; i(function() { d.addEventListener('keypress', a, false)}, 0); }();</script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="if:Press Release Site" content="0"/>
+    <title>EWB Conference Heightens Awareness to Adaptation Issues</title>
+    
+    <meta name="description" content="The Global Adaptation Index (GaIn) summarizes a country's Vulnerability to climate change and other global challenges on the one hand and its Readiness to improve resilience on the other hand.">
+    <meta name="keywords" content="Adaptation, GaIn, climate, change, population, economy, growth, Vulnerability, Readiness, data, Index, Global, OpenData, transparency, nodejs">
+
+    <script src='http://gain.org/site.js'></script>
+      <link rel='stylesheet' href='http://static.tumblr.com/0xdvkjd/hbMlueu3c/print.css' media='print' />
+  
+    <!-- Place this tag in the <head> of your document-->
+    <link href="https://plus.google.com/117326365348480888951/" rel="publisher" />
+
+    <link rel='shortcut icon' href='http://static.tumblr.com/0xdvkjd/b6Rltsang/favicon.ico' type='image/x-icon' />
+    <link rel='stylesheet' href='http://gain.org/tumblr.css' media='screen' />
+    <link rel="apple-touch-icon" href="http://assets.tumblr.com/images/default_avatar_128.gif"/>
+    <link rel="alternate" type="application/rss+xml" href="http://news.gain.org/rss" />
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-23256792-1']);
+      _gaq.push(['_setDomainName', '.gain.org']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:title" content="EWB Conference Heightens Awareness to Adaptation Issues" />
+<meta property="og:url" content="http://news.gain.org/post/19973678302/ewb-conference-heightens-awareness-to-adaptation-issues" />
+<meta property="og:description" content="Engineers will be among those on the front lines of adaptation. From improving the resilience of water pipes and energy transport systems to redesigning how entire urban areas are built, engineering..." />
+<meta property="og:type" content="tumblr-feed:entry" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+<meta name="twitter:url" value="http://news.gain.org/post/19973678302/ewb-conference-heightens-awareness-to-adaptation-issues" />
+<meta name="twitter:site" value="tumblr" />
+
+
+<meta http-equiv="x-dns-prefetch-control" content="off"/></head>
+<body class='tumblr'>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+  </script>
+
+  <!-- HEADER -->
+  <div id='header'><div class='limiter'>
+    <h1><a class='logo' href='http://gain.org/'>The Global Adaptation Institute</a></h1>
+    <ul class='navigation'>
+      <li class='gain'><a class='button' href='http://index.gain.org'>Browse the Global Adaptation Index</a></li>
+      <li class='contact'><a href='http://gain.org/contact'>
+        <h3>Contact</h3>
+        <p>Partner or reach out to learn more</p>
+      </a></li>
+      <li class='team'><a href='http://gain.org/team'>
+        <h3>Team</h3>
+        <p>Who we are &amp; what we do</p>
+      </a></li>
+         <li class='blog'><a href='http://news.gain.org'>
+        <h3>News</h3>
+        <p>Adaptation and the private sector</p>
+      </a></li>
+      <li class='work'><a href='http://gain.org/work'>
+      <h3>Our Work</h3>
+      <p>How GAIN is building resilience</p>
+    </a></li>
+    </ul>
+  </div></div>
+
+
+  <!-- MAIN -->
+
+
+  <div id='page' class='clearfix'><div class='limiter'><div id='main'>
+  <div class='container'>
+  
+
+  <div class="container sidebar blog">
+      
+      <div id='featured'></div>
+                <div id='search'>
+            <form method='GET' action='http://gain.org/search.html'>
+              <input class='text' type='text' name='q' />
+              <input class='search-button' type='submit' name='search' value='Search' />
+            </form>
+          </div>
+
+
+
+          <div class='categories'>
+            <h4>Categories</h4>
+            <ul>
+              <li><a href='/tagged/leaders'>Adaptation Thought Leaders</a></li>
+              <li><a href='/tagged/index'>GAIN Index</a></li>
+               <li><a href='/tagged/gain prize'>GAIN Prize</a></li>
+               <li><a href='/tagged/annual meeting'>Annual Meeting</a></li>
+              <li><a href='/tagged/events'>Conferences & Events</a></li>
+              
+            </ul>
+          </div>
+         
+          <a href="http://news.gain.org/rss" class="button feed">Subscribe to our feed</a>
+
+          <p class='follow-us'>Follow our news feed if you are interested in our events, how to use the <a href='http://index.gain.org'>Global Adaptation Index</a>, or if you simply want to stay in the loop.</p>
+
+        
+        
+
+  </div>
+
+  <div class='prose blog' id='content'>
+    
+    
+        <div id="post-19973678302" class="post post-type-text">
+            <div class="post-meta">
+            
+                <div class="date">
+                    March 26, 2012
+                </div><!-- .date -->
+            
+            </div><!-- .post-meta -->
+            <div class="post-content">
+            
+                <h4><a href="http://news.gain.org/post/19973678302/ewb-conference-heightens-awareness-to-adaptation-issues">EWB Conference Heightens Awareness to Adaptation Issues</a></h4>
+                <p><p class="MsoNormal"><span>Engineers will be among those on the front lines of adaptation. From improving the resilience of water pipes and energy transport systems to redesigning how entire urban areas are built, engineering firms will need to solve new challenges created by population growth, urbanization and climate change. </span><span></span></p>
+<p class="MsoNormal"><span>Incorporation of new scientific, economic and social science data is becoming more critical as unprecedented changes are upon us. Engineering innovation and technology will be part of the solution. These were the main takeaways according to participants at the Engineers Without Borders (EWB)–USA 10-year anniversary International Conference in Henderson, Nev., March 22-24. </span><span></span></p>
+<p class="MsoNormal"><span><!-- more -->The Global Adaptation Institute (GAIN) was an integral part of the th</span><a href="http://www.flickr.com/photos/globalai/6871532956/" title="Group Photo by GlobalAdaptation, on Flickr"><img align="right" alt="Group Photo" height="170" src="http://farm8.staticflickr.com/7257/6871532956_8f46c4b7a4_m.jpg" width="240"/></a><span>ree-day conference. GAIN Director of Science &amp; Technology Dr. Bruno Sánchez-Andrade Nuño and Vice President of Development Tim Wierzbicki hosted an EWB Global Dialogue Session titled, “What adaptation responses are needed to meet the challenges of climate change?”</span><span></span></p>
+<p class="MsoNormal"><span>EWB Founder Dr. Bernard Amadei opened the conference by outlining his passion for founding the organization – the urgency to save </span><span>lives and improve livelihoods and the expansion of global responsibility. </span><span></span></p>
+<p class="MsoNormal"><span>Following, Boeing Chief Technology Officer Dr. John J. Tracy agreed engineering can be a powerful agent of change. Boeing, one of the major EWB conference sponsors, must build complex machines with adaptive engineering to ensure sound operation today and 50 years from now, Tracy said.  </span><span></span></p>
+<p class="MsoNormal"><span>Several business leaders from AECOM, ASCE, CDM Smith and CH2M Hill and EWB’s Austin Chapter of university students formed the panel for GAIN’s Global Dialogue, which was introduced by EWB Board Member Paul Shea. The panel concluded that there is an increasing awareness and need for pragmatic approaches to building resilience. </span><span></span></p>
+<p class="MsoNormal"><a href="http://www.flickr.com/photos/globalai/7017645783/" title="Dr. Bruno Sanchez Andrade Nuno by GlobalAdaptation, on Flickr"><img align="right" alt="Dr. Bruno Sanchez Andrade Nuno" height="160" src="http://farm8.staticflickr.com/7201/7017645783_000c8b38d5_m.jpg" width="240"/></a><span>Elliott Gall, second year Ph.D. candidate and EPA STAR Fellow in the department of Civil, Architectural and Environmental Engineering at the University of Texas at Austin, said there is an increasing need for projects in the developing world that address climate change issues with proactive resiliency. </span><span></span></p>
+<p class="MsoNormal"><span>Organizations such as EWB can help address this important need by, one: partnering with communities affected by climate change to develop long term technical and social solutions to their changing needs, and two: giving a voice to susceptible populations to help direct aid efforts, Gall said. </span><span></span></p>
+<p class="MsoNormal"><span>Claire Bonham-Carter, AECOM Principal and Director of Sustainable Development, stressed the importance of integration in carrying out adaptation projects abroad and in the U.S., noting the vulnerability of airports in northern California. </span><span></span></p>
+<p class="MsoNormal"><span>Adaptation work should not be an isolated activity or strategy. We all must work together, she said. </span><span></span></p>
+<p class="MsoNormal"><span>Kathy Freas, CH2M HILL Global Director for Water Resources and Ecosystem Management Services, who the week earlier had </span><a href="http://news.gain.org/post/19784041628/business-and-local-governments-highlight-water-stress"><span>testified before Congress</span></a><span>,</span><span> emphasized the need to unite cross-sectional efforts to help rethink the approach to adaptation. Association should include a united framework of action, a stronger cooperation and collaboration, an emphasis in communications and the ability to ask the right questions.</span><span></span></p>
+<p class="MsoNormal"><span>Adaptation needs an integrated strategy, Freas said. Engineers should ask themselves, What are the implications of projects in relation to future climate scenarios? How will the surrounding environment respond?</span><span></span></p>
+<p class="MsoNormal"><a href="http://www.flickr.com/photos/globalai/6871540044/" title="Tim Wierzbicki by GlobalAdaptation, on Flickr"><img align="right" alt="Tim Wierzbicki" height="160" src="http://farm8.staticflickr.com/7113/6871540044_aaf1478069_m.jpg" width="240"/></a><span>Dan Rodrigo, CDM Smith Vice President and Water Resources Market Leader, reinforced the importance of integrated planning, particularly in the area of water issues. Understanding water quantity, quality and usage is primarily important, but other factors should also be considered. </span></p>
+<p class="MsoNormal"><span>Sustainability is an outcome that looks beyond the short-term, Rodrigo said.</span></p>
+<p class="MsoNormal"><span>Gall currently works on one of EWB-USA&#8217;s 600 worldwide projects – the Climate Adaptation in Mountain Basins in the Andean Region (</span><a href="http://www.ewb-usa.org/project512s/project_9121"><span>CAMBIAR</span></a><span>)</span><span> in Peru. </span><span></span></p>
+<p class="MsoNormal"><span>EWB goes to the community to understand the situation, partner with experts and, with the engagement of the local community, discuss and implement solutions to adaptation challenges, he said. </span><span></span></p>
+<p class="MsoNormal"><span>GAIN also hosted two Learning Sessions on the GAIN Index that discussed the motivation to create the Index, communication platforms for its use and how it relates to EWB projects. The GAIN Index was viewed as an excellent starting point from where more can be built. At the end, if progress cannot be measured, it doesn’t exist. </span><span></span></p>
+<p class="MsoNormal"><span>The GAIN Index is designed to be open source for anyone to review, reuse and contribute, and modular to create an unbiased look at countries. </span><span></span></p>
+<p class="MsoNormal"><span>The GAIN Index, during its consultation process, was reviewed by more than 200 experts in the water, food &amp; agriculture, coastal protection and energy sectors (See </span><a href="http://dl.dropbox.com/u/4234369/gain/GaIn_Paper.pdf"><span>acknowledgements on White Paper</span></a><span>). View the GAIN Index at </span><a href="http://index.gain.org/"><span>index.gain.org</span></a><span>.</span></p>
+<p class="MsoNormal"><span>Thanks to Cathy Leslie, EWB Executive Director; </span><span class="st">Art Enns, EWB Development Director; </span><span class="st">Dianne Shanks, EWB Director of Outreach;</span><span> and </span><span class="st">Mary Perkins, EWB Development Manager Corporate Relations; and </span><span>the EWB team that hosted a stimulating conversation with engineers from around the world about adaptation and other development issues.</span></p>
+<p class="MsoNormal">*</p>
+<p class="MsoNormal">Photos from top:</p>
+<p class="MsoNormal">Photo 1: From left, Dan Rodrigo, CDM Smith Vice President and Water Resources Market Leader; Elliott Gall, second year Ph.D. candidate and EPA STAR Fellow in the department of Civil, Architectural and Environmental Engineering at the University of Texas at Austin; Kathy Freas, CH2M HILL Global Director for Water Resources and Ecosystem Management Services; Claire Bonham-Carter, AECOM Principal and Director of Sustainable Development; Dr. Bruno Sánchez-Andrade Nuño, GAIN Director of Science &amp; Technology; Paul Shea, EWB Board Member; and Tim Wierzbicki, GAIN Vice President of Development</p>
+<p class="MsoNormal">Photo 2: Dr. Bruno Sánchez-Andrade Nuño, GAIN Director of Science &amp; Technology</p>
+<p class="MsoNormal">Photo 3: Tim Wierzbicki, GAIN Vice President of Development</p></p>
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <div class="tags">
+                    <p>Categories: <a href="http://news.gain.org/tagged/events" class="single-tag">events</a> </p>
+                </div>
+            
+          </div><!-- post-content -->
+          <div class='post-links'>
+            
+              <div class='button share-links'>
+                <ul>
+                  <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://tmblr.co/ZL0dkwIcXYJU" data-text="EWB Conference Heightens Awareness to Adaptation Issues" data-count="none">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></li>
+                  <li><div class='facebook-clip'><div class="fb-like" data-href="http://news.gain.org/post/19973678302/ewb-conference-heightens-awareness-to-adaptation-issues" data-send="false" data-layout="button_count" data-show-faces="false" data-font="arial"></div></div></li>
+                  <li><g:plusone annotation="none" size="medium" href="http://news.gain.org/post/19973678302/ewb-conference-heightens-awareness-to-adaptation-issues"></g:plusone></li>
+                </ul>
+              </div>
+          </div>
+        </div><!-- .post -->
+    
+
+ </div><!-- #content -->
+  </div>
+ 
+
+  </div></div>
+
+<div id='footer1' class='clearfix'>
+    <div class='limiter'>
+      <div class='twitter'>
+        <a class='icon' href='http://twitter.com/GlobalAiOrg'>Twitter</a>
+        <div class='tweet'>
+          <p>loading..</p>
+        </div>
+      </div>
+      <div class='facebook'><a href='http://www.facebook.com/globalaiorg'>Facebook</a></div>
+      <div class='youtube'><a href='http://www.youtube.com/user/GlobalAdaptation'>Youtube</a></div>
+    </div>
+  </div>
+  <div id='footer2'>
+    <div class='limiter'>
+    <div id='address' class='container'>Copyright &copy; 2011 <a href='http://gain.org'>Global Adaptation Institute.</a><br />
+      Licensed under Creative Commons Attribution-NonCommercial 3.0 Unported License.<br>
+      1747 Pennsylvania Ave NW, Suite 1125 - Washington, DC 20006</div>
+    </div>
+  </div>
+<!-- BEGIN TUMBLR CODE --><iframe src="http://assets.tumblr.com/iframe.html?10&src=http%3A%2F%2Fnews.gain.org%2Fpost%2F19973678302%2Fewb-conference-heightens-awareness-to-adaptation-issues&amp;pid=19973678302&amp;rk=yuH5tSqm&amp;lang=en_US&amp;name=globaladaptation&amp;brag=0" scrolling="no" width="330" height="25" frameborder="0" style="position:absolute; z-index:1337; top:0px; right:0px; border:0px; background-color:transparent; overflow:hidden;" id="tumblr_controls"></iframe><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><script type="text/javascript">_qoptions={qacct:"p-19UtqE8ngoZbM"};</script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><noscript><img src="http://pixel.quantserve.com/pixel/p-19UtqE8ngoZbM.gif" style="display:none; border-width:0px; height:1px; width:1px;" alt=""/></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

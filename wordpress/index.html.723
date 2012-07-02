@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=512">
+    <link href="http://current.bootstrapcdn.com/bootstrap-v204/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="screen.css" media="screen" rel="stylesheet" type="text/css">
+    <title>uBeam</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>
+        <img src="logo.png" height="196" alt="uBeam" title="uBeam">
+      </h1>
+      <h6>
+        Wireless electricity.
+      </h6>
+      <form class="form-vertial" method="POST" action="/">
+        <fieldset>
+          <div class="control-group">
+            <label for="email">Submit your email address to be kept in the loop:</label>
+            <div class="controls">
+              <div class="input-append">
+                <input type="text" id="email" name="email">
+                <button class="btn btn-success">Go!</button>
+              </div>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+      <p>
+        Contact us: <a href="mailto:info@ubeam.com">info@ubeam.com</a>
+      </p>
+    </div>
+    <script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-23560092-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+    </script>
+  </body>
+</html>

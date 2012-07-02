@@ -1,0 +1,1520 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+				
+				
+									
+					
+	
+	<meta charset="utf-8" />
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+   			<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Cache-Control" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+	
+		
+	<meta name="keywords" content="kiva, microfinance, microcredit, microloan, microlending, loan, africa, business, philanthropy, international development, projects, corporate giving, corporate philanthropy, donors, donating, donation, charity, social development, economic development, grassroots development, employee giving, poverty alleviation, economic investments, social investment, entrepreneur, entrepreneurs, social entrepreneurship, innovation, giving, give, gift, gifts" />
+	<meta name="description" content="Make a loan to an entrepreneur across the globe for as little as $25. Kiva is the world's first online lending platform connecting online lenders to entrepreneurs across the globe." />
+	
+	<meta name="facebook_label" content="Kiva - Loans that change lives" />
+	<meta property="fb:app_id" content="123230061223" />
+
+	
+		   	   		<meta property="og:image" content="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/img/logo/kiva.png" />
+   		<meta property="og:site_name" content="Kiva" />
+
+		<link rel="shortcut icon" href="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/img/favicon.ico" />
+	<link rel="apple-touch-icon" href="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/img/apple-touch-icon.png" />
+
+	
+	
+				<link rel="stylesheet" href="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/css/foncyL3.css" />
+	
+				<link rel="stylesheet" href="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/StyleSheets/kiva.supercat.css" />
+			<link rel="stylesheet" href="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/css/flags16.min.css" />
+			<link rel="stylesheet" href="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/views/Home/Home.min.css" />
+			<link rel="stylesheet" href="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/views/Home/PromoBoxSubView.min.css" />
+			
+	<!--[if lt IE 8 ]>
+		<link rel="stylesheet" href="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/css/chai/ie7.min.css" />
+	<![endif]-->
+
+	
+	<title>Kiva - Loans that change lives</title>
+
+		<script>
+		var kv ={
+			__start: (new Date()).getTime()
+			, rootHttp: 'http://www.kiva.org/'
+			, staticRootHttp: 'http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/'
+        	, streamHost: 'streams.kiva.org'
+        	, streamPort: '8000'
+        	, streamEnabled: true
+			, getScriptName: function (path) {
+				var scriptName = path.slice(path.lastIndexOf('/') + 1);
+
+				if (scriptName.indexOf('.min.js') !== -1) {
+					return scriptName.slice(0, scriptName.indexOf('.min.js'));
+				}
+
+				return scriptName.slice(0, scriptName.indexOf('.js'));
+			}
+        };
+	</script>
+
+								<script src="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/js/sc/head.supercat.js"></script>
+			</head>
+<body id="home" class="home home_home   ">
+						<div id="fb-root"></div>
+		<div id="ga-root"></div>
+
+	<div class="wrap">
+		<div id="tipMsg" class="tipMsg " style="display: none;">
+			<div class="container g12">
+				<div class="tipMsgClose">x</div>
+				<ul class="tipMsgContent big">
+									</ul>
+			</div>
+		</div>
+
+		<noscript><div class="noscriptWarning">Kiva requires JavaScript to be enabled</div></noscript>
+
+		
+		<header id="siteHeader" class="siteHeader ">
+			<div class="container g12">
+				<h1 id="kivaLogo" class="kivaLogo"><a href="http://www.kiva.org/" title="Kiva" data-kv-trackevent='logo_click_to=home'><img src="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/img/logo/kiva.png" alt="Kiva Logo" title="Kiva Homepage" width="121" height="64" />Kiva</a></h1>
+
+									<nav id="siteNav" class="siteNav">
+						<ul>
+							<li id="siteNavPortfolio" ><a href="https://www.kiva.org/portfolio">My Portfolio</a></li>
+							<li id="siteNavUpdates" ><a href="http://www.kiva.org/updates">Updates</a></li>
+							<li id="siteNavCommunity" ><a href="http://www.kiva.org/community">Community</a></li>
+							<li id="siteNavAbout" ><a href="http://www.kiva.org/about">About</a></li>
+							<li id="siteNavLend" ><a href="http://www.kiva.org/lend">Lend</a></li>
+						</ul>
+					</nav>
+										<ul id="utilLinks">
+
+		
+			
+					
+	
+			<li class="giftsLink"><a href="http://www.kiva.org/gifts/kiva-cards">Gifts</a></li>
+		
+							<li class="loginLink"><a href="https://www.kiva.org/login">Login</a></li>
+			<li class="loginLink"><a href="https://www.kiva.org/register">Register</a></li>
+        	
+			<li class="basketLink" id="basketNav">
+			<a href="http://www.kiva.org/basket">My Basket</a>
+			<span id="basketCount"  class="dN">0</span>
+		</li>
+	</ul>							</div>
+		</header>
+
+		<div class="mainWrapper ">
+
+			
+			
+
+										
+				<div id="main" class="main">
+			
+				<div class="container g12">
+	<div class="tagline">Empower people around the world with a $25 loan</div>
+	<a href="http://www.kiva.org/about/how" class="taglineLink more">How it works</a>
+</div>
+
+<div id="ooi">
+	<h1>Wow - all loans are funded right now!</h1>
+	<p>So many people have made loans on Kiva that everything is funded. While this is great news for the borrowers, we're working hard to make sure you have more loans to fund soon.</p>
+	<p>In the meantime, you can buy a Kiva Card as a reminder or as a thoughtful gift.</p>
+	<a href="http://www.kiva.org/gifts/kiva-cards" class="actNow button bigger fR">Buy a Kiva Card</a>
+</div>
+
+<section id="homeTabs" class="tabs">
+    <nav class="container g12">
+            </nav>
+			<div id="homeFeaturedSubView" >
+	
+	<ul id="featuredBusinessMosaic" style="display:none">
+																				<li id="featured_li_433673" loan_id="433673" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_433673" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1110218.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_433673" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/433673"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1110218.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Amneh" href="http://www.kiva.org/lend/433673">Amneh</a></h1>
+						<p class="country"><span class="f16 jo"></span>Jordan</p>
+												<p class='loanExcerpt'>								A loan of $850 helps Amneh to purchase clothes to sell.
+			<br /><a class="small" href="http://www.kiva.org/lend/433673">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/433673" class="button actNow bigger lendNow" loan_id="433673" business_id="433673">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_443420" loan_id="443420" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_443420" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1127783.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_443420" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/443420"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1127783.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Luciano Eduardo" href="http://www.kiva.org/lend/443420">Luciano Eduardo</a></h1>
+						<p class="country"><span class="f16 ec"></span>Ecuador</p>
+												<p class='loanExcerpt'>								A loan of $600 helps Luciano Eduardo to buy seeds, urea, manure and fertilizers.
+			<br /><a class="small" href="http://www.kiva.org/lend/443420">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/443420" class="button actNow bigger lendNow" loan_id="443420" business_id="443420">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_439362" loan_id="439362" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_439362" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1120142.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_439362" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/439362"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1120142.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Yawavi" href="http://www.kiva.org/lend/439362">Yawavi</a></h1>
+						<p class="country"><span class="f16 tg"></span>Togo</p>
+												<p class='loanExcerpt'>								A loan of $975 helps Yawavi to buy beauty products and traditional cloth.
+			<br /><a class="small" href="http://www.kiva.org/lend/439362">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/439362" class="button actNow bigger lendNow" loan_id="439362" business_id="439362">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_432954" loan_id="432954" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_432954" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1108709.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_432954" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/432954"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1108709.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Jaime Antonio" href="http://www.kiva.org/lend/432954">Jaime Antonio</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $600 helps Jaime Antonio to purchase corn seed, beans, insecticide, herbicide, fertilizer.
+			<br /><a class="small" href="http://www.kiva.org/lend/432954">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/432954" class="button actNow bigger lendNow" loan_id="432954" business_id="432954">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_434812" loan_id="434812" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_434812" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/941585.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_434812" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/434812"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/941585.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Francisco Arturo" href="http://www.kiva.org/lend/434812">Francisco Arturo</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $600 helps Francisco Arturo to buy fish, crabs and shrimps.
+			<br /><a class="small" href="http://www.kiva.org/lend/434812">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/434812" class="button actNow bigger lendNow" loan_id="434812" business_id="434812">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_443799" loan_id="443799" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_443799" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1127087.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_443799" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/443799"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1127087.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Ligaya" href="http://www.kiva.org/lend/443799">Ligaya</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $675 helps Ligaya to buy additional stocks to sell.
+			<br /><a class="small" href="http://www.kiva.org/lend/443799">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/443799" class="button actNow bigger lendNow" loan_id="443799" business_id="443799">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_440707" loan_id="440707" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_440707" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1122643.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_440707" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/440707"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1122643.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Momar" href="http://www.kiva.org/lend/440707">Momar</a></h1>
+						<p class="country"><span class="f16 sn"></span>Senegal</p>
+												<p class='loanExcerpt'>								A loan of $975 helps Momar to buy doors and windows for his house.
+			<br /><a class="small" href="http://www.kiva.org/lend/440707">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/440707" class="button actNow bigger lendNow" loan_id="440707" business_id="440707">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_442128" loan_id="442128" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_442128" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1123149.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_442128" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/442128"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1123149.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Anne Loraine" href="http://www.kiva.org/lend/442128">Anne Loraine</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $725 helps Anne Loraine to purchase additional products such as canned goods, noodles, beverages,...<br /><a class="small" href="http://www.kiva.org/lend/442128">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/442128" class="button actNow bigger lendNow" loan_id="442128" business_id="442128">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_444060" loan_id="444060" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_444060" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1090727.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_444060" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/444060"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1090727.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Victor Manuel" href="http://www.kiva.org/lend/444060">Victor Manuel</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $400 helps Victor Manuel to buy cinnamon, anise, mustard, oregano, pepper, and starch.
+			<br /><a class="small" href="http://www.kiva.org/lend/444060">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/444060" class="button actNow bigger lendNow" loan_id="444060" business_id="444060">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_440384" loan_id="440384" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_440384" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1122047.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_440384" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/440384"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1122047.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Jacob" href="http://www.kiva.org/lend/440384">Jacob</a></h1>
+						<p class="country"><span class="f16 mz"></span>Mozambique</p>
+												<p class='loanExcerpt'>								A loan of $900 helps Jacob to purchase goods for selling (beans, rice, olive oil, peanuts, stocks, etc.).
+			<br /><a class="small" href="http://www.kiva.org/lend/440384">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/440384" class="button actNow bigger lendNow" loan_id="440384" business_id="440384">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_436372" loan_id="436372" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_436372" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1115018.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_436372" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/436372"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1115018.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Ta-Kar-Su Group" href="http://www.kiva.org/lend/436372">Ta-Kar-Su Group</a></h1>
+						<p class="country"><span class="f16 sl"></span>Sierra Leone</p>
+												<p class='loanExcerpt'>					A portion of Ta-Kar-Su Group's $875 loan helps a member to buy a bale of used clothes to add to his current...<br /><a class="small" href="http://www.kiva.org/lend/436372">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/436372" class="button actNow bigger lendNow" loan_id="436372" business_id="436372">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_434163" loan_id="434163" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_434163" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1023065.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_434163" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/434163"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1023065.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Vicente" href="http://www.kiva.org/lend/434163">Vicente</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $900 helps Vicente buy pigs, concentrated food and bran.
+			<br /><a class="small" href="http://www.kiva.org/lend/434163">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/434163" class="button actNow bigger lendNow" loan_id="434163" business_id="434163">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_440797" loan_id="440797" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_440797" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1116870.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_440797" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/440797"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1116870.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Las Dos Palmitas Group" href="http://www.kiva.org/lend/440797">Las Dos Palmitas Group</a></h1>
+						<p class="country"><span class="f16 mx"></span>Mexico</p>
+												<p class='loanExcerpt'>					A portion of Las Dos Palmitas Group's $5,350 loan helps a member to buy ingredients to make Mexican snacks.
+	<br /><a class="small" href="http://www.kiva.org/lend/440797">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/440797" class="button actNow bigger lendNow" loan_id="440797" business_id="440797">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_436854" loan_id="436854" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_436854" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1115834.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_436854" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/436854"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1115834.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for José Roque" href="http://www.kiva.org/lend/436854">José Roque</a></h1>
+						<p class="country"><span class="f16 ec"></span>Ecuador</p>
+												<p class='loanExcerpt'>								A loan of $1,075 helps José Roque to buy a car.
+			<br /><a class="small" href="http://www.kiva.org/lend/436854">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/436854" class="button actNow bigger lendNow" loan_id="436854" business_id="436854">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_433406" loan_id="433406" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_433406" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1106138.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_433406" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/433406"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1106138.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Marlyn" href="http://www.kiva.org/lend/433406">Marlyn</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $450 helps Marlyn to purchase more products to sell.
+			<br /><a class="small" href="http://www.kiva.org/lend/433406">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/433406" class="button actNow bigger lendNow" loan_id="433406" business_id="433406">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_438872" loan_id="438872" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_438872" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1119237.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_438872" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/438872"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1119237.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Nereyda" href="http://www.kiva.org/lend/438872">Nereyda</a></h1>
+						<p class="country"><span class="f16 ni"></span>Nicaragua</p>
+												<p class='loanExcerpt'>								A loan of $700 helps Nereyda to buy construction materials.
+			<br /><a class="small" href="http://www.kiva.org/lend/438872">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/438872" class="button actNow bigger lendNow" loan_id="438872" business_id="438872">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_433129" loan_id="433129" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_433129" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1109231.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_433129" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/433129"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1109231.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Las Elegidas Group" href="http://www.kiva.org/lend/433129">Las Elegidas Group</a></h1>
+						<p class="country"><span class="f16 ni"></span>Nicaragua</p>
+												<p class='loanExcerpt'>					A portion of Las Elegidas Group's $1,600 loan helps a member to buy products to fill the orders she has.
+	<br /><a class="small" href="http://www.kiva.org/lend/433129">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/433129" class="button actNow bigger lendNow" loan_id="433129" business_id="433129">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_445146" loan_id="445146" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_445146" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1130750.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_445146" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/445146"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1130750.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Timothy" href="http://www.kiva.org/lend/445146">Timothy</a></h1>
+						<p class="country"><span class="f16 ke"></span>Kenya</p>
+												<p class='loanExcerpt'>								A loan of $500 helps Timothy to purchase more clothes and shoes to sell.
+			<br /><a class="small" href="http://www.kiva.org/lend/445146">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/445146" class="button actNow bigger lendNow" loan_id="445146" business_id="445146">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_435712" loan_id="435712" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_435712" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1113664.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_435712" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/435712"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1113664.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Elsa Claudina" href="http://www.kiva.org/lend/435712">Elsa Claudina</a></h1>
+						<p class="country"><span class="f16 ec"></span>Ecuador</p>
+												<p class='loanExcerpt'>								A loan of $525 helps Elsa Claudina to buy merchandise to sell.
+			<br /><a class="small" href="http://www.kiva.org/lend/435712">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/435712" class="button actNow bigger lendNow" loan_id="435712" business_id="435712">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_440578" loan_id="440578" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_440578" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1122311.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_440578" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/440578"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1122311.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Gulzhakhon" href="http://www.kiva.org/lend/440578">Gulzhakhon</a></h1>
+						<p class="country"><span class="f16 tj"></span>Tajikistan</p>
+												<p class='loanExcerpt'>								A loan of $2,000 helps Gulzhakhon to purchase of women’s clothing and fabrics.
+			<br /><a class="small" href="http://www.kiva.org/lend/440578">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/440578" class="button actNow bigger lendNow" loan_id="440578" business_id="440578">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_434156" loan_id="434156" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_434156" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1111108.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_434156" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/434156"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1111108.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Lorenzo" href="http://www.kiva.org/lend/434156">Lorenzo</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $500 helps Lorenzo to purchase improved seed, manure, and herbicides.
+			<br /><a class="small" href="http://www.kiva.org/lend/434156">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/434156" class="button actNow bigger lendNow" loan_id="434156" business_id="434156">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_434473" loan_id="434473" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_434473" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1111519.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_434473" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/434473"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1111519.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Valijon" href="http://www.kiva.org/lend/434473">Valijon</a></h1>
+						<p class="country"><span class="f16 tj"></span>Tajikistan</p>
+												<p class='loanExcerpt'>								A loan of $1,700 helps Valijon to purchase new seasonal merchandise to sell.
+			<br /><a class="small" href="http://www.kiva.org/lend/434473">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/434473" class="button actNow bigger lendNow" loan_id="434473" business_id="434473">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_441171" loan_id="441171" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_441171" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1123569.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_441171" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/441171"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1123569.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Sarah" href="http://www.kiva.org/lend/441171">Sarah</a></h1>
+						<p class="country"><span class="f16 ug"></span>Uganda</p>
+												<p class='loanExcerpt'>								A loan of $1,225 helps Sarah to buy more essential commodities like milk, bread, sugar, and soap for resale.
+			<br /><a class="small" href="http://www.kiva.org/lend/441171">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/441171" class="button actNow bigger lendNow" loan_id="441171" business_id="441171">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_439787" loan_id="439787" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_439787" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1120839.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_439787" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/439787"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1120839.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Rodelyn" href="http://www.kiva.org/lend/439787">Rodelyn</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $375 helps Rodelyn to buy stocks of canned goods, soap, spices, snacks and beverages.
+			<br /><a class="small" href="http://www.kiva.org/lend/439787">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/439787" class="button actNow bigger lendNow" loan_id="439787" business_id="439787">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_438125" loan_id="438125" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_438125" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/680939.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_438125" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/438125"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/680939.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Maria Cristina" href="http://www.kiva.org/lend/438125">Maria Cristina</a></h1>
+						<p class="country"><span class="f16 pe"></span>Peru</p>
+												<p class='loanExcerpt'>								A loan of $1,000 helps Maria Cristina to buy supplies for her restaurant, such as rice and oil.
+			<br /><a class="small" href="http://www.kiva.org/lend/438125">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/438125" class="button actNow bigger lendNow" loan_id="438125" business_id="438125">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_437592" loan_id="437592" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_437592" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1117064.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_437592" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/437592"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1117064.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for 29 De Noviembre Group" href="http://www.kiva.org/lend/437592">29 De Noviembre Group</a></h1>
+						<p class="country"><span class="f16 ec"></span>Ecuador</p>
+												<p class='loanExcerpt'>					A portion of 29 De Noviembre Group's $1,250 loan helps a member to purchase a freezer and buy supplies.
+	<br /><a class="small" href="http://www.kiva.org/lend/437592">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/437592" class="button actNow bigger lendNow" loan_id="437592" business_id="437592">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_438734" loan_id="438734" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_438734" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1118912.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_438734" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/438734"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1118912.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Estrella De Belen Group" href="http://www.kiva.org/lend/438734">Estrella De Belen Group</a></h1>
+						<p class="country"><span class="f16 ni"></span>Nicaragua</p>
+												<p class='loanExcerpt'>					A portion of Estrella De Belen Group's $1,025 loan helps a member to buy rice, beans, salt, sugar, bread, eggs,...<br /><a class="small" href="http://www.kiva.org/lend/438734">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/438734" class="button actNow bigger lendNow" loan_id="438734" business_id="438734">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_430883" loan_id="430883" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_430883" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1104112.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_430883" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/430883"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1104112.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Carmen" href="http://www.kiva.org/lend/430883">Carmen</a></h1>
+						<p class="country"><span class="f16 pe"></span>Peru</p>
+												<p class='loanExcerpt'>								A loan of $575 helps Carmen to buy sacks of potatoes and other tubers.
+			<br /><a class="small" href="http://www.kiva.org/lend/430883">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/430883" class="button actNow bigger lendNow" loan_id="430883" business_id="430883">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_445041" loan_id="445041" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_445041" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1130459.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_445041" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/445041"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1130459.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Mary" href="http://www.kiva.org/lend/445041">Mary</a></h1>
+						<p class="country"><span class="f16 ke"></span>Kenya</p>
+												<p class='loanExcerpt'>								A loan of $1,200 helps Mary to purchase more chicks to rear and sell later at a profit.
+			<br /><a class="small" href="http://www.kiva.org/lend/445041">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/445041" class="button actNow bigger lendNow" loan_id="445041" business_id="445041">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_441532" loan_id="441532" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_441532" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1124229.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_441532" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/441532"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1124229.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Ana Cecilia" href="http://www.kiva.org/lend/441532">Ana Cecilia</a></h1>
+						<p class="country"><span class="f16 hn"></span>Honduras</p>
+												<p class='loanExcerpt'>								A loan of $1,050 helps Ana Cecilia to buy fertilizers and to pay for clearing the land and harvesting her...<br /><a class="small" href="http://www.kiva.org/lend/441532">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/441532" class="button actNow bigger lendNow" loan_id="441532" business_id="441532">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_434420" loan_id="434420" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_434420" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1111507.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_434420" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/434420"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1111507.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Mercenda" href="http://www.kiva.org/lend/434420">Mercenda</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $250 helps Mercenda to buy cooking oil, bottles of vinegar, sugar, salt, rice and drinks for her...<br /><a class="small" href="http://www.kiva.org/lend/434420">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/434420" class="button actNow bigger lendNow" loan_id="434420" business_id="434420">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_433451" loan_id="433451" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_433451" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1108350.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_433451" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/433451"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1108350.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Dominic" href="http://www.kiva.org/lend/433451">Dominic</a></h1>
+						<p class="country"><span class="f16 ke"></span>Kenya</p>
+												<p class='loanExcerpt'>								A loan of $600 helps Dominic to buy a chaff cutter (to cut fodder).
+			<br /><a class="small" href="http://www.kiva.org/lend/433451">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/433451" class="button actNow bigger lendNow" loan_id="433451" business_id="433451">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_443188" loan_id="443188" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_443188" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1124841.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_443188" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/443188"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1124841.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Stella" href="http://www.kiva.org/lend/443188">Stella</a></h1>
+						<p class="country"><span class="f16 ke"></span>Kenya</p>
+												<p class='loanExcerpt'>								A loan of $1,200 helps Stella to pay for her business premises and add stock of simsim.
+			<br /><a class="small" href="http://www.kiva.org/lend/443188">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/443188" class="button actNow bigger lendNow" loan_id="443188" business_id="443188">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_438449" loan_id="438449" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_438449" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1118463.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_438449" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/438449"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1118463.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Rajabmurod" href="http://www.kiva.org/lend/438449">Rajabmurod</a></h1>
+						<p class="country"><span class="f16 tj"></span>Tajikistan</p>
+												<p class='loanExcerpt'>								A loan of $1,000 helps Rajabmurod to purchase men’s sportswear.
+			<br /><a class="small" href="http://www.kiva.org/lend/438449">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/438449" class="button actNow bigger lendNow" loan_id="438449" business_id="438449">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_444020" loan_id="444020" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_444020" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1128764.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_444020" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/444020"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1128764.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Awa's Group" href="http://www.kiva.org/lend/444020">Awa's Group</a></h1>
+						<p class="country"><span class="f16 sn"></span>Senegal</p>
+												<p class='loanExcerpt'>					A portion of Awa's Group's $5,350 loan helps a member buy four ewes.
+	<br /><a class="small" href="http://www.kiva.org/lend/444020">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/444020" class="button actNow bigger lendNow" loan_id="444020" business_id="444020">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_434406" loan_id="434406" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_434406" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1111500.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_434406" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/434406"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1111500.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Marites" href="http://www.kiva.org/lend/434406">Marites</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $275 helps Marites to buy canned goods, cooking oil, snack foods and drinks for her store.
+			<br /><a class="small" href="http://www.kiva.org/lend/434406">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/434406" class="button actNow bigger lendNow" loan_id="434406" business_id="434406">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_436218" loan_id="436218" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_436218" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1111582.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_436218" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/436218"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1111582.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Letecia" href="http://www.kiva.org/lend/436218">Letecia</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $475 helps Letecia to buy more stock to sell in her general store.
+			<br /><a class="small" href="http://www.kiva.org/lend/436218">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/436218" class="button actNow bigger lendNow" loan_id="436218" business_id="436218">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_441973" loan_id="441973" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_441973" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1124897.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_441973" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/441973"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1124897.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Fredrick" href="http://www.kiva.org/lend/441973">Fredrick</a></h1>
+						<p class="country"><span class="f16 ke"></span>Kenya</p>
+												<p class='loanExcerpt'>								A loan of $600 helps Fredrick to buy tires and shock absorbers.
+			<br /><a class="small" href="http://www.kiva.org/lend/441973">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/441973" class="button actNow bigger lendNow" loan_id="441973" business_id="441973">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_443400" loan_id="443400" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_443400" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1127712.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_443400" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/443400"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1127712.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Amadou" href="http://www.kiva.org/lend/443400">Amadou</a></h1>
+						<p class="country"><span class="f16 sn"></span>Senegal</p>
+												<p class='loanExcerpt'>								A loan of $575 helps Amadou to buy seeds and fertilizer products for the agricultural rainy season.
+			<br /><a class="small" href="http://www.kiva.org/lend/443400">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/443400" class="button actNow bigger lendNow" loan_id="443400" business_id="443400">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_429548" loan_id="429548" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_429548" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1101608.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_429548" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/429548"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1101608.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Edgardo Isaac" href="http://www.kiva.org/lend/429548">Edgardo Isaac</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $500 helps Edgardo Isaac to buy manure, seeds, insecticides, etc.
+			<br /><a class="small" href="http://www.kiva.org/lend/429548">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/429548" class="button actNow bigger lendNow" loan_id="429548" business_id="429548">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_436338" loan_id="436338" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_436338" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1114974.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_436338" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/436338"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1114974.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Fatuma" href="http://www.kiva.org/lend/436338">Fatuma</a></h1>
+						<p class="country"><span class="f16 ke"></span>Kenya</p>
+												<p class='loanExcerpt'>								A loan of $600 helps Fatuma to buy more merchandise and basic necessities such as eggs, milk, bread, beans,...<br /><a class="small" href="http://www.kiva.org/lend/436338">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/436338" class="button actNow bigger lendNow" loan_id="436338" business_id="436338">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_438926" loan_id="438926" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_438926" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1119368.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_438926" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/438926"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1119368.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Expedito" href="http://www.kiva.org/lend/438926">Expedito</a></h1>
+						<p class="country"><span class="f16 py"></span>Paraguay</p>
+												<p class='loanExcerpt'>								A loan of $1,225 helps Expedito to buy tools, nails, paints and other hardware items.
+			<br /><a class="small" href="http://www.kiva.org/lend/438926">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/438926" class="button actNow bigger lendNow" loan_id="438926" business_id="438926">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_444350" loan_id="444350" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_444350" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1128565.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_444350" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/444350"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1128565.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Felisa" href="http://www.kiva.org/lend/444350">Felisa</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $475 helps Felisa to buy more fish to sell in her food stall.
+			<br /><a class="small" href="http://www.kiva.org/lend/444350">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/444350" class="button actNow bigger lendNow" loan_id="444350" business_id="444350">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_436448" loan_id="436448" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_436448" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1115170.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_436448" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/436448"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1115170.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Ivania Del Socorro" href="http://www.kiva.org/lend/436448">Ivania Del Socorro</a></h1>
+						<p class="country"><span class="f16 ni"></span>Nicaragua</p>
+												<p class='loanExcerpt'>								A loan of $875 helps Ivania Del Socorro to purchase construction materials in order to remodel and annex...<br /><a class="small" href="http://www.kiva.org/lend/436448">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/436448" class="button actNow bigger lendNow" loan_id="436448" business_id="436448">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_442740" loan_id="442740" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_442740" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1126557.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_442740" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/442740"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1126557.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Saliya" href="http://www.kiva.org/lend/442740">Saliya</a></h1>
+						<p class="country"><span class="f16 kg"></span>Kyrgyzstan</p>
+												<p class='loanExcerpt'>								A loan of $1,275 helps Saliya to purchase cattle.
+			<br /><a class="small" href="http://www.kiva.org/lend/442740">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/442740" class="button actNow bigger lendNow" loan_id="442740" business_id="442740">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_433163" loan_id="433163" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_433163" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1109088.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_433163" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/433163"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1109088.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Eduardo" href="http://www.kiva.org/lend/433163">Eduardo</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $1,500 helps Eduardo to buy cheese, cream, milk, and cottage cheese.
+			<br /><a class="small" href="http://www.kiva.org/lend/433163">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/433163" class="button actNow bigger lendNow" loan_id="433163" business_id="433163">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_443493" loan_id="443493" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_443493" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/965507.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_443493" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/443493"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/965507.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Ana Dinora" href="http://www.kiva.org/lend/443493">Ana Dinora</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $500 helps Ana Dinora to buy blouses, shirts, skirts, pants, and underwear.
+			<br /><a class="small" href="http://www.kiva.org/lend/443493">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/443493" class="button actNow bigger lendNow" loan_id="443493" business_id="443493">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_444591" loan_id="444591" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_444591" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1129727.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_444591" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/444591"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1129727.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Jose Exequiel" href="http://www.kiva.org/lend/444591">Jose Exequiel</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $500 helps Jose Exequiel to buy fertilizer, insecticides and herbicides.
+			<br /><a class="small" href="http://www.kiva.org/lend/444591">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/444591" class="button actNow bigger lendNow" loan_id="444591" business_id="444591">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_430937" loan_id="430937" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_430937" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1104221.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_430937" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/430937"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1104221.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Edwar Mauricio" href="http://www.kiva.org/lend/430937">Edwar Mauricio</a></h1>
+						<p class="country"><span class="f16 hn"></span>Honduras</p>
+												<p class='loanExcerpt'>								A loan of $1,050 helps Edwar Mauricio to buy general groceries.
+			<br /><a class="small" href="http://www.kiva.org/lend/430937">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/430937" class="button actNow bigger lendNow" loan_id="430937" business_id="430937">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_442861" loan_id="442861" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_442861" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1126896.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_442861" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/442861"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1126896.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Gladis Lili" href="http://www.kiva.org/lend/442861">Gladis Lili</a></h1>
+						<p class="country"><span class="f16 hn"></span>Honduras</p>
+												<p class='loanExcerpt'>								A loan of $800 helps Gladis Lili to buy food products, medicines, and grocery products.
+			<br /><a class="small" href="http://www.kiva.org/lend/442861">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/442861" class="button actNow bigger lendNow" loan_id="442861" business_id="442861">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_442769" loan_id="442769" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_442769" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1126643.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_442769" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/442769"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1126643.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Maia" href="http://www.kiva.org/lend/442769">Maia</a></h1>
+						<p class="country"><span class="f16 ge"></span>Georgia</p>
+												<p class='loanExcerpt'>								A loan of $925 helps Maia to purchase fertilizers and pay for workers.
+			<br /><a class="small" href="http://www.kiva.org/lend/442769">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/442769" class="button actNow bigger lendNow" loan_id="442769" business_id="442769">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_434784" loan_id="434784" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_434784" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1112081.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_434784" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/434784"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1112081.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Maria Ines" href="http://www.kiva.org/lend/434784">Maria Ines</a></h1>
+						<p class="country"><span class="f16 ec"></span>Ecuador</p>
+												<p class='loanExcerpt'>								A loan of $1,575 helps Maria Ines buy pants, blouses and shorts.
+			<br /><a class="small" href="http://www.kiva.org/lend/434784">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/434784" class="button actNow bigger lendNow" loan_id="434784" business_id="434784">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_440279" loan_id="440279" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_440279" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1119018.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_440279" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/440279"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1119018.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Mercedita" href="http://www.kiva.org/lend/440279">Mercedita</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $1,200 helps Mercedita to purchase construction materials for house renovation.
+			<br /><a class="small" href="http://www.kiva.org/lend/440279">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/440279" class="button actNow bigger lendNow" loan_id="440279" business_id="440279">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_436214" loan_id="436214" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_436214" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1111436.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_436214" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/436214"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1111436.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Novy" href="http://www.kiva.org/lend/436214">Novy</a></h1>
+						<p class="country"><span class="f16 ph"></span>Philippines</p>
+												<p class='loanExcerpt'>								A loan of $450 helps Novy to buy stocks of groceries to sell in her store.
+			<br /><a class="small" href="http://www.kiva.org/lend/436214">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/436214" class="button actNow bigger lendNow" loan_id="436214" business_id="436214">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_443874" loan_id="443874" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_443874" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1128526.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_443874" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/443874"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1128526.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Aruna H" href="http://www.kiva.org/lend/443874">Aruna H</a></h1>
+						<p class="country"><span class="f16 sl"></span>Sierra Leone</p>
+												<p class='loanExcerpt'>								A loan of $950 helps Aruna H to buy a motorbike and three mobile phones.
+			<br /><a class="small" href="http://www.kiva.org/lend/443874">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/443874" class="button actNow bigger lendNow" loan_id="443874" business_id="443874">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_445131" loan_id="445131" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_445131" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1130719.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_445131" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/445131"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1130719.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Aliou" href="http://www.kiva.org/lend/445131">Aliou</a></h1>
+						<p class="country"><span class="f16 sn"></span>Senegal</p>
+												<p class='loanExcerpt'>								A loan of $575 helps Aliou to buy a variety of goods to re-sell.
+			<br /><a class="small" href="http://www.kiva.org/lend/445131">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/445131" class="button actNow bigger lendNow" loan_id="445131" business_id="445131">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_433854" loan_id="433854" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_433854" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1110627.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_433854" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/433854"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1110627.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Samnieng" href="http://www.kiva.org/lend/433854">Samnieng</a></h1>
+						<p class="country"><span class="f16 kh"></span>Cambodia</p>
+												<p class='loanExcerpt'>								A loan of $1,500 helps Samnieng to finish her house renovating.
+			<br /><a class="small" href="http://www.kiva.org/lend/433854">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/433854" class="button actNow bigger lendNow" loan_id="433854" business_id="433854">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_441317" loan_id="441317" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_441317" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-2.kiva.org/img/s113/1123779.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_441317" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/441317"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-2.kiva.org/img/s232/1123779.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Nicodemus" href="http://www.kiva.org/lend/441317">Nicodemus</a></h1>
+						<p class="country"><span class="f16 ke"></span>Kenya</p>
+												<p class='loanExcerpt'>								A loan of $1,450 helps Nicodemus to buy beans, maize, sugar, and maize flour.
+			<br /><a class="small" href="http://www.kiva.org/lend/441317">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/441317" class="button actNow bigger lendNow" loan_id="441317" business_id="441317">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_445065" loan_id="445065" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_445065" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1130604.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_445065" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/445065"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1130604.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Vicente Adilman" href="http://www.kiva.org/lend/445065">Vicente Adilman</a></h1>
+						<p class="country"><span class="f16 sv"></span>El Salvador</p>
+												<p class='loanExcerpt'>								A loan of $400 helps Vicente Adilman to buy stock merchandise for his store.
+			<br /><a class="small" href="http://www.kiva.org/lend/445065">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/445065" class="button actNow bigger lendNow" loan_id="445065" business_id="445065">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+																				<li id="featured_li_436498" loan_id="436498" class="normalThumb fundRaisingLoan">
+				<a id="featuredBusinessThumb_436498" href="#" class="featuredBusinessThumb"><img class="imgNeedsLoad featuredBusinessThumbImage" style="display:none;" src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" src_delay="http://s3-1.kiva.org/img/s113/1115318.jpg"  width="113" height="113" /></a>
+				<article id="featuredBusinessPreview_436498" class="featuredBusinessPreview">
+					<a href="http://www.kiva.org/lend/436498"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/images/e_blank.gif" class="imgNeedsLoad featuredBusinessLargeImage" src_delay="http://s3-1.kiva.org/img/s232/1115318.jpg" alt="Profile picture" width="232" height="232" /></a>
+					<div class="details">
+						<h1 class="name"><a title="View the profile for Los Girasoles Group" href="http://www.kiva.org/lend/436498">Los Girasoles Group</a></h1>
+						<p class="country"><span class="f16 pe"></span>Peru</p>
+												<p class='loanExcerpt'>					A portion of Los Girasoles Group's $1,850 loan helps a member to improve the atmosphere where he sells chinese...<br /><a class="small" href="http://www.kiva.org/lend/436498">Read their story&gt;</a></p>
+
+						<div class="actions">
+															<a title="View the full profile" href="http://www.kiva.org/lend/436498" class="button actNow bigger lendNow" loan_id="436498" business_id="436498">Lend Now</a>
+														<span class="browseAllText">or
+							<a title="Search through all loans by country, sector, keywords, etc." href="http://www.kiva.org/lend" class="browseAll">Browse all loans</a></span>
+						</div>
+					</div>
+				</article>
+			</li>
+			</ul>
+	<div class="coverUp"></div>
+</div>
+</section>
+
+<div class="container g12">
+    <div class="g4 a">
+        <section id="homeHow" class="b rC bS">
+            <header>
+                <h1>How It Works</h1>
+                <a href="http://www.kiva.org/about/how">Learn more</a>
+            </header>
+            <ol>
+                <li><span class="number">1</span> Choose a borrower</li>
+                <li><span class="number">2</span> Make a loan</li>
+                <li><span class="number">3</span> Get repaid</li>
+                <li><span class="number">4</span> Repeat!</li>
+            </ol>
+            <a href="http://www.kiva.org/lend" class="button bigger findALoan">Ready? Find a loan</a>  
+        </section>
+    </div>
+
+    <div class="g4">
+        <section id="homeImpactStats" class="b rC bS">
+            <ul id="statsTicker">
+                                    <li class="impactStat">
+                        <div class="value number">663</div>
+                        <div class="description">Kiva Cards purchased this week.</div>
+                    </li>
+                                    <li class="impactStat">
+                        <div class="value number">28,109</div>
+                        <div class="description">lenders made a loan this week.</div>
+                    </li>
+                                    <li class="impactStat">
+                        <div class="value number">$1,964,175</div>
+                        <div class="description">lent this week.</div>
+                    </li>
+                                    <li class="impactStat">
+                        <div class="value number">9</div>
+                        <div class="description">seconds between loans.</div>
+                    </li>
+                                    <li class="impactStat">
+                        <div class="value number">3,093</div>
+                        <div class="description">new lenders joined this week.</div>
+                    </li>
+                                    <li class="impactStat">
+                        <div class="value number">98.97%</div>
+                        <div class="description">repayment rate to date.</div>
+                    </li>
+                                    <li class="impactStat">
+                        <div class="value number">4,413</div>
+                        <div class="description">borrowers funded this week.</div>
+                    </li>
+                            </ul>
+        </section>
+            
+        <section id="homeUpdates" class="b rC bS">
+            <header>
+                <h1>What's New</h1>
+                <nav>
+                    <a href="#" id="prevUpdate" class="icon prev">prev</a>
+                    <a href="#" id="nextUpdate" class="icon next">next</a>
+                </nav>
+            </header>
+
+            <div id="featuredUpdates" >
+                                    <article class="featuredUpdate">
+                        <h1 class="updateType">Kiva Blog Update</h1>
+                        <p class="updateSubject"><a href="http://www.kiva.org/updates/kiva/2012/06/30/week-in-review-keeping-things.html" class="more">Week in Review: Keeping things interesting in the City of Angels</a></p>
+                    </article>
+                                    <article class="featuredUpdate">
+                        <h1 class="updateType">Kiva Blog Update</h1>
+                        <p class="updateSubject"><a href="http://www.kiva.org/updates/kiva/2012/06/26/kiva-city-lands-in-los-angeles.html" class="more">Kiva City lands in Los Angeles</a></p>
+                    </article>
+                                    <article class="featuredUpdate">
+                        <h1 class="updateType">Kiva Blog Update</h1>
+                        <p class="updateSubject"><a href="http://www.kiva.org/updates/kiva/2012/06/29/kiva-scholar-in-india-new-microfinance.html" class="more">Kiva Scholar: In India, new microfinance regulations are on the table</a></p>
+                    </article>
+                                    <article class="featuredUpdate">
+                        <h1 class="updateType">Kiva Blog Update</h1>
+                        <p class="updateSubject"><a href="http://www.kiva.org/updates/kiva/2012/06/27/kiva-innovations-reducing-poverty-along.html" class="more">Kiva Innovations: Reducing poverty along the supply chain</a></p>
+                    </article>
+                                    <article class="featuredUpdate">
+                        <h1 class="updateType">Kiva Blog Update</h1>
+                        <p class="updateSubject"><a href="http://www.kiva.org/updates/kiva/2012/06/21/passport-series-in-mexico-entrepreneurs.html" class="more">Passport Series: In Mexico entrepreneurs are as diverse as the landscape</a></p>
+                    </article>
+                                    <article class="featuredUpdate">
+                        <h1 class="updateType">Kiva Blog Update</h1>
+                        <p class="updateSubject"><a href="http://www.kiva.org/updates/kiva/2012/06/18/unzipping-kiva-zip-meet-borrowers.html" class="more">Unzipping Kiva Zip: Meet the borrowers</a></p>
+                    </article>
+                                    <article class="featuredUpdate">
+                        <h1 class="updateType">Kiva Fellows Update</h1>
+                        <p class="updateSubject"><a href="http://www.kiva.org/updates/fellows/2012/06/01/recycling-for-life" class="more">Recycling for Life and Family in the Mexican Countryside</a></p>
+                    </article>
+                            </div>
+        </section>
+    </div>
+
+    <div class="g4 z">
+        <section id="homeAction">
+                    <div class="fbLike">
+            <fb:like
+                 href='http://www.kiva.org/' action="like"
+                 show_faces="true"    layout="standard"  colorscheme="light"
+                 width="310" font="arial">
+            </fb:like>
+        </div>
+        </section>
+
+		<section id="homeFollowButtonBox" class="rC bS b soft platinumBg">
+			<div id="homeFollowLegend">Follow:</div>
+			<a href="http://www.facebook.com/kiva" class="socialSprite facebookIcon" target="_blank"></a>
+			<a href="http://twitter.com/#!/kiva" class="socialSprite twitterIcon" target="_blank"></a>
+			<a href="http://www.youtube.com/kiva" class="socialSprite youtubeIcon" target="_blank"></a>
+			<a href="http://kivanews.blogspot.com/feeds/posts/default" class="socialSprite rssIcon" target="_blank"></a>
+
+						<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+			<script type="IN/FollowCompany" data-id="266361" data-counter="none"></script>
+		</section>
+
+				<ul id="rotating_promo">
+					<li class="g4 z a">
+						<section id="homePromo" class="charityNavigator b rC bS">
+	<p>Kiva has been awarded Charity Navigator's highest rating</p>
+<a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=12978" target="_blank"><img src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/img/logo/charity_navigator.png" width="143" height="37" /></a></section>
+			</li>
+				</ul>
+    </div>
+</div>
+
+			</div>
+
+		</div>
+	</div>
+
+	<footer class="siteFooter">
+		<div class="container g12">
+							<ul class="footerLinks">
+					<li class="g3 a">
+						<ul>
+							<li><h3>About Us</h3></li>
+							<li><a href="http://www.kiva.org/about">Overview</a></li>
+							<li><a href="http://www.kiva.org/about/supportus/supporters">Supporters</a></li>
+							<li><a href="http://www.kiva.org/updates/kiva">Blog</a></li>
+							<li><a href="http://www.kiva.org/about/stats">Facts and History</a></li>
+							<li><a href="http://www.kiva.org/jobs">Jobs</a></li>
+							<li><a href="http://www.kiva.org/help/contact-us">Contact Us</a></li>
+						</ul>
+					</li>
+
+					<li class="g3">
+						<ul>
+							<li><h3>Using Kiva</h3></li>
+							<li><a href="http://www.kiva.org/about/how">How it Works</a></li>
+							<li><a href="http://www.kiva.org/partners">Field Partners</a></li>
+							<li><a href="http://www.kiva.org/about/risk">Risk and Due Diligence</a></li>
+							<li><a href="http://www.kiva.org/legal/terms">Terms of Use</a></li>
+							<li><a href="http://www.kiva.org/legal/privacy">Privacy Policy</a></li>
+							<li><a href="http://www.kiva.org/help">Help</a></li>
+						</ul>
+					</li>
+
+					<li class="g3">
+						<ul>
+							<li><h3>Do More</h3></li>
+							<li><a href="http://www.kiva.org/gifts/kiva-cards">Gifts</a></li>
+							<li><a href="http://www.kiva.org/volunteer">Volunteer</a></li>
+							<li><a href="http://www.kiva.org/about/supportus">Support Us</a></li>
+							<li><a href="http://www.kiva.org/fellows">Fellows Program</a></li>
+							<li><a href="http://build.kiva.org">Developers</a></li>
+						</ul>
+					</li>
+				</ul>
+						<div class="legalDisclaimer">Lending to the working poor through Kiva involves risk of principal loss. Kiva does not guarantee repayment nor do we offer a financial return on your loan.</div>
+		</div>
+
+		<div class="footerText">
+			<div class="container g12">
+				<span class="g3 a slogan">Loans that change lives </span>
+				<span class="g9 z copyright">&copy; 2005 - 2012 Kiva. All rights reserved. Kiva is a U.S. 501(c)3 non-profit organization.</span>
+			</div>
+		</div>
+		<!--
+			www.kiva.org			Wget/1.13.4 (darwin11.3.0)		 -->
+	</footer>
+
+	
+			<script type="text/javascript">
+		fb_application_id = '123230061223';
+		fb_perms = ["email","user_location"];
+		connected_fbuid = null;
+		logged_in = false;
+		logged_in_user_id = null;
+
+				Bc_Conf =  { 
+			fundraising_expiration_days:'30'
+			,fundraising_expiration_warning_days:'5'
+			,ga_account_id:'UA-175897-4'
+		 } ;
+	</script>
+
+
+				<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/js/jquery/js/jquery-1.7.1.min.js">\x3C/script>')</script>
+<script>if (typeof window.jQuery == 'undefined') alert('There was an error loading the page. Please try again.');</script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script>$.widget || document.write('<script src="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/js/jquery-ui/js/jquery-ui-1.8.16.custom.min.js">\x3C/script>')</script>
+							<script src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/js/sc/chai.supercat.js"></script>
+					<script src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/views/Home/HomeView.min.js"></script>
+					<script src="http://l3-2.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/views/View/UtilLinksSubView.min.js"></script>
+		
+		<!--[if lt IE 9 ]>
+			
+										<script src="http://l3-1.kiva.org/rgitd1dcc2e0ad515c7bd898653bfaa4c5045465516b/js/sc/ie.supercat.js"></script>
+					<![endif]-->
+
+					
+			
+<script>
+/* Load FB asynchronously. */
+(function(d) {
+	if (d.location.pathname.match(/^(\/httpdocs)?\/admin/) || d.location.pathname.match(/^(\/httpdocs)?\/pa2/)) { return; }
+	var e, id = 'facebook-jssdk';
+	if (d.getElementById(id)) {return;}
+	e = d.createElement('script'); e.id = id; e.async = 1;
+	e.src = "//connect.facebook.net/en_US/all.js";
+	d.getElementById('fb-root').appendChild(e);
+}(document));
+</script>
+
+
+
+				
+<script type="text/javascript">
+	function getGAPage(path, query) {
+		if (typeof path == 'undefined') { path = document.location.pathname; }
+		if (typeof query == 'undefined') { query = document.location.search; }
+
+		// strip off all query string parameters except a couple exceptions.
+		//
+		if (! query.match(/(team_id|queryString|_te|utm_source|utm_medium|utm_campaign|utm_content)\=/)) {
+			query = "";
+		}
+
+		return path + query;
+	}
+
+	var _gaq = [];
+	_gaq.push(['_setAccount','UA-175897-4']);
+
+	
+
+	
+
+	var ga_page = getGAPage();
+	var trackPageView = true;
+
+	
+
+	// Track the page view
+	//
+	if (trackPageView) {
+
+		// Track performance.
+		// http://www.google.com/support/analyticshelp/bin/answer.py?hl=en&answer=1205784&topic=1120718
+		//
+		_gaq.push(['_trackPageview', ga_page],['_trackPageLoadTime']);
+
+		   		 
+		_gaq.push(function() {
+			var elapsed = (new Date()).getTime() - kv.__start;
+			$.ajax({
+				url: kv.getAjaxUrl('logClientStats'),
+				type: "POST",
+				data: {elapsed : elapsed
+						// Bundle page views tracking with client stats -- could split this part out
+						// and put it up where GA is fired but then we'd be doing 3 requests per 1 page
+						// Do this client-side to get more accurate, non-bot numbers.
+						, page : 'home', action : 'home'}
+			});
+		});
+		
+	}
+
+	
+
+	// http://code.google.com/apis/analytics/docs/tracking/asyncTracking.html
+	//
+	(function(d) {
+		var id='google-ga';
+		var ga = d.createElement('script'); ga.id = id;ga.async = 1;
+		var googleHost = 'www';
+		if (document.location.protocol == 'https:') {
+			googleHost = 'ssl';
+		}
+		ga.src = '//'+googleHost+'.google-analytics.com/ga.js';
+		d.getElementById('ga-root').appendChild(ga);
+	})(document);
+</script>
+
+					
+	       		
+
+
+   	</body>
+</html>

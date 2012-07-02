@@ -1,0 +1,936 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html 
+     xmlns="http://www.w3.org/1999/xhtml" 
+     xmlns:dc="http://purl.org/dc/elements/1.1/" 
+     xmlns:ctag="http://commontag.org/ns#" 
+          lang="en" 
+     dir="ltr"
+     prefix="og: http://ogp.me/ns#"
+     version="XHTML+RDFa 1.0" >
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=8" />
+  <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>WhiteHouse.gov Releases Second Set of Open Source Code | The White House</title>
+  <meta name="description" content="Friday morning at the Tech@State event at the State Department, the White House&#039;s New Media Director Macon Phillips announced the White House’s second code release to the open source community that powers the Drupal content management system." />
+  <meta name="keywords" content="" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script>
+<meta property="og:description" content="Friday morning at the Tech@State event at the State Department, the White House&#039;s New Media Director Macon Phillips announced the White House’s second code release to the open source community that powers the Drupal content management system." />
+<meta property="og:url" content="http://www.whitehouse.gov/blog/2011/02/11/whitehousegov-releases-second-set-open-source-code" />
+<link rel="shortcut icon" href="/sites/default/themes/whitehouse/favicon.ico" type="image/x-icon" />
+<meta name="keywords" content="President,Barack Obama,White House,United States of America,44th President,White House history,President Obama,Barck,Barek,Barak,Barrack,Barrak,Obma,Barack,Technology" />
+<meta property="fb:admins" content="100000095507875" />
+<meta property="og:image" content="http://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
+<link rel="canonical" href="http://www.whitehouse.gov/blog/2011/02/11/whitehousegov-releases-second-set-open-source-code" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css_injector_13.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css_injector_301.css?Z" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_b5be501d59219ecf493bd6a1ccf24ec5_3.css" />
+<link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/advagg_css/css_c95568c523ce75320a9733bf64492f9c_21.css" />
+  <!--[if gte IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/whitehouse/css/ie8.css" />
+  <![endif]-->
+  <!--[if lt IE 8]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/whitehouse/css/ie.css" />
+  <![endif]-->
+  <!--[if IE 6]>
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/themes/whitehouse/css/ie6.css" />
+  <![endif]-->
+  <script type="text/javascript" src="/sites/default/files/advagg_js/js_bb4f3666b6a820d075f759f44278a277_6.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"http:\/\/wh.gov\/xr8","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"http:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var RecaptchaOptions = { "theme": "clean", "lang": "en" };
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+addthis_config = Drupal.settings.addthis.config_default; addthis_share = Drupal.settings.addthis.share_default;
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var RecaptchaOptions = { "theme": "clean", "lang": "en" };
+//--><!]]>
+</script>
+  <link rel="alternate" type="application/rss+xml" title="Press Articles RSS" href="/feed/press" />
+<link rel="alternate" type="application/rss+xml" title="Blog RSS" href="/feed/blog" />
+<link rel="alternate" type="application/rss+xml" title="Photo Gallery RSS" href="/feed/media/photo-gallery" />
+<link rel="alternate" type="application/rss+xml" title="Video RSS" href="/feed/media/video-audio" />
+</head>
+
+
+
+<body id="www-whitehouse-gov" class="not-front not-logged-in page-node node-type-blog-post no-sidebars" >
+<div class="skip"><a href="#main-content">Skip to main content</a> | <a href="#sitemap">Skip to footer site map</a> 
+  </div><!--/skip-->
+<div id="page" class="clearfix">
+<div id="page-inner" class="center-on-page clearfix">
+	<div id="header" class="clearfix">
+    	<div id="header-title" class="clearfix"><span><a href="/">The White House. President Barack Obama</a></span></div><!--/#header-title-->
+        <div id="hdr-emblem" >
+          <a href="/"><img src="/sites/default/themes/whitehouse/img/clear.gif" alt="The White House Emblem" title="" width="1" height="1" /></a>        </div><!--/#hdr emblem-->
+    	<div id="hdr-links" class="clearfix"><ul><li id="header-link-get-email-updates"><a href="/get-email-updates">Get Email Updates</a></li><li class="line" id="header-link-contact-us"><a href="/contact">Contact Us</a></li></div><!--/#hdr links-->
+        <div id="top-nav-wrapper" class="clearfix clear">
+         <div id="hdr-flag"><a href="/">Go to homepage.</a></div><!--/#hdr flag-->
+         
+<ul id="topnav" class="clearfix">
+                  <li id="nav-blog" class="first-level">
+        <a href="/blog" class="first-level"><span>The White House Blog</span></a>              </li>
+                <li id="nav-media-center" class="first-level">
+        <a href="/video" class="first-level"><span>Photos & Videos</span></a>                            <div class="topnav-dd-outer topnav-dd-outer-two-col topnav-dd-outer-featured topnav-dd-outer-two-col-featured"><div class="topnav-dd-inner clearfix">
+                                      <ul class="two-col clearfix">
+                              <li>
+                  <a href="/photos">Photo Galleries</a>                                </li>
+                              <li>
+                  <a href="/video">Video</a>                                </li>
+                              <li>
+                  <a href="/performances">Performances</a>                                </li>
+                            </ul>
+                          <ul class="two-col clearfix">
+                              <li>
+                  <a href="/live">Live Streams</a>                                </li>
+                              <li>
+                  <a href="/podcasts">Podcasts</a>                                </li>
+                            </ul>
+                                      <div id="nav-media-center-feature" class="topnav-feature">
+                <div class="cp_tile ">  <div id="block-nodeblock-43333" class="clear-block block block-nodeblock ">
+  <div class="content"><p class="menu-feature-title"><a href="/performances">White House Performances</a></p>
+<p>Watch all the musical acts</p>
+<p><a href="/performances"><img src="/sites/default/files/image/image_file/mega_menu_inperformance.jpg" alt="Performances at the White House" /></a></p>
+</div>
+</div>
+</div>              </div>
+                      </div></div><!--/ .topnav-dd-outer, .topnav-dd-inner -->
+              </li>
+                <li id="nav-briefing-room" class="first-level">
+        <a href="/briefing-room" class="first-level"><span>Briefing Room</span></a>                            <div class="topnav-dd-outer topnav-dd-outer-two-col topnav-dd-outer-featured topnav-dd-outer-two-col-featured"><div class="topnav-dd-inner clearfix">
+                                      <ul class="two-col clearfix">
+                              <li>
+                  <a href="/briefing-room/weekly-address">Your Weekly Address</a>                                </li>
+                              <li>
+                  <a href="/briefing-room/speeches-and-remarks">Speeches &amp; Remarks</a>                                </li>
+                              <li>
+                  <a href="/briefing-room/press-briefings">Press Briefings</a>                                </li>
+                              <li>
+                  <a href="/briefing-room/statements-and-releases">Statements &amp; Releases</a>                                </li>
+                              <li>
+                  <a href="/schedule/complete">White House Schedule</a>                                </li>
+                              <li>
+                  <a href="/briefing-room/presidential-actions">Presidential Actions</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/briefing-room/presidential-actions/executive-orders">Executive Orders</a></li>
+                                      <li><a href="/briefing-room/presidential-actions/presidential-memoranda">Presidential Memoranda</a></li>
+                                      <li><a href="/briefing-room/presidential-actions/proclamations">Proclamations</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                          <ul class="two-col clearfix">
+                              <li>
+                  <a href="/briefing-room/legislation">Legislation</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/briefing-room/pending-legislation">Pending Legislation</a></li>
+                                      <li><a href="/briefing-room/signed-legislation">Signed Legislation</a></li>
+                                      <li><a href="/briefing-room/vetoed-legislation">Vetoed Legislation</a></li>
+                                    </ul>
+                                </li>
+                              <li>
+                  <a href="/briefing-room/nominations-and-appointments">Nominations &amp; Appointments</a>                                </li>
+                              <li>
+                  <a href="/briefing-room/disclosures/visitor-records">Disclosures</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/briefing-room/disclosures/visitor-records">Visitor Access Records</a></li>
+                                      <li><a href="/public-forms/sf278">Financial Disclosures</a></li>
+                                      <li><a href="/briefing-room/disclosures/annual-records/2012">2012 Annual Report to Congress</a></li>
+                                      <li><a href="/briefing-room/disclosures/annual-records/2011">2011 Annual Report to Congress</a></li>
+                                      <li><a href="/briefing-room/disclosures/annual-records/2010">2010 Annual Report to Congress on White House Staff</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                                      <div id="nav-briefing-room-feature" class="topnav-feature">
+                <div class="cp_tile ">  <div id="block-nodeblock-43309" class="clear-block block block-nodeblock ">
+  <div class="content"><p class="menu-feature-title"><a href="/briefing-room/disclosures/visitor-records?utm_source=wh&amp;utm_medium=tout&amp;utm_campaign=menu">A Commitment to Transparency</a></p>
+<p>Browse White House visitor logs</p>
+<p><a href="/briefing-room/disclosures/visitor-records?utm_source=wh&amp;utm_medium=tout&amp;utm_campaign=menu"><img src="/sites/default/files/menu_visitor_records.jpg" alt="President Obama greets White House visitors" /></a></p>
+</div>
+</div>
+</div>              </div>
+                      </div></div><!--/ .topnav-dd-outer, .topnav-dd-inner -->
+              </li>
+                <li id="nav-issues" class="first-level">
+        <a href="/issues" class="first-level"><span>Issues</span></a>                            <div class="topnav-dd-outer topnav-dd-outer-three-col topnav-dd-outer-featured topnav-dd-outer-three-col-featured"><div class="topnav-dd-inner clearfix">
+                                      <ul class="three-col clearfix">
+                              <li>
+                  <a href="/issues/civil-rights">Civil Rights</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/issues/it-gets-better">It Gets Better</a></li>
+                                    </ul>
+                                </li>
+                              <li>
+                  <a href="/issues/defense">Defense</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/iraq">End of Iraq War</a></li>
+                                    </ul>
+                                </li>
+                              <li>
+                  <a href="/issues/disabilities">Disabilities</a>                                </li>
+                              <li>
+                  <a href="/economy">Economy</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/economy/jobs">Jobs</a></li>
+                                      <li><a href="/economy/reform">Reform and Fiscal Responsibility</a></li>
+                                      <li><a href="/economy/middle-class">Strengthening the Middle Class</a></li>
+                                      <li><a href="/economy/business">Supporting Business</a></li>
+                                      <li><a href="/blueprint">Blueprint for an America Built to Last</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                          <ul class="three-col clearfix">
+                              <li>
+                  <a href="/issues/education">Education</a>                                </li>
+                              <li>
+                  <a href="/energy">Energy &amp; Environment</a>                                </li>
+                              <li>
+                  <a href="/21stcenturygov">Ethics</a>                                </li>
+                              <li>
+                  <a href="/issues/foreign-policy">Foreign Policy</a>                                </li>
+                              <li>
+                  <a href="/healthreform">Health Care</a>                                </li>
+                              <li>
+                  <a href="/issues/homeland-security">Homeland Security</a>                                </li>
+                              <li>
+                  <a href="/issues/fixing-immigration-system-america-s-21st-century-economy">Immigration</a>                                </li>
+                              <li>
+                  <a href="/administration/eop/rural-council">Rural</a>                                </li>
+                              <li>
+                  <a href="/issues/seniors-and-social-security">Seniors &amp; Social Security</a>                                </li>
+                              <li>
+                  <a href="/issues/service">Service</a>                                </li>
+                            </ul>
+                          <ul class="three-col clearfix">
+                              <li>
+                  <a href="/issues/taxes">Taxes</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/economy/buffett-rule">The Buffett Rule</a></li>
+                                      <li><a href="/2011-taxreceipt">Tax Receipt</a></li>
+                                    </ul>
+                                </li>
+                              <li>
+                  <a href="/issues/technology">Technology</a>                                </li>
+                              <li>
+                  <a href="/issues/urban-policy">Urban Policy</a>                                </li>
+                              <li>
+                  <a href="/issues/veterans">Veterans</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/joiningforces">Joining Forces</a></li>
+                                    </ul>
+                                </li>
+                              <li>
+                  <a href="/issues/women">Women</a>                                </li>
+                            </ul>
+                                      <div id="nav-issues-feature" class="topnav-feature">
+                <div class="cp_tile ">  <div id="block-nodeblock-43315" class="clear-block block block-nodeblock ">
+  <div class="content"><p class="menu-feature-title"><a href="http://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
+<p>Helping responsible homeowners</p>
+<p><a href="http://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
+<hr />
+<p class="menu-feature-title"><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
+<p>See how your federal tax dollars are spent</p>
+<p><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
+</div>
+</div>
+</div>              </div>
+                      </div></div><!--/ .topnav-dd-outer, .topnav-dd-inner -->
+              </li>
+                <li id="nav-the-admin" class="first-level">
+        <a href="/administration" class="first-level"><span>The Administration</span></a>                            <div class="topnav-dd-outer topnav-dd-outer-three-col topnav-dd-outer-featured topnav-dd-outer-three-col-featured"><div class="topnav-dd-inner clearfix">
+                          <div id="nav-the-admin-feature" class="topnav-feature">
+                <div class="cp_tile ">  <div id="block-nodeblock-43303" class="clear-block block block-nodeblock ">
+  <div class="content"><p class="menu-feature-title"><a href="https://wwws.whitehouse.gov/petitions">We the People</a></p>
+<p>Create and Sign Petitions Now</p>
+<p><a href="https://wwws.whitehouse.gov/petitions"><img src="/sites/default/files/featured_petitions.jpg" alt="We the People" /></a></p>
+</div>
+</div>
+</div>              </div>
+                                      <ul class="three-col clearfix">
+                              <li>
+                  <a href="/administration/president-obama">President Barack Obama</a>                                </li>
+                              <li>
+                  <a href="/administration/vice-president-biden">Vice President Joe Biden</a>                                </li>
+                              <li>
+                  <a href="/administration/first-lady-michelle-obama">First Lady Michelle Obama</a>                                </li>
+                              <li>
+                  <a href="/administration/jill-biden">Dr. Jill Biden</a>                                </li>
+                              <li>
+                  <a href="/administration/cabinet">The Cabinet</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="http://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                          <ul class="three-col clearfix">
+                              <li>
+                  <a href="/administration/staff">White House Staff</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/administration/staff/jack-lew">Chief of Staff Jack Lew</a></li>
+                                      <li><a href="/administration/staff/nancy-ann-deparle">Deputy Chief of Staff Nancy-Ann DeParle</a></li>
+                                      <li><a href="/administration/staff/alyssa-mastromonaco">Deputy Chief of Staff Alyssa Mastromonaco</a></li>
+                                      <li><a href="/administration/staff/pete-rouse">Counselor to the President Peter Rouse</a></li>
+                                      <li><a href="/administration/staff/valerie-jarrett">Senior Advisor Valerie Jarrett</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                          <ul class="three-col clearfix">
+                              <li>
+                  <a href="/administration/eop">Executive Office of the President</a>                                </li>
+                              <li>
+                  <a href="/administration/other-advisory-boards">Other Advisory Boards</a>                                </li>
+                            </ul>
+                                  </div></div><!--/ .topnav-dd-outer, .topnav-dd-inner -->
+              </li>
+                <li id="nav-the-wh" class="first-level">
+        <a href="/about" class="first-level"><span>About the White House</span></a>                            <div class="topnav-dd-outer topnav-dd-outer-three-col topnav-dd-outer-featured topnav-dd-outer-three-col-featured"><div class="topnav-dd-inner clearfix">
+                          <div id="nav-the-wh-feature" class="topnav-feature">
+                <div class="cp_tile ">  <div id="block-nodeblock-43321" class="clear-block block block-nodeblock ">
+  <div class="content"><p class="menu-feature-title"><a href="/about/interactive-tour?utm_source=wh&amp;utm_medium=tout&amp;utm_campaign=menu?utm_source=wh&amp;utm_medium=tout&amp;utm_campaign=menu">Inside the White House</a></p>
+<p>Take an interactive tour</p>
+<p><a href="/about/interactive-tour?utm_source=wh&amp;utm_medium=tout&amp;utm_campaign=menu"><img src="/sites/default/files/menu_interactive_tour.jpg" alt="Interactive Map of the White House" /></a></p>
+</div>
+</div>
+</div>              </div>
+                                      <ul class="three-col clearfix">
+                              <li>
+                  <a href="/about/inside-white-house%20">Inside the White House</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/about/inside-white-house/history">History</a></li>
+                                      <li><a href="/about/inside-white-house/art">Décor and Art</a></li>
+                                      <li><a href="/about/inside-white-house/interactive-tour">Interactive Tour</a></li>
+                                      <li><a href="/about/inside-white-house/video-series">Video Series</a></li>
+                                      <li><a href="/about/inside-white-house/google-art">Google Art</a></li>
+                                    </ul>
+                                </li>
+                              <li>
+                  <a href="/about/presidents">Presidents</a>                                </li>
+                              <li>
+                  <a href="/about/first-ladies">First Ladies</a>                                </li>
+                              <li>
+                  <a href="/about/oval-office">The Oval Office</a>                                </li>
+                              <li>
+                  <a href="/about/vp-residence">The Vice President&#039;s Residence &amp; Office</a>                                </li>
+                            </ul>
+                          <ul class="three-col clearfix">
+                              <li>
+                  <a href="/about/eeob">Eisenhower Executive Office Building</a>                                </li>
+                              <li>
+                  <a href="/about/camp-david">Camp David</a>                                </li>
+                              <li>
+                  <a href="/about/air-force-one">Air Force One</a>                                </li>
+                              <li>
+                  <a href="/about/fellows">White House Fellows</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/about/fellows/commission">President’s Commission</a></li>
+                                      <li><a href="/about/fellows/about">About the Fellowship</a></li>
+                                      <li><a href="/about/fellows/2011-2012">Current Class</a></li>
+                                      <li><a href="/about/fellows/staff">Staff Bios</a></li>
+                                      <li><a href="/about/fellows/news">News and Newsletters</a></li>
+                                    </ul>
+                                </li>
+                              <li>
+                  <a href="/about/internships">White House Internships</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/about/internships/about">About</a></li>
+                                      <li><a href="/about/internships/program">Program</a></li>
+                                      <li><a href="/about/internships/departments">Presidential Department Descriptions</a></li>
+                                      <li><a href="/about/internships/selection">Selection Process</a></li>
+                                      <li><a href="/about/internships/FAQs">Internship Timeline &amp; FAQs</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                          <ul class="three-col clearfix">
+                              <li>
+                  <a href="/about/tours-and-events">Tours &amp; Events</a>                                  <ul class="topnav-dd-inner-sub">
+                                      <li><a href="/eastereggroll">2012 Easter Egg Roll</a></li>
+                                      <li><a href="/eastereggroll">2011 Easter Egg Roll</a></li>
+                                      <li><a href="http://www.whitehouse.gov/holidays">Holidays 2011</a></li>
+                                      <li><a href="/about/tours_and_events/garden">Kitchen Garden Tours</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                                  </div></div><!--/ .topnav-dd-outer, .topnav-dd-inner -->
+              </li>
+                <li id="nav-the-gov" class="first-level">
+        <a href="/our-government" class="first-level"><span>Our Government</span></a>                            <div class="topnav-dd-outer topnav-dd-outer-two-col"><div class="topnav-dd-inner clearfix">
+                                      <ul class="two-col clearfix">
+                              <li>
+                  <a href="/our-government/executive-branch">The Executive Branch</a>                                </li>
+                              <li>
+                  <a href="/our-government/legislative-branch">The Legislative Branch</a>                                </li>
+                              <li>
+                  <a href="/our-government/judicial-branch">The Judicial Branch</a>                                </li>
+                              <li>
+                  <a href="/our-government/the-constitution">The Constitution</a>                                </li>
+                            </ul>
+                          <ul class="two-col clearfix">
+                              <li>
+                  <a href="/our-government/federal-agencies-and-commissions">Federal Agencies &amp; Commissions</a>                                </li>
+                              <li>
+                  <a href="/our-government/elections-and-voting">Elections &amp; Voting</a>                                </li>
+                              <li>
+                  <a href="/our-government/state-and-local-government">State &amp; Local Government</a>                                </li>
+                              <li>
+                  <a href="/our-government/resources">Resources</a>                                </li>
+                            </ul>
+                                  </div></div><!--/ .topnav-dd-outer, .topnav-dd-inner -->
+              </li>
+      </ul>
+<script>
+/* Maximize height of menu features. */
+if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),function(i,v){var o=$(v),oh=o.height(),sh=o.siblings().height();if(oh<sh)o.height(o.siblings().height());});
+</script>
+          
+    </div><!--/#topnav wrapper-->
+    
+  </div><!--/#header-->
+
+      <div id='emergency'>  <div id="block-nodeblock-161695" class="clear-block block block-nodeblock ">
+  <div class="content"><style type="text/css">
+a.health-takeover{
+  background: url(http://www.whitehouse.gov/sites/default/files/healthcare/emergency_takeover_background.jpg) left top no-repeat;
+  width: 976px;
+  height: 100px;
+  display: block;
+  text-decoration: none;
+}
+.takeover-large{
+  color: #fff;
+  font-family: georgia , serif;
+  font-size: 24px;
+  padding-left: 40px;
+  padding-top: 30px;
+  display: inline-block;
+}
+.changes{
+background: url(http://www.whitehouse.gov/sites/default/files/healthcare/take_over_wh_arrow.png) no-repeat 100% 50%;
+color: white;
+float: right;
+font-family: arial, sans-serif;
+font-size: 12px;
+line-height: 18px;
+margin-right: 42px;
+margin-top: 40px;
+padding-right: 0px;
+padding-top: 0px;
+text-transform: uppercase;
+width: 125px;
+}
+div.faux-link{
+text-transform: uppercase;
+text-decoration: underline;
+}
+</style>
+<a class="health-takeover" href="/healthreform"><p class="takeover-large">The Affordable Care Act is helping millions of Americans like you. </p><div class="changes">Learn the facts</div></a></div>
+</div>
+</div>
+    <div id="subhead-wrapper">
+  	<div id="breadcrumb"><div class="breadcrumb"><a href="/">Home</a> • The White House Blog</div></div><!--/#subhead-->
+      <div id="sub-search">
+                  <form action="http://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
+<div><input type="hidden" name="affiliate" id="edit-affiliate-id" value="wh"  />
+<div class="form-item clearfix" id="edit-text-field-wrapper">
+ <input type="text" maxlength="128" name="query" id="edit-text-field" size="15" value="" title="Enter the terms you wish to search for." class="form-text search-field" />
+</div>
+<input type="hidden" name="form_id" id="edit-usasearch-box" value="usasearch_box"  />
+<div class="search-btn"><input type="image" name="submit" value="Search" id="edit-submit-1"  alt="search" class="form-submit" src="/sites/default/themes/whitehouse/img/buttons/btn-search.gif" />
+</div>
+</div></form>
+              </div><!--/#sub search-->  
+  
+  </div><!--/#subhead wrapper-->
+  <span style="position:absolute;"><a name="main-content">&nbsp;</a></span>
+  <div class="grid-container page-container">
+    <div id="control">
+            <div id="wh-admin-bar-region" class="clearfix">
+        <div class="tabs clearfix"></div>
+              </div>
+     
+    </div>  
+    
+<div class="extend-page body-text clearfix clear node-content blog2 blog-active" id="blog">
+  <div id="top-content">
+    <div class="cp_tile ">  <div id="block-nodeblock-100795" class="clear-block block block-nodeblock ">
+  <div class="content"><style type="text/css">
+#subhead-wrapper{
+background: url("/sites/default/themes/whitehouse/img/blog_breadcrum.jpg")  top left no-repeat !important;
+height: 16px;
+}
+.blog-header{
+    background: url("/sites/default/themes/whitehouse/img/blog_header.jpg") no-repeat scroll left top transparent;
+    height: 84px;
+    width: 976px;
+    position: relative;
+}
+.blog-header-text{
+    color: #FFFFFF;
+    font-size: 3em;
+    margin-bottom: 15px;
+    padding: 20px 0px 0px 20px;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
+}
+.blog-header-text a{
+  color: #fff;
+  text-decoration: none;
+}
+.blog-header-text a:hover{
+    text-shadow: 3px 3px rgba(0, 0, 0, 0.3);
+    text-decoration: none;
+}
+#breadcrumb{
+    color: #fff;
+    height: 16px
+}
+#breadcrumb a{
+    color: #fff !important;
+}
+.header-subscribe{
+    position: absolute;
+    right: 21px;
+    top: 54px;
+}
+</style><div class="blog-header">
+<h1 class="blog-header-text"><a href="/blog">The White House Blog</a></h1>
+<div class="top-subscribe header-subscribe"><a href="/feed/blog/white-house">Subscribe</a></div>
+</div>
+</div>
+</div>
+  <div id="block-views-blog2-block_5" class="clear-block block block-views ">
+  <div class="content"><div class="view view-blog2 view-id-blog2 view-display-id-block_5 view view-dom-id-1">
+        <div class="view-header">
+      <script type="text/javascript">
+$('.view-display-id-block_5').addClass('clearfix');
+</script>    </div>
+  
+  
+  
+      <div class="view-content">
+      <!--[if lte IE 7]>
+<style type="text/css">
+#page .view-display-id-block_5 .item-list .title{
+  width: 100px !important;
+}
+</style>
+<![endif]-->
+<div class="item-list">
+  <h2 class="title">
+  	  	  
+  	    	  
+  	        	Our Top Stories            
+      </h2>
+  
+  <ul class="entry-list clearfix">
+          <li><div id="blog-top-stories-queue">
+<a href="/blog/2012/06/28/supreme-court-upholds-president-obamas-health-care-reform"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/20120628-potus.jpg" alt="Supreme Court Upholds President Obama&amp;amp;#039;s Health Care Reform" title="Supreme Court Upholds President Obama&amp;amp;#039;s Health Care Reform"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
+<div id="blog-top-stories-queue-title"><a href="/blog/2012/06/28/supreme-court-upholds-president-obamas-health-care-reform">Supreme Court Upholds President Obama&#039;s Health Care Reform</a></div>
+</div>
+</li>
+          <li><div id="blog-top-stories-queue">
+<a href="/blog/2012/03/19/breaking-it-down-health-care-law-and-seniors"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/helen.jpg" alt="Breaking It Down: The Health Care Law and Seniors" title="Breaking It Down: The Health Care Law and Seniors"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
+<div id="blog-top-stories-queue-title"><a href="/blog/2012/03/19/breaking-it-down-health-care-law-and-seniors">Breaking It Down: The Health Care Law and Seniors</a></div>
+</div>
+</li>
+          <li><div id="blog-top-stories-queue">
+<a href="/blog/2012/03/20/vanessacare-health-coverage-without-lifetime-limits"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/vanessa_hero.jpg" alt="VanessaCare: Health Coverage Without Lifetime Limits" title="VanessaCare: Health Coverage Without Lifetime Limits"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
+<div id="blog-top-stories-queue-title"><a href="/blog/2012/03/20/vanessacare-health-coverage-without-lifetime-limits">VanessaCare: Health Coverage Without Lifetime Limits</a></div>
+</div>
+</li>
+          <li><div id="blog-top-stories-queue">
+<a href="/blog/2012/03/21/breaking-it-down-health-law-and-young-adults"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/steven_hero.jpg" alt="Breaking it Down: The Health Law and Young Adults" title="Breaking it Down: The Health Law and Young Adults"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
+<div id="blog-top-stories-queue-title"><a href="/blog/2012/03/21/breaking-it-down-health-law-and-young-adults">Breaking it Down: The Health Law and Young Adults</a></div>
+</div>
+</li>
+      </ul>
+</div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+</div>
+</div>  </div><!--/#top content-->
+<div class="middle-content" class="clearfix">
+  <div id="content">
+   <div class="upper-content clearfix">
+    <h2 property="dc:title">WhiteHouse.gov Releases Second Set of Open Source Code</h2>
+    <div id="blog-post-info">
+      <div class="post-info-user">
+	              <span class="author-name"><a href="/author-detail/139">Rob Winikates</a></span><br /> February 11, 2011 <br /> 08:07 PM EDT      </div>
+            <div class="blog-share-this">
+        <div class="share-title">Share This Post</div>
+                <div id="wh_addthis_output" class="vertical clearfix"></div>
+      </div>
+          </div>
+    <div class="content-inner">
+
+      <p>
+	Friday morning&nbsp;at the <a href="http://www.state.gov/statecraft/tech/opensource/index.htm">Tech@State event at the State Department</a>, the White House&#39;s New Media Director Macon Phillips announced the White House&rsquo;s second code release&nbsp;to the&nbsp;open source <a href="http://drupal.org">community that powers the&nbsp;Drupal content management system</a>.</p>
+<div>
+	Last April, we released <a href="http://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">f</a><a href="http://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">our modules for the Drupal community</a>, which focused on the scalability, communication, and accessibility of our site.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Today&rsquo;s code release constitutes a few modules we developed for ourselves, as well as a recognition of our sponsoring the development of modules widely used in the Drupal community, which improve the administration of our site in a variety of ways: file management, content presentation, and URL shortening are just a few examples.</div>
+<div>
+	&nbsp;</div>
+<div>
+	For the code originating from within the White House, we wanted to improve the&nbsp;functionality offered by&nbsp;a&nbsp;popular file manager,&nbsp;<a href="http://drupal.org/project/imce">IMCE</a>, so we developed a module called <a href="http://drupal.org/project/imce_tools">IMCE tools</a>, which has three major functions:</div>
+<div>
+	&nbsp;</div>
+<div>
+	First, IMCE Directory Manager provides an interface for specifying which directories a user can access via the IMCE module. It is useful when you have users which have the same user roles but need to be confined to directories which cannot be derived from user data.</div>
+<div>
+	&nbsp;</div>
+<div>
+	Second, IMCE Search allows for searching for files in the IMCE interface which helps identify the location of uploaded files. &nbsp;</div>
+<div>
+	&nbsp;</div>
+<div>
+	Third, IMCE File Path easily presents the url of a file, facilitating sharing it as a link.</div>
+<div>
+	&nbsp;</div>
+<div>
+	We also recognize that there are really good projects already embedded in the Drupal community and reached out to help support their development. &nbsp;Several of these are used in the collaboration software suite, <a href="http://drupal.org/project/openatrium">Open Atrium</a>: <a href="http://drupal.org/project/features">Features</a>, <a href="http://drupal.org/project/spaces">Spaces</a>, <a href="http://drupal.org/project/boxes">Boxes</a>, <a href="http://drupal.org/project/context">Context</a>, <a href="http://drupal.org/project/strongarm">StrongArm</a>, and <a href="http://drupal.org/project/admin">Admin</a>. &nbsp;We also supported the development of an auto-tagging module, <a href="http://drupal.org/project/opencalais">Calais</a>, a bulk file uploading utility, <a href="http://drupal.org/project/imce_swfupload">IMCE SWFupload</a>,&nbsp;as well as the module that powers our shortened <a href="http://wh.gov">wh.gov</a> domain, <a href="http://drupal.org/project/shorturl">shortURL</a>.</div>
+
+      
+      
+      
+     	        <div class="blog-terms">Related Topics: <a href="/blog/issues/technology">Technology</a></div>
+        
+<div id="blog-prevnext-posts" class="clearfix">
+	<div id="blog-prev-post">
+		<span class="arrow"><a href="/blog/2011/02/11/apply-fall-2011-white-house-internship-program" class="blog-prevnext">PREVIOUS POST</a></span><br />
+		<a href="/blog/2011/02/11/apply-fall-2011-white-house-internship-program">Apply for the Fall 2011 White House Internship Program</a>
+	</div>
+	<div id="blog-next-post">
+		<span class="arrow"><a href="/blog/2011/02/12/weekly-address-its-time-washington-acted-responsibly-our-families-do" class="blog-prevnext">NEXT POST</a></span><br />
+		<a href="/blog/2011/02/12/weekly-address-its-time-washington-acted-responsibly-our-families-do">Weekly Address: "It's Time Washington Acted as Responsibly as Our Families Do"</a>
+	</div>
+</div>
+
+
+    </div><!--/#content-inner-->
+   </div><!--/.upper-content-->
+      <div class="lower-content">
+      <div class="cp_tile ">  <div id="block-nodeblock-100771" class="clear-block block block-nodeblock ">
+  <div class="content"><style type="text/css">
+#content #featured-content-block .title {
+    font-size: 17px !important;
+    font-weight: normal;
+    text-indent:0;
+}
+.blog-featured-content-queue {
+    float: left;
+    margin-top:15px;
+    margin-right:49px;
+    width: 197px;
+}
+#featured-content-block .last {
+margin-right: 0;
+}
+#blog #content .blog-featured-content-queue-title {
+font-size: 12px;
+line-height: 14px;
+}
+#featured-content-block {
+margin-bottom:55px;
+margin-top:20px;
+}
+</style><div class="clearfix" id="featured-content-block">
+<h2 class="title">Featured Content</h2>
+<div class="blog-featured-content-queue">
+<a href="/healthreform" class="img-link"><img title="The Affordable Care Act" src="/sites/default/files/image/blog_tout_health_reform_2.jpg" /></a>
+<div class="blog-featured-content-queue-title"><a href="/healthreform" class="title-link">Learn how the Afforable Care Act is helping millions.</a></div>
+</div>
+<div class="blog-featured-content-queue">
+<a href="/todolist" class="img-link"><img title="President Obama's To-Do List for Congress" alt="Congress To-Do List" src="/sites/default/files/image/image_file/blog_featured_content_todo_list_0.jpg" /></a>
+<div class="blog-featured-content-queue-title"><a href="/todolist" class="title-link">Read President Obama's To-Do List for Congress.</a></div>
+</div>
+<div class="blog-featured-content-queue last">
+<a href="/refi" class="img-link"><img title="Refinancing" alt="Refinancing" src="/sites/default/files/image/image_file/blog_featured_refi.jpg" /></a>
+<div class="blog-featured-content-queue-title"><a href="/refi" class="title-link">Learn about President Obama's refinance plan.</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>    </div>
+    </div><!--/#content-->
+
+      <div id="blogv2-right-rail">
+      <div class="cp_tile ">  <div id="block-wh_signup-wh-signup-rss" class="clear-block block block-wh_signup ">
+  <div class="content"><div id='wh-signup-rssblock'><div class='top-subscribe clearfix'><a href='/feed/blog/issues/Technology' alt='Technology'>Technology</a></div></div></div>
+</div>
+  <div id="block-wh_signup-wh-signup-block" class="clear-block block block-wh_signup ">
+  <div class="content"><div id='wh-signup-block' class='tout wh-signup-content clearfix'><form id='wh-signup-webform'><div class='wh-signup-title'><div style='font-size: .8em'>WHITEHOUSE.GOV IN YOUR INBOX</div><hr /><b style='color: #000'>Sign up for email updates from President Obama and Senior Administration Officials</b></span></div><input type="hidden" name="wh-signup-list-values" id="wh-signup-list-value" value="USEOPWH_10"><input type="text" maxlength="128" name="submitted[email_address_newsletter]" onKeyPress="return captureEnterKey(event)" id="edit-submitted-email-address-newsletter" size="40" value="Your Email Address" class="form-text email wh-signup-email-input"><div id='wh-signup-submit'></div></form></div></div>
+</div>
+  <div id="block-views-photo_blog_view-block_1" class="clear-block block block-views ">
+  <div class="content"><div style="margin: 5px 0px;"><b>PHOTOS OF THE DAY</b></div>
+<div style="width: 240px; height: 193px; margin: 7px 0px;">
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-obama-views-fire-damage-firefighters?jsraw=1&height=680&width=690');">
+<img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_large/image/image_file/02-_jsl3309.jpg" alt="President Obama Views Fire Damage with Firefighters" title="President Obama Views Fire Damage with Firefighters"  id="potd-block-img1" width="161" height="99" /></a>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-obama-talks-phone-solicitor-general-donald-verrilli?jsraw=1&height=680&width=690');">
+<div style="float: right; width: 78px;"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_small/image/image_file/p062812ps-0234.jpg" alt="President Obama Talks on the Phone with Solicitor General Donald Verrilli" title="President Obama Talks on the Phone with Solicitor General Donald Verrilli"  id="potd-block-img2" width="76" height="48" /></a>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-barack-obama-talks-senior-advisors-phone-call-president-fra?jsraw=1&height=680&width=690');">
+<img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_small/image/image_file/p062712ps-0091a.jpg" alt="President Barack Obama Talks With Senior Advisors Before A Phone Call With President François Hollande Of France" title="President Barack Obama Talks With Senior Advisors Before A Phone Call With President François Hollande Of France"  id="potd-block-img3" width="76" height="48" /></div>
+</a>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-obama-talks-children-lenora-academy?jsraw=1&height=680&width=690');">
+<img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_medium/image/image_file/_jsl7279.jpg" alt="President Obama Talks To Children From Lenora Academy" title="President Obama Talks To Children From Lenora Academy"  id="potd-block-img4" width="119" height="77" /></a>
+  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-obama-eats-sundae-unh-dairy-bar?jsraw=1&height=680&width=690');">
+<img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_medium/image/image_file/_jsl6857.jpg" alt="President Obama Eats A Sundae At The UNH Dairy Bar" title="President Obama Eats A Sundae At The UNH Dairy Bar"  id="potd-block-img5" width="119" height="77" /></a>
+  </div>
+    </div>
+  </div>
+<div class="more-link"><a href="/photos">VIEW PHOTO GALLERIES</a></div>
+</div>
+</div>
+  <div id="block-wh_blog-wh-blog-jumpnav" class="clear-block block block-wh_blog ">
+  <div class="content"><b>JUMP TO: </b>
+<script language="Javascript">
+$(function() {
+    $("#month-submit").hide();
+    $("#blog-submit").hide();
+    $("#blog-changer select").change(function() {
+        window.location = $("#blog-changer select option:selected").val();
+    })
+    $("#month-changer select").change(function() {
+        window.location = $("#month-changer select option:selected").val();
+    })
+});
+function writeMonthOptions()
+{
+    var theDate = new Date();
+    var currYear = 2013;
+    var currYear = theDate.getFullYear();    
+    var endYear = 2008;
+    var currMonth = theDate.getMonth();
+    if (currMonth == 0) { currMonth = 1; } 
+    cal_months = [' ', 'January', 'February', 'March', 'April', 'May', 'June', 'July', 'August','September', 'October', 'November', 'December'];
+    for (yearCounter = currYear; yearCounter > endYear; yearCounter--)
+    {
+        for (monthCounter = currMonth; monthCounter > 0; monthCounter--) {
+            if (monthCounter < 10) { monthTmp = '0'; } else { monthTmp = ''; } 
+            document.write('<option value="/blog/' + yearCounter + '/' + monthTmp + monthCounter + '">' + cal_months[monthCounter] + ' ' + yearCounter + '</option>');
+        }
+        currMonth = 12;
+    }
+}
+</script>
+<form id="month-changer" action="" method="post">
+    <select id="blog-jump-nav" name="month-nav">
+            <script language="javascript">
+                document.write('<option>A Specific Month</option>');
+                writeMonthOptions();
+                document.write('<input type="submit" value="Go" id="month-submit" />');
+            </script>
+    </select>
+</form>
+<form id="blog-changer" action="" method="post">
+    <select id="blog-jump-nav" name="blog-nav">
+        <option>Other White House Blogs</option>
+        <option value="http://www.whitehouse.gov/blog">The White House Blog</option>
+        <option value="http://www.whitehouse.gov/strongmiddleclass/blog">Middle Class Task Force</option>
+        <option value="http://www.whitehouse.gov/administration/eop/cea/blog">Council of Economic Advisers</option>
+        <option value="http://www.whitehouse.gov/administration/eop/ceq/blog">Council on Environmental Quality</option>
+        <option value="http://www.whitehouse.gov/administration/eop/cwg/blog">Council on Women and Girls</option>
+        <option value="http://whitehouse.gov/omb/blog">Office of Management and Budget</option>
+        <option value="http://www.whitehouse.gov/administration/eop/ope/blog">Office of Public Engagement</option>
+        <option value="http://www.whitehouse.gov/administration/eop/ostp/blog">Office of Science &amp; Tech Policy</option>
+        <option value="http://www.whitehouse.gov/administration/eop/oua/blog">Office of Urban Affairs</option>
+        <option value="http://whitehouse.gov/open/blog"> Open Government</option>
+        <option value="http://www.whitehouse.gov/administration/eop/ofbnp/blog">Faith and Neighborhood Partnerships</option>
+        <option value="http://www.ustr.gov/about-us/press-office/blog">US Trade Representative</option>
+        <option value="http://ofsubstance.gov">Office National Drug Control Policy</option>
+    </select>
+    <input type="submit" value="Go" id="blog-submit" />
+</form></div>
+</div>
+</div>    </div><!--/#right rail-->
+  </div><!--/.extend page-->
+</div><!--./middle-content-->
+  </div>
+
+
+<span style="position:absolute;"><a name="sitemap">&nbsp;</a></span>
+<div class="clear"></div>
+  <div id="footer" class="clearfix clear">
+        
+            <div  class="col">
+                          
+        <h4 class="top-level"><a href="/">Home</a></h4>
+        
+                
+                                
+        <h4 class="top-level"><a href="/blog">The White House Blog</a></h4>
+        
+                
+                                
+        <h4 ><a href="/video">Photos &amp; Videos</a></h4>
+        
+                  <ul>
+                          <li><a href="/photos">Photo Galleries</a></li>
+                          <li><a href="/video">Video</a></li>
+                          <li><a href="/performances">Performances</a></li>
+                          <li><a href="/live">Live Streams</a></li>
+                          <li><a href="/podcasts">Podcasts</a></li>
+                    
+          </ul>
+                
+              </div><!--/ .col -->
+                <div  class="col">
+                          
+        <h4 ><a href="/briefing-room">Briefing Room</a></h4>
+        
+                  <ul>
+                          <li><a href="/briefing-room/weekly-address">Your Weekly Address</a></li>
+                          <li><a href="/briefing-room/speeches-and-remarks">Speeches &amp; Remarks</a></li>
+                          <li><a href="/briefing-room/press-briefings">Press Briefings</a></li>
+                          <li><a href="/briefing-room/statements-and-releases">Statements &amp; Releases</a></li>
+                          <li><a href="/schedule/complete">White House Schedule</a></li>
+                          <li><a href="/briefing-room/presidential-actions">Presidential Actions</a></li>
+                          <li><a href="/briefing-room/legislation">Legislation</a></li>
+                          <li><a href="/briefing-room/nominations-and-appointments">Nominations &amp; Appointments</a></li>
+                          <li><a href="/briefing-room/disclosures/visitor-records">Disclosures</a></li>
+                    
+          </ul>
+                
+              </div><!--/ .col -->
+                <div  class="col">
+                          
+        <h4 ><a href="/issues">Issues</a></h4>
+        
+                  <ul>
+                          <li><a href="/issues/civil-rights">Civil Rights</a></li>
+                          <li><a href="/issues/defense">Defense</a></li>
+                          <li><a href="/issues/disabilities">Disabilities</a></li>
+                          <li><a href="/economy">Economy</a></li>
+                          <li><a href="/issues/education">Education</a></li>
+                          <li><a href="/energy">Energy &amp; Environment</a></li>
+                          <li><a href="/21stcenturygov">Ethics</a></li>
+                          <li><a href="/issues/foreign-policy">Foreign Policy</a></li>
+                          <li><a href="/healthreform">Health Care</a></li>
+                          <li><a href="/issues/homeland-security">Homeland Security</a></li>
+                          <li><a href="/issues/fixing-immigration-system-america-s-21st-century-economy">Immigration</a></li>
+                          <li><a href="/administration/eop/rural-council">Rural</a></li>
+                          <li><a href="/issues/seniors-and-social-security">Seniors &amp; Social Security</a></li>
+                          <li><a href="/issues/service">Service</a></li>
+                          <li><a href="/issues/taxes">Taxes</a></li>
+                          <li><a href="/issues/technology">Technology</a></li>
+                          <li><a href="/issues/urban-policy">Urban Policy</a></li>
+                          <li><a href="/issues/veterans">Veterans</a></li>
+                          <li><a href="/issues/women">Women</a></li>
+                    
+          </ul>
+                
+              </div><!--/ .col -->
+                <div  class="col">
+                          
+        <h4 ><a href="/administration">The Administration</a></h4>
+        
+                  <ul>
+                          <li><a href="/administration/president-obama">President Barack Obama</a></li>
+                          <li><a href="/administration/vice-president-biden">Vice President Joe Biden</a></li>
+                          <li><a href="/administration/first-lady-michelle-obama">First Lady Michelle Obama</a></li>
+                          <li><a href="/administration/jill-biden">Dr. Jill Biden</a></li>
+                          <li><a href="/administration/cabinet">The Cabinet</a></li>
+                          <li><a href="/administration/staff">White House Staff</a></li>
+                          <li><a href="/administration/eop">Executive Office of the President</a></li>
+                          <li><a href="/administration/other-advisory-boards">Other Advisory Boards</a></li>
+                    
+          </ul>
+                
+              </div><!--/ .col -->
+                <div  class="col">
+                          
+        <h4 ><a href="/about">About the White House</a></h4>
+        
+                  <ul>
+                          <li><a href="/about/inside-white-house%20">Inside the White House</a></li>
+                          <li><a href="/about/presidents">Presidents</a></li>
+                          <li><a href="/about/first-ladies">First Ladies</a></li>
+                          <li><a href="/about/oval-office">The Oval Office</a></li>
+                          <li><a href="/about/vp-residence">The Vice President&#039;s Residence &amp; Office</a></li>
+                          <li><a href="/about/eeob">Eisenhower Executive Office Building</a></li>
+                          <li><a href="/about/camp-david">Camp David</a></li>
+                          <li><a href="/about/air-force-one">Air Force One</a></li>
+                          <li><a href="/about/fellows">White House Fellows</a></li>
+                          <li><a href="/about/internships">White House Internships</a></li>
+                          <li><a href="/about/tours-and-events">Tours &amp; Events</a></li>
+                    
+          </ul>
+                
+              </div><!--/ .col -->
+                <div  class="col">
+                          
+        <h4 ><a href="/our-government">Our Government</a></h4>
+        
+                  <ul>
+                          <li><a href="/our-government/executive-branch">The Executive Branch</a></li>
+                          <li><a href="/our-government/legislative-branch">The Legislative Branch</a></li>
+                          <li><a href="/our-government/judicial-branch">The Judicial Branch</a></li>
+                          <li><a href="/our-government/the-constitution">The Constitution</a></li>
+                          <li><a href="/our-government/federal-agencies-and-commissions">Federal Agencies &amp; Commissions</a></li>
+                          <li><a href="/our-government/elections-and-voting">Elections &amp; Voting</a></li>
+                          <li><a href="/our-government/state-and-local-government">State &amp; Local Government</a></li>
+                          <li><a href="/our-government/resources">Resources</a></li>
+                    
+          </ul>
+                
+              </div><!--/ .col -->
+        </div><!--/#footer-->
+  
+<div id="sub-footer" class="clearfix">
+  <div class="clear"><img src="/sites/default/themes/whitehouse/img/sftr-whgov.gif" alt="The White House Emblem" title="" width="331" height="14" /></div>
+  
+          	<ul>
+                                	<li><a href="/espanol">En español</a></li>
+                          	<li><a href="/accessibility">Accessibility</a></li>
+                          	<li><a href="/copyright">Copyright Information</a></li>
+                          	<li><a href="/privacy/archive2">Privacy Policy</a></li>
+                          	<li class="last"><a href="/contact/submit-questions-and-comments/old2">Contact</a></li>
+                  	</ul>
+        	<ul>
+                                	<li><a href="http://usa.gov">USA.gov</a></li>
+                          	<li><a href="/rss">Subscribe to RSS Feeds</a></li>
+                          	<li class="last"><a href="https://app2.whitehouse.gov/ppo/">Apply for a Job</a></li>
+                  	</ul>
+      
+</div><!--/sub-footer-->
+</div><!--/wrapper-->
+</div><!--/page-->
+
+ <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var aid = "wh"; var script = document.createElement("script"); script.type = "text/javascript"; script.src = "https://search.usa.gov/javascripts/stats.js"; document.getElementsByTagName("head")[0].appendChild(script);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-12099831-1"]);_gaq.push(["_gat._anonymizeIp"]);_gaq.push(["_setDomainName", ".whitehouse.gov"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "/sites/default/files/googleanalytics/ga.js?Z";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+   <div id="block-nodeblock-93157" class="clear-block block block-nodeblock ">
+  <div class="content"><script type="text/javascript">
+$(document).ready(function(){
+$('#block-wh_microsite-microsite_header #edit-submit-1').attr('src' , '/sites/default/themes/whitehouse/img/buttons/btn-search-blue.png');
+$('#block-wh_microsite-microsite_header #edit-submit').attr('src' , '/sites/default/themes/whitehouse/img/buttons/btn-search-blue.png');
+});
+</script></div>
+</div>
+
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/38/eum/rum-staging.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","1f9cf39155",415228,"NVVXYBRQXkFYUxVcXQwfdFcSWF9cFm8TUEQLQ1xbCFheVWZGCFBF",0,2082,new Date().getTime()]);</script>
+</body>
+</html>
