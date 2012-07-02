@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName></ShortName>
+	<Description>Search  - Bruno Sánchez-Andrade Nuño, PhD</Description>
+	<Contact>support@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="http://brunosan.eu/?s={searchTerms}&amp;feed=atom"/>
+	<Url type="application/rss+xml"  template="http://brunosan.eu/?s={searchTerms}&amp;feed=rss2"/>
+	<Url type="text/html"            template="http://brunosan.eu/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="/osd.xml" />
+	<LongName></LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">http://brunosan.eu/favicon.ico</Image>
+	<Image height="64" width="64" type="image/png">http://s0.wp.com/i/logo/gray-white-transparent-64.png</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>outreach media crowdsourcing science-2 social policy technology ciencia web ugc</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>en</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>http://brunosan.eu</moz:SearchForm>
+</OpenSearchDescription>

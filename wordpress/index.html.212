@@ -1,0 +1,243 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<title>Georg-August-Universit&auml;t G&ouml;ttingen - Institut für Astrophysik</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Webseiten der Georg-August-Universit&auml;t G&ouml;ttingen">
+<meta name="DC.description" content="Webseiten der Georg-August-Universit&auml;t G&ouml;ttingen">
+<meta name="author" content="Dr. Frank Witzel, Andreas Riechel, Internetredaktion, Stabsstelle Presse, Kommunikation und Marketing">
+<meta name="DC.creator" content="Dr. Frank Witzel, Andreas Riechel, Internetredaktion, Stabsstelle Presse, Kommunikation und Marketing">
+<meta name="generator" content="G&ouml;ttinger Content Management System (GCMS)">
+<meta name="geo.region" content="DE-NI" />
+<meta name="geo.placename" content="G&ouml;ttingen" />
+<meta name="geo.position" content="51.534063;9.937966" />
+<meta name="ICBM" content="51.534063, 9.937966" />   
+<link rel="alternate" type="application/rss+xml" href="/rss/institut/203293.rss" title="Institut für Astrophysik | RSS-Feed">
+<script src="/js/cookies.js" type="text/javascript"></script>
+<script src="/js/initialization.js" type="text/javascript"></script>
+<!--<script src="/js/fontsize.js" type="text/javascript"></script>-->
+<script src="/js/stylechanger.js" type="text/javascript"></script>
+<script src="/js/finalization.js" type="text/javascript"></script>
+<script src="/js/dw_cookies.js" type="text/javascript"></script>
+<script src="/js/dw_sizerdx.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+var aktuelle_section = "fakstart";
+
+dw_fontSizerDX.setDefaults( "px", 12, 9, 19, ['body', 'td', 'div', 'p', 'font', 'a'] );
+dw_fontSizerDX.set(20, 20, 20, ['div#header_name a'] );
+dw_fontSizerDX.set(14, 11, 21, ['span', 'font.datum'] );
+dw_fontSizerDX.set(15, 15, 15, ['ul#navigation li a'] );
+dw_fontSizerDX.set(11, 11, 11, ['font.seite'] );
+dw_fontSizerDX.set(11, 11, 11, ['ul#pfad li a'] );
+dw_fontSizerDX.set(11, 11, 11, ['a.suchlink'] );
+dw_fontSizerDX.set(11, 11, 11, ['a.langlink'] );
+dw_fontSizerDX.set(11, 11, 11, ['span.toolsep'] );
+dw_fontSizerDX.set(16, 16, 16, ['font.boxueberschrift'] );
+dw_fontSizerDX.set(11, 11, 11, ['ul.footerlist-left li a'] );
+dw_fontSizerDX.set(11, 11, 11, ['ul.footerlist-right li a'] );
+
+addLoadEvent( finalize );
+addLoadEvent( dw_fontSizerDX.init );  
+</script>
+
+  
+<link href="/stylesheets/fak-inst.css" rel="stylesheet" title="default" media="screen, projection" type="text/css" id="style_1">
+<link href="/stylesheets/startseite.css" rel="stylesheet" title="default" media="screen, projection" type="text/css" id="style_2">
+<!--[if IE]>
+    <link href="/stylesheets/ie7.css" rel="stylesheet" title="default" media="screen, projection" type="text/css">
+  <![endif]-->
+
+<!--[if lt IE 7]>
+    <link href="/stylesheets/ie5.css" rel="stylesheet" title="default" media="screen, projection" type="text/css">
+  <![endif]-->
+
+<!--[if IE 6]>
+    <link href="/stylesheets/ie6.css" rel="stylesheet" title="default" media="screen, projection" type="text/css">
+  <![endif]-->
+
+<link href="/stylesheets/druck_default.css" rel="stylesheet" title="default" media="print, embossed" type="text/css">
+<link href="/stylesheets/druck_startseite.css" rel="stylesheet" title="default" media="print, embossed" type="text/css">
+
+</head>
+<body>
+<!--[if lte IE 5.5999]>
+<div id="wrapper">
+<![endif]-->
+<!-- Tpl (Fak): inst_start -->
+<div id="header_fak">
+	<div id="header_kooperation" style="display: none;"></div>
+	<div id="faculty_unilogo" ><a href="/de/1.html" id="startlink"><script language="JavaScript">var lng="de";</script>
+	<img id="logo_blind" src="/img/blind.gif" height="91" width="91" alt="Zur Startseite" />
+	<img id="logo_druck" src="/img/logo_druck.png" alt="Zur Startseite" />
+	<!--<img src="/img/header_fak_left.png" height="105" width="123" alt="Zur Startseite" style="float:left;	margin-right:18px; ">--></a></div>
+	<div id="header_name" >
+			<a href="/de/203293.html" title="Institut f&uuml;r Astrophysik">Institut f&uuml;r Astrophysik</a>
+		</div>
+	<ul id="navigation" >
+	
+                        <li><a href="/de/institut/215072.html">Institut</a></li>
+        	
+                        <li><a href="/de/forschung/215075.html">Forschung</a></li>
+        	
+                        <li><a href="/de/instrumente/216904.html">Instrumente</a></li>
+        	
+                        <li><a href="/de/lehre/215076.html">Lehre</a></li>
+        	
+                        <li><a href="/de/oeffentlichkeit/215077.html">Öffentlichkeit</a></li>
+        	
+                        <li><a href="/de/links/215078.html">Links</a></li>
+        	
+                        <li><a href="/de/interna/215079.html">Interna</a></li>
+        	
+                        <li><a href="/de/216910.html"></a></li>
+        	
+                                   <li><a href="http://www.uni-goettingen.de/de/sh/20493.html" target="_blank">Fakultät für Physik</a></li>
+                   	</ul>
+</div>
+
+<div id="zeile" style="background-color: #FFA733;">
+	<div id="zeilelinks" style="background-color: #e68e1a;"><font class="seite">Aktuelle Seite:</font></div>
+	<div id="zeilerechts" style="background-color: #FFA733;">
+	<div id="sizer">	
+	  <div style="white-space:nowrap;">	
+		 <!--<a href="#" onclick="javascript: swap_font('plus');"><img src="/img/plus.gif" border="0" id="plus_icon" style="vertical-align: top; margin-top: 1px;" alt="+"></a>
+		<a href="#" onclick="javascript: swap_font('minus');"><img src="/img/minus.gif" border="0" id="minus_icon" style="vertical-align: top; margin-top: 1px;" alt="-"></a> -->
+				<a class="increase" href="#" title="Schrift vergr&ouml;ßern"><img src="/img/plus.gif" border="0" id="plus_icon" style="vertical-align: top; margin-top: 1px;" alt="Schrift vergr&ouml;ßern"></a>
+    	<a class="decrease" href="#" title="Schrift verkleinern"><img src="/img/minus.gif" border="0" id="minus_icon" style="vertical-align: top; margin-top: 1px;" alt="Schrift verkleinern"></a><a href="#" onclick="javascript: swap_styles(aktuelle_section);"><img src="/img/kontrast.gif" border="0" id="kontrast_icon" style="vertical-align: top; margin-top: 1px;" alt="Barrierefreie Version"></a>
+                	
+	  </div>
+	</div>	
+		<form name="sform" method="POST" action="/de/suche.html" style="padding-top: 1px; float: left;">
+	<input type="text" name="query" size="19" class="suchbox" style="background-color: #ffd965; color: #000000;">
+	<input type="hidden" name="refid" value="203293">
+	<a href="javascript:document.sform.submit();" class="suchlink" style="padding-top: 1px;">Suche</a><span class="toolsep">|</span>
+		<a class="langlink" href="/en/203293.html">English</a>
+		</form>
+</div>
+	<div id="zeilemitte" style="background-color: #FFA733;">
+		<ul id="pfad">
+			<li><a href="/de/203293.html" title="Startseite">Startseite</a></li>
+	
+		</ul>
+	</div>
+</div>
+<div id="top"></div>
+
+<div id="rumpf">
+    <div id="linkespalte">
+                        <img src="/admin/bilder/pictures/a759e41db990d8df2d387286a265d799.jpg" alt="Logo mit Bild" />
+                    <br /><br />
+
+        <!-- IsArray Left -->
+        <p class="text_fak_overview">Institut f&uuml;r Astrophysik<br />
+Friedrich-Hund-Platz 1<br />
+37077 G&ouml;ttingen<br />
+<br />
+Tel. +49 (0)551 39-5042<br />
+Fax: +49 (0)551 39-5043<br />
+<a href="mailto:sekr@astro.physik.uni-goettingen.de">E-Mail</a><br />
+</p>
+
+    </div>
+
+  <div id="rechtespalte">
+            
+    
+            <ul class="linkmenu">
+                            </ul>
+                <br /><br />
+                <span>Aktuelles</span>
+                <br /><br />
+        <ul class="linkmenu">
+                                                <li><a href="/de/hubble-entdeckt-neue-klasse-extrasolarer-planeten-210212/324731.html">Hubble entdeckt neue Klasse extrasolarer Planeten (21.02.12)</a></li>
+                                                <li><a href="/de/presseinformation-wissenschaftler-entdecken-moeglicherweise-bewohnbare-super-erde-02022012/323485.html">Presseinformation: Wissenschaftler entdecken möglicherweise bewohnbare Super-Erde (02.02.2012)</a></li>
+                                        </ul>
+                <br /><br />
+                <span>Stellenangebote</span>
+                <br /><br />
+        <ul class="linkmenu">
+                                                <li><a href="/de/research-assistant-in-instrumentation-development/362428.html">Research Assistant in Instrumentation Development</a></li>
+                                                <li><a href="/de/doktorandenstellen-sfb-963/362429.html">Doktorandenstellen (SFB 963)</a></li>
+                                        </ul>
+                <br /><br />
+                <span>Führungen</span>
+                <br /><br />
+        <ul class="linkmenu">
+                                                <li><a href="http://www.uni-goettingen.de/de/218993.html" target="_blank">Öffentliche Führung (23.08.2012) </a></li>
+                                        </ul>
+                <br /><br />
+                <span>Universitätsförderung</span>
+                <br /><br />
+        <ul class="linkmenu">
+                                                <li><a href="http://www.uni-goettingen.de/de/77871.html" target="_blank">Die Außenstationen der Universität Göttingen: Die Teleskope HET und SALT</a></li>
+                            </ul>
+    
+        </div>
+
+    <div id="mittelspalte">
+                                    <font class="boxueberschrift">
+                    Institut für Astrophysik Göttingen
+                </font><br />
+                <br />
+                <br />
+            
+        
+                                <div class="neuigkeiten">
+                <font class="ueberschrift"></font><br />
+                <br />
+                                <p class="text"><p align=justify>Das Institut f&uuml;r Astrophysik ist das einzige Hochschulinstitut in Niedersachsen, an dem Astronomie und Astrophysik in Lehre und Forschung betrieben werden. Die wissenschaftlichen Arbeitsgebiete decken die Bereiche Sonnenphysik, stellare Astrophysik, sowie galaktische und extragalaktische Astrophysik und Kosmologie ab.</p></p>
+            </div>
+            <br /><br />
+                        <div class="neuigkeiten">
+                <font class="ueberschrift">Sonnenphysik und Stellare Astrophysik</font><br />
+                <br />
+                                <img src="/admin/bilder/pictures/8d2a4b37ccc425a4187671336e65e331.jpg" class="imagefloatleft" alt="Omega Centauri">
+                                <p class="text"><p>Physik des Inneren der Sonne <br />
+und sonnen&auml;hnlicher Sterne, Sonnenaktivit&auml;t und Weltraumwetter, Sternatmosph&auml;ren, stellare Strukturen, Stabilit&auml;t und Entwicklung, pulsierende Sterne, extrasolare Planeten, Aktivit&auml;t und Magnetfelder in Sternen, Braunen Zwergen und Planeten, Theoretische und Numerische Astrophysik, Astro-<br />
+physikalische Str&ouml;mungsmechanik, Physik von Akkretionsscheiben, sp&auml;te Stadien der Sternentwicklung <a href="/de/215075.html"><b>mehr...</b></a></p></p>
+            </div>
+            <br /><br />
+                        <div class="neuigkeiten">
+                <font class="ueberschrift">Extragalaktische Astrophysik und Kosmologie</font><br />
+                <br />
+                                <img src="/admin/bilder/pictures/d661714106662d57ee01f5c1ea51a8d7.jpg" class="imagefloatleft" alt="Hubble Deep Field Aufnahme">
+                                <p class="text"><p>Ph&auml;nomenologie, Kinematik und Variabilit&auml;t von AGN, R&ouml;ntgen, Radio-, IR- und optische Eigenschaften von AGN, die ersten Sterne und Galaxien, Entstehung supermassereicher Schwarzer L&ouml;cher, Zwerggalaxien, Magnetfelder im fr&uuml;hen Universum, Physik des fr&uuml;hen Universums, Inflation in der Stringtheorie, primor-<br />
+diale Fluktuationen, kosmologische Strukturentstehung, rechnergest&uuml;tzte Kosmologie <a href="/de/215075.html"><b>mehr...</b></a></p></p>
+            </div>
+            <br /><br />
+                    
+          </div>
+</div>
+
+<div id="bottom"></div>
+<div id="footer"> 
+	<div id="footer-left">
+			<ul class="footerlist-left">
+												<li>
+													<a href="/de/20493.html" title="Fakult&auml;t f&uuml;r Physik">Fakult&auml;t f&uuml;r Physik</a> -
+													<a href="/de/203293.html" title="Institut f&uuml;r Astrophysik">Institut f&uuml;r Astrophysik</a>
+					</li>
+										</ul>
+	</div>
+  	<div id="footer-right">
+			<ul class="footerlist-right">
+			<!-- Punkte von Rechts nach Links!! -->
+				<!--
+								<li><a href="#">Bearbeitet: 2011-06-24</a></li>//
+                                <li class="footer-nolink"><a href="#">Bearbeitet: 2011-06-24</a></li>
+				-->
+				<li><a href="/de/impressum/105.html">Impressum</a></li>
+								<!--<li><a href="/pdf/de/203293.pdf">PDF</a></li>//-->
+				<li><a href="/de/text/203293.html">Textversion</a></li>
+								<!--				<li><a href="/en/203293.html">English version</a></li>
+				-->
+			</ul>
+	</div>
+</div><!--[if lte IE 5.5999]>
+</div>
+<![endif]-->
+</body>
+</html>

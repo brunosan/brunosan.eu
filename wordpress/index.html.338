@@ -1,0 +1,468 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+ <head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=7" /><meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="Reply-to" content="webteam@eso.org" />
+<meta name="robots" content="index,follow" />
+<meta name="description" content="ESO is the European Organisation for Astronomical Research in the Southern Hemisphere. It operates the La Silla Paranal Observatory in Chile and has its headquarters in Garching, near Munich, Germany." />
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="author" content="webteam@eso.org" />
+<meta name="page-topic" content="Astronomy" />
+<meta name="page-type" content="Research Organisation" />
+<meta name="organisation" content="ESO, European Organisation for Astronomical Research in the Southern Hemisphere" />
+<meta name="Content-Language" content="en" />
+<meta name="Language" content="en" />
+<meta name="publisher" content="ESO" />
+<meta name="copyright" content="1999-2008 ESO" />
+<meta name="revisit-after" content="1 day" />
+<meta name="keywords" content="ESO, eso.org, Astronomy, Astrophysics, Astronomie, Suedsternwarte, telescopes, detectors, comets, planets, stars, galaxies, nebulae, universe, NTT, VLT, VLTI, ALMA, E-ELT, La Silla, Paranal, Garching, Chile" />
+<title>ESO</title>
+<script type="text/javascript" src="/script/functions.js"></script>
+<link href="/css2007/layout_eso_2007.css" rel="stylesheet" type="text/css"/>
+<link href="http://feeds.feedburner.com/EsoTopNews" rel="alternate"  type="application/rss+xml" title="ESO Top News" />
+<link href="http://feeds.feedburner.com/EsoAnnouncements" rel="alternate"  type="application/rss+xml" title="ESO Announcements" />
+<link href="http://feeds.feedburner.com/ESOcast" rel="alternate"  type="application/rss+xml" title="ESOCast" />
+<link href="https://jobs.eso.org/ESOCP370/rss.asp" rel="alternate" type="application/rss+xml" title="Jobs@ESO" />
+
+<!--[if lte IE 7]>
+   <link href="/css2007/explorer/iehacks_2col_left.css" rel="stylesheet" type="text/css" />
+   <style type="text/css" media="screen">
+        body {behavior: url(/script/csshover.htc); }
+   #menu ul li a {height: 1%;} 
+   </style>
+<![endif]-->
+
+<!--[if IE 8]>
+   <link href="/css2007/explorer/iehacks_ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+
+   
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body > 
+
+<div id="headerbg">
+	<div id="headerbg_inner1">&nbsp;</div>
+	<div id="headerbg_inner2">&nbsp;</div>
+</div>
+
+<div id="page_margins">
+  <div id="page" class="hold_floats">
+
+    <div id="header">
+      <div id="eso_header">
+	  <table width="100%">
+	    <tr>
+		<td class="esologo"><a href="/" title="ESO"><img src="/i/esologo50.png" width="153" height="80" alt="European Southern Observatory" /></a></td>
+		<td class="esologotext" width="120" valign="top"><br><p>European<br/>Southern<br/>Observatory</p></td>
+		<td class="headcenter">
+		       </td>
+	   <td class="headright">
+		   <div class="pagetitle">
+             <h1></h1>
+             <div id="slogan">
+			   <h2>ESO &mdash; Reaching New Heights in Astronomy</h2>
+			   <div id="flags">
+					<a href="/public/austria/"><img class="nopadding" src="/i/austria.gif" title="Austria" alt="Austria" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/belgium/"><img class="nopadding" src="/i/belgium.gif" title="Belgium" alt="Belgium" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/brazil/"><img class="nopadding" src="/i/brazil.gif" title="Brazil" alt="Brazil" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/czechrepublic/"><img class="nopadding" src="/i/czechrepublic.gif" title="Czech Republic" alt="Czech Republic" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/denmark/"><img class="nopadding" src="/i/denmark.gif" title="Denmark" alt="Denmark" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/finland/"><img class="nopadding" src="/i/finland.gif" title="Finland" alt="Finland" border="0" width="26" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/france/"><img class="nopadding" src="/i/france.gif" title="France" alt="France" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/germany/"><img class="nopadding" src="/i/germany.gif" title="Germany" alt="Germany" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/italy/"><img class="nopadding" src="/i/italy.gif" title="Italy" alt="Italy" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/netherlands/"><img class="nopadding" src="/i/netherlands.gif" title="Netherlands" alt="Netherlands" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/portugal/"><img class="nopadding" src="/i/portugal.gif" title="Portugal" alt="Portugal" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/spain/"><img class="nopadding" src="/i/spain.gif" title="Spain" alt="Spain" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/sweden/"><img class="nopadding" src="/i/sweden.gif" title="Sweden" alt="Sweden" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/switzerland/"><img class="nopadding" src="/i/switzerland.gif" title="Switzerland" alt="Switzerland" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep1.gif" width="4" /><a href="/public/unitedkingdom/"><img class="nopadding" src="/i/unitedkingdom.gif" title="UK" alt="UK" border="0" width="24" height="16" /></a>
+					<img class="nopadding" src="/i/sep2.gif" width="20" /><a href="/public/chile/"><img class="nopadding" src="/i/chile.gif" title="Chile" alt="Chile" border="0" width="24" height="16" /></a>
+               </div>
+
+			   </div>
+ 		     </div>
+	       </div>
+       </td>
+       </tr>
+     </table>
+	</div> <!-- eso_header -->
+  </div> <!-- header -->
+<!-- #nav: Hauptnavigation -->
+<form action="/public/about-eso/search.html"  id="cse-search-box" name="search_top" method="get" class="search">
+
+<div id="nav">
+<!--	<a id="navigation" name="navigation"></a> --> <!-- Skiplink-Anker: Navigation --> 
+	<div id="nav_main">
+		<ul>
+			<li id="first">&nbsp;</li>
+			<li class="topnavSelected"><a href="/public/" title="Public">Public</a></li>
+			<li><a href="/sci/" title="Science">Science</a></li>
+			<li><a href="/userportal/" title="User Portal">User Portal</a></li>
+								</ul>	
+		<ul class="topnav_right">
+			<li><a href="/public/about-eso/contacts/" title="Contact">Contact</a></li>
+			<li><a href="/public/sitemap.html" title="Site Map">Site&nbsp;Map</a></li>
+			<li class="search">&nbsp;
+			<input type="text" name="q" size="18" id="query" value="Search" onfocus="javascript:clearField('query','Search');" onblur="javascript:setField('query','Search');"/>
+						</li>
+			<li class="go">
+<!--[IF lt IE 7]>
+			<a href="#" class="iehover">
+<![endif]-->
+<button type="submit" value="Go!" class="subm" name="searchthis">Go!</button>
+<!--[IF lt IE 7]>
+</a>
+<![endif]-->
+				
+			</li>
+  					</ul>
+	</div>
+</div>
+
+</form>
+<!-- #nav: - Ende -->
+<!-- #Breadcrumb: - Beginn -->
+<div id="bread">
+	<div id="navdate">&nbsp;<a href="/public/events" title="Calendar">02 Jul 2012</a></div>
+	<div id="navpager">  </div>
+</div>
+<!-- #Breadcrumb: - Ende -->
+<a class="skip" href="#navigation" title="jump to navigation">jump to navigation</a>
+		<a class="skip" href="#content" title="jump to content ">jump to content</a><div id="outer_wrapper">
+<!-- #main: Beginn Inhaltsbereich -->
+<div id="main">
+<!-- #col1: Erste Float-Spalte des Inhaltsbereiches -->
+<div id="col1">
+  <div id="col1_content" class="clearfix">
+
+<!-- leftmenu.php-->
+
+<!-- #menu: - Beginn -->
+<div class="smenu">
+  <a id="navigation" name="navigation"></a>
+   <ul id="leftmenu">
+      <li class="title"><a href="/public/">ESO for the Public</a></li>
+ 					      <li> <!--1-->
+      <ul id="leftnav"><li class="std0"><a href="/public/about-eso/index.html">About ESO</a><ul class="sub1"><li class="std1"><a href="/public/about-eso/esoglance.html">ESO, the European Southern Observatory</a></li><li class="std1"><a href="/public/about-eso/organisation/index.html">Organisation</a></li><li class="std1"><a href="/public/about-eso/dg-office/index.html">Director General</a><ul class="sub2"><li class="std2"><a href="/public/about-eso/dg-office/previous-dg.html">Past Directors General</a></li></ul></li><li class="std1"><a href="/public/about-eso/committees/index.html">ESO's Governing Bodies</a></li><li class="std1"><a href="/public/about-eso/memberstates.html">Member States</a></li><li class="std1"><a href="/public/about-eso/contacts/index.html">Contact and Travel</a><ul class="sub2"><li class="std2"><a href="/public/about-eso/travel/index.html">Travel to ESO Headquarters</a></li><li class="std2"><a href="/public/about-eso/travel/vitacura.html">Travel to Vitacura Office</a></li><li class="std2"><a href="/public/about-eso/travel/guesthouse.html">Travel to Guesthouse</a></li><li class="std2"><a href="/public/about-eso/travel/lasilla.html">Travel to La Silla</a></li><li class="std2"><a href="/public/about-eso/travel/laserena.html">Travel to La Serena</a></li><li class="std2"><a href="/public/about-eso/travel/paranal.html">Travel to Paranal</a></li><li class="std2"><a href="/public/about-eso/travel/antofagasta.html">Travel to Antofagasta</a></li><li class="std2"><a href="/public/about-eso/travel/apexsequitor.html">Travel to APEX/Sequitor</a></li><li class="std2"><a href="/public/about-eso/travel/chajnantor.html">Travel to Chajnantor</a></li></ul></li><li class="std1"><a href="/public/about-eso/visitors/index.html">Visits to ESO Sites</a><ul class="sub2"><li class="std2"><a href="/public/about-eso/visitors/paranal/index.html">Weekend Visits to Paranal</a></li><li class="std2"><a href="/public/about-eso/visitors/lasilla/index.html">Weekend Visits to La Silla</a></li><li class="std2"><a href="/public/outreach/pressmedia/mediavisits.html">Media Visits</a></li><li class="std2"><a href="/public/about-eso/visitors/tourist_and_students_form.html">Weekend Visits Form</a></li></ul></li><li class="std1"><a href="/public/about-eso/acronyms.html">ESO Acronyms</a></li><li class="std1"><a href="/public/redirect.html?page=http://www.eso.cl/">ESO Chile</a></li><li class="std1"><a href="/public/about-eso/timeline.html">Timeline</a></li><li class="std1"><a href="/public/about-eso/faq.html">Frequently Asked Questions</a></li></ul></li><li class="std0"><a href="/public/images/">Images</a><ul class="sub1"><li class="std1"><a href="/public/images/viewall/">View All</a></li><li class="std1"><a href="/public/images/archive/top100/">Top 100</a><ul class="sub2"><li class="std2"><a href="/public/archives/images/top100-large.zip">Large JPG Zip File</a></li></ul></li><li class="std1"><a href="/public/images/archive/category/solarsystem/">Solar System</a></li><li class="std1"><a href="/public/images/archive/category/stars/">Stars</a></li><li class="std1"><a href="/public/images/archive/category/starclusters/">Star Clusters</a></li><li class="std1"><a href="/public/images/archive/category/exoplanets/">Exoplanets</a></li><li class="std1"><a href="/public/images/archive/category/nebulae/">Nebulae</a></li><li class="std1"><a href="/public/images/archive/category/galaxies/">Galaxies</a></li><li class="std1"><a href="/public/images/archive/category/galaxyclusters/">Galaxy Clusters</a></li><li class="std1"><a href="/public/images/archive/category/blackholes/">Quasars and Black Holes</a></li><li class="std1"><a href="/public/images/archive/category/cosmology/">Cosmology</a></li><li class="std1"><a href="/public/images/archive/category/lasilla/">La Silla</a></li><li class="std1"><a href="/public/images/archive/category/paranal/">Paranal</a></li><li class="std1"><a href="/public/images/archive/category/apex/">APEX</a></li><li class="std1"><a href="/public/images/archive/category/alma/">ALMA</a></li><li class="std1"><a href="/public/images/archive/category/e-elt/">E-ELT</a></li><li class="std1"><a href="/public/images/archive/category/surveytelescopes/">Survey Telescopes</a></li><li class="std1"><a href="/public/images/archive/category/premises/">Premises</a></li><li class="std1"><a href="/public/images/archive/category/chile/">Chile</a></li><li class="std1"><a href="/public/images/archive/category/illustrations/">Illustrations</a></li><li class="std1"><a href="/public/images/archive/category/peopleandevents/">People and Events</a></li><li class="std1"><a href="/public/images/archive/wallpapers/">Wallpapers</a></li><li class="std1"><a href="/public/images/archive/zoomable/">Zoomable</a></li><li class="std1"><a href="/public/images/search/">Advanced Search</a></li><li class="std1"><a href="/public/images/potw/"><i>Picture of the Week</i></a><ul class="sub2"><li class="std2"><a href="/public/images/potw/archive/year/2012/">2012</a></li><li class="std2"><a href="/public/images/potw/archive/year/2011/">2011</a></li><li class="std2"><a href="/public/images/potw/archive/year/2010/">2010</a></li><li class="std2"><a href="/public/images/potw/archive/year/2009/">2009</a></li><li class="std2"><a href="/public/images/potw/archive/year/2008/">2008</a></li><li class="std2"><a href="/public/images/potw/archive/year/2007/">2007</a></li></ul></li><li class="std1"><a href="/public/images/comparisons/">Image Comparisons</a></li><li class="std1"><a href="/public/outreach/copyright.html"><i>Usage of ESO Images and Videos</i></a></li></ul></li><li class="std0"><a href="/public/videos/">Videos</a><ul class="sub1"><li class="std1"><a href="/public/videos/archive/category/solarsystem/">Solar System</a></li><li class="std1"><a href="/public/videos/archive/category/stars/">Stars</a></li><li class="std1"><a href="/public/videos/archive/category/starclusters/">Star Clusters</a></li><li class="std1"><a href="/public/videos/archive/category/exoplanets/">Exoplanets</a></li><li class="std1"><a href="/public/videos/archive/category/nebulae/">Nebulae</a></li><li class="std1"><a href="/public/videos/archive/category/galaxies/">Galaxies</a></li><li class="std1"><a href="/public/videos/archive/category/galaxyclusters/">Galaxy Clusters</a></li><li class="std1"><a href="/public/videos/archive/category/blackholes/">Quasars and Black Holes</a></li><li class="std1"><a href="/public/videos/archive/category/cosmology/">Cosmology</a></li><li class="std1"><a href="/public/videos/archive/category/lasilla/">La Silla</a></li><li class="std1"><a href="/public/videos/archive/category/paranal/">Paranal</a></li><li class="std1"><a href="/public/videos/archive/category/apex/">APEX</a></li><li class="std1"><a href="/public/videos/archive/category/alma/">ALMA</a></li><li class="std1"><a href="/public/videos/archive/category/e-elt/">E-ELT</a></li><li class="std1"><a href="/public/videos/archive/category/abouteso/">About ESO</a></li><li class="std1"><a href="/public/videos/archive/category/events/">Events</a></li><li class="std1"><a href="/public/videos/archive/category/esocast/">ESOcast</a></li><li class="std1"><a href="/public/videos/archive/category/vnr/">Video News Releases</a></li><li class="std1"><a href="/public/videos/archive/category/compilations/">Compilations</a></li><li class="std1"><a href="/public/videos/archive/category/featuremovies/">Feature Movies</a></li><li class="std1"><a href="/public/videos/archive/category/premises/">Premises</a></li><li class="std1"><a href="/public/esocast.html"><i>About ESOcast</i></a></li><li class="std1"><a href="/public/videoformats.html"><i>Video Formats</i></a></li><li class="std1"><a href="/public/soft_subtitles.html"><i>Subtitles and Translations for ESO Videos</i></a></li><li class="std1"><a href="/public/outreach/copyright.html"><i>Usage of ESO Videos and Images</i></a></li></ul></li><li class="std0"><a href="/public/news/">News</a><ul class="sub1"><li class="std1"><a href="/public/news/archive/year/2012/">Press Releases</a><ul class="sub2"><li class="std2"><a href="/public/news/archive/year/2012/">2012</a></li><li class="std2"><a href="/public/news/archive/year/2011/">2011</a></li><li class="std2"><a href="/public/news/archive/year/2010/">2010</a></li><li class="std2"><a href="/public/news/archive/year/2009/">2009</a></li><li class="std2"><a href="/public/news/archive/year/2008/">2008</a></li><li class="std2"><a href="/public/news/archive/year/2007/">2007</a></li><li class="std2"><a href="/public/news/archive/year/2006/">2006</a></li><li class="std2"><a href="/public/news/archive/year/2005/">2005</a></li><li class="std2"><a href="/public/news/archive/year/2004/">2004</a></li><li class="std2"><a href="/public/news/archive/year/2003/">2003</a></li><li class="std2"><a href="/public/news/archive/year/2002/">2002</a></li><li class="std2"><a href="/public/news/archive/year/2001/">2001</a></li><li class="std2"><a href="/public/news/archive/year/2000/">2000</a></li><li class="std2"><a href="/public/news/archive/year/1999/">1999</a></li><li class="std2"><a href="/public/news/archive/year/1998/">1998</a></li><li class="std2"><a href="/public/news/archive/year/1997/">1997</a></li><li class="std2"><a href="/public/news/archive/year/1996/">1996</a></li><li class="std2"><a href="/public/news/archive/year/1995/">1995</a></li><li class="std2"><a href="/public/news/archive/year/1994/">1994</a></li><li class="std2"><a href="/public/news/archive/year/1993/">1993</a></li><li class="std2"><a href="/public/news/archive/year/1992/">1992</a></li><li class="std2"><a href="/public/news/archive/year/1991/">1991</a></li><li class="std2"><a href="/public/news/archive/year/1990/">1990</a></li><li class="std2"><a href="/public/news/archive/year/1989/">1989</a></li><li class="std2"><a href="/public/news/archive/year/1988/">1988</a></li><li class="std2"><a href="/public/news/archive/year/1987/">1987</a></li><li class="std2"><a href="/public/news/archive/year/1986/">1986</a></li><li class="std2"><a href="/public/news/archive/year/1985/">1985</a></li></ul></li><li class="std1"><a href="/public/announcements/">Announcements</a><ul class="sub2"><li class="std2"><a href="/public/announcements/archive/year/2012/">2012</a></li><li class="std2"><a href="/public/announcements/archive/year/2011/">2011</a></li><li class="std2"><a href="/public/announcements/archive/year/2010/">2010</a></li><li class="std2"><a href="/public/announcements/archive/year/2009/">2009</a></li></ul></li><li class="std1"><a href="/public/outreach/pressmedia/index.html">Press Room</a><ul class="sub2"><li class="std2"><a href="/public/outreach/pressmedia/presscoverage.html">Press Coverage</a></li><li class="std2"><a href="/public/outreach/broadcast/">Broadcast Services</a></li><li class="std2"><a href="/public/outreach/pressmedia/mediavisits.html">Media Visits</a></li><li class="std2"><a href="/public/outreach/copyright.html">Copyright Notice</a></li></ul></li><li class="std1"><a href="/public/outreach/newsletters.html">Newsletters</a></li><li class="std1"><a href="/public/announcements/webupdates/">New on eso.org</a></li></ul></li><li class="std0"><a href="/public/shop/">ESOshop</a><ul class="sub1"><li class="std1"><a href="/public/shop/category/">Shop Products</a><ul class="sub2"><li class="std2"><a href="/public/shop/category/annualreport/">Annual Reports</a></li><li class="std2"><a href="/public/shop/category/book/">Books</a></li><li class="std2"><a href="/public/shop/category/brochure/">Brochures</a></li><li class="std2"><a href="/public/shop/category/calendar/">Calendars</a></li><li class="std2"><a href="/public/shop/category/conferenceitem/">Conferences</a></li><li class="std2"><a href="/public/shop/category/cdrom/">DVDs/Bluray/CDs</a></li><li class="std2"><a href="/public/shop/category/educationalmaterial/">Educational Material</a></li><li class="std2"><a href="/public/shop/category/merchandise/">Merchandise</a></li><li class="std2"><a href="/public/shop/category/mountedimage/">Mounted Images</a></li><li class="std2"><a href="/public/shop/category/postcard/">Postcards</a></li><li class="std2"><a href="/public/shop/category/newsletter/">Periodicals</a></li><li class="std2"><a href="/public/shop/category/poster/">Posters</a></li><li class="std2"><a href="/public/shop/category/sticker/">Stickers</a></li></ul></li><li class="std1"><a href="/public/shop/cart/">View shopping cart</a></li><li class="std1"><a href="/public/shop/checkout/">Checkout</a></li><li class="std1"><a href="/public/shopinfo/">Information</a><ul class="sub2"><li class="std2"><a href="/public/shopinfo/bulk_orders.html">Bulk Orders</a></li><li class="std2"><a href="/public/shopinfo/">Purchasing Steps</a></li><li class="std2"><a href="/public/shopinfo/payment.html">Payment</a></li><li class="std2"><a href="/public/shopinfo/shipping.html">Shipping</a></li><li class="std2"><a href="/public/shopinfo/shopstaff.html">Staff Shopping</a></li><li class="std2"><a href="/public/shopinfo/terms.html">Terms & Conditions</a></li></ul></li><li class="std1"><a href="/public/shop/freeorder/">Free Orders for Educators and Media</a></li></ul></li><li class="std0"><a href="/public/teles-instr/index.html">Telescopes and Instrumentation</a><ul class="sub1"><li class="std1"><a href="/public/teles-instr/vlt/index.html">Very Large Telescope</a><ul class="sub2"><li class="std2"><a href="/public/teles-instr/vlt/vlt-instr.html">VLT Instruments</a></li><li class="std2"><a href="/public/teles-instr/vlt/vlt-names.html">VLT Unit Telescopes Names</a></li></ul></li><li class="std1"><a href="/public/teles-instr/lasilla/index.html">La Silla</a><ul class="sub2"><li class="std2"><a href="/public/teles-instr/lasilla/ntt.html">NTT</a></li><li class="std2"><a href="/public/teles-instr/lasilla/36.html">3.6-metre Telescope</a></li><li class="std2"><a href="/public/teles-instr/lasilla/mpg22.html">MPG/ESO 2.2-metre Telescope</a></li></ul></li><li class="std1"><a href="/public/teles-instr/apex/index.html">APEX</a></li><li class="std1"><a href="/public/teles-instr/surveytelescopes/index.html">Survey Telescopes</a><ul class="sub2"><li class="std2"><a href="/public/teles-instr/surveytelescopes/vista/index.html">VISTA</a></li></ul></li><li class="std1"><a href="/public/teles-instr/alma/index.html">ALMA </a><ul class="sub2"><li class="std2"><a href="/public/teles-instr/alma/antennas.html">Antennas</a></li><li class="std2"><a href="/public/teles-instr/alma/interferometry.html">Interferometry</a></li><li class="std2"><a href="/public/teles-instr/alma/transporters.html">Transporters</a></li></ul></li><li class="std1"><a href="/public/teles-instr/e-elt/index.html">E-ELT </a><ul class="sub2"><li class="std2"><a href="/public/teles-instr/e-elt/e-elt_rev.html">Preparing a Revolution</a></li><li class="std2"><a href="/public/teles-instr/e-elt/e-elt_exo.html">Are We Alone?</a></li><li class="std2"><a href="/public/teles-instr/e-elt/e-elt_fir.html">First Objects</a></li><li class="std2"><a href="/public/teles-instr/e-elt/e-elt_con.html">E-ELT Concept</a></li><li class="std2"><a href="/public/teles-instr/e-elt/e-elt_euw.html">Window on the Universe</a></li><li class="std2"><a href="/public/teles-instr/e-elt/e-elt_sit.html">Finding a Home</a></li><li class="std2"><a href="/public/teles-instr/e-elt/e-elt_num.html">E-ELT in Numbers</a></li></ul></li><li class="std1"><a href="/public/teles-instr/technology/index.html">Technology for Telescopes</a><ul class="sub2"><li class="std2"><a href="/public/teles-instr/technology/active_optics.html">Active Optics</a></li><li class="std2"><a href="/public/teles-instr/technology/adaptive_optics.html">Adaptive Optics</a></li><li class="std2"><a href="/public/teles-instr/technology/interferometry.html">Interferometry</a></li></ul></li></ul></li><li class="std0"><a href="/public/science/index.html">Science with ESO Telescopes</a><ul class="sub1"><li class="std1"><a href="/public/science/top10.html">Top 10 Discoveries</a></li><li class="std1"><a href="/public/science/exoplanets.html">Exoplanets</a></li><li class="std1"><a href="/public/science/stars.html">Very Old Stars</a></li><li class="std1"><a href="/public/science/gc.html">Black Hole at the Galactic Centre</a></li><li class="std1"><a href="/public/science/grb.html">Gamma-Ray Bursts</a></li><li class="std1"><a href="/public/science/archive.html">Science Archive</a></li></ul></li><li class="std0"><a href="/public/events/">Events, Exhibitions & Campaigns</a><ul class="sub1"><li class="std1"><a href="/public/events/starsateso/">Stars@ESO</a></li><li class="std1"><a href="/public/events/press-evt/">ESO Press Conferences and Events</a></li><li class="std1"><a href="/public/events/special-evt/">Special Events</a><ul class="sub2"><li class="std2"><a href="/public/events/special-evt/awesome-universe.html">Awesome Universe</a></li><li class="std2"><a href="/public/events/special-evt/5oct2012.html">ESO 50th Anniversary Events</a></li><li class="std2"><a href="/public/events/special-evt/openhouse11.html">Open House Day 2011</a></li><li class="std2"><a href="/public/events/special-evt/iya2009.html">IYA 2009</a></li><li class="std2"><a href="/public/events/special-evt/openhouse09.html">Tag der offenen Tür 2009</a></li><li class="std2"><a href="/public/events/special-evt/100ha.html">100 Hours of Astronomy</a></li><li class="std2"><a href="/public/events/special-evt/cafe-and-kosmos.html">Café & Kosmos in Munich</a></li><li class="std2"><a href="/public/events/special-evt/theeye.html">The Eye 3D</a></li><li class="std2"><a href="/public/events/special-evt/lndw-2007eng.html">Long Night of Science 2007</a></li><li class="std2"><a href="/public/events/special-evt/openhouse.html">Open House Day 2006</a></li><li class="std2"><a href="/public/events/special-evt/pt-011203.html">Public Talks 2003</a></li><li class="std2"><a href="/public/events/special-evt/eso40years.html">ESO 40 Years</a></li></ul></li><li class="std1"><a href="/public/events/exhibitions/">Exhibitions</a><ul class="sub2"><li class="std2"><a href="/public/events/exhibitions/perma_exhibitions.html">Permanent Exhibitions</a></li><li class="std2"><a href="/public/events/exhibitions/hosting_eso_exhibits.html">Hosting ESO Exhibits</a></li></ul></li><li class="std1"><a href="/public/events/astro-evt/">Astronomical Events</a></li><li class="std1"><a href="/public/events/seminars.html">Astronomy Communication Seminars</a></li></ul></li><li class="std0"><a href="/public/outreach/">Outreach</a><ul class="sub1"><li class="std1"><a href="/public/outreach/eduoff/">Education</a><ul class="sub2"><li class="std2"><a href="/public/products/education/">Educational Material</a></li><li class="std2"><a href="/public/redirect.html?page=http://www.scienceinschool.org/">Science in School</a></li><li class="std2"><a href="/public/outreach/eduoff/teacherschools.html">Teacher Schools</a></li><li class="std2"><a href="/public/outreach/eduoff/prev-programmes.html">Previous Programmes</a></li></ul></li><li class="std1"><a href="/public/outreach/partnerships.html">Partnerships</a><ul class="sub2"><li class="std2"><a href="/public/outreach/partnerships/chile.html">Collaboration in Chile</a></li><li class="std2"><a href="/public/outreach/partnerships/eson.html">ESO Science Outreach Network</a></li><li class="std2"><a href="/public/outreach/partnerships/photo-ambassadors/">Photo Ambassadors</a></li></ul></li><li class="std1"><a href="/public/outreach/glossary/glossary_a.html">Astronomical Glossary</a></li><li class="std1"><a href="/public/outreach/communication-resources/index.html">Astronomy Communication Resources</a></li><li class="std1"><a href="/public/outreach/your_eso_pictures.html">Your ESO Pictures</a></li><li class="std1"><a href="/public/outreach/hiddentreasures/index.html">Hidden Treasures</a><ul class="sub2"><li class="std2"><a href="/public/outreach/hiddentreasures/rules.html">Hidden Treasures Rules</a></li><li class="std2"><a href="/public/outreach/hiddentreasures/instructions.html">Hidden Treasures Instructions</a></li><li class="std2"><a href="/public/outreach/hiddentreasures/science_archive.html">Hidden Treasures Form</a></li><li class="std2"><a href="/public/redirect.html?page=http://www.flickr.com/groups/esohiddentreasures/">Flickr Upload</a></li></ul></li><li class="std1"><a href="/public/redirect.html?page=http://www.spacetelescope.org/">The Hubble Space Telescope</a></li><li class="std1"><a href="/public/outreach/gems.html">Cosmic Gems</a></li><li class="std1"><a href="/public/outreach/50years.html">ESO 50 Years</a></li><li class="std1"><a href="/public/outreach/astroprize.html">European Astronomy Journalism Prize</a></li><li class="std1"><a href="/public/outreach/social.html">Social Media</a></li></ul></li><li class="std0"><a href="/public/outreach/products/">Products</a><ul class="sub1"><li class="std1"><a href="/public/products/annualreports/">Annual Reports</a></li><li class="std1"><a href="/public/products/books/">Books</a></li><li class="std1"><a href="/public/products/brochures/">Brochures</a></li><li class="std1"><a href="/public/products/calendars/">Calendars</a></li><li class="std1"><a href="/public/products/dvds/">DVDs/Bluray/CDs</a></li><li class="std1"><a href="/public/products/education/">Educational Material</a></li><li class="std1"><a href="/public/products/electroniccards/">Electronic Cards</a></li><li class="std1"><a href="/public/products/exhibitions/">Exhibition Panels</a></li><li class="std1"><a href="/public/products/logos/">Logos</a></li><li class="std1"><a href="/public/products/merchandise/">Merchandise</a></li><li class="std1"><a href="/public/products/minisites/">Mini-sites</a></li><li class="std1"><a href="/public/products/mountedimages/">Mounted Images</a></li><li class="std1"><a href="/public/products/papermodels/">Paper Models</a></li><li class="std1"><a href="/public/products/periodicals/">Periodicals</a><ul class="sub2"><li class="std2"><a href="/public/products/periodicals/archive/messenger/">Messenger</a></li><li class="std2"><a href="/public/products/periodicals/archive/capjournal/">CAPjournal</a></li><li class="std2"><a href="/public/products/periodicals/archive/scienceinschool/">Science in School</a></li><li class="std2"><a href="/public/products/periodicals/archive/bulletin/">Bulletins</a></li></ul></li><li class="std1"><a href="/public/products/planetariumshows/">Planetarium Shows</a></li><li class="std1"><a href="/public/products/postcards/">Postcards</a></li><li class="std1"><a href="/public/products/posters/">Posters</a><ul class="sub2"><li class="std2"><a href="/public/products/posters/archive/conference/">Conferences</a></li><li class="std2"><a href="/public/products/posters/archive/electronic/">Electronic</a></li><li class="std2"><a href="/public/products/posters/archive/printposters/">Printed</a></li></ul></li><li class="std1"><a href="/public/products/presentations/">Presentations</a></li><li class="std1"><a href="/public/products/presskits/">Press Kits</a></li><li class="std1"><a href="/public/products/reports/">Reports</a></li><li class="std1"><a href="/public/products/stickers/">Stickers</a></li><li class="std1"><a href="/public/outreach/products/virtualtours/">Virtual Tours</a></li><li class="std1"><a href="/public/shop/"><em>Order in ESOshop</em></a></li></ul></li><li class="std0"><a href="/public/industry/">Relations with Industry</a><ul class="sub1"><li class="std1"><a href="/public/industry/cp/">Contracts and Procurement</a></li><li class="std1"><a href="/public/industry/techtrans/">Technology Transfer</a><ul class="sub2"><li class="std2"><a href="/public/industry/techtrans/WhatisTT.html">What is Technology Transfer</a></li><li class="std2"><a href="/public/industry/techtrans/Importance.html">Importance for ESO</a></li><li class="std2"><a href="/public/industry/techtrans/Policies.html">Policies</a></li><li class="std2"><a href="/public/industry/techtrans/Benefits.html">Knock-on Benefits</a></li><li class="std2"><a href="/public/industry/techtrans/Education.html">Education and Training</a></li><li class="std2"><a href="/public/industry/techtrans/Contracts.html">Outsourcing Contracts</a></li><li class="std2"><a href="/public/industry/techtrans/Developments.html">Developments at ESO</a></li></ul></li><li class="std1"><a href="/public/industry/projects/">Future Projects</a></li><li class="std1"><a href="/public/industry/safety/">Safety</a></li><li class="std1"><a href="/public/industry/contact.html">Industry Contacts</a></li></ul></li><li class="std0"><a href="/public/employment/">Working at ESO</a><ul class="sub1"><li class="std1"><a href="/public/redirect.html?page=http://jobs.eso.org/">Recruitment</a></li><li class="std1"><a href="/public/employment/conditions.html">Employment Conditions</a><ul class="sub2"><li class="std2"><a href="/public/employment/intstaff.html">International Staff Members</a></li><li class="std2"><a href="/public/employment/fellows.html">Fellows</a></li><li class="std2"><a href="/public/employment/student.html">Students</a></li><li class="std2"><a href="/public/employment/paidassoc.html">Paid Associates/Others</a></li></ul></li><li class="std1"><a href="/public/employment/pes.html">Human Resources</a></li></ul></li><li class="std0"><a href="/public/redirect.html?page=outreach/eson/">ESO in your Language</a><ul class="sub1"><li class="std1"><a href="/public/austria/">Austria <i>(Deutsch)</i></a></li><li class="std1"><a href="/public/belgium/">Belgium <i>(Nederlands/Fran&ccedil;ais/Deutsch)</i></a></li><li class="std1"><a href="/public/brazil/">Brazil <i>(Portugu&ecirc;s)</i></a></li><li class="std1"><a href="/public/czechrepublic/">Czech Republic <i>(&#268;e&#353;tina)</i></a></li><li class="std1"><a href="/public/denmark/">Denmark <i>(Dansk)</i></a></li><li class="std1"><a href="/public/finland/">Finland <i>(Suomi)</i></a></li><li class="std1"><a href="/public/france/">France <i>(Fran&ccedil;ais)</i></a></li><li class="std1"><a href="/public/germany/">Germany <i>(Deutsch)</i></a></li><li class="std1"><a href="/public/italy/">Italy <i>(Italiano)</i></a></li><li class="std1"><a href="/public/netherlands/">Netherlands <i>(Nederlands)</i></a></li><li class="std1"><a href="/public/portugal/">Portugal <i>(Portugu&ecirc;s)</i></a></li><li class="std1"><a href="/public/spain/">Spain <i>(Espa&ntilde;ol)</i></a></li><li class="std1"><a href="/public/sweden/">Sweden <i>(Svenska)</i></a></li><li class="std1"><a href="/public/switzerland/">Switzerland <i>(Deutsch/Fran&ccedil;ais/Italiano)</i></a></li><li class="std1"><a href="/public/unitedkingdom/">United Kingdom <i>(English)</i></a></li><li class="std1"><a href="/public/redirect.html?page=http://www.eso.cl/"><i>Chile (Espa&ntilde;ol)</i></a></li><li class="std1"><a href="/public/albania/"><i>Albania (Shqip)</i></a></li><li class="std1"><a href="/public/iceland/"><i>Iceland (&Iacute;slenska)</i></a></li><li class="std1"><a href="/public/ireland/"><i>Ireland (English)</i></a></li><li class="std1"><a href="/public/norway/"><i>Norway (Norsk)</i></a></li><li class="std1"><a href="/public/poland/"><i>Poland (Polski)</i></a></li><li class="std1"><a href="/public/russia/"><i>Russia (Русский)</i></a></li><li class="std1"><a href="/public/turkey/"><i>Turkey (T&uuml;rk&ccedil;e)</i></a></li><li class="std1"><a href="/public/ukraine/"><i>Ukraine (Українська)</i></a></li><li class="std1"><a href="/public/usa/"><i>United States (English)</i></a></li></ul></li></ul> <!-- leftnav -->   </li > <!--/1-->
+
+
+
+</ul> <!-- leftmenu -->
+</div> <!-- smenu -->
+
+
+ <div id="welcomenoticeshort">
+ <p>ESO is the foremost intergovernmental astronomy organisation in Europe and the world's most productive astronomical observatory. It operates three sites in Chile &mdash; <a href="astronomy/teles-instr/lasilla.html">La Silla</a>, <a href="astronomy/teles-instr/paranal.html">Paranal</a> and Chajnantor &mdash; on behalf of its fifteen member states. It builds <a href="astronomy/teles-instr/alma.html">ALMA</a> together with international partners, and designs the <a href="astronomy/teles-instr/e-elt.html">European Extremely Large Telescope<a/>.</p>
+ </div>
+   </div> <!-- col1_content -->
+</div> <!-- col1 -->
+	  <a id="content" name="content"></a>
+<link href="/public/archives/djangoplicity/shadowbox3/shadowbox.css" rel="stylesheet" type="text/css" media="screen"/>
+<div id="col_frontpage">
+	<!-- MAIN TOP -->
+	<div class="col_mask">
+		<div class="col_left topleftcol">
+			<div class="col_main_wrap">
+				<div class="col_main topmaincol">
+					<!-- Main message text start -->
+					<p id="main_message">ESO, the European Southern Observatory, builds and operates a suite of the world's most advanced ground-based astronomical telescopes</p>
+					<!-- Main message text end -->
+				</div> <!-- col_main -->
+			</div> <!-- col_main_wrap -->
+			<div class="col_right toprightcol">
+				<!-- Main message images start -->
+				<div id="keybox"><a href="/public/teles-instr/e-elt.html"><img id="elt" src="/i/elt.jpg" /></a><a href="/public/teles-instr/alma.html"><img id="alma" src="/i/alma.jpg" /></a><a href="/public/teles-instr/vlt.html"><img id="vlt" src="/i/vlt.jpg" /></a><a href="/public/teles-instr/lasilla.html"><img id="lasilla" src="/i/lasilla.jpg" /></a></div>
+				<!-- Main message images end -->
+			</div> <!-- col_right -->
+		</div> <!-- col_left -->
+	</div> <!-- col_mask -->
+	<!-- MAIN -->
+	<div class="col_mask rightcolbg">
+		<div class="col_left leftcol">
+			<div class="col_main_wrap">
+				<div class="col_main maincol">
+					<!-- Content main start -->
+										<div id="pr_box">
+						<div class="h1links"><a href="/public/news/">View all</a> | <a href="/public/outreach/newsletters/esonews.html">Subscribe</a> | <a href="http://feeds.feedburner.com/EsoTopNews"><img src="/public/archives/djangoplicity/images/rssicon.png" class="rssicon" /></a></div>
+						<h1><a href="/public/news/">Press Releases</a> <div id="numbers"></div></h1>
+						<div class="pr_container">
+						<div class="pr_items">							<div class="item">
+								<div class="newsfeature"><a href="/public/news/eso1227/"><img src="/public/archives/images/newsfeature/eso1227a.jpg"></a></div>
+								<div class="pr_date"><a href="/public/news/eso1227/">27 June 2012 - Science Release eso1227</a></div>
+								<h2><a href="/public/news/eso1227/">New Way of Probing Exoplanet Atmospheres &mdash; Tau Boötis b revealed</a></h2>
+								<p><a href="/public/news/eso1227/">For the first time a clever new technique has allowed astronomers to study the atmosphere of an exoplanet in detail — even though it does not pass in front of its parent star. An international team has used ESO’s Very Large Telescope to directly catch the faint glow from the planet Tau Boötis b. They have studied the planet’s atmosphere and measured its orbit and mass precisely for the first time — in the process solving a 15-year old problem. Surprisingly, the team also finds that the planet’s atmosphere seems to be cooler higher up, the opposite of what was expected. The results will be published in the 28 June 2012 issue of the journal Nature.</a></p>
+							</div>
+														<div class="item init_hide">
+								<div class="newsfeature"><a href="/public/news/eso1226/"><img src="/public/archives/images/newsfeature/eso1226a.jpg"></a></div>
+								<div class="pr_date"><a href="/public/news/eso1226/">20 June 2012 - Photo Release eso1226</a></div>
+								<h2><a href="/public/news/eso1226/">VLT Takes a Close Look at NGC 6357</a></h2>
+								<p><a href="/public/news/eso1226/">ESO’s Very Large Telescope (VLT) has taken the most detailed image so far of a spectacular part of the stellar nursery called NGC 6357. The view shows many hot young stars, glowing clouds of gas and weird dust formations sculpted by ultraviolet radiation and stellar winds. </a></p>
+							</div>
+														<div class="item init_hide">
+								<div class="newsfeature"><a href="/public/news/eso1225/"><img src="/public/archives/images/newsfeature/eso1225a.jpg"></a></div>
+								<div class="pr_date"><a href="/public/news/eso1225/">11 June 2012 - Organisation Release eso1225</a></div>
+								<h2><a href="/public/news/eso1225/">ESO To Build World’s Biggest Eye On The Sky</a></h2>
+								<p><a href="/public/news/eso1225/">ESO is to build the largest optical/infrared telescope in the world. At its meeting in Garching today, the ESO Council approved the European Extremely Large Telescope (E-ELT) Programme, pending confirmation of four so-called ad referendum [1] votes. The E-ELT will start operations early in the next decade.</a></p>
+							</div>
+														<div class="item init_hide">
+								<div class="newsfeature"><a href="/public/news/eso1224/"><img src="/public/archives/images/newsfeature/eso1224a.jpg"></a></div>
+								<div class="pr_date"><a href="/public/news/eso1224/">7 June 2012 - Organisation Release eso1224</a></div>
+								<h2><a href="/public/news/eso1224/">King of Spain Visits ESO’s Paranal Observatory</a></h2>
+								<p><a href="/public/news/eso1224/">On Wednesday 6 June His Majesty Juan Carlos I, King of Spain, visited ESO’s Paranal Observatory, where he met with the Presidents of Chile, Colombia, Mexico and Peru, as well as other senior representatives present at Paranal for the Fourth Summit of the Pacific Alliance.</a></p>
+							</div>
+														<div class="item init_hide">
+								<div class="newsfeature"><a href="/public/news/eso1223/"><img src="/public/archives/images/newsfeature/eso1223a.jpg"></a></div>
+								<div class="pr_date"><a href="/public/news/eso1223/">6 June 2012 - Organisation Release eso1223</a></div>
+								<h2><a href="/public/news/eso1223/">Fourth Summit of the Pacific Alliance takes place at ESO's Paranal Observatory &mdash; Four Presidents at Paranal for signature of Pacific Alliance Treaty</a></h2>
+								<p><a href="/public/news/eso1223/">The presidents of Chile, Colombia, Mexico and Peru met today at ESO’s Paranal Observatory in the Atacama Desert of Chile, seeing first hand the state-of-the-art telescopes and technology of ESO’s flagship site. The presidents gathered at Paranal for the fourth Summit of the Pacific Alliance, at which the Alliance’s Framework Agreement was ratified. </a></p>
+							</div>
+													</div>
+					</div>
+					</div>
+					
+										<div class="main_box ann">
+					<div class="h1links"><a href="/public/announcements/">View all</a> | <a href="/public/outreach/newsletters/esonews.html">Subscribe</a> | <a href="http://feeds.feedburner.com/EsoAnnouncements"><img src="/public/archives/djangoplicity/images/rssicon.png" class="rssicon" /></a></div>
+					<h1><a href="/public/announcements/">Announcements</a></h1>
+					<table>
+										<tr>					<td>
+						<div class="annimg">
+							<a href="/public/announcements/ann12048/"><img src="/public/archives/images/potwmedium/ann12048a.jpg"></a>						</div>
+						<div class="anntext">
+							<a href="/public/announcements/ann12048/">20 Jun 2012 &mdash; ann12048</a><br />
+							<a href="/public/announcements/ann12048/" class="newslink">Self-steering Mars Rover tested at ESO’s Paranal Observatory</a>
+						</div>
+					</td>
+																				<td>
+						<div class="annimg">
+							<a href="/public/announcements/ann12047/"><img src="/public/archives/images/potwmedium/ann12047a.jpg"></a>						</div>
+						<div class="anntext">
+							<a href="/public/announcements/ann12047/">18 Jun 2012 &mdash; ann12047</a><br />
+							<a href="/public/announcements/ann12047/" class="newslink">Science in School Issue 23: Out Now!</a>
+						</div>
+					</td>
+					</tr>										<tr>					<td>
+						<div class="annimg">
+							<a href="/public/announcements/ann12046/"><img src="/public/archives/images/potwmedium/ann12046a.jpg"></a>						</div>
+						<div class="anntext">
+							<a href="/public/announcements/ann12046/">18 Jun 2012 &mdash; ann12046</a><br />
+							<a href="/public/announcements/ann12046/" class="newslink">World Renowned Astrophotographer Serge Brunier Blogs Live from ESO’s Observatories  &mdash; A blog in English and French hosted by Skypix Science et Vie</a>
+						</div>
+					</td>
+																				<td>
+						<div class="annimg">
+							<a href="/public/announcements/ann12045/"><img src="/public/archives/images/potwmedium/ann12045a.jpg"></a>						</div>
+						<div class="anntext">
+							<a href="/public/announcements/ann12045/">15 Jun 2012 &mdash; ann12045</a><br />
+							<a href="/public/announcements/ann12045/" class="newslink">Media Advisory: Invitation to ESO@50 Science Workshop</a>
+						</div>
+					</td>
+					</tr>										<tr>					<td>
+						<div class="annimg">
+							<a href="/public/announcements/ann12044/"><img src="/public/archives/images/potwmedium/ann12044a.jpg"></a>						</div>
+						<div class="anntext">
+							<a href="/public/announcements/ann12044/">11 Jun 2012 &mdash; ann12044</a><br />
+							<a href="/public/announcements/ann12044/" class="newslink">Foundation Stone Laid for ESO Headquarters Extension</a>
+						</div>
+					</td>
+																				<td>
+						<div class="annimg">
+							<a href="/public/announcements/ann12043/"><img src="/public/archives/images/potwmedium/ann12043a.jpg"></a>						</div>
+						<div class="anntext">
+							<a href="/public/announcements/ann12043/">11 Jun 2012 &mdash; ann12043</a><br />
+							<a href="/public/announcements/ann12043/" class="newslink">Café & Kosmos 12 June 2012  &mdash; Technology of the future for new X-ray telescopes</a>
+						</div>
+					</td>
+					</tr>										<tr>					<td>
+						<div class="annimg">
+							<a href="/public/announcements/ann12042/"><img src="/public/archives/images/potwmedium/ann12042a.jpg"></a>						</div>
+						<div class="anntext">
+							<a href="/public/announcements/ann12042/">5 Jun 2012 &mdash; ann12042</a><br />
+							<a href="/public/announcements/ann12042/" class="newslink">ALMA Telescope Upgrade to Power New Science</a>
+						</div>
+					</td>
+																				<td>
+						<div class="annimg">
+							<a href="/public/announcements/ann12041/"><img src="/public/archives/images/potwmedium/ann12041a.jpg"></a>						</div>
+						<div class="anntext">
+							<a href="/public/announcements/ann12041/">5 Jun 2012 &mdash; ann12041</a><br />
+							<a href="/public/announcements/ann12041/" class="newslink">ESOcast 44: Changing Views  &mdash; Special 50th anniversary episode #4</a>
+						</div>
+					</td>
+					</tr>															</table>
+					</div>
+										
+					
+					<div class="main_box">
+					<h1><a href="/public/outreach/eson/">ESO in your language</a></h1>
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					  <tbody><tr>
+						<td width="132" valign="top"><small>Member States:</small>&nbsp;</td>
+						<td colspan="2" valign="top">
+						<a href="/public/austria.html" class="noicon" title="Austria" style="margin-right: 5px;"><img src="/i/austria.gif" alt="Austria" class="nopadding"></a>
+						<a href="/public/belgium.html" class="noicon" title="Belgium" style="margin-right: 5px;"><img src="/i/belgium.gif" alt="Belgium" class="nopadding"></a>
+						<a href="/public/brazil.html" class="noicon" title="Brazil" style="margin-right: 5px;"><img src="/i/brazil.gif" alt="Brazil" class="nopadding"></a>
+						<a href="/public/czechrepublic.html" class="noicon" title="Czech Republic" style="margin-right: 5px;"><img src="/i/czechrepublic.gif" alt="Czech Republic" class="nopadding"></a>
+						<a href="/public/denmark.html" class="noicon" title="Denmark" style="margin-right: 5px;"><img src="/i/denmark.gif" alt="Denmark" class="nopadding"></a>
+						<a href="/public/finland.html" class="noicon" title="Finland" style="margin-right: 5px;"><img src="/i/finland.gif" alt="Finland" class="nopadding"></a> 
+						<a href="/public/france.html" class="noicon" title="France" style="margin-right: 5px;"><img src="/i/france.gif" alt="France" class="nopadding"></a> 
+						<a href="/public/germany.html" class="noicon" title="Germany" style="margin-right: 5px;"><img src="/i/germany.gif" alt="Germany" class="nopadding"></a> 
+						<a href="/public/italy.html" class="noicon" title="Italy" style="margin-right: 5px;"><img src="/i/italy.gif" alt="Italy" class="nopadding"></a> 
+						<a href="/public/netherlands.html" class="noicon" title="Netherlands" style="margin-right: 5px;"><img src="/i/netherlands.gif" alt="Netherlands" class="nopadding"></a> 
+						<a href="/public/portugal.html" class="noicon" title="Portugal" style="margin-right: 5px;"><img src="/i/portugal.gif" alt="Portugal" class="nopadding"></a> 
+						<a href="/public/spain.html" class="noicon" title="Spain" style="margin-right: 5px;"><img src="/i/spain.gif" alt="Spain" class="nopadding"></a> 
+						<a href="/public/sweden.html" class="noicon" title="Sweden" style="margin-right: 5px;"><img src="/i/sweden.gif" alt="Sweden" class="nopadding"></a> 
+						<a href="/public/switzerland.html" class="noicon" title="Switzerland" style="margin-right: 5px;"><img src="/i/switzerland.gif" alt="Switzerland" class="nopadding"></a> 
+						<a href="/public/" class="noicon" title="United Kingdom" style="margin-right: 5px;"><img src="/i/unitedkingdom.gif" alt="United Kingdom" class="nopadding"></a>
+						<br /><br />
+						</td>
+					  </tr>
+					  <tr>
+						<td valign="top"><small>Non-Member States</small>:&nbsp;&nbsp;</td>
+						<td width="430" valign="top">
+							<a href="/public/albania.html" class="noicon" title="Albania" style="margin-right: 5px;"><img src="/i/albania.gif" alt="Albania" class="nopadding"></a>
+							<a href="/public/iceland.html" class="noicon" title="Iceland" style="margin-right: 5px;"><img src="/i/iceland.gif" alt="Iceland" class="nopadding"></a>
+							<a href="/public/ireland.html" class="noicon" title="Ireland" style="margin-right: 5px;"><img src="/i/ireland.gif" alt="Ireland" class="nopadding"></a>
+							<a href="/public/norway.html" class="noicon" title="Norway" style="margin-right: 5px;"><img src="/i/norway.gif" alt="Norway" class="nopadding"></a> <a href="/public/poland.html" class="noicon" title="Poland" style="margin-right: 5px;"><img src="/i/poland.gif" alt="Poland" class="nopadding"></a> <a href="/public/russia.html" class="noicon" title="Russia" style="margin-right: 5px;"><img src="/i/russia.gif" alt="Russia" class="nopadding"></a> <a href="/public/turkey.html" class="noicon" title="Turkey" style="margin-right: 5px;"><img src="/i/turkey.gif" alt="Turkey" class="nopadding"></a>
+							<a href="/public/ukraine.html" class="noicon" title="Ukraine" style="margin-right: 5px;"><img src="/i/ukraine.gif" alt="Ukraine" class="nopadding"></a>
+							<a href="/public/usa.html" class="noicon" title="USA" style="margin-right: 5px;"><img src="/i/usa.gif" alt="USA" class="nopadding"></a>
+							<br /><br />
+						</td>
+						<td width="226" valign="top">
+							<div align="left">
+								<small>Host State:</small> <a href="http://www.eso.cl" class="noicon" title="Chile" style="margin-right: 5px;"><img src="/i/chile.gif" alt="Chile" class="nopadding"></a>
+							</div></td>
+					  </tr>
+					  <tr>
+						<td valign="top"><small>Languages:&nbsp;</small></td>
+						 <td colspan="2" valign="top"><small><a href="/public/czechrepublic.html">Česky</a> • <a href="/public/denmark.html">Dansk</a> • <a href="/public/germany.html">Deutsch</a> • <a href="/public/spain.html">Español</a> • <a href="/public/france.html">Français</a> • <a href="/public/iceland.html">Íslenska</a> • <a href="/public/italy.html">Italiano</a> • <a href="/public/netherlands.html">Nederlands</a> • <a href="/public/norway.html">Norsk</a> • <a href="/public/poland.html">Polski</a> • <a href="/public/portugal.html">Português</a> • <a href="/public/albania.html">Shqip</a> • <a href="/public/finland.html">Suomi</a> • <a href="/public/sweden.html">Svenska</a> • <a href="/public/turkey.html">Türkçe</a> • <a href="/public/russia.html">Русский</a> • <a href="/public/ukraine.html">українська</a></small></td>
+					  </tr>
+					</tbody></table>
+					</div>
+
+					<!-- Content main end -->
+				</div> <!-- col_main -->
+			</div> <!-- col_main_wrap -->
+			<div class="col_right rightcol">
+				<!-- Right column start -->
+								<div class="h1links"><a href="http://feeds.feedburner.com/eso_potw"><img src="/public/archives/djangoplicity/images/rssicon.png" class="rssicon" /></a></div>
+				<h1><a href="/public/images/potw/">Picture of the Week</a></h1>
+				<a href="/public/images/potw/"><img src="/public/archives/images/potwmedium/potw1226a.jpg" width="220px" height="140px" /></a>
+				<p><a href="/public/images/potw/">25 June 2012 &mdash; potw1226</a><br />
+				<a href="/public/images/potw/" class="newslink">Mars, 2099?</a>
+				</p>
+												<div class="h1links"><a href="/public/videos/archive/category/esocast/"><img id="esocast_logo" src="/i/logo_esocast.png" /></a> <a href="http://feeds2.feedburner.com/ESOcast"><img src="/public/archives/djangoplicity/images/rssicon.png" class="rssicon" /></a></div>
+				<h1><a href="/public/videos/archive/category/esocast/">ESOcast</h1>
+				<a href="/public/videos/esocast44a/"><img src="/public/archives/videos/videoframe/esocast44a.jpg" width="220px" height="124px" /></a>
+				<p><a href="/public/videos/esocast44a/">5 June 2012 &mdash; esocast44a</a><br />
+				<a href="/public/videos/esocast44a/" class="newslink">ESOcast 44 Special: Changing Views -- Special 50th anniversary episode #4</a>
+				</p>
+								
+				<h1><a href="http://www.eso.org/public/outreach/social.html">Find us on</a></h1>
+				<div class="socialnet">
+				<a href="http://www.facebook.com/pages/ESO-Astronomy/10867667494"><img src="/i/but_facebook.png" /></a>
+				<a href="https://twitter.com/#!/ESO"><img src="/i/but_twitter.png" /></a>
+				<a href="http://www.youtube.com/ESOObservatory/"><img src="/i/but_youtube.png" /></a>
+				<a href="http://www.vimeo.com/esoastronomy"><img src="/i/but_vimeo.png" /></a>
+				<a href="http://www.flickr.com/photos/esoastronomy/"><img src="/i/but_flickr.png" /></a>
+				<a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=295471183"><img src="/i/but_itunes.png" /></a>
+				</div>
+				<h1>Highlights</h1>
+				<a href="/public/outreach/50years.html"><img src="/public/archives/ads/eso-50years.jpg" width="220px" height="140px" /></a>
+				<a href="http://us2.campaign-archive1.com/?u=c35dd77ef962de779092c970b&id=3c50b45cc4"><img src="/public/archives/ads/newsletter_june_ad.jpg" width="220px" /></a>
+				<a href="http://ciel.science-et-vie.com/en/"><img src="/public/archives/ads/brunier_blog_ad.jpg" width="220px" height="140px" /></a>
+				<a href="/public/shop/"><img src="/public/archives/ads/esoshop.jpg" width="220px" height="140px" /></a>				
+				<a href="/public/outreach/newsletters/esonews.html"><img src="/public/archives/ads/esonews.jpg" width="220px" height="150px" /></a>
+				<a href="/public/images/archive/top100/"><img src="/public/archives/ads/top100.jpg" width="220px" height="150px" /></a>
+				<!-- Right column end -->
+			</div> <!-- col_right -->
+		</div> <!-- col_left -->
+	</div> <!-- col_mask rightcol -->
+</div> <!-- col_frontpage -->
+<script type="text/javascript">var MEDIA_URL = "/public/archives/"</script>
+<script type="text/javascript" src="/public/archives/js/packed.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+	/* key message hover */
+	var main_msg = "ESO, the European Southern Observatory, builds and operates a suite of the world's most advanced ground-based astronomical telescopes";
+		$("#elt").hover( function () { $("#main_message").text( "The European Extremely Large Telescope — the World’s Biggest Eye on the Sky" ); }, function () { $("#main_message").text( main_msg); } );
+		$("#alma").hover( function () { $("#main_message").text( "ALMA — In search of our Cosmic Origins" ); }, function () { $("#main_message").text( main_msg); } );
+		$("#vlt").hover( function () { $("#main_message").text( "VLT — the world’s most advanced visible-light astronomical observatory" ); }, function () { $("#main_message").text( main_msg); } );
+		$("#lasilla").hover( function () { $("#main_message").text( "La Silla — ESO’s first observatory" ); }, function () { $("#main_message").text( main_msg); } );
+		
+	/* pr rotator */
+	$('.pr_items' ).cycle({ 
+		fx:    'fade', 
+		timeout: 5000,
+		speed:  800,
+		pause:  1,
+		pager: '#numbers',
+		containerResize: 0,
+		height: '405px',
+		fit: 1,
+		width: '100%'
+	});
+	$('.pr_items').removeClass("init_hide"); // css hides all but the first PR. Now that cycle script is loaded, remove the class hiding them, so they will be displayed. 
+});
+</script>
+<!-- #Footer: Beginn Fuzeile -->
+<div id="footer">
+<!-- nur anzeigen wenn gewuenscht... -->
+  <div id="footerupdate">
+     <table><tr><th>Last Update:      
+27.06.12  &copy; ESO
+	 </th>
+	 <td>
+<a href="/public/contactform.html?area=public">Send us your comments!</a> | <a href="/public/outreach/newsletters/esonews.html">Subscribe to Newsletter</a> | <a href="/public/privacy/index.html">Privacy Statement</a></td>
+	 </tr></table>
+  </div>
+</div>
+<!-- #Footer: Ende -->
+</div> <!-- outer Wrapper -->
+</div> <!-- page -->
+</div> <!-- page_margins -->
+<!-- Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1965004-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- /Google Analytics -->
+</body>
+</html>

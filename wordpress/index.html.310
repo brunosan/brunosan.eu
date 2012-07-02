@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      Google Earth
+    </title>
+    <link href="/earth/css/main.css" rel="stylesheet">
+    <meta content=
+    "Google Earth lets you fly anywhere on Earth to view satellite imagery, maps, terrain, 3D buildings, from galaxies in outer space to the canyons of the ocean. You can explore rich geographical content, save your toured places, and share with others."
+    name="description">
+    <script src="//www.google.com/js/gweb/analytics/autotrack.js">
+</script>
+  </head>
+  <body>
+    <div class="g-doc-800 earth-index" id="g-doc">
+      <div class="g-section header">
+        <a href="/intl/es_es/earth/"><img alt="Google" src=
+        "//www.google.com/intl/es_es/images/logos/earth_logo.gif"></a>
+        <form action="" id="language-dropdown">
+          <select id="languages">
+            </select>
+        </form>
+      </div>
+      <div class="earth-nav global dd">
+        <ul id="earth-toolbar">
+          <li class="selected">
+            <a data-g-action="Home" data-g-event="Nav Clicks" href="/intl/es_es/earth/">Página
+            principal</a>
+          </li>
+          <li>
+            <a data-g-action="Explore" data-g-event="Nav Clicks" href=
+            "/intl/es_es/earth/explore/products/">Explorar</a>
+            <ul>
+              <li>
+                <a data-g-action="Products (main)" data-g-event="Nav Clicks" href=
+                "/intl/es_es/earth/explore/products/">Productos</a>
+              </li>
+              <li>
+                <a data-g-action="Showcase (main)" data-g-event="Nav Clicks" href=
+                "/intl/es_es/earth/explore/showcase/">Escaparate</a>
+              </li>
+              <li>
+                <a data-g-action="Gallery (main)" data-g-event="Nav Clicks" href=
+                "http://www.google.com/gadgets/directory?synd=earth&amp;preview=on&amp;num=16&amp;sort-order=desc&amp;cat=featured&amp;hl=es">
+                Galería</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a data-g-action="Download" data-g-event="Nav Clicks" href=
+            "/intl/es_es/earth/download/ge/">Descargar</a>
+          </li>
+          <li>
+            <a data-g-action="Learn" data-g-event="Nav Clicks" href=
+            "/intl/es_es/earth/learn/">Información</a>
+            <ul>
+              <li>
+                <a data-g-action="Beginner Tutorials (main)" data-g-event="Nav Clicks" href=
+                "/intl/es_es/earth/learn/beginner.html">Tutoriales para principiantes</a>
+              </li>
+              <li>
+                <a data-g-action="Advanced Tutorials (main)" data-g-event="Nav Clicks" href=
+                "/intl/es_es/earth/learn/advanced.html">Tutoriales avanzados</a>
+              </li>
+              <li>
+                <a data-g-action="3D Tutorials (main)" data-g-event="Nav Clicks" href=
+                "/intl/es_es/earth/learn/3dbuildings.html">Tutoriales sobre Edificios 3D</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a data-g-action="Connect" data-g-event="Nav Clicks" href=
+            "/intl/es_es/earth/connect/">Conéctate</a>
+            <ul>
+              <li>
+                <a data-g-action="Community (main)" data-g-event="Nav Clicks" href=
+                "http://bbs.keyhole.com/">Comunidad</a>
+              </li>
+              <li>
+                <a data-g-action="Sightseer Newsletter (main)" data-g-event="Nav Clicks" href=
+                "/intl/es_es/earth/connect/newsletter.html">Boletín The Sightseer</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a data-g-action="Help" data-g-event="Nav Clicks" href=
+            "http://earth.google.com/support/?hl=es">Ayuda</a>
+          </li>
+        </ul>
+      </div>
+      <div class="g-tpl-67-33" id="earth-index-banner">
+        <div id="earth-promo">
+          <div id="earth-promo-trans-border"></div><img alt="" height="340" src=
+          "images/promo_prettyearth.png" width="772">
+          <div id="earth-promo-details"></div>
+          <div id="earth-promo-text-container">
+            <h3>
+              ¡Nuevo! Funciones de búsqueda y de compartir mejoradas en Google Earth 6.2
+            </h3>
+            <div id="earth-promo-text">
+              <p>
+                ¡Comparte tu mundo con Google+ de forma inédita hasta ahora! Disfruta de funciones
+                de búsqueda mejoradas y de unas perfectas y magníficas vistas de nuestro planeta.
+                <span id="earth-promo-button"><a data_g_action="earth62" data_g_event=
+                "Promo Button Clicks" href=
+                "http://www.google.es/intl/es_es/earth/download/ge/agree.html#utm_campaign=es&amp;utm_medium=hpp&amp;utm_source=es-earthhpp-emea-gns-erth&amp;utm_term=earth62">
+                Descargar ahora</a></span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="g-unit g-first"></div>
+        <div class="g-unit">
+          <div id="earth-promo-mca-container">
+            <div id="earth-promo-mca-border"></div>
+            <div id="earth-promo-mca-content">
+              <div class="earth-icon-list">
+                <span><img alt="icono de Google Earth" height="48" src=
+                "//www.google.com/images/icons/product/earth_client-48_mc.png" width="48"></span>
+                <div>
+                  <p class="earth-mca-text">
+                    Tendrás toda la información geográfica del mundo al alcance de la mano.
+                  </p>
+                </div>
+              </div>
+              <div class="g-button-basic">
+                <div>
+                  <span><span><a data-g-action="Download Earth Button" data-g-event=
+                  "Blue Button Clicks" href="/intl/es_es/earth/download/ge/agree.html">Descargar
+                  Google Earth 6</a></span></span>
+                </div>
+              </div>
+              <ul class="earth-list">
+                <li>Vuela a cualquier lugar del mundo.
+                </li>
+                <li>Observa el relieve, edificios en 3D y otras imágenes.
+                </li>
+                <li>Busca ciudades, lugares y empresas locales.
+                </li>
+              </ul>
+              <div id="earth-promo-pro">
+                <div>
+                  <h2>
+                    <a class="secondary" href="/intl/es_es/earth/businesses/">Google Earth Pro</a>
+                  </h2>
+                  <p>
+                    Actualízate e instala la aplicación de mapas definitiva para los usuarios
+                    empresariales. <a href="/intl/es_es/earth/businesses/">Más información</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="g-tpl-67-33" id="earth-index-subpromo">
+        <div class="g-unit g-first">
+          <div class="g-tpl-50-50">
+            <div class="g-unit g-first">
+              <div class="earth-index-sp-padding">
+                <h2>
+                  <a class="secondary" href="/intl/es_es/earth/explore/products/">Descripción
+                  general de los productos</a>
+                </h2>
+                <p>
+                  Explora el mundo en 3D desde cualquier lugar.
+                </p>
+                <ul class="earth-icon-list">
+                  <li>
+                    <span><img alt="" src=
+                    "//www.google.com/images/icons/product/earth_client-32.png"></span>
+                    <div>
+                      <a href="/intl/es_es/earth/explore/products/desktop.html">Desktop</a><br>
+                      <p>
+                        Acceso a todas las funciones de Google Earth
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <span><img alt="" src=
+                    "//www.google.com/images/icons/feature/map_with_pin-lb32.png"></span>
+                    <div>
+                      <a href="/intl/es_es/earth/explore/products/earthview.html">Earth in Google
+                      Maps</a><br>
+                      <p>
+                        Mapas en 3D en tu navegador
+                      </p>
+                    </div>
+                  </li>
+                  <li class="last-item">
+                    <span><img alt="" src=
+                    "//www.google.com/images/icons/feature/mobile_phone-32.gif"></span>
+                    <div>
+                      <a href="/intl/es_es/earth/explore/products/mobile.html">Mobile</a><br>
+                      <p>
+                        Google Earth en la palma de la mano
+                      </p>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="g-unit">
+              <div class="earth-index-sp-padding">
+                <h2>
+                  <a class="secondary" href="/intl/es_es/earth/explore/showcase/">Escaparate</a>
+                </h2>
+                <p>
+                  Participa en una visita guiada por Google Earth y descubre todos los lugares que
+                  puedes visitar.
+                </p>
+                <ul class="earth-thumbs s">
+                  <li>
+                    <a href="/intl/es_es/earth/explore/showcase/3dbuildings.html"><img alt=""
+                    class="thumb" src="images/showcases_3dbuildings.gif"></a>
+                    <p>
+                      <a href="/intl/es_es/earth/explore/showcase/3dbuildings.html">Edificios
+                      3D</a>
+                    </p>
+                  </li>
+                  <li class="thumbs-row-end">
+                    <a href="/intl/es_es/earth/explore/showcase/ocean.html"><img alt="" class=
+                    "thumb" src="images/showcases_ocean.gif"></a>
+                    <p>
+                      <a href="/intl/es_es/earth/explore/showcase/ocean.html">Océanos</a>
+                    </p>
+                  </li>
+                  <li>
+                    <a href="/intl/es_es/earth/explore/showcase/historical.html"><img alt="" class=
+                    "thumb" src="images/showcases_historical.gif"></a>
+                    <p>
+                      <a href="/intl/es_es/earth/explore/showcase/historical.html">Imágenes
+                      históricas</a>
+                    </p>
+                  </li>
+                  <li class="thumbs-row-end">
+                    <a href="/intl/es_es/earth/explore/showcase/trees.html"><img alt="" class=
+                    "thumb" src="images/showcases_trees.gif"></a>
+                    <p>
+                      <a href="/intl/es_es/earth/explore/showcase/trees.html">Árboles 3D</a>
+                    </p>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="g-unit">
+          <div class="earth-index-sp-padding">
+            <h2>
+              <a class="secondary" href="/intl/es_es/earth/learn/">Información</a>
+            </h2>
+            <p>
+              The geo-modeling community is helping put every village, town, and city on the 3D
+              map.
+            </p>
+            <div class="gallery_promo_section">
+              <a href="/intl/es_es/earth/learn/3dbuildings.html"><img alt="" class="thumb l"
+              height="122" src="/earth/images/home_learn_thumb.jpg" width="122"></a>
+              <h3>
+                Your World in 3D
+              </h3>
+              <p>
+                Learn how to create, share and add 3D models to Google Earth for all the world to
+                see. <a href="/intl/es_es/earth/learn/3dbuildings.html">Learn more</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="nav-secondary">
+        <div class="g-tpl-67-33">
+          <div class="g-unit g-first">
+            <div>
+              <div>
+                <h2 class="secondary-h">
+                  Consulta información específica para
+                </h2>
+                <ul>
+                  <li>
+                    <a href="/intl/es_es/earth/nonprofits/">ONG</a>
+                  </li>
+                  <li>
+                    <a href="/intl/es_es/earth/businesses/">Empresas</a>
+                  </li>
+                  <li>
+                    <a href="/intl/es_es/earth/educators/">Educadores</a>
+                  </li>
+                  <li>
+                    <a href="/intl/es_es/earth/media/">Medios de comunicación</a>
+                  </li>
+                  <li>
+                    <a href="/intl/es_es/earth/developers/">Desarrolladores</a>
+                  </li>
+                  <li>
+                    <a href="/intl/es_es/earth/dataproviders/">Proveedores de datos</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="g-unit">
+            <div>
+              <div>
+                <h2 class="secondary-h">
+                  ¿Quieres disponer de información actualizada?
+                </h2>
+                <ul>
+                  <li>
+                    <a href="/intl/es_es/earth/connect/newsletter.html">Suscríbete a nuestro
+                    boletín "The Sightseer".</a>
+                  </li>
+                  <li>
+                    <a href="http://google-latlong.blogspot.com/">Consulta el blog Lat Long de
+                    Google.</a>
+                  </li>
+                  <li>
+                    <a href="http://www.twitter.com/googleearth">Síguenos en Twitter.</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="clear-bar"></div>
+      <p class="footer">
+        © 2011 Google - <a href="/">Página principal de Google</a> - <a href="/privacy/">Política
+        de privacidad</a> - <a href="/accounts/TOS">Condiciones del servicio</a>
+      </p>
+    </div><script src="//www.google.com/js/lang_dropdown.js">
+</script><script src="/earth/js/earth.base.js">
+</script><script>
+// Init auto-tracking.
+    earth.at = new gweb.analytics.AutoTrack({
+    profile: earth.analyticsId
+    });
+    // Create language select.
+    earth.initLangDropdown();
+    </script>
+  </body>
+</html>

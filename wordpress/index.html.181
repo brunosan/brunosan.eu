@@ -1,0 +1,407 @@
+<html>
+<head>
+	<title>Blacktree</title>
+	<meta name="viewport" content="width = 640">
+	<meta name="GOOGLEBOT" content="NOSNIPPET"> 
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-583671-9";
+	urchinTracker();
+	</script>
+	
+	<script type="text/javascript" src="js/prototype.js"></script>
+	<script type="text/javascript" src="js/scriptaculous.js?load=effects"></script>
+	<script type="text/javascript" src="js/lightbox.js"></script>
+	<link rel="stylesheet" href="css/lightbox.css" type="text/css" media="screen" />
+
+	<script type="text/javascript" language="JavaScript"><!--
+
+	var currentSelection = null;
+	function updateDetailView(sender){
+		//alert(sender.offsetTop);
+		if (currentSelection == sender) {
+			// if (currentSelection != null) currentSelection.className = "";
+			// currentSelection = null;
+			// $('detail-view').style.visibility = 'hidden';
+			// $('main-table').style.background = "url('images/PillarOfLight.png') no-repeat";
+
+			return;
+		} else {
+			if (currentSelection)
+				currentSelection.className = "";
+			currentSelection = sender;
+		}
+		
+		$('detail-view').style.visibility = 'hidden';
+		$('main-table').style.background = "none";
+		sender.className = "selected";
+		var target = 'detail-contents';
+
+		var myAjax = new Ajax.Updater(target, sender.href, {method: 'get', onComplete:
+		function(){ 
+			var fitToTop = document.body.scrollTop;
+			var ideal = sender.offsetTop-74;
+			var fitToBottom = fitToTop + document.body.clientHeight - $('detail-view').clientHeight - 1;
+			var marginTop = Math.min(ideal, fitToBottom); // Don't go higher than the top
+			marginTop = Math.max(marginTop, fitToTop); // Don't go higher than the top
+			marginTop = Math.max(marginTop, 49); // Don't go higher than gray
+			$('detail-view').style.marginTop = marginTop;
+			$('detail-view').style.visibility = '';
+			myLightbox.updateImageList();
+			}});
+		}
+
+		function toggleMoreProjects(){
+
+			if ($('more-projects').style.display == 'none') {
+				$('more-projects').style.display = 'block';
+			} else {
+				$('more-projects').style.display = 'none';
+			}
+
+		}
+
+		function getProject (){
+			mainURL = self.document.location.search;
+      value = unescape(self.document.location.hash.substring(1))
+			updateDetailView($(value));
+		}
+		-->
+		</script>
+
+		<style type="text/css">
+		<!--
+
+		a:link,a:active,a:visited
+		{
+			text-decoration: none;
+		}
+		a:hover		{ text-decoration: none; color : #333333; }
+		body {
+			background:url('images/Background.gif') top right no-repeat #696969;
+			margin:0;
+			/*		bgcolor="#CCCCCC" link="#999999" alink="#BBBBBB" vlink="#AAAAAA"*/
+		}
+		ul {
+			margin:0;
+			padding:0; 
+			color:white;
+		}
+		li {
+			list-style: none;
+		}
+
+		li a {
+			display:block;
+			font-family:"lucida grande";
+			font-size:11px;
+			color:lightgray;
+			opacity:1.0;
+			text-shadow:1 1 1 1;
+			outline: none;
+		}
+		li a strong{
+			font-family:"baskerville", "georgia", "lucida grande";
+			font-size:18px;
+			margin-left:-1px;
+			color:white;
+			font-weight:norma;
+		}
+		td#navbar hr {
+			border:0;
+			margin:10px;
+			margin-top:-2px;
+			margin-bottom:-2px;
+			background-color: #999;
+			height: 7px;
+			width:165px;
+			background: url('images/Line.png');
+		}
+		span.subtitle-alpha {
+			text-transform:uppercase;
+			font-size:9px;
+			letter-spacing:5px;
+			color:#AD3816;
+		}
+		span.subtitle-beta {
+			text-transform:uppercase;
+			font-size:9px;
+			letter-spacing:5px;
+			color:#666;
+		}
+		li {
+			padding:0;
+		}
+
+		li a:hover {
+			opacity:1.0;
+			color:white;
+		}
+
+		li a {
+			cursor: default;
+			padding:10px;
+			padding-left:14px;
+			margin:0;
+			color:white;
+			text-decoration:none;
+		}
+		li.directlink a {
+			padding:10px;
+			padding-left:14px;
+			margin:0;
+		}
+		li.directlink a:hover:after {
+			content:' »';
+		}
+		li.small a {
+			padding:0px;
+			padding-bottom:2px;
+			padding-left:14px;
+			margin:0px;
+		}
+		li a.selected
+		{
+			margin-right:-69px;
+
+			background:url('images/Glow3.png');
+			color:black;
+		}
+
+		li a.selected, li a.selected strong
+		{
+			color:gray;
+		}
+		div.console-top {
+			background:url('images/console/top.png'); height:10; width:186; margin:0;
+		}
+		div.console-middle {
+			background:url('images/console/middle.png') repeat; width:186;
+		}	
+		div.console-bottom {
+			background:url('images/console/bottom.png'); height:10; width:186; margin:0;
+		}
+
+		div.details-top {
+			background:url('images/details/top.png') no-repeat; height:38; width:315; margin:0;
+		}
+		div.details-middle {
+			background:url('images/details/middle.png') repeat-y; width:315; margin:0;
+		}	
+		div.details-bottom {
+			background:url('images/details/bottom.png') no-repeat; height:38; width:315; margin:0;
+		}
+		div.screenshots img {
+			border:1px solid white;
+		}
+		div#detail-contents {
+			/*border:1px solid red;*/
+			font-size:13px;
+			min-height:200;
+			width:238;
+			margin-left:17px;
+			padding-left:25px;
+			padding-right:25px;
+			font-family:"lucida grande";
+			line-height:150%;
+		}
+		div.detail-view {
+
+			/*margin-top:100px;*/
+			/*padding:20px;*/
+			/*border:1px solid white;*/
+			
+
+
+			/*	-webkit-border-radius:6px;
+			x-webkit-box-shadow: 0px 0px 120px rgba(255, 255, 255, 0.5);*/
+		}
+		a.download-button {
+			
+			line-height:100%;
+			background: url('images/DownloadButton.png');
+			width:150px;
+			height:32px;
+			display:block;
+			text-align:center;
+			font-size:11px;
+			font-weight:bold;
+			padding-top:18px;
+			overflow:hidden;
+			margin:-6px;
+
+		}
+		h3 {
+			margin:0;
+			margin-bottom:10px;
+		}
+
+		span.caption {
+			font-size:10px;
+			opacity:0.6;
+		}
+		div.links {
+			color:#666;
+			text-align:center;
+		}
+
+		div.detail-view a {
+			color:#666;
+		}
+		div.detail-view hr {
+			border:0;
+			background-color: #eee;
+			height: 1px;
+		}
+		div.links a:hover {
+			color:black;
+			text-decoration:underline;
+		}
+
+		table#main-table {
+			padding-left:26;
+			background:url('images/PillarOfLight.png') no-repeat;
+		}
+		-->
+		</style>
+	</head>
+
+	<body onload="getProject()">
+		<center>
+			<table id="main-table" border="0" width="512" cellpadding="0" cellspacing="0">
+				<tr>
+					<td width="186" id="navbar" valign="top">
+						<div align="center">
+							<img style="padding-top:12px; padding-bottom:24px;" src="images/BlacktreeTitle.png" width="187" height="31" alt="BlacktreeTitle">
+						</div>
+						<div class="console-top"></div>
+            <!-- <div class="console-middle">
+              <ul>
+                <li>
+                 <a id="support" href="projects/support.html" onclick="updateDetailView(this); return false;" name="wildcard"><strong>Support</strong><br>
+                  Forums and Issues
+                 </a>
+                </li>
+                <li style="list-style: none">
+                  <hr>
+                </li>
+                 <li id="docs" class="directlink">
+                  <a href="http://docs.blacktree.com/"><strong>Docs</strong></a>
+                </li> 
+                <li style="list-style: none">
+                  <hr>
+                </li>
+                <li>
+                  <a id="about" href="projects/blacktree.html" onclick="updateDetailView(this); return false;" name="about"><strong>About</strong></a>
+                </li> 
+              </ul>
+            </div>
+            <div class="console-bottom"></div>
+            <div class="console-top"></div> -->
+						<div class="console-middle">
+							<ul>
+								<li>
+									<a id="quicksilver" href="projects/quicksilver.html" onclick="updateDetailView(this); return false;" name="quicksilver"><strong>Quicksilver</strong><br>
+										Act without doing</a>
+									</li>
+									<hr>
+									<!-- <li>
+										<a id="fester" href="projects/fester.html" onclick="updateDetailView(this); return false;" name="fester"><strong>Fester</strong><br>
+											Todo Inyourface
+										</a>
+									</li>
+									<hr> -->
+									<li>
+										<a id="wildcard" href="projects/wildcard.html" onclick="updateDetailView(this); return false;" name="wildcard"><strong>Wildcard</strong><br>
+											Game on
+										</a>
+									</li>	
+											<hr>
+									<li>
+										<a id="visor" href="projects/visor.html" onclick="updateDetailView(this); return false;"><strong>Visor</strong><br>
+											Quake-style terminal</a>
+										</li>
+									<hr>
+									<li>
+
+											<li>
+												<a id="chime" href="projects/chime.html" onclick="updateDetailView(this); return false;"><strong>Chime</strong><br>
+													Mark time</a>
+												</li>
+												
+  															<li style="list-style: none">
+  																<hr>
+  															</li>
+												<li>
+    											<a id="nocturne" href="projects/nocturne.html" onclick="updateDetailView(this); return false;" name="nocturne"><strong>Nocturne</strong><br>
+    												Afraid of the light?</a>
+  											<li>
+    						
+											</ul>
+										</div>
+										<div class="console-bottom"></div>
+										<div class="console-top"></div>
+										<div class="console-middle">
+											<ul>
+												<li class="small" style="padding-top:0;padding-bottom:0;padding-right:0">
+													<a href="javascript:toggleMoreProjects();"><img style="float:right; margin-right:10px" border="0" src="images/DownArrow.png" width="16" height="12" alt="DownArrow">More Projects</a>
+												</li>
+											</ul>
+										</div>
+										<div class="console-bottom"></div>
+										<div id="more-projects" style="display:none;">
+											<div class="console-top"></div>
+											<div class="console-middle">
+												<ul>
+												  <li>
+  												
+													<a id="telekinesis" href="projects/telekinesis.html" onclick="updateDetailView(this); return false;" name="telekinesis"><strong>Telekinesis</strong><br>
+      											iPhone Remote</a>
+
+      											</li>
+      										<li style="list-style: none">
+      											<hr>
+      										</li>
+      										<li>
+  												
+    												<a id="itunes-lame" href="projects/itunes-lame.html" onclick="updateDetailView(this); return false;"><strong>iTunes-LAME</strong><br>
+    													MP3 Encoder</a>
+    												</li>
+    												<li style="list-style: none">
+        											<hr>
+        										</li>
+														<li>
+															<a id="itunes-bpm" href="projects/itunes-bpm.html" onclick="updateDetailView(this); return false;"><strong>iTunes-BPM</strong><br>
+																Calculate BPM</a>
+															</li>
+															<li style="list-style: none">
+																<hr>
+															</li>
+															<li>
+																<a id="doomsday" href="projects/doomsday.html" onclick="updateDetailView(this); return false;"><strong>Doomsday</strong><br>
+																	Tick, tock...</a>
+																</li>
+															</ul>
+														</div>
+														<div class="console-bottom"></div>
+													</div>
+												</td>
+												<td valign="top">
+													<div id="detail-view" style="visibility: hidden;">
+														<div class="details-top"></div>
+														<div class="details-middle">
+															<div class="detail-view" id="detail-contents"></div>
+
+														</div>
+														<div class="details-bottom"></div>
+													</div>
+												</td>
+											</tr>
+										</table>
+									</center>
+
+								</body>
+								</html>

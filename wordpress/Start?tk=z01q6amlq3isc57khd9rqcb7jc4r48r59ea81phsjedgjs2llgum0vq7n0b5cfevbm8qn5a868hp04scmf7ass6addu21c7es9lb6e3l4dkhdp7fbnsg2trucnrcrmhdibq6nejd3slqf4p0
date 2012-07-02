@@ -1,0 +1,10 @@
+<html><body><script>
+var url = 'http://hostedtalkgadget.google.com/a/guest.talk.google.com/talkgadget/client?session\75CrsCtJHXswjnT6vQ_6qyhSmnRnuLHT2SYUg04mNl2EV-X4VyK9SBKCt7JtJ6lOewfPsOu051i3wa01dt4-obHLYzXh4SID1n8mmEuYPl0oVun_KYYlpPb6dVqXIzKz301wtHFJZLksmMfVsmcedTABoHHsn5Acr2h8-wZocBjfM7mjE15c1WTDkmvgehHIESwQ-OobsLmBSrpz5EH-7q2GGtf016QzRvM0wsTlJmcjroPM1KY9lFKI9ycwabI3HAQ9u0dVRbI3gkUBGUuyfmfjmqjy0HWYBkhYvTkeggeA94D1UrddmlBX0V9KqSekmWhrPb8xff6XiOismMjX3MUlEwndSWtnh7GJAETjloZQ0oy0eD7GvXtdyTdJ9MF5HG-DL8dT_wlEmoAzAzVsGz3e8vOdX8Gg7MuLDuE4YmEgxc6YsleeRTkZLVxdQYAQ\46fg\75true\46closable\75false';
+var parts = (window.location+'').split('#');
+if (parts.length == 2 && parts[1].length > 0) {
+  url += '#' + parts[1];
+}
+window.setTimeout(function() {
+  window.location.replace(url);
+}, 0);
+</script></body></html>

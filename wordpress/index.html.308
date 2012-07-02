@@ -1,0 +1,271 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="x-ua-compatible" content="IE=8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<meta name="title" content="Home"/>
+<meta name="description" content="Leaders in Strategic Deterrence and Preeminent Global Warfighters In Space and Cyberspace. U.S. Strategic Command is one of 10 U.S. unified commands under the Department of Defense (DoD)."/>
+
+<title>U.S. Strategic Command  - Home</title>
+<script src="/styles/bluetech/includes/jQuery.js" type="text/javascript"></script>
+
+<script src="/styles/bluetech/includes/jCycle.js" type="text/javascript"></script>
+<script src="/styles/bluetech/includes/swfobject.js" type="text/javascript"></script>
+<script src="/styles/bluetech/includes/zeroclip.js" type="text/javascript"></script>
+<script src="/styles/bluetech/includes/jquery.jfeed.js" type="text/javascript"></script>
+<script src="/styles/bluetech/includes/common.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="/styles/bluetech/includes/common.min.css" media="all" />
+<script type="text/javascript"></script>
+<link rel="image_src" href="/images/seals/sm/stratcom_transparent.png" />
+
+</head>
+<body>
+<a name="top" id="top"></a>
+<img src="/images/seals/sm/stratcom_transparent.png" alt="Stratcom seal" style="display:none;" />
+<div id="bt_container">
+	<div id="bt_header">
+	<div id="bt_header_image">
+        <div id="bt_header_search">
+        	<form id="search_form" method="get" action="http://search.usa.gov/search">
+            <input type="hidden" name="affiliate" value="unitedstatesstrategiccommand" />
+            <input type="Submit" id="search_submit" class="search_submit" value="" title="Search" />
+                <input type="text" id="search_input_display" class="search_input_display" value="Search" />
+                <input type="text" id="search_input_real" class="search_input_real" name="query" style="display:none;" />
+            </form>
+        </div>
+    </div>
+        <div id="bt_header_menu_container">
+            <ul id="bt_header_menu">
+                <li id="menu_home"><a href="http://www.stratcom.mil/">Home</a></li>
+                
+                <li id="menu_leadership"><a href="/biographies/">Biographies</a></li>
+                
+                <li id="menu_organization"><a href="/about/">Organization</a>
+                    <div>
+                        <a href="/about/">About</a>
+                        <a href="/factsheets/">Fact Sheets</a>
+                        <a href="/mission/">Mission</a>
+                        <a href="/history/">Command History</a>
+                        <a href="/functional_components/">Functional Components</a>
+                        <a href="/service_components/">Service Components</a>
+                        <a href="/task_forces/">Task Forces</a>
+                        <a href="/files/2012_Posture_Statement.pdf">Posture Statement</a>
+                    </div>
+                </li>
+                
+                <li id="menu_events"><a href="/events/">Symposiums</a></li>
+                
+                <li id="menu_news"><a href="/news/">News</a></li>    
+                
+                <li id="menu_speeches"><a href="/speeches/">Speeches</a></li>    
+                
+                <li id="menu_images"><a href="/image_library/">Images</a>
+                    <div style="margin-left:-40px;">
+                        <a href="/image_library">Image Library</a>
+                        <a href="/emblem/">Command Emblem</a>
+                        <a href="/other_seals/">Other Seals</a>
+                    </div>
+                </li>
+                
+                <li id="menu_videos"><a href="/video/">Video</a></li>
+                
+                <li id="menu_newcomers"><a href="/newcomers/">Newcomers</a></li>    
+                
+                <li id="menu_employment"><a href="/employment/">Employment</a></li>
+                
+                <li id="menu_links"><a href="/links/">Links</a></li>  
+                
+                <li id="menu_faq"><a href="/faq/">FAQ</a></li>  
+                
+                <li id="menu_contact"><a href="/contact/">Contact</a>
+                    <div>
+                        <a href="/contact/">Contact Info</a>
+                        <a href="/foia/">Freedom of<br>Information Act</a>
+                        <a href="/ig/">Inspector General</a>
+                    </div>
+                </li>  
+			</ul>
+        </div>
+    </div>  
+    <div class="cup_top">
+    	<div class="cup_mid">
+        	<div class="cup_content" id="content">
+            	  
+                               
+                        
+
+            	
+                
+                <div style="width:260px;float:left;margin:0;padding:0;">
+    <div style="text-align:right;width:100%;">
+        <a href="http://www.facebook.com/usstrategiccommand/" title="USSTRATCOM Facebook Page"><img alt="USSTRATCOM Facebook Page" src="/images/icons/facebook_45x45.png" /></a>
+        <a href="http://www.twitter.com/US_Stratcom/" title="USSTRATCOM Twitter Page"><img src="/images/icons/twitter_45x45.png" alt="USSTRATCOM Twitter Page" /></a>
+        <a href="http://www.youtube.com/stratcompa/" title="USSTRATCOM YouTube Page"><img alt="USSTRATCOM YouTube Page" src="/images/icons/youtube_45x45.png" /></a>
+        <a href="http://www.flickr.com/usstratcom/" title="USSTRATCOM Flickr Page"><img alt="USSTRATCOM Flickr Page" src="/images/icons/flickr_45x45.png" /></a>
+        <a href="http://www.stratcom.mil/stratrss.xml" target="_blank" title="USSTRATCOM RSS Feed"><img src="/images/icons/rss_45x45.png" alt="USSTRATCOM RSS Feed" /></a>
+    </div>
+    
+    <div style="padding:0 0 6px 0;font-size:0.9em;">
+    	<h3></h3>
+        <p><a href="/quotes/2011/20/" style="color:black;font-style:italic;">&quot;Space and cyber capabilities provide the U.S., our allies, and our partners with unprecedented advantages in national decision-making and military operations, in homeland security, in economic strength, and in scientific discovery.&quot;</a></p>
+        <p align="right" style="margin-top:0;margin-bottom:0;font-size:12px">Gen C. Robert Kehler<br>Commander, USSTRATCOM</p>
+    </div>
+   
+
+    <div id="content_news" style="float:left;width:100%;margin-right:6px;">
+        <h2>Recent Stories</h2>
+        
+        	<div class="title"><a href="http://www.20af.af.mil/news/story.asp?id=123308107">Airmen of 20th Air Force and Task Force 214 welcome new commander</a> <span class="date">6/29/2012</span></div>
+        
+        	<div class="title"><a href="http://www.offutt.af.mil/news/story.asp?id=123307950">Fightin' Fifty-Fifth welcomes new commander</a> <span class="date">6/29/2012</span></div>
+        
+        	<div class="title"><a href="/news/2012/320/CJCS_holds_candid_discussion_with_Offutt_audience/">CJCS holds candid discussion with Offutt audience</a> <span class="date">6/27/2012</span></div>
+        
+    </div>
+</div>
+
+<div style="width:675px;float:right;">
+	<script>
+    $(function(){
+        $('#isItems').cycle({
+            fx:'scrollHorz',
+            speed:'slow',
+            timeout:'10000',
+            pager:'#isMenuNav',
+            pagerAnchorBuilder:function(idx,slide){
+                return '<li><a href="#" onclick="$(\'#isItems\').cycle(\'pause\');"><img src="'+$(slide).find('img').attr('src').replace('lg_','sm_')+'" /></a></li>';
+            }
+        });
+		$('#imageSliderContainer').show();
+    });
+    </script>
+    <div id="imageSliderContainer" style="width:400px;height:370px;overflow:hidden;float:left;">
+        <ul id="isMenuNav"></ul>
+        
+        <div class="imageSlider">
+            <div id="isItems">
+                
+                	<div class="isItem"><a title="Click for more" href="/spotlight/"><img alt="Enlisted Corps Spotlight" src="http://www.stratcom.mil/images/featured_items/small/2012_07_spotlight.jpg" width="400" height="286" /></a><div class="isText">The Enlisted Corps Spotlight highlights U.S. Strategic Command's best enlisted servicemembers for their job performance, leadership and service.</div></div>
+                
+                	<div class="isItem"><a title="Click for more" href="/image_library/Events/151/"><img alt="Retired Navy Cmdr. Kirk Lippold Visits USSTRATCOM" src="http://www.stratcom.mil/images/featured_items/small/2012_06_lippold.jpg" width="400" height="286" /></a><div class="isText">Retired Navy Cmdr. Kirk Lippold discusses his experience of being the commanding officer of the USS Cole when it was struck by suicide bombers off the Yemeni port of Aden.</div></div>
+                
+                	<div class="isItem"><a title="Click for more" href="/image_library/Events/150/"><img alt="Dempsey Details Challenges in Visit to Nebraska Base" src="http://www.stratcom.mil/images/featured_items/small/2012_june_cjs.jpg" width="400" height="286" /></a><div class="isText">Chairman of the Joint Chiefs of Staff Army Gen. Martin E. Dempsey speaks at Offutt AFB 26 June.</div></div>
+                
+                	<div class="isItem"><a title="Click for more" href="/image_library/Events/149/"><img alt="Air Commodore William Henman Visit" src="http://www.stratcom.mil/images/featured_items/small/2012_06_raaf.jpg" width="400" height="286" /></a><div class="isText">Air Commodore William Henman, Director General of Air Command Operations, Royal Australian Air Force visits USSTRATCOM June 22nd, 2012.</div></div>
+                
+                	<div class="isItem"><a title="Click for more" href="/image_library/Events/148/"><img alt="USS Nebraska Gold Crew visits USSTRATCOM" src="http://www.stratcom.mil/images/featured_items/small/pose_crop16.jpg" width="400" height="286" /></a><div class="isText">Maj. Gen. William Grimsley, Chief of Staff, U.S. Strategic Command, welcomes  the USS Nebraska Gold Crew during their visit to USSTRATCOM June 18, 2012.</div></div>
+                
+            </div>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+    
+    <div style="width:260px; height:370px;float:right;">
+        <div style="text-align:center; font-size:12px;">
+            <a href="/snstraining/"><img alt="SNS Training" src="/images/misc/home_sns.jpg" /></a>
+        </div>
+        <br>
+        <h2 style="clear:left;">Quicklinks</h2>
+        <ul class="verticalList">
+        	<li><a href="/files/2012_Posture_Statement.pdf">Command Posture Statement</a></li>
+        	<li><a href="/fact_sheets/Cyber_Command/">Cyber Command Factsheet</a></li>
+            <li><a href="http://www.defense.gov/home/features/2010/0410_cybersec/">DoD Cyber Security Site</a></li>
+            <li><a href="/reading_list/">Command Reading List</a></li>
+            <li><a href="/fact_sheets/snapshot/">Command Snapshot</a></li>
+            <li><a href="/snstraining/">Social Network Training</a></li>
+        </ul>
+    </div>
+</div>
+<div style="clear:both;"></div> 
+                
+
+            </div>
+        </div>
+    	<div class="cup_bottom"></div>
+    </div>
+
+    <div id="bt_bottom_sitemap"><a name="sitemap" id="sitemap"></a>
+    	<div id="bt_bs_bg"></div>
+        <div id="bt_bs_links">
+            <div>
+                <ul>   
+                    <li><a href="/" class="heavyLink">Home</a></li>
+                    <li><a href="/biographies/">Leadership</a></li>
+                	<li><a href="/events/">Events</a></li>
+                    <li><a href="/news/">News</a></li>
+                    <li><a href="/speeches/">Speeches</a></li>
+                    <li><a href="/quotes/">Quotes</a></li>
+                </ul>
+            </div>
+            <div>
+                <ul>   
+                    <li><a href="/about/" class="heavyLink">About</a></li>   
+                    <li><a href="/mission/">Mission</a></li>   
+                    <li><a href="/factsheets/">Fact Sheets</a></li>   
+                    <li><a href="/history/">History</a></li>   
+                    <li><a href="/functional_components/">Functional Components</a></li>
+                    <li><a href="/service_components/">Service Components</a></li>
+                    <li><a href="/task_forces/">Task Forces</a></li>   
+                    <li><a href="/files/2012_Posture_Statement.pdf">Posture Statement</a></li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                	<li><a href="/image_library/" class="heavyLink">Images</a></li>   
+                    <li><a href="/video/">Videos</a></li>   
+                	<li><a href="/events/">Symposiums</a></li>
+                    <li><a href="/emblem/">Command Emblem</a></li>
+                    <li><a href="/other_seals/">Other Seals</a></li>  
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><a href="/employment/" class="heavyLink">Employment</a></li>
+                    <li><a href="/newcomers/">Newcomers</a></li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><a href="/links/" class="heavyLink">Links</a></li>
+                    <li><a href="/snstraining/">Social Network <br>Training</a></li>
+                    <li><a href="/reading_list/">Commander&#039;s <br>Reading List</a></li>
+                    <li><a href="/marforstrat/">Marine Corps Forces</a></li>
+                </ul>
+            </div>
+            <div>
+                <ul>
+                    <li><a href="/contact/" class="heavyLink">Contact Info</a></li>
+                    <li><a href="/ig/">Inspector General</a></li> 
+                    <li><a href="/foia/">FOIA</a></li> 
+                    <li><a href="/privacy_statement/">Privacy Statement</a></li>
+                    <li><a href="/faq/">FAQ</a></li>    
+                </ul>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+        <div style="clear:both"></div>
+    </div>
+    
+    <div id="bt_bottom_disclaimer"><a href="http://get.adobe.com/flashplayer/">Flash Player</a> | <a href="/privacy_statement/">Privacy & Security Notice</a> | <a href="/privacy_statement/#ExternalLinks">External Link Disclaimer</a> | <a href="/foia/">Freedom of Information Act</a>
+    <br>
+    <br>
+    </div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16419498-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' :
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>

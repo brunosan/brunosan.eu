@@ -1,0 +1,72 @@
+<html>
+<head>
+<meta HTTP-EQUIV='content-type' CONTENT='text/html; charset=UTF-8'>
+<link rel="stylesheet" type="text/css" href="/trends/html/trends.css">
+<title>Google Trends</title>
+<script type='text/javascript' src='//www.google.com/js/gweb/mobile/useragent.js'></script>
+</head>
+<body bgcolor='#ffffff'>
+<script>
+//<!--
+var detector = new gweb.mobile.userAgent();
+detector.redirectForHTML5Device('/trends/m');
+//-->
+</script>
+
+<center>
+<img src='http://www.google.com/intl/en/images/logos/trends_logo_lg.gif' alt='Google Trends' border=0 style='margin-bottom:1em'>
+<table cellpadding=0 cellspacing=0 border=0
+       style='margin:0em 0'><tr><td width=40></td><td align=left>
+<form action='/trends' method=get name=search       style='padding-bottom: 0em'>
+<table align=center><tr><td align=left>
+<input maxlength=256 size=60 name=q type=text value=''>
+<script>
+//<!--
+document.search.q.focus();
+//-->
+</script>
+<input type=submit value='Search Trends'><br><font size=-1 color='#676767'>Tip: Use commas to compare multiple search terms.</font></td></tr></table>
+</form>
+</td></tr><br>
+<tr><td width=40></td></td><td><br>
+<font size=-1 color=#676767>
+<table class=examples>
+<tr><td><font size=-1 color=#676767>Examples</td></tr>
+<tr><td><a href='/trends?q=bounty+killer,beenie+man'>bounty killer,beenie man</a></td>
+<td><a href='/trends?q=windows+98,+windows+xp,++windows+vista'>windows 98, windows xp,  windows vista</a></td>
+<td><a href='/trends?q=turkey,+gifts,+diet'>turkey, gifts, diet</a></td>
+</tr><tr><td><a href='http://trends.google.com/websites?q=washingtonpost.com,+drudgereport.com'>washingtonpost.com, drudgereport.com</a></td>
+<td><a href='http://trends.google.com/websites?q=gizmodo.com,+engadget.com'>gizmodo.com, engadget.com</a></td>
+<td><a href='http://trends.google.com/websites?q=arstechnica.com,+wired.com'>arstechnica.com, wired.com</a></td>
+</tr></table>
+</td></tr><tr><td width=40></td><td>
+<table cellspacing=0 cellpadding=0 style='margin: 1em 0 0 0' width=100%><tr><td width=100% valign=top>
+<table width=100% cellpadding=0 cellspacing=0><tr><td height=10><tr><td bgcolor='#3366CC' height=1></table>
+<table width=100%  cellpadding=2 cellspacing=0 bgcolor='#E5ECF9'><tr><td><b>&nbsp;<font size=-1>Hot Searches&nbsp;&nbsp;</b>
+<font color='#676767'>(USA)</font>
+</table>
+<script type='text/javascript' src='http://www.google.com/trends/hottrends/hotItemsList'></script>
+<div id='newHotTrendsWidget' style='font-size: 0.8em;'></div>
+<div style='font-size: 0.8em; float: right;'>
+<a href='http://www.google.com/trends/hottrends'>More Hot Searches &raquo;</a>
+</div>
+<script type='text/javascript'>
+  document.getElementById('newHotTrendsWidget').innerHTML      = getHotTrendsListHtml(false, 'usa');
+</script>
+</div></td>
+</td></tr></table>
+</table>
+<div class=landItm><font size=-1>Explore advanced features with <a href='http://www.google.com/insights/search'>Google Insights for Search</a></font></div>
+<div class=landItm><font size=-1>Explore flu trends across the U.S. with <a href='http://www.google.org/flutrends'>Flu Trends</a></font></div>
+
+<div class=landItm>
+<font size=-1>
+<a href='/'>Google Home</a> - <a href='/intl/en/trends/about.html'>About Google Trends</a>
+</font>
+</div>
+<div class=landItm><font size=-2>&copy;2008 Google</font></div>
+
+</center>
+
+</body>
+</html>

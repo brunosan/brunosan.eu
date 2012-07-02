@@ -1,0 +1,385 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><title>Hinode/EIS Website - Home Page</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" CONTENT="Hinode, Solar B, MSSL, EIS, XRT, SOT, FPP" />
+
+<link rel="icon" href="images/eisfavicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="images/eisfavicon.ico" type="image/x-icon">
+
+<!-- IMPORT STYLESHEETS -->
+
+<style type="text/css" media="all">
+          @import url("style/main.css");
+</style>
+<style type="text/css" media="all">
+          @import url("style/menu.css");
+</style>
+<style type="text/css" media="screen">
+          @import url("style/screen.css");
+</style>
+<style type="text/css" media="print">
+          @import url("style/print.css");
+</style>
+<style type="text/css" media="all">
+          @import url("style/tabs1.css");
+</style>
+<!-- upgrade to lightbox 2, but fond prototype has problems with jquery, so comment it for now
+<script type="text/javascript" src="lightbox2/js/prototype.js"></script>
+<script type="text/javascript" src="lightbox2/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="lightbox2/js/lightbox.js"></script>
+<link rel="stylesheet" href="lightbox2/css/lightbox.css" type="text/css" media="screen" />
+-->
+
+<!-- <script type="text/javascript" src="eisteam/jquery-tooltip/lib/jquery.js"></script> -->
+<script type="text/javascript" src="sidenew/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="sidenew/side_r.js"></script>
+<link rel="stylesheet" href="sidenew/side_r.css" type="text/css" media="screen" />
+<script type="text/javascript" src="sidenew/aia_ani.js"></script>
+<link rel="stylesheet" href="sidenew/aia_ani.css" type="text/css" media="screen" />
+
+
+</head>
+
+<body>
+
+
+<!-- BANNER -->
+
+     <table class="banner" border="0" cellpadding="0" cellspacing="0">
+       <tr>
+         <td rowspan="0" id="headercell1"><!-- ? -->
+	 <img src="./images/Hinode_banner7_whiteborder.png" alt="Hinode craft" align="left" height="110" width="820">
+         </td>
+       </tr>
+     </table>
+
+
+<!-- TABS -->
+
+     <table class="tabs" border="0" cellpadding="0" cellspacing="0">
+       <tbody>
+         <tr>
+           <td rowspan="0" id="tabsK" height="50" width="820">
+             <ul>
+               <li><a href="http://msslxr.mssl.ucl.ac.uk:8080/SolarB/EISContacts.jsp"><span>General</span></a></li>
+               <li><a href="http://msslxr.mssl.ucl.ac.uk:8080/SolarB/SearchArchive.jsp"><span>Data Archive</span></a></li>
+               <li><a href="http://msslxr.mssl.ucl.ac.uk:8080/SolarB/OpsSolarB.jsp"><span>Operation</span></a></li>
+               <li><a href="http://msslxr.mssl.ucl.ac.uk:8080/SolarB/Mission.jsp"><span>Science</span></a></li>
+               <li><a href="http://msslxr.mssl.ucl.ac.uk:8080/SolarB/press.jsp"><span>News</span></a></li>
+               <li><a href="http://msslxr.mssl.ucl.ac.uk:8080/SolarB/Solar-B.jsp"><span>Home</span></a></li>
+             </ul>
+           </td>
+         </tr>
+       </tbody>
+     </table>
+
+
+<!-- MENU -->
+
+<table class="page" border="0" cellpadding="0" cellspacing="0" height="500" width="820">
+   <tbody>
+     <tr>
+       <td>
+         <table border="0" cellpadding="0" cellspacing="0">
+           <tbody>
+             <tr>
+
+                    <td class="col1" width="198">
+     <br clear="left">
+
+     <div id="googlesearch"><form action="http://www.google.com/cse" id="quick-search">
+      <p>
+       <input type="hidden" name="cx" value="006281901574244086273:oakkxw14eei" />
+       <input type="hidden" name="ie" value="UTF-8" />
+       <input type="text" name="q" class="tbox" value="Search ..." title="Start typing and hit ENTER" onclick="document.forms[0].q.value=''" />
+       <input class="btn" name="sa" alt="Search" title="Search" type="image" src="images/search.gif" />
+      </p>
+     </form></div>
+
+     <dl class="menu">
+
+       <dt><u>HOME</u></dt>
+         <dd><a href="./Solar-B.jsp">Hinode</a></dd>
+         <dd><a href="../eiswiki/">Hinode EIS Wiki</a></dd>
+         <dd><a href="./Meetings.jsp">Hinode Science Meeting</a></dd>
+         <dd><a href="./eisukmeeting2009/eisuk09.jsp">EIS UK Meeting 2009</a></dd>
+         <dd><a href="./fluxworkshop/flux.jsp">Flux Emergence Workshop 2010</a></dd>
+         <dd><a style="display:inline;" href="./spectrosun/index.jsp">SpectroSun 2012</a>&nbsp;<img align="absmiddle" src="./images/new11.gif"></dd>
+	 
+           <dt><u>NEWS &amp; MEDIA</u></dt>
+           <dd><a style="display:inline;" href="press.jsp">Press Releases</a></dd><!-- &nbsp;<img align="absmiddle" src="./images/updated4.gif"></dd> -->
+	   <!-- <dd><a style="display:inline;" href="./docs/Hinode_PressRelease_061031.pdf">Hinode First Light</a> <font color="orange">&amp;</font> <a style="display:inline;" href="http://solar-b.nao.ac.jp/news_e/20061127_press_e/"> Movies</a></dd> -->
+           <dd><a href="./Outreach.jsp">Public Outreach</a></dd>
+	   <dd><a href="http://www.suntrek.org/magnetic-sun/Hinode/hinode.shtml">Hinode on Sun | trek</a></dd>
+	   <dd><a style="display:inline;" href="./eisgallery.jsp">Gallery</a></dd><!--&nbsp; <img align="absmiddle" src="./images/update_1.gif"></dd>-->
+	   <dd><a style="display:inline;" href="http://tcrb.nrl.navy.mil/eis_quicklook/eis_quicklook.html">EIS QuickLook Images</a></dd><!-- &nbsp;<img align="top" src="./images/new4.gif"></dd> -->
+<!--           <dd><img align="top" src="images/sns_icon/twitter_a_12px.gif" >&nbsp;<a style="display:inline;" href="http://twitter.com/eis_bear">Follow EIS on Twitter</a></dd> -->
+
+	   <dt><u>PUBLICATIONS</u></dt>
+           <dd><a style="display:inline;" href="./Publications.jsp">Hinode Publications</a></dd><!--&nbsp;<img align="absmiddle" src="./images/updated4.gif"></dd>-->
+
+           <dt><u>SCIENCE</u></dt>
+           <dd><a href="./Mission.jsp">Hinode Mission</a></dd>
+           <dd><a href="./Instruments.jsp">Hinode Instruments</a></dd>
+           <dd><a style="display:inline;" href="./eisnuggets.jsp">EIS Science Nuggets</a>&nbsp;<img align="absmiddle" src="./images/new14.gif"></dd>
+           <dd><a href="./SciencePlan.jsp">Observing Plan</a></dd>
+<!--           <dd><a href="../eiswiki/Wiki.jsp?page=EisSci">Hinode/EIS Event List</a></dd> -->
+<!--           <dd><a style="display:inline;" href="./eisflare2009.jsp">EIS Flare Catalogue</a>&nbsp;<img align="top" src="./images/new.gif"></dd> -->
+           <dd><a style="display:inline;" href="./eisflarecat.jsp">EIS Flare Catalogue</a></dd><!-- &nbsp;<img align="absmiddle" src="./images/updated4.gif"></dd>-->
+	   
+           <dt><u>USE EIS INSTRUMENT</u></dt>
+           <dd><a href="./OpsSolarB.jsp">Mission Operations</a></dd>
+           <dd><a href="./GeneralInfo.jsp">Preparing Observations for EIS</a></dd>
+<!--           <dd><a href="./EisStudyList.jsp">Available EIS Studies</a></dd> -->
+           <dd><a style="display:inline;" href="./estudylist.jsp">Available EIS Studies</a></dd><!--&nbsp;<img align="absmiddle" src="./images/updated4.gif"></dd>-->
+           <dd><a href="http://solar-b.nrl.navy.mil/cgi-bin/timeline4.cgi">What EIS Observes</a></dd>
+<!--           <dd><a href="../eiswiki/attach/Newstudies/study_submission_V1.pdf">EIS Study Verification</a></dd> -->
+<!--           <dd><a href="http://www.cos.gmu.edu/~kdere/eis_mapper.html">Where EIS was observing?</a></dd> -->
+
+           <dt><u>EIS OPERATION</u></dt>
+           <dd><a href="./dailyplan.html">EIS Daily Plan Archive</a></dd>
+           <dd><a href="eiscorestudy.jsp">EIS Core Studies</a></dd>
+	   <dd><a style="display:inline;" href="http://www.mssl.ucl.ac.uk/www_solar/eisflarestudy.html">Flare Study Options</a>&nbsp;<img align="absmiddle" src="./images/updated4.gif"></dd>
+           <dd><a href="http://msslxr.mssl.ucl.ac.uk:8080/SolarB/eisrp/">Remote Planning Manual</a></dd>
+           <dd><a href="studysummary.jsp">Study Usage Summary</a></dd>
+	   	   
+           <dt><u>DATA ARCHIVE</u></dt>
+           <dd><font color="orange">EIS Archive</font></dd>
+           <dl class="menu1">
+             <dd><a href="./SearchArchive.jsp">Search by date/SQL</a></dd>
+             <dd><a href="./EisStudyList.jsp">Search by study</a></dd>
+           </dl>
+           <dd><a href="./SearchXRT.jsp">XRT Archive</a></dd>
+           <dd><a href="http://solar.ads.rl.ac.uk/MSSL-data/sot/level0/">SOT Archive (ADS)</a></dd>
+           <dd><a href="./daArchGuides.jsp">Data Archive User Menu</a></dd>
+           <dd><a href="http://msslxr.mssl.ucl.ac.uk:8080/eiswiki/Wiki.jsp?page=SqlSearch">Search Data by SQL</a></dd>
+	   <dd><a href="./daArchGuides_thumbs.jsp">EIS Thumbnails Guide</a></dd>
+<!--	   <dd><a href="./daArchGuides_level2.jsp">EIS Level 2 Data</a></dd> -->
+	   <dd><a href="http://solarb.msfc.nasa.gov/for_scientists/data_policy.html">Data Policy</a></dd>
+           <dd><a href="./Acknowledgements.jsp">Acknowledgements</a></dd>
+
+	   <dt><u>ANALYSIS SOFTWARE</u></dt>
+           <dd><a href="./AnalysisSoftware.jsp">Release and Installation</a></dd>
+           <dd><a href="./SoftGuides.jsp">User Guides</a></dd>
+	   
+           <dt><u>GENERAL</u></dt>
+           <dd><a href="./EISContacts.jsp">EIS Contacts</a></dd>
+	   <!-- <dd><a href="./eisteamphotos.jsp">EIS Team Photos</a></dd> &nbsp;<img align="absmiddle" src="./images/new4.gif"></dd> -->
+           <dd><a href="./EISDocs.jsp">EIS Documents</a></dd>
+	   <dd><a href="http://sohowww.nascom.nasa.gov/solarsoft/solarb/eis/data/science/fits/">EIS Ground Test Data</a></dd>
+	   <dd><font color="orange">Other Hinode Instruments</font></dd>
+             <dl class="menu1">
+               <dd><a href="http://hinode.nao.ac.jp/sot_e/">SOT</a></dd>
+               <dd><a href="http://hinode.nao.ac.jp/xrt_e/">XRT</a></dd>
+             </dl>
+           <dd><a href="./Meetings.jsp">Meetings</a></dd>
+           <dd><a href="./Links.jsp">Links</a></dd>
+
+     </dl>
+<script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/translatemypage.xml&up_source_language=en&w=160&h=60&title=&border=&output=js"></script>
+     </td>
+
+		
+	       <td id="content">
+
+<!-- MAIN BODY -->
+
+<!--
+<div align="center">
+<p style="align: center; border-style: double; width:480px; padding:10px; background-color: #CC6600; font-family: sans-serif; font-size: 10pt;">
+Please note: There will be some disruption to the EIS website and EISWiki this afternoon (29th Feb 2008) while a new hard disk is installed. This should take no more than 1/2 hour.
+We are sorry for any inconvenience.
+</p>
+</div>
+-->
+
+<!-- <a href="http://twitter.com/eis_bear"><img align="right" style="border:none;margin-right:-96px;" height="60" src="http://www.twitterbuttons.com/images/ex/nt1.png"/></a>  -->
+<!-- <marquee behavior=alternate scrollamount=1 bgcolor="#454545">You may access this website and EISWiki by short URL <a href="http://bit.ly/hinode">bit.ly/hinode</a> and <a href="http://bit.ly/eiswiki">bit.ly/eiswiki</a></marquee> -->
+               <h2>Welcome to the Hinode website</h2><hr class="thinhr">
+	       <div style="align:center;margin-left:55px;"><script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="gallery/js/AC_RunActiveContent.js" language="javascript"></script>
+
+<p style="width:500px;">
+<!-- <p style="align: center; border-style: double; width:500px;"> -->
+<script language="javascript">
+        if (AC_FL_RunContent == 0) {
+                alert("This page needs AC_RunActiveContent.js");
+        } else {
+                AC_FL_RunContent(
+                        'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+                        'width', '500',
+                        'height', '250',
+                        'src', 'gallery/xml/bcastr4',
+                        'quality', 'best',
+                        'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+                        'align', 'center',
+                        'play', 'true',
+                        'loop', 'false',
+                        'scale', 'showall',
+                        'wmode', 'transparent',
+                        'devicefont', 'false',
+                        'id', 'bcastr4',
+                        'bgcolor', '#1A1A1A',
+                        'name', 'bcastr20100701',
+                        'menu', 'false',
+                        'allowScriptAccess','sameDomain',
+                        'movie', 'gallery/xml/bcastr4',
+                        'salign', '',
+                        'FlashVars', 'xml=gallery/xml/gallery_20120601.xml'
+                        );
+        }
+</script>
+</p>
+
+</div>
+               <p style="text-align: left; width:585px; padding:3px;">
+                 Using a combination of optical, EUV and X-ray instrumentation Hinode is studying the interaction
+                 between the Sun's magnetic field and its corona to increase our understanding of the causes
+                  of solar variability and the origins of solar activity. Hinode was launched successfully in September 2006.
+               </p>
+
+
+               <p style="text-align: left; width:585px; margin: 1em 0em 0em 0em;">
+                 Included in Hinode's instrumentation is a 0.5m optical telescope (SOT), an EUV imaging
+                 spectrometer (EIS) and an X-ray/EUV telescope (XRT). The instruments will work together as an 
+                 observatory. &nbsp;
+		 The EUV imaging spectrometer ( EIS ) was built by a consortium led by 
+                 <a href="http://www.mssl.ucl.ac.uk/">Mullard Space Science Laboratory (MSSL)</a>.<br><br>
+		 Hinode is a joint Japan/UK/US mission with ESA and Norwegian involvement. 
+		 </p>
+
+       <br />
+
+               <p>
+                 <u>This website provides the following:</u>
+
+                 <ul>
+                   <li>Latest Hinode project news.
+                 </ul>
+                 <ul>
+                   <li>Access point for general Hinode documentation, and how scientists will be able to use<br>
+                       the observatory in the future.
+                 </ul>
+                 <ul>
+                   <li>Access to detailed EIS documentation.
+                 </ul>
+                 <ul>
+                   <li>Access to EIS level-0 data and other higher-level products.
+                 </ul>
+                 <ul>
+                   <li>Access point for Hinode education and public outreach activities.
+                 </ul>
+               </p>
+	       
+       <br />
+
+<br>
+
+		<center>
+		<div>
+                 <p style="border:1px solid;text-align: center; width:380px; padding:3px; background-color: #454545; font-family: sans-serif; font-size: 10pt;">
+                 If you are interested in <u>EIS</u>, <u>XRT</u>, and <u>SOT</u> data from <i>Hinode</i>, please come to visit our <a href="Solar-B.jsp">Hinode/EIS website</a>
+                 for more information and start to use our <a href="SearchArchive.jsp">Data Archive</a>!
+                 </p>
+		</div>
+		</center>
+		
+<!--
+               <table border="1" width="240" cellspacing="0" cellpadding="0" align="center">
+                 <tr>
+                   <td><a href="images/P-041-0001-11946.jpg" rel="lightbox[SolarB_img]"  title="SolarB Images">
+                   <img SRC="images/P-041-0001-11946.jpg" alt="P-041-0001-11946.jpg" hspace="5" vspace="5" width="240" height="180"></a></td>
+                   <td><a href="images/P-002-0007-13158.jpg" rel="lightbox[SolarB_img]"  title="SolarB Images">
+                   <img SRC="images/P-002-0007-13158.jpg" alt="P-002-0007-13158.jpg (7450 bytes)" hspace="5" vspace="5" width="240" height="180"></a></td>
+                 </tr>
+                 <tr>
+                 <td><p align="center"><font face="Arial" size="2">Artist's impression of Hinode.<br><small><i>(Picture courtesy of JAXA)</i></small></font></td>
+                 <td><p align="center"><font face="Arial" size="2">Hinode/M-V-7 successfully launched from the Uchinoura Space Center (USC) at 21:36 UT, September 22, 2006.<br><small><i>(Picture courtesy of JAXA)</i></small></font></td>
+                 </tr>
+               </table>
+-->
+               <br>
+	       
+	       <br><hr class="thinhr">
+               <p>Last Revised: 28-Feb-2011<br>
+               <br>
+               Feedback and comments: <a href="mailto:js2@mssl.ucl.ac.uk">webmaster</a></p>
+
+               </td>
+             </tr>
+           </tbody>
+         </table>
+       </td>
+     </tr>
+
+<!-- LOGOS -->
+
+     <!-- Share widget starts here-->
+<tr><td>
+
+<!-- <a class="addthis_button_print"></a>    -->
+<script type="text/javascript">
+var addthis_config = {
+     ui_cobrand: "Hinode/EIS",
+     ui_header_color: "#ffffff",
+     ui_header_background: "#1A1A1A",
+     services_compact: 'facebook, twitter, digg, delicious, googlebuzz, mysapce, live, pdfonline, bitly, stumbleupon, more',
+     services_exclude: 'email,print'
+};
+</script> 
+	  <!-- AddThis Button BEGIN -->
+	  <div class="addthis_toolbox addthis_default_style" style="float:right;margin:0 6px 2px 0;">
+	  <!--
+	  <a class="addthis_button_email"><img src="images/sns_icon/button1-email.gif" width="54" height="16"></a>
+	  <div style="float:left;"> &nbsp;</div>
+	  <a class="addthis_button_print"><img src="images/sns_icon/button1-print.gif" width="54" height="16"></a>
+	  -->
+	  <a class="addthis_button_email">Email</a>
+	  <div style="float:left;"> &nbsp;</div>
+	  <a class="addthis_button_print">Print</a>
+	  <div style="float:left;"> &nbsp;&nbsp;&nbsp;&nbsp;</div>
+	  <a class="addthis_button"></a>
+	  </div>
+	  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=eis2006"></script>
+</td></tr>
+
+<!-- Share widget ends here -->
+
+    <tr>
+      <td rowspan="0" id="footercell1" height="60" style="border-top:1px solid;padding:2px;">
+          <!-- <a href="http://twitter.com/eis_bear"><img align="absmiddle" style="border:none;" height="60" src="images/sns_icon/followmeontwitter.png"/></a> -->
+      	  <img src="images/eis_partners3_halfsize.png" alt="EIS partner logo" align="right" height="60" width="353">
+      </td>
+    </tr>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10195316-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+	
+   </tbody>
+ </table>
+ 
+<div id="pulloutmenu">
+    <div id="pulltab" title="EIS Social Media"></div>
+
+    <div id="pullcontent">
+            <a href="http://www.facebook.com/pages/EIS/151225931566332" target="_blank"><img src="side/sns_eis_fb.png" /></a>
+            <a href="http://www.youtube.com/user/eisonhinode" target="_blank"><img src="side/sns_eis_tube.png" /></a>
+            <a href="http://www.flickr.com/photos/eisbear" target="_blank"><img src="side/sns_eis_flickr.png" /></a>
+            <a href="http://twitter.com/eis_bear" target="_blank"><img src="side/sns_eis_tw.png" /></a>
+    </div>
+</div>
+
+<div id="aiabg_ani">
+<div id="aiabg_ani_cont"><img src="images/test/crop/ani_mov6.gif"></div>
+</div>
+
+</body></html>

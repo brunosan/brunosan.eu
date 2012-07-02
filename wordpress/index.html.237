@@ -1,0 +1,931 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Global ICT Statistics on Internet Usage, Mobile, Broadband: 1998-2009 &laquo; ICTs for Development</title>
+
+<link rel="stylesheet" href="http://s2.wp.com/wp-content/themes/pub/inove/style.css?m=1337608308g" type="text/css" media="screen" />
+
+<script type="text/javascript" src="http://s2.wp.com/wp-content/themes/pub/inove/js/base.js?m=1315596887g"></script>
+<script type="text/javascript" src="http://s2.wp.com/wp-content/themes/pub/inove/js/menu.js?m=1331739427g"></script>
+
+<link rel="pingback" href="http://ict4dblog.wordpress.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="ICTs for Development &raquo; Feed" href="http://ict4dblog.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ICTs for Development &raquo; Comments Feed" href="http://ict4dblog.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="ICTs for Development &raquo; Global ICT Statistics on Internet Usage, Mobile, Broadband:&nbsp;1998-2009 Comments Feed" href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s0.wp.com/_static/??/wp-content/blog-plugins/loggedout-follow/widget.css,/wp-content/mu-plugins/infinity/themes/pub/inove.css,/i/noticons/noticons.css,/wp-content/mu-plugins/post-flair/style.css,/wp-content/themes/h4/global.css?m=1340626589j' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/blog-plugins/loggedout-follow/widget.js,/wp-includes/js/comment-reply.js,/wp-includes/js/spin.js,/wp-includes/js/jquery/jquery.spin.js?m=1339788006j'></script>
+<link rel='stylesheet' id='all-css-0' href='http://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1339644630g' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='http://s0.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1307172283g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ict4dblog.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ict4dblog.wordpress.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Public Interest in ICT4D: Web Search and News&nbsp;Statistics' href='http://ict4dblog.wordpress.com/2010/08/31/public-interest-in-ict4d-web-search-and-news-statistics/' />
+<link rel='next' title='Mainstreaming ICTs in Development: The Case&nbsp;Against' href='http://ict4dblog.wordpress.com/2010/10/30/mainstreaming-icts-in-development-the-case-against/' />
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/' />
+<link rel='shortlink' href='http://wp.me/pkdz1-5T' />
+<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fict4dblog.wordpress.com%2F2010%2F09%2F16%2Fglobal-ict-statistics-on-internet-usage-mobile-broadband-1998-2009%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fict4dblog.wordpress.com%2F2010%2F09%2F16%2Fglobal-ict-statistics-on-internet-usage-mobile-broadband-1998-2009%2F&amp;for=wpcom-auto-discovery" /><meta property="og:type" content="article" />
+<meta property="og:title" content="Global ICT Statistics on Internet Usage, Mobile, Broadband:&nbsp;1998-2009" />
+<meta property="og:url" content="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/" />
+<meta property="og:description" content="How are ICT diffusion rates changing over time in different parts of the world?  The graphs below present ITU statistics for mobile, internet and broadband, dividing countries into quintiles by GD..." />
+<meta property="og:site_name" content="ICTs for Development" />
+<meta property="og:image" content="http://ict4dblog.files.wordpress.com/2010/09/mobile-subs-98-09-by-gdp.jpg?w=300&amp;h=300" />
+<meta property="og:image" content="http://ict4dblog.files.wordpress.com/2010/09/internet-use-98-09-by-gdp.jpg?w=300&amp;h=300" />
+<meta property="og:image" content="http://ict4dblog.files.wordpress.com/2010/09/broadband-subs-98-09-by-gdp.jpg?w=300&amp;h=300" />
+<meta property="og:image" content="http://ict4dblog.files.wordpress.com/2010/09/digital-gap-98-09-rich-poor.jpg?w=300&amp;h=300" />
+<meta property="twitter:image" content="http://ict4dblog.files.wordpress.com/2010/09/mobile-subs-98-09-by-gdp.jpg" />
+<meta property="twitter:card" content="summary" />
+<link rel="shortcut icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311976024g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311976024g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1311618091g" />
+<link rel='openid.server' href='http://ict4dblog.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://ict4dblog.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://ict4dblog.wordpress.com/osd.xml" title="ICTs for Development" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="ICTs for Development" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Talking about information and communication technologies and socio-economic development" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://ict4dblog.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /></head>
+
+<body class="single single-post postid-365 single-format-standard highlander-enabled highlander-light">
+<!-- wrap START -->
+<div id="wrap">
+
+<!-- container START -->
+<div id="container"  >
+
+<!-- header START -->
+<div id="header">
+
+	<!-- banner START -->
+		<!-- banner END -->
+
+	<div id="caption">
+		<h1 id="title"><a href="http://ict4dblog.wordpress.com/">ICTs for Development</a></h1>
+		<div id="tagline">Talking about information and communication technologies and socio-economic development</div>
+	</div>
+
+	<div class="fixed"></div>
+</div>
+<!-- header END -->
+
+<!-- navigation START -->
+<div id="navigation">
+	<!-- menus START -->
+	<ul id="menus">
+	<li class="page_item"><a class="home" title="Home" href="http://ict4dblog.wordpress.com/">Home</a></li>
+	<li class="page_item page-item-2"><a href="http://ict4dblog.wordpress.com/about-ict4dblog/">About&nbsp;ICT4DBlog</a></li>
+<li class="page_item page-item-158"><a href="http://ict4dblog.wordpress.com/join-our-mailing-list/">Join Our Mailing&nbsp;List</a></li>
+<li class="page_item page-item-234"><a href="http://ict4dblog.wordpress.com/follow-us-on-twitter/">Follow Us On&nbsp;Twitter</a></li>
+	<li><a class="lastmenu" href="javascript:void(0);"></a></li>
+</ul>
+
+	<!-- menus END -->
+
+	<!-- searchbox START -->
+	<div id="searchbox">
+		<form action="http://ict4dblog.wordpress.com" method="get">
+			<div class="content">
+				<input type="text" class="textfield" name="s" size="24" value="" />
+				<input type="submit" class="button" value="" />
+			</div>
+		</form>
+	</div>
+<script type="text/javascript">
+//<![CDATA[
+	var searchbox = MGJS.$("searchbox");
+	var searchtxt = MGJS.getElementsByClassName("textfield", "input", searchbox)[0];
+	var searchbtn = MGJS.getElementsByClassName("button", "input", searchbox)[0];
+	var tiptext = "Type text to search here...";
+	if(searchtxt.value == "" || searchtxt.value == tiptext) {
+		searchtxt.className += " searchtip";
+		searchtxt.value = tiptext;
+	}
+	searchtxt.onfocus = function(e) {
+		if(searchtxt.value == tiptext) {
+			searchtxt.value = "";
+			searchtxt.className = searchtxt.className.replace(" searchtip", "");
+		}
+	}
+	searchtxt.onblur = function(e) {
+		if(searchtxt.value == "") {
+			searchtxt.className += " searchtip";
+			searchtxt.value = tiptext;
+		}
+	}
+	searchbtn.onclick = function(e) {
+		if(searchtxt.value == "" || searchtxt.value == tiptext) {
+			return false;
+		}
+	}
+//]]>
+</script>
+	<!-- searchbox END -->
+
+	<div class="fixed"></div>
+</div>
+<!-- navigation END -->
+
+<!-- content START -->
+<div id="content">
+
+	<!-- main START -->
+	<div id="main">
+
+
+	<div id="postpath">
+		<a title="Go to homepage" href="http://ict4dblog.wordpress.com/">Home</a>
+		 &gt; <a href="http://ict4dblog.wordpress.com/category/ict4d-statistics-2/" title="View all posts in ICT4D Statistics" rel="category tag">ICT4D Statistics</a>		 &gt; Global ICT Statistics on Internet Usage, Mobile, Broadband:&nbsp;1998-2009	</div>
+
+	<div class="post" id="post-365">
+		<h2>Global ICT Statistics on Internet Usage, Mobile, Broadband:&nbsp;1998-2009</h2>
+		<div class="info">
+			<span class="date">16 September 2010</span>
+			<span class="author"><a href="http://ict4dblog.wordpress.com/author/richardheeks/" title="Posts by Richard Heeks" rel="author">Richard Heeks</a></span>										<span class="addcomment"><a href="#respond">Leave a comment</a></span>
+				<span class="comments"><a href="#comments">Go to comments</a></span>
+						<div class="fixed"></div>
+		</div>
+		<div class="content">
+			<p>How are ICT diffusion rates changing over time in different parts of the world?  The graphs below present ITU statistics for mobile, internet and broadband, dividing countries into quintiles by GDP per capita levels, and weighting the calculated averages within each quintile by population.  They extend earlier data visualisations using Google motion chart for <a href="http://ict4dblog.wordpress.com/2009/11/30/mobile-phone-penetration-google-motion-chart-data-visualisation/">mobile phone</a> and <a href="http://ict4dblog.wordpress.com/2009/12/13/broadband-penetration-over-time-data-visualisation-with-google-motion-chart-gapminder-and-excel/">broadband</a> penetration.<a href="http://ict4dblog.files.wordpress.com/2010/09/mobile-subs-98-09-by-gdp.jpg"><img class="alignright size-medium wp-image-366" title="Mobile Subs 98-09 By GDP" src="http://ict4dblog.files.wordpress.com/2010/09/mobile-subs-98-09-by-gdp.jpg?w=300&h=154" alt="" width="300" height="154" /></a></p>
+<p>- <strong>Mobile</strong>: a real sense of catch-up by the &#8220;rich&#8221; and &#8220;middle-income&#8221; countries during the mid-2000s, the former now having higher subscription rates than the &#8220;richest&#8221; countries due largely to the USA&#8217;s sub-100-per-100 statistics.  Catch-up is only just starting to happen for the poorer countries, and there&#8217;s a reminder that &#8220;mobiles are everywhere&#8221; isn&#8217;t true yet: e.g. we&#8217;ve all heard of Pakistan&#8217;s amazing growth rates but the next largest country in the bottom category is Ethiopia whose 80m citizens register less than five subscriptions per 100 people.  For fans of diffusion theory, some clear S-curve shapes on view, though a slightly worrisome dip in growth rates for the poorest countries from &#8217;08 to &#8217;09.  (For notes on converting mobile subscription rates to actual ownership and use rates in developing countries: <a href="http://ict4dblog.wordpress.com/2009/03/22/beyond-subscriptions-actual-ownership-use-and-non-use-of-mobiles-in-developing-countries/">see this earlier blog entry</a>.)</p>
+<p><a href="http://ict4dblog.files.wordpress.com/2010/09/internet-use-98-09-by-gdp.jpg"><img class="alignright size-medium wp-image-368" title="Internet Use 98-09 By GDP" src="http://ict4dblog.files.wordpress.com/2010/09/internet-use-98-09-by-gdp.jpg?w=300&h=154" alt="" width="300" height="154" /></a>- <strong>Internet</strong>: still a significant gap between the richest countries and all the rest, which have a mix of larger-country stars (VietNam, China) that punch above their category averages, and dogs (South Africa, India) that fall well below.  Due to spillover effects – e.g. an Internet user passing on web-based information to a non-user – the impact of the Internet is well above what these raw figures indicate.  And poor/middle-income countries will pass the 50 users per 100 marker in just a few years.  Growth rates in the poorest countries are strong – around 25% per year – but their low base means progress is slow.</p>
+<p><a href="http://ict4dblog.files.wordpress.com/2010/09/broadband-subs-98-09-by-gdp.jpg"><img class="alignright size-medium wp-image-371" title="Broadband Subs 98-09 By GDP" src="http://ict4dblog.files.wordpress.com/2010/09/broadband-subs-98-09-by-gdp.jpg?w=300&h=154" alt="" width="300" height="154" /></a>- <strong>Broadband</strong>: if the Internet figures are a little salutary, then the broadband stats are more so, with the poorest countries barely figuring.  Mobiles are helping to create <a href="http://ict4dblog.wordpress.com/2010/07/12/development-2-0-new-ict-enabled-development-models-and-impacts/">Development 2.0</a> – the ICT-enabled transformation of development processes and structures, but broadband will also be key, and it looks a very long way off for the world&#8217;s poor.  (Note poor countries average above middle-income due to China&#8217;s aggressive broadband roll-out policy, though are held back by India&#8217;s pitiful penetration rates of roughly two-thirds of a subscription per 100 people.  Middle-income countries look likely to overtake in the next year or so.)</p>
+<p><strong>Global Digital Gap and Digital Lag</strong></p>
+<p><a href="http://ict4dblog.files.wordpress.com/2010/09/digital-gap-98-09-rich-poor.jpg"><img class="alignright size-medium wp-image-373" title="Digital Gap 98-09 Rich Poor" src="http://ict4dblog.files.wordpress.com/2010/09/digital-gap-98-09-rich-poor.jpg?w=300&h=154" alt="" width="300" height="154" /></a>One way to summarise the situation is to look at the difference between the poorest and richest quintile countries.  As the graph shows, the &#8220;<strong><em>digital gap</em></strong>&#8221; between average penetration rates has grown and grown during the 2000s for Internet and broadband.  For mobile it began to close from 2006 onwards, but still remains very high.</p>
+<p>You can also measure &#8220;<strong><em>digital lag</em></strong>&#8220;: the time gap between a given average ICT penetration level in the poorest countries, and the year that was achieved in the richest countries.</p>
+<p><strong>Current digital lag</strong> is just under 10 years for mobile, and something like 14-15 years for Internet.  For broadband, it&#8217;s just over 10 years but the figures are so low that this may not be meaningful.</p>
+<p><strong><a href="http://ict4dblog.files.wordpress.com/2010/09/digital-lag-rich-poor-2009.jpg"><img class="alignright size-medium wp-image-382" title="Digital Lag Rich Poor 2009" src="http://ict4dblog.files.wordpress.com/2010/09/digital-lag-rich-poor-2009.jpg?w=300&h=154" alt="" width="300" height="154" /></a>Future digital lag</strong> can be calculated by projecting growth in the poorest countries, assuming current growth rates (averaged 2004-2009) continue.  For mobile, it will be 2011 before the poorest countries reach the 75 subscriptions per 100 level that the richest countries were at in 2004; a digital lag of 7 years (though that rises to 2013 and 9 years if you extrapolate from just 2008-to-2009 growth rates).</p>
+<p>For Internet, it will be 2019 before the poorest countries reach the 50 users per 100 level that the richest countries were at in 2002; a digital lag of 17 years.  For broadband, it will be 2020 before the poorest countries reach the 15 users per 100 level that the richest countries were at in 2005; a digital lag of 15 years (but with a wide margin for error, and calculated only on 2008-to-2009 growth rates).  Put another way, there are no signs yet of the digital lag for Internet or broadband closing over time, and not much evidence for the idea that digital lag is shortening with each new ICT innovation.</p>
+<p>I&#8217;m sure there are other conclusions to be drawn from the data – do please go ahead.  All of the original data is available from the following spreadsheet: <a href="https://docs.google.com/leaf?id=0B-14eY3gwnmGYjVkYjIxYTQtMjQxNy00OTIxLWFlN2YtNDIwZWYzYWZlZjVk&amp;hl=en_GB">https://docs.google.com/leaf?id=0B-14eY3gwnmGYjVkYjIxYTQtMjQxNy00OTIxLWFlN2YtNDIwZWYzYWZlZjVk&amp;hl=en_GB</a> [you'll need to log in to Google in order to guarantee access]</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-print"><a rel="nofollow" class="share-print sd-button share-icon" href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/#print" title="Click to print"><span>Print</span></a></li><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-365"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?share=facebook" title="Share on Facebook" id="sharing-facebook-365"><span>Facebook</span></a></li><li class="share-digg"><a rel="nofollow" class="share-digg sd-button share-icon" href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?share=digg" title="Click to Digg this post"><span>Digg</span></a></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-stumbleupon"><a rel="nofollow" class="share-stumbleupon sd-button share-icon" href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?share=stumbleupon" title="Click to share on StumbleUpon"><span>StumbleUpon</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-365" class="wpl-button "><a href='http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div>						<div class="fixed"></div>
+		</div>
+		<div class="under">
+			<span><span class="categories">Categories: </span><a href="http://ict4dblog.wordpress.com/category/ict4d-statistics-2/" title="View all posts in ICT4D Statistics" rel="category tag">ICT4D Statistics</a></span>
+			<span><span class="tags">Tags: </span><a href="http://ict4dblog.wordpress.com/tag/ict4d/" rel="tag">ict4d</a>, <a href="http://ict4dblog.wordpress.com/tag/ict4d-statistics/" rel="tag">ict4d statistics</a>, <a href="http://ict4dblog.wordpress.com/tag/mobiles/" rel="tag">mobiles</a>, <a href="http://ict4dblog.wordpress.com/tag/visualization/" rel="tag">visualization</a></span>
+		</div>
+		<div class="fixed"></div>
+	</div>
+
+	
+<script type="text/javascript" src="http://s2.wp.com/wp-content/themes/pub/inove/js/comment.js?m=1323834278g&amp;1"></script>
+
+
+
+<div id="comments">
+
+<div id="cmtswitcher">
+			<a id="commenttab" class="curtab" href="javascript:void(0);" onclick="MGJS.switchTab('thecomments,commentnavi', 'thetrackbacks', 'commenttab', 'curtab', 'trackbacktab', 'tab');">Comments (3)</a>
+		<a id="trackbacktab" class="tab" href="javascript:void(0);" onclick="MGJS.switchTab('thetrackbacks', 'thecomments,commentnavi', 'trackbacktab', 'curtab', 'commenttab', 'tab');">Trackbacks (2)</a>
+				<span class="addcomment"><a href="#respond">Leave a comment</a></span>
+				<span class="addtrackback"><a href="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/trackback/">Trackback</a></span>
+		<div class="fixed"></div>
+</div>
+
+<div id="commentlist">
+	<!-- comments START -->
+	<ol id="thecomments">
+		<li class="comment even thread-even depth-1 regularcomment highlander-comment" id="comment-874">
+		<div class="author">
+			<div class="pic">
+							</div>
+			<div class="name">
+									<span id="commentauthor-874">Paolo Brunello</span>
+							</div>
+		</div>
+
+		<div class="info">
+			<div class="date">
+				18 September 2010 at 9:00 am					 | <a href="#comment-874">#1</a>
+			</div>
+			<div class="act">
+				<a class='comment-reply-link' href='/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?replytocom=874#respond' onclick='return addComment.moveForm("comment-874", "874", "respond", "365")'>Reply</a> | 				<a href="javascript:void(0);" onclick="MGJS_CMT.quote('commentauthor-874', 'comment-874', 'commentbody-874', 'comment');">Quote</a>
+							</div>
+			<div class="fixed"></div>
+			<div class="content">
+				
+				<div id="commentbody-874">
+					<p>Thanks Richard, yet another insightful analysis from your blog: much appreciated.</p>
+				</div>
+			</div>
+		</div>
+		<div class="fixed"></div>
+	</li>
+</li>
+	<li class="comment odd alt thread-odd thread-alt depth-1 regularcomment highlander-comment" id="comment-900">
+		<div class="author">
+			<div class="pic">
+							</div>
+			<div class="name">
+									<a id="commentauthor-900" class="url" href="http://www.whiteafrican.com" rel="external nofollow">Hash</a>
+							</div>
+		</div>
+
+		<div class="info">
+			<div class="date">
+				20 September 2010 at 12:35 pm					 | <a href="#comment-900">#2</a>
+			</div>
+			<div class="act">
+				<a class='comment-reply-link' href='/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?replytocom=900#respond' onclick='return addComment.moveForm("comment-900", "900", "respond", "365")'>Reply</a> | 				<a href="javascript:void(0);" onclick="MGJS_CMT.quote('commentauthor-900', 'comment-900', 'commentbody-900', 'comment');">Quote</a>
+							</div>
+			<div class="fixed"></div>
+			<div class="content">
+				
+				<div id="commentbody-900">
+					<p>Great data, thanks for opening it up for the rest of us.</p>
+				</div>
+			</div>
+		</div>
+		<div class="fixed"></div>
+	</li>
+</li>
+	<li class="comment even thread-even depth-1 regularcomment highlander-comment" id="comment-933">
+		<div class="author">
+			<div class="pic">
+							</div>
+			<div class="name">
+									<span id="commentauthor-933">Rohan Samarajiva</span>
+							</div>
+		</div>
+
+		<div class="info">
+			<div class="date">
+				22 September 2010 at 1:48 pm					 | <a href="#comment-933">#3</a>
+			</div>
+			<div class="act">
+				<a class='comment-reply-link' href='/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/?replytocom=933#respond' onclick='return addComment.moveForm("comment-933", "933", "respond", "365")'>Reply</a> | 				<a href="javascript:void(0);" onclick="MGJS_CMT.quote('commentauthor-933', 'comment-933', 'commentbody-933', 'comment');">Quote</a>
+							</div>
+			<div class="fixed"></div>
+			<div class="content">
+				
+				<div id="commentbody-933">
+					<p>In a previous essay <a href="http://ict4dblog.wordpress.com/2009/03/22/beyond-subscriptions-actual-ownership-use-and-non-use-of-mobiles-in-developing-countries/" rel="nofollow">http://ict4dblog.wordpress.com/2009/03/22/beyond-subscriptions-actual-ownership-use-and-non-use-of-mobiles-in-developing-countries/</a>, the author interrogated the numbers emanating from the ITU on “mobile subscriptions.”  </p>
+<p>It is a pity the same was not done for this discussion of Internet and broadband.<br />
+For example, the ITU reports that Afghanistan had 2,000 Internet subscriptions and 1,000,000 Internet users, indicating the use of a multiplier of 500.  In other words, the Afghan administration is asking us to believe that each Internet connection is used by 500 people, in addition to asking us to accept nice round numbers on the subscriptions indicator. </p>
+<p>A fuller discussion is at <a href="http://lirneasia.net/2010/09/counting-internet-users-and-calculating-divides/" rel="nofollow">http://lirneasia.net/2010/09/counting-internet-users-and-calculating-divides/</a></p>
+				</div>
+			</div>
+		</div>
+		<div class="fixed"></div>
+	</li>
+</li>
+	</ol>
+	<!-- comments END -->
+
+
+	<!-- trackbacks START -->
+			<ol id="thetrackbacks">
+												<li class="trackback">
+						<div class="date">
+							22 September 2010 at 9:46 pm							 | <a href="#comment-940">#1</a>
+						</div>
+						<div class="act">
+													</div>
+						<div class="fixed"></div>
+						<div class="title">
+							<a href="http://lindaraftree.wordpress.com/2010/09/22/because-i-am-a-girl-2010-girls-and%c2%a0icts/">
+								Because I am a Girl 2010: Girls and ICTs &laquo; Wait&#8230; What?							</a>
+						</div>
+					</li>
+									<li class="trackback">
+						<div class="date">
+							18 May 2011 at 8:30 pm							 | <a href="#comment-1677">#2</a>
+						</div>
+						<div class="act">
+													</div>
+						<div class="fixed"></div>
+						<div class="title">
+							<a href="http://www.tangonet.it/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009-3">
+								TangoNet &raquo; Blog Archive &raquo; Global ICT Statistics on Internet Usage, Mobile, Broadband: 1998-2009							</a>
+						</div>
+					</li>
+				
+					</ol>
+		<div class="fixed"></div>
+	<!-- trackbacks END -->
+</div>
+
+</div>
+
+
+								<div id="respond">
+				<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://ict4dblog.wordpress.com/wp-comments-post.php" method="post" id="commentform">
+																										
+
+
+												
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest" />
+
+<div class="comment-form-field comment-textarea">
+	<label for="comment">Enter your comment here...</label>
+	<div id="comment-form-comment"><textarea id="comment" name="comment"></textarea></div>
+</div>
+
+<div id="comment-form-identity">
+
+	<div id="comment-form-nascar">
+		<p>Fill in your details below or click an icon to log in:</p>
+		<ul>
+			<li class="selected" style="display:none;">
+				<a href="#comment-form-guest" id="postas-guest" title="Guest">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+					<span></span>
+				</a>
+			</li>
+			<li>
+				<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+					<span></span>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<div id="comment-form-guest" class="comment-form-service selected">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank">				<img src="http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&forcedefault=y&d=mystery" alt="Gravatar" width="25" class="no-grav" />
+</a>			</div>
+
+				<div class="comment-form-fields">
+				<div class="comment-form-field comment-form-email">
+					<label for="email">Email <span class="required">(required)</span> <span class="nopublish">(Address never made public)</span></label>
+					<div class="comment-form-input"><input id="email" name="email" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-author">
+					<label for="author">Name <span class="required">(required)</span></label>
+					<div class="comment-form-input"><input id="author" name="author" type="text" value="" /></div>
+				</div>
+				<div class="comment-form-field comment-form-url">
+					<label for="url">Website</label>
+					<div class="comment-form-input"><input id="url" name="url" type="text" value="" /></div>
+				</div> 
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-wordpress" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://s2.wp.com/wp-content/mu-plugins/highlander-comments/images/wplogo.png?m=1289230950g" alt="WordPress.com Logo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value="" />
+				<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value="" />
+				<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-twitter" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=mystery" alt="Twitter picture" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value="" />
+				<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value="" />
+				<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+	<div id="comment-form-facebook" class="comment-form-service">
+		<div class="comment-form-padder">
+			<div class="comment-form-avatar">
+				<img src="http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=mystery" alt="Facebook photo" width="25" class="no-grav" />
+			</div>
+
+				<div class="comment-form-fields">
+				<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value="" />
+				<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value="" />
+				<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+			</div>
+	
+		</div>
+	</div>
+
+
+	<div id="comment-form-load-service" class="comment-form-service">
+		<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+		<p>Connecting to %s</p>
+	</div>
+	
+	
+</div>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+});
+</script>
+
+<div id="comment-form-subscribe"> 
+	<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-label" for="subscribe">Notify me of follow-up comments via email.</label></p></div>
+
+<style type="text/css">
+#respond .comment-form-avatar { display: none !important; }
+#respond .comment-form-fields { margin-left: 0 !important; }
+</style>
+												<p class="form-submit">
+							<input name="submit" type="submit" id="comment-submit" value="Post Comment" />
+							<input type='hidden' name='comment_post_ID' value='365' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						
+<input type="hidden" name="genseq" value="1341197702" />
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="98c056ce80" /></p><script type='text/javascript' src='http://s1.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/notes/underscore.js,/wp-content/mu-plugins/notes/backbone.js,/wp-content/mu-plugins/notes/mustache.js,/wp-content/mu-plugins/notes/notes-rest-common.js,/wp-content/mu-plugins/widgets/milestone/milestone.js,/wp-content/mu-plugins/akismet-2.5/form.js?m=1341003658j'></script>
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="161"/></p>					</form>
+							</div><!-- #respond -->
+			<div style="clear: both"></div>			
+	
+
+	<div id="postnavi">
+		<span class="prev"><a href="http://ict4dblog.wordpress.com/2010/10/30/mainstreaming-icts-in-development-the-case-against/" rel="next">Mainstreaming ICTs in Development: The Case&nbsp;Against</a></span>
+		<span class="next"><a href="http://ict4dblog.wordpress.com/2010/08/31/public-interest-in-ict4d-web-search-and-news-statistics/" rel="prev">Public Interest in ICT4D: Web Search and News&nbsp;Statistics</a></span>
+		<div class="fixed"></div>
+	</div>
+
+
+	</div>
+	<!-- main END -->
+
+	
+<!-- sidebar START -->
+<div id="sidebar">
+
+<!-- sidebar north START -->
+<div id="northsidebar" class="sidebar">
+
+	<!-- feeds -->
+	<div class="widget widget_feeds">
+		<div class="content">
+			<div id="subscribe-feeds">
+				<a rel="external nofollow" id="feedrss" title="Subscribe to this blog..." href="http://ict4dblog.wordpress.com/feed/"><abbr title="Really Simple Syndication">RSS</abbr> feed</a>
+									<ul id="feed_readers">
+						<li id="google_reader"><a rel="external nofollow" class="reader" title="Subscribe with Google" href="http://fusion.google.com/add?feedurl=http://ict4dblog.wordpress.com/feed/"><span>Google</span></a></li>
+						<li id="youdao_reader"><a rel="external nofollow" class="reader" title="Subscribe with Youdao" href="http://reader.youdao.com/#url=http://ict4dblog.wordpress.com/feed/"><span>Youdao</span></a></li>
+						<li id="xianguo_reader"><a rel="external nofollow" class="reader" title="Subscribe with Xian Guo" href="http://www.xianguo.com/subscribe.php?url=http://ict4dblog.wordpress.com/feed/"><span>Xian Guo</span></a></li>
+						<li id="zhuaxia_reader"><a rel="external nofollow" class="reader" title="Subscribe with Zhua Xia" href="http://www.zhuaxia.com/add_channel.php?url=http://ict4dblog.wordpress.com/feed/"><span>Zhua Xia</span></a></li>
+						<li id="yahoo_reader"><a rel="external nofollow" class="reader" title="Subscribe with My Yahoo!" href="http://add.my.yahoo.com/rss?url=http://ict4dblog.wordpress.com/feed/"><span>My Yahoo!</span></a></li>
+						<li id="newsgator_reader"><a rel="external nofollow" class="reader" title="Subscribe with newsgator" href="http://www.newsgator.com/ngs/subscriber/subfext.aspx?url=http://ict4dblog.wordpress.com/feed/"><span>newsgator</span></a></li>
+						<li id="bloglines_reader"><a rel="external nofollow" class="reader" title="Subscribe with Bloglines" href="http://www.bloglines.com/sub/http://ict4dblog.wordpress.com/feed/"><span>Bloglines</span></a></li>
+						<li id="inezha_reader"><a rel="external nofollow" class="reader" title="Subscribe with iNezha"	href="http://inezha.com/add?url=http://ict4dblog.wordpress.com/feed/"><span>iNezha</span></a></li>
+					</ul>
+							</div>
+
+			<!-- twitter -->
+			
+			<div class="fixed"></div>
+		</div>
+	</div>
+
+	<!-- showcase -->
+	
+<div id="search-2" class="widget widget_search"><h3>Search</h3><form role="search" method="get" id="searchform" action="http://ict4dblog.wordpress.com/" >
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+	</div>
+	</form></div><div id="linkcat-2200" class="widget widget_links"><h3>Links</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.manchester.ac.uk/cdi" title="Researching and Teaching ICTs and Development" target="_blank">University of Manchester&#039;s Centre for Development Informatics</a></li>
+<li><a href="http://www.sed.manchester.ac.uk/idpm/research/publications/wp/di/index.htm" title="Online Development Informatics Working Papers With Guide For Training Use" target="_blank">Working Papers on ICT4D</a></li>
+
+	</ul>
+</div>
+<div id="linkcat-22398939" class="widget widget_links"><h3>Study ICT4D</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.sed.manchester.ac.uk/postgraduate/taught/courses/06237/index.asp?code=06237&#038;pg=2" title="One-Year Masters Programme on ICTs for Development" target="_blank">One-year MSc in ICTs for Development</a></li>
+<li><a href="http://www.sed.manchester.ac.uk/research/cdi/postgraduate/" title="PhD Programme on ICTs and Developiing Countries" target="_blank">PhD in ICTs and Developing Countries</a></li>
+<li><a href="http://www.sed.manchester.ac.uk/postgraduate/taught/courses/08003/?code=08003&#038;pg=2" target="_blank">Distance Learning MSc in Mgmt. &amp; Info. Systems: Change &amp; Development</a></li>
+
+	</ul>
+</div>
+<div id="pages-2" class="widget widget_pages"><h3>About Us / Contact</h3>		<ul>
+			<li class="page_item page-item-2"><a href="http://ict4dblog.wordpress.com/about-ict4dblog/">About&nbsp;ICT4DBlog</a></li>
+<li class="page_item page-item-234"><a href="http://ict4dblog.wordpress.com/follow-us-on-twitter/">Follow Us On&nbsp;Twitter</a></li>
+<li class="page_item page-item-158"><a href="http://ict4dblog.wordpress.com/join-our-mailing-list/">Join Our Mailing&nbsp;List</a></li>
+		</ul>
+		</div><div id="rss-251421371" class="widget widget_rss"><h3><a class='rsswidget' href='http://ict4dblog.wordpress.com/feed/' title='Syndicate this content'><img style='background:orange;color:white;border:none;' width='14' height='14' src='http://s.wordpress.com/wp-includes/images/rss.png?m=1144196147g' alt='RSS' /></a> <a class='rsswidget' href='http://ict4dblog.wordpress.com' title='Talking about information and communication technologies and socio-economic development'>ICTs for Development</a></h3><ul><li><a class='rsswidget' href='http://ict4dblog.wordpress.com/2012/05/06/the-research-agenda-for-it-impact-sourcing/' title='So, what is &#8220;impact sourcing&#8221; and why is it important? It is part of a continuum of approaches that clients can take when they outsource IT-related work to bottom-of-the-pyramid suppliers, summarised in Figure 1, adapted from a previous blog entry on IT sourcing from the BoP: Exploitative outsourcing seeks to bear down on wages and [...]'>The Research Agenda for IT Impact Sourcing</a></li><li><a class='rsswidget' href='http://ict4dblog.wordpress.com/2012/03/09/understanding-mobiles-and-livelihoods/' title='How can we understand the impact that mobiles are having on the livelihoods of the poor? We all know that mobile phone use has grown exponentially in developing countries.  And that phones are having an increasing impact on the livelihoods of the poor by providing market prices, by supplying health information, by enabling financial transfers, [...]'>Understanding Mobiles and Livelihoods</a></li><li><a class='rsswidget' href='http://ict4dblog.wordpress.com/2011/11/29/can-a-process-approach-improve-ict4d-project-success/' title='Many ICT4D projects fail[1].  There are various mooted reasons for this, of which I will highlight five here: Failure to involve beneficiaries and users: those who can ensure that project designs are well-matched to local realities. Rigidity in project delivery: following a pre-planned approach such as that mandated by methods like Structured Systems Analysi [&hellip;]'>Can a Process Approach Improve ICT4D Project Success?</a></li><li><a class='rsswidget' href='http://ict4dblog.wordpress.com/2011/10/27/evaluating-computer-science-curriculum-change-in-african-universities/' title='Effective use of ICTs in Africa requires a step change in local skill levels, including a step change in ICT-related university education.  Part of that process must be an updating of university computer science degree curricula – broadening them to include ICT and information systems subjects, moving them from the theoretical to the applied, and [...]'>Evaluating Computer Science Curriculum Change in African Universities</a></li><li><a class='rsswidget' href='http://ict4dblog.wordpress.com/2011/09/29/e-government-benefits-and-costs-why-e-gov-raises-not-lowers-your-taxes/' title='Often, IT companies sell e-government to politicians, and politicians sell e-government to citizens on the promise that it will save money.  These claims regularly appear as &#8220;news&#8221; items, especially in IT- or government-related media.  This has in part encouraged the huge expenditure on e-government: a ballpark figure would be US$3 trillion durin [&hellip;]'>e-Government Benefits And Costs: Why e-Gov Raises Not Lowers Your Taxes</a></li><li><a class='rsswidget' href='http://ict4dblog.wordpress.com/2011/08/31/from-digital-divide-to-digital-provide-spillover-benefits-to-ict4d-non-users/' title='ICTs bring benefits to those who have them and not to those who don&#8217;t. They therefore increase inequality.  Right?  Well . . . let&#8217;s see. First question: what do you mean by &#8220;those who don&#8217;t have ICTs&#8221;? We need something a bit more nuanced than a simple, binary digital divide, and can use instead a [...]'>From Digital Divide to Digital Provide: Spillover Benefits to ICT4D Non-Users</a></li><li><a class='rsswidget' href='http://ict4dblog.wordpress.com/2011/07/30/using-actor-network-theory-in-ict4d-research/' title='Actor-network theory (ANT) has been around since the 1980s, and significantly utilised in some disciplines, such as information systems.  But – oddly – it has hardly been applied at all in development studies, including within ICT4D research.  That is recently starting to change but to give some further impetus, we organised an international workshop in [... [&hellip;]'>Using Actor-Network Theory in ICT4D Research</a></li></ul></div><div id="blog_subscription-3" class="widget widget_blog_subscription"><h3><label for="subscribe-field">Email Subscription</label></h3>
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="subscribe-blog">
+									<p>Enter your email address to subscribe to this blog and receive notifications of new posts by email.</p>
+<p>Join 146 other followers</p>
+					<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" value="" id="subscribe-field"/></p>
+				
+				<p>
+					<input type="hidden" name="action" value="subscribe"/>
+					<input type="hidden" name="blog_id" value="4818703"/>
+					<input type="hidden" name="source" value="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/"/>
+					<input type="hidden" name="sub-type" value="widget"/>
+					<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+					<input type="hidden" id="_wpnonce" name="_wpnonce" value="f390bc7172" />					<input type="submit" value="Sign me up!" />
+				</p>
+			</form>
+			
+</div><div id="wp_tag_cloud" class="widget wp_widget_tag_cloud"><h3>Select Blog Entries By Tag</h3><div style="overflow:hidden"><a href='http://ict4dblog.wordpress.com/tag/actor-network-theory/' class='tag-link-189535' title='1 topic' style='font-size: 8pt;'>Actor-Network Theory</a>
+<a href='http://ict4dblog.wordpress.com/tag/bottom-billion/' class='tag-link-4679420' title='1 topic' style='font-size: 8pt;'>Bottom Billion</a>
+<a href='http://ict4dblog.wordpress.com/tag/broadband-in-dcs/' class='tag-link-36967801' title='1 topic' style='font-size: 8pt;'>Broadband in DCs</a>
+<a href='http://ict4dblog.wordpress.com/tag/design-reality-gap-model/' class='tag-link-67478219' title='3 topics' style='font-size: 10.937062937063pt;'>Design-Reality Gap Model</a>
+<a href='http://ict4dblog.wordpress.com/tag/development-2-0/' class='tag-link-20673045' title='7 topics' style='font-size: 13.874125874126pt;'>Development 2.0</a>
+<a href='http://ict4dblog.wordpress.com/tag/development-networks/' class='tag-link-38908914' title='3 topics' style='font-size: 10.937062937063pt;'>Development Networks</a>
+<a href='http://ict4dblog.wordpress.com/tag/development-studies/' class='tag-link-908613' title='1 topic' style='font-size: 8pt;'>Development Studies</a>
+<a href='http://ict4dblog.wordpress.com/tag/digital-divide/' class='tag-link-3285' title='1 topic' style='font-size: 8pt;'>Digital Divide</a>
+<a href='http://ict4dblog.wordpress.com/tag/e-government/' class='tag-link-33083' title='3 topics' style='font-size: 10.937062937063pt;'>e-Government</a>
+<a href='http://ict4dblog.wordpress.com/tag/east-africa/' class='tag-link-168816' title='1 topic' style='font-size: 8pt;'>East Africa</a>
+<a href='http://ict4dblog.wordpress.com/tag/enterprise-information-systems/' class='tag-link-1079413' title='1 topic' style='font-size: 8pt;'>Enterprise Information Systems</a>
+<a href='http://ict4dblog.wordpress.com/tag/fdi-india-idrc/' class='tag-link-12896321' title='1 topic' style='font-size: 8pt;'>FDI India IDRC</a>
+<a href='http://ict4dblog.wordpress.com/tag/gold-farming/' class='tag-link-1174636' title='3 topics' style='font-size: 10.937062937063pt;'>Gold Farming</a>
+<a href='http://ict4dblog.wordpress.com/tag/ict4d/' class='tag-link-205904' title='53 topics' style='font-size: 22pt;'>ict4d</a>
+<a href='http://ict4dblog.wordpress.com/tag/ict4d-conferences/' class='tag-link-15074045' title='1 topic' style='font-size: 8pt;'>ICT4D Conferences</a>
+<a href='http://ict4dblog.wordpress.com/tag/ict4d-expenditure/' class='tag-link-36967790' title='1 topic' style='font-size: 8pt;'>ICT4D Expenditure</a>
+<a href='http://ict4dblog.wordpress.com/tag/ict4d-history/' class='tag-link-36967809' title='2 topics' style='font-size: 9.7622377622378pt;'>ICT4D History</a>
+<a href='http://ict4dblog.wordpress.com/tag/ict4d-statistics/' class='tag-link-35471300' title='9 topics' style='font-size: 14.853146853147pt;'>ict4d statistics</a>
+<a href='http://ict4dblog.wordpress.com/tag/ict4d-theory/' class='tag-link-52212883' title='4 topics' style='font-size: 11.916083916084pt;'>ICT4D Theory</a>
+<a href='http://ict4dblog.wordpress.com/tag/ict4d-value-chain/' class='tag-link-48452336' title='1 topic' style='font-size: 8pt;'>ICT4D Value Chain</a>
+<a href='http://ict4dblog.wordpress.com/tag/ict-policy/' class='tag-link-146595' title='2 topics' style='font-size: 9.7622377622378pt;'>ICT Policy</a>
+<a href='http://ict4dblog.wordpress.com/tag/impact-assessment/' class='tag-link-336315' title='8 topics' style='font-size: 14.363636363636pt;'>Impact Assessment</a>
+<a href='http://ict4dblog.wordpress.com/tag/impact-sourcing/' class='tag-link-81408678' title='1 topic' style='font-size: 8pt;'>Impact Sourcing</a>
+<a href='http://ict4dblog.wordpress.com/tag/india/' class='tag-link-3054' title='3 topics' style='font-size: 10.937062937063pt;'>India</a>
+<a href='http://ict4dblog.wordpress.com/tag/information-chain/' class='tag-link-22798576' title='2 topics' style='font-size: 9.7622377622378pt;'>Information Chain</a>
+<a href='http://ict4dblog.wordpress.com/tag/it-industry/' class='tag-link-15137' title='3 topics' style='font-size: 10.937062937063pt;'>IT Industry</a>
+<a href='http://ict4dblog.wordpress.com/tag/journal-ranking/' class='tag-link-2690709' title='1 topic' style='font-size: 8pt;'>Journal ranking</a>
+<a href='http://ict4dblog.wordpress.com/tag/m-finance/' class='tag-link-191510' title='1 topic' style='font-size: 8pt;'>m-Finance</a>
+<a href='http://ict4dblog.wordpress.com/tag/m4d/' class='tag-link-15051807' title='10 topics' style='font-size: 15.244755244755pt;'>m4d</a>
+<a href='http://ict4dblog.wordpress.com/tag/mobiles/' class='tag-link-58636' title='5 topics' style='font-size: 12.699300699301pt;'>mobiles</a>
+<a href='http://ict4dblog.wordpress.com/tag/mountain-ict/' class='tag-link-39890040' title='1 topic' style='font-size: 8pt;'>Mountain ICT</a>
+<a href='http://ict4dblog.wordpress.com/tag/outsourcing/' class='tag-link-3970' title='3 topics' style='font-size: 10.937062937063pt;'>Outsourcing</a>
+<a href='http://ict4dblog.wordpress.com/tag/project-implementation/' class='tag-link-897362' title='2 topics' style='font-size: 9.7622377622378pt;'>Project Implementation</a>
+<a href='http://ict4dblog.wordpress.com/tag/researching-ict4d/' class='tag-link-27067095' title='11 topics' style='font-size: 15.636363636364pt;'>Researching ICT4D</a>
+<a href='http://ict4dblog.wordpress.com/tag/science-technology/' class='tag-link-1749' title='1 topic' style='font-size: 8pt;'>science &amp; technology</a>
+<a href='http://ict4dblog.wordpress.com/tag/socially-responsible-outsourcing/' class='tag-link-6419473' title='2 topics' style='font-size: 9.7622377622378pt;'>Socially-responsible outsourcing</a>
+<a href='http://ict4dblog.wordpress.com/tag/software-exports/' class='tag-link-2425851' title='1 topic' style='font-size: 8pt;'>Software Exports</a>
+<a href='http://ict4dblog.wordpress.com/tag/teaching-ict4d/' class='tag-link-67478127' title='1 topic' style='font-size: 8pt;'>Teaching ICT4D</a>
+<a href='http://ict4dblog.wordpress.com/tag/visualization/' class='tag-link-44111' title='3 topics' style='font-size: 10.937062937063pt;'>visualization</a>
+<a href='http://ict4dblog.wordpress.com/tag/west-africa/' class='tag-link-92899' title='1 topic' style='font-size: 8pt;'>West Africa</a></div></div><div id="archives-2" class="widget widget_archive"><h3>Archives</h3>		<ul>
+			<li><a href='http://ict4dblog.wordpress.com/2012/05/' title='May 2012'>May 2012</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2012/03/' title='March 2012'>March 2012</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/11/' title='November 2011'>November 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/10/' title='October 2011'>October 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/09/' title='September 2011'>September 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/08/' title='August 2011'>August 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/07/' title='July 2011'>July 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/06/' title='June 2011'>June 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/05/' title='May 2011'>May 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/04/' title='April 2011'>April 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/03/' title='March 2011'>March 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/02/' title='February 2011'>February 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2011/01/' title='January 2011'>January 2011</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/12/' title='December 2010'>December 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/11/' title='November 2010'>November 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/10/' title='October 2010'>October 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/09/' title='September 2010'>September 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/08/' title='August 2010'>August 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/07/' title='July 2010'>July 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/06/' title='June 2010'>June 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/05/' title='May 2010'>May 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/04/' title='April 2010'>April 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/03/' title='March 2010'>March 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/02/' title='February 2010'>February 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2010/01/' title='January 2010'>January 2010</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/12/' title='December 2009'>December 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/11/' title='November 2009'>November 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/10/' title='October 2009'>October 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/09/' title='September 2009'>September 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/08/' title='August 2009'>August 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/07/' title='July 2009'>July 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/06/' title='June 2009'>June 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/04/' title='April 2009'>April 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/03/' title='March 2009'>March 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2009/01/' title='January 2009'>January 2009</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2008/12/' title='December 2008'>December 2008</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2008/11/' title='November 2008'>November 2008</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2008/10/' title='October 2008'>October 2008</a></li>
+	<li><a href='http://ict4dblog.wordpress.com/2008/09/' title='September 2008'>September 2008</a></li>
+		</ul>
+</div>	</div>
+</div>
+<!-- sidebar END -->
+	<div class="fixed"></div>
+</div>
+<!-- content END -->
+
+<!-- footer START -->
+<div id="footer">
+	<a id="gotop" href="#" onclick="MGJS.goTop();return false;">Top</a>
+	<a id="powered" href="http://wordpress.com/">WordPress</a>
+	<div id="themeinfo">
+		<a href="http://wordpress.com/?ref=footer" rel="generator">Blog at WordPress.com</a>. Theme: <a href="http://theme.wordpress.com/themes/inove/" title="Learn more about this theme">INove</a> by <a href="http://www.neoease.com/" rel="designer">NeoEase</a>.	</div>
+</div>
+<!-- footer END -->
+
+</div>
+<!-- container END -->
+</div>
+<!-- wrap END -->
+
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?aa&#038;ver=3.5-alpha'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1318621548g'></script>
+
+<script type="text/javascript">
+var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":",language.en,type.wpcom,posttag.ict4d,posttag.ict4d-statistics,posttag.mobiles,posttag.visualization"};
+function wpcomQuantcastPixel( labels, options ) {
+	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };
+
+	labels  = labels  || '';
+	options = options || {};
+
+	if ( typeof labels != 'string' )
+		options = labels;
+
+	for ( i in defaults ) {
+		data[i] = defaults[i];
+	}
+
+	for ( i in options ) {
+		data[i] = options[i];
+	}
+
+	if ( data.labels ) {
+		data.labels += ',' + labels;
+	} else {
+		data.labels = labels;
+	}
+
+	_qevents.push( data );
+};
+(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })();
+_qevents.push( wpcomQuantcastData );
+</script>
+<noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=%2Clanguage.en%2Ctype.wpcom%2Cposttag.ict4d%2Cposttag.ict4d-statistics%2Cposttag.mobiles%2Cposttag.visualization" height="1" width="1" alt="" /></div></noscript>
+
+
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	(function($){
+		$(document).on( 'ready post-load', function() {
+
+			// Remove the login box when clicking the page
+			$( document ).mousedown( function( e ) {
+				if ( null == $( e.target ).closest( '#wpl-mustlogin' ).get( 0 ) ) {
+					$( '#wpl-mustlogin' ).remove();
+				}
+			});
+
+			// Handle clicking the like button itself
+			$('.wpl-button > a.like').click( function(e) {
+				e.preventDefault();
+
+				var postid = $(this).parent().attr('id').split('like-')[1];
+				$.post( 'http://ict4dblog.wordpress.com/wp-admin/admin-ajax.php', {
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_like_click'
+				} );
+
+				var tenMins = new Date();
+				tenMins.setTime( tenMins.getTime() + 600000 );
+				document.cookie = 'wpl_rand=3da875a3da; expires=' + tenMins.toGMTString() + '; domain=wordpress.com; path=/;';
+
+				$(this).parent().siblings('.wpl-count').after( '\
+					<div id="wpl-mustlogin"> \
+						<form action="https://ict4dblog.wordpress.com/wp-login.php" method="post"> \
+							<p>Just one more step to like this:</p> \
+							<label><span>Username</span> <input type="text" name="log" id="user_login" class="input" value="" size="20" tabindex="80" /></label> \
+							<label><span>Password</span> <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="81" /></label> \
+							<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" tabindex="82" /> \
+							<input type="hidden" name="postid" value="' + postid + '" /> \
+							<input type="hidden" name="redirect_to" value="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009?year=2010&monthnum=09&day=16&name=global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009&like=1" /> \
+							<input type="hidden" name="wpl_rand" value="3da875a3da" /> \
+							<p>Not a member yet? <a href="http://wordpress.com/signup/?ref=likebox" id="wpl-signup-link">Sign up with WordPress.com</a></p> \
+						</form> \
+					</div> \
+				');
+
+				$('#wpl-mustlogin').hide().slideDown('fast');
+			} );
+
+			$('#wpl-mustlogin input.input').live( 'focus', function() {
+				$(this).prev().hide();
+			}).live( 'blur', function() {
+				if ( $(this).val() == '' ) {
+					$(this).prev().show();
+				}
+			});
+
+			$('#wpl-mustlogin input#wp-submit').live( 'click', function(e) {
+				e.preventDefault();
+
+				$.post( 'http://ict4dblog.wordpress.com/wp-admin/admin-ajax.php', {
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_login_submit'
+				}, function() {
+					$('#wpl-mustlogin form').submit();
+				} );
+			});
+
+			$('#wpl-mustlogin a#wpl-signup-link').live( 'click', function(e) {
+				e.preventDefault();
+
+				var link = $(this).attr('href');
+
+				$.post( 'http://ict4dblog.wordpress.com/wp-admin/admin-ajax.php', {
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_signup_click'
+				}, function() {
+					location.href = link;
+				} );
+			});
+		})
+	})(jQuery);
+	/* ]]> */
+	</script>
+
+	<script type="text/javascript">
+		WPCOM_sharing_counts = {'http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/':'365'};
+	</script>
+	
+<script>jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });</script>	<div style="display:none">
+	</div>
+		<style type="text/css">
+			
+				.reblog-from img                   { margin: 0 10px 0 0; vertical-align: middle; padding: 0; border: 0; }
+				.reblogger-note img.avatar         { float: left; padding: 0; border: 0; }
+				.reblogger-note-content            { margin: 0 0 20px; }
+				.reblog-post .wpcom-enhanced-excerpt-content { border-left: 3px solid #eee; padding-left: 15px; }
+				.reblog-post ul.thumb-list         { display: block; list-style: none; margin: 2px 0; padding: 0; clear: both; }
+				.reblog-post ul.thumb-list li      { display: inline; margin: 0; padding: 0 1px; border: 0; }
+				.reblog-post ul.thumb-list li a    { margin: 0; padding: 0; border: 0; }
+				.reblog-post ul.thumb-list li img  { margin: 0; padding: 0; border: 0; }
+
+				.reblog-post .wpcom-enhanced-excerpt { clear: both; }
+
+				.reblog-post .wpcom-enhanced-excerpt address,
+				.reblog-post .wpcom-enhanced-excerpt li,
+				.reblog-post .wpcom-enhanced-excerpt h1,
+				.reblog-post .wpcom-enhanced-excerpt h2,
+				.reblog-post .wpcom-enhanced-excerpt h3,
+				.reblog-post .wpcom-enhanced-excerpt h4,
+				.reblog-post .wpcom-enhanced-excerpt h5,
+				.reblog-post .wpcom-enhanced-excerpt h6,
+				.reblog-post .wpcom-enhanced-excerpt p { font-size: 100% !important; }
+
+				.reblog-post .wpcom-enhanced-excerpt blockquote,
+				.reblog-post .wpcom-enhanced-excerpt pre,
+				.reblog-post .wpcom-enhanced-excerpt code,
+				.reblog-post .wpcom-enhanced-excerpt q { font-size: 98% !important; }
+					</style><script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"http:\/\/ict4dblog.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"http:\/\/ict4dblog.wordpress.com\/wp-login.php?action=logout&_wpnonce=9b0f14a346","homeURL":"http:\/\/ict4dblog.wordpress.com\/","postID":"365","gravDefault":"mystery","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/script.js?m=1340054924g'></script>
+	
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+			
+					<h3><label for="loggedout-follow-field">Follow &ldquo;ICTs for Development&rdquo;</label></h3>
+		
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+			
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 146 other followers</p>		
+			
+			<p><input type="text" name="email" style="width: 95%; padding: 1px 2px" value="Enter your email address" onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'  id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="4818703"/>
+			<input type="hidden" name="source" value="http://ict4dblog.wordpress.com/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="f390bc7172" /><input type="hidden" name="_wp_http_referer" value="/2010/09/16/global-ict-statistics-on-internet-usage-mobile-broadband-1998-2009/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="http://wordpress.com/signup/?ref=lof">Powered by WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+<script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/post-flair/sharing/sharing.js?m=1337969958g'></script>
+	<div id="sharing_email" style="display: none;">
+		<form action="" method="post">
+			<label for="target_email">Send to Email Address</label>
+			<input type="text" name="target_email" id="target_email" value="" />
+			
+			
+				<label for="source_name">Your Name</label>
+				<input type="text" name="source_name" id="source_name" value="" />
+				
+				<label for="source_email">Your Email Address</label>
+				<input type="text" name="source_email" id="source_email" value="" />
+
+						
+			<div class="recaptcha" id="sharing_recaptcha"></div>
+			<img style="float: right; display: none" class="loading" src="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g" alt="loading" width="16" height="16" />
+			<input type="submit" value="Send Email" class="sharing_send" />
+			<a href="#cancel" class="sharing_cancel">Cancel</a>
+			
+			<div class="errors errors-1" style="display: none;">
+				Post was not sent - check your email addresses!			</div>
+
+			<div class="errors errors-2" style="display: none;">
+				Email check failed, please try again			</div>
+			
+			<div class="errors errors-3" style="display: none;">
+				Sorry, your blog cannot share posts by email.			</div>
+		</form>
+	</div>
+		<script type="text/javascript" charset="utf-8">
+		jQuery(document).ready(function(){
+			jQuery( '.share-twitter' ).click(function(){
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+				<script type="text/javascript" charset="utf-8">
+		jQuery(document).ready(function(){
+			jQuery( '.share-facebook' ).click(function(){
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+		<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript">try{COMSCORE.beacon({c1:2,c2:7518284});}catch(e){}</script><noscript><p class="robots-nocontent"><img src="http://b.scorecardresearch.com/p?cj=1c1=2&#038;c2=7518284" alt="" style="display:none" width="1" height="1" /></p></noscript><script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'4818703','v':'wpcom','user_id':'0','post':'365','subd':'ict4dblog'});
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1oOHBqWkJdYy5wL35xRnR4SVtWLmluVHQrZ3JBRDNRaV9yeU4rX041RXBzU1FiayxfJjYsMDhLNmIrWEkxPVkwSzNZPVJ+V3NGTUNpQWhaN0ktW0liU28udEEla0I2cyZETlVYY1Ntemc/c1lxcnJSVWMmdW1XaGhqNF9TXWV0LUMtSndHT2o1N2w2bkIrRUlMJi56eUtjYmp0R250RmlnR1c9YWI1RmRCWUMvZUNzZHVSUzRPfjZka1toVXhTWFloJT9uRXlJZ0dCOVJWSXcyen5fUGR8TkhxMm4uLEQlcm9hWVksNTg3cHFyNmZdOFVZL0p+JWxKQUktRlV6ajRBLTNhQ2RXMFN0S3hBcTk3'});
+addLoadEvent(function(){linktracker_init('4818703',365);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+
+<script type="text/javascript">try{zoomImgs();setInterval(zoomImgs,1000);}catch(e){}</script>
+
+
+</body>
+</html>

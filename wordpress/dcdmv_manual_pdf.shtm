@@ -1,0 +1,16 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>District of Columbia: Department of Motor Vehicles - Information - Tickets &amp; Hearings - Tickets Payment</title>
+</head>
+
+<FRAMESET ROWS="43,1,*" border="0" frameborder="0" framespacing="0"> 
+	<FRAME src="/pdf/header.shtm" name="header" frameborder="0" scrolling="No" noresize marginwidth="0" marginheight="0" framespacing="0">
+	<FRAME src="/pdf/blank.shtm" name="blk2" frameborder="0" scrolling="Auto" noresize marginwidth="0" marginheight="0" framespacing="0">
+	<FRAMESET cols="160,*" border="0" frameborder="0" framespacing="0">
+		<FRAME src="/info/forms/nav.shtm" name="nav" frameborder="0" scrolling="No" noresize marginwidth="0" marginheight="0" framespacing="0">
+		<FRAME src="/info/forms/index_dcdmv_manual.shtm" name="win1" frameborder="0" scrolling="Auto" noresize marginwidth="0" marginheight="0" framespacing="0">
+	</FRAMESET>
+</FRAMESET><noframes></noframes>
+</html>

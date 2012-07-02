@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/cap2007.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Communicating Astronomy With The Public  - CAP2007</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Keywords" content="Hubble, Hubble Space Telescope, HST, JWST, James Webb Space Telescope, images, information centre, news, video, European Space Agency, ESA, ACS, WFPC2, WFPC, FOS, FOC, GHRS, NICMOS, STIS, FGS, goodies, wallpaper, calendar, posters">
+<!-- Possible values: home, news, about, science, images, videos, goodies, pressroom, exercises, links -->
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+<link href="/style/cap2007style.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/style/printstyle.css" rel="stylesheet" type="text/css" media="print" />
+<table align="center" width="842"><tr><td>
+<div class="header"> 
+        <div class="headerContent"> 
+          <form action="/search/htdig/bin/htsearch" method="get" name="SearchForm">
+		  	<input type="hidden" name="restrict" value="">
+			<input type="hidden" name="method" value="and"><!-- and, or--> 
+			<input type="hidden" name="format" value="builtin-long"><!-- builtin-long, builtin-short --> 
+			<input type="hidden" name="sort" value="score"><!-- score, time, title, revscore, revtime, revtitle -->
+			<input type="hidden" name="config" value="htdig-coas">
+			<input type="hidden" name="exclude" value="">
+			<input type="hidden" name="isexternal" value="0">
+            <table width="100%" border="0" cellpadding="2">
+              <tr> 
+                <td>&nbsp;<a href="/contact.html" class="headerlink">contact</a>&nbsp;</td>
+                <td>&nbsp;<a href="/sitemap.html" class="headerlink">site map</a> 
+                </td>
+                <td align="right"><input name="words" type="text" class="searchField" title="Enter your search text" size="10" /> 
+                  &nbsp; <input name="SendSearch" type="submit" value="Search" /></td>
+              </tr>
+            </table>
+          </form>
+        </div>
+      </div>
+      <div class="printheader"><img src="/design/topbar.jpg" width="841" height="127" class="noscreen" /></div>
+<div class="mainMenuArea">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/index.html" class="mainmenu">Home</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/history/index.html" class="mainmenu">History</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/organization/index.html" class="mainmenu">Organization</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/supporters/index.html" class="mainmenu">Supporters</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/workinggroups/index.html" class="mainmenu">Working Groups</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_selected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemselected"><a href="/meetings/index.html" class="mainmenu">Meetings</a></td>
+<td><img src="/design/menu_selected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/jobbank/index.html" class="mainmenu">Job Bank</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/iya2009/index.html" class="mainmenu">IYA 2009</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/training/index.html" class="mainmenu">Training</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/calendar/index.html" class="mainmenu">Calendar</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/links/index.html" class="mainmenu">Links</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+<!-- <td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/ga2006/" class="mainmenu">GA2006</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+
+<td><img src="/design/menu_unselected_left.gif" class="noprint" /></td>
+<td class="mainMenuItemunselected"><a href="/innovation2006/index.html" class="mainmenu">SpS2 GA2006</a></td>
+<td><img src="/design/menu_unselected_right.gif" class="noprint" /></td>
+-->
+
+</tr>
+</table>
+</div>
+<div class="mainarea">
+
+<table cellpadding="0" cellspacing="0" width="802">
+<tr>
+<td class="boxcorner"><img src="/design/boxtopleft.gif" class="noprint" /></td>
+<td class="boxtopcen"></td>
+<td class="boxcorner"><img src="/design/boxtopright.gif" class="noprint" /></td>
+<td width="20" rowspan="3">&nbsp;</td>
+<td class="boxcorner"><img src="/design/boxtopleft.gif" class="noprint" /></td>
+<td class="boxtopcen"></td>
+<td class="boxcorner"><img src="/design/boxtopright.gif" class="noprint" /></td>
+</tr>
+<tr> 
+<td class="boxmidleft"></td>
+<td class="boxmidcen" width="185">
+<!-- InstanceParam name="SelectedMenuItem" type="text" value="Cap2007" -->
+<a href="index.html" class="submenuHeadline">Cap 2007</a><br />
+&bull;&nbsp;<a href="purpose.html" class="submenuItem">Purpose and goals</a><br />
+&bull;&nbsp;<a href="impdates.html" class="submenuItem">Important dates</a><br />
+&bull;&nbsp;<a href="webcast.html" class="submenuItem">Webcast</a><br />
+&bull;&nbsp;<a href="programme.html" class="submenuItem">Programme</a><br />
+&bull;&nbsp;<a href="posters.html" class="submenuItem">Posters</a><br />
+&bull;&nbsp;<a href="oralpresentations.html" class="submenuItem">Oral Presentations</a><br />
+&bull;&nbsp;<a href="abstracts.html" class="submenuItem">Abstracts, Talks and Posters</a><br />
+&bull;&nbsp;<a href="specialmeetings.html" class="submenuItem">Special meetings</a><br />
+&bull;&nbsp;<a href="registration.html" class="submenuItem">Registration form</a><br />
+&bull;&nbsp;<a href="fees.html" class="submenuItem">Fees</a><br />
+&bull;&nbsp;<a href="accommodation.html" class="submenuItem">Accommodation</a><br />
+&bull;&nbsp;<a href="participants.html" class="submenuItem">Participants</a><br />
+&bull;&nbsp;<a href="access.html" class="submenuItem">Conference Venue </a><br />
+              &bull;&nbsp;<a href="info.html" class="submenuItem">Practical info</a><br />
+&bull;&nbsp;<a href="history.html" class="submenuItem">History</a><br />
+&bull;&nbsp;<a href="social.html" class="submenuItem">Social events</a><br />
+&bull;&nbsp;<a href="soc.html" class="submenuItem">SOC</a><br />
+&bull;&nbsp;<a href="loc.html" class="submenuItem">LOC</a><br />
+&bull;&nbsp;<a href="proceedings.html" class="submenuItem">Proceedings</a><br />
+&bull;&nbsp;<a href="mailinglist.html" class="submenuItem">Mailing list</a><br />
+&bull;&nbsp;<a href="image_exh.html" class="submenuItem">Image exhibition</a><br />
+&bull;&nbsp;<a href="firstannouncement.html" class="submenuItem">First announcement</a><br />
+&bull;&nbsp;<a href="secondannouncement.html" class="submenuItem">Second announcement</a><br />
+&bull;&nbsp;<a href="thirdannouncement.html" class="submenuItem">Third announcement </a><br /> 
+&bull;&nbsp;<a href="fourthannouncement.html" class="submenuItem">Fourth announcement </a><br />   
+&bull;&nbsp;<a href="fifthannouncement.html" class="submenuItem">Fifth announcement </a><br />   
+&bull;&nbsp;<a href="sixthannouncement.html" class="submenuItem">Sixth announcement </a><br />
+&bull;&nbsp;<a href="seventhannouncement.html" class="submenuItem">Seventh announcement </a><br />
+&bull;&nbsp;<a href="conferencephotos.html" class="submenuItem">Conference Photos</a><br />     
+&bull;&nbsp;<a href="mailto:%20cap2007@academyofathens.gr" class="submenuItem">Contact</a><br />  
+              </p> 
+
+</td>
+<td class="boxmidright"></td>
+<td class="boxmidleft"></td> 
+            <td class="boxmidcen">
+              <h1><!-- InstanceBeginEditable name="Headline" -->Communicating 
+                Astronomy with the Public 2007 (CAP 2007)<!-- InstanceEndEditable --></h1>
+              <!-- InstanceBeginEditable name="PageContent" --> 
+              <div align="center"> 
+                <p><strong>Athens, Greece, 8 - 11 October 2007</strong></p>
+                <p align="left"><strong>News</strong>: the conference proceedings are available online: [<a href="http://www.spacetelescope.org/about/further_information/books/html/cap2007_proceedings.html">Full Book</a>][<a href="http://www.communicatingastronomy.org/cap2007/proceedings.html">Individual Articles</a>]</p>
+                <p align="left">This conference was co-organized by the National Observatory of Athens and the Eugenides Planetarium<a href="programme.html"></a><strong><a href="programme.html"><br />
+                  </a></strong></p>
+                <p><a href="images/cap2007poster.pdf"><img src="images/cap2007poster_sm.jpg" width="300" height="424" border="0" /></a></p>
+                <p>&nbsp;</p>
+                <p><br />
+              </p>
+              </div>
+              <p align="center"><br />
+              </p>
+              <!-- InstanceEndEditable -->
+</td>
+<td class="boxmidright"></td>
+</tr>
+<tr>
+<td class="boxcorner"><img src="/design/boxbotleft.gif" class="noprint" /></td>
+<td class="boxbotcen"></td>
+<td class="boxcorner"><img src="/design/boxbotright.gif" class="noprint" /></td>
+<td class="boxcorner"><img src="/design/boxbotleft.gif" class="noprint" /></td>
+<td class="boxbotcen"></td>
+<td class="boxcorner"><img src="/design/boxbotright.gif" class="noprint" /></td>
+</tr>
+</table>
+
+<img height="1" width="802" src="/design/trans.gif" />
+</div>
+<div class="mainend"><img src="/design/mainend.gif" /></div>
+      <div align="center" class="copyright"><a href="http://www.iau.org">IAU</a> 
+        2007 </div>
+</td></tr></table>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,1105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Metadata - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.20wmf5" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Metadata&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Metadata&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.teahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d5a1bf6cbd05fc6cc2705e47f52062dc */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Metadata","wgTitle":"Metadata","wgCurRevisionId":500203656,"wgArticleId":18933632,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2010","Articles with dead external links from December 2011","Wikipedia indefinitely move-protected pages","Vague or ambiguous time from February 2011","Articles needing additional references from June 2010","All articles needing additional references","Data management","Knowledge representation","Library cataloging and classification","Metadata","Technical communication"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Metadata","wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgSearchNamespaces":[0],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"fd3922e396402d3bab8469a3ac1d9624","wgArticleFeedbackv5Permissions":{"oversighter":false,"moderator":false,"editor":false},"wikilove-recipient":"","wikilove-edittoken":"+\\","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Whitelist":false});
+}</script><script type="text/javascript">if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:15f947b8a5d6ceebd1f399c3a1526c80 */
+}</script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.20wmf5/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Metadata skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Metadata</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="dablink">For the page on metadata about Wikipedia, see <a href="/wiki/Wikipedia:Metadata" title="Wikipedia:Metadata">Wikipedia:Metadata</a>.</div>
+<p>The term <b>metadata</b> is an ambiguous term which is used for two fundamentally different concepts (<a href="#Metadata_types">types</a>). Although the expression "data about data" is often used, it does not apply to both in the same way. Structural metadata, the design and specification of data structures, cannot be about data, because at design time the application contains no data. In this case the correct description would be "data about the containers of data". Descriptive metadata, on the other hand, is about individual instances of application data, the data content. In this case, a useful description (resulting in a disambiguating <a href="/wiki/Neologism" title="Neologism">neologism</a>) would be "data about data content" or "content about content" thus <a href="/wiki/Meta_Content_Framework" title="Meta Content Framework">metacontent</a>. Descriptive, Guide and the <a href="/wiki/National_Information_Standards_Organization" title="National Information Standards Organization">National Information Standards Organization</a> concept of administrative metadata are all subtypes of metacontent.</p>
+<p>Metadata (metacontent) is traditionally found in the <a href="/wiki/Library_catalog" title="Library catalog">card catalogs</a> of <a href="/wiki/Library" title="Library">libraries</a>. As information has become increasingly digital, metadata is also used to describe digital data using <a href="/wiki/Metadata_standards" title="Metadata standards">metadata standards</a> specific to a particular discipline. By describing the <a href="/wiki/Content_(media)" title="Content (media)">contents</a> and <a href="/wiki/Context_(computing)" title="Context (computing)">context</a> of <a href="/wiki/Computer_file" title="Computer file">data files</a>, the quality of the original data/files is greatly increased. For example, a <a href="/wiki/Webpage" title="Webpage" class="mw-redirect">webpage</a> may include metadata specifying what language it's written in, what tools were used to create it, and where to go for more on the subject, allowing browsers to automatically improve the experience of users.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Libraries"><span class="tocnumber">1.1</span> <span class="toctext">Libraries</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Photographs"><span class="tocnumber">1.2</span> <span class="toctext">Photographs</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Video"><span class="tocnumber">1.3</span> <span class="toctext">Video</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Web_pages"><span class="tocnumber">1.4</span> <span class="toctext">Web pages</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Creation_of_metadata"><span class="tocnumber">1.5</span> <span class="toctext">Creation of metadata</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Metadata_types"><span class="tocnumber">2</span> <span class="toctext">Metadata types</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Metadata_structures"><span class="tocnumber">3</span> <span class="toctext">Metadata structures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Metadata_syntax"><span class="tocnumber">3.1</span> <span class="toctext">Metadata syntax</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Hierarchical.2C_linear_and_planar_schemata"><span class="tocnumber">3.2</span> <span class="toctext">Hierarchical, linear and planar schemata</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Metadata_hypermapping"><span class="tocnumber">3.3</span> <span class="toctext">Metadata hypermapping</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Granularity"><span class="tocnumber">3.4</span> <span class="toctext">Granularity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Metadata_standards"><span class="tocnumber">4</span> <span class="toctext">Metadata standards</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Metadata_usage"><span class="tocnumber">5</span> <span class="toctext">Metadata usage</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Data_Virtualization"><span class="tocnumber">5.1</span> <span class="toctext">Data Virtualization</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#SVN_Checkout_Metadata"><span class="tocnumber">5.2</span> <span class="toctext">SVN Checkout Metadata</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Statistics_and_census_services"><span class="tocnumber">5.3</span> <span class="toctext">Statistics and census services</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Library_and_information_science"><span class="tocnumber">5.4</span> <span class="toctext">Library and information science</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Metadata_and_the_law"><span class="tocnumber">5.5</span> <span class="toctext">Metadata and the law</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#United_States"><span class="tocnumber">5.5.1</span> <span class="toctext">United States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-21"><a href="#Metadata_in_healthcare"><span class="tocnumber">5.6</span> <span class="toctext">Metadata in healthcare</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Metadata_and_data_warehousing"><span class="tocnumber">5.7</span> <span class="toctext">Metadata and data warehousing</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Metadata_on_the_Internet"><span class="tocnumber">5.8</span> <span class="toctext">Metadata on the Internet</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Metadata_on_the_broadcast_industry"><span class="tocnumber">5.9</span> <span class="toctext">Metadata on the broadcast industry</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Geospatial_metadata"><span class="tocnumber">5.10</span> <span class="toctext">Geospatial metadata</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Ecological_.26_environmental_metadata"><span class="tocnumber">5.11</span> <span class="toctext">Ecological &amp; environmental metadata</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Metadata_on"><span class="tocnumber">5.12</span> <span class="toctext">Metadata on</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Cloud_applications"><span class="tocnumber">5.13</span> <span class="toctext">Cloud applications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Metadata_administration_and_management"><span class="tocnumber">6</span> <span class="toctext">Metadata administration and management</span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="#Metadata_storage"><span class="tocnumber">6.1</span> <span class="toctext">Metadata storage</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Database_management"><span class="tocnumber">6.2</span> <span class="toctext">Database management</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a>]</span> <span class="mw-headline" id="Definition">Definition</span></h2>
+<p>Metadata (metacontent) is defined as data providing information about one or more aspects of the data, such as:</p>
+<ul>
+<li>Means of creation of the data</li>
+<li>Purpose of the data</li>
+<li>Time and date of creation</li>
+<li>Creator or author of data</li>
+<li>Location on a <a href="/wiki/Computer_network" title="Computer network">computer network</a> where the data was created</li>
+<li><a href="/wiki/Technical_standard" title="Technical standard">Standards</a> used</li>
+</ul>
+<p>For example, a <a href="/wiki/Digital_image" title="Digital image">digital image</a> may include metadata that describes how large the picture is, the color depth, the image resolution, when the image was created, and other data. A text document's metadata may contain information about how long the document is, who the author is, when the document was written, and a short summary of the document.</p>
+<p>Metadata is data. As such, metadata can be stored and managed in a <a href="/wiki/Database" title="Database">database</a>, often called a <a href="/wiki/Metadata_registry" title="Metadata registry">Metadata registry</a> or <a href="/wiki/Metadata_repository" title="Metadata repository">Metadata repository</a>.<sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup> However, without context and a point of reference, it can be impossible to identify metadata just by looking at it.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> For example: by itself, a database containing several numbers, all 13 digits long could be the results of calculations or a list of numbers to plug into an equation - without any other context, the numbers themselves can be perceived as the data. But if given the context that this database is a log of a book collection, those 13-digit numbers may now be <a href="/wiki/ISBN" title="ISBN" class="mw-redirect">ISBNs</a> - information that refers to the book, but is not itself the information within the book.</p>
+<p>The term "metadata" was coined in 1968 by Philip Bagley, in his book "Extension of programming language concepts" <sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>3<span>]</span></a></sup> where it is clear that he uses the term in the ISO 11179 "traditional" sense, which is "structural metadata" i.e. "data about the containers of data"; rather than the alternate sense "content about individual instances of data content" or metacontent, the type of data usually found in library catalogues.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>5<span>]</span></a></sup> Since then the fields of information management, information science, information technology, librarianship and GIS have widely adopted the term. In these fields the word metadata is defined as "data about data".<sup id="cite_ref-NISO_5-0" class="reference"><a href="#cite_note-NISO-5"><span>[</span>6<span>]</span></a></sup> While this is the generally accepted definition, various disciplines have adopted their own more specific explanation and uses of the term.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=2" title="Edit section: Libraries">edit</a>]</span> <span class="mw-headline" id="Libraries">Libraries</span></h3>
+<p>Metadata has been used in various forms as a means of cataloging archived information. The <a href="/wiki/Dewey_Decimal_System" title="Dewey Decimal System" class="mw-redirect">Dewey Decimal System</a> employed by libraries for the classification of library materials is an early example of metadata usage. Library catalogues used 3x5 inch cards to display a book's title, author, subject matter, and a brief plot synopsis along with an abbreviated <a href="/wiki/Alphanumeric" title="Alphanumeric">alpha-numeric</a> identification system which indicated the physical location of the book within the library's shelves. Such data helps classify, aggregate, identify, and locate a particular book. Another form of older metadata collection is the use by US Census Bureau of what is known as the "Long Form." The Long Form asks questions that are used to create demographic data to create patterns and to find patterns of distribution.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup> For the purposes of this article, an "object" refers to any of the following:</p>
+<ul>
+<li>A physical item such as a book, CD, DVD, map, chair, table, flower pot, etc.</li>
+<li>An electronic file such as a digital image, digital photo, document, program file, database table, etc.</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=3" title="Edit section: Photographs">edit</a>]</span> <span class="mw-headline" id="Photographs">Photographs</span></h3>
+<p>Metadata may be written into a digital photo file that will identify who owns it, copyright &amp; contact information, what camera created the file, along with exposure information and descriptive information such as keywords about the photo, making the file searchable on the computer and/or the Internet. Some metadata is written by the camera and some is input by the photographer and/or software after downloading to a computer. However, not all digital cameras enable you to edit metadata;<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup> this functionality has been available on most Nikon DSLRs since the <a href="/wiki/Nikon_D3" title="Nikon D3">Nikon D3</a> and on most new Canon cameras since the <a href="/wiki/Canon_EOS_7D" title="Canon EOS 7D">Canon EOS 7D</a>.</p>
+<p>Photographic Metadata Standards are governed by organizations that develop the following standards. They include, but are not limited to:</p>
+<ul>
+<li><a href="/wiki/IPTC_Information_Interchange_Model" title="IPTC Information Interchange Model">IPTC Information Interchange Model</a> IIM (International Press Telecommunications Council),</li>
+<li>IPTC Core Schema for XMP</li>
+<li><a href="/wiki/Extensible_Metadata_Platform" title="Extensible Metadata Platform">XMP</a> – Extensible Metadata Platform (an Adobe standard)</li>
+<li><a href="/wiki/Exif" title="Exif" class="mw-redirect">Exif</a> – Exchangeable image file format, Maintained by CIPA (Camera &amp; Imaging Products Association) and published by JEITA (Japan Electronics and Information Technology Industries Association)</li>
+<li><a href="/wiki/Dublin_Core" title="Dublin Core">Dublin Core</a> (Dublin Core Metadata Initiative – DCMI)</li>
+<li>PLUS (Picture Licensing Universal System).</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=4" title="Edit section: Video">edit</a>]</span> <span class="mw-headline" id="Video">Video</span></h3>
+<p>Metadata is particularly useful in video, where information about its contents (such as transcripts of conversations and text descriptions of its scenes) are not directly understandable by a computer, but where efficient search is desirable.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=5" title="Edit section: Web pages">edit</a>]</span> <span class="mw-headline" id="Web_pages">Web pages</span></h3>
+<p>Web pages often include metadata in the form of <a href="/wiki/Meta_element" title="Meta element">meta tags</a>. Description and keywords meta tags are commonly used to describe the Web page's content. Most search engines use this data when adding pages to their search index.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=6" title="Edit section: Creation of metadata">edit</a>]</span> <span class="mw-headline" id="Creation_of_metadata">Creation of metadata</span></h3>
+<p>Metadata can be created either by automated information processing or by manual work. Elementary metadata captured by computers can include information about when a file was created, who created it, when it was last updated, file size and file extension.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=7" title="Edit section: Metadata types">edit</a>]</span> <span class="mw-headline" id="Metadata_types">Metadata types</span></h2>
+<p>The metadata application is manyfold covering a large variety of fields of application there are nothing but specialised and well accepted models to specify types of metadata. Bretheron &amp; Singley (1994) distinguish between two distinct classes: structural/control metadata and guide metadata.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup> <b>Structural metadata</b> is used to describe the structure of computer systems such as tables, columns and indexes. <b>Guide metadata</b> is used to help humans find specific items and is usually expressed as a set of keywords in a natural language. According to <a href="/wiki/Ralph_Kimball" title="Ralph Kimball">Ralph Kimball</a> metadata can be divided into 2 similar categories—Technical metadata and Business metadata. <b>Technical metadata</b> correspond to internal metadata, <i>business metadata</i> to external metadata. Kimball adds a third category named <b>Process metadata</b>. On the other hand, NISO distinguishes between three types of metadata: descriptive, structural and administrative.<sup id="cite_ref-NISO_5-1" class="reference"><a href="#cite_note-NISO-5"><span>[</span>6<span>]</span></a></sup> <b>Descriptive metadata</b> is the information used to search and locate an object such as title, author, subjects, keywords, publisher; <b>structural metadata</b> gives a description of how the components of the object are organised; and <b>administrative metadata</b> refers to the technical information including file type. Two sub-types of administrative metadata are rights management metadata and <a href="/wiki/Preservation_metadata" title="Preservation metadata">preservation metadata</a>.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=8" title="Edit section: Metadata structures">edit</a>]</span> <span class="mw-headline" id="Metadata_structures">Metadata structures</span></h2>
+<p>Metadata (metacontent), or more correctly, the vocabularies used to assemble metadata (metacontent) statements, is typically structured according to a standardized concept using a well-defined metadata scheme, including: <a href="/wiki/Metadata_standards" title="Metadata standards">metadata standards</a> and <a href="/wiki/Metadata_modeling" title="Metadata modeling">metadata models</a>. Tools such as <a href="/wiki/Controlled_vocabulary" title="Controlled vocabulary">controlled vocabularies</a>, <a href="/wiki/Taxonomy" title="Taxonomy">taxonomies</a>, <a href="/wiki/Thesauri" title="Thesauri" class="mw-redirect">thesauri</a>, <a href="/wiki/Data_Dictionary" title="Data Dictionary" class="mw-redirect">data dictionaries</a> and <a href="/wiki/Metadata_registry" title="Metadata registry">metadata registries</a> can be used to apply further standardization to the metadata. Structural metadata commonality is also of paramount importance in <a href="/wiki/Data_model" title="Data model">data model</a> development and in <a href="/wiki/Database_design" title="Database design">database design</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=9" title="Edit section: Metadata syntax">edit</a>]</span> <span class="mw-headline" id="Metadata_syntax">Metadata syntax</span></h3>
+<p>Metadata (metacontent) syntax refers to the rules created to structure the fields or elements of metadata (metacontent).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup> A single metadata scheme may be expressed in a number of different markup or programming languages, each of which requires a different syntax. For example, Dublin Core may be expressed in plain text, <a href="/wiki/HTML" title="HTML">HTML</a>, <a href="/wiki/XML" title="XML">XML</a> and <a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup></p>
+<p>A common example of (guide) metacontent is the bibliographic classification, the subject, the <a href="/wiki/List_of_Dewey_Decimal_classes" title="List of Dewey Decimal classes">Dewey Decimal class number</a>. There is always an implied statement in any "classification" of some object. To classify an object as, for example, Dewey class number 514 (Topology) (i.e. books having the number 514 on their spine) the implied statement is: "&lt;book&gt;&lt;subject heading&gt;&lt;514&gt;. This is a subject-predicate-object triple, or more importantly, a class-attribute-value triple. The first two elements of the triple (class, attribute) are pieces of some structural metadata having a defined semantic. The third element is a value, preferably from some controlled vocabulary, some reference (master) data. The combination of the metadata and master data elements results in a statement which is a metacontent statement i.e. "metacontent = metadata + master data". All these elements can be thought of as "vocabulary". Both metadata and master data are vocabularies which can be assembled into metacontent statements. There are many sources of these vocabularies, both meta and master data: UML, EDIFACT, XSD, Dewey/UDC/LoC, SKOS, ISO-25964, Pantone, Linnaean Binomial Nomenclature etc. Using controlled vocabularies for the components of metacontent statements, whether for indexing or finding, is endorsed by <a rel="nofollow" class="external text" href="http://www-personal.umich.edu/~kdow/ISO_CD_25964-1(E).pdf">ISO-25964</a>: "If both the indexer and the searcher are guided to choose the same term for the same concept, then relevant documents will be retrieved." This is particularly relevant when considering that the behemoth of the internet, Google, is simply indexing then matching text strings, there is no intelligence or "inferencing" occurring.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=10" title="Edit section: Hierarchical, linear and planar schemata">edit</a>]</span> <span class="mw-headline" id="Hierarchical.2C_linear_and_planar_schemata">Hierarchical, linear and planar schemata</span></h3>
+<p>Metadata schema can be hierarchical in nature where relationships exist between metadata elements and elements are nested so that parent-child relationships exist between the elements. An example of a hierarchical metadata schema is the <a href="/wiki/Learning_object_metadata" title="Learning object metadata">IEEE LOM</a> schema where metadata elements may belong to a parent metadata element. Metadata schema can also be one dimensional, or linear, where each element is completely discrete from other elements and classified according to one dimension only. An example of a linear metadata schema is <a href="/wiki/Dublin_Core_Metadata_Initiative" title="Dublin Core Metadata Initiative" class="mw-redirect">Dublin Core</a> schema which is one dimensional. Metadata schema are often two dimensional, or planar, where each element is completely discrete from other elements but classified according to two orthogonal dimensions.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=11" title="Edit section: Metadata hypermapping">edit</a>]</span> <span class="mw-headline" id="Metadata_hypermapping">Metadata hypermapping</span></h3>
+<p>In all cases where the metadata schemata exceed the planar depiction, some type of <a href="/w/index.php?title=Hypermap&amp;action=edit&amp;redlink=1" class="new" title="Hypermap (page does not exist)">hypermapping</a> is required to enable display and view of metadata according to chosen aspect and to serve special views. Hypermapping frequently applies to layering of geographical and geological information overlays.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=12" title="Edit section: Granularity">edit</a>]</span> <span class="mw-headline" id="Granularity">Granularity</span></h3>
+<p>Granularity is a term that applies to data as well as to metadata. The degree to which metadata is structured is referred to as its <a href="/wiki/Granularity#Data_granularity" title="Granularity">granularity</a>. Metadata with a high granularity allows for deeper structured information and enables greater levels of technical manipulation however, a lower level of granularity means that metadata can be created for considerably lower costs but will not provide as detailed information. The major impact of granularity is not only on creation and capture, but moreover on maintenance. As soon as the metadata structures get outdated, the access to the referred data will get outdated. Hence granularity shall take into account the effort to create as well as the effort to maintain.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=13" title="Edit section: Metadata standards">edit</a>]</span> <span class="mw-headline" id="Metadata_standards">Metadata standards</span></h2>
+<p>International standards apply to metadata. Much work is being accomplished in the national and international standards communities, especially <a href="/wiki/ANSI" title="ANSI" class="mw-redirect">ANSI</a> (American National Standards Institute) and <a href="/wiki/ISO" title="ISO" class="mw-redirect">ISO</a> (International Organization for Standardization) to reach consensus on standardizing metadata and registries.</p>
+<p>The core standard is <a href="/wiki/ISO" title="ISO" class="mw-redirect">ISO</a>/<a href="/wiki/International_Electrotechnical_Commission" title="International Electrotechnical Commission">IEC</a> 11179-1:2004 <sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup> and subsequent standards (see <a href="/wiki/ISO/IEC_11179" title="ISO/IEC 11179">ISO/IEC 11179</a>). All yet published registrations according to this standard cover just the definition of metadata and do not serve the structuring of metadata storage or retrieval neither any administrative standardisation. It is important to note that this standard refers to metadata as data about containers of data and not to metadata (metacontent) as data about data contents. It should also be noted that this standard describes itself originally as a "data element" registry, describing disembodied data elements, and explicitly disavows the capability of containing complex structures. Thus the original term "data element" is more applicable than the later applied buzzword "metadata".</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=14" title="Edit section: Metadata usage">edit</a>]</span> <span class="mw-headline" id="Metadata_usage">Metadata usage</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=15" title="Edit section: Data Virtualization">edit</a>]</span> <span class="mw-headline" id="Data_Virtualization">Data Virtualization</span></h3>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Data_Virtualization" title="Data Virtualization" class="mw-redirect">Data Virtualization</a></div>
+<p>Data Virtualization has emerged as the new software technology to complete the virtualization stack in the enterprise. Metadata is used in Data Virtualization servers which are enterprise infrastructure components, alongside Database and Application servers. Metadata in these servers is saved as persistent repository and describes business objects in various enterprise systems and applications. Structural metadata commonality is also important to support data virtualization.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=16" title="Edit section: SVN Checkout Metadata">edit</a>]</span> <span class="mw-headline" id="SVN_Checkout_Metadata">SVN Checkout Metadata</span></h3>
+<p>.SVN hidden files created in the web root folder which can reveal crucial information of the code repositories.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=17" title="Edit section: Statistics and census services">edit</a>]</span> <span class="mw-headline" id="Statistics_and_census_services">Statistics and census services</span></h3>
+<p>Standardization work has had a large impact on efforts to build metadata systems in the statistical community. Several metadata standards are described, and their importance to statistical agencies is discussed. Applications of the standards at the Census Bureau, Environmental Protection Agency, Bureau of Labor Statistics, Statistics Canada, and many others are described. Emphasis is on the impact a metadata registry can have in a statistical agency.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=18" title="Edit section: Library and information science">edit</a>]</span> <span class="mw-headline" id="Library_and_information_science">Library and information science</span></h3>
+<p><a href="/wiki/Library" title="Library">Libraries</a> employ metadata in <a href="/wiki/Library_catalog" title="Library catalog">library catalogues</a>, most commonly as part of an <a href="/wiki/Library_management_system" title="Library management system">Integrated Library Management System</a>. Metadata is obtained by <a href="/wiki/Library_cataloguing#Cataloging_rules" title="Library cataloguing" class="mw-redirect">cataloguing</a> resources such as books, periodicals, DVDs, web pages or digital images. This data is stored in the integrated library management system, <a href="/wiki/Library_management_system" title="Library management system">ILMS</a>, using the <a href="/wiki/MARC_standards" title="MARC standards">MARC</a> metadata standard. The purpose is to direct patrons to the physical or electronic location of items or areas they seek as well as to provide a description of the item/s in question.</p>
+<p>More recent and specialized instances of library metadata include the establishment of <a href="/wiki/Digital_library" title="Digital library">digital libraries</a> including <a href="/wiki/Eprint" title="Eprint">e-print</a> repositories and digital image libraries. While often based on library principles the focus on non-librarian use, especially in providing metadata means they do not follow traditional or common cataloging approaches. Given the custom nature of included materials metadata fields are often specially created e.g. taxonomic classification fields, location fields, keywords or copyright statement. Standard file information such as file size and format are usually automatically included.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup></p>
+<p>Standardization for library operation has been a key topic in international standardization (<a href="/wiki/ISO" title="ISO" class="mw-redirect">ISO</a>) for decades. Standards for metadata in digital libraries include <a href="/wiki/Dublin_Core" title="Dublin Core">Dublin Core</a>, <a href="/wiki/METS" title="METS">METS</a>, <a href="/wiki/Metadata_Object_Description_Schema" title="Metadata Object Description Schema">MODS</a>, <a href="/wiki/Data_Documentation_Initiative" title="Data Documentation Initiative">DDI</a>, <a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier" class="mw-redirect">ISO standard Digital Object Identifier (DOI)</a>, <a href="/wiki/Uniform_Resource_Name" title="Uniform Resource Name" class="mw-redirect">ISO standard Uniform Resource Name (URN)</a>, <a href="/wiki/Preservation_Metadata:_Implementation_Strategies_(PREMIS)" title="Preservation Metadata: Implementation Strategies (PREMIS)">PREMIS</a> schema, <a href="/wiki/Ecological_Metadata_Language" title="Ecological Metadata Language">Ecological Metadata Language</a>, and <a href="/wiki/Open_Archives_Initiative_Protocol_for_Metadata_Harvesting" title="Open Archives Initiative Protocol for Metadata Harvesting">OAI-PMH</a>. Leading libraries in the world give hints on their metadata standards strategies.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=19" title="Edit section: Metadata and the law">edit</a>]</span> <span class="mw-headline" id="Metadata_and_the_law">Metadata and the law</span></h3>
+<h4><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=20" title="Edit section: United States">edit</a>]</span> <span class="mw-headline" id="United_States">United States</span></h4>
+<p>Problems involving metadata in <a href="/wiki/Litigation" title="Litigation" class="mw-redirect">litigation</a> in the <a href="/wiki/United_States" title="United States">United States</a> are becoming widespread.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style_(dates_and_numbers)#Chronological_items" title="Wikipedia:Manual of Style (dates and numbers)" class="mw-redirect"><span title="The time period in the vicinity of this tag is ambiguous from February 2011">when?</span></a></i>]</sup> Courts have looked at various questions involving metadata, including the discoverability of metadata by parties. Although the Federal Rules of Civil Procedure have only specified rules about electronic documents, subsequent case law has elaborated on the requirement of parties to reveal metadata.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup> In October 2009, the <a href="/wiki/Arizona_Supreme_Court" title="Arizona Supreme Court">Arizona Supreme Court</a> has ruled that metadata records are public record.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup></p>
+<p>Document Metadata has proven particularly important in legal environments in which litigation has requested metadata, which can include sensitive information detrimental to a party in court.</p>
+<p>Using <a href="/wiki/Metadata_removal_tool" title="Metadata removal tool">metadata removal tools</a> to "clean" documents can mitigate the risks of unwittingly sending sensitive data. This process partially (see <a href="/wiki/Data_remanence" title="Data remanence">Data remanence</a>) protects law firms from potentially damaging leaking of sensitive data through <a href="/wiki/Electronic_Discovery" title="Electronic Discovery" class="mw-redirect">Electronic Discovery</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=21" title="Edit section: Metadata in healthcare">edit</a>]</span> <span class="mw-headline" id="Metadata_in_healthcare">Metadata in healthcare</span></h3>
+<p>Australian researches in medicine started a lot of metadata definition for applications in health care. That approach offers the first recognized attempt to adhere to international standards in medical sciences instead of defining a proprietary standard under the WHO umbrella first.</p>
+<p>The medical community yet did not approve the need to follow metadata standards despite respective research.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=22" title="Edit section: Metadata and data warehousing">edit</a>]</span> <span class="mw-headline" id="Metadata_and_data_warehousing">Metadata and data warehousing</span></h3>
+<p><a href="/wiki/Data_warehouse" title="Data warehouse">Data warehouse</a> (DW) is a repository of an organization's electronically stored data. Data warehouses are designed to manage and store the data whereas the <a href="/wiki/Business_Intelligence" title="Business Intelligence" class="mw-redirect">Business Intelligence</a> (BI) focuses on the usage of data to facilitate reporting and analysis.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup></p>
+<p>The purpose of a data warehouse is to house standardized, structured, consistent, integrated, correct, cleansed and timely data, extracted from various operational systems in an organization. The extracted data is integrated in the <a href="/wiki/Data_warehouse" title="Data warehouse">data warehouse</a> environment in order to provide an enterprise wide perspective, one version of the truth. Data is structured in a way to specifically address the reporting and analytic requirements. The design of structural metadata commonality using a <a href="/wiki/Data_modeling" title="Data modeling">data modeling</a> method such as <a href="/wiki/Entity_relationship_model" title="Entity relationship model" class="mw-redirect">entity relationship model</a> diagraming is very important in any data warehouse development effort.</p>
+<p>An essential component of a <a href="/wiki/Data_warehouse" title="Data warehouse">data warehouse</a>/<a href="/wiki/Business_intelligence" title="Business intelligence">business intelligence</a> system is the metadata and tools to manage and retrieve metadata. <a href="/wiki/Ralph_Kimball" title="Ralph Kimball">Ralph Kimball</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup> describes metadata as the DNA of the data warehouse as metadata defines the elements of the <a href="/wiki/Data_warehouse" title="Data warehouse">data warehouse</a> and how they work together.</p>
+<p><a href="/wiki/Ralph_Kimball" title="Ralph Kimball">Kimball</a> et al.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup> refers to three main categories of metadata: Technical metadata, business metadata and process metadata. Technical metadata is primarily <a href="/wiki/Definitional" title="Definitional" class="mw-redirect">definitional</a> while business metadata and process metadata are primarily descriptive. Keep in mind that the categories sometimes overlap.</p>
+<ul>
+<li><b>Technical metadata</b> defines the objects and processes in a DW/BI system, as seen from a technical point of view. The technical metadata includes the system metadata which defines the data structures such as: Tables, fields, data types, indexes and partitions in the relational engine, and databases, dimensions, measures, and data mining models. Technical metadata defines the data model and the way it is displayed for the users, with the reports, schedules, distribution lists and user security rights.</li>
+</ul>
+<ul>
+<li><b>Business metadata</b> is content from the data warehouse described in more user-friendly terms. The business metadata tells you what data you have, where it comes from, what it means and what its relationship is to other data in the data warehouse. Business metadata may also serves as documentation for the DW/BI system. Users who browse the data warehouse are primarily viewing the business metadata.</li>
+</ul>
+<ul>
+<li><b>Process metadata</b> is used to describe the results of various operations in the data warehouse. Within the <a href="/wiki/Extract,_transform,_load" title="Extract, transform, load">ETL</a> process all key data from tasks are logged on execution. This includes start time, end time, CPU seconds used, disk reads, disk writes and rows processed. When troubleshooting the ETL or <a href="/wiki/Information_retrieval" title="Information retrieval">query</a> process, this sort of data becomes valuable. Process metadata is the fact measurement when building and using a DW/BI system. Some organizations make a living out of collecting and selling this sort of data to companies - in that case the process metadata becomes the business metadata for the fact and dimension tables. Process metadata is in interest of business people who can use the data to identify the users of their products, which products they are using and what level of service they are receiving.</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=23" title="Edit section: Metadata on the Internet">edit</a>]</span> <span class="mw-headline" id="Metadata_on_the_Internet">Metadata on the Internet</span></h3>
+<p>The <a href="/wiki/HTML" title="HTML">HTML</a> format used to define web pages allows for the inclusion of a variety of types of metadata, from basic descriptive text, dates and keywords to further advanced metadata schemes such as the <a href="/wiki/Dublin_Core" title="Dublin Core">Dublin Core</a>, <a href="/wiki/E-GMS" title="E-GMS">e-GMS</a>, and AGLS<sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup> standards. Pages can also be <a href="/wiki/Geotagging" title="Geotagging">geotagged</a> with <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">coordinates</a>. Metadata may be included in the page's header or in a separate file. <a href="/wiki/Microformat" title="Microformat">Microformats</a> allow metadata to be added to on-page data in a way that users do not see, but computers can readily access.</p>
+<p>Interestingly, many search engines are cautious about using metadata in their ranking algorithms due to exploitation of metadata and the practice of search engine optimization, <a href="/wiki/Search_engine_optimization" title="Search engine optimization">SEO</a>, to improve rankings. See <a href="/wiki/Meta_element" title="Meta element">Meta element</a> article for further discussion. Studies show that search engines respond to web pages with metadata implementations.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=24" title="Edit section: Metadata on the broadcast industry">edit</a>]</span> <span class="mw-headline" id="Metadata_on_the_broadcast_industry">Metadata on the broadcast industry</span></h3>
+<p>In <a href="/wiki/Broadcast" title="Broadcast" class="mw-redirect">broadcast</a> industry, metadata are linked to audio and video <a href="/wiki/Broadcast_media" title="Broadcast media" class="mw-redirect">Broadcast media</a> to:</p>
+<ul>
+<li><i>identify</i> the media: <a href="/wiki/Media_clip" title="Media clip">clip</a> or <a href="/wiki/Playlist" title="Playlist">playlist</a> names, duration, <a href="/wiki/Timecode" title="Timecode">timecode</a>, etc.</li>
+<li><i>describe</i> the content: notes regarding the quality of video content, rating, description (for example, during a sport event, <a href="/wiki/Keywords" title="Keywords">keywords</a> like <i>goal</i>, <i>red card</i> will be associated to some clips)</li>
+<li><i>classify</i> media: metadata allow to sort the media or to easily and quickly find a video content (a <a href="/wiki/TV_news" title="TV news" class="mw-redirect">TV news</a> could urgently need some <a href="/wiki/Archiving" title="Archiving" class="mw-redirect">archive content</a> for a subject). For example, the BBC have a large subject classification system, <a href="/wiki/Lonclass" title="Lonclass">Lonclass</a>, a customized version of the more general-purpose <a href="/wiki/Universal_Decimal_Classification" title="Universal Decimal Classification">Universal Decimal Classification</a>.</li>
+</ul>
+<p>These metadata can be linked to the video media thanks to the <a href="/wiki/Video_server#Broadcast_automation" title="Video server">video servers</a>. All last <a href="/wiki/Broadcast" title="Broadcast" class="mw-redirect">broadcasted</a> sport events like <a href="/wiki/FIFA_World_Cup" title="FIFA World Cup">FIFA World Cup</a> or <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a> use these metadata to distribute their video content to <a href="/wiki/TV_station" title="TV station" class="mw-redirect">TV stations</a> through <a href="/wiki/Index_term" title="Index term">keywords</a>. It's often the host broadcaster<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>26<span>]</span></a></sup> who is in charge of organizing metadata through its <i>International Broadcast Centre</i> and its <a href="/wiki/Video_server#Broadcast_automation" title="Video server">video servers</a>. Those metadata are recorded with the images and are entered by metadata operators (<i>loggers</i>) who associate in live metadata available in <i>metadata grids</i> through <a href="/wiki/Software" title="Software">software</a> (such as <a href="/wiki/Multicam(LSM)" title="Multicam(LSM)" class="mw-redirect">Multicam(LSM)</a> or <a href="/wiki/IPDirector" title="IPDirector">IPDirector</a> used during <a href="/wiki/FIFA_World_Cup" title="FIFA World Cup">FIFA World Cup</a> or <a href="/wiki/Olympic_Games" title="Olympic Games">Olympic Games</a>).<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>28<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=25" title="Edit section: Geospatial metadata">edit</a>]</span> <span class="mw-headline" id="Geospatial_metadata">Geospatial metadata</span></h3>
+<p>Metadata that describe geographic objects (such as datasets, maps, features, or simply documents with a geospatial component) have a history dating back to at least 1994 (refer <a rel="nofollow" class="external text" href="http://libraries.mit.edu/guides/subjects/metadata/standards/fgdc.html">MIT Library page on FGDC Metadata</a>). This class of metadata is described more fully on the <a href="/wiki/Geospatial_metadata" title="Geospatial metadata">Geospatial metadata</a> page.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=26" title="Edit section: Ecological &amp; environmental metadata">edit</a>]</span> <span class="mw-headline" id="Ecological_.26_environmental_metadata">Ecological &amp; environmental metadata</span></h3>
+<p>Ecological and environmental metadata are intended to document the who, what, when, where, why, and how of data collection for a particular study. Metadata should be generated in a format commonly used by the most relevant science community, such as <a href="/wiki/Darwin_Core" title="Darwin Core">Darwin Core</a>, <a href="/wiki/Ecological_Metadata_Language" title="Ecological Metadata Language">Ecological Metadata Language</a>,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>29<span>]</span></a></sup> or <a href="/wiki/Dublin_Core" title="Dublin Core">Dublin Core</a>. Metadata editing tools exist to facilitate metadata generation (e.g. Metavist,<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>30<span>]</span></a></sup> <a href="/wiki/Mercury:_Metadata_Search_System" title="Mercury: Metadata Search System">Mercury: Metadata Search System</a>, Morpho<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup>). Metadata should describe <a href="/wiki/Data_provenance" title="Data provenance" class="mw-redirect">provenance</a> of the data (where it originated, as well as any transformations the data underwent) and how to give credit for (cite) the data products.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=27" title="Edit section: Metadata on">edit</a>]</span> <span class="mw-headline" id="Metadata_on">Metadata on</span></h3>
+<p>CDs such as recordings of music will carry a layer of metadata about the recordings such as dates, artist, genre, copyright owner, etc. The metadata, not normally displayed by CD players, can be accessed and displayed by specialized music playback and/or editing applications.</p>
+<p>The metadata for compressed and uncompressed digital music is often encoded in the <a href="/wiki/ID3" title="ID3">ID3</a> tag. Common editors such as <a href="/wiki/TagLib" title="TagLib">TagLib</a> support MP3, Ogg Vorbis, FLAC, MPC, Speex, WavPack TrueAudio, WAV, AIFF, MP4 and ASF file formats.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=28" title="Edit section: Cloud applications">edit</a>]</span> <span class="mw-headline" id="Cloud_applications">Cloud applications</span></h3>
+<p>With the availability of <a href="/wiki/Cloud_computing" title="Cloud computing">Cloud</a> applications, which include those to add metadata to content, metadata is increasingly available over the Internet.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=29" title="Edit section: Metadata administration and management">edit</a>]</span> <span class="mw-headline" id="Metadata_administration_and_management">Metadata administration and management</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=30" title="Edit section: Metadata storage">edit</a>]</span> <span class="mw-headline" id="Metadata_storage">Metadata storage</span></h3>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content ambox-Unreferenced" style="">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" /></a></td>
+<td class="mbox-text" style=""><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>.</span></td>
+</tr>
+</table>
+<p>Metadata can be stored either <i>internally</i>,<sup id="cite_ref-id3_31-0" class="reference"><a href="#cite_note-id3-31"><span>[</span>32<span>]</span></a></sup> in the same file as the data, or <i>externally</i>, in a separate file. Metadata that is embedded with content is called <i>embedded metadata</i>. A data repository typically stores the metadata <i>detached</i> from the data. Both ways have advantages and disadvantages:</p>
+<ul>
+<li>Internal storage allows transferring metadata together with the data it describes; thus, metadata is always at hand and can be manipulated easily. This method creates high redundancy and does not allow holding metadata together.</li>
+<li>External storage allows bundling metadata, for example in a database, for more efficient searching. There is no redundancy and metadata can be transferred simultaneously when using <a href="/wiki/Streaming_media" title="Streaming media">streaming</a>. However, as most formats use <a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier" class="mw-redirect">URIs</a> for that purpose, the method of how the metadata is linked to its data should be treated with care. What if a resource does not have a URI (resources on a local hard disk or web pages that are created on-the-fly using a content management system)? What if metadata can only be evaluated if there is a connection to the Web, especially when using <a href="/wiki/Resource_Description_Framework" title="Resource Description Framework">RDF?</a> How to realize that a resource is replaced by another with the same name but different content?</li>
+</ul>
+<p>Moreover, there is the question of data format: storing metadata in a human-readable format such as <a href="/wiki/XML" title="XML">XML</a> can be useful because users can understand and edit it without specialized tools. On the other hand, these formats are not optimized for storage capacity; it may be useful to store metadata in a binary, non-human-readable format instead to speed up transfer and save memory.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=31" title="Edit section: Database management">edit</a>]</span> <span class="mw-headline" id="Database_management">Database management</span></h3>
+<p>Each <a href="/wiki/Relational_database" title="Relational database">relational database</a> system has its own mechanisms for storing metadata. Examples of relational-database metadata include:</p>
+<ul>
+<li>Tables of all tables in a database, their names, sizes and number of rows in each table.</li>
+<li>Tables of columns in each database, what tables they are used in, and the type of data stored in each column.</li>
+</ul>
+<p>In database terminology, this set of metadata is referred to as the <a href="/wiki/Database_catalog" title="Database catalog">catalog</a>. The <a href="/wiki/SQL" title="SQL">SQL</a> standard specifies a uniform means to access the catalog, called the <a href="/wiki/Information_schema" title="Information schema">information schema</a>, but not all databases implement it, even if they implement other aspects of the SQL standard. For an example of database-specific metadata access methods, see <a href="/wiki/Oracle_metadata" title="Oracle metadata">Oracle metadata</a>. Programmatic access to metadata is possible using APIs such as <a href="/wiki/JDBC" title="JDBC" class="mw-redirect">JDBC</a>, or SchemaCrawler.<sup id="cite_ref-schemacrawler_32-0" class="reference"><a href="#cite_note-schemacrawler-32"><span>[</span>33<span>]</span></a></sup></p>
+<table cellspacing="0" cellpadding="0" class="multicol" style="background:transparent; width:100%;">
+<tr>
+<td align="left" valign="top">
+<ul>
+<li><a href="/wiki/Agris:_International_Information_System_for_the_Agricultural_Sciences_and_Technology" title="Agris: International Information System for the Agricultural Sciences and Technology" class="mw-redirect">Agris: International Information System for the Agricultural Sciences and Technology</a></li>
+<li><a href="/wiki/Classification_scheme" title="Classification scheme">Classification scheme</a></li>
+<li><a href="/wiki/Crosswalk_(metadata)" title="Crosswalk (metadata)" class="mw-redirect">Crosswalk (metadata)</a></li>
+<li><a href="/wiki/DataONE" title="DataONE">DataONE</a></li>
+<li><a href="/wiki/Data_Dictionary" title="Data Dictionary" class="mw-redirect">Data Dictionary</a> (aka metadata repository)</li>
+<li><a href="/wiki/Dublin_Core" title="Dublin Core">Dublin Core</a></li>
+<li><a href="/wiki/Folksonomy" title="Folksonomy">Folksonomy</a></li>
+<li><a href="/wiki/GEOMS_%E2%80%93_Generic_Earth_Observation_Metadata_Standard" title="GEOMS – Generic Earth Observation Metadata Standard">GEOMS – Generic Earth Observation Metadata Standard</a></li>
+<li><a href="/wiki/IPDirector" title="IPDirector">IPDirector</a></li>
+<li><a href="/wiki/ISO/IEC_11179" title="ISO/IEC 11179">ISO/IEC 11179</a></li>
+<li><a href="/wiki/Knowledge_tag" title="Knowledge tag">Knowledge tag</a></li>
+<li><a href="/wiki/Mercury:_Metadata_Search_System" title="Mercury: Metadata Search System">Mercury: Metadata Search System</a></li>
+<li><a href="/wiki/Meta_element" title="Meta element">Meta element</a></li>
+<li><a href="/wiki/IF-MAP" title="IF-MAP">Metadata Access Point Interface</a></li>
+<li><a href="/wiki/Metadata_discovery" title="Metadata discovery">Metadata discovery</a></li>
+<li><a href="/wiki/Metadata_facility_for_Java" title="Metadata facility for Java">Metadata facility for Java</a></li>
+<li><a href="//en.wikiversity.org/wiki/4-b:_Metadata" class="extiw" title="wikiversity:4-b: Metadata">Metadata from Wikiversity</a></li>
+</ul>
+</td>
+<td align="left" valign="top">
+<ul>
+<li><a href="/wiki/Metadata_publishing" title="Metadata publishing">Metadata publishing</a></li>
+<li><a href="/wiki/Metadata_registry" title="Metadata registry">Metadata registry</a></li>
+<li><a href="/wiki/METAFOR" title="METAFOR">METAFOR</a> Common Metadata for Climate Modelling Digital Repositories</li>
+<li><a href="/wiki/Microcontent" title="Microcontent">Microcontent</a></li>
+<li><a href="/wiki/Microformat" title="Microformat">Microformat</a></li>
+<li><a href="/wiki/Multicam(LSM)" title="Multicam(LSM)" class="mw-redirect">Multicam(LSM)</a></li>
+<li><a href="/wiki/Ontology_(computer_science)" title="Ontology (computer science)" class="mw-redirect">Ontology (computer science)</a></li>
+<li><a href="/wiki/Official_statistics" title="Official statistics">Official statistics</a></li>
+<li><a href="/wiki/Paratext" title="Paratext">Paratext</a></li>
+<li><a href="/wiki/Preservation_Metadata" title="Preservation Metadata" class="mw-redirect">Preservation Metadata</a></li>
+<li><a href="/wiki/SDMX" title="SDMX">SDMX</a></li>
+<li><a href="/wiki/Semantic_Web" title="Semantic Web">Semantic Web</a></li>
+<li><a href="/wiki/SGML" title="SGML" class="mw-redirect">SGML</a></li>
+<li><a href="/wiki/The_Metadata_Company" title="The Metadata Company">The Metadata Company</a></li>
+<li><a href="/wiki/Universal_Data_Element_Framework" title="Universal Data Element Framework">Universal Data Element Framework</a></li>
+<li><a href="/wiki/Vocabulary_OneSource" title="Vocabulary OneSource">Vocabulary OneSource</a></li>
+<li><a href="/wiki/XSD" title="XSD" class="mw-redirect">XSD</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=32" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text">Hüner, K.; Otto, B.; Österle, H.: Collaborative management of business metadata, in: International Journal of Information Management, 2011</span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.bls.gov/ore/pdf/st000010.pdf">"Metadata Standards And Metadata Registries: An Overview"</a> (PDF)<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.bls.gov/ore/pdf/st000010.pdf">http://www.bls.gov/ore/pdf/st000010.pdf</a></span><span class="reference-accessdate">. Retrieved 2011-12-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Metadata+Standards+And+Metadata+Registries%3A+An+Overview&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.bls.gov%2Fore%2Fpdf%2Fst000010.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFExtension_of_programming_language_concepts">Extension of programming language concepts, <a rel="nofollow" class="external free" href="http://www.dtic.mil/dtic/tr/fulltext/u2/680815.pdf">http://www.dtic.mil/dtic/tr/fulltext/u2/680815.pdf</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=&amp;rft.aulast=Extension+of+programming+language+concepts&amp;rft.au=Extension+of+programming+language+concepts&amp;rft_id=http%3A%2F%2Fwww.dtic.mil%2Fdtic%2Ftr%2Ffulltext%2Fu2%2F680815.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation" id="CITEREFBagley1968">Bagley, Philip (Nov 1968), <i>Extension of programming language concepts</i>, Philadelphia: University City Science Center</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Extension+of+programming+language+concepts&amp;rft.aulast=Bagley&amp;rft.aufirst=Philip&amp;rft.au=Bagley%2C%26%2332%3BPhilip&amp;rft.date=Nov+1968&amp;rft.place=Philadelphia&amp;rft.pub=University+City+Science+Center&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">"The notion of "metadata" introduced by Bagley". <span class="citation" id="CITEREFSolntseffYezerski1974">Solntseff, N+1; Yezerski, A (1974), <i>A survey of extensible programming languages</i>, Annual Review in Automatic Programming, <b>7</b>, Elsevier Science Ltd, pp.&#160;267–307, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2F0066-4138%2874%2990001-9">10.1016/0066-4138(74)90001-9</a></span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+survey+of+extensible+programming+languages&amp;rft.aulast=Solntseff&amp;rft.aufirst=N%2B1&amp;rft.au=Solntseff%2C%26%2332%3BN%2B1&amp;rft.au=Yezerski%2C%26%2332%3BA&amp;rft.date=1974&amp;rft.series=Annual+Review+in+Automatic+Programming&amp;rft.volume=7&amp;rft.pages=pp.%26nbsp%3B267%E2%80%93307&amp;rft.pub=Elsevier+Science+Ltd&amp;rft_id=info:doi/10.1016%2F0066-4138%2874%2990001-9&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-NISO-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-NISO_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NISO_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="citation book"><a href="/wiki/NISO" title="NISO" class="mw-redirect">NISO</a>. <a rel="nofollow" class="external text" href="http://www.niso.org/publications/press/UnderstandingMetadata.pdf"><i>Understanding Metadata</i></a>. NISO Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-880124-62-9" title="Special:BookSources/1-880124-62-9">1-880124-62-9</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.niso.org/publications/press/UnderstandingMetadata.pdf">http://www.niso.org/publications/press/UnderstandingMetadata.pdf</a></span><span class="reference-accessdate">. Retrieved 5 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Understanding+Metadata&amp;rft.aulast=NISO&amp;rft.au=NISO&amp;rft.pub=NISO+Press&amp;rft.isbn=1-880124-62-9&amp;rft_id=http%3A%2F%2Fwww.niso.org%2Fpublications%2Fpress%2FUnderstandingMetadata.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><span class="citation web">National Archives of Australia (2002). <a rel="nofollow" class="external text" href="http://www.naa.gov.au/records-management/publications/agls-element.aspx">"AGLS Metadata Element Set - Part 2: Usage Guide - A non-technical guide to using AGLS metadata for describing resources"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.naa.gov.au/records-management/publications/agls-element.aspx">http://www.naa.gov.au/records-management/publications/agls-element.aspx</a></span><span class="reference-accessdate">. Retrieved 17 March 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=AGLS+Metadata+Element+Set+-+Part+2%3A+Usage+Guide+-+A+non-technical+guide+to+using+AGLS+metadata+for+describing+resources&amp;rft.atitle=&amp;rft.aulast=National+Archives+of+Australia&amp;rft.au=National+Archives+of+Australia&amp;rft.date=2002&amp;rft_id=http%3A%2F%2Fwww.naa.gov.au%2Frecords-management%2Fpublications%2Fagls-element.aspx&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation web">Rutter, Chris. <a rel="nofollow" class="external text" href="http://www.digitalcameraworld.com/2012/02/28/what-is-metadata-copyright-photos-in-4-steps/">"What is metadata: copyright photos in 4 steps"</a>. <i>Digital Camera Magazine</i>. Future Publishing<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.digitalcameraworld.com/2012/02/28/what-is-metadata-copyright-photos-in-4-steps/">http://www.digitalcameraworld.com/2012/02/28/what-is-metadata-copyright-photos-in-4-steps/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=What+is+metadata%3A+copyright+photos+in+4+steps&amp;rft.atitle=Digital+Camera+Magazine&amp;rft.aulast=Rutter&amp;rft.aufirst=Chris&amp;rft.au=Rutter%2C%26%2332%3BChris&amp;rft.pub=Future+Publishing&amp;rft_id=http%3A%2F%2Fwww.digitalcameraworld.com%2F2012%2F02%2F28%2Fwhat-is-metadata-copyright-photos-in-4-steps%2F&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation book">Bretherton, F. P.; Singley, P.T. (1994). "Metadata: A User's View, Proceedings of the International Conference on Very Large Data Bases (VLDB)". pp.&#160;1091–1094.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Metadata%3A+A+User%27s+View%2C+Proceedings+of+the+International+Conference+on+Very+Large+Data+Bases+%28VLDB%29&amp;rft.atitle=&amp;rft.aulast=Bretherton&amp;rft.aufirst=F.+P.&amp;rft.au=Bretherton%2C%26%2332%3BF.+P.&amp;rft.au=Singley%2C%26%2332%3BP.T.&amp;rft.date=1994&amp;rft.pages=pp.%26nbsp%3B1091%E2%80%931094&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation web">Cathro, Warwick (1997). <a rel="nofollow" class="external text" href="http://www.nla.gov.au/nla/staffpaper/cathro3.html">"Metadata: an overview"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.nla.gov.au/nla/staffpaper/cathro3.html">http://www.nla.gov.au/nla/staffpaper/cathro3.html</a></span><span class="reference-accessdate">. Retrieved 6 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Metadata%3A+an+overview&amp;rft.atitle=&amp;rft.aulast=Cathro&amp;rft.aufirst=Warwick&amp;rft.au=Cathro%2C%26%2332%3BWarwick&amp;rft.date=1997&amp;rft_id=http%3A%2F%2Fwww.nla.gov.au%2Fnla%2Fstaffpaper%2Fcathro3.html&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation web"><a href="/wiki/Dublin_Core_Metadata_Initiative" title="Dublin Core Metadata Initiative" class="mw-redirect">DCMI</a> (5 Oct 2009). <a rel="nofollow" class="external text" href="http://dublincore.org/specifications/">"Semantic Recommendations"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://dublincore.org/specifications/">http://dublincore.org/specifications/</a></span><span class="reference-accessdate">. Retrieved 6 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Semantic+Recommendations&amp;rft.atitle=&amp;rft.aulast=DCMI&amp;rft.au=DCMI&amp;rft.date=5+Oct+2009&amp;rft_id=http%3A%2F%2Fdublincore.org%2Fspecifications%2F&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.infodiv.unimelb.edu.au/metadata/add_info.html">"Types of Metadata"</a>. <a href="/wiki/University_of_Melbourne" title="University of Melbourne">University of Melbourne</a>. 15 August 2006<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.infodiv.unimelb.edu.au/metadata/add_info.html">http://www.infodiv.unimelb.edu.au/metadata/add_info.html</a></span><span class="reference-accessdate">. Retrieved 6 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Types+of+Metadata&amp;rft.atitle=&amp;rft.date=15+August+2006&amp;rft.pub=%5B%5BUniversity+of+Melbourne%5D%5D&amp;rft_id=http%3A%2F%2Fwww.infodiv.unimelb.edu.au%2Fmetadata%2Fadd_info.html&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span><sup class="noprint Inline-Template"><span title="&#160;since October 2010" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.isprs.org/proceedings/XXXII/part4/www.ifp.uni.../kuebler51.pdf">THE DESIGN AND DEVELOPMENT OF A GEOLOGIC HYPERMAP PROTOTYPE</a><sup class="noprint Inline-Template"><span title="&#160;since December 2011" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39438">"ISO/IEC 11179-1:2004 Information technology - Metadata registries (MDR) - Part 1: Framework"</a>. Iso.org. 2009-03-18<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39438">http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=39438</a></span><span class="reference-accessdate">. Retrieved 2011-12-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=ISO%2FIEC+11179-1%3A2004+Information+technology+-+Metadata+registries+%28MDR%29+-+Part+1%3A+Framework&amp;rft.atitle=&amp;rft.date=2009-03-18&amp;rft.pub=Iso.org&amp;rft_id=http%3A%2F%2Fwww.iso.org%2Fiso%2Fiso_catalogue%2Fcatalogue_tc%2Fcatalogue_detail.htm%3Fcsnumber%3D39438&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Solodovnik, I. (2011). "<a rel="nofollow" class="external text" href="http://leo.cilea.it/index.php/jlis/article/view/4663">Metadata issues in Digital Libraries: key concepts and perspectives</a>". <i>JLIS.It</i>, 2(2). doi:10.4403/jlis.it-4663</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web">Library of Congress Network Development and MARC Standards Office (2005-09-08). <a rel="nofollow" class="external text" href="http://www.loc.gov/standards/metadata.html">"Library of Congress Washington DC on metadata"</a>. Loc.gov<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.loc.gov/standards/metadata.html">http://www.loc.gov/standards/metadata.html</a></span><span class="reference-accessdate">. Retrieved 2011-12-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Library+of+Congress+Washington+DC+on+metadata&amp;rft.atitle=&amp;rft.aulast=Library+of+Congress+Network+Development+and+MARC+Standards+Office&amp;rft.au=Library+of+Congress+Network+Development+and+MARC+Standards+Office&amp;rft.date=2005-09-08&amp;rft.pub=Loc.gov&amp;rft_id=http%3A%2F%2Fwww.loc.gov%2Fstandards%2Fmetadata.html&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.d-nb.de/standardisierung/.../metadaten.htm">Deutsche Nationalbibliothek Frankfurt on metadata</a><sup class="noprint Inline-Template"><span title="&#160;since December 2011" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation Journal">Gelzer, Reed D. (February 2008). <a rel="nofollow" class="external text" href="http://library.ahima.org/xpedio/groups/public/documents/ahima/bok1_036537.hcsp?dDocName=bok1_036537">"Metadata, Law, and the Real World: Slowly, the Three Are Merging"</a>. <i>Journal of AHIMA</i> (American Health Information Management Association) <b>79</b> (2): 56–57, 64<span class="printonly">. <a rel="nofollow" class="external free" href="http://library.ahima.org/xpedio/groups/public/documents/ahima/bok1_036537.hcsp?dDocName=bok1_036537">http://library.ahima.org/xpedio/groups/public/documents/ahima/bok1_036537.hcsp?dDocName=bok1_036537</a></span><span class="reference-accessdate">. Retrieved 8 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Metadata%2C+Law%2C+and+the+Real+World%3A+Slowly%2C+the+Three+Are+Merging&amp;rft.jtitle=Journal+of+AHIMA&amp;rft.aulast=Gelzer&amp;rft.aufirst=Reed+D.&amp;rft.au=Gelzer%2C%26%2332%3BReed+D.&amp;rft.date=February+2008&amp;rft.volume=79&amp;rft.issue=2&amp;rft.pages=56%E2%80%9357%2C+64&amp;rft.pub=American+Health+Information+Management+Association&amp;rft_id=http%3A%2F%2Flibrary.ahima.org%2Fxpedio%2Fgroups%2Fpublic%2Fdocuments%2Fahima%2Fbok1_036537.hcsp%3FdDocName%3Dbok1_036537&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation news">Walsh, Jim (30 October 2009). <a rel="nofollow" class="external text" href="http://www.azcentral.com/arizonarepublic/local/articles/2009/10/30/20091030metadata1030.html">"Ariz. Supreme Court rules electronic data is public record"</a>. <i>The Arizona Republic</i> (Arizona, United States)<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.azcentral.com/arizonarepublic/local/articles/2009/10/30/20091030metadata1030.html">http://www.azcentral.com/arizonarepublic/local/articles/2009/10/30/20091030metadata1030.html</a></span><span class="reference-accessdate">. Retrieved 8 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ariz.+Supreme+Court+rules+electronic+data+is+public+record&amp;rft.jtitle=The+Arizona+Republic&amp;rft.aulast=Walsh&amp;rft.aufirst=Jim&amp;rft.au=Walsh%2C%26%2332%3BJim&amp;rft.date=30+October+2009&amp;rft.place=Arizona%2C+United+States&amp;rft_id=http%3A%2F%2Fwww.azcentral.com%2Farizonarepublic%2Flocal%2Farticles%2F2009%2F10%2F30%2F20091030metadata1030.html&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">M. Löbe, M. Knuth, R. Mücke <a rel="nofollow" class="external text" href="http://ceur-ws.org/Vol-559/Paper1.pdf">TIM: A Semantic Web Application for the Specification of Metadata Items in Clinical Research</a>, CEUR-WS.org, urn:nbn:de:0074-559-9</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Inmon, W.H. Tech Topic: What is a Data Warehouse? Prism Solutions. Volume 1. 1995.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><span class="citation book" id="CITEREFKimball2008"><a href="/wiki/Ralph_Kimball" title="Ralph Kimball">Kimball, Ralph</a> (2008). <i>The Data Warehouse Lifecycle Toolkit</i> (Second Edition ed.). New York: Wiley. pp.&#160;10, 115–117, 131–132, 140, 154–155. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-470-14977-5" title="Special:BookSources/978-0-470-14977-5">978-0-470-14977-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Data+Warehouse+Lifecycle+Toolkit&amp;rft.aulast=Kimball&amp;rft.aufirst=Ralph&amp;rft.au=Kimball%2C%26%2332%3BRalph&amp;rft.date=2008&amp;rft.pages=pp.%26nbsp%3B10%2C+115%E2%80%93117%2C+131%E2%80%93132%2C+140%2C+154%E2%80%93155&amp;rft.edition=Second+Edition&amp;rft.place=New+York&amp;rft.pub=Wiley&amp;rft.isbn=978-0-470-14977-5&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="#CITEREFKimball2008">Kimball 2008</a>, pp.&#160;116–117</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">National Archives of Australia, AGLS Metadata Standard, accessed 7 January 2010, <a rel="nofollow" class="external autonumber" href="http://www.naa.gov.au/records-management/create-capture-describe/describe/AGLS/index.aspx">[1]</a></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">The impact of webpage content characteristics on webpage visibility in search engine results <a rel="nofollow" class="external free" href="http://web.simmons.edu/~braun/467/part_1.pdf">http://web.simmons.edu/~braun/467/part_1.pdf</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.hbs.tv/hostbroadcasting/">"HBS is the FIFA host broadcaster"</a>. Hbs.tv. 2011-08-06<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.hbs.tv/hostbroadcasting/">http://www.hbs.tv/hostbroadcasting/</a></span><span class="reference-accessdate">. Retrieved 2011-12-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=HBS+is+the+FIFA+host+broadcaster&amp;rft.atitle=&amp;rft.date=2011-08-06&amp;rft.pub=Hbs.tv&amp;rft_id=http%3A%2F%2Fwww.hbs.tv%2Fhostbroadcasting%2F&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.evs-global.com/01/MyDocuments/CS_BOB_EVScontributon_0808_ENG.pdf">Host Broadcast Media Server and Related Applications</a><sup class="noprint Inline-Template"><span title="&#160;since December 2011" style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot">dead link</a></i>]</span></sup></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://broadcastengineering.com/worldcup/fifa-world-cup-techonlogy-0610/">"logs during sport events"</a>. Broadcastengineering.com<span class="printonly">. <a rel="nofollow" class="external free" href="http://broadcastengineering.com/worldcup/fifa-world-cup-techonlogy-0610/">http://broadcastengineering.com/worldcup/fifa-world-cup-techonlogy-0610/</a></span><span class="reference-accessdate">. Retrieved 2011-12-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=logs+during+sport+events&amp;rft.atitle=&amp;rft.pub=Broadcastengineering.com&amp;rft_id=http%3A%2F%2Fbroadcastengineering.com%2Fworldcup%2Ffifa-world-cup-techonlogy-0610%2F&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://knb.ecoinformatics.org/software/eml/eml-2.0.1/index.html">http://knb.ecoinformatics.org/software/eml/eml-2.0.1/index.html</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://metavist.djames.net/">"Metavist 2"</a>. Metavist.djames.net<span class="printonly">. <a rel="nofollow" class="external free" href="http://metavist.djames.net/">http://metavist.djames.net/</a></span><span class="reference-accessdate">. Retrieved 2011-12-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Metavist+2&amp;rft.atitle=&amp;rft.pub=Metavist.djames.net&amp;rft_id=http%3A%2F%2Fmetavist.djames.net%2F&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://knb.ecoinformatics.org/morphoportal.jsp">"KNB Data&#160;:: Morpho"</a>. Knb.ecoinformatics.org. 2009-05-20<span class="printonly">. <a rel="nofollow" class="external free" href="http://knb.ecoinformatics.org/morphoportal.jsp">http://knb.ecoinformatics.org/morphoportal.jsp</a></span><span class="reference-accessdate">. Retrieved 2011-12-23</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=KNB+Data+%3A%3A+Morpho&amp;rft.atitle=&amp;rft.date=2009-05-20&amp;rft.pub=Knb.ecoinformatics.org&amp;rft_id=http%3A%2F%2Fknb.ecoinformatics.org%2Fmorphoportal.jsp&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-id3-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-id3_31-0">^</a></b></span> <span class="reference-text"><span class="citation web">Dan O'Neill. <a rel="nofollow" class="external text" href="http://id3.org">"ID3.org"</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://id3.org">http://id3.org</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=ID3.org&amp;rft.atitle=&amp;rft.aulast=Dan+O%27Neill&amp;rft.au=Dan+O%27Neill&amp;rft_id=http%3A%2F%2Fid3.org&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-schemacrawler-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-schemacrawler_32-0">^</a></b></span> <span class="reference-text"><span class="citation web">Sualeh Fatehi. <a rel="nofollow" class="external text" href="http://schemacrawler.sourceforge.net/">"SchemaCrawler"</a>. <i>SourceForge</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://schemacrawler.sourceforge.net/">http://schemacrawler.sourceforge.net/</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=SchemaCrawler&amp;rft.atitle=SourceForge&amp;rft.aulast=Sualeh+Fatehi&amp;rft.au=Sualeh+Fatehi&amp;rft_id=http%3A%2F%2Fschemacrawler.sourceforge.net%2F&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Metadata&amp;action=edit&amp;section=33" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wiktionary-logo-en.svg/37px-Wiktionary-logo-en.svg.png" width="37" height="40" /></td>
+<td class="mbox-text" style="">Look up <i><b><a class="external text" href="//en.wiktionary.org/wiki/metadata">metadata</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://mercury.ornl.gov/ornldaac">Mercury: Metadata Management, Data Discovery and Access</a>, managed by Oak Ridge National Laboratory <a href="/wiki/Distributed_Active_Archive_Center" title="Distributed Active Archive Center">Distributed Active Archive Center</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.well.com/~doctorow/metacrap.htm">Metacrap: Putting the torch to seven straw-men of the meta-utopia</a> – <a href="/wiki/Cory_Doctorow" title="Cory Doctorow">Cory Doctorow</a>'s opinion on the limitations of metadata on the <a href="/wiki/Internet" title="Internet">Internet</a>, 2001</li>
+<li><a rel="nofollow" class="external text" href="http://www.anonwatch.com/?p=9">Retrieving Meta Data from Documents and Pictures Online</a> - AnonWatch</li>
+<li><a rel="nofollow" class="external text" href="http://www.niso.org/publications/press/UnderstandingMetadata.pdf">Understanding Metadata</a> - <a href="/wiki/NISO" title="NISO" class="mw-redirect">NISO</a>, 2004</li>
+<li><a rel="nofollow" class="external text" href="http://www.dataone.org">DataONE</a> Investigator Toolkit</li>
+<li><span class="citation Journal"><i>Journal of Library Metadata</i> (Routledge, Taylor &amp; Francis Group). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1937-5034">1937-5034</a>. <a rel="nofollow" class="external free" href="http://www.informaworld.com/openurl?genre=journal&amp;issn=1938-6389">http://www.informaworld.com/openurl?genre=journal&amp;issn=1938-6389</a><span class="reference-accessdate">. Retrieved 8 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=&amp;rft.jtitle=Journal+of+Library+Metadata&amp;rft.pub=Routledge%2C+Taylor+%26+Francis+Group&amp;rft.issn=1937-5034&amp;rft_id=http%3A%2F%2Fwww.informaworld.com%2Fopenurl%3Fgenre%3Djournal%26issn%3D1938-6389&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></li>
+<li><span class="citation Journal"><i>International Journal of Metadata, Semantics and Ontologies (IJMSO)</i> (Inderscience Publishers). <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1744-263X">1744-263X</a>. <a rel="nofollow" class="external free" href="http://www.inderscience.com/ijmso">http://www.inderscience.com/ijmso</a><span class="reference-accessdate">. Retrieved 8 January 2010</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=&amp;rft.jtitle=International+Journal+of+Metadata%2C+Semantics+and+Ontologies++%28IJMSO%29&amp;rft.pub=Inderscience+Publishers&amp;rft.issn=1744-263X&amp;rft_id=http%3A%2F%2Fwww.inderscience.com%2Fijmso&amp;rfr_id=info:sid/en.wikipedia.org:Metadata"><span style="display: none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="https://gcic.af.mil/onesource">AFC2IC Vocabulary OneSource Tool</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.metalounge.org/_literature_52579/Stephen_Machin_%E2%80%93_ON_METADATA_AND_METACONTENT">On metadata and metacontent</a></li>
+<li><a rel="nofollow" class="external text" href="http://library.caltech.edu/laura/">Managing Metadata</a> blog</li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Software_engineering" title="Template:Software engineering"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Software_engineering" title="Template talk:Software engineering"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Software_engineering&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";text-align: left;;">Fields</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a></li>
+<li><a href="/wiki/Systems_analysis" title="Systems analysis">Systems analysis</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a></li>
+<li><a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a></li>
+<li><a href="/wiki/Software_testing" title="Software testing">Software testing</a></li>
+<li><a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a></li>
+<li><a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";text-align: left;;">Concepts</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_modeling" title="Data modeling">Data modeling</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Functional_specification" title="Functional specification">Functional specification</a></li>
+<li><a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a></li>
+<li><a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a></li>
+<li><a href="/wiki/Software" title="Software">Software</a></li>
+<li><a href="/wiki/Software_architecture" title="Software architecture">Software architecture</a></li>
+<li><a href="/wiki/Software_development_methodology" title="Software development methodology">Software development methodology</a></li>
+<li><a href="/wiki/Software_development_process" title="Software development process">Software development process</a></li>
+<li><a href="/wiki/Software_quality" title="Software quality">Software quality</a></li>
+<li><a href="/wiki/Software_quality_assurance" title="Software quality assurance">Software quality assurance</a></li>
+<li><a href="/wiki/Software_archaeology" title="Software archaeology">Software archaeology</a></li>
+<li><a href="/wiki/Structured_analysis" title="Structured analysis">Structured analysis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";text-align: left;;">Orientations</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Aspect-oriented_software_development" title="Aspect-oriented software development">Aspect-oriented</a></li>
+<li><a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object orientation</a></li>
+<li><a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontology</a></li>
+<li><a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">Service orientation</a></li>
+<li><a href="/wiki/Systems_development_life-cycle" title="Systems development life-cycle">SDLC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";text-align: left;;">Models</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align: left;background-color: #eee;;">
+<div style="padding:0em 0.75em;">Development models</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">Iterative model</a></li>
+<li><a href="/wiki/IBM_Rational_Unified_Process" title="IBM Rational Unified Process">RUP</a></li>
+<li><a href="/wiki/Enterprise_Unified_Process" title="Enterprise Unified Process">EUP</a></li>
+<li><a href="/wiki/Scrum_(development)" title="Scrum (development)">Scrum</a></li>
+<li><a href="/wiki/Spiral_model" title="Spiral model">Spiral model</a></li>
+<li><a href="/wiki/Waterfall_model" title="Waterfall model">Waterfall model</a></li>
+<li><a href="/wiki/Extreme_Programming" title="Extreme Programming" class="mw-redirect">XP</a></li>
+<li><a href="/wiki/V-Model_(software_development)" title="V-Model (software development)">V-Model</a></li>
+<li><a href="/wiki/Incremental_build_model" title="Incremental build model">Incremental model</a></li>
+<li><a href="/wiki/Software_prototyping" title="Software prototyping">Prototype model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align: left;background-color: #eee;;">
+<div style="padding:0em 0.75em;">Other models</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">Automotive SPICE</a></li>
+<li><a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">CMMI</a></li>
+<li><a href="/wiki/Data_model" title="Data model">Data model</a></li>
+<li><a href="/wiki/Function_model" title="Function model">Function model</a></li>
+<li><a href="/wiki/Information_model" title="Information model">Information model</a></li>
+<li><a href="/wiki/Metamodeling" title="Metamodeling">Metamodeling</a></li>
+<li><a href="/wiki/Object_model" title="Object model">Object model</a></li>
+<li><a href="/wiki/Systems_modeling" title="Systems modeling">Systems model</a></li>
+<li><a href="/wiki/View_model" title="View model">View model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";padding-left:0em;padding-right:0em;text-align: left;background-color: #eee;;">
+<div style="padding:0em 0.75em;">Modeling languages</div>
+</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/IDEF" title="IDEF">IDEF</a></li>
+<li><a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a></li>
+<li><a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">SysML</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";text-align: left;;">Software<br />
+engineers</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a></li>
+<li><a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a></li>
+<li><a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a></li>
+<li><a href="/wiki/Barry_Boehm" title="Barry Boehm">Barry Boehm</a></li>
+<li><a href="/wiki/Peter_Chen" title="Peter Chen">Peter Chen</a></li>
+<li><a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a></li>
+<li><a href="/wiki/Ole-Johan_Dahl" title="Ole-Johan Dahl">Ole-Johan Dahl</a></li>
+<li><a href="/wiki/Tom_DeMarco" title="Tom DeMarco">Tom DeMarco</a></li>
+<li><a href="/wiki/Martin_Fowler" title="Martin Fowler">Martin Fowler</a></li>
+<li><a href="/wiki/Tony_Hoare" title="Tony Hoare">C. A. R. Hoare</a></li>
+<li><a href="/wiki/Watts_Humphrey" title="Watts Humphrey">Watts Humphrey</a></li>
+<li><a href="/wiki/Michael_A._Jackson" title="Michael A. Jackson">Michael A. Jackson</a></li>
+<li><a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a></li>
+<li><a href="/wiki/James_Martin_(author)" title="James Martin (author)">James Martin</a></li>
+<li><a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">Bertrand Meyer</a></li>
+<li><a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a></li>
+<li><a href="/wiki/Winston_W._Royce" title="Winston W. Royce">Winston W. Royce</a></li>
+<li><a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a></li>
+<li><a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a></li>
+<li><a href="/wiki/Edward_Yourdon" title="Edward Yourdon">Edward Yourdon</a></li>
+<li><a href="/wiki/Victor_Basili" title="Victor Basili">Victor Basili</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";text-align: left;;">Related fields</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Computer_science" title="Computer science">Computer science</a></li>
+<li><a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a></li>
+<li><a href="/wiki/Enterprise_engineering" title="Enterprise engineering">Enterprise engineering</a></li>
+<li><a href="/wiki/History_of_software_engineering" title="History of software engineering">History</a></li>
+<li><a href="/wiki/Management" title="Management">Management</a></li>
+<li><a href="/wiki/Project_management" title="Project management">Project management</a></li>
+<li><a href="/wiki/Quality_management" title="Quality management">Quality management</a></li>
+<li><a href="/wiki/Ergonomics" title="Ergonomics">Software ergonomics</a></li>
+<li><a href="/wiki/Systems_engineering" title="Systems engineering">Systems engineering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" style=";" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" /> <a href="/wiki/Category:Software_engineering" title="Category:Software engineering"><b>Category</b></a></li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" />&#160;<a href="//commons.wikimedia.org/wiki/Software_engineering" class="extiw" title="commons:Software engineering"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="2">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Data_warehouse" title="Template:Data warehouse"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Data_warehouse" title="Template talk:Data warehouse"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Data_warehouse&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Data_warehouse" title="Data warehouse">Data warehouse</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;">Creating the data warehouse</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Concepts</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Database" title="Database">Database</a></li>
+<li><a href="/wiki/Dimension_(data_warehouse)" title="Dimension (data warehouse)">Dimension</a></li>
+<li><a href="/wiki/Dimensional_modeling" title="Dimensional modeling">Dimensional modeling</a></li>
+<li><a href="/wiki/Fact_(data_warehouse)" title="Fact (data warehouse)">Fact</a></li>
+<li><a href="/wiki/Online_analytical_processing" title="Online analytical processing">OLAP</a></li>
+<li><a href="/wiki/Star_schema" title="Star schema">Star schema</a></li>
+<li><a href="/wiki/Aggregate_(Data_Warehouse)" title="Aggregate (Data Warehouse)" class="mw-redirect">Aggregate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Variants</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anchor_Modeling" title="Anchor Modeling">Anchor Modeling</a></li>
+<li><a href="/wiki/Column-oriented_DBMS" title="Column-oriented DBMS">Column-oriented DBMS</a></li>
+<li><a href="/wiki/Data_Vault_Modeling" title="Data Vault Modeling">Data Vault Modeling</a></li>
+<li><a href="/wiki/HOLAP" title="HOLAP">HOLAP</a></li>
+<li><a href="/wiki/MOLAP" title="MOLAP">MOLAP</a></li>
+<li><a href="/wiki/ROLAP" title="ROLAP">ROLAP</a></li>
+<li><a href="/wiki/Operational_data_store" title="Operational data store">Operational data store</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Elements</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_dictionary" title="Data dictionary">Data dictionary</a>/<strong class="selflink">Metadata</strong></li>
+<li><a href="/wiki/Data_mart" title="Data mart">Data mart</a></li>
+<li><a href="/wiki/Sixth_normal_form" title="Sixth normal form">Sixth normal form</a></li>
+<li><a href="/wiki/Surrogate_key" title="Surrogate key">Surrogate key</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Fact</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fact_table" title="Fact table">Fact table</a></li>
+<li><a href="/wiki/Early-arriving_fact" title="Early-arriving fact">Early-arriving fact</a></li>
+<li><a href="/wiki/Measure_(data_warehouse)" title="Measure (data warehouse)">Measure</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Dimension</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dimension_table" title="Dimension table">Dimension table</a></li>
+<li><a href="/wiki/Degenerate_dimension" title="Degenerate dimension">Degenerate</a></li>
+<li><a href="/wiki/Slowly_changing_dimension" title="Slowly changing dimension">Slowly changing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Filling</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extract,_transform,_load" title="Extract, transform, load">Extract-Transform-Load (ETL)</a></li>
+<li><a href="/wiki/Data_extraction" title="Data extraction">Extract</a></li>
+<li><a href="/wiki/Data_transformation" title="Data transformation">Transform</a></li>
+<li><a href="/wiki/Data_loading" title="Data loading" class="mw-redirect">Load</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;">Using the data warehouse</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Concepts</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Business_intelligence" title="Business intelligence">Business intelligence</a></li>
+<li><a href="/wiki/Dashboard_(business)" title="Dashboard (business)">Dashboard</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Decision_support_system" title="Decision support system">Decision support system (DSS)</a></li>
+<li><a href="/wiki/OLAP_cube" title="OLAP cube">OLAP cube</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Languages</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Data_Mining_Extensions" title="Data Mining Extensions">Data Mining Extensions (DMX)</a></li>
+<li><a href="/wiki/MultiDimensional_eXpressions" title="MultiDimensional eXpressions">MultiDimensional eXpressions (MDX)</a></li>
+<li><a href="/wiki/XML_for_Analysis" title="XML for Analysis">XML for Analysis (XMLA)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Tools</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Business_intelligence_tools" title="Business intelligence tools">Business intelligence tools</a></li>
+<li><a href="/wiki/List_of_reporting_software" title="List of reporting software">Reporting software</a></li>
+<li><a href="/wiki/Spreadsheets" title="Spreadsheets" class="mw-redirect">Spreadsheet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="col" style=";;" class="navbox-title" colspan="2"><span style="float:left;width:6em;">&#160;</span>
+<div class="" style="font-size:110%;">Related</div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<td colspan="2" style="width:100%;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em"></div>
+<table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0;;;;">
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">People</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-odd">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bill_Inmon" title="Bill Inmon">Bill Inmon</a></li>
+<li><a href="/wiki/Ralph_Kimball" title="Ralph Kimball">Ralph Kimball</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";width:8em;;">Products</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px;;;" class="navbox-list navbox-even">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Comparison_of_OLAP_Servers" title="Comparison of OLAP Servers">Comparison of OLAP Servers</a></li>
+<li><a href="/wiki/Category:Data_warehousing_products" title="Category:Data warehousing products">Data warehousing products and their producers</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 20635/1000000
+Post-expand include size: 195561/2048000 bytes
+Template argument size: 88650/2048000 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 6/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18933632-0!*!0!!en!4!* and timestamp 20120701171417 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Metadata&amp;oldid=500203656">http://en.wikipedia.org/w/index.php?title=Metadata&amp;oldid=500203656</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Data_management" title="Category:Data management">Data management</a></li><li><a href="/wiki/Category:Knowledge_representation" title="Category:Knowledge representation">Knowledge representation</a></li><li><a href="/wiki/Category:Library_cataloging_and_classification" title="Category:Library cataloging and classification">Library cataloging and classification</a></li><li><a href="/wiki/Category:Metadata" title="Category:Metadata">Metadata</a></li><li><a href="/wiki/Category:Technical_communication" title="Category:Technical communication">Technical communication</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2010" title="Category:Articles with dead external links from October 2010">Articles with dead external links from October 2010</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2011" title="Category:Articles with dead external links from December 2011">Articles with dead external links from December 2011</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_February_2011" title="Category:Vague or ambiguous time from February 2011">Vague or ambiguous time from February 2011</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2010" title="Category:Articles needing additional references from June 2010">Articles needing additional references from June 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Metadata&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Metadata" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Metadata"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Metadata"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Metadata" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Metadata&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Metadata&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton" width="12" height="13"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/vector/images/search-ltr.png?303-4" alt="Search" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Metadata" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Metadata" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Metadata&amp;oldid=500203656" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Metadata&amp;id=500203656" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Metadata" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Metadata&amp;oldid=500203656&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Metadata&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA_%D9%88%D8%B5%D9%81%D9%8A%D8%A9" title="بيانات وصفية" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-az"><a href="//az.wikipedia.org/wiki/Metaveril%C9%99nl%C9%99r" title="Metaverilənlər" lang="az" hreflang="az">azərbaycanca</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8" title="Метаданни" lang="bg" hreflang="bg">български</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Metadades" title="Metadades" lang="ca" hreflang="ca">català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Metadata" title="Metadata" lang="cs" hreflang="cs">česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Metadata" title="Metadata" lang="da" hreflang="da">dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Metadaten" title="Metadaten" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-et"><a href="//et.wikipedia.org/wiki/Metaandmed" title="Metaandmed" lang="et" hreflang="et">eesti</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%9C%CE%B5%CF%84%CE%B1%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CE%B1" title="Μεταδεδομένα" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Metadato" title="Metadato" lang="es" hreflang="es">español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Meta-dateno" title="Meta-dateno" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-eu"><a href="//eu.wikipedia.org/wiki/Metadatu" title="Metadatu" lang="eu" hreflang="eu">euskara</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D8%AF%D8%A7%D8%AF%D9%87" title="فراداده" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/M%C3%A9tadonn%C3%A9e" title="Métadonnée" lang="fr" hreflang="fr">français</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0" title="메타데이터" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Metapodatci" title="Metapodatci" lang="hr" hreflang="hr">hrvatski</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Metadata" title="Metadata" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Metadato" title="Metadato" lang="it" hreflang="it">italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/Metadata" title="Metadata" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-kn"><a href="//kn.wikipedia.org/wiki/%E0%B2%AE%E0%B3%86%E0%B2%9F%E0%B2%BE%E0%B2%A1%E0%B3%87%E0%B2%9F%E0%B2%BE" title="ಮೆಟಾಡೇಟಾ" lang="kn" hreflang="kn">ಕನ್ನಡ</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Metadati" title="Metadati" lang="lv" hreflang="lv">latviešu</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Metaadat" title="Metaadat" lang="hu" hreflang="hu">magyar</a></li>
+			<li class="interwiki-ml"><a href="//ml.wikipedia.org/wiki/%E0%B4%AE%E0%B5%86%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BE%E0%B4%A1%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1" title="മെറ്റാഡാറ്റ" lang="ml" hreflang="ml">മലയാളം</a></li>
+			<li class="interwiki-ms"><a href="//ms.wikipedia.org/wiki/Metadata" title="Metadata" lang="ms" hreflang="ms">Bahasa Melayu</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Metadata" title="Metadata" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%87%E3%83%BC%E3%82%BF" title="メタデータ" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Metadata" title="Metadata" lang="no" hreflang="no">‪norsk (bokmål)‬</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Metadane" title="Metadane" lang="pl" hreflang="pl">polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Metadados" title="Metadados" lang="pt" hreflang="pt">português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Metadat%C4%83" title="Metadată" lang="ro" hreflang="ro">română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5" title="Метаданные" lang="ru" hreflang="ru">русский</a></li>
+			<li class="interwiki-simple"><a href="//simple.wikipedia.org/wiki/Metadata" title="Metadata" lang="simple" hreflang="simple">Simple English</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Metad%C3%A1ta" title="Metadáta" lang="sk" hreflang="sk">slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Metapodatek" title="Metapodatek" lang="sl" hreflang="sl">slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/Metapodaci" title="Metapodaci" lang="sr" hreflang="sr">српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Metatieto" title="Metatieto" lang="fi" hreflang="fi">suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Metadata" title="Metadata" lang="sv" hreflang="sv">svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%87%E0%AE%A9%E0%AE%BF%E0%AE%B2%E0%AF%88%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AF%81" title="மேனிலைத் தரவு" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-th"><a href="//th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%95%E0%B8%B2" title="เมทาดาตา" lang="th" hreflang="th">ไทย</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B4%D0%B0%D0%BD%D1%96" title="Метадані" lang="uk" hreflang="uk">українська</a></li>
+			<li class="interwiki-ur"><a href="//ur.wikipedia.org/wiki/Metadata" title="Metadata" lang="ur" hreflang="ur">اردو</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/Si%C3%AAu_d%E1%BB%AF_li%E1%BB%87u" title="Siêu dữ liệu" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%85%83%E6%95%B0%E6%8D%AE" title="元数据" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 1 July 2012 at 17:14.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Metadata&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script type="text/javascript">if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest","ext.gadget.teahouse","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful"], null, true);
+}</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by mw53 in 0.194 secs. -->
+	</body>
+</html>

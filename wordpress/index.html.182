@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
+	<meta name="robots" content="index,follow" >
+	<meta name="description" content="Perian is a free, open source, QuickTime component that supports many popular media types, including AVI, DivX, and XviD." />
+	<meta name="keywords" content="OS X Universal Binary Open Source Project QuickTime Component Plugin DivX XviD FLV AVI MS-MPEG Sorenson Flash Truemotion H.264 MPEG4 AAC AC3 Audio VBR MP3" />
+	<meta name="author" content="Perian Project" >
+	<link rel="stylesheet" href="perian2012.css" type="text/css">
+	<title> Perian - The swiss-army knife of QuickTime&reg; components </title> 
+	<script type="text/javascript">	
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-347527-4']);
+		_gaq.push(['_setDomainName', 'perian.org']);
+		_gaq.push(['_trackPageview']);
+	
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+</head>
+<body>
+	 
+	<div id="retirementnotice">
+		<h2>
+			A notice to all of our users and supporters
+		</h2>
+		<p>
+			We began the Perian project over 6 years ago. We wanted to simplify viewing your content. Our team has attained that goal and with that in mind, Perian will be retired soon. Our stewardship has been a blast but it's time for all of us to move on.
+		</p>
+		<p>
+			From the beginning we kept Perian simple. Our preferences were minimal, updating was easy, and we gradually grew the product to add in extras like subtitles and different formats. We've contributed a lot. Today, Perian stands as complete as it ever will be under our stewardship.
+		</p>
+		<p>
+			There are some projects that we never got to. As an example, we would have liked an official, flexible, and well-documented import API to speed up MKV. We hit a brick wall there. Still, we reached a great stopping point and Perian's installed userbase proves how valuable this tool became to so many people.
+		</p>
+		<p>
+			Starting 90 days after the final Perian release, we will no longer provide support. We'll wrap up our loose ends, pack up our bags, and move on to new and exciting projects.
+		</p>
+		<p>
+			Here's what our roadmap looks like:
+		</p>
+		<ul>
+			<li>
+				We will soon release the final version of Perian, including all the fixes we've worked on since the last release. It may -- or may not -- work on 10.8.
+			</li>
+			<li>
+				We will post the source code to either Google Code or Github. 
+			</li>
+		</ul>
+		<p>
+			Here's what we're looking for from you, our users
+		</p>
+		<ul>
+			<li>
+				<a href="http://code.google.com/p/niceplayer/">
+					Download Niceplayer
+				</a>
+				, it's pretty great -- and those folks are doing a fantastic job.
+			</li>
+			<li>
+				Support each other on our 
+				<a href="https://groups.google.com/forum/?fromgroups#!forum/perian-discuss">
+					Google Group list
+				</a>
+				. We mean this. Just because we aren't helping anymore on a regular basis, that doesn't mean that 
+				<strong>
+					you
+				</strong>
+				can't.
+			</li>
+			<li>
+				Are you a developer? Pick up where we left off. Join us on #perian on irc.freenode.net. Yeah, we're all pretty busy -- so stick around after asking your question. You may have to wait a bit for an answer. Chalk it up to asynchronous tech support.
+			</li>
+			<li>
+				Want to donate? We appreciate the thought. It's hard times these days and your money will make a bigger impact elsewhere. Consider 
+				<a href="http://www.childsplaycharity.org/">
+					Child's Play
+				</a>
+				, 
+				<a href="http://rmhc.org/">
+					Ronald McDonald House
+				</a>
+				, or the 
+				<a href="https://www.eff.org/">
+					EFF
+				</a>
+				. We no longer accept donations.
+			</li>
+		</ul>
+		<p>
+			A final word: If and when Perian stops working, try looking into VLC or MPlayer OS X. Sure, they're not Perian, but they offer great software still under development.
+		</p>
+		<p>
+			Thanks for all of your support over the years. It has meant a lot to all of us.
+		</p>
+		<p>
+			Chris Forsythe <br />Graham Booker <br />Alexander Strange <br />Augie Fackler
+		</p>
+		<p>
+			PS We would like to thank Erica Sadun for helping us write this letter, and for general guidance.
+		</p>
+	</div>
+
+	<div id="header">
+		<div class="downloader">
+			<div class="download_wrapper">
+				<h3>
+				<a href="http://perian.cachefly.net/Perian_1.2.3.dmg" onclick="_gaq.push(['_trackEvent','Perian Downloads','Perian_1.2.3.dmg'])">
+					<img src="img/perian-knife.png" alt="perian logo"> Download Perian 1.2.3 Now!
+				</a>
+				<br>
+				<span style="text-transform:uppercase; font-size:9px;">
+					Mac OS X 10.4.7 or higher<br> 10.3 makes the <a href="iceweasel.html">iceweasel cower in fear</a>
+				</span>
+				</h3>
+			</div>
+			<h1>
+				Perian extends QuickTime support for many popular types of media 
+			</h1>
+		</div>
+		<div class="downloader">
+			<div class="download_wrapper">
+				<h3>
+				<a href="http://code.google.com/p/niceplayer/" onclick="_gaq.push(['_trackEvent','NicePlayer Links','http://code.google.com/p/niceplayer/'])">
+					<img src="img/logo_niceplayer.png" alt="NicePlayer logo"> Check out NicePlayer!
+				</a>
+				</h3>
+			</div>
+			<h1>
+				NicePlayer uses Perian to make your media viewing experience the best
+			</h1>
+		</div>
+	</div>
+	
+	<div id="about" style="clear:both;">
+		<div class="mediatypes">
+			<h3>File formats</h3>
+			<ul>
+				<li>AVI</li>
+				<li>DIVX</li>
+				<li>FLV</li>
+				<li>MKV</li>
+				<li>GVI</li>
+				<li>VP6</li>
+				<li>VFW</li>
+			</ul>
+		</div>
+		<div class="mediatypes">
+			<h3>Video types</h3>
+			<ul>
+				<li>MS-MPEG4 v1 &amp; v2</li>
+				<li>DivX</li>
+				<li>3ivx</li>
+				<li>H.264</li>
+				<li>Sorenson H.263</li>
+				<li>FLV/Sorenson Spark</li>
+				<li>FSV1</li>
+				<li>VP6</li>
+				<li>H263i</li>
+				<li>VP3</li>
+				<li>HuffYUV</li>
+				<li>FFVHuff</li>
+				<li>MPEG1 &amp; MPEG2 Video</li>
+				<li>Fraps</li>
+				<li>Snow</li>
+				<li>NuppelVideo</li>
+				<li>Techsmith Screen Capture</li>
+				<li>DosBox Capture</li>
+			</ul>
+		</div>
+		<div class="mediatypes">
+			<h3>Audio types</h3>
+			<ul>
+				<li>Windows Media Audio v1 &amp; v2</li>
+				<li>Flash ADPCM</li>
+				<li>Xiph Vorbis (in Matroska)</li>
+				<li>MPEG Layer I &amp; II Audio</li>
+				<li>True Audio</li>
+				<li>DTS Coherent Acoustics</li>
+				<li>Nellymoser ASAO</li>
+			</ul>
+		</div>
+		<div class="mediatypes">
+			<h3>AVI support</h3>
+			<ul>
+				<li>AAC</li>
+				<li>AC3 Audio</li>
+				<li>H.264</li>
+				<li>MPEG4</li>
+				<li>VBR MP3</li>
+			</ul>
+		</div>
+		<div class="mediatypes">
+			<h3>Subtitles</h3>
+			<ul>
+				<li>SSA/ASS</li>
+				<li>SRT</li>
+				<li>SAMI</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id='meet'>
+		<h2> The Perian Project Team members </h2> 
+		<ul>
+			<li>
+				System Administration, Mentoring and Development by <a href="http://www.cod3r.com"> Graham Booker </a> 
+			</li>
+			<li>
+				Core and Component Development by David Conrad, <a href="http://astrange.ithinksw.net"> Alexander Strange</a>, <a href="http://durin42.com/"> Augie Fackler</a>, Allan Hsu, and <a href="http://www.cod3r.com"> Graham Booker </a> 
+			</li>
+			<li>
+				Web Development by <a href="http://www.cybozone.com"> Sky Huvard </a> 
+			</li>
+			<li>
+				Project Management by <a href="http://twitter.com/The_Tick">Chris Forsythe</a>
+			</li>
+		</ul>
+		<p><em> Please contact the Perian Project Team ONLY via the <a href="https://groups.google.com/forum/?fromgroups#!forum/perian-discuss"> mailing list</a>. </em> </p>
+	</div>
+	
+	<div id='develop' style="clear:both;">
+		<h2> Perian would like to highlight the included third-party software libraries </h2> 
+		<ul>
+			<li>
+				libavcodec from the ffmpeg project, with code based on FFusion 
+			</li>
+			<li>
+				libavformat from the ffmpeg project, with code based on AviImporter
+			</li>
+			<li>
+				<a href="http://matroska.org">libmatroska</a>, with code based on MatroskaQT
+			</li>
+			<li>
+				<a href="http://liba52.sourceforge.net/">liba52</a>
+			</li>
+			<li>
+				Mozilla's <a href="http://www.mozilla.org/projects/intl/detectorsrc.html">Universal Charset Detector</a>
+			</li>
+		</ul>
+		<h2> Perian source code is available under the LGPL v2.1 or later </h2>
+		<ul>
+			<li><a href="http://perian.cachefly.net/Perian_1.2.3-src.zip" onclick="_gaq.push(['_trackEvent','Perian Downloads','Perian_1.2.3-src.zip'])"> Download Perian 1.2.3 open source </a></li>
+		</ul>
+
+		<h2> We offer a mailing list to communicate and collaborate </h2> 
+		<ul>
+			<li>
+				<a href="http://groups.google.com/group/perian-discuss"> Join the Perian mailing list</a> to discuss features, ask questions, report problems, and follow happenings in the community. 
+			</li>
+		</ul>
+	</div>
+	
+	<div id='explore'>
+		<h2> We are proud to offer links to related software in the community </h2> 
+		<ul>
+			<li>
+				Perian can be used with all QuickTime-supporting apps, including <a href="http://www.apple.com/au/quicktime/">QuickTime Player</a>, <a href="http://niceplayer.indyjt.com/"> NicePlayer</a>, and <a href="http://www.mikeash.com/software/qtamateur/"> QTAmateur</a>. 
+			</li>
+			<li>
+				The <a href="http://www.microsoft.com/windows/windowsmedia/player/wmcomponents.mspx">Flip4Mac</a> (Windows Media) and <a href="http://xiph.org/quicktime/">XiphQT</a> (Ogg) components add support for some formats not included in Perian.
+			</li>
+			<li>
+				The internet TV platform <a href="http://www.getmiro.com"> Miro</a> and Airport Express streaming app <a href="http://rogueamoeba.com/airfoil/">Airfoil</a> include Perian.
+			</li>
+		</ul>
+		<h2> The Perian Project would like to thank special contributors </h2> 
+		<ul>
+			<li>
+				Jérôme Cornet of <a href="http://aldorandenet.free.fr/codecs/"> FFusion </a> and Christoph Nägeli of <a href="http://n.ethz.ch/student/naegelic/"> XviD_Codec </a> for the <a href="http://n.ethz.ch/student/naegelic/notes/"> AviImporter</a>. 
+			</li>
+			<li>
+				<a href="http://ffmpeg.mplayerhq.hu/"> FFmpeg </a> for providing such a rich audio/video codec library. 
+			</li>
+			<li>
+				Dag Ågren and the Mozilla Foundation for the universal <a href="http://www.mozilla.org/projects/intl/chardet.html"> Charset Detector</a>. 
+			</li>
+			<li>
+				<a href="http://www.matroska.org/"> Matroska </a> for the audio/video container libraries. 
+			</li>
+			<li>
+				Perian software downloads are provided by <a href="http://www.cachefly.com/"> Cachefly</a>, Thanks! 
+			</li>
+		</ul>
+	</div>
+	
+	<div id='support'>
+		<h2> Installation and Removal of Perian</h2> 
+		<p>
+			Please consider removing obsolete QuickTime Components: FFusion, Xvid Delegate, 3ivX, DivX, DivX Decoder, XviD, msmpeg4v1, msmpeg4v2, AviImporter, EX_M4S2, Casio AVI Importer, AC3 Codec, and MatroskaQT.
+		</p>
+		<p>
+			<em>How do I remove Perian?</em>
+			<br />
+			Open the System Preferences. Select the Perian pane and 'Remove.' Now 'Show All' preference panes, control-click the Perian pane and 'Remove "Perian" Preference Pane.' 
+		</p>
+		<h2> Frequently Asked Questions </h2> 
+	
+		<p><em>Why does it take so long for MKV to load?</em></p>
+		<p>QuickTime expects to know the location of every single frame in a movie in order to play it. This is easy with its native format, MOV/MP4, but more difficult for several others, including MKV. Perian has to read in the entire file in order for seeking and playback to work.</p>
+
+		<p><em>Does hardware acceleration for H.264 work with Perian?</em></p>
+		<p>QuickTime supports hardware acceleration for some profiles of H.264; however, which profiles these are is not documented and may change on different Mac models. We do our best not to interfere, and some MKV files are known to work with hardware-accelerated decoding.</p>
+
+		<p><em>I thought Perian allowed me to play MPEG files, but it can't.  Why?</em></p>
+		<p>The term MPEG covers more than just a file type; it also defines audio and video compression methods.  Perian allows playback of these audio and video compression techniques, but it does not allow the ability to open the MPEG file format.  This is due to limitations within QuickTime itself, and we cannot solve it until Apple designs a better interface.  See <a href="http://openradar.appspot.com/6008501">our rdar</a> on the subject.</p>
+
+		<p><em>Will there be a version of Perian for the iPhone?</em></p>
+		<p>Unfortunately no, the iPhone does not have QuickTime. Since Perian is a third party component for QuickTime, we would need the iPhone to have QuickTime before we could get Perian onto the iPhone.</p>
+
+		<p><em>What if QuickTime for the iPhone ends up in a future update?</em></p>
+		<p>We are concerned that the iPhone, while a great device, is just too slow to play the type of files that you would use Perian to play.</p>
+
+		<p><em>I submitted a bug report and I was told it was fixed in SVN; what does this mean?</em></p>
+		<p>SVN refers to the system which the developers use to store the source code that makes Perian.  If an issue has been fixed in SVN, then that means the developers have tracked down the issue, and believes it to be fixed.  At this stage, it requires further testing after which it will be included in the next release.</p>
+	</div>
+
+	<div id='footer'>
+		<h3> Copyright &copy; 2006-2012 Perian Project. All rights reserved. </h3>
+		<h4> QuickTime &reg; Apple Computer, Inc., Windows Media &reg; Microsoft Corporation </h4> 		
+		<h3> <a href="http://www.cachefly.com"><img src="img/logo_cachefly.png" alt="cachefly"></a> </h3>
+	</div>
+</body>
+</html>

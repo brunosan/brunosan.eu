@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Know Your World</title>
+<link REL="SHORTCUT ICON" HREF="http://www.zugaldia.com/quiz/favicon.ico">
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0a2/jquery.mobile-1.0a2.min.css" />
+<script src="http://code.jquery.com/jquery-1.4.4.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.0a2/jquery.mobile-1.0a2.min.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-265455-12']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+<div data-role="page">
+
+<div data-role="header" data-nobackbtn="true">
+<a href="/index.php?q=get/home" rel="external">Home</a>
+<h1>Know Your World</h1>
+
+</div>
+<!-- /header -->
+
+<div data-role="content">
+<fb:login-button autologoutlink="true" perms="user_location"></fb:login-button>
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+	FB.init({appId: '170752239630150', status: true, cookie: true, xfbml: true});
+	FB.Event.subscribe('auth.sessionChange', function(response) {
+		window.location.reload(true);
+	});
+</script>	<p>Login to start, or scroll down to get more information on the game.</p><p><a href="http://appsfordevelopment.challengepost.com/submissions/1504-know-your-world">Know Your World</a> is a fun way to raise awareness and understanding of the Millennium Development Goals (MDG).</p>
+<p>Demonstrate your smarts by answering questions correctly and earning points.
+But be careful! A wrong answer will set you back some.</p>
+
+<p>Like this game?</p>
+<fb:like href="http://www.zugaldia.com/quiz" show_faces="true"></fb:like>
+
+<p>Originally submitted to</p>
+<p><a href="http://appsfordevelopment.challengepost.com" TARGET="_blank"><img src="static/AppsForDev_291x136.jpeg" /></a></div>
+<!-- /content -->
+
+<div data-role="footer" class="ui-bar">
+	Fueled by <a href="http://data.worldbank.org/" TARGET="_blank" data-icon="gear" rel="external">data.worldbank.org</a>
+</div>
+<!-- /footer -->
+
+</div>
+<!-- /page -->
+
+</body>
+</html>
