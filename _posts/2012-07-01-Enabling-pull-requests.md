@@ -9,6 +9,8 @@ I use a little .js to create a button to the edit link of the _post file on my g
 
 TODO Explain how it works and source the changes.
 
+test.
+
 % gist 2727042 %}
 bla
 % tweet https://twitter.com/svenningsen/status/144111724923076608 %}
