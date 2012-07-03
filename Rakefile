@@ -9,8 +9,7 @@ desc "publish updated site to gh-pages"
       system "mv _site/* ."
       system "git add -A && git commit -m \"#{args.commit_message}\""
       system "git checkout master"
-      system "git push origin master"
-      system "git push origin gh-pages"
+      system "git push"
     else
       puts "Missing commit_message"
     end
