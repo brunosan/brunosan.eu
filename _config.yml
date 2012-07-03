@@ -1,6 +1,6 @@
 lsi: false
 safe: false
-auto: true
+auto: false
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title/
