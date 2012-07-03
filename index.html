@@ -1,0 +1,36 @@
+---
+layout: default
+title: Brunosan
+description: Science works regardless of what people think, but it´s better when they do
+keywords: brunosan
+change_frequency: daily
+priority: 1.0
+---
+
+  {% for post in site.posts offset: 0 limit: 10 %}
+
+  {% if post.external-url %}
+  
+    <div id="entry-link">
+      	<h2><a href="{{ post.external-url }}">{{ post.title }}</a> → </h2>
+        {{ post.content }}
+        <time>{{ post.date | date_to_string }} •
+		<a id="pull-request-btn" class="btn" href="{{site.baseurl}}{{ post.url }}" data-date="{{ post.date | date: "%Y-%m-%d" }}" data-title="{{ post.url }}">
+			            Send edit request
+			        </a><a href="/posts/jekyll-pull-requests-github">?</a></time>
+			</time></p>
+    </div>
+  
+  {% else %}
+    <div id="entry-post">
+      	<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <a class="perma" href="{{site.baseurl}}{{ post.url }}">∞</a></h2>
+         {{ post.content | postmorefilter: post.url, "Read the rest of this entry" }}
+        <time>{{ post.date | date_to_string }} •
+		<a id="pull-request-btn" class="btn" href="{{site.baseurl + post.url }}" data-date="{{ post.date | date: "%Y-%m-%d" }}" data-title="{{ post.url }}">
+			            Send edit request
+			        </a><a href="/posts/jekyll-pull-requests-github">?</a></time>
+    </div>
+  
+  {% endif %}
+
+  {% endfor %}

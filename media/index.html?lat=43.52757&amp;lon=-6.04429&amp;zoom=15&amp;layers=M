@@ -1,0 +1,483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+  <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
+  <script type='text/javascript'>
+i18n_strings = new Array();
+i18n_strings['javascripts.site.history_zoom_alert'] = 'You must zoom in to view edits for this area';
+i18n_strings['javascripts.site.history_tooltip'] = 'View edits for this area';
+i18n_strings['javascripts.site.history_disabled_tooltip'] = 'Zoom in to view edits for this area';
+i18n_strings['javascripts.site.edit_tooltip'] = 'Edit the map';
+i18n_strings['javascripts.site.edit_disabled_tooltip'] = 'Zoom in to edit the map';
+i18n_strings['javascripts.site.edit_zoom_alert'] = 'You must zoom in to edit the map';
+i18n_strings['javascripts.map.base.cycle_map'] = 'Cycle Map';
+i18n_strings['javascripts.map.base.mapquest'] = 'MapQuest Open';
+i18n_strings['javascripts.map.base.standard'] = 'Standard';
+i18n_strings['javascripts.map.base.transport_map'] = 'Transport Map';
+i18n_strings['javascripts.map.overlays.maplint'] = 'Maplint';
+</script>
+
+  <script src="/assets/site-73315488f1f0d319ea6afa9e8063be00.js" type="text/javascript"></script>
+  <script src="/assets/menu-50687674474c7218a0ad7dd076fd41d0.js" type="text/javascript"></script>
+  <!--[if lt IE 7]><script src="/assets/pngfix-728be898eb909527d116b2a835778634.js" type="text/javascript"></script><![endif]--> <!-- thanks, microsoft! -->
+  <link href="/assets/small-ltr-23fb933474028c699ed4a293278cf60e.css" media="only screen and (max-width:641px)" rel="stylesheet" type="text/css" />
+  <link href="/assets/large-ltr-c20190fcd08bab6d8380f016aafad569.css" media="screen and (min-width: 642px)" rel="stylesheet" type="text/css" />
+  <link href="/assets/print-ltr-c39fd77ccd8d993c869153dea8a99303.css" media="print" rel="stylesheet" type="text/css" />
+  <!--[if IE]><link href="/assets/large-ltr-c20190fcd08bab6d8380f016aafad569.css" media="screen" rel="stylesheet" type="text/css" /><![endif]--> <!-- IE is totally broken with CSS media queries -->
+  <link href="/assets/favicon-6cbc328e72c8be5cba6d919eb76066ed.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="/assets/osm_logo-bd070644a6d1e2ea4db5d1893091b1e7.png" rel="apple-touch-icon" type="image/png" />
+  <link href="https://plus.google.com/111953119785824514010" rel="publisher" />
+  <link href="/assets/osm-e3cfc668f13605eb12df6d049fdd4149.xml" rel="search" title="OpenStreetMap Search" type="application/opensearchdescription+xml" />
+  <meta content="OpenStreetMap is the free wiki world map." name="description" />
+  <style type="text/css">.hidden { display: none }.hide_unless_logged_in { display: none }.hide_unless_administrator { display: none }</style>
+  
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="iwlIzn0ucHXMqiI+GC8QA9t/NuCnOruNVsPMoKp4DCQ=" name="csrf-token" />
+  <title>OpenStreetMap</title>
+</head>
+
+  <body class="site">
+    <div id="small-title">
+      <a href="/"><img alt="OpenStreetMap logo" border="0" height="16" src="/assets/osm_logo-bd070644a6d1e2ea4db5d1893091b1e7.png" width="16" /></a>
+      <h1>OpenStreetMap</h1>
+    </div>
+    <div id="content" class="site_index">
+      
+
+
+
+      
+
+<div id="sidebar">
+  <table class="sidebar_title" width="100%">
+    <tr>
+      <td id="sidebar_title"></td>
+      <td id="sidebar_close"><a href="javascript:closeSidebar()">Close</a></td>
+    </tr>
+  </table>
+  <div id="sidebar_content">
+  </div>
+</div>
+
+<script type="text/javascript">
+<!--
+  var onclose;
+
+  function openSidebar(options) {
+    options = options || {};
+
+    if (onclose) {
+       onclose();
+       onclose = null;
+    }
+
+    if (options.title) { $("#sidebar_title").html(options.title); }
+
+    if (options.width) { $("#sidebar").width(options.width); }
+    else { $("#sidebar").width("30%"); }
+
+    $("#sidebar").css("display", "block");
+
+    resizeMap();
+
+    onclose = options.onclose;
+  }
+
+  function closeSidebar() {
+    $("#sidebar").css("display", "none");
+
+    resizeMap();
+
+    if (onclose) {
+       onclose();
+       onclose = null;
+    }
+  }
+
+  function updateSidebar(title, content) {
+    $("#sidebar_title").html(title);
+    $("#sidebar_content").html(content);
+  }
+// -->
+</script>
+
+<script type="text/javascript">
+$(document).ready(function () {
+  var updateMapKey = function () {
+    $("#sidebar_content").load("/key", {
+      layer: map.baseLayer.keyid,
+      zoom: map.getZoom()
+    });
+  }
+
+  var closeMapKey = function () {
+    map.events.unregister("zoomend", map, updateMapKey);
+    map.events.unregister("changelayer", map, updateMapKey);
+  }
+
+  $("#open_map_key").click(function () {
+    updateMapKey();
+
+    openSidebar({ 
+      title: "Map Key",
+      onclose: closeMapKey
+    });
+
+    map.events.register("zoomend", map, updateMapKey);
+    map.events.register("changelayer", map, updateMapKey);
+  });
+});
+</script>
+
+
+<script type="text/javascript">
+<!--
+  function describeLocation() {
+    var args = getArgs($("#viewanchor").attr("href"));
+
+    $("#sidebar_title").html("Search Results");
+    $("#sidebar_content").load("/geocoder/description", {
+      lat: args["lat"],
+      lon: args["lon"],
+      zoom: args["zoom"]
+    }, openSidebar);
+  }
+
+  function doSearch(query) {
+    $("#sidebar_title").html("Search Results");
+
+    var extent = unproj(map.getExtent());
+
+    $("#sidebar_content").load("/geocoder/search", {
+      query: $("#query").val(),
+      minlon: extent.left,
+      minlat: extent.bottom,
+      maxlon: extent.right,
+      maxlat: extent.top
+    }, openSidebar);
+  }
+
+  $(document).ready(function () {
+    $("#search_form").submit(function (event) {
+      doSearch($("#query").val());
+
+      return false;
+    });
+  });
+// -->
+</script>
+
+
+
+<noscript>
+  <div id="noscript">
+    <p>You are either using a browser that does not support JavaScript, or you have disabled JavaScript.</p>
+    <p>OpenStreetMap uses JavaScript for its slippy map.</p>
+  </div>
+</noscript>
+
+<div id="map">
+  <div id="permalink">
+    <a href="/" id="permalinkanchor" class="geolink llz layers object">Permalink</a>
+    <a href="/" id="shortlinkanchor">Shortlink</a>
+  </div>
+</div>
+
+<iframe id="linkloader" style="display: none">
+</iframe>
+
+<div id="attribution">
+  <table width="100%">
+    <tr>
+      <td class="attribution_license">http://creativecommons.org/licenses/by-sa/2.0/</td>
+      <td class="attribution_project">http://openstreetmap.org</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="attribution_notice">Licensed under the Creative Commons Attribution-Share Alike 2.0 license by the OpenStreetMap project and its contributors.</td>
+    </tr>
+  </table>
+</div>
+
+
+<script src="/assets/openlayers-3244943b0cd3ce9567e32f839a9f4c20.js" type="text/javascript"></script>
+<script src="/assets/map-5f47e381f157efc042b7003a4861db7e.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  var brokenContentSize = $("#content").prop("offsetWidth") == 0;
+
+  function resizeContent() {
+    var content = $("#content");
+    var leftMargin = parseInt(content.css("left"));
+    var rightMargin = parseInt(content.css("right"));
+    var bottomMargin = parseInt(content.css("bottom"));
+
+    content.width($(window).width() - content.prop("offsetLeft") - rightMargin);
+    content.height($(window).height() - content.prop("offsetTop") - bottomMargin);
+  }
+
+  function resizeMap() {
+    var content_width = $("#content").width();
+    var content_height = $("#content").height();
+    var sidebar_width = 0 + $("#sidebar:visible").outerWidth(true);
+    var left_border = parseFloat($("#map").css("border-left-width"));
+    var right_border = parseFloat($("#map").css("border-right-width"));
+    var top_border = parseFloat($("#map").css("border-top-width"));
+    var bottom_border = parseFloat($("#map").css("border-bottom-width"));
+
+    $("#map").css("left", (sidebar_width) + "px");
+    $("#map").width(content_width - sidebar_width - left_border - right_border);
+    $("#map").height(content_height - top_border - bottom_border);
+
+    map.updateSize();
+  }
+
+  function handleResize() {
+    if (brokenContentSize) {
+      resizeContent();
+    }
+
+    resizeMap();
+  }
+</script>
+
+
+<script type="text/javascript">
+  var marker;
+  var map;
+
+  OpenLayers.Lang.setCode("en");
+
+  function mapInit(){
+    map = createMap("map");
+
+      map.dataLayer = new OpenLayers.Layer("Browse Map Data", {
+          visibility: false,
+          displayInLayerSwitcher: false
+      });
+      map.addLayer(map.dataLayer);
+
+        var centre = new OpenLayers.LonLat(-6.04429, 43.52757);
+        var zoom = 15;
+
+        setMapCenter(centre, zoom);
+
+      setMapLayers("M");
+
+
+
+    map.events.register("moveend", map, updateLocation);
+    map.events.register("changelayer", map, updateLocation);
+
+    updateLocation();
+    handleResize();
+  }
+
+  $(document).ready(function () {
+    $("#show_data").click(function () {
+      $.ajax({ url: "/browse/start" });
+    });
+
+    $("body").on("click", "a.set_position", function () {
+      var lat = parseFloat($(this).attr("data-lat"));
+      var lon = parseFloat($(this).attr("data-lon"));
+      var zoom = parseInt($(this).attr("data-zoom"));
+      var min_lon = parseFloat($(this).attr("data-min-lon"));
+      var min_lat = parseFloat($(this).attr("data-min-lat"));
+      var max_lon = parseFloat($(this).attr("data-max-lon"));
+      var max_lat = parseFloat($(this).attr("data-max-lat"));
+      var centre = new OpenLayers.LonLat(lon, lat);
+
+      if (min_lon && min_lat && max_lon && max_lat) {
+        var bbox = new OpenLayers.Bounds(min_lon, min_lat, max_lon, max_lat);
+
+        map.zoomToExtent(proj(bbox));
+      } else {
+        setMapCenter(centre, zoom);
+      }
+
+      if (marker) {
+        removeMarkerFromMap(marker);
+      }
+
+      marker = addMarkerToMap(centre, getArrowIcon());
+
+      return false;
+    });
+  });
+
+  function updateLocation() {
+    var lonlat = unproj(map.getCenter());
+    var zoom = map.getZoom();
+    var layers = getMapLayers();
+    var extents = unproj(map.getExtent());
+    var expiry = new Date();
+    var objtype;
+    var objid;
+
+
+    updatelinks(lonlat.lon, lonlat.lat, zoom, layers, extents.left, extents.bottom, extents.right, extents.top, objtype, objid);
+
+    expiry.setYear(expiry.getFullYear() + 10);
+    document.cookie = "_osm_location=" + lonlat.lon + "|" + lonlat.lat + "|" + zoom + "|" + layers + "; expires=" + expiry.toGMTString();
+  }
+
+  function remoteEditHandler(event) {
+    var extent = unproj(map.getExtent());
+    var loaded = false;
+
+    $("#linkloader").load(function () { loaded = true; });
+    $("#linkloader").attr("src", "http://127.0.0.1:8111/load_and_zoom?left=" + extent.left + "&top=" + extent.top + "&right=" + extent.right + "&bottom=" + extent.bottom);
+
+    setTimeout(function () {
+      if (!loaded) alert("Editing failed - make sure JOSM or Merkaartor is loaded and the remote control option is enabled");
+    }, 1000);
+
+    return false;
+  }
+
+  function installEditHandler() {
+    $("#remoteanchor").click(remoteEditHandler);
+
+  }
+
+  $(document).ready(mapInit);
+  $(document).ready(installEditHandler);
+  $(document).ready(handleResize);
+
+  $(window).resize(function() {
+    var centre = map.getCenter();
+    var zoom = map.getZoom();
+
+    handleResize();
+
+    map.setCenter(centre, zoom);
+  });
+
+  $(document).ready(function () {
+    $("#exportanchor").click(function (e) {
+      $.ajax({ url: "/export/start" });
+      e.preventDefault();
+    });
+
+
+  });
+// -->
+</script>
+
+    </div>
+
+    <div id='top-bar'>
+      <span id="greeting">
+           <a href="/login?referer=%2F%3Flat%3D43.52757%26amp%3Blon%3D-6.04429%26amp%3Bzoom%3D15%26amp%3Blayers%3DM" id="loginanchor" title="Log in with an existing account">log in</a> |
+           <a href="/user/new" id="registeranchor" title="Create an account for editing">sign up</a>
+      </span>
+      <ul id="tabnav">
+        <li><a href="/" class="geolink llz layers active" id="viewanchor" title="View the map">View</a></li>
+        <li><a href="/edit" class="geolink llz object minzoom13 disabled" id="editanchor" title="Edit the map">Edit<span class="menuicon">▾</span></a></li>
+        <li><a href="/browse/changesets" class="geolink bbox minzoom11" id="historyanchor" title="View edits for this area">History</a></li>
+        <li><a href="/export" class="geolink llz layers" id="exportanchor" title="Export map data">Export</a></li>
+      </ul>
+    </div>
+
+    <div id="editmenu" class="menu">
+      <ul>
+          <li><a href="/edit?editor=potlatch" class="geolink llz object" id="potlatchanchor">Edit with Potlatch 1 (in-browser editor)</a></li>
+          <li><a href="/edit?editor=potlatch2" class="geolink llz object" id="potlatch2anchor">Edit with Potlatch 2 (in-browser editor)</a></li>
+          <li><a href="/edit?editor=remote" class="geolink llz object" id="remoteanchor">Edit with Remote Control (JOSM or Merkaartor)</a></li>
+            <li><a href="#" id="show_data">Browse Map Data</a></li>
+
+      </ul>
+    </div>
+
+    <script type="text/javascript">
+      createMenu("editanchor", "editmenu", "left");
+    </script>
+
+    <div id="left">
+      <div id="logo">
+        <a href="/"><img alt="OpenStreetMap logo" border="0" height="120" src="/assets/osm_logo-bd070644a6d1e2ea4db5d1893091b1e7.png" width="120" /></a><br/>
+        <h1>OpenStreetMap</h1>
+        <h2 class="nowrap">The Free Wiki World Map</h2>
+      </div>
+
+        <div class="optionalbox">
+    <span class="whereami"><a href="javascript:describeLocation()" title="Describe the current location using the search engine">Where am I?</a></span>
+    <h1>Search</h1>
+    <div class="search_container">
+    <div id="search_field">
+    <form accept-charset="UTF-8" action="#" id="search_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iwlIzn0ucHXMqiI+GC8QA9t/NuCnOruNVsPMoKp4DCQ=" /></div>
+      <input id="query" name="query" tabindex="1" type="text" value="" />
+      <input name="commit" type="submit" value="Go" />
+</form>    </div>
+    </div>
+    <p class="search_help">
+      examples: 'Alkmaar', 'Regent Street, Cambridge', 'CB2 5AQ', or 'post offices near Lünen' <a href='http://wiki.openstreetmap.org/wiki/Search'>more examples...</a>
+    </p>
+  </div>
+
+
+      <div class="sidebar-copy">
+        <p>
+          OpenStreetMap is a free worldwide map, created by people like you.
+        </p>
+        <p>
+        The data is free to <a href="http://planet.openstreetmap.org/">download</a> and <a href="http://wiki.openstreetmap.org/wiki/Using_OpenStreetMap">use</a> under its <a href="/copyright">open license</a>. <a href="/user/new">Create a user account</a> to improve the map.
+        </p>
+      </div>
+
+
+
+      <div id="left_menu" class="left_menu">
+        <ul>
+          <li>Help
+              <ul>
+              <li><a href="http://help.openstreetmap.org/" title="Help site for the project">Help Centre</a></li>
+              <li><a href="http://wiki.openstreetmap.org/" title="Documentation for the project">Documentation</a></li>
+              <li><a href="/copyright">Copyright &amp; License</a></li>
+              </ul>
+          </li>
+          <li>Community
+              <ul>
+              <li><a href="http://blogs.openstreetmap.org/" title="Blogs from members of the OpenStreetMap community">Community Blogs</a></li>
+              <li><a href="http://www.osmfoundation.org" title="The OpenStreetMap Foundation">Foundation</a></li>
+              <li><a href="/diary" title="View user diaries">User Diaries</a></li>
+              </ul>
+          </li>
+          <li><a href="/traces" id="traceanchor" title="Manage GPS traces">GPS Traces</a></li>
+            <li><a href="#" id="open_map_key" title="Key for the map">Map Key</a></li>
+
+        </ul>
+      </div>
+
+      <div class="donate">
+        <a href="http://donate.openstreetmap.org/" title="Support OpenStreetMap with a monetary donation">Make a Donation</a>
+      </div>
+      <div class='sidebar-copy'>
+          <p>Hosting is supported by <a href="http://www.vr.ucl.ac.uk">the UCL VR Centre</a>, <a href="http://www.imperial.ac.uk/">Imperial College London</a> and <a href="http://www.bytemark.co.uk">Bytemark Hosting</a>, and other <a href="http://wiki.openstreetmap.org/wiki/Partners">partners</a>.
+          </p>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+      var auth_token = $("meta[name=csrf-token]").attr("content");
+      $("form input[name=authenticity_token]").val(auth_token);
+
+      $("textarea").autoGrow();
+    });
+    </script>
+
+    <script type="text/javascript">
+var _paq = _paq || [];
+(function(){ var u="http://piwik.openstreetmap.org/";
+_paq.push(['setSiteId', 1]);
+_paq.push(['setTrackerUrl', u+'piwik.php']);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript'; g.defer=true; g.async=true; g.src=u+'piwik.js';
+s.parentNode.insertBefore(g,s); })();
+</script>
+<noscript><p><img src="http://piwik.openstreetmap.org/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+
+  </body>
+</html>

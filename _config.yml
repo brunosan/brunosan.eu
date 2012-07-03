@@ -1,0 +1,16 @@
+lsi: false
+safe: false
+auto: true
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title/
+exclude: ["wordpress", "Rakefile", "README.md", "_template.md", "new.rb"]   
+multivews: true
+
+name: Tagline
+baseurl:       /brunosan.eu
+description:    "Tag line"
+root_desc:      "Brunosan"
+
+rdiscount:
+    extensions: [smart]

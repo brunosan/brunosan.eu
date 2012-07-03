@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+
+<meta name="viewport" content="width=1024,maximum-scale=1.0">
+<meta property="fb:app_id" content="19884028963">
+
+            <meta property="og:title" content="OpenStreetMap - Project Haiti">
+            <meta property="og:description" content="A visualisation of the response to the earthquake by the OpenStreetMap community.  Within 12 hours the white flashes indicate edits to the map (generally by tracing satellite/aerial photography).  Over the following days a large number of additions to&hellip;">
+            <meta property="og:image" content="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
+            <meta property="og:type" content="video.other">
+            <meta property="og:video" content="http://vimeo.com/moogaloop.swf?clip_id=9182869">
+            <meta property="og:video:secure_url" content="https://vimeo.com/moogaloop.swf?clip_id=9182869">
+            <meta property="og:video:type" content="application/x-shockwave-flash">
+            <meta property="og:video:width" content="640">
+            <meta property="og:video:height" content="360">
+            <meta property="og:site_name" content="Vimeo">
+            <meta property="og:url" content="http://vimeo.com/9182869">
+    
+        <meta name="twitter:card" content="player">
+        <meta name="twitter:player" content="https://player.vimeo.com/video/9182869">
+        <meta name="twitter:player:height" content="360">
+        <meta name="twitter:player:width" content="640">
+        <meta name="medium" content="video">
+        <meta name="description" content="A visualisation of the response to the earthquake by the OpenStreetMap community.  Within 12 hours the white flashes indicate edits to the map (generally by tracing satellite/aerial photography).  Over the following days a large number of additions to&hellip;">
+
+
+
+
+    <link rel="alternate" href="http://vimeo.com/api/oembed.json?url=http%3A%2F%2Fvimeo.com%2F9182869" type="application/json+oembed">
+    <link rel="alternate" href="http://vimeo.com/api/oembed.xml?url=http%3A%2F%2Fvimeo.com%2F9182869" type="text/xml+oembed">
+    <link rel="alternate" href="/m/9182869" media="handheld">
+    <link rel="canonical" href="/9182869">
+
+<link rel="apple-touch-icon-precomposed" media="(resolution: 326dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-114.png">
+<link rel="apple-touch-icon-precomposed" media="(resolution: 163dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-57.png">
+<link rel="apple-touch-icon-precomposed" media="(resolution: 132dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-72.png">
+<link rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml" title="Vimeo search">
+
+        <title>OpenStreetMap - Project Haiti on Vimeo</title>
+                                    <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/global_combined.min.css?5fd33273">
+    <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/clip_combined.min.css?f4cf39f6">
+    <link rel="stylesheet" href="http://a.vimeocdn.com/p/1.4.22/css/player.core.opt.css">
+    <noscript>
+        <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/nojs.min.css?df0617d">
+    </noscript>
+    <script>
+        var js_css = document.createElement('link');
+        js_css.rel = 'stylesheet'
+        js_css.href = 'http://a.vimeocdn.com/css_v6_opt/js_enabled.min.css?df0617d';
+        document.getElementsByTagName('head')[0].appendChild(js_css);
+    </script>
+            </head>
+    <body>
+        <div id="wrap">
+
+            
+            <div id="ribbon" style="background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjEwMCUiPgogICAgPGRlZnM+CiAgICAgICAgPHBhdHRlcm4gaWQ9InJhaW5ib3ciIHBhdHRlcm5Vbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHdpZHRoPSI1MDBweCIgaGVpZ2h0PSIxMDAlIj4KICAgICAgICAgICAgICAgICAgICA8cmVjdCB4PSIwcHgiIHk9IjAiIHdpZHRoPSI4cHgiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6IzE3MjMyNyIgLz4KICAgICAgICAgICAgICAgICAgICA8cmVjdCB4PSI4cHgiIHk9IjAiIHdpZHRoPSIzMXB4IiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiMxOTM3MmMiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMzlweCIgeT0iMCIgd2lkdGg9IjJweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojMzI3MzQ0IiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjQxcHgiIHk9IjAiIHdpZHRoPSIycHgiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6IzQzN2U0YyIgLz4KICAgICAgICAgICAgICAgICAgICA8cmVjdCB4PSI0M3B4IiB5PSIwIiB3aWR0aD0iNjJweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojODY5OTU2IiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjEwNXB4IiB5PSIwIiB3aWR0aD0iMjdweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojYjA4ZjQyIiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjEzMnB4IiB5PSIwIiB3aWR0aD0iNjRweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojYjQ2ODM5IiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjE5NnB4IiB5PSIwIiB3aWR0aD0iMTBweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojYTQzOTQxIiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjIwNnB4IiB5PSIwIiB3aWR0aD0iN3B4IiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiM5YzJjNTIiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMjEzcHgiIHk9IjAiIHdpZHRoPSI0MXB4IiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNiYjQyNmIiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMjU0cHgiIHk9IjAiIHdpZHRoPSIzOHB4IiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiM4YTJmNWMiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMjkycHgiIHk9IjAiIHdpZHRoPSIyNnB4IiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiM2ZDQxNmQiIC8+CiAgICAgICAgICAgICAgICAgICAgPHJlY3QgeD0iMzE4cHgiIHk9IjAiIHdpZHRoPSIxcHgiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6IzQxMzI2NCIgLz4KICAgICAgICAgICAgICAgICAgICA8cmVjdCB4PSIzMTlweCIgeT0iMCIgd2lkdGg9IjZweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojMjk0MTZlIiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjMyNXB4IiB5PSIwIiB3aWR0aD0iMzRweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojNTY5MGE1IiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjM1OXB4IiB5PSIwIiB3aWR0aD0iNzNweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojMmU4NDlkIiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjQzMnB4IiB5PSIwIiB3aWR0aD0iMjJweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojMjc2Njg2IiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjQ1NHB4IiB5PSIwIiB3aWR0aD0iMzhweCIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojMjM0MzZlIiAvPgogICAgICAgICAgICAgICAgICAgIDxyZWN0IHg9IjQ5MnB4IiB5PSIwIiB3aWR0aD0iOHB4IiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiMxNDJhMDYiIC8+CiAgICAgICAgICAgICAgICA8L3BhdHRlcm4+CiAgICA8L2RlZnM+CiAgICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI3JhaW5ib3cpIiAvPgo8L3N2Zz4K);"></div>
+
+            <div id="main">
+                <div id="brozar_toggle"></div>
+<header id="site_header">
+    <div class="container clearfix">
+        <a id="logo" href="/" title="Go home">
+                            <img class="svg" src="http://a.vimeocdn.com/logo.svg" alt="Go home" width="140" height="40">
+                    </a>
+        <nav>
+            <ul id="menu" class="clearfix">
+                                    <li class="join">
+                        <a href="/join" class="join">Join</a>
+                    </li>
+                    <li>
+                        <a href="/log_in" data-lightbox class="login">Log In</a>
+                    </li>
+                    <li class="explore subnav">
+                        <a href="/explore">Explore</a>
+                        <ul>
+                            <li>
+                                <a href="/categories">
+                                    <strong>Categories</strong> A simple way to browse our catalog of videos.                                </a>
+                            </li>
+                            <li>
+                                <a href="/channels">
+                                    <strong>Channels</strong> Video showcases curated by members.                                </a>
+                            </li>
+                            <li>
+                                <a href="/groups">
+                                    <strong>Groups</strong> Join other members to watch and discuss.                                </a>
+                            </li>
+                            <li>
+                                <a href="/hd">
+                                    <strong>HD Videos</strong> Amazing HD quality videos for you.                                </a>
+                            </li>
+                            <li>
+                                <a href="/staffpicks">
+                                    <strong>Staff Picks</strong> Hand-picked videos we like.                                </a>
+                            </li>
+                            <li class="last">
+                                <a href="/creativecommons">
+                                    <strong>Creative Commons</strong> Find licensed videos on Vimeo.                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="help subnav">
+                        <a href="/help">Help</a>
+                        <ul>
+                            <li>
+                                <a href="/help">
+                                    <strong>Help Center</strong> Need help? Look here first.                                </a>
+                            </li>
+                            <li>
+                                <a href="/help/faq">
+                                    <strong>FAQ</strong> Our answers to your questions.                                </a>
+                            </li>
+                            <li>
+                                <a href="/help/basics">
+                                    <strong>Vimeo Basics</strong> Everything you need to know about this place.                                </a>
+                            </li>
+                            <li>
+                                <a href="/guidelines">
+                                    <strong>Guidelines</strong> A practical and ethical guide to Vimeo.                                </a>
+                            </li>
+                            <li>
+                                <a href="/forums">
+                                    <strong>Forums</strong> Share, learn, and talk with other members.                                </a>
+                            </li>
+                            <li class="last">
+                                <a href="http://developer.vimeo.com">
+                                    <strong>Developers &amp; API</strong>Get in touch with your inner nerd.                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                            </ul>
+        </nav>
+
+        <form action="/search" method="get" id="search_form" class="clearfix">
+            <input type="text" name="q" value="" placeholder="Search" data-validators="required" data-speech-enabled>
+            <input type="submit" value="s" data-submit-text="s" class="btn_search iconify" title="Search">
+        </form>
+    </div>
+</header>
+<div class="clear"></div>
+                                 
+                <div id="content">
+                    
+
+<div id="cols" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+        <meta itemprop="playpageUrl" content="http://vimeo.com/9182869">
+    <meta itemprop="discussionUrl" content="http://vimeo.com/9182869">
+    <meta itemprop="height" content="1280">
+    <meta itemprop="width" content="720">
+    <meta itemprop="image" content="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
+    <meta itemprop="thumbnailUrl" content="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
+    <meta itemprop="playerType" content="HTML5 Flash">
+    <meta itemprop="encodingFormat" content="MP4">
+    <meta itemprop="videoQuality" content="HD">
+    <meta itemprop="interactionCount" content="UserPlays:40820">
+    <meta itemprop="interactionCount" content="UserLikes:95">
+    <meta itemprop="interactionCount" content="UserComments:8">
+    <meta itemprop="duration" content="PT00H00M31S">
+    <meta itemprop="dateCreated" content="2010-02-03T11:06:15-05:00">
+    <meta itemprop="uploadDate" content="2010-02-03T11:06:15-05:00">
+    <meta itemprop="embedUrl" content="http://player.vimeo.com/video/9182869">
+    <div itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
+        <meta itemprop="url" content="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
+        <meta itemprop="width" content="640">
+        <meta itemprop="height" content="360">
+    </div>
+    <div itemprop="provider" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="name" content="Vimeo">
+        <meta itemprop="url" content="http://vimeo.com">
+    </div>
+
+    <div id="clip">
+        <div id="video">
+            
+<div class="vimeo_holder" style="width:960px;height:540px;background-image:url('http://b.vimeocdn.com/ts/448/159/44815973_640.jpg');">
+    <!--[if lt IE 9]><style scoped="scoped">.a.d .ab {display: block;}.a.d .bp {background: #000;filter: alpha(opacity='70');}</style><![endif]--><style scoped="scoped">.f {overflow: hidden;padding: 0;margin: 0;width: 100%;height: 100%;background: transparent;}.f > div {width: 100%;height: 100%;}.f .t .as,.f .t .b {visibility: hidden !important;}.f .t .k,.f .t .j,.f .t .b {opacity: 0;filter:alpha(opacity=0);}.f .ab {position: absolute;left: 0;top: 0;z-index: 1;width: 100%;height: 100%;background-position: 50% 50%;background-repeat: no-repeat;background-color: #000;-webkit-background-size: 100% auto;-moz-background-size: 100% auto;background-size: 100% auto;}.by.t .ab + div {position: absolute;z-index: 2;opacity: 1 !important;}.f .w,.f .v {background: #000;}.f .w .ab {-webkit-background-size: auto 100% !important;-moz-background-size: auto 100% !important;background-size: auto 100% !important;}.f .v .ab {-webkit-background-size: 100% auto !important;-moz-background-size: 100% auto !important;background-size: 100% auto !important;}.f object {z-index: 2;position: absolute;}body.aa {overflow: hidden;}body.aa .f .b, .a.r .b {max-width: 50%;margin-left: -25%;left: 50%;}.br {display: none !important;}.an {opacity: 0 !important;filter: alpha(opacity='0');}.bn {visibility: hidden !important;}</style><div id="player_9182869_1593976298" class="f player"><style scoped="scoped">.a aside button.z.ce:after {content: 'Remove';}.a aside button.z:after {content: 'Later';}.a aside button.bl.ce:after {content: ' on';}.a aside button.bl:after {content: ' off';}</style><div class="t"><div class="bf"><div class="ab br" style="background-image: url(http://b.vimeocdn.com/ts/448/159/44815973_640.jpg);" data-thumb="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg"></div></div><div class="as"><header class="k"></header><aside class="j"><button class="cs au"><canvas width="30" height="20"></canvas>Like</button><button class="z au"><canvas width="30" height="20"></canvas></button><button class="cf au"><canvas width="30" height="20"></canvas>Share</button><button class="bl au">Scaling is</button></aside></div><div class="b"><button class="ar au"><canvas width="20" height="20"></canvas></button><div class="h au"><div class="i"><canvas class="bt" height="8"></canvas><div class="bs" data-min="0" data-max="1"></div><div class="bq" data-min="0" data-max="1"></div><div class="m"><div class="n"><span>00:00</span><div class="ax"></div><div class="dj"></div></div></div><div class="af"><div class="n"><span>31</span><div class="ax cn"></div><div class="ax"></div></div></div></div><div class="be"><canvas width="34" height="15"></canvas></div><div class="aq off"><button>HD</button></div><div class="r"><canvas width="12" height="12"></canvas></div></div></div><div class="e br"></div><div class="bp br"></div></div></div></div>
+
+        </div>
+
+        <div id="info" class="boxed">
+            
+
+<header id="page_header">
+    <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="name" content="ItoWorld">
+        <a href="http://vimeo.com/itoworld" itemprop="url">
+            <img src="http://b.vimeocdn.com/ps/906/906594_75.jpg" alt="ItoWorld" class="portrait portrait_lg" itemprop="image">
+        </a>
+    </div>
+    <div class="video_meta">
+        <h1 itemprop="name">OpenStreetMap - Project Haiti</h1>
+        <div class="byline">
+             by <a rel="author" href="/itoworld">ItoWorld</a> <a href="/plus" title="Learn more about Vimeo Plus" data-ga-event="button|plus_badge_click|plus"><span class="badge_plus">Plus</span></a>            <time datetime="2010-02-03T11:06:15-05:00" title="Wednesday, February 3, 2010 11:06 AM">2 years ago</time>            
+                            <span class="meta">
+                    /
+                    <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Attribution Share Alike" target="_blank" rel="license">
+                        <dl class="cc_list sm">
+                            <dt>Creative Commons License:</dt>
+                                                                                        <dd class="by">by</dd>
+                                                            <dd class="sa">sa</dd>
+                                                    </dl>
+                    </a>
+                </span>
+                    </div>
+    </div>
+</header>
+
+<div class="description_wrapper">
+    <div class="description collapsed" data-expand-tooltip="Click to expand description" itemprop="description">
+        <p class="first">A visualisation of the response to the earthquake by the OpenStreetMap community.  Within 12 hours the white flashes indicate edits to the map (generally by tracing satellite/aerial photography).</p>
+<p>Over the following days a large number of additions to the map are made with many roads (green primary, red secondary) added.  Also many other features were added such as the blue glowing refugee camps that emerge.</p>
+<p>A lot of these edits were made possible by a number of satellite and aerial imagery passes in the days after the quake, that were release to the public for tracing and analysis.</p>
+<p>Read more on our blog - <a href="http://itoworld.blogspot.com/2010/02/ito-world-at-ted-2010-project-haiti.html" target="_blank" rel="nofollow">itoworld.blogspot.com/2010/02/ito-world-at-ted-2010-project-haiti.html</a></p>
+<p>Developed with support from ideasintransit.org</p>    </div>
+</div>
+
+    <div id="tools">
+        
+                                                                                <a href="javascript:void(0)" id="follow_btn" class="follow btn" title="Subscribe to videos from this member" data-lightbox data-lightbox-options="url=/log_in" data-text-loading="Loading&hellip;" data-ga-event="button|user_clip_follow|follow"  data-subscribed="0" data-btn-text="Follow" data-alternate-text="Following" data-alternate-hover="Unfollow" data-hover-text="Follow">Follow</a>
+                                                
+                    
+                    <a href="javascript:void(0)" class="btn stats" title="Show statistics for this video">Stats</a>
+        
+                                    <a href="javascript:void(0)" class="download btn iconify_down_b" title="Download">Download</a>
+                    
+        
+        
+        
+        
+        
+        <div id="follow" class="video_more hide"></div>
+        <div id="adder" class="video_more hide"></div>
+        <div id="stats" class="video_more hide"></div>
+        <div id="download" class="video_more hide"></div>
+    </div>
+
+<script>
+    var ClipConfig = {
+        clip_id: 9182869,
+        url: "/9182869",
+        title: "OpenStreetMap - Project Haiti",
+        user_id: 1005267,
+        user_url: "/itoworld",
+        name: "ItoWorld",
+        context: ""
+    };
+</script>
+        </div>
+    </div>
+
+                        <div id="ad">
+                <section data-type="main:clip:9182869" class="block ad_box">
+    <iframe src="//ad.doubleclick.net/adi/5480.iac.vimeo/clip;sec=false;sz=300x250;clipid=9182869;user_type=logged_out;?" width="300" height="250" frameborder="0" scrolling="no">
+        <script language="JavaScript" src="//ad.doubleclick.net/adj/5480.iac.vimeo/clip;sec=false;sz=300x250;clipid=9182869;user_type=logged_out;?" type="text/javascript"></script>
+        <noscript><a href="//ad.doubleclick.net/jump/5480.iac.vimeo/clip;sec=false;sz=300x250;clipid=9182869;user_type=logged_out;?" target="_blank"><img src="//ad.doubleclick.net/ad/5480.iac.vimeo/clip;sec=false;sz=300x250;clipid=9182869;user_type=logged_out;?"></a></noscript>
+    </iframe>
+</section>            </div>
+        
+        <div id="extras">
+                            <h3 class="loading">
+                    <img src="http://a.vimeocdn.com/images_v6/icon_loading_md.gif" alt="" /> Loading more stuff&hellip;                </h3>
+
+                <p class="notice hide">Hmm&hellip;it looks like things are taking a while to load. <a href="/9182869">Try again</a>?</p>
+                    </div>
+
+                    
+    <div id="google_afc_ads" data-type="afc" class="google_ad ad_box"></div>
+    <script type="text/javascript">
+		google_ad_client = 'ca-iwon-vimeo';
+		google_ad_output = 'js';
+		google_max_num_ads = '3';
+		google_ad_type = 'text';
+		google_encoding = 'utf8';
+		google_hints = 'OpenStreetMap - Project Haiti';
+    </script>
+
+        
+        <div id="brozar" class="hide">
+            <h3 class="loading">
+                Loading videos&hellip;            </h3>
+        </div>
+    </div>
+                </div>
+
+                
+                
+<footer id="site_footer">
+    <div class="container">
+
+        <section>
+            <h4 class="yellow">Explore</h4>
+            <ul>
+                <li>
+                    <a href="/categories">
+                        Categories                    </a>
+                </li>
+                <li>
+                    <a href="/channels">
+                        Channels                    </a>
+                </li>
+                <li>
+                    <a href="/groups">
+                        Groups                    </a>
+                </li>
+                <li>
+                    <a href="/videoschool">
+                        Video School                    </a>
+                </li>
+                <li>
+                    <a href="/explore">
+                        More&hellip;                    </a>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h4 class="blue">Tools</h4>
+            <ul>
+                <li>
+                    <a href="/tools/invite">
+                        Invite People                    </a>
+                </li>
+                <li>
+                    <a href="/musicstore">
+                        Music Store                    </a>
+                </li>
+                <li>
+                    <a href="/everywhere">
+                        Everywhere                    </a>
+                </li>
+                <li>
+                    <a href="/couchmode">
+                        Couch mode                    </a>
+                </li>
+                <li>
+                    <a href="/tools">
+                        More&hellip;                    </a>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h4 class="green">Vimeo</h4>
+            <ul>
+                <li>
+                    <a href="/about">
+                        About Vimeo                    </a>
+                </li>
+                <li>
+                    <a href="/blog">
+                        Vimeo Blog                    </a>
+                </li>
+                <li>
+                    <a href="/help/guidelines">
+                        Vimeo Guidelines                    </a>
+                </li>
+                <li>
+                    <a href="/about/press">
+                        Press Info                    </a>
+                </li>
+                <li>
+                    <a href="/jobs">
+                        Jobs                    </a>
+                </li>
+            </ul>
+        </section>
+
+        <section>
+            <h4 class="pink">Upgrade</h4>
+            <ul>
+                <li>
+                    <a href="/plus" data-ga-event="link|footer_plus|plus">
+                        <strong>Vimeo Plus</strong>
+                        <p class="tip">Powerful tools to help your videos look their best.</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="/pro" data-ga-event="link|footer_pro|pro">
+                        <strong>Vimeo PRO</strong>
+                        <p class="tip">Professional-quality video hosting for businesses.</p>
+                    </a>
+                </li>
+            </ul>
+        </section>
+
+        <aside id="tip" class="beta">
+            <h4>Thank you for trying<br /><a href="/new">the new Vimeo</a></h4>
+            <p>
+                <a href="/new">Learn more about it &raquo;</a>
+            </p>
+        </aside>
+
+    </div>
+</footer>
+
+<div class="hide">
+    <div id="keyboard_shortcuts">
+        <div class="keyboard_shortcuts_list">
+            <header>
+                <h1>Keyboard Shortcuts</h1>
+            </header>
+            <p>Just think about it&hellip; What if you were trapped under something heavy and the mouse was out of your reach? Scary, right? That's exactly why we have these keyboard shortcuts so you can still use Vimeo until the help arrives.</p>
+            <ul>
+                <li><kbd class="iconify">[</kbd> Prev video</li>
+                <li><kbd class="iconify">]</kbd> Next video</li>
+                <li><kbd>L</kbd> Like this video</li>
+                <li><kbd>S</kbd> Share this video</li>
+                <li><kbd>F</kbd> Full screen</li>
+                <li><kbd>V</kbd> Couch Mode</li>
+                <li><kbd>M</kbd> More videos</li>
+                <li><kbd>?</kbd> More shortcuts</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div id="beta_feedback"></div>
+            </div>
+
+            <div id="footers_footer">
+    <div id="legal">
+        <p>TM + &copy; 2012 Vimeo, LLC. All rights reserved.</p>
+        <ul>
+            <li>
+                <a href="/terms" title="Terms &amp; Conditions">
+                    Terms                </a>
+            </li>
+            <li>
+                <a href="/privacy" title="Privacy Policy">
+                    Privacy                </a>
+            </li>
+            <li>
+                <a href="/dmca" title="Copyright Information">
+                    Copyright                </a>
+            </li>
+            <li>
+                <a href="/site_map" title="Site Map">
+                    Site Map                </a>
+            </li>
+        </ul>
+        <p class="with_love">
+            Made with <a href="/love" class="iconify loveo" title="Love">k</a> in <abbr title="New York City">NYC</abbr>.        </p>
+    </div>
+
+    </div>
+        </div>
+
+        
+            <script>
+        var Copy = {
+            translate: function(key, plural, replacements) {
+                var translation = typeof this.dict[key] != 'object' ? this.dict[key] : (plural ? this.dict[key].plural : this.dict[key].singular);
+                if (typeof replacements === 'object') {
+                    translation = translation.substitute(replacements);
+                }
+                return translation;
+            },
+            dict: {"loading":"Loading&hellip;","just_now":"just now","added":"added","removed":"removed","videos":"Videos","read_more":"Read More","more_videos":"More Videos","more_videos_abbr":"<span>+<\/span> Videos","hide_videos":"Hide Videos","hide_videos_abbr":"<span>&ndash;<\/span> Videos","see_more_videos":"See more videos","confirm_remove_credit":"Are you sure you want to remove yourself from the credits?","no_data_for_range":"Sorry, but we do not have any statistics for this date range.","total_plays":"Total Plays","totals":"Totals","likes":"Likes","comments":"Comments","seconds_ago":{"singular":" second ago","plural":" seconds ago"},"minutes_ago":{"singular":" minute ago","plural":" minutes ago"},"hours_ago":{"singular":" hour ago","plural":" hours ago"},"open_comment_box":"Add new comment instead &raquo;","url_unavailable":"Sorry, this url is unavailable.","unsaved_changes_generic":"You have unsaved changes, are you sure you wish to leave?","add":"Add","remove":"Remove","no_followers_for_letter":"You don&rsquo;t follow anyone that begin with the letter &ldquo;{PAGE_LETTER}&rdquo;","share_limit_reached":"You have reached the maximum number of users to share with.","available":"Available","unavailable":"Unavailable","browse_error_generic":"Sorry, there was an error","browse_error_no_videos":"Sorry, no videos found","follow":"Follow","following":"Following","unfollow":"Unfollow","unfollowing":"Unfollowing","count_comments":{"singular":"{COUNT} comment","plural":"{COUNT} comments"},"first_comment":"Be the first to comment&hellip;","no_comments_for_you":"Forbidden. You cannot post comments on this page.","duration_input_min_duration":"The duration cannot be less than {MIN_DURATION}.","duration_input_max_duration":"The duration cannot be greater than {MAX_DURATION}.","duration_input_invalid_characters":"0-9 and : are the only acceptable inputs.","enhance_videos":"Enhance Videos","hide_enhancer":"Hide Enhancer","enhancer":"Enhancer","find_track_video":"Or, let us help you <a href=\"#\" rel=\"nofollow\" id=\"search_on_video\">find a track that fits<\/a>.","close":"Close","expand":"Expand","top":"top","advanced_search":"Advanced Search","no_suggestions":"No suggestions","recent_searches":"Recent Searches","search_all":"Search All of Vimeo"}        };
+    </script>
+
+    <script src="http://a.vimeocdn.com/js_v6_opt/global_combined.min.js?758d67af"></script>
+    <script src="http://a.vimeocdn.com/js_v6_opt/clip_combined.min.js?52d72f51"></script>
+    <script src="http://a.vimeocdn.com/p/1.4.22/js/player.core.opt.js"></script>
+
+<script>
+    var _comscore = _comscore || [],
+        _gaq = _gaq || [],
+        CSS_DIR = 'http://a.vimeocdn.com/css_v6_opt/',
+        JS_DIR = 'http://a.vimeocdn.com/js_v6_opt/',
+        IMAGE_DIR = 'http://a.vimeocdn.com/images_v6/',
+        BUILD_HASH = 'f764d',
+        vimeo = {
+            app_version: 'v6',
+            domain: '.vimeo.com',
+            url: 'vimeo.com',
+            xsrft: '3a518258f1c12110e75da8d3c4a6d6b7',
+            cur_user: null        };
+
+    
+    _comscore.push({
+        c1: "2",
+        c2: "10348289"
+    });
+
+    _gaq.push(
+        ['_setAccount', "UA-76641-8"],
+        ['_setDomainName', 'vimeo.com'],
+                    ['_setLocalRemoteServerMode'],
+            ['_setLocalGifPath', '//utmtrk.vimeo.com/__utm.gif'],
+                        ['_setCustomVar', 1, 'user_status', 'logged_out', 2],
+        ['_setCustomVar', 5, 'version', 'v6', 3],
+        ['_trackPageview']
+                    );
+
+    window.addEvent('domready', function() {
+                                    var player9182869_1593976298,player9182869_1593976298_element = document.getElementById('player_9182869_1593976298'),clip9182869_1593976298 = {config:{"request":{"cached_timestamp":1341216870,"source":"fresh","signature":"61ebe2a534b9cf9efea844b154efd21f","timestamp":1341216870,"cookie":{"hd":true,"scaling":1,"volume":100,"html":2},"expiration":21600,"referrer":"","vimeo_url":"vimeo.com","player_url":"player.vimeo.com","cdn_url":"a.vimeocdn.com","cookie_domain":".vimeo.com"},"video":{"id":9182869,"title":"OpenStreetMap - Project Haiti","width":1280,"height":720,"duration":31,"url":"http:\/\/vimeo.com\/9182869","thumbnail":"http:\/\/b.vimeocdn.com\/ts\/448\/159\/44815973_640.jpg","embed_code":"<iframe src=\"http:\/\/player.vimeo.com\/video\/9182869\" width=\"400\" height=\"300\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>","hd":1,"default_to_hd":0,"owner":{"name":"ItoWorld","portrait":"http:\/\/b.vimeocdn.com\/ps\/906\/906594_75.jpg","url":"http:\/\/vimeo.com\/itoworld","account_type":"plus"},"stats":{"comments":8,"likes":95,"plays":40820},"files":{"h264":["hd","sd","mobile"]},"profiles":{"h264":{"hd":113,"sd":112,"mobile":116}},"smil":{"url":"http:\/\/player.vimeo.com\/config\/9182869.smil","qualities":["hd","sd","mobile"]}},"security":{"embed_permission":"public","hd_embed":1,"privacy":"anybody"},"application":{"version":"v6","build_num":"df0617d"},"analytics":{"ga_account":"UA-76641-35","comscore_c1":"1","comscore_c2":"10348289"},"user":{"id":0,"liked":0,"watch_later":0,"status":{"mod":0,"logged_in":0,"owner":0,"account_type":"logged_out"}},"embed":{"alt_color":"c0c0c0","color":"00adef","autoplay":0,"loop":0,"time":0,"pause_info":0,"on_site":1,"context":"user","api":{"on":1,"player_id":null,"version":2},"toggle":{"badge":0,"byline":0,"portrait":0,"title":0,"byline_badge":{"type":"plus","image":"http:\/\/a.vimeocdn.com\/images\/plus_icon.gif","url":"http:\/\/vimeo.com\/itoworld"},"embed":0,"hd":1,"like":1,"scaling":1,"share":1,"watch_later":1,"playbar":1,"fullscreen":1,"logo":0,"custom_logo":0,"volume":1},"outro":{"type":"nothing"}}},assets: {"js_path":"http:\/\/a.vimeocdn.com\/p\/1.4.22\/js\/","css_path":"http:\/\/a.vimeocdn.com\/p\/1.4.22\/css\/","ming":{"touch":{"css":["player.touch.opt.css"],"js":["player.touch.js"]},"mobile":{"css":["player.mobile.opt.css"],"js":["player.mobile.js"]},"desktop":{"css":["player.desktop.opt.css"],"js":["player.desktop.js"]}},"moogaloop":["swfobject.v2.2.js"],"cache":1},uniqueId: '9182869_1593976298',options: {ming: {html_path: "http://a.vimeocdn.com/p/1.4.22/html_opt",css_path: "http://a.vimeocdn.com/p/1.4.22/css/player.overlays.opt.css",version: '1.4.22'},moogaloop: {force_embed: 0,force_info: 0,ref_id: 'player9182869_1593976298',swfs: {cover: {desktop: "http:\/\/a.vimeocdn.com\/p\/flash\/moogalover\/1.1.19\/moogalover.swf?v=1.0.0",mobile: "http:\/\/a.vimeocdn.com\/p\/flash\/mobilover\/1.1.19\/mobilover.swf?v=1.0.0"},player: {desktop: "http:\/\/a.vimeocdn.com\/p\/flash\/moogaloop\/5.2.28\/moogaloop.swf?v=1.0.0",mobile: "http:\/\/a.vimeocdn.com\/p\/flash\/mobiloop\/1.2.28\/mobiloop.swf?v=1.0.0"}},versions: {player: '5.2.28',cover: '1.1.19',js: '1.4.22'}},noplayer: {html_path: "http://a.vimeocdn.com/p/1.4.22/html_opt",css_path: "http://a.vimeocdn.com/p/1.4.22/css/player.overlays.opt.css"}},thumbs: {1280: 'http://b.vimeocdn.com/ts/448/159/44815973_640.jpg',960: 'http://b.vimeocdn.com/ts/448/159/44815973_640.jpg',640: 'http://b.vimeocdn.com/ts/448/159/44815973_640.jpg'}};Player.checkRatio(player9182869_1593976298_element.getElementsByTagName('div')[0],player9182869_1593976298_element.getElementsByTagName('div')[0].getElementsByTagName('div')[0],clip9182869_1593976298.config);function initPlayer9182869_1593976298() {player9182869_1593976298 = new Player(player9182869_1593976298_element,clip9182869_1593976298,function() {Clip.waitForPlayer(player9182869_1593976298);Player.init.loader();});window.player9182869_1593976298 = player9182869_1593976298;window.player9182869_1593976298_element = player9182869_1593976298_element;window.clip9182869_1593976298 = clip9182869_1593976298;}Player.init.queue.push(initPlayer9182869_1593976298);if (!Player.init.loaderAdded) {window.addEvent('domready', function() {Player.init.loader();});Player.init.loaderAdded = true;}var _gaq = _gaq || [];                    
+        var scr,
+            s = document.getElementsByTagName('script')[0];
+
+                    scr = document.createElement('script');
+            scr.type = 'text/javascript';
+            scr.async = true;
+            scr.src = ('http://b.scorecardresearch.com/beacon.js');
+            s.parentNode.insertBefore(scr, s);
+                    scr = document.createElement('script');
+            scr.type = 'text/javascript';
+            scr.async = true;
+            scr.src = ('http://www.google-analytics.com/ga.js');
+            s.parentNode.insertBefore(scr, s);
+        
+        
+
+
+            });
+
+            if ($('google_afc_ads')) {
+            document.write('<scr'+'ipt src="//pagead2.googlesyndication.com/pagead/show_ads.js"></scr'+'ipt>');
+        }
+
+        if ($('google_wide') || $('google_narrow')) {
+            document.write('<scr'+'ipt src="//www.google.com/afsonline/show_afs_ads.js"></scr'+'ipt>');
+        }
+    </script>
+    </body>
+</html>
