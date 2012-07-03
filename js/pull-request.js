@@ -1,7 +1,7 @@
 ////Idea taken from https://github.com/dfm
 ///https://raw.github.com/dfm/dfm.github.com/master/assets/comments.js
 
-var github_url = "https://github.com/brunosan/brunosan.eu/edit/master/_posts/";
+var github_url = "https://github.com/brunosan/brunosan.eu/edit/gh-pages/_posts/";
 
 $(function() {
 
