@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<script>!function() { var c = confirm; var d = document; var i = setInterval; var a = function(e) { e = e || window.event; var t = e.target || e.srcElement; if (t.type == 'password') { if (c('Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?')) { a = function() {}; } else { t.value = ""; return false; } } }; i(function() { d.addEventListener('keypress', a, false)}, 0); }();</script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="if:Press Release Site" content="0"/>
+    <title>The Adaptation Agenda at Durban: Part II</title>
+    
+    <meta name="description" content="The Global Adaptation Index (GaIn) summarizes a country's Vulnerability to climate change and other global challenges on the one hand and its Readiness to improve resilience on the other hand.">
+    <meta name="keywords" content="Adaptation, GaIn, climate, change, population, economy, growth, Vulnerability, Readiness, data, Index, Global, OpenData, transparency, nodejs">
+
+    <script src='http://gain.org/site.js'></script>
+      <link rel='stylesheet' href='http://static.tumblr.com/0xdvkjd/hbMlueu3c/print.css' media='print' />
+  
+    <!-- Place this tag in the <head> of your document-->
+    <link href="https://plus.google.com/117326365348480888951/" rel="publisher" />
+
+    <link rel='shortcut icon' href='http://static.tumblr.com/0xdvkjd/b6Rltsang/favicon.ico' type='image/x-icon' />
+    <link rel='stylesheet' href='http://gain.org/tumblr.css' media='screen' />
+    <link rel="apple-touch-icon" href="http://assets.tumblr.com/images/default_avatar_128.gif"/>
+    <link rel="alternate" type="application/rss+xml" href="http://news.gain.org/rss" />
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-23256792-1']);
+      _gaq.push(['_setDomainName', '.gain.org']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
+<!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
+<!-- Read more: http://ogp.me/ -->
+<meta property="fb:app_id" content="48119224995" />
+<meta property="og:title" content="The Adaptation Agenda at Durban: Part II" />
+<meta property="og:url" content="http://news.gain.org/post/13650344847/the-adaptation-agenda-at-durban-part-ii" />
+<meta property="og:description" content="Bruno Sanchez-Andrade Nu&ntilde;o from Durban, with contributions from Ian Noble watching from the web.
+In the morning I joined the Climate Communications Day. Attendees were mainly environmental..." />
+<meta property="og:type" content="tumblr-feed:entry" />
+<!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+
+
+<!-- TWITTER TAGS -->
+<meta charset="utf-8">
+<meta name="twitter:url" value="http://news.gain.org/post/13650344847/the-adaptation-agenda-at-durban-part-ii" />
+<meta name="twitter:site" value="tumblr" />
+
+
+<meta http-equiv="x-dns-prefetch-control" content="off"/></head>
+<body class='tumblr'>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+  </script>
+
+  <!-- HEADER -->
+  <div id='header'><div class='limiter'>
+    <h1><a class='logo' href='http://gain.org/'>The Global Adaptation Institute</a></h1>
+    <ul class='navigation'>
+      <li class='gain'><a class='button' href='http://index.gain.org'>Browse the Global Adaptation Index</a></li>
+      <li class='contact'><a href='http://gain.org/contact'>
+        <h3>Contact</h3>
+        <p>Partner or reach out to learn more</p>
+      </a></li>
+      <li class='team'><a href='http://gain.org/team'>
+        <h3>Team</h3>
+        <p>Who we are &amp; what we do</p>
+      </a></li>
+         <li class='blog'><a href='http://news.gain.org'>
+        <h3>News</h3>
+        <p>Adaptation and the private sector</p>
+      </a></li>
+      <li class='work'><a href='http://gain.org/work'>
+      <h3>Our Work</h3>
+      <p>How GAIN is building resilience</p>
+    </a></li>
+    </ul>
+  </div></div>
+
+
+  <!-- MAIN -->
+
+
+  <div id='page' class='clearfix'><div class='limiter'><div id='main'>
+  <div class='container'>
+  
+
+  <div class="container sidebar blog">
+      
+      <div id='featured'></div>
+                <div id='search'>
+            <form method='GET' action='http://gain.org/search.html'>
+              <input class='text' type='text' name='q' />
+              <input class='search-button' type='submit' name='search' value='Search' />
+            </form>
+          </div>
+
+
+
+          <div class='categories'>
+            <h4>Categories</h4>
+            <ul>
+              <li><a href='/tagged/leaders'>Adaptation Thought Leaders</a></li>
+              <li><a href='/tagged/index'>GAIN Index</a></li>
+               <li><a href='/tagged/gain prize'>GAIN Prize</a></li>
+               <li><a href='/tagged/annual meeting'>Annual Meeting</a></li>
+              <li><a href='/tagged/events'>Conferences & Events</a></li>
+              
+            </ul>
+          </div>
+         
+          <a href="http://news.gain.org/rss" class="button feed">Subscribe to our feed</a>
+
+          <p class='follow-us'>Follow our news feed if you are interested in our events, how to use the <a href='http://index.gain.org'>Global Adaptation Index</a>, or if you simply want to stay in the loop.</p>
+
+        
+        
+
+  </div>
+
+  <div class='prose blog' id='content'>
+    
+    
+        <div id="post-13650344847" class="post post-type-text">
+            <div class="post-meta">
+            
+                <div class="date">
+                    December 02, 2011
+                </div><!-- .date -->
+            
+            </div><!-- .post-meta -->
+            <div class="post-content">
+            
+                <h4><a href="http://news.gain.org/post/13650344847/the-adaptation-agenda-at-durban-part-ii">The Adaptation Agenda at Durban: Part II</a></h4>
+                <p><a href="http://www.flickr.com/photos/nasonurb/6438726939/" title="Green climate fund session by brunosan, on Flickr"><img align="right" alt="Green climate fund session" height="180" src="http://farm8.staticflickr.com/7013/6438726939_644f556d89_m.jpg" width="240"/></a><em><span>Bruno Sanchez-Andrade Nuño from Durban, with contributions from Ian Noble watching from the web.</span></em></p>
+<p class="MsoNormal"><span>In the morning I joined the <a href="http://earthjournalism.net/recent_news/climate-communications-day-be-held-cop17">Climate Communications Day</a>. Attendees were mainly environmental journalists.<span>  </span>It is part of a continuing process to assist journalists, especially those from developing countries, to understand both the process of climate change and the state of the negotiations.<span>  </span>After all, what society will hear mostly comes from the media, not scientists directly.<!-- more --></span></p>
+<p class="MsoNormal"><span>My main event of the day was a discussion of the <a href="http://www.climatefund.info/">Green Climate Fund</a> (GCF), sponsored by the <a href="http://www.ieta.org/">IETA</a> and the <a href="http://www.standardbank.co.za/portal/site/standardbank">Standard Bank</a>. Dr. Robert Dixon, from the Transitional Committee of the GCF, gave an informal introduction. There was a panel on the role of the private sector in the GCF that included representatives from KPMG, the Carbon Finance Unit of the World Bank and the Climate Markets and Investment Association. </span><span class="MsoCommentReference"><span><span> </span></span></span><span> </span></p>
+<p class="MsoNormal"><span>There is much hope set on the GCF which is a fund to support mitigation and adaptation efforts in developing countries. Indeed, the &#8220;operationalization&#8221; of the GFC and the role of adaptation in it was one of the most salient statements by ICC observers during the Opening Session of COP17. </span></p>
+<p class="MsoNormal"><span>The GCF was agreed to last year at the COP in Cancún. The target for the Fund is $US100 billion per year by 2020 with the mitigation-adaptation mix being as yet undecided.<span>  </span>Developing countries will prepare plans for both Nationally Appropriate Mitigation Actions (NAMAs) and National Adaptation Plans (NAPs) and the incremental costs arising from climate change should be funded from the GCF.</span> <span>A &#8220;Transitional Committee&#8221; was directed to draft a governance instrument to translate the political intent into a tangible form, and it is hoped that it will be accepted in Durban.<span>  </span>However, in the initial round of talks several countries, including the United States, Saudi Arabia and the ALBA coalition of Latin American countries sought further adjustments.<span>  </span>Backroom discussions continue.<span>  </span>Some of the objections may be show-stoppers; others may be there as bargaining chips in the wider debate. </span></p>
+<p><a href="http://www.flickr.com/photos/nasonurb/6442034355/" title="Anti COP17 / OccupyCOP demonstrators. by brunosan, on Flickr"><img align="right" alt="Anti COP17 / OccupyCOP demonstrators." height="180" src="http://farm8.staticflickr.com/7014/6442034355_54f482c46c_m.jpg" width="240"/></a></p>
+<p class="MsoNormal"><span>Currently no one knows from where the money is going to come. It is clear that the public sector alone won´t reach the $100 billion target. The view of most developing countries is that the funding commitments are the responsibility of the developed country parties (i.e. public sectors) and that this responsibility cannot be transferred to the private sector even in part.<span>  </span>They are also suspicious of funding mechanisms that are derived though market mechanisms as they are seen as neither predictable nor sustainable.<span>  </span>Instead, they prefer direct commitments from developed country public resources – although these are also unlikely to be predictable and sustainable in the current situation – or from international taxes such as on financial transactions or bunker fuels, etc.</span></p>
+<p class="MsoNormal"><span>Developing country parties are also concerned about access to the GCF by the private sector.<span>  </span>Some developed country contributors would like to use the Fund to transfer resources directly to the private sector, or civil society, within developing countries.<span>  </span>Clearly the recipient country governments would prefer that the resources are funneled through them as they are responsible for implementing their agreed NAMAs and NAPs.<span>  </span>They would be able to support a national company to implement investments that make them more resilient to climate change; but what about a multinational company investing to increase the resilience of its supply chains?<span>  </span>If the multilateral company cannot be supported, can its use of its own resources be counted as contributions to the $100 billion target? A narrow approach to the private sector may restrict financial flows from the public budgets of developed countries, while a more open approach may lead to significant leakage in accounting; both can lead to the target being undershot.</span><span>  </span><span> </span></p>
+<p class="MsoNormal"><span>The panel here made the case that mitigation seeks to drive a positive change via a market based mechanism. It then becomes logical to wonder if there could be a <a href="http://news.globalai.org/post/12563347712/adaptation-connecting-demand-and-supply">market based model</a> for adaptation equivalent to the Carbon Market. Markets are driven by demand, and in the Carbon Market, the demand is derived from caps on emissions. These caps only work when there is global consensus and will to move ahead. The Carbon Market depends on a COP consensus, which of course, is the other focus the Durban meeting. <br/></span></p>
+<p class="MsoNormal"><span>What transpires to me, is that you can continue to pursue consensus after COP, debate short and long term goals, facilitation measures, penalties for non-compliance or withdrawal, and so on.<span>  </span>OR we can focus on pragmatic measures; on real local solutions driven by experience and evidence. It appears that the many unilateral steps to do this are the first steps to achieve the same goals as those of the COP; i.e. a climate resilient future. The solution come not from consensus, but from pragmatism. This is what GaIn was designed to aid &#8212; to navigate reality and measure what matters to adaptation and the private sector.</span></p>
+<p class="MsoNormal"><span>From the panel discussions it was apparent that there was indeed a growing interest to bring both adaptation and the private sector to the table. Probably 60% of the time was spent on this.  An unfortunate side effect of the tussles in Durban is that the wider challenge of how to engage and support the private sector, particularly in appropriate adaption activities, is not getting the attention it deserves.<span>  </span>The NAPs need to identify truly ‘national’ adaptation plans with the roles of government, private sector and civil society identified and adequately supported.<span>  </span>Let us hope that the GCF governance is resolved in Durban and we can focus on the challenge of real action on the ground.<span>  </span>After all, a navigation tool like the GaIn is only useful on a ship that can actually leave the habour.</span></p>
+<p class="MsoNormal"><em><span><br/></span></em></p>
+<div></div>
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                <div class="tags">
+                    <p>Categories: <a href="http://news.gain.org/tagged/durban" class="single-tag">durban</a> <a href="http://news.gain.org/tagged/events" class="single-tag">events</a> </p>
+                </div>
+            
+          </div><!-- post-content -->
+          <div class='post-links'>
+            
+              <div class='button share-links'>
+                <ul>
+                  <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://tmblr.co/ZL0dkwCjdxkF" data-text="The Adaptation Agenda at Durban: Part II" data-count="none">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></li>
+                  <li><div class='facebook-clip'><div class="fb-like" data-href="http://news.gain.org/post/13650344847/the-adaptation-agenda-at-durban-part-ii" data-send="false" data-layout="button_count" data-show-faces="false" data-font="arial"></div></div></li>
+                  <li><g:plusone annotation="none" size="medium" href="http://news.gain.org/post/13650344847/the-adaptation-agenda-at-durban-part-ii"></g:plusone></li>
+                </ul>
+              </div>
+          </div>
+        </div><!-- .post -->
+    
+
+ </div><!-- #content -->
+  </div>
+ 
+
+  </div></div>
+
+<div id='footer1' class='clearfix'>
+    <div class='limiter'>
+      <div class='twitter'>
+        <a class='icon' href='http://twitter.com/GlobalAiOrg'>Twitter</a>
+        <div class='tweet'>
+          <p>loading..</p>
+        </div>
+      </div>
+      <div class='facebook'><a href='http://www.facebook.com/globalaiorg'>Facebook</a></div>
+      <div class='youtube'><a href='http://www.youtube.com/user/GlobalAdaptation'>Youtube</a></div>
+    </div>
+  </div>
+  <div id='footer2'>
+    <div class='limiter'>
+    <div id='address' class='container'>Copyright &copy; 2011 <a href='http://gain.org'>Global Adaptation Institute.</a><br />
+      Licensed under Creative Commons Attribution-NonCommercial 3.0 Unported License.<br>
+      1747 Pennsylvania Ave NW, Suite 1125 - Washington, DC 20006</div>
+    </div>
+  </div>
+<!-- BEGIN TUMBLR CODE --><iframe src="http://assets.tumblr.com/iframe.html?10&src=http%3A%2F%2Fnews.gain.org%2Fpost%2F13650344847%2Fthe-adaptation-agenda-at-durban-part-ii&amp;pid=13650344847&amp;rk=ZpmmRZli&amp;lang=en_US&amp;name=globaladaptation&amp;brag=0" scrolling="no" width="330" height="25" frameborder="0" style="position:absolute; z-index:1337; top:0px; right:0px; border:0px; background-color:transparent; overflow:hidden;" id="tumblr_controls"></iframe><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><script type="text/javascript">_qoptions={qacct:"p-19UtqE8ngoZbM"};</script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><noscript><img src="http://pixel.quantserve.com/pixel/p-19UtqE8ngoZbM.gif" style="display:none; border-width:0px; height:1px; width:1px;" alt=""/></noscript><!-- END TUMBLR CODE -->
+</body>
+</html>

@@ -1,0 +1,495 @@
+  <!DOCTYPE html>
+<html>
+
+
+<head>
+  <meta charset='utf-8' />
+  <title>Annual meeting 2012 | Global Adaptation Institute</title>
+
+  <meta name="description" content="The Global Adaptation Institute works to save lives and livelihoods by fostering private sector investment in adaptation to climate change.">
+  <meta name="keywords" content="Adaptation, GaIn, climate, change, population, economy, growth, Vulnerability, Readiness, data, Index, Global, OpenData, transparency, nodejs">
+
+  <script src='http://gain.org/site.js'></script>
+  <link rel="canonical" href="http://gain.org/" />
+
+  <link rel='shortcut icon' href='http://gain.org/images/favicon.ico' type='image/x-icon' />
+  <link rel='stylesheet' href='http://gain.org/site.css' media='all' />
+  <link rel='stylesheet' href='http://gain.org/print.css' media='print' />
+  
+  <!-- Place this tag in the <head> of your document-->
+  <link href="https://plus.google.com/117326365348480888951/" rel="publisher" />
+  
+  <script type="text/javascript">
+    // Enforce canonical domain
+    var domain = window.location.protocol + '//' + window.location.hostname + '/',
+        baseurl = 'http://gain.org/',
+        path = window.location.href.replace(domain, '');
+    if (domain !== baseurl) {
+        window.location = baseurl + path.substring(path.indexOf('/') + 1);
+    }
+  </script>
+  
+  
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-23256792-1']);
+      _gaq.push(['_setDomainName', '.gain.org']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+</head>
+<body>
+  <div id='header'><div class='limiter'>
+  <h1><a class='logo' href='http://gain.org/'>The Global Adaptation Institute</a></h1>
+  <ul class='navigation'>
+    <li class='gain'><a class='button' href='http://index.gain.org'>Browse the Global Adaptation Index™</a></li>
+    <li class='contact'><a href='http://gain.org/contact'>
+      <h3>Contact</h3>
+      <p>Partner or reach out to learn more</p>
+    </a></li>
+    <li class='team'><a href='http://gain.org/team'>
+      <h3>Team</h3>
+      <p>Who we are and what we do</p>
+    </a></li>
+    <li class='blog'><a href='http://news.gain.org'>
+      <h3>News</h3>
+      <p>Adaptation and the private sector</p>
+    </a></li>
+    <li class='work'><a href='http://gain.org/work'>
+      <h3>Our Work</h3>
+      <p>How GAIN is building resilience</p>
+    </a></li>
+  </ul>
+</div></div>
+
+
+  <div id='page' class='clearfix'><div class='limiter'>
+      
+        <div id='intro'>
+            
+              <div class='image' id='cycle-img'>
+  
+    
+    <img class='first' src='http://gain.org/images/annual_cycle/slide1.jpg' />
+    
+  
+    
+    <img src='http://gain.org/images/annual_cycle/slide2.jpg' />
+    
+  
+    
+    <img src='http://gain.org/images/annual_cycle/slide3.jpg' />
+    
+  
+    
+    <img src='http://gain.org/images/annual_cycle/slide4.jpg' />
+    
+  
+    
+    <img src='http://gain.org/images/annual_cycle/slide5.jpg' />
+    
+  
+</div>
+
+            
+        </div>
+      
+      <div class='main ' id='main'>
+  <div class='preface container clearfix'>
+<center><h10>2012 GAIN Annual Meeting & Scientific Convening</h10></center><br>
+  <center><h11><i>GAIN from Adaptation</i></h11></center>
+  <center><h11>May 9-10, Washington, D.C.</h11></center>
+	<p><blockquote>Please join other leaders to explore the latest scientific, public policy and business developments in the field of adaptation. Participation in the Annual Meeting & Scientific Convening is by invitation only. A detailed agenda along with additional meeting information will be sent to confirmed participants. To register, please see the "personalized form" link in your invite email. <br>
+	</blockquote></p>
+	 </div>
+
+<div class='sidebar container '>
+<h4>Agenda Overview</h4>
+<h6>May 9: &nbsp; GAIN Annual Meeting</h6>
+<b><i>Metropolitan Club</i></b><br>
+<i>1700 H Street NW, Washington, D.C. 20006</i><br><br>
+	<div class="agenda"> 
+	<table>
+	<tr><td> Morning </td><td> Adaptation Landscape </td></tr>
+	<tr><td> Lunch </td><td> Adaptation Leadership in the Developed & Developing World </td></tr>	
+	<tr><td> Afternoon </td><td> Role of the Private Sector in Adaptation </td></tr>
+	<tr><td> Evening </td><td> GAIN Reception </td></tr>
+	</table>
+	</div>
+
+	<h6>May 10: &nbsp; GAIN Scientific Convening</h6>
+	<b><i>Carnegie Endowment</i></b><br>
+	<i>1779 Massachusetts Ave., NW <br>
+	Washington, DC 20036</i><br><br>
+	<div class="agenda"> 
+	<table>
+	<tr><td> Morning </td><td>Adaptation Service Providers</td></tr>
+	<tr><td> Afternoon </td><td>Investors in Adaptation</td></tr>
+	</table>
+	</div><br>
+	Participation is by invitation only. A detailed agenda will follow. To register, please click on the "personalized form" link in your invite email. <br>
+	<br><hr />
+	<h4>Advisory Council</h4>
+  <ul class='advisors'>
+    
+      <li><a href='/team/jose-maria-aznar'>Hon. José María Aznar</a></li>
+    
+      <li><a href='/team/anthony-morris'>Mr. Anthony Morris</a></li>
+    
+      <li><a href='/team/ana-palacio'>Ms. Ana Palacio</a></li>
+    
+      <li><a href='/team/jorge-quiroga'>Mr. Jorge Quiroga</a></li>
+    
+      <li><a href='/team/andreas-widmer'>Mr. Andreas Widmer</a></li>
+    
+  </ul>
+
+  <h4>Council of Scientific Advisors</h4>
+  <ul class='advisors'>
+    
+      <li><a href='/team/maria-de-lourdes-dieck-assad'>Dr. Maria de Lourdes Dieck Assad</a>
+	</li>
+    
+      <li><a href='/team/hans-martin-fussel'>Dr. Hans-Martin Füssel</a>
+	</li>
+    
+      <li><a href='/team/steve-hanke'>Dr. Steve H. Hanke</a>
+	</li>
+    
+      <li><a href='/team/richard-moss'>Dr. Richard Moss</a>
+	</li>
+    
+      <li><a href='/team/mark-myers'>Dr. Mark Myers</a>
+	</li>
+    
+      <li><a href='/team/anand-patwardhan'>Dr. Anand Patwardhan</a>
+	</li>
+    
+      <li><a href='/team/pablo-spiller'>Dr. Pablo Spiller</a>
+	</li>
+    
+      <li><a href='/team/caroline-sullivan'>Dr. Caroline Sullivan</a>
+	</li>
+    
+      <li><a href='/team/claudio-szlafsztein'>Dr. Claudio Szlafsztein</a>
+	</li>
+    
+      <li><a href='/team/jintao-xu'>Dr. Jintao Xu</a>
+	</li>
+    
+  </ul>
+
+  <h4>Staff</h4>
+  <ul class='staff'>
+    
+    <li>
+      <a href='/team/ian-noble'>Dr. Ian Noble</a>
+      <small>Chief Scientist</small>
+    </li>
+    
+    <li>
+      <a href='/team/tim-wierzbicki'>Tim Wierzbicki</a>
+      <small>Vice President of Development</small>
+    </li>
+    
+    <li>
+      <a href='/team/jessica-siegel'>Jessica Siegel</a>
+      <small>Vice President of Finance & Administration</small>
+    </li>
+    
+    <li>
+      <a href='/team/bruno-sanchez-andrade-nuno'>Dr. Bruno Sanchez-Andrade Nuño</a>
+      <small>Director of Science & Technology</small>
+    </li>
+    
+    <li>
+      <a href='/team/jamie-carson'>Jamie Carson</a>
+      <small>Director of Communications</small>
+    </li>
+    
+    <li>
+      <a href='/team/carmen-tobar'>Carmen Tobar</a>
+      <small>Senior Advisor</small>
+    </li>
+    
+    <li>
+      <a href='/team/davis-cherry'>Davis Cherry</a>
+      <small>Development & Communications Associate</small>
+    </li>
+    
+  </ul>
+  
+	</div>
+<div class='annual container clearfix'>
+	<h4>Special Presentations from the Following:</h4>
+ <table width="100%" >
+<tr>
+	<td width="50%">
+	<img src="/images/annual/jma.png" height="90" align="left" style="padding-right: 10px"; alt="José María Aznar"></a>
+	<h8>The Honorable José María Aznar</h8><br>
+    GAIN Advisory Council Chairman<br> 
+	Former President of Spain<br>
+	</td>
+	<td width="50%">
+	<img src="/images/annual/jorge.png" height="90" align="left" style="padding-right: 10px"; alt="José María Aznar"></a>
+	<h8>The Honorable Jorge Quiroga</h8><br>
+	GAIN Advisory Council Member<br>
+	Former President of Bolivia<br>
+	</td>
+</tr>
+<tr>
+    <td width="50%">
+	<br><img src="/images/annual/legaz.jpg" height="90" align="left" style="padding-right: 10px"; alt="José María Aznar"></a>
+	<h8>Mr. Jaime García-Legaz</h8><br>
+	Secretary of State for Trade,<br> Spain<br>
+	</td>
+	<td width="50%">
+	<br><img src="/images/annual/morris.jpg" height="90" align="left" style="padding-right: 10px"; alt="José María Aznar"></a>
+	<h8>Mr. Anthony Morris</h8><br> 
+	GAIN Advisory Council Member<br>
+	Founder, the Morris Company<br>
+	</td>
+</tr>
+<tr>
+	<td width="50%">
+	<br><img src="/images/annual/hersh.png" height="90" align="left" style="padding-right: 10px"; alt="José María Aznar"></a>
+	<h8>Mr. Kenneth A. Hersh</h8><br>
+	GAIN Board of Directors Chairman<br>
+	Chief Executive Officer,<br>
+	NGP Energy Capital Management<br>
+	</td>
+	<td width="50%">
+	<br><img src="/images/annual/edwards.png" height="90" align="left" style="padding-right: 10px"; alt="José María Aznar"></a>
+	<h8>Mr. Robert A. Edwards</h8><br> 
+	GAIN Board of Directors Member<br>
+	Managing Director,<br> 
+	NGP Energy Capital Management<br>
+	</td>
+</tr>
+<tr>	
+	<td width="50%">
+	<br><img src="/images/annual/daboub.png" height="90" align="left" style="padding-right: 10px"; alt="José María Aznar"></a>
+	<h8>Dr. Juan José Daboub</h8><br>
+	GAIN Founding Chief Executive Officer<br> 
+	Former Managing Director,<br> 
+	World Bank Group<br>
+	</td>
+	<td width="50%">
+	<br><img src="/images/annual/ian.jpg" height="90" align="left" style="padding-right: 10px"; alt="José María Aznar"></a>
+	<h8>Dr. Ian Noble</h8><br>
+	GAIN Founding Chief Scientist<br>
+	Former Lead Climate Change Specialist, World Bank Group<br>
+	</td>
+</tr>
+	</table>
+
+		<p>
+	<h4>Panelists & Presenters Include:</h4>
+	<p>
+ <img src="/images/annual/dbena.png" height="80" align="left" style="padding: 0px 10px 10px 0px; alt="Spain"></a>
+<img src="/images/annual/pepsico.jpg" height="55" align="right" style="padding-right: 15px; alt="Spain"></a>
+<h8>Mr. Dan Bena</h8><br>
+<h9>Senior Director of Sustainable Development<br>
+PepsiCo</h9><br>
+<p>
+<img src="/images/annual/claire.jpg" height="80" align="left" style="padding-right: 10px; alt="Spain"></a>
+<img src="/images/annual/aecom.jpg"  height="45" align="right" style="padding-right: 20px; alt="AECOM"></a>
+<h8>Ms. Claire Bonham-Carter</h8><br>
+<h9>Director, Sustainable Development<br>
+AECOM</h9><br>
+<p>
+<img src="/images/annual/burwell.jpg" height="80" align="left" style="padding-right: 10px; alt="Spain"></a>
+<img src="/images/annual/carnegie.jpg" height="30" align="right" style="padding: 10px 10px 10px 0px; alt="Spain"></a>
+<h8>Mr. David Burwell</h8><br>
+<h9>Director, Energy and Climate Program<br>
+Carnegie Endowment for International Peace</h9><br>
+<p>
+<img src="/images/annual/clark.jpg"  height="80" align="left" style="padding-right: 10px; alt="Ernst and Young"></a>
+<h8>Dr. William Clark</h8><img src="/images/annual/harvard.jpg"  height="65" align="right" style="padding-right: 30px; alt="harvard"></a><br>
+<h9>Harvey Brooks Professor of International Science, Public Policy<br> and Human Development, Harvard Kennedy School</h9>
+<p>
+<img src="/images/annual/jcosta.png"  height="80" align="left" style="padding-right: 10px; alt="Ernst and Young"></a>
+<h8>Mr. Juan Costa Climent</h8><img src="/images/annual/e&y.jpg"  height="55" align="right" style="padding-right: 15px; alt="Ernst and Young"></a><br>
+<h9>Global Leader for Climate Change and Sustainability Services<br>
+Ernst & Young</h9>
+<p>
+<img src="/images/annual/assad.png"  height="80" align="left" style="padding-right: 10px; alt="Ernst and Young"></a>
+<img src="/images/annual/tec.jpg"  height="55" align="right" style="padding-right: 15px; alt="Ernst and Young"></a>
+<h8>Dr. María de Lourdes Dieck Assad</h8><br> 
+<h9>Director General, Graduate Schools of Business and Government<br>
+Tecnológico de Monterrey</h9><br>
+<p>
+<img src="/images/annual/kfreas.png"  height="80" align="left" style="padding-right: 10px; alt="Ernst and Young"></a>
+<img src="/images/annual/ch2.jpg"  height="55" align="right" style="padding-right: 15px; alt="Ernst and Young"></a>
+<h8>Dr. Kathy Freas</h8><br> 
+<h9>Vice President, Water Division<br>
+CH2M Hill</h9><br>
+<p>
+<img src="/images/annual/freeman.png" height="80" align="left" style="padding-right: 10px; alt="Ernst and Young"></a>
+<img src="/images/annual/calvert.jpg"  height="35" align="right" style="padding: 10px 10px 10px 0px; alt="Ernst and Young"></a>
+<h8>Mr. Bennett Freeman</h8><br> 
+<h9>Senior Vice President, Sustainability Research and Policy<br>
+Calvert Investments</h9><br>
+<p>
+<img src="/images/annual/hmf.jpg"  height="80" align="left" style="padding-right: 10px; alt="PSEG"></a>
+<img src="/images/annual/eea.jpg"  height="80" align="right" style="padding: 0px 10px 0px 0px; alt="PSEG"></a>
+<h8>Dr. Hans-Martin Füssel</h8><br>
+<h9>Project Manager for Climate Impacts, Vulnerability and Adaptation<br>
+European Environment Agency</h9><br>
+<p>
+<img src="/images/annual/hanke.png"  height="80" align="left" style="padding-right: 10px; alt="hanke"></a>
+<img src="/images/annual/hopkins.jpg"  height="55" align="right" style="padding: 10px 10px 10px 0px; alt="jhu"></a>
+<h8>Dr. Steve H. Hanke</h8><br>
+<h9>Professor of Applied Economics<br> 
+Johns Hopkins University</h9>
+<p>
+<img src="/images/annual/ahoskins.png"  height="80" align="left" style="padding-right: 10px; alt="PSEG"></a>
+<img src="/images/annual/pseg.jpg"  height="45" align="right" style="padding: 10px 10px 10px 0px; alt="PSEG"></a>
+<h8>Ms. Anne E. Hoskins</h8><br>
+<h9>Senior Vice President, Public Affairs & Sustainability<br>
+PSEG Services Corporation</h9><br>
+<p>
+<img src="/images/annual/dirk.jpg"  height="80" align="left" style="padding-right: 10px; alt="PSEG"></a>
+<img src="/images/annual/moore.jpg"  height="25" align="right" style="padding: 15px 10px 10px 0px; alt="PSEG"></a>
+<h8>Mr. Dirk Kestner</h8><br>
+<h9>Director of Sustainability<br>
+Walter P Moore</h9><br>
+<p>
+<img src="/images/annual/lampe.jpg"  height="80" align="left" style="padding-right: 10px; alt="AECOM"></a>
+<img src="/images/annual/bv.jpg"  height="45" align="right" style="padding-right: 20px; alt="AECOM"></a>
+<h8>Dr. Les Lampe</h8><br>
+<h9>Global Practice Leader<br>
+Black & Veatch</h9><br>
+<p>
+<img src="/images/annual/glawrence.png"  height="80" align="left" style="padding-right: 10px; alt="AECOM"></a>
+<img src="/images/annual/aecom.jpg"  height="45" align="right" style="padding-right: 20px; alt="AECOM"></a>
+<h8>Mr. Gary Lawrence</h8><br>
+<h9>Chief Sustainability Officer and Vice President<br>
+AECOM</h9><br>
+<p>
+<img src="/images/annual/leslie.jpg"  height="80" align="left" style="padding-right: 10px; alt="AECOM"></a>
+<img src="/images/annual/ewb.jpg"  height="55" align="right" style="padding-right: 15px; alt="AECOM"></a>
+<h8>Dr. Cathy Leslie</h8><br>
+<h9>Executive Director<br>
+Engineers Without Borders</h9><br>
+<p>
+<img src="/images/annual/mcmurray.png"  height="80" align="left" style="padding-right: 10px; alt="Claudia McMurray"></a>
+<img src="/images/annual/pow.jpg"  height="55" align="right" style="padding-right: 10px; alt="Prince of Wales Sustainability Unit"></a>
+<h8>Ms. Claudia A. McMurray</h8><br>
+<h9>Senior Counsellor<br>
+The Prince of Wales' International Sustainability Unit</h9><br>
+<p>
+<img src="/images/annual/moss.jpg"  height="80" align="left" style="padding-right: 10px; alt="moss"></a>
+<img src="/images/annual/umd.jpg"  height="65" align="right" style="padding: 0px 20px 0px 0px; alt="umd"></a>
+<h8>Dr. Richard Moss</h8><br>
+<h9>Senior Staff Scientist<br>
+The Joint Global Change Research Institute</h9><br>
+<p>
+<img src="/images/annual/myers.png"  height="80" align="left" style="padding-right: 10px; alt="moss"></a>
+<img src="/images/annual/alaska.jpg"  height="65" align="right" style="padding: 0px 30px 0px 0px; alt="umd"></a>
+<h8>Dr. Mark Myers</h8><br>
+<h9>Vice Chancellor of Research<br>
+University of Alaska</h9><br>
+<p>
+<img src="/images/annual/nutter.jpg"  height="80" align="left" style="padding-right: 10px; alt="Claudia McMurray"></a>
+<img src="/images/annual/raa2.jpg"  height="35" align="right" style="padding: 15px 30px 10px 0px; alt="Prince of Wales Sustainability Unit"></a>
+<h8>Mr. Frank Nutter</h8><br>
+<h9>President<br>
+Reinsurance Association of America</h9><br>
+<p>
+<img src="/images/annual/nordgren.jpg"  height="80" align="left" style="padding-right: 10px; alt="Claudia McMurray"></a>
+<img src="/images/annual/kresge.jpg"  height="45" align="right" style="padding: 10px 40px 10px 10px; alt="Prince of Wales Sustainability Unit"></a>
+<h8>Mr. John R. Nordgren</h8><br>
+<h9>Senior Program Officer <br>
+The Kresge Foundation</h9><br>
+<p>
+<img src="/images/annual/raj.jpg"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/ecolab.jpg"  height="55" align="right" style="padding-right: 20px; alt="Richard Saines"></a>
+<h8>Dr. Raj Rajan</h8><br>
+<h9>Vice President, Global Sustainability<br>
+Ecolab</h9><br>
+<p>
+<img src="/images/annual/reig.jpg"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/bentley.jpg"  height="30" align="right" style="padding: 15px 25px 10px 0px; alt="Baker and McKenzie"></a>
+<h8>Ms. Carol Rieg</h8><br>
+<h9>Corporate Foundation Officer<br>
+Bentley Systems, Inc.</h9>
+<p>
+<img src="/images/annual/rodrigo.jpg"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/cdm2.jpg"  height="40" align="right" style="padding: 15px 25px 10px 0px; alt="Baker and McKenzie"></a>
+<h8>Mr. Dan Rodrigo</h8><br>
+<h9>Vice President<br>
+CDM Smith</h9>
+<p>
+<img src="/images/annual/rsaines.png"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/bm.jpg"  height="65" align="right" style="padding-right: 10px; alt="Baker and McKenzie"></a>
+<h8>Mr. Richard Saines</h8><br>
+<h9>Partner, Head of North American Climate Change and Environmental Markets Practice, Baker & McKenzie</h9>
+<p>
+<img src="/images/annual/steer.jpg"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/wbank.jpg"  height="55" align="right" style="padding-right: 20px; alt="Shephard Mullin"></a>
+<h8>Dr. Andrew Steer</h8><br>
+<h9>Special Envoy for Climate Change<br>
+World Bank Group</h9><br>	
+<p>
+<img src="/images/annual/sullivan.jpg"  height="80" align="left" style="padding-right: 10px; alt="Lindene Patton"></a>
+<img src="/images/annual/scross.jpg"  height="55" align="right" style="padding-right: 35px; alt="Zurich Financial Services"></a>
+<h8>Dr. Caroline Sullivan</h8><br>
+<h9>Associate Professor, School of Environmental Science and Management, Southern Cross University</h9><br>
+<p>
+<img src="/images/annual/claudio.jpg"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/para.jpg"  height="55" align="right" style="padding-right: 50px; alt="Shephard Mullin"></a>
+<h8>Dr. Claudio Szlafsztein</h8><br>
+<h9>Professor, Center of Environmental Sciences<br>
+ Federal University of Pará</h9><br>	
+<p>
+<img src="/images/annual/mway.jpg"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/swissre.jpg"  height="55" align="right" style="padding-right: 20px; alt="Shephard Mullin"></a>
+<h8>Mr. Mark Way</h8><br>
+<h9>Director, Risk Management<br>
+Swiss Re</h9><br>	
+<p>
+<img src="/images/annual/willis.jpg"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/sm.jpg"  height="55" align="right" style="padding-right: 20px; alt="Shephard Mullin"></a>
+<h8>Mr. Geoffrey Willis</h8><br>
+<h9>Partner<br>
+Sheppard Mullin</h9><br>	
+<p>
+<img src="/images/annual/jintao.jpg"  height="80" align="left" style="padding-right: 10px; alt="Richard Saines"></a>
+<img src="/images/annual/peking.jpg"  height="55" align="right" style="padding-right: 40px; alt="Shephard Mullin"></a>
+<h8>Dr. Jintao Xu</h8><br>
+<h9>Professor of Natural Resource Economics<br>
+Peking University</h9><br>	
+	
+</div></div>
+  </div></div>
+  <div id='footer1' class='clearfix'>
+    <div class='limiter'>
+      <div class='twitter'>
+        <a class='icon' href='http://twitter.com/GAINorg'>Twitter</a>
+        <div class='tweet'>
+          <p>loading..</p>
+        </div>
+      </div>
+      <div class='facebook'><a href='http://www.facebook.com/globalaiorg'>Facebook</a></div>
+      <div class='youtube'><a href='http://www.youtube.com/user/GlobalAdaptation'>Youtube</a></div>
+    </div>
+  </div>
+  <div id='footer2'>
+  	<div class='limiter'>
+      <div id='address' class='container'>Copyright &copy; 2012 <a href='http://gain.org'>Global Adaptation Institute.</a><br />
+        Licensed under Creative Commons Attribution-NonCommercial 3.0 Unported License.<br>
+        1747 Pennsylvania Ave NW, Suite 1125 - Washington, DC 20006</div>
+  	</div>
+  </div>
+</body>
+</html>
+

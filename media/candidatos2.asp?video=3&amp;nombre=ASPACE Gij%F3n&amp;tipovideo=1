@@ -1,0 +1,170 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta name="verify-v1" content="PStYk8yjfZisSTRHVaKkbffS10j4nhxX2wmnpbLK7KE=" /> 
+
+<title>Premios Romper Barreras - Votacion Candidatura</title>
+<meta name="author" content="Artesanos Digitales Agrupados, S.L.">
+<meta name="DC.Creator" content="Artesanos Digitales Agrupados, S.L.">
+<meta name="vw96.objectype" content="Document">
+<meta name="resource-type" content="Document">
+<meta http-equiv="Content-Type" content="ISO-8859-1">
+<meta name="distribution" content="all">
+<meta name="robots" content="all">
+<meta name="revisit" content="30 days">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="Title" content="">
+<link href="css/e2.css" rel="stylesheet" type="text/css" media="screen">
+<link href="css/p.css" rel="stylesheet" type="text/css" media="print">
+<link rel="stylesheet" type="text/css" href="jscripts/gb_styles.css">
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="css/ie6.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src="js/external.js"></script>
+<script type="text/javascript" src="js/blur.js"></script>
+
+<script type="text/javascript">
+    var GB_ROOT_DIR = "./jscripts/";
+</script>
+<script type="text/javascript" src="jscripts/AJS.js"></script>
+<script type="text/javascript" src="jscripts/AJS_fx.js"></script>
+<script type="text/javascript" src="jscripts/gb_scripts.js"></script>
+<script type="text/javascript" src="jscripts/blur.js"></script>
+
+<link rel="stylesheet" type="text/css" media="screen, projection" href="/scroller.css" />
+<style type="text/css">
+<!--
+.atencioncliente { font-size: 11px; color: #8C8C90; font-family: Helvetica, Arial, sans-serif, Tahoma, Verdana; }
+.root { position:relative; width: 260px; height: 100px;	}
+.root p { margin:	0px 0px px 0px; }
+.thumb { position: absolute; height: 9px; width: 15px; left: 0px; }
+.up, .dn { position: absolute; left: 0px; }
+.up a, .up a img, .dn a, .dn a img, .thumb a, .thumb a img { border: 0px none; }
+.scrollContainer { position: absolute; left: 0px; top: 0px; width: 260px; height: 100px; clip: rect(0,260,100,0); overflow: auto; }
+.scrollContent { position: absolute; left: 0px; top: 0px; width: 260px; }
+-->
+</style>
+<script>
+function trim(str) {
+   return str.replace(/^\s*|\s*$/g,"");
+}
+
+function CompruebaCampo (campo) {
+	if (trim(campo.value).length == 0) {
+		alert ('El campo "' + campo.label + '" no puede quedar en blanco');
+		campo.focus();
+		return false;
+		}
+	else
+		return true;
+}
+
+function CompruebaMail(theElement)
+{
+var s = theElement.value;
+//var filter=/^[A-Za-z][A-Za-z0-9_]*@[A-Za-z0-9_]+.[A-Za-z0-9_.]+[A-za-z]$/;
+//var filter=/^[A-Za-z][A-Za-z0-9_.]*@[A-Za-z0-9_]+.[A-Za-z0-9_.]+[A-za-z]$/;
+var filter=/^[A-Za-z][A-Za-z0-9_.]*@[A-Za-z0-9_]+.[A-Za-z0-9_.]+[A-za-z]$/;
+ var filter=/^[_a-z0-9-]+(.[_a-z0-9-]+)*@[a-z0-9-]+(.[a-z0-9-]+)*(.[a-z]{2,3})$/
+if (s.length == 0 ) return true;
+   if (filter.test(s))
+      return true;
+   else {
+     alert("La direccion de correo no parece valida");
+     theElement.focus();
+     return false;
+     }
+}
+
+
+function EnviaForm (){
+	if (CompruebaCampo (document.votar.email))
+	if (CompruebaMail (document.votar.email))
+	if (CompruebaCampo (document.votar.pass))
+		document.votar.submit();
+}
+</script>
+
+</head>
+<body>
+<div id="wrapper2"> <div id="header">
+  	<div id="logosheader">
+    	<div id="log_toshiba"><a href="http://www.toshiba.es/" target="_blank"><img src="img/log_toshiba.jpg" alt="http://www.toshiba.es/" title="http://www.toshiba.es/" width="128" height="32"></a></div>
+    	<div id="log_bj"><a href="http://www.bj-adaptaciones.com/" target="_blank"><img src="img/log_bj.jpg" alt="http://www.bj-adaptaciones.com/" title="http://www.bj-adaptaciones.com/" width="161" height="41"></a></div>
+    	<div id="log_fb"><a href="http://www.facebook.com/romperbarreras" target="_blank"><img src="img/log_fb.jpg" alt="http://www.facebook.com/romperbarreras" title="http://www.facebook.com/romperbarreras" width="37" height="37"></a></div>
+   	</div>
+  </div>
+  
+
+  <div id="menuppal">
+    <ul id="menuppallist">
+      <li id="un" name="un"><a href="index.html" title="Inicio">Inicio</a></li>
+      <li id="dos"><a href="origen.html" title="Origen de los Premios">Origen de los Premios</a></li>
+      <li id="tre"><a href="bases-inscripcion.html" title="Bases e Inscripción">Bases e Inscripción"</a></li>
+      <li id="cua"><a href="ediciones-anteriores.html" title="Ediciones Anteriores">Ediciones Anteriores</a></li>
+      <li id="cin"><a href="candidatura-individual.asp" title="Candidatura Individual">Candidatura Individual</a></li>
+      <li id="sei"><a href="candidatura-colectiva.asp" title="Candidatura Colectiva">Candidatura Colectiva</a></li>
+      <li id="sie"><a href="otras-iniciativas.html" title="Otras iniciativas">Otras iniciativas</a></li>
+      <li id="och"><a href="contacto.html" title="Contacto">Contacto</a></li>
+    </ul>
+  </div>
+
+ 
+  <div id="container">
+   <div id="tit"><img src="img/tit04.png"></div>
+    
+  <div id="content">
+		<h1 class="print">Premios Romper Barreras</h1>
+      	<h2 class="print">Votacion Candidaturas</h2>
+		<div id="content2">
+          <div id="fotos-izda"><img src="img/fot04.jpg" alt="Origen de los Premios" width="354" height="436"></div>
+		  <div id="texto2">
+		<!--p><b>Instrucciones para votar:</b></p>
+		<ul>
+		  <li>Si no dispone de contraseña para poder votar, <a href="enviopass.asp">pulse aqu&iacute;</a>. Le ser&aacute; enviada a su email.</li>
+		  <li>Si ya dispone de una, introduzca su email y la contraseña que recibi&oacute;.</li>
+		  <li>Puede votar un proyecto en modalidad Individual y otro en Colectiva. Solamente se permite un voto por modalidad y por email.</li>
+		</ul-->
+	  <p>Ha finalizado el plazo de votaciones</p>
+	<!--form name="votar" action="voto.asp" method="post">
+	<br><br>Doy mi voto a la candidatura de <b></b> <input type="hidden" name="video" value="3"> <input type="hidden" name="tipovideo" value=""><br><br>
+	Datos del registro <br>
+		<table>
+		<tr>
+		<td>Email:</td><td><input type="text" name="email"></td>
+		</tr>
+		<tr>
+		<td>Contraseña: <sup>(*)</sup></td><td><input type="text" name="pass" title="Enviada al email"></td>
+		</tr>
+		<tr>
+		<td colspan="2"><b><sup>(*)</sup>Recibida por email</b></td>
+		</tr>
+		<td align="center"><br>
+		<input type="button" value="Votar" onclick="JavaScript:EnviaForm()">
+		</td>
+		<tr>
+		<td colspan="3"><br><br><br><a href="candidatura-individual.asp">Volver a la p&aacute;gina de candidaturas</a></td>
+		</table>
+	</form-->
+    </div>
+
+	  </div>
+    </div>
+  </div>
+  
+  <div id="pie"><img src="img/cierre-down.jpg">
+  <p class="txtpie">Con la colaboraci&oacute;n de:</p>
+    <ul id="pielist">
+      <li id="a"><a href="http://www.intel.com/?es_ES_01" title="Intel">Intel</a></li>
+      <li id="b"><a href="http://www.microsoft.com/en/us/default.aspx" title="Microsoft">Microsoft</a></li>
+     
+    </ul>
+     
+  </div>
+</div>
+
+</body>
+<!-- CODIGO SEGUIMIENTO GOOGLE -->
+</html>

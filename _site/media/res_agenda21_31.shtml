@@ -1,0 +1,394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/Resources.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script language="javascript" src="../common_elements/js/matching_columns.js" type="text/javascript"></script>
+<link rel="Stylesheet" rev="Stylesheet" href="../common_elements/css/DSDmain.css" type="text/css" media="Screen" charset="UTF-8" />
+<link rel="stylesheet" href="../common_elements/css/DSDprint.css"  type="text/css" media="print" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>DSD :: Resources - Publications - Core Publications</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" -->
+<link rel="Stylesheet" rev="Stylesheet" href="../common_elements/css/horizontal_items.css" type="text/css" media="Screen" charset="UTF-8" />
+<link rel="Stylesheet" rev="Stylesheet" href="../common_elements/css/agenda21.css" type="text/css" media="Screen" charset="UTF-8" />
+<style type="text/css">
+#topnav ul li#resources a	{color:#003399;background:#fee25b;}
+#topnav ul li#resources a:link, #topnav ul li#resources a:visited {color:#003399;background:#fee25b;}
+#subnav ul li#publications  ul {background-color:#f0f6d9;display:block;}
+#subnav ul li#publications 	{background-color:#f0f6d9;}
+#subnav ul li#publications 	{background:url(../common_elements/images/sub_nav_down.gif) no-repeat right top;}	
+#subnav ul li#publications ul li a#corepubli	{color:#625b53;background:url(../common_elements/images/sub_nav2_on_filled.gif) no-repeat right bottom;}
+#header #seciii a {color:#f80;border-color:#f80;}
+li#ch31 {list-style-image:url(../common_elements/images/blt_orgarrow.gif);color:#f89829;}
+li#ch31 a {color:#f89829;}
+</style>
+<!-- InstanceEndEditable --><!-- InstanceParam name="spotlight-optional to have" type="boolean" value="false" --><!-- InstanceParam name="divID4width" type="text" value="contentWide" -->
+</head>
+
+<body>
+<!-- *********************  languages and site map links area -->
+<p id="skiplink"><a href="#mainlinks">Skip to main links</a> | <a href="#secondarylinks">Skip to secondary links</a> | <a href="#content">Skip to content</a><!-- InstanceBeginEditable name="skiplinks - for pages that list individual CSD or GA sessions we need to add a skip link for them - pls refer to such a page for an example" --> | <a href="#otherGA">Skip to Other GA Sessions</a><!-- InstanceEndEditable --></p>
+<div id="containertop">
+	<div id="LHtopnav">
+    <h4 class="hide">Links to UN bodies</h4>
+		<ul>﻿<li><a name="top"></a><a href="http://www.un.org/english"><img id="icon" src="../common_elements/images/icon_un.gif" alt="United Nations" name="icon" align="absmiddle" /></a> <a href="http://www.un.org/english">Home</a>  |  </li>
+		  <li><a href="http://www.un.org/esa/desa/"><acronym title="UN Department of Economic and Social Affairs">DESA</acronym></a>  |  </li>  
+		  <li><a href="http://www.un.org/esa/index.html">UN Economic and Social Development</a></li></ul>
+	</div>  <!-- end div LHtopnav -->
+    <div id="RHtopnav">
+    <h4 class="hide">Links to site map</h4>    
+		<ul>﻿<li><img id="icon" src="../common_elements/images/icon_spacer.gif" alt="" align="middle" /><a href="../dsd/dsd_faqs_csd.shtml">FAQs</a>  |  </li>
+		  <li><a href="../dsd/dsd_contact.shtml">Contact</a></li>
+		  <!--  |  </li>
+		  <li><a href="../dsd/dsd_sitemap.shtml">Map</a>  |  </li>  
+		  <li><a href="../dsd/dsd_siteindex.shtml">Index</a></li--></ul>
+	</div>  <!-- end div RHtopnav -->
+<!-- *********************  end languages and site map links area -->
+   <div id="containerwhite"> 
+<!-- *********************** top banner area -->
+		<div id="banner" ><img class="hide" src="../common_elements/images/bkgd_banner_4print.gif" /><h1><span class="bannersubtitle">UN Economic and Social Development</span><br />Division for Sustainable Development </h1>
+	  	<span class="bannerimg"></span>
+		</div>   <!-- end banner div -->
+        <div id="topnav" class="clearfix"><a name="mainlinks"></a>
+          <h4 class="hide">Main Links</h4>	
+          <ul>﻿<li id="homeDSD"><a href="../index.shtml">Home</a> | </li>
+                <li id="about"><a href="../dsd/dsd_index.shtml">About</a> | </li>
+                <li id="areasofwork"><a href="../dsd/aow_areawork.shtml">Areas of Work</a> | </li>
+                <li id="csd"><a href="../csd/csd_index.shtml"><acronym title="UN Commission on Sustainable Development">CSD</acronym></a> | </li>
+                <li id="sdtopics"><a href="../susdevtopics/sdt_index.shtml"><acronym title="Sustainable Development">SD</acronym> Topics</a> | </li>
+                <li id="resources"><a href="../resources/res_index.shtml">Resources</a> | </li>
+                <li id="newsmedi"><a href="../newsmedi/nm_index.shtml">News/Media</a></li></ul>
+        </div>	<!--end  topnav div -->
+<!-- *********************** end top banner area -->    
+<!-- ********************** page content area -->    
+        <div id="containercontent">
+        	<div id="breadcrumb">
+            	Resources <!-- InstanceBeginEditable name="bread crumb -shows path to this page" -->&gt; Publications &gt; Core Publications<!-- InstanceEndEditable --></div> 
+       	  <!-- end breadcrumb div -->
+<!-- ********************** LH: sub-nav area --> 
+        <a name="secondarylinks"></a>
+			<div id="subnav">
+            	<p class="subnavtop"><img id="subnavcurve" src="../common_elements/images/spcr.gif" height="22px" /></p>
+				<h4 class="hide">Secondary Links</h4>
+				<ul>
+                                        <li id="databases"><a class="subnav" href="../resources/res_databases.shtml">Databases </a></li>
+                    <li id="calendar"><a class="subnav" href="http://esango.un.org/event/dsd.html?page=calendarList&year=2010">Calendar </a></li>
+					<li id="documents"><a class="subnav" href="../resources/res_docukeyconf.shtml">Documents </a>
+                    <ul class="subnav2">
+                        <li><a id="docukeyconf" class="subnav2" href="../resources/res_docukeyconf.shtml">:: Key Conferences </a></li> 
+                        <li><a id="docugaecos" class="subnav2" href="../resources/res_docugaecos_66.shtml">:: <acronym title="General Assembly">GA</acronym>/<acronym title="Economic and Social Council">ECOSOC</acronym> </a></li>
+                        <li><a id="docucsd" class="subnav2" href="../resources/res_docucsd.shtml">:: <acronym title="Commission on Sustainable Development">CSD</acronym> </a></li>
+                        <li><a id="docusdt" class="subnav2" href="../resources/res_docusdt.shtml">:: <acronym title="Sustainable Development">SD</acronym> Topics </a></li>
+						<li><a id="docuothe" class="subnav2" href="../resources/res_docuothe.shtml">:: Other </a><br /></li>
+                        </ul></li>
+                    <li id="publications"><a class="subnav" href="../resources/res_publcorepubli.shtml">Publications </a>
+                    <ul class="subnav2">
+                        <li><a id="corepubli" class="subnav2" href="../resources/res_publcorepubli.shtml">:: Core Publications </a></li> 
+                        <li><a id="publtrends" class="subnav2" href="../resources/res_publtrends.shtml">:: Trends </a></li>
+                        <li><a id="publsdt" class="subnav2" href="../resources/res_publsdt_africa.shtml">:: <acronym title="Sustainable Development">SD</acronym> Topics </a></li>
+                        <li><a id="publperinews" class="subnav2" href="../resources/res_publperinews_ib.shtml">:: Periodicals &amp; Newsletters </a><br /></li>
+                        </ul></li>
+                    <li id="statpres"><a class="subnav" href="../resources/res_statprescsd.shtml">Statements & Presentations </a>
+                    <ul class="subnav2">
+                        <li><a id="statprescsd" class="subnav2" href="../resources/res_statprescsd.shtml">:: CSD </a></li>
+						<li><a id="statpresdsd" class="subnav2" href="../resources/res_statpresdsd.shtml">:: DSD </a></li>
+						<li><a id="statpressg" class="subnav2" href="../resources/res_statpressg.shtml">:: SG </a></li>
+						<li><a id="statpresusg" class="subnav2" href="../resources/res_statpresusg.shtml">:: USG </a><br /></li>
+                        </ul></li>
+                    <li id="majoagreconv"><a class="subnav" href="../resources/res_majoagreconvover.shtml">Major Agreements & Conventions </a>
+                    <ul class="subnav2">
+                        <li><a id="over" class="subnav2" href="../resources/res_majoagreconvover.shtml">:: Overriding Issues </a></li>
+                        <li><a id="soci" class="subnav2" href="../resources/res_majoagreconvsoci.shtml">:: Social Issues </a></li>
+                        <li><a id="econ" class="subnav2" href="../resources/res_majoagreconvecon.shtml">:: Economic Issues </a></li>
+                        <li><a id="natureso" class="subnav2" href="../resources/res_majoagreconvnatureso.shtml">:: Natural Resources Issues </a><br /></li>
+                        </ul></li>                   
+                    <li id="acroabbr"><a class="subnav" href="../resources/res_acroabbr.shtml">Acronyms & Abbreviations </a></li>
+                    <li id="links"><a class="subnav" href="../resources/res_links.shtml">Links </a></li>
+                </ul>
+            	<p class="subnavbtm"></p>                
+            </div> <!-- end subnav div -->
+<!-- ********************** end LH: sub-nav area -->             
+<!-- ********************** main body middle section -->
+
+<div id="contentWide">
+    <h2><!-- InstanceBeginEditable name="page name -correponds to the link title" -->Core Publications<br />
+    <span class="attention">Agenda 21</span><!-- InstanceEndEditable --></h2>
+    <!-- InstanceBeginEditable name="text content" -->
+    <a name="agenda21"></a><h4 class="hide">Links to Agenda 21 Chapters</h4>
+	<div id="header">
+	<ul>
+		<li id="cover"><a href="index.shtml">Cover</a></li>
+		<li id="toc"><a href="res_agenda21_00.shtml">TOC</a></li>
+		<li id="secper"><a href="res_agenda21_01.shtml">Preamble</a></li>
+		<li id="seci"><a href="res_agenda21_02.shtml">Sec I</a></li>
+        <li id="secii"><a href="res_agenda21_09.shtml">Sec II</a></li>
+        <li id="seciii"><a href="res_agenda21_23.shtml">Sec III</a></li>
+        <li id="seciv"><a href="res_agenda21_33.shtml">Sec IV</a></li>
+        <li><a href="http://www.un.org/documents/ga/conf151/aconf15126-1annex1.htm" target="_blank">Rio Declaration</a></li>
+        <li><a href="http://www.un.org/documents/ga/conf151/aconf15126-3annex3.htm" target="_blank">Forest Principles</a></li>
+		<li><a href="https://unp.un.org/details.aspx?entry=E93020&title=Agenda+21:+Earth+Summit+-+The+United+Nations+Programme+of+Action+from+Rio" target="_blank">Order</a></li>
+	</ul>
+	</div>
+    <a name="content"></a>
+    <div id="clear"></div>
+    <p>&nbsp;</p> 
+    
+    <!-- ********************** RH: nav area -->
+  <a name="spotlightAgen"></a>
+  <div id="agenda21ch">
+    <div class="agenda21Body">
+      <h4 id="agenda21ch">Chapter</h4>
+      <ul class="bltgreysq">
+        <a name="otherGA"></a><h4 class="hide">Links to Agenda 21 Chapters</h4>
+    <div class="LH50">
+	<ul>
+        <li id="ch23"><a href="res_agenda21_23.shtml">Ch23</a></li>
+		<li id="ch24"><a href="res_agenda21_24.shtml">Ch24</a></li>
+		<li id="ch25"><a href="res_agenda21_25.shtml">Ch25</a></li>
+		<li id="ch26"><a href="res_agenda21_26.shtml">Ch26</a></li>
+        <li id="ch27"><a href="res_agenda21_27.shtml">Ch27</a></li>
+	</ul>
+	</div>
+	<div class="RH50">
+	<ul>		
+		<li id="ch28"><a href="res_agenda21_28.shtml">Ch28</a></li>
+		<li id="ch29"><a href="res_agenda21_29.shtml">Ch29</a></li>
+		<li id="ch30"><a href="res_agenda21_30.shtml">Ch30</a></li>
+		<li id="ch31"><a href="res_agenda21_31.shtml">Ch31</a></li>
+		<li id="ch32"><a href="res_agenda21_32.shtml">Ch32</a></li>
+	</ul>
+	</div>
+      </ul>
+    </div>
+  </div>
+  <!-- ********************** end RH: nav -->
+
+<h3><span class="attention">Section III</span><br />
+<span class="uppercase">Strengthening the Role of Major Groups</span><br />
+Chapter 31</h3>
+  
+      <h3 class="attention">Scientific &amp; Technological Community</h3>
+      <h3 class="uppercase">INTRODUCTION</h3>
+      <div class="hr" style="width:480px;"><hr /></div>
+      
+      <p>31.1. The present chapter focuses on how to enable the scientific and
+      technological community, which includes, among others, engineers,
+      architects, industrial designers, urban planners and other professionals
+      and policy makers, to make a more open and effective contribution to the
+      decision-making processes concerning environment and development. It is
+      important that the role of science and technology in human affairs be more
+      widely known and better understood, both by decision makers who help
+      determine public policy and by the general public. The cooperative
+      relationship existing between the scientific and technological community
+      and the general public should be extended and deepened into a full
+      partnership. Improved communication and cooperation between the scientific
+      and technological community and decision makers will facilitate greater
+      use of scientific and technical information and knowledge in policies and
+      programme implementation. Decision makers should create more favourable
+      conditions for improving training and independent research in sustainable
+      development. Existing multidisciplinary approaches will have to be
+      strengthened and more interdisciplinary studies developed between the
+      scientific and technological community and policy makers and with the
+      general public to provide leadership and practical know-how to the concept
+      of sustainable development. The public should be assisted in communicating
+      their sentiments to the scientific and technological community concerning
+      how science and technology might be better managed to affect their lives
+      in a beneficial way. By the same token, the independence of the scientific
+      and technological community to investigate and publish without restriction
+      and to exchange their findings freely must be assured. The adoption and
+      implementation of ethical principles and codes of practice for the
+      scientific and technological community that are internationally accepted
+      could enhance professionalism and may improve and hasten recognition of
+      the value of its contributions to environment and development, recognizing
+      the continuing evolution and uncertainty of scientific knowledge.</p>
+      <h3 class="uppercase">PROGRAMME AREAS</h3>
+      <div class="hr"><hr /></div>
+      <h3 class="uppercase">A. Improving communication and cooperation among the
+      scientific and technological community, decision makers and the public</h3>
+      <h4 class="uppercase">Basis for action</h4>
+      <p>31.2. The scientific and technological community and policy makers
+      should increase their interaction in order to implement strategies for
+      sustainable development on the basis of the best available knowledge. This
+      implies that decision makers should provide the necessary framework for
+      rigorous research and for full and open communication of the findings of
+      the scientific and technological community, and develop with it ways in
+      which research results and the concerns stemming from the findings can be
+      communicated to decision-making bodies so as to better link scientific and
+      technical knowledge with strategic policy and programme formulation. At
+      the same time, this dialogue would assist the scientific and technological
+      community in developing priorities for research and proposing actions for
+      constructive solutions.</p>
+      <h4 class="uppercase">Objectives</h4>
+      <p>31.3. The following objectives are proposed:
+      </p><blockquote>
+        <p>(a) To extend and open up the decision-making process and broaden the
+          range of developmental and environmental issues where cooperation at
+          all levels between the scientific and technological community and
+          decision makers can take place;</p>
+        <p>(b) To improve the exchange of knowledge and concerns between the
+          scientific and technological community and the general public in order
+          to enable policies and programmes to be better formulated, understood
+          and supported.</p>
+      </blockquote>
+      <h4 class="uppercase">Activities</h4>
+      <p>31.4. Governments should undertake the following activities:
+      </p><blockquote>
+        <p>(a) Review how national scientific and technological activities could be
+          more responsive to sustainable development needs as part of an overall
+          effort to strengthen national research and development systems,
+          including through strengthening and widening the membership of
+          national scientific and technological advisory councils, organizations
+          and committees to ensure that:</p>
+          <ol class="ivx">
+            <li>The full range of national needs for scientific and
+              technological programmes are communicated to Governments and the
+              public;
+            </li><li>The various strands of public opinion are represented;</li>
+          </ol>
+        <p>(b) Promote regional cooperative mechanisms to address regional needs
+          for sustainable development. Such regional cooperative mechanisms
+          could be facilitated through public/private partnerships and provide
+          support to Governments, industry, non-governmental educational
+          institutions and other domestic and international organizations, and
+          by strengthening global professional networks;
+        </p><p>(c) Improve and expand scientific and technical inputs through
+          appropriate mechanisms to intergovernmental consultative, cooperative
+          and negotiating processes towards international and regional
+          agreements;
+        </p><p>(d) Strengthen science and technology advice to the highest levels of
+          the United Nations, and other international institutions, in order to
+          ensure the inclusion of science and technology know-how in sustainable
+          development policies and strategies;
+        </p><p>(e) Improve and strengthen programmes for disseminating research results
+          of universities and research institutions. This requires recognition
+          of and greater support to the scientists, technologists and teachers
+          who are engaged in communicating and interpreting scientific and
+          technological information to policy makers, professionals in other
+          fields and the general public. Such support should focus on the
+          transfer of skills and the transfer and adaptation of planning
+          techniques. This requires full and open sharing of data and
+          information among scientists and decision makers. The publication of
+          national scientific research reports and technical reports that are
+          understandable and relevant to local sustainable development needs
+          would also improve the interface between science and decision-making,
+          as well as the implementation of scientific results;
+        </p><p>(f) Improve links between the official and independent research sectors
+          and industry so that research may become an important element of
+          industrial strategy;
+        </p><p>(g) Promote and strengthen the role of women as full partners in the
+          science and technology disciplines;
+        </p><p>(h) Develop and implement information technologies to enhance the
+          dissemination of information for sustainable development.
+      </p></blockquote>
+      <h4 class="uppercase">Means of implementation</h4>
+      <h4>A) Financing and cost evaluation</h4>
+      <p>31.5. The Conferense secretariat has estimated the average total annual
+      cost (1993-2000) of implementing the activities of this programme to be
+      about $15 million from the international community on grant or
+      concessional terms. These are indicative and order-of-magnitude estimates
+      only and have not been reviewed by Governments. Actual costs and financial
+      terms, including any that are non-concessional, will depend upon, inter
+      alia, the specific strategies and programmes Governments decide upon for
+      implementation.</p>
+      <h4>B) Capacity-building</h4>
+      <p>31.6. Intergovernmental panels on development and environmental issues
+      should be organized, with emphasis on their scientific and technical
+      aspects, and studies of responsiveness and adaptability included in
+      subsequent programmes of action.</p>
+      <div class="hr"><hr /></div>
+      <h3 class="uppercase">B. Promoting codes of practice and guidelines related
+      to science and technology</h3>
+      <h4 class="uppercase">Basis for action</h4>
+      <p>31.7. Scientists and technologists have a special set of
+      responsibilities which belong to them both as inheritors of a tradition
+      and as professionals and members of disciplines devoted to the search for
+      knowledge and to the need to protect the biosphere in the context of
+      sustainable development.</p>
+      <p>31.8. Increased ethical awareness in environmental and developmental
+      decision-making should help to place appropriate priorities for the
+      maintenance and enhancement of life-support systems for their own sake,
+      and in so doing ensure that the functioning of viable natural processes is
+      properly valued by present and future societies. Therefore, a
+      strengthening of the codes of practice and guidelines for the scientific
+      and technological community would increase environmental awareness and
+      contribute to sustainable development. It would build up the level of
+      esteem and regard for the scientific and technological community and
+      facilitate the "accountability" of science and technology.</p>
+      <h4 class="uppercase">Objectives</h4>
+      <p>31.9. The objective should be to develop, improve and promote
+      international acceptance of codes of practice and guidelines relating to
+      science and technology in which the integrity of life-support systems is
+      comprehensively accounted for and where the important role of science and
+      technology in reconciling the needs of environment and development is
+      accepted. To be effective in the decision-making process, such principles,
+      codes of practice and guidelines must not only be agreed upon by the
+      scientific and technological community, but also recognized by the society
+      as a whole.</p>
+      <h4 class="uppercase">Activities</h4>
+      <p>31.10. The following activities could be undertaken:
+      </p><blockquote>
+        <p>(a) Strengthening national and international cooperation, including the
+          non-governmental sector, to develop codes of practice and guidelines
+          regarding environmentally sound and sustainable development, taking
+          into account the Rio Declaration and existing codes of practice and
+          guidelines;</p>
+        <p>(b) Strengthening and establishing national advisory groups on
+          environmental and developmental ethics, in order to develop a common
+          value framework between the scientific and technological community and
+          society as a whole, and promote continuous dialogue;
+        </p><p>(c) Extending education and training in developmental and environmental
+          ethical issues to integrate such objectives into education curricula
+          and research priorities;
+        </p><p>(d) Reviewing and amending relevant national and international
+          environment and development legal instruments to ensure appropriate
+          codes of practice and guidelines are incorporated into such regulatory
+          machinery.
+      </p></blockquote>
+      <h4 class="uppercase">Means of implementation</h4>
+      <h4>A) Financing and cost evaluation</h4>
+      <p>31.11. The Conferense secretariat has estimated the average total
+      annual cost (1993-2000) of implementing the activities of this programme
+      to be about $5 million from the international community on grant or
+      concessional terms. These are indicative and order-of-magnitude estimates
+      only and have not been reviewed by Governments. Actual costs and financial
+      terms, including any that are non-concessional, will depend upon, inter
+      alia, the specific strategies and programmes Governments decide upon for
+      implementation.</p>
+      <h4>B) Capacity-building</h4>
+      <p>31.12. Codes of practice and guidelines, including on appropriate
+      principles, should be developed for and by the scientific and
+      technological community in the pursuit of its research activities and
+      implementation of programmes aimed at sustainable development.
+      </p>
+
+      <!-- InstanceEndEditable --></div>
+<!-- ********************** end main body middle section -->
+<!-- ********************** RH: spotlight area --> 
+        <a name="spotlightRH"></a>
+        <!-- ********************** end RH: spotlight -->
+          <div id="clear"></div> 
+         </div> <!-- end containercontent div -->
+<!-- ********************** end page content area --> 
+	</div> <!-- end containerwhite div -->
+<!-- ********************** legal section -->
+    <div id="legal">
+    <p>﻿<a href="http://www.un.org/copyright.htm">Copyright &copy; United Nations 2009</a> |  <a href="http://www.un.org/terms.htm">Terms of Use</a> | <a href="http://www.un.org/privacy.htm">Privacy Notice</a>
+    <br /><a target="_blank" href="http://esa.un.org/common/isu/contactUs.do?toCode=81&amp;subject=Division+for+Sustainable+Development&amp;subjectEdit=true">Comments and suggestions</a>
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11684873-2");
+pageTracker._trackPageview();
+
+var dpiTracker = _gat._getTracker("UA-4803886-1");
+		 dpiTracker._trackPageview();
+
+} catch(err) {}</script></p>
+    </div> <!-- end legal div -->
+<!-- ********************** end legal section -->
+</div> <!-- end containertop div -->
+    
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,392 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta content="StatPlanet World Bank - Open Data" about="/maps/statplanet-world-bank-open-data" property="dc:title" />
+<meta about="/maps/statplanet-world-bank-open-data" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.statsilk.com/sites/all/themes/vivacity/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="keywords" content="StatPlanet, World Bank, Apps for Development, open data, world stats, development indicators" />
+<meta name="description" content="The 1st prize winner of the World Bank&#039;s Apps for Development competition, an Open Data initiative. Explore thousands of world stats through interactive visuals" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/maps/statplanet-world-bank-open-data" />
+<link rel="shortlink" href="/node/56" />
+  <title>StatPlanet World Bank - Open Data | StatSilk</title>
+  <style type="text/css" media="all">@import url("http://www.statsilk.com/modules/system/system.base.css?m67v45");
+@import url("http://www.statsilk.com/modules/system/system.menus.css?m67v45");
+@import url("http://www.statsilk.com/modules/system/system.messages.css?m67v45");
+@import url("http://www.statsilk.com/modules/system/system.theme.css?m67v45");</style>
+<style type="text/css" media="all">@import url("http://www.statsilk.com/modules/comment/comment.css?m67v45");
+@import url("http://www.statsilk.com/modules/field/theme/field.css?m67v45");
+@import url("http://www.statsilk.com/sites/default/modules/mollom/mollom.css?m67v45");
+@import url("http://www.statsilk.com/modules/node/node.css?m67v45");
+@import url("http://www.statsilk.com/sites/default/modules/rpx/rpx_widgets.css?m67v45");
+@import url("http://www.statsilk.com/modules/search/search.css?m67v45");
+@import url("http://www.statsilk.com/modules/user/user.css?m67v45");
+@import url("http://www.statsilk.com/modules/forum/forum.css?m67v45");</style>
+<style type="text/css" media="all">@import url("http://www.statsilk.com/sites/default/modules/ckeditor/ckeditor.css?m67v45");
+@import url("http://www.statsilk.com/sites/default/modules/ctools/css/ctools.css?m67v45");
+@import url("http://www.statsilk.com/sites/default/modules/views/css/views.css?m67v45");
+@import url("http://www.statsilk.com/sites/default/modules/addthis/addthis.css?m67v45");</style>
+<style type="text/css" media="all">@import url("http://www.statsilk.com/sites/all/themes/vivacity/css/vivacity.css?m67v45");
+@import url("http://www.statsilk.com/sites/all/themes/vivacity/css/white_blue.css?m67v45");</style>
+
+<!--[if IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.statsilk.com/sites/all/themes/vivacity/css/ie.css?m67v45" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://www.statsilk.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://www.statsilk.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.statsilk.com/misc/drupal.js?m67v45"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	    addthis_pub = 'cappelle';
+	    addthis_logo = 'http://www.statsilk.com/sites/all/themes/vivacity/logo.png';
+	    addthis_logo_background = 'EFEFFF';
+	    addthis_logo_color = '666699';
+	    addthis_brand = '';
+	    addthis_options = 'email, facebook, twitter, google, live, reddit, linkedin, delicious, digg, more';
+	    addthis_disable_flash = 'true';
+	
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.statsilk.com/sites/default/modules/google_analytics/googleanalytics.js?m67v45"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1012073-7"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/cufon-yui.js?m67v45"></script>
+<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/republika.js?m67v45"></script>
+<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/superfish.js?m67v45"></script>
+<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/jquery.hoverIntent.minified.js?m67v45"></script>
+<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/vivacity.js?m67v45"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"vivacity", "theme_token":"PGaf4eCTw_j-LY1_4t6bUAIabQ010kyOBrIx98pfDYI", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "0":1, "sites\u002Fdefault\u002Fmodules\u002Fgoogle_analytics\u002Fgoogleanalytics.js":1, "1":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Fcufon-yui.js":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Frepublika.js":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Fsuperfish.js":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Fjquery.hoverIntent.minified.js":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Fvivacity.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fdefault\u002Fmodules\u002Fmollom\u002Fmollom.css":1, "modules\u002Fnode\u002Fnode.css":1, "sites\u002Fdefault\u002Fmodules\u002Frpx\u002Frpx_widgets.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "modules\u002Fforum\u002Fforum.css":1, "sites\u002Fdefault\u002Fmodules\u002Fckeditor\u002Fckeditor.css":1, "sites\u002Fdefault\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fdefault\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fdefault\u002Fmodules\u002Faddthis\u002Faddthis.css":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fcss\u002Fvivacity.css":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fcss\u002Fwhite_blue.css":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fcss\u002Flayout.css":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fcss\u002Fie.css":1}}, "jcarousel":{"ajaxPath":"\u002Fjcarousel\u002Fajax\u002Fviews"}, "googleanalytics":{"trackOutbound":1, "trackMailto":1, "trackDownload":1, "trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  <script type="text/javascript">
+	//<![CDATA[
+	document.write('<link rel="stylesheet" type="text/css" href="/sites/all/themes/vivacity/css/css3.css" media="screen" \/>');
+	//]]>
+  </script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-56 node-type-page one-sidebar sidebar-secondsingle" >
+  <div id="skip-link">
+    <a href="#main-menu" class="element-invisible element-focusable">Jump to Navigation</a>
+  </div>
+    
+  <div id="page">
+    <div id="header-wrapper">
+	  <div id="header">
+	    	    <div id="header-inner" class="clearfix">
+                      <div id="logo-title">
+                              <div id="site-logo"><a href="/" title="Home" rel="home"><img src="http://www.statsilk.com/sites/all/themes/vivacity/logo.png" alt="Home"/></a></div>
+              		      		                  </div> <!-- /#logo-title -->
+                                          <div id="header-right">  <div class="region region-header-right">
+    
+  <div id="block-search-form" class="block block-search  " >	
+    <div class="block-inner clearfix">
+      	  <div class="content clearfix">
+        <form action="/maps/statplanet-world-bank-open-data" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><span class="button"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></span></div><input type="hidden" name="form_build_id" value="form-yJGEPxiweiJBX-1V4Qn6ePLeW7-JzYQpOF3JUr4CzD8" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>        
+      </div>
+    </div>
+  </div> 
+  </div>
+</div> <!-- /#header-right -->
+                  </div>
+	  </div>
+	</div> <!-- /#header-inner, /#header -->
+    <div id="primary"><div id="primary-inner" class="clearfix">
+                <div class="region region-primary-menu">
+    
+  
+  
+<ul class="mega-menu">
+      <li class="mega views-row views-row-1 views-row-odd views-row-first">	  
+<a href="/home">Home</a>	</li>
+      <li class="mega views-row views-row-2 views-row-even expanded">	  
+<a href="#">Software</a><div class="mega-menu-sub two_columns width-200px left"><div class="inner clearfix"><div class="field-item even field-item-0">
+<!--<h3 class="title">Software1</h3>-->
+<h3 class="title">
+	<img alt="StatPlanet" src="/files/images/StatPlanet.png" style="width: 100px; height: 23px; " /></h3>
+<ul><li>
+		<a href="/software/statplanet">StatPlanet</a></li>
+<li>
+		<a href="/software/statplanet-plus">StatPlanet Plus</a></li>
+<li>
+		<a href="/software/statplanet-lite">StatPlanet Lite</a></li>
+</ul><h3 class="title">
+	<img alt="StatTrends" src="/files/images/StatTrends.png" style="width: 100px; height: 23px; " /></h3>
+<ul><li>
+		<a href="/software/stattrends">StatTrends</a></li>
+<li>
+		<a href="/software/stattrends-plus">StatTrends Plus</a></li>
+</ul><h3 class="title">
+	<img alt="StatWorld" src="/files/images/StatWorld.png" style="width: 100px; height: 23px; " /></h3>
+<ul><li>
+		<a href="/maps/world-stats-open-data">StatWorld</a></li>
+<li>
+		<a href="/maps/statplanet-world-bank-open-data">StatPlanet World Bank</a></li>
+</ul></div></div></div>	</li>
+      <li class="mega views-row views-row-3 views-row-odd">	  
+<a href="/blog">Blog</a>	</li>
+      <li class="mega views-row views-row-4 views-row-even">	  
+<a href="/downloads">Downloads</a>	</li>
+      <li class="mega views-row views-row-5 views-row-odd">	  
+<a href="/examples">Examples</a>	</li>
+      <li class="mega views-row views-row-6 views-row-even">	  
+<a href="/features">Features</a>	</li>
+      <li class="mega views-row views-row-7 views-row-odd expanded">	  
+<a href="/maps">Maps</a><div class="mega-menu-sub two_columns width-400px right"><div class="inner clearfix"><div class="field-item even field-item-0">
+<!--<h3 class="title">Maps1</h3>-->
+<p><img alt="Shapefile maps" src="/files/images/shapefile-maps.png" style="width: 181px; height: 130px; " /></p>
+</div><div class="field-item odd field-item-1">
+<!--<h3 class="title">Maps2</h3>-->
+<div>
+<h3 class="title">
+		EXPLORE MAPS</h3>
+<div>
+<ul><li>
+				<a href="/maps/world-stats-open-data">StatWorld - world data mapped</a></li>
+<li>
+				<a href="/maps/statplanet-world-bank-open-data">StatPlanet World Bank</a></li>
+<li>
+				<a href="/maps/world-stats-interactive-maps-index">Interactive maps by category</a></li>
+</ul></div>
+<h3 class="title">
+		DOWNLOAD MAPS</h3>
+</div>
+<ul><li>
+		<a href="/maps/download-free-shapefile-maps">Download free shapefile maps</a></li>
+<li>
+		<a href="/maps/download-interactive-usa-map">Download interactive USA map</a></li>
+<li>
+		<a href="/maps/download-interactive-world-map">Download interactive world map</a></li>
+</ul><div>
+<h3 class="title">
+		CREATE MAPS</h3>
+</div>
+<ul><li>
+		<a href="/maps/create-flash-maps">Create your own Flash maps</a></li>
+<li>
+		<a href="/maps/convert-bitmap-vector-flash">Convert bitmap to vector</a></li>
+</ul></div></div></div>	</li>
+      <li class="mega views-row views-row-8 views-row-even expanded">	  
+<a href="#">Support</a><div class="mega-menu-sub single_column width-200px left"><div class="inner clearfix"><div class="field-item even field-item-0">
+<!--<h3 class="title">Support1</h3>-->
+<ul><li>
+		<a href="/contact">Contact</a></li>
+<li>
+		<a href="/support/faq">FAQ</a></li>
+<li>
+		<a href="/forum">Forum</a></li>
+<li>
+		<a href="/support/resources">Resources</a></li>
+</ul></div></div></div>	</li>
+      <li class="mega views-row views-row-9 views-row-odd views-row-last">	  
+<a href="/about">About</a>	</li>
+  </ul>
+  </div>
+       <!-- /#primary -->
+	</div></div>
+    <div id="breadcrumb"><div id="breadcrumb-inner">
+	  You are here: <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div>	</div></div>
+    <div id="main">
+	  <div id="main-inner">        
+		<div id="main-top" class="clearfix">
+		  <div id="content">
+		     <!-- /#showcase -->
+	        	        		    
+			<div id="content-inner" class="clearfix">
+			   <!-- /#content-top -->
+		      <div id="content-main">
+			  	  		                          <div id="content-header">
+                    <h1 class="title">StatPlanet World Bank - Open Data</h1>                                                              <div class="tabs"></div>
+                                        					                  </div> <!-- /#content-header -->
+                 
+                  <div class="region region-content">
+    
+  
+<div class="node node-page">
+  <div class="node-inner clearfix">
+	          
+	
+    <div class="content clearfix">
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
+<table border="0" cellpadding="1" cellspacing="1" style="width: 100%; "><tbody><tr><td>
+				<a href="/maps/statplanet-world-bank-app-open-data/"><img alt="StatPlanet World Bank" src="/files/images/StatPlanet_World_Bank.png" style="width: 300px; height: 209px; " /></a></td>
+<td>
+				<a href="/maps/statplanet-world-bank-app-open-data/">Explore world stats</a> using StatPlanet World Bank, the <a href="/blog/statplanet-world-bank-wins-first-prize">first prize winner of the World Bank's Apps for Development competition</a>. It directly accesses and visualizes all of the World Bank's 3000+ indicators available through its Open Data initiative, on <a href="#world-stats-topics">many different topics</a> from Agriculture to Science &amp; Technology.</td>
+</tr></tbody></table><h2>
+	<a id="options" name="options"><strong>Options</strong>:</a></h2>
+<ul><li>
+		Select language: <a href="/maps/statplanet-world-bank-app-open-data">English</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html?lang=fr&amp;s=settings_fr.csv" target="_blank">French</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html?lang=es&amp;s=settings_es.csv" target="_blank">Spanish</a>. | By categorization: <a href="/maps/statplanet-world-bank-app-open-data/index.html?api=source" target="_blank">Data source</a> | <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=1990-2010">Topic</a></li>
+<li>
+		Select year range: <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=1960-2010" target="_blank">1960-2010</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=1970-2010" target="_blank">1970-2010</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html" target="_blank">1980-2010</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=1990-2010" target="_blank">1990-2010</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=2000-2010" target="_blank">2000-2010</a>.</li>
+<li>
+		Download: <a href="http://www.sacmeq.org/statplanet/files/StatPlanet_WorldBank.zip">StatPlanet World Bank desktop app</a> | <a href="/files/resources/User_Guide_StatPlanet.pdf" target="_blank">Download the User Guide</a></li>
+</ul><h2>
+	<a id="seealso" name="seealso"><strong>See also:</strong></a></h2>
+<ul><li>
+		<a href="http://appsfordevelopment.challengepost.com/" target="_blank">Apps for Development website</a></li>
+<li>
+		<a href="http://blogs.worldbank.org/education/node/647" target="_blank">World Bank's StatPlanet EdStats</a> to explore education statistics.</li>
+<li>
+		<a href="/maps/world-stats-open-data">StatWorld</a> - StatSilk's compilation of world stats using open data.</li>
+</ul><h2>
+	<a id="explanatoryvideo" name="explanatoryvideo"><strong>Explanatory video:</strong></a></h2>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" style="height: 390px; width: 640px">
+<param name="movie" value="http://www.youtube.com/v/_0u-qY3n7Pc?version=3&amp;feature=player_detailpage" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><!--[if !IE]>--><object style="height: 390px; width: 640px" type="application/x-shockwave-flash" data="http://www.youtube.com/v/_0u-qY3n7Pc?version=3&amp;feature=player_detailpage">
+<param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><!--<![endif]--><!--[if !IE]>--></object><!--<![endif]--></object></p>
+<p> </p>
+<h2>
+	<a id="world-stats-topics" name="world-stats-topics"><strong>World Stats Topics:</strong></a></h2>
+<p>World stats can be explored for the following topics:</p>
+<ul><li>
+		Agriculture and Rural Development</li>
+<li>
+		Aid Effectiveness</li>
+<li>
+		Economic Policy and External Debt</li>
+<li>
+		Education</li>
+<li>
+		Energy and Mining</li>
+<li>
+		Environment</li>
+<li>
+		Financial Sector</li>
+<li>
+		Gender</li>
+<li>
+		Health</li>
+<li>
+		Infrastructure</li>
+<li>
+		Labor and Social Protection</li>
+<li>
+		Poverty</li>
+<li>
+		Private Sector</li>
+<li>
+		Science and Technology</li>
+<li>
+		Social Development</li>
+<li>
+		Urban Development</li>
+</ul><h2>
+	<a id="world-stats-topics" name="world-stats-data-sources"><strong>World Stats Data Sources:</strong></a></h2>
+<p>World stats can be explored for the following World Bank data sources:</p>
+<ul><li>
+		Africa Development Indicators</li>
+<li>
+		Doing Business</li>
+<li>
+		Education Statistics</li>
+<li>
+		Enterprise Surveys</li>
+<li>
+		Global Development Finance</li>
+<li>
+		Gender Statistics</li>
+<li>
+		Global Economic Monitor</li>
+<li>
+		Global Economic Monitor (GEM) Commodities</li>
+<li>
+		Health Nutrition and Population Statistics</li>
+<li>
+		International Development Association</li>
+</ul><div>
+<h2>
+		<a id="world-stats-topics" name="Versions"><strong>Versions:</strong></a></h2>
+<ul><li>
+			Version 2.0: added search, fixed indicator mouseover descriptions on startup, various interface improvements</li>
+<li>
+			Version 2.1 (Nov 30, 2011): fixed issue with data export, various interface improvements</li>
+</ul></div>
+<p> </p>
+</div></div></div><iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.statsilk.com%2Fmaps%2Fstatplanet-world-bank-open-data&amp;layout=standard&amp;show_faces=show&amp;width=450px&amp;font=arial&amp;height=80px&amp;action=like&amp;colorscheme=light&amp;locale=en_US" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 450px; height: 80px;" allowTransparency="true"></iframe>	      </div>
+
+      </div>
+</div> <!-- /node-inner, /node -->  </div>
+			  			      </div>
+			   <!-- /#content-bottom -->
+		    </div>
+		  </div>
+          	                  <div id="sidebar-right">
+                                                          <div id="sidebar-right-right">
+                    <div class="region region-sidebar-second-right">
+    
+  <div id="block-addthis-addthis" class="block block-addthis basicblock basicblock" >	
+    <div class="block-inner clearfix">
+      	  <div class="content clearfix">
+        
+      <a href="http://www.addthis.com/bookmark.php"
+        onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
+        onmouseout="addthis_close()"
+        onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="" /></a>
+      <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+              
+      </div>
+    </div>
+  </div> 
+  </div>
+                </div> <!-- /#sidebar-right-right -->
+              	  	    </div>
+	              </div>	  
+
+	          </div>
+    </div> <!-- /#main-inner, /#main -->
+
+          <div id="footer"><div id="footer-inner" class="footer-1 clearfix">	
+                  <div id="footer-one" class="column">
+              <div class="region region-footer-one">
+    
+  <div id="block-block-6" class="block block-block  " >	
+    <div class="block-inner clearfix">
+      	  <div class="content clearfix">
+        <p><a href="http://creativecommons.org/licenses/by/3.0/" rel="license"><img alt="Creative Commons Licence" src="http://i.creativecommons.org/l/by/3.0/88x31.png" style="border-width:0" /></a> All exported map and graph images are licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons Attribution 3.0 Unported License</a>. See also: <a href="/license#attribution">attribution</a>.</p>
+        
+      </div>
+    </div>
+  </div> 
+  </div>
+          </div><!-- /footer-one -->
+                           	          </div></div> <!-- /#footer-inner, /#footer -->
+      <div id="closure"><div id="closure-inner" class="clearfix">  <div class="region region-footer">
+    
+  <div id="block-block-2" class="block block-block  " >	
+    <div class="block-inner clearfix">
+      	  <div class="content clearfix">
+        <p class="rteright"><a href="/contact">Contact us</a>  |  <a href="/license">License terms</a>  |  <a href="/newsletter-signup">Newsletter</a> |  <a href="/privacy-policy">Privacy policy</a> | © 2012 StatSilk</p>
+        
+      </div>
+    </div>
+  </div> 
+  </div>
+</div></div>
+  </div> <!-- /#page -->
+  <!--[if IE]><script type="text/javascript"> Cufon.now(); </script><![endif]-->   </body>
+</html>

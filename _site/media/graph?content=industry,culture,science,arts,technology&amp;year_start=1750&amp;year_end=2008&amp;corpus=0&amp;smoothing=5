@@ -1,0 +1,468 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Google Ngram Viewer</title>
+    <link rel="stylesheet" type="text/css" href="http://www.google.com/css/go-x.css">
+    <link rel="stylesheet" type="text/css"
+          href="http://www.google.com/css/modules/buttons/g-button.css">
+  </head>
+
+  <body id="container">
+    <h1>
+      <table>
+       <tr>
+         <td><a href="/ngrams">
+             <img style="margin:0 0.5em 0 0;"
+                  src="http://books.google.com/intl/en/images/logos/books_logo.gif"
+                  alt="Google Books"></a>
+         </td>
+         <td style="padding-left: 0cm; padding-top: 0.035em; color: #009925; font-size: 28px;">Ngram Viewer</td>
+       </tr>
+      </table>
+    </h1>
+    
+
+
+<blockquote>
+
+<form action="/ngrams/graph" method="get">
+  <div>Graph these <b>case-sensitive</b> comma-separated phrases:
+    <input type="text"
+           name="content"
+           size="60"
+           value="industry,culture,science,arts,technology"
+           maxlength=240>
+  </div>
+  <div>between
+    <input type="text"
+           name="year_start"
+           size="4"
+           value="1750"
+           maxlength=4>
+    and
+    <input type="text"
+           name="year_end"
+           size="4"
+           value="2008"
+           maxlength=4>
+    from the corpus
+    <select name="corpus">
+      
+      <option value="5"
+              >
+        American English</option>
+      
+      <option value="6"
+              >
+        British English</option>
+      
+      <option value="11"
+              >
+        Chinese (simplified)</option>
+      
+      <option value="0"
+              
+              selected>
+        English</option>
+      
+      <option value="4"
+              >
+        English Fiction</option>
+      
+      <option value="1"
+              >
+        English One Million</option>
+      
+      <option value="7"
+              >
+        French</option>
+      
+      <option value="8"
+              >
+        German</option>
+      
+      <option value="9"
+              >
+        Hebrew</option>
+      
+      <option value="12"
+              >
+        Russian</option>
+      
+      <option value="10"
+              >
+        Spanish</option>
+      
+    </select>
+    with smoothing of
+    <select name="smoothing">
+      
+      <option value="0"
+              >
+        0</option>
+      
+      <option value="1"
+              >
+        1</option>
+      
+      <option value="2"
+              >
+        2</option>
+      
+      <option value="3"
+              >
+        3</option>
+      
+      <option value="4"
+              >
+        4</option>
+      
+      <option value="5"
+              
+              selected>
+        5</option>
+      
+      <option value="6"
+              >
+        6</option>
+      
+      <option value="7"
+              >
+        7</option>
+      
+      <option value="8"
+              >
+        8</option>
+      
+      <option value="9"
+              >
+        9</option>
+      
+      <option value="10"
+              >
+        10</option>
+      
+      <option value="20"
+              >
+        20</option>
+      
+      <option value="30"
+              >
+        30</option>
+      
+      <option value="40"
+              >
+        40</option>
+      
+      <option value="50"
+              >
+        50</option>
+      
+    </select>.
+ </div>
+ <div><input type="submit" value="Search lots of books">
+ </div>
+</form>
+</blockquote>
+
+<center>
+<table>
+
+
+
+
+<tr>
+<td>
+<img src="/ngrams/chart?content=industry%2Cculture%2Cscience%2Carts%2Ctechnology&corpus=0&smoothing=5&year_start=1750&year_end=2008"
+     height="330"
+     width="900"
+     method="get">
+</td>
+<td>
+<g:plusone size="small"></g:plusone>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><br>
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="orwant">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</td>
+</tr>
+
+</table>
+
+</center>
+
+<blockquote>
+Search in Google Books:
+<table width=900 border=1 rules=all>
+
+<tr>
+
+<td>
+<a href='http://www.google.com/search?q="industry"&tbs=bks:1,cdr:1,cd_min:1750,cd_max:1828&lr=lang_en'>
+
+1750 - 1828
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="industry"&tbs=bks:1,cdr:1,cd_min:1829,cd_max:1939&lr=lang_en'>
+
+1829 - 1939
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="industry"&tbs=bks:1,cdr:1,cd_min:1940,cd_max:1951&lr=lang_en'>
+
+1940 - 1951
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="industry"&tbs=bks:1,cdr:1,cd_min:1952,cd_max:1990&lr=lang_en'>
+
+1952 - 1990
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="industry"&tbs=bks:1,cdr:1,cd_min:1991,cd_max:2008&lr=lang_en'>
+
+1991 - 2008
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="industry"&tbs=bks:1&lr=lang_en'>
+industry
+</a> (English)
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href='http://www.google.com/search?q="technology"&tbs=bks:1,cdr:1,cd_min:1750,cd_max:1965&lr=lang_en'>
+
+1750 - 1965
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="technology"&tbs=bks:1,cdr:1,cd_min:1966,cd_max:1996&lr=lang_en'>
+
+1966 - 1996
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="technology"&tbs=bks:1,cdr:1,cd_min:1997,cd_max:2000&lr=lang_en'>
+
+1997 - 2000
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="technology"&tbs=bks:1,cdr:1,cd_min:2001,cd_max:2004&lr=lang_en'>
+
+2001 - 2004
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="technology"&tbs=bks:1,cdr:1,cd_min:2005,cd_max:2008&lr=lang_en'>
+
+2005 - 2008
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="technology"&tbs=bks:1&lr=lang_en'>
+technology
+</a> (English)
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href='http://www.google.com/search?q="science"&tbs=bks:1,cdr:1,cd_min:1750,cd_max:1829&lr=lang_en'>
+
+1750 - 1829
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="science"&tbs=bks:1,cdr:1,cd_min:1830,cd_max:1953&lr=lang_en'>
+
+1830 - 1953
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="science"&tbs=bks:1,cdr:1,cd_min:1954,cd_max:1971&lr=lang_en'>
+
+1954 - 1971
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="science"&tbs=bks:1,cdr:1,cd_min:1972,cd_max:1990&lr=lang_en'>
+
+1972 - 1990
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="science"&tbs=bks:1,cdr:1,cd_min:1991,cd_max:2008&lr=lang_en'>
+
+1991 - 2008
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="science"&tbs=bks:1&lr=lang_en'>
+science
+</a> (English)
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href='http://www.google.com/search?q="arts"&tbs=bks:1,cdr:1,cd_min:1750,cd_max:1768&lr=lang_en'>
+
+1750 - 1768
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="arts"&tbs=bks:1,cdr:1,cd_min:1769,cd_max:1779&lr=lang_en'>
+
+1769 - 1779
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="arts"&tbs=bks:1,cdr:1,cd_min:1780,cd_max:1824&lr=lang_en'>
+
+1780 - 1824
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="arts"&tbs=bks:1,cdr:1,cd_min:1825,cd_max:1965&lr=lang_en'>
+
+1825 - 1965
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="arts"&tbs=bks:1,cdr:1,cd_min:1966,cd_max:2008&lr=lang_en'>
+
+1966 - 2008
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="arts"&tbs=bks:1&lr=lang_en'>
+arts
+</a> (English)
+</td>
+</tr>
+
+<tr>
+
+<td>
+<a href='http://www.google.com/search?q="culture"&tbs=bks:1,cdr:1,cd_min:1750,cd_max:1833&lr=lang_en'>
+
+1750 - 1833
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="culture"&tbs=bks:1,cdr:1,cd_min:1834,cd_max:1981&lr=lang_en'>
+
+1834 - 1981
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="culture"&tbs=bks:1,cdr:1,cd_min:1982,cd_max:1991&lr=lang_en'>
+
+1982 - 1991
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="culture"&tbs=bks:1,cdr:1,cd_min:1992,cd_max:1998&lr=lang_en'>
+
+1992 - 1998
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="culture"&tbs=bks:1,cdr:1,cd_min:1999,cd_max:2008&lr=lang_en'>
+
+1999 - 2008
+
+</a></td>
+
+<td>
+<a href='http://www.google.com/search?q="culture"&tbs=bks:1&lr=lang_en'>
+culture
+</a> (English)
+</td>
+</tr>
+
+</table>
+</blockquote>
+
+<center>Run your own experiment!  Raw data is available for download
+  <a href="/ngrams/datasets">here</a>.
+</center>
+
+
+
+    <center>
+    <div id="about" style="border-top: 1px solid #ccc;">&copy; 2010 Google -
+      <a href="http://www.google.com/about.html">About Google</a> -
+
+      <a href="http://www.google.com/intl/en/googlebooks/about.html">About
+        Google Books</a> -
+      <a href="/ngrams/info">About Google Books NGram Viewer</a>
+    </div>
+    <!-- Analytics -->
+    <script src="http://www.google-analytics.com/ga.js"
+            type="text/javascript"></script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker('UA-4953670-4');
+        pageTracker._setCookiePath('/intl/');
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
+    <script type="text/javascript">
+      var container = document.getElementById("container");
+      var bg = "off";
+      function toggleBg() {
+        if (bg=="off"){
+         container.style.background = "url(specs.png)";
+          bg="on";
+        } else {
+          container.style.background = "none";
+          bg="off"
+        }
+      }
+
+      var footer = document.getElementById("about");
+      function toggleLine() {
+        if (footer.style.borderTop == "1px solid #ccc") {
+          footer.style.borderTop = "1px solid #fff";
+        } else {
+          footer.style.borderTop = "1px solid #ccc"
+        }
+      }
+    </script>
+    </center>
+  </body>
+</html>

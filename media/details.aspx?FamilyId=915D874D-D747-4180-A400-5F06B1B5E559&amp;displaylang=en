@@ -1,0 +1,318 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html >
+<head>
+    <meta http-equiv="X-UA-Compatible"content="IE=EmulateIE7;requiresActiveX=true"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <script type="text/javascript" language="javascript">
+        var uAgent = navigator.userAgent.toLowerCase();
+        var g_IsIE = (uAgent.indexOf("msie") >= 0);
+        var g_IsGecko = (uAgent.indexOf("gecko") >= 0);
+        var g_IsIE5Plus = false;
+        var t_uAgent = uAgent.match('msie [0-9]+');
+        if(t_uAgent)
+        {
+            g_IsIE5Plus = (parseInt(t_uAgent[0].substring(5,t_uAgent[0].length)) >= 5);
+        }
+    </script>
+	
+
+<link type='text/css' rel='Stylesheet' href='/library/mnp/2/aspx/css.aspx?locale=en-us&amp;name=Menu&amp;static=Page' />
+<script type='text/javascript' language='Javascript' src='/downloads/mnp_utility.mspx/menujs?mnpshell=%2fdownloads%2floc%2fen%2fshell.config&amp;displaylang=en&amp;clicktrax=False'></script>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><link rel='stylesheet' type='text/css' href='/library/toolbar/3.0/css.aspx?c=/downloads/loc/en/shell.config'/><script language='JavaScript'>var doImage=doImage;var TType=TType;var defaultSearchLable;
+function mhHover(tbl,idx,cls){var t,d;if(document.getElementById)t=document.getElementById(tbl);else t=document.all(tbl);if(t==null)return;if(t.getElementsByTagName)d=t.getElementsByTagName("TD");else d=t.all.tags("TD");if(d==null)return;if(d.length<=idx)return;d[idx].className=cls;}
+function footerjs(doc){};
+var varSegmentation = 0;
+var varClickTracking = 1;
+var varCustomerTracking=1;
+document.write("<script type='text/javascript' src='" + (window.location.protocol) + "//c.microsoft.com/ms.js'"+"'><\/script>");
+
+
+var rsltextbox = 'msviLSBtbox'; var wtflag = false;
+function stripSymbols () { var objrslttextbox = getObjectById(rsltextbox); if (objrslttextbox) { var form = objrslttextbox.form; var s = objrslttextbox.value; filteredValues = "<>!@^*"; var i; var returnString = ""; for (i = 0; i < s.length; i++) { var c = s.charAt(i); if (filteredValues.indexOf(c) == -1) { returnString += c; } else { returnString += " "; } } objrslttextbox.value = returnString; } if(!wtflag) { trackLSB("Site"); } } 
+function addSubmitEvent() {
+ msviLSBtbox=document.getElementById("msviLSBtbox")
+ if(msviLSBtbox)
+ {
+    defaultSearchLable = msviLSBtbox.value;
+ }
+ var objrslttextbox = getObjectById(rsltextbox); 
+ if (objrslttextbox) 
+ { 
+    var form = objrslttextbox.form;
+     if (window.attachEvent) 
+     { 
+         form.attachEvent("onsubmit",stripSymbols); 
+     }
+     else 
+     { 
+        form.addEventListener("submit",stripSymbols,false);
+     }
+  } 
+} 
+function getObjectById(elid) 
+{ 
+    if (document.getElementById) 
+    { 
+        return document.getElementById(elid); 
+    } 
+    else if (document.all) 
+    { 
+        return document.all[elid]; 
+    } 
+    else if (document.layers) 
+    { 
+        return document.layers[elid];
+    } 
+} 
+if (window.attachEvent) { window.attachEvent("onload",addSubmitEvent); } else { window.addEventListener("load",addSubmitEvent,false); } 
+var FromWeb = false;
+function trackLSB(type)
+{
+
+  clearDefaultSearchLable();
+ 
+  if(type=="Web")
+    FromWeb = true;
+  var tmp = document.getElementById("msviLSBtbox");
+  var errorInfo = document.getElementById("errorInfo");
+  if(type=="Site" && tmp.value.length==0 && !FromWeb)
+  {
+       tmp.value=errorInfo.value;
+       tmp.style.color='#bc2b2b';
+       ajustWidth();
+  }
+  if (typeof dcsMultiTrack == "function")
+  { 
+      var qu = document.getElementById("msviLSBtbox").value;
+      var dcsuri = "results.aspx";
+      var dcssip, ti;
+      if (type == "Site")
+      {
+        dcssip = "search.microsoft.com";
+        ti = "SearchButton: OnSite"; 
+      }
+      else if (type == "Web")
+      {
+         dcssip = "bing.com";
+         ti = "SearchButton: Web";
+      }
+      dcsMultiTrack("DCS.dcsuri", dcsuri, "DCS.dcssip", dcssip, "WT.ti", ti, "WT.dl", "2", "WT.z_srch_t", qu, "DCS.dcsqry", "", "WT.ad", "", "WT.mc_id", ""); 
+      wtflag = true; DCS.dcsuri=DCS.dcssip=DCS.dcsqry=WT.ti=WT.z_srch_t="";
+  }
+}
+
+var isInputqu = false;
+var searchBoxWidthWithKievLogo = 0;
+var searchBoxWidthWithoutKievLogo = 0;
+function clearDefaultSearchLable()
+{var searchBox = document.getElementById("msviLSBtbox");
+if(!isInputqu){searchBox.value = "";}}
+var kievImageWidth = 47;
+var isAdTboxWidth = false;
+var isInitailed = false;
+function ajustWidth()
+{
+    var searchBoxInput = document.getElementById("msviLSBtbox");
+    var kievImage = document.getElementById("msviLSBlogo");
+    if(!isInitailed)
+    {
+         searchBoxWidthWithKievLogo = searchBoxInput.style.width;
+         searchBoxWidthWithoutKievLogo = searchBoxInput.clientWidth + (kievImageWidth - 1);
+         isInitailed = true;
+    }
+    var width = kievImage.clientWidth-1;
+    kievImage.style.width = '1px';
+    var tBoxAloneWidth = searchBoxInput.clientWidth + width;
+    searchBoxInput.style.width = tBoxAloneWidth;
+    isAdTboxWidth = true;
+    
+      
+    
+}
+
+function searchBoxFocused(defaultSearchLabel)
+{
+    var searchBoxInput = document.getElementById("msviLSBtbox");
+    var kievImage = document.getElementById("msviLSBlogo");
+    if(searchBoxInput.value == defaultSearchLabel || searchBoxInput.value==document.getElementById("errorInfo").value)
+    {
+        searchBoxInput.value = '';
+        searchBoxInput.style.fontStyle = '';
+        searchBoxInput.style.color='#000000';
+        kievImage.style.width = '1px';
+        if(searchBoxWidthWithKievLogo == 0 && !isAdTboxWidth &&!isInitailed)
+        {
+            searchBoxWidthWithKievLogo = searchBoxInput.style.width;
+            searchBoxWidthWithoutKievLogo = searchBoxInput.clientWidth + (kievImageWidth - 1);
+            isInitailed = true;
+        }
+        searchBoxInput.style.width = searchBoxWidthWithoutKievLogo;
+    }
+}
+
+function searchBoxBlur(defaultSearchLabel)
+{
+    var searchBoxInput = document.getElementById("msviLSBtbox");
+    var kievImage = document.getElementById("msviLSBlogo");
+    if(searchBoxInput.value.replace(/(^\s*)|(\s*$)/g, '')=='') 
+    {
+        searchBoxInput.value=defaultSearchLabel;searchBoxInput.style.fontStyle ='Italic';
+        searchBoxInput.style.color = "#a1a1a1";
+        kievImage.style.width = kievImageWidth;
+        
+        searchBoxInput.style.width = searchBoxWidthWithKievLogo;
+        isInputqu = false;
+     }
+     else
+     {
+        isInputqu = true;
+     }
+}
+
+function Test()
+{
+    var searchBox = document.getElementById(rsltextbox);
+    var go = document.getElementById("errorInfo");
+    if(searchBox.value==go.value)
+        return false;
+    return true; 
+}</script><meta name="WT.sp" content="_downloads_" /><script language='JavaScript' src='http://js.microsoft.com/library/svy/broker.js'></script><link rel="STYLESHEET" type="text/css" href="http://img.microsoft.com/downloads/loc/en/main.css">
+	
+	<style name="Menu" directional="true">
+		.mnpMenuLabel
+		{
+			font: bold 80% Verdana;
+		}
+		.mnpMenuRow
+		{
+			font: 80% Verdana;
+		}
+	</style>
+    <link type="text/css" rel="stylesheet" href="/downloads/includes/common.css" /><meta name="ms.locale" content="en" /><meta name="Description" content="With Windows Media&amp;#174; Components for QuickTime, by Flip4Mac™, you can play Windows Media files (.wma and .wmv) directly in QuickTime Player and view Windows Media content on the Internet using a Web browser." /><title>
+	Download details: Windows Media&#174; Components for QuickTime
+</title></head>
+<body>
+	<basefont face="Verdana, Arial, Helvetica"/>
+	<a name="top"></a>
+	
+	
+		<!--NOINDEX_START--><script language="Javascript">
+				if (self.name == "MNPMainFrame") top.location.href = self.location.href;
+			</script><div id="msviMasthead"><table cellpadding="0" cellspacing="0" width="100%" border="0"><tr><td width="100%"><table cellpadding="0" cellspacing="0" width="100%" height="22" border="0"><tr><td id="msviMarketing" bgcolor="#4B92D9" nowrap=""><a href="http://go.microsoft.com/fwlink/?LinkID=92799">Click Here to Install Silverlight</a></td><td width="100%" bgcolor="#1E77D3"><img src="/library/toolbar/3.0/gradient.aspx?a=4B92D9&amp;b=1E77D3&amp;w=250&amp;h=22&amp;d=ltr&amp;c=eFLbOmyDquZL7nbgTLBSftxozLo%3d" width="250" height="22" alt="*" title=""></td></tr></table></td><td id="msviGlobalToolbar" bgcolor="#1E77D3" height="22" nowrap="" dir="ltr" align="left"><table cellpadding="0" cellspacing="0" border="0"><tr><td id="msviRegionId" nowrap>United States</td><td id="msviRegionSelector" nowrap><a href="http://www.microsoft.com/worldwide">Change</a></td><td class="gtsep">|</td><td id="msviSiteMap" nowrap><a href="http://www.microsoft.com/en/us/sitemap.aspx">All Microsoft Sites</a></td><td class="msviPPSpace"></td></tr></table></td></tr></table><table cellpadding="0" cellspacing="0" width="100%" border="0"><tr valign="top"><td><table cellpadding="0" cellspacing="0" width="100%" height="42" border="0" style="height:expression(parentElement.parentElement.parentElement.parentElement.offsetHeight)"><tr valign="top"><td id="msviBrandBanner" bgcolor="0A6CCE"><a href="http://www.microsoft.com"><img src="/library/toolbar/3.0/images/banners/ms_masthead_ltr.gif" width="136" height="42" alt="Microsoft" title="" border="0"></a></td></tr></table></td><td id="msviGlobalSearch" width="100%" bgcolor="#FFFFFF"><div class="msviLSBsform"><form id="msviLSBForm" action="/library/toolbar/3.0/search.aspx" target="_top"><div id="msKiev"><input type="hidden" name="View" value="en-us"><input type="hidden" name="charset" value="utf-8"><input id="msviLSBtbox" style="font-style:italic; color:#a1a1a1" onkeydown="if(event.keyCode == 13)searchBoxBlur('Search Microsoft.com')" onfocus="searchBoxFocused('Search Microsoft.com')" onblur="searchBoxBlur('Search Microsoft.com')" type="text" name="qu" value="Search Microsoft.com" autocomplete="off"><span id="msviLSBlogo" class="msviLSBlogo" title="Results by Bing"></span><input id="msviLSBssearch" title="Search Microsoft.com" type="image" name="site" src="/library/toolbar/3.0/images/LSB/Search_icon.gif" align="absmiddle" onclick="trackLSB('Site')"></div><input id="msviLSBWeb" title="Search the Web" name="sweb" type="submit" value="" onclick="trackLSB('Web')" align="absmiddle"></form></div></td></tr></table><table id="msviSubbanner" bgcolor="#003399" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td><img src="/library/toolbar/3.0/subbanner.aspx?text=RG93bmxvYWQgQ2VudGVy&amp;fore=FFFFFF&amp;b=003399&amp;s=5A7CBC&amp;r=False&amp;font=Segoe%2c+13pt&amp;v=0&amp;c=tgmuT99vX46M03KBkRSUZF7vmO4%3d" width="467" height="26" alt="Download Center" title="" border="0" /></td><td width="100%">&nbsp;</td></tr></table></div>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%" dir="LTR">
+				<tr valign="top">
+		<td height="100%" style="overflow-x: hidden" width="181">
+  <div id="mnpMenuTop" class="mnpMenuTop" style="overflow-x: hidden; width: 181px" url="/downloads/details.aspx" dir="LTR"><div class="mnpInherit"><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Search.aspx?displaylang=en">Download Center Home</a></div><div class="mnpMenuBorder" style="width: 180px"></div><div class="mnpMenuLabel">Product Families</div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=38DF6AB1-13D4-409C-966D-CBE61F040027">Windows</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=4289AE77-4CBA-4A75-86F3-9FF96F68E491">Office</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=E49D77BF-D5AE-4EC6-9DFA-D7A19DBA995E">Servers</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=67D35328-CB42-4879-A35A-D59E94D9DACA">Business Solutions</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=C0037913-9E11-4A2D-8FD1-0BA441296CBC">Developer Tools</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=6C813870-3691-48E1-AAAC-64ACCD85E022">Windows Live</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=BEAE32B8-4A67-4F78-BF4E-C114F922F1EA">MSN</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=66FB9844-5799-43C0-8CBF-FCC7C9BE7480">Games &amp; Xbox</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;productID=7C1FA894-B2C5-41BE-8D97-E145DD2A883B">Windows Mobile</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Products.aspx?displaylang=en">All Downloads</a></div><div class="mnpMenuBorder" style="width: 180px"></div><div class="mnpMenuLabel">Download Categories</div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=1">Games</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=2">DirectX</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=6">Internet</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=7">Windows Security &amp; Updates</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=4">Windows Media</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=3">Drivers</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=9">Home &amp; Office</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=8">Mobile Devices</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=5">Mac &amp; Other Platforms</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=12">System Tools</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/Browse.aspx?displaylang=en&amp;categoryid=10">Development Resources</a></div><div class="mnpMenuBorder" style="width: 180px"></div><div class="mnpMenuLabel">Download Resources</div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/render.aspx?displaylang=en&amp;content=updateservices">Microsoft Update Services</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/render.aspx?displaylang=en&amp;content=help">Download Center FAQ</a></div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/render.aspx?displaylang=en&amp;content=relatedsites">Related Sites</a></div><div class="mnpMenuBorder" style="width: 180px"></div><div class="mnpMenuLabel">Download Notifications</div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/render.aspx?displaylang=en&amp;content=notifications">Notifications Signup</a></div><div class="mnpMenuBorder" style="width: 180px"></div><div class="mnpMenuLabel">Worldwide Downloads</div><div class="mnpMenuRow" style="border-color: #F1F1F1; background: #F1F1F1; width: 153px; overflow-x: hidden"><img width="4" height="7" border="0" alt="*" title="" class="mnpMenuArrow" src="/library/mnp/2/gif/arrowLTR.gif" style="left: 166px; visibility: hidden"><a href="/downloads/wwlist.aspx?displaylang=en">Countries &amp; Regions</a></div><div class="mnpMenuBorder" style="width: 180px; margin-bottom: 0px"></div></div></div>
+  <div class="mnpAds" style="width: 181px; height: 100%; padding-bottom: 20px; background: #F1F1F1; border-style: solid; border-color: #999999; border-width: 0px 1px 0px 0px">
+    <center><script type="text/javascript" src="http://Ads1.msn.com/library/dap.js"></script><div id="CMSWAP" style="padding-top: 20px;; background: inherit"></div><script type="text/javascript">dapMgr.enableACB("CMSWAP", false);dapMgr.renderAd("CMSWAP", "&PG=CMSWAP&SC=F3&AP=1164",120,240);
+    </script></center>
+  </div>
+</td>
+          <td width="100%" dir="LTR">
+        <!--NOINDEX_STOP-->
+	<div id="quicksearch"><div style="display:none" id="ctagDiv">
+<script type="text/javascript">
+<!--
+var cGif='<'+'img width="0" height="0" alt="" src="http://c1.microsoft.com'+'/c.gif?DI=10139"/>';document.writeln(cGif);
+//-->
+</script></div><form action="info.aspx"><input type="hidden" name="na" value="20"><input type="hidden" name="p" value="0"><input type="hidden" name="u" value="results.aspx"><input type="hidden" name="SrcDisplayLang" value="en"><input type="hidden" name="SrcCategoryId" value=""><input type="hidden" name="SrcFamilyId" value="915d874d-d747-4180-a400-5f06b1b5e559"><input type="hidden" name="f" value="f"><table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <td><span>Search</span></td>
+        <td><select name="pocId"><option value="">All Downloads</option>
+            <option disabled class="disabled">   By Product Family</option>
+            <option value="67D35328-CB42-4879-A35A-D59E94D9DACA">      Business Solutions</option>
+            <option value="C0037913-9E11-4A2D-8FD1-0BA441296CBC">      Developer Tools</option>
+            <option value="66FB9844-5799-43C0-8CBF-FCC7C9BE7480">      Games & Xbox</option>
+            <option value="BEAE32B8-4A67-4F78-BF4E-C114F922F1EA">      MSN</option>
+            <option value="4289AE77-4CBA-4A75-86F3-9FF96F68E491">      Office</option>
+            <option value="E49D77BF-D5AE-4EC6-9DFA-D7A19DBA995E">      Servers</option>
+            <option value="38DF6AB1-13D4-409C-966D-CBE61F040027">      Windows</option>
+            <option value="6C813870-3691-48E1-AAAC-64ACCD85E022">      Windows Live</option>
+            <option value="7C1FA894-B2C5-41BE-8D97-E145DD2A883B">      Windows Mobile</option>
+            <option disabled class="disabled">   By Category</option>
+            <option value="10">      Development Resources</option>
+            <option value="2">      DirectX</option>
+            <option value="3">      Drivers</option>
+            <option value="1">      Games</option>
+            <option value="9">      Home & Office</option>
+            <option value="6">      Internet</option>
+            <option value="5">      Mac & Other Platforms</option>
+            <option value="8">      Mobile Devices</option>
+            <option value="12">      System Tools</option>
+            <option value="4">      Windows Media</option>
+            <option value="7">      Windows Security & Updates</option></select><input type="text" name="freetext" maxlength="60" class="textinput" value="" /><input class="searchBtn" type="submit" value="Go"><a href="info.aspx?na=26&amp;p=&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=advancedsearch.aspx%3fdisplaylang%3den">Advanced Search</a><input type="hidden" name="DisplayLang" value="en"></td>
+      </tr>
+    </table>
+  </form>
+</div>
+	
+
+<div id="details" class="pageMargin">
+    <form name="aspnetForm" method="post" action="details.aspx?FamilyId=915D874D-D747-4180-A400-5F06B1B5E559&amp;amp%3bdisplaylang=en&amp;displaylang=en" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUxNjAzNzE4MWRkGTav/J22+AVUL4IXuBMIkWDM974=" />
+
+
+<script src="/downloads/ScriptResource.axd?d=48-cNKJ6c2zLso7tbrQYi8piibtc9CzUWwGxheA0w66RYJG8YgMX0fi0LpkXmh-c3OQIiaQdAoIzhrkRsgWAiyjZSdTzjDV4AF0azQf4EiosAOFaT_jRf9lJ54w5KvgLiK34BD7Bjf6h-4lLjNtI6hG_Sek1&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=HgiXHkj1Q4zR6LHstRshdPD3QkgBRpbelfLcmOUDFr7sDLrbU4NfvB3ZDVTMsB_X9E830PLFyNy5DkDJGeajMSLUVIUd5tdfDfjUB7-tWlNI2iGmgBQgoVf1NYIBXWC6OHC6G7gTDZbbSqiFaGEj3oaQtalLYBc1MTrRrz70YWiFQJkkACIPGRboJhvhCDxb1cic0w2&amp;t=596f116c" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=ySlwCWryohwp5ybv0pNsnDFGeo5PAN5fQn0YIZcfmKAFLSKhAlZbd3Xhul0rBEpqmekNFO4sW9jJlNwg7oQQ-xfIcM0Fg584LKhCBSCl2OvSgoWh-meSQgcIFMx3T64kyybVno7bvvpWA8EDtBiwym_t2O4fOEhjp3TmUNk5ukAp3NHHpxqiAqvTOEiM35iIKKUc1g2&amp;t=596f116c" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=YQX-R-0ad1mJxNlJgMTqPz0rkEOHrNEwpqNBDV6uaQuzGSFGqdiT8qXbWnqsqKkgloiaxTncK5y-SJeHlkQz8WtSIKZDD4-ilW62GqYUB_uxitEngJwTEfsbYEFcSJ0iYhV04ey97179Ytr69Ieo6QXANvtuW1beRJXu_LqrZ7O-KsDlSd1z2PJQRHEMUOvJmDQ7eQrKHtzcuv5fUPyyL_JpOxU1&amp;t=596f116c" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=8DM0K0KiEVa4wOFF1yLFLSC6ksRg5Tx_VlxzTkYrr0NJ7-Oou2psz-9dA4IW7PyQBzYUmXqaOjpSrLzWXCJKjTfojge5ay5qYBBDbmqlhJbSrg5i-lEN6f81GRDM0RiFr3BgxqzDIyJslLMGOTG47ww1NL4N92hSCrVCUipqUF-ArcNm-DgzBwqItb9aHy0C_npiTg2&amp;t=596f116c" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=gz-2qYz6YFIjtuFefe8huYaQb75oSkzafDLEE2y5kGFdu1qG7sAGqn6QoMJ34eLSMfONV6ErFMTwkjMxf3teMgUcvwpxzu3GnWBttoDVEaRkRjBaVVtGT_3Hhqf7AH82xJoIG1kUkgTklZy85csIVpWsa-IuUe7qUGINCfa_iaB0_mOgM-6uf8dWMcbNo85A0nlmsqe6wYOou83YPLNEZ9NRYMs1&amp;t=596f116c" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=dSdXKw86g-48uyq4W_dE2NgwYoVjJpPdeBlLsmmVW42tSQDMqdhB0FcqoUGWHX4e9NBa0ZJuKON9qfH1N7h8HOd6IDvASWRG9sRVtnFUsxarGnhr1Hu5txhdenkxiKXuvVuI8lAELtmf4DTea_MA63rU4CsmYMIyZgL7dZhJ0rh5Yc1JFsAewiXHY2UlKYMScEerWHFMM1RX6IauteZf71O4log1&amp;t=596f116c" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=We2W98CtCbcdLiv-fzUmcML0SwCyrEIyx6Y0hEnK6RHKXX9fXsMe6RY6X-LmTw5jynikB4PIVhTGINNgJDO9_E0ZIqJPKerGP-sFVXC_I9GfO4EyeU3matsbFO54SN--B5xAEQL36CjcIgKmheYnV8ga2OS65zsZTAIxktUcuzEQmjUpEGR65NF4e1RtGx0bDVtz-M5d2I7yetVE4g4VdttpBDU1&amp;t=596f116c" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=lZahm3z6PLSCWbqn1yq8lRWdKtbyyPzRcNLBrBAga9SOFdh95XYQ2Fk2_G-AAezwBbZR2JnPkzjSkHYWD3Vca5sSfMGPFLI1m6DBc-pXtBIac7t0ckhSHpfAH6zZWkLqHP-KxklCI3J3LSpmjBJw-Ecd4iEjQbFtygQcDjfyu_yFyngT6lXTNlmXcs6zH_GplOZYDQ2&amp;t=596f116c" type="text/javascript"></script>
+<script src="/downloads/ScriptResource.axd?d=IKkABHbrWeBPO3kIbJ5PyGqD2avnuqn1wDnRmOohL95dmnGu5kXVNmx0dJhwzwhT8jXXDRxhJ4yMKf5A3A1DGWSpoX3KeOpRxZD3t6qWXaEZ3KPMy_DKu3poz4npz4_qUP1R-O009iToOxEj75hejuViyJEOK-Z2kkZT9Sn12zeWOWFLQUdCKNl-2DM4LcefLEPA2P87wG1_pQ8DvEK-INHQHqg1&amp;t=596f116c" type="text/javascript"></script>
+        <div id="ctl00_BodyContent_DMControlls"></div>
+    </form>
+	<div id="detailsThankyouIntro"><img id="logo" width="168" height="97" src="http://img.microsoft.com/downloads/img/products/38DF6AB1-13D4-409C-966D-CBE61F040027.gif" alt=""><h1>Windows Media® Components for QuickTime</h1><h5>Brief Description</h5><div id="quickDescription">With Windows Media® Components for QuickTime, by Flip4Mac™, you can play Windows Media files (.wma and .wmv) directly in QuickTime Player and view Windows Media content on the Internet using a Web browser.</div></div><h4 class="featureTitle2">On This Page</h4><div id="onthispage" class="detailsContent"><div><a href="#QuickInfoContainer">Quick Details</a></div><div><a href="#Overview">Overview</a></div><div><a href="#Requirements">System Requirements</a></div><div><a href="#Instructions">Instructions</a></div><div><a href="#RelatedLinks">Related Resources</a></div><div><a href="#AffinityDownloads">What Others Are Downloading</a></div></div><div id="unRestricted"><a name="QuickInfoContainer"></a><div class="topCorners"><div class="l1"></div><div class="l2"></div><div class="l3"></div><div class="l4"></div></div><div id="quickInfoHeader"><form type="get" class="GetForm" id="quickCheck" name="quickCheck" onsubmit="javascript: document.getElementById('btnDownload').disabled=true; setTimeout('document.getElementById(\'btnDownload\').disabled=false', 5000); if (g_IsIE) {window.open('http://download.microsoft.com/download/C/8/9/C8951314-E056-404A-8EA8-8744E42594AA/2.4.4.2/Flip4Mac WMV 2.4.4.2.dmg',null,'toolbar=0,location=no,directories=0,status=0,scrollbars=yes,resizable=1,width=1,height=1,top=0,left=0');}" action="info.aspx"><input type="hidden" name="na" value="41"><input type="hidden" name="p" value="0"><input type="hidden" name="u" value="thankyou.aspx"><input type="hidden" name="SrcDisplayLang" value="en"><input type="hidden" name="SrcCategoryId" value=""><input type="hidden" name="SrcFamilyId" value="915d874d-d747-4180-a400-5f06b1b5e559"><input type="hidden" name="f" value="f"><input type="hidden" name="familyId" value="915d874d-d747-4180-a400-5f06b1b5e559"><input type="hidden" name="displayLang" value="en"><script type="text/javaScript" language="javascript">document.write('<input type="hidden" name="oRef" value="' + document.referrer.replace(/"/gi,'') + '" />');</script><input id="btnDownload" type="submit" class="infodownloadButton" value="Download"></form><div></div></div><div id="quickInfoContents"><h5>Quick Details</h5><table cellpadding="0" cellspacing="0" border="0"><tr><td class="quickInfoName">File Name:</td><td class="quickInfoValue">2.4.4.2\Flip4Mac WMV 2.4.4.2.dmg</td></tr><tr><td class="quickInfoName">Version:</td><td class="quickInfoValue">2.4.4</td></tr><tr><td class="quickInfoName">Date Published:</td><td class="quickInfoValue">5/24/2012</td></tr><tr><td class="quickInfoName">Language:</td><td class="quickInfoValue">English</td></tr><tr><td class="quickInfoName">Download Size:</td><td class="quickInfoValue">25.2 MB - 50.3 MB*</td></tr><tr><td class="quickInfoName">Estimated Download Time: </td><td class="quickInfoValue" id="staticEstimate">1 hr 32 min 56K</td></tr><tr><td colspan="2" id="detailsDisclaimer">*Download size depends on selected download components. </td></tr></table></div><div class="bottomCorners"><div class="l4"></div><div class="l3"></div><div class="l2"></div><div class="l1"></div></div></div><div id="otherDownloadInfo"><a name="Overview"></a><h4>Overview</h4><div class="downloadInfo"><a name="Description"></a><span>With Windows Media® for QuickTime, by Flip4Mac™, you can play Windows Media files (.wma and .wmv) directly in QuickTime Player and view Windows Media content on the Internet using a Web browser. <br />
+<br />
+<b>Optimized for High-Definition Playback:</b><br />
+Windows Media® Components for QuickTime has been highly optimized for Power Mac G4 and G5 and Intel computers and supports playback of high-definition Windows Media video files.<br />
+<br />
+<B>Upgrade to Advanced Features:</B><br />
+Windows Media playback is provided for free. By upgrading, you can import Windows Media files for editing and create Windows Media files for distribution. To learn more about these advanced features, visit the <a href="http://www.flip4mac.com/wmv_upgrades.htm">Flip4Mac Web site</a>.</span></div><p class="topOfPage"><img src="http://img.microsoft.com/downloads/img/arrow_px_up.gif" align="bottom" alt="">&nbsp;<a href="#top" class="inline">Top of page</a></p><a name="Requirements"></a><h4>System Requirements</h4><div class="downloadInfo"><span><ul><li><b>Supported Operating Systems: </b>Apple Mac OS X</li></ul>• Intel or PowerPC G4 & G5, Mac OS X, version 10.5 and later (including Snow Leopard and Lion) <br />
+• QuickTime Pro 7.2.1, Compressor or Episode recommended for advanced conversion options <br/>
+NOTE: QuickTime X does not support conversion using third-party plug-ins. For Snow Leopard users, we recommend installing QuickTime 7. Please see our compatibility chart for QuickTime Player versions and optional conversion tools.<br /></span></div><p class="topOfPage"><img src="http://img.microsoft.com/downloads/img/arrow_px_up.gif" align="bottom" alt="">&nbsp;<a href="#top" class="inline">Top of page</a></p><a name="Instructions"></a><h4>Instructions</h4><div class="downloadInfo"><span>Before you install Windows Media® Components for QuickTime: <br/>
+<br/>
+<B> Important </B>   Make sure that your Mac OS X user account has read and write access. If your login account does not allow you to administer the computer you will be asked for an administrator name and password during the installation.
+<br />
+<br />
+<B>To install Windows Media Components for QuickTime</B><br />
+<br />
+1.       Print this page if you want to use it as a reference when you are offline. <br />
+<br />
+2.       Make sure your computer meets the minimum system requirements. <br />
+<br />
+3.       Click the <B>Download button</B>. <br />
+<br />
+4.       Follow the instructions on the screen to save the file to your hard disk.<br />
+If you are using Safari, the file is downloaded to the desktop unless you specified a different folder in the <B>Preferences</B> dialog box of Safari. (To check your preferences, on the <B>Safari</B> menu, click <B>Preferences</B>, and then click <B>General</B>.)<br />
+If you are using Internet Explorer, the Download Manager saves the file to the desktop unless you specified a different folder in the <B>Preferences</B> dialog box of Internet Explorer. (To check your preferences, on the <B>Explorer</B> menu, click <B>Preferences</B>, and then click <B>Download Options</B> in the left pane). <br />
+<br />
+5.       In most Web browsers, the file you downloaded expands automatically. If it does not, on your hard disk, double-click the file you downloaded in step 4 to mount the disk image and extract the compressed .mpkg file. <br />
+<br />
+6.       Click the .mpkg file to run the installer. <br />
+<br />
+7.       Follow the instructions on the screen to finish installation.<br />
+<br />
+8.       Restart all QuickTime-based applications.</span></div><p class="topOfPage"><img src="http://img.microsoft.com/downloads/img/arrow_px_up.gif" align="bottom" alt="">&nbsp;<a href="#top" class="inline">Top of page</a></p></div><a name="RelatedLinks"></a><div id="relatedLinks"><h4>Related Resources</h4><div class="detailsContent"><ol><li><a href="info.aspx?na=40&amp;p=1&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=http%3a%2f%2fwww.microsoft.com%2fmac%2f">Mactopia</a></li><li><a href="info.aspx?na=40&amp;p=2&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=http%3a%2f%2fwww.microsoft.com%2fmac%2fdownloads.aspx">Mac Downloads</a></li><li><a href="info.aspx?na=40&amp;p=3&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=http%3a%2f%2fwww.microsoft.com%2fwindows%2fwindowsmedia%2fdefault.mspx">Microsoft Windows Media</a></li></ol></div></div><p class="topOfPage"><img src="http://img.microsoft.com/downloads/img/arrow_px_up.gif" align="bottom" alt="">&nbsp;<a href="#top" class="inline">Top of page</a></p><a name="AffinityDownloads"></a><div id="affinity"><h4>What Others Are Downloading</h4><div class="detailsContent">Others who downloaded <b>Windows Media® Components for QuickTime</b> also downloaded:<ol><li><a href="info.aspx?na=47&amp;p=1&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=details.aspx%3ffamilyid%3d68346E0D-44D3-4065-99BB-B664B27EE1F0%26displaylang%3den">Microsoft Remote Desktop Connection Client for Mac 2.1.1</a></li><li><a href="info.aspx?na=47&amp;p=2&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=details.aspx%3ffamilyid%3d5D88D3D4-89BD-44C3-9E5A-657998223E2F%26displaylang%3den">Microsoft Office 2011 14.2.2 Update</a></li><li><a href="info.aspx?na=47&amp;p=3&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=details.aspx%3ffamilyid%3dB1C84F39-517C-4E9B-AF81-9318992710B7%26displaylang%3den">Microsoft Messenger for Mac 8.0.1</a></li><li><a href="info.aspx?na=47&amp;p=4&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=details.aspx%3ffamilyid%3d1D224714-E238-4E45-8668-5166114010CA%26displaylang%3den">Windows Media Player 11 for Windows XP</a><a href="info.aspx?na=67&amp;p=&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=%2fgenuine%2fdownloads%2fWhyValidate.aspx%3fFamilyID%3d1D224714-E238-4E45-8668-5166114010CA%26displaylang%3den"><img style="top:2px;position:relative;" border="0" hspace="4" valign="absmiddle" src="http://img.microsoft.com/downloads/img/gaicon.gif" alt="" title="This download is available to users running genuine Microsoft products. Click the icon for more information."></a></li><li><a href="info.aspx?na=47&amp;p=5&amp;SrcDisplayLang=en&amp;SrcCategoryId=&amp;SrcFamilyId=915d874d-d747-4180-a400-5f06b1b5e559&amp;u=details.aspx%3ffamilyid%3d9D260944-0D77-4FB7-9699-F2BF00132D07%26displaylang%3den">Microsoft Office for Mac 2011 Service Pack 2 (14.2.0)</a></li></ol></div></div><p class="topOfPage"><img src="http://img.microsoft.com/downloads/img/arrow_px_up.gif" align="bottom" alt="">&nbsp;<a href="#top" class="inline">Top of page</a></p><div style="display:none" id="ctagDiv">
+<script type="text/javascript">
+<!--
+var cGif='<'+'img width="0" height="0" alt="" src="http://c1.microsoft.com'+'/c.gif?DI=10139"/>';document.writeln(cGif);
+//-->
+</script></div>
+</div>
+<div id="embedDiv"></div>
+
+	
+					</td>
+		
+				</tr>
+			</table>
+		<!--NOINDEX_START-->
+<br clear="all" style="line-height: 1px; overflow: hidden"><table id="msviFooter" width="100%" cellpadding="0" cellspacing="0"><tr valign="bottom"><td id="msviFooter2" style="filter:progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#3F8CDA', gradientType='1')"><div id="msviLocalFooter"><nobr><a href="http://go.microsoft.com/?linkid=317027" target="_top">Manage Your Profile</a> |</nobr><wbr></wbr><nobr><a href="http://go.microsoft.com/?linkid=2028325" target="_parent">Contact Us</a></nobr></div><div id="msviGlobalFooter"><span dir="ltr">&#169; 2012 Microsoft Corporation. All rights reserved.&nbsp;</span><nobr><a href="http://support.microsoft.com/contactus/?ws=mscom" target="_parent">Contact Us</a> |</nobr><wbr></wbr><nobr><a href="http://go.microsoft.com/?linkid=4412892" target="_parent">Terms of Use</a> |</nobr><wbr></wbr><nobr><a href="http://go.microsoft.com/?linkid=4412893" target="_parent">Trademarks</a> |</nobr><wbr></wbr><nobr><a href="http://go.microsoft.com/?linkid=4412894" target="_parent">Privacy Statement</a></nobr></div></td></tr></table><div style="display:none"><script type="text/javascript">var gDomain="m.webtrends.com";var gDcsId="dcscvii32000004rru80h0dwm_7b7m";var gFpc="WT_FPC";if(document.cookie.indexOf(gFpc+"=")==-1){document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");}</script><script src="http://js.microsoft.com/library/mnp/2/wt/js/wt.js" type="text/javascript"></script><noscript><img border="0" name="DCSIMG" width="1" height="1" src="http://m.webtrends.com/dcscvii32000004rru80h0dwm_7b7m/njs.gif?dcsuri=/nojavascript&WT.js=No"/></noscript></div><layer visibility="hide"><div style="display:none"><img alt="" width="0" height="0" border="0" hspace="0" vspace="0" src="http://c.microsoft.com/trans_pixel.asp?source=www&amp;TYPE=PV&amp;p=downloads&amp;URI=%2fdownloads%2fdetails.aspx%3fFamilyId%3d915D874D-D747-4180-A400-5F06B1B5E559%26amp%3bdisplaylang%3den%26displaylang%3den&amp;GUID=1F4FC18C-F71E-47FB-8FC9-612F8EE59C61&amp;lc=en-us"></div></layer>
+</body>
+</html>
+
