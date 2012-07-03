@@ -1,0 +1,512 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>FFmpeg Howto</title>
+<meta name="description" content="FFmpeg Howto">
+<meta name="keywords" content="FFmpeg, D10, IMX, GXF, MXF, DNXHD">
+<style type="text/css">
+<!--
+body      { background: #FFFFFF; color: #000000; font-family: Arial, Helvetica, sans-serif; font-size: small; margin-top: 0; }
+a         { font-size: small; }
+p         { font-size: medium; font-weight: bold; }
+p a       { font-size: small; }
+
+.indent   { margin-left: 3em; }
+.other    { font-size: small; font-weight: bold; margin: 1em 0; text-align: center; }
+.other a  { text-decoration: underline ! important; }
+.title    { font-weight: bold; text-align: center }
+
+a:link    { background: transparent; color: #0000FF; text-decoration: underline; }
+a:visited { background: transparent; color: #800080; text-decoration: underline; }
+a:active  { background: transparent; color: #FF0000; text-decoration: underline; }
+a:hover   { background: transparent; color: #FF0000; text-decoration: underline; }
+-->
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1479746-43']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body>
+<br/>
+<h1><center>FFmpeg Howto</center></h1>
+<br/>
+<br/>
+
+<h3>Table of Contents</h3>
+<table width="100%">
+ <tr>
+  <td valign="top" width="100%">
+   <ul>
+
+    <li><u>Encoding:</u>
+     <ul>
+      <li><a href="#Encoding_H.264_Long_GOP">H.264 Long GOP</a></li>
+      <li><a href="#Encoding_D10">D10 (aka Sony IMX)</a></li>
+      <li><a href="#Encoding_XDCAM-HD-50_FCP">XDCAM HD 50Mbps in QuickTime (for Final Cut Pro import)</a></li>
+      <li><a href="#Encoding_DVCAM_DVCPRO25_DVCPRO50">DVCAM / DVCPRO25 / DVCPRO50</a></li>
+      <li><a href="#Encoding_VC-3">VC-3 (aka Avid DNxHD)</a></li>
+      <li><a href="#Encoding_MPEG-2_I-frame_only_in_Highest_Quality">MPEG-2 I-frame only in Highest Quality</a></li>
+      <li><a href="#Encoding_MPEG-2_Long_GOP">MPEG-2 Long GOP</a></li>
+      <li><a href="#Encoding_MJPEG_in_Highest_Quality">MJPEG in Highest Quality</a></li>
+     </ul>
+    </li>
+    <br/>
+
+    <li><u>Muxing and Wrapping:</u>
+     <ul>
+      <li><a href="#Muxing_and_Wrapping_D10_into_QuickTime">D10 into QuickTime (for Final Cut Pro import)</a></li>
+      <li><a href="#Muxing_and_Wrapping_MPEG-2_Program_Stream">MPEG-2 Program Stream</a></li>
+     </ul>
+    </li>
+    <br/>
+
+    <li><u>Demuxing and Unwrapping:</u>
+     <ul>
+      <li><a href="#Demuxing_and_Unwrapping_MPEG-2_Program_Stream">MPEG-2 Program Stream</a></li>
+     </ul>
+    </li>
+    <br/>
+
+    <li><u>Timecode Management:</u>
+     <ul>
+      <li><a href="#Timecode_Management_MPEG-2_Start_Timecode">MPEG-2 Start Timecode</a></li>
+     </ul>
+    </li>
+    <br/>
+
+    <li>Misc:</u>
+     <ul>
+      <li><a href="#Misc_Audio_Volume_Modification">Audio Volume Modification</a></li>
+      <li><a href="#Misc_Input_Stream_Selection">Input Stream Selection</a></li>
+      <li><a href="#Misc_Sub-clip_Creation">Sub-clip Creation</a></li>
+      <li><a href="#Misc_Make_a_Video_File_from_a_Single_Frame">Make a Video File from a Single Frame</a></li>
+     </ul>
+    </li>
+    <br/>
+
+   </ul>
+  </td>
+ </tr>
+</table>
+
+<br/>
+<hr/>
+<hr/>
+<br/>
+
+<br/>
+<a name="Encoding_H.264_Long_GOP"></a><h3>H.264 Long GOP Encoding</h3>
+<br/>
+<b>1-pass encoding:</b>
+<br/>
+ffmpeg -i &lt;input_file&gt; -vcodec libx264 -b &lt;video_bitrate&gt; -g &lt;gop_size&gt; -bf 3 -b_strategy 1 -coder 1 -qmin 10 -qmax 51 -sc_threshold 40 -flags +loop -cmp +chroma -me_range 16 -me_method hex -subq 5 -i_qfactor 0.71 -qcomp 0.6 -qdiff 4 -directpred 1 -flags2 +fastpskip -dts_delta_threshold 1 -acodec libfaac -ab &lt;audio_bitrate&gt; output.mp4
+<br/>
+<br/>
+<br/>
+<b>2-pass encoding:</b>
+<br/>
+ffmpeg -y -i &lt;input_file&gt; -pass 1 -vcodec libx264 -b &lt;video_bitrate&gt; -g &lt;gop_size&gt; -bf 3 -refs 6 -b_strategy 1 -coder 1 -qmin 10 -qmax 51 -sc_threshold 40 -flags +loop -cmp +chroma -me_range 16 -me_method umh -subq 7 -i_qfactor 0.71 -qcomp 0.6 -qdiff 4 -directpred 3 -flags2 +dct8x8+wpred+bpyramid+mixed_refs -trellis 1 -partitions +parti8x8+parti4x4+partp8x8+partp4x4+partb8x8 -acodec libfaac -ab &lt;audio_bitrate&gt; output.mp4
+<br/>
+<br/>
+ffmpeg -y -i &lt;input_file&gt; -pass 2 -vcodec libx264 -b &lt;video_bitrate&gt; -g &lt;gop_size&gt; -bf 3 -refs 6 -b_strategy 1 -coder 1 -qmin 10 -qmax 51 -sc_threshold 40 -flags +loop -cmp +chroma -me_range 16 -me_method umh -subq 7 -i_qfactor 0.71 -qcomp 0.6 -qdiff 4 -directpred 3 -flags2 +dct8x8+wpred+bpyramid+mixed_refs -trellis 1 -partitions +parti8x8+parti4x4+partp8x8+partp4x4+partb8x8 -acodec libfaac -ab &lt;audio_bitrate&gt; output.mp4
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Encoding_D10"></a><h3>D10 (aka Sony IMX) Encoding</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -vcodec mpeg2video -r 25 -pix_fmt yuv422p -minrate 50000k -maxrate 50000k -b 50000k -intra -flags +ildct+low_delay -dc 10 -flags2 +ivlc+non_linear_q -ps 1 -qmin 1 -qmax 3 -top 1 -bufsize 2000000 -rc_init_occupancy 2000000 -rc_buf_aggressivity 0.25 -an output.m2v
+<br/>
+<br/>
+<b>Notes :</b>
+<br/>
+- Only works for 25 fps content.
+<br/>
+- Change <i>minrate</i>, <i>maxrate</i> and <i>b</i> values to <i>30000k / 40000k / 50000k</i> in order to produce 30/40/50 Mbps D10 essence.
+<br/>
+- Set <i>bufsize</i> and <i>rc_init_occupancy</i> values to <i>1200000 / 1600000 / 2000000</i> for 30/40/50 Mbps D10 essence.
+<br/>
+- Set <i>qmax</i> value to <i>8 / 3 / 3</i> for 30/40/50 Mbps D10 essence.
+<br/>
+- Add the <i>-padtop 32</i> option if you want to produce a 720x608 D10 image size from a 720x576 source.
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Encoding_XDCAM-HD-50_FCP"></a><h3>XDCAM HD 50Mbps in QuickTime (for Final Cut Pro import)</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -pix_fmt yuv422p -vcodec mpeg2video -flags +ildct+ilme -top 1 -dc 10 -flags2 +ivlc+non_linear_q -qmin 1 -lmin '1*QP2LAMBDA' -vtag xd5c -rc_max_vbv_use 1 -rc_min_vbv_use 1 -b 50000k -minrate 50000k -maxrate 50000k -bufsize 36408333 -bf 2 -aspect 16:9 -acodec pcm_s16be -f mov output.mov -newaudio
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Encoding_DVCAM_DVCPRO25_DVCPRO50"></a><h3>DVCAM / DVCPRO25 / DVCPRO50 Encoding</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -pix_fmt yuv420p output_DVCAM.dv
+<br/>
+ffmpeg -i &lt;input_file&gt; -pix_fmt yuv411p output_DVCPRO25.dv
+<br/>
+ffmpeg -i &lt;input_file&gt; -pix_fmt yuv422p output_DVCPRO50.dv
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Encoding_VC-3"></a><h3>VC-3 (aka Avid DNxHD) Encoding</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -vcodec dnxhd -b &lt;bitrate&gt; -an output.mov
+<br/>
+<br/>
+<b>Notes :</b>
+<br/>
+- &lt;bitrate&gt; can take the following values : 36M, 60M, 90M, 120M, 185M ( please refer to the following table ).
+<br/>
+- Add the following option for interlaced modes : -flags +ildct
+<br/>
+- Add the following option for best quality mode ( very slow ! ) : -mbd rd
+<br/>
+<br/>
+<b>Supported Resolutions :</b>
+<br/>
+<br/>
+<TABLE FRAME=VOID CELLSPACING=0 COLS=6 RULES=NONE BORDER=0>
+	<COLGROUP><COL WIDTH=133><COL WIDTH=108><COL WIDTH=102><COL WIDTH=47><COL WIDTH=72><COL WIDTH=90></COLGROUP>
+	<TBODY>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" WIDTH=133 HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@"><B>Project Format</B></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" WIDTH=108 ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@"><B>Resolution</B></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" WIDTH=102 ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@"><B>Frame Size</B></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" WIDTH=47 ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@"><B>Bits</B></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" WIDTH=72 ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@"><B>FPS</B></TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" WIDTH=90 ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@"><B>&lt;bitrate&gt;</B></TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">1080i / 59.94</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">DNxHD 220</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;0;@">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">29.97</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">220M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">1080i / 59.94</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">DNxHD 145</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">29.97</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDNUM="1036;0;@">145M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080i / 50</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 185</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="25" SDNUM="1036;">25</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>185M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080i / 50</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 120</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="25" SDNUM="1036;">25</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>120M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 25</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 185</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="25" SDNUM="1036;">25</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>185M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 25</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 120</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="25" SDNUM="1036;">25</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>120M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 25</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 36</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="25" SDNUM="1036;">25</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>36M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 24</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 175</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="24" SDNUM="1036;">24</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>175M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 24</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 115</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="24" SDNUM="1036;">24</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>115M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 24</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 36</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="24" SDNUM="1036;">24</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>36M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 175</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>175M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 115</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>115M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 36</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>36M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>1080p / 29.7</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 45</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1920 x 1080</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>29.97</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>45M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>720p / 59.94</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 220</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1280x720</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>59.94</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>220M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>720p / 59.94</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 145</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1280x720</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>59.94</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>145M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>720p / 50</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 175</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1280x720</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="50" SDNUM="1036;">50</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>175M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>720p / 50</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 115</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1280x720</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="50" SDNUM="1036;">50</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>115M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>720p / 23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 90</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1280x720</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>90M</TD>
+		</TR>
+		<TR>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" HEIGHT=17 ALIGN=CENTER VALIGN=MIDDLE>720p / 23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>DNxHD 60</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>1280x720</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE SDVAL="8" SDNUM="1036;">8</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>23.976</TD>
+			<TD STYLE="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" ALIGN=CENTER VALIGN=MIDDLE>60M</TD>
+		</TR>
+	</TBODY>
+</TABLE>
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Encoding_MPEG-2_I-frame_only_in_Highest_Quality"></a><h3>MPEG-2 I-frame only Highest Quality Encoding</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -vcodec mpeg2video -pix_fmt yuv422p -qscale 1 -qmin 1 -intra -an output.m2v
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Encoding_MPEG-2_Long_GOP"></a><h3>MPEG-2 Long GOP Encoding</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -vcodec mpeg2video -b &lt;video_bitrate&gt; -g &lt;gop_size&gt; -bf 2 -b_strategy 1 -acodec mp2 -ab &lt;audio_bitrate&gt; -f vob output.mpg
+<br/>
+<br/>
+<br/>
+<hr/>
+<hr/>
+
+<br/>
+<a name="Encoding_MJPEG_in_Highest_Quality"></a><h3>MJPEG in Highest Quality</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -vcodec mjpeg -qscale 1 -an output.avi
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Muxing_and_Wrapping_D10_into_QuickTime"></a><h3>D10 into QuickTime Wrapping</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -vcodec copy -acodec pcm_s16le -vtag mx5p -vbsf imxdump output.mov
+<br/>
+<br/>
+<b>Notes :</b>
+<br/>
+- This feature needs a patched version of FFmpeg not available in the current SVN, please contact <a href="mailto:baptiste.coudurier@free.fr?subject=FFmpeg patch for D10 wrapping into Quicktime">Baptiste Coudurier</a> for more information.
+<br/>
+- Set <i>-vtag</i> to <i>mx3p / mx4p / mx5p</i> for D10 30/40/50 PAL or <i>mx3n / mx4n / mx5n</i> for D10 30/40/50 NTSC.
+<br/>
+- Input D10 image size must be 720x608 ( use <i>-padtop 32</i> option during D10 encoding if the original image size is 720x576 ).
+<br/>
+- Final Cut Pro compliant.
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Muxing_and_Wrapping_MPEG-2_Program_Stream"></a><h3>MPEG-2 Program Stream Muxing</h3>
+<br/>
+ffmpeg -genpts 1 -i ES_Video.m2v -i ES_Audio.mp2 -vcodec copy -acodec copy -f vob output.mpg
+<br/>
+<br/>
+<b>Note :</b> In order to mux multiple audio tracks into the same file :
+<br/>
+ffmpeg -genpts 1 -i ES_Video.m2v -i ES_Audio1.mp2 -i ES_Audio2.mp2 -vcodec copy -acodec copy -f vob output.mpg -newaudio
+<br/>
+<br/>
+<b>Note :</b> In order to remux a PS file with multiple audio tracks :
+<br/>
+ffmpeg -i input.mpg -vcodec copy -acodec copy -f vob output.mpg -acodec copy -newaudio
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Demuxing_and_Unwrapping_MPEG-2_Program_Stream"></a><h3>MPEG-2 Program Stream Demuxing</h3>
+<br/>
+ffmpeg -i input.mpg -vcodec copy -f mpeg2video ES_Video.m2v -acodec copy -f mp2 ES_Audio.mp2
+<br/>
+<br/>
+<b>Note :</b> This also works for files containing multiple audio tracks :
+<br/>
+ffmpeg -i input.mpg -vcodec copy -f mpeg2video ES_Video.m2v -acodec copy -f mp2 ES_Audio1.mp2 -acodec copy -f mp2 ES_Audio2.mp2
+<br/>
+<br/>
+<br/>
+<hr/>
+<hr/>
+
+<br/>
+<a name="Timecode_Management_MPEG-2_Start_Timecode"></a><h3>MPEG-2 Start Timecode</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -timecode_frame_start &lt;start_timecode&gt; -vcodec mpeg2video -an output.m2v
+<br/>
+<br/>
+<b>Note :</b> Start timecode is set as number of frames. For instance, if you want to start at 18:12:36:15, you will have to set <i>-timecode_frame_start</i> to 1638915 ( for 25 fps content ).
+<br/>
+<br/>
+<br/>
+<hr/>
+<hr/>
+
+<br/>
+<a name="Misc_Audio_Volume_Modification"></a><h3>Audio Volume Modification</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -vol &lt;audio_volume&gt; -acodec &lt;audio_codec&gt; &lt;output_file&gt;
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Misc_Input_Stream_Selection"></a><h3>Input Stream Selection</h3>
+<br/>
+ffmpeg -i input.vob -map 0:2 -acodec aac -ab &lt;audio_bitrate&gt; -vn output.mp4 
+<br/>
+<br/>
+<i>Transcode audio stream #0:2.</i>
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Misc_Sub-clip_Creation"></a><h3>Sub-clip Creation</h3>
+<br/>
+ffmpeg -i &lt;input_file&gt; -ss &lt;timecode&gt; -t &lt;timecode&gt; -vcodec copy -acodec copy &lt;output_file&gt;
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<br/>
+<a name="Misc_Make_a_Video_File_from_a_Single_Frame"></a><h3>Make a Video File from a Single Frame</h3>
+<br/>
+ffmpeg -loop_input -vframes &lt;number_of_frames&gt; -i &lt;input_file&gt; &lt;output_file&gt;
+<br/>
+<br/>
+<br/>
+<hr/>
+<hr/>
+
+<br/>
+Sponsor: <a href="http://www.smartjog.com" target="_blank">SmartJog</a>
+<br/>
+<br/>
+<small>Please submit new command lines to </small><a href="mailto:olivier.amato@itbroadcastanddigitalcinema.com?subject=FFmpeg Howto"><small>Olivier Amato</small></a>
+</body>
+</html>
