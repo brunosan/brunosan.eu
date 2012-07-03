@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Brunosan</title>
 	<link type="application/atom+xml" href="/brunosan.eu/feed/" rel="self"/>
  	<link type="text" href="/brunosan.eu" rel="alternate"/>
-	<updated>2012-07-03T19:38:27-04:00</updated>
+	<updated>2012-07-03T19:39:49-04:00</updated>
 	<id>/brunosan.eu</id>
 	<author>
 		<name>Jason Heppler</name>
@@ -17,7 +17,7 @@
 		<link href="/brunosan.eu/2012/07/01/Enabling-pull-requests/"/>
 		<updated>2012-07-01T00:00:00-04:00</updated>
 		<id>/brunosan.eu/2012/07/01/Enabling-pull-requests</id>
-		<content type="html">&lt;p&gt;Drafted!&lt;/p&gt;
+		<content type="html">&lt;p&gt;Drafted, I need to write this!&lt;/p&gt;
 
 &lt;p&gt;I use a little .js to create a button to the edit link of the _post file on my github Jekyll repo. This allows anyone with an accont to send comments, fix typos, complement posts and any other edit.&lt;/p&gt;
 
