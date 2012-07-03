@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title type="text" xml:lang="en">Brunosan</title>
-	<link type="application/atom+xml" href="//feed/" rel="self"/>
- 	<link type="text" href="/" rel="alternate"/>
-	<updated>2012-07-03T13:32:18-04:00</updated>
-	<id>/</id>
+	<link type="application/atom+xml" href="/brunosan.eu//feed/" rel="self"/>
+ 	<link type="text" href="/brunosan.eu/" rel="alternate"/>
+	<updated>2012-07-03T13:59:10-04:00</updated>
+	<id>/brunosan.eu/</id>
 	<author>
 		<name>Jason Heppler</name>
 	</author>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Enabling Pull Requests</title>
-		<link href="//Enabling-pull-requests"/>
+		<link href="/brunosan.eu//Enabling-pull-requests"/>
 		<updated>2012-07-01T00:00:00-04:00</updated>
-		<id>//Enabling-pull-requests</id>
+		<id>/brunosan.eu//Enabling-pull-requests</id>
 		<content type="html">&lt;p&gt;Drafted only!&lt;/p&gt;
 
 &lt;p&gt;I use a little .js to create a button to the edit link of the _post file on my github Jekyll repo. This allows anyone with an accont to send comments, fix typos, complement posts and any other edit.&lt;/p&gt;
@@ -31,18 +31,18 @@ bla
 	
 	<entry>
 		<title>Dotfiles on Github</title>
-		<link href="//dotfiles-on-github"/>
+		<link href="/brunosan.eu//dotfiles-on-github"/>
 		<updated>2012-06-16T00:21:35-04:00</updated>
-		<id>//dotfiles-on-github</id>
+		<id>/brunosan.eu//dotfiles-on-github</id>
 		<content type="html">&lt;p&gt;Github has a great set of bootstraps and frameworks for getting started with your dotfiles. Their guide has some great information. Storing your dotfiles on Github (&lt;a href=&quot;https://github.com/hepplerj/dotfiles&quot;&gt;as I do&lt;/a&gt;) is an excellent way to backup dotfiles and sync them between machines.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Space X, Instagram and Angry Brids</title>
-		<link href="//space-x-and-instagram"/>
+		<link href="/brunosan.eu//space-x-and-instagram"/>
 		<updated>2012-05-18T00:00:00-04:00</updated>
-		<id>//space-x-and-instagram</id>
+		<id>/brunosan.eu//space-x-and-instagram</id>
 		<content type="html">&lt;p&gt;Just as Space X probes wildly successful, and publishes &lt;a href=&quot;http://www.spacex.com/usa.php&quot;&gt;this text&lt;/a&gt;, with blows like this one:&lt;/p&gt;
 
 &lt;blockquote&gt;&lt;p&gt;&amp;hellip;
@@ -73,9 +73,9 @@ Zuckerberg spent on Instagram.&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
 	
 	<entry>
 		<title>Scientific value ≠ Perception of the scientific value</title>
-		<link href="//scientific-value-%25e2%2589%25a0-perception-of-the-scientific-value"/>
+		<link href="/brunosan.eu//scientific-value-%25e2%2589%25a0-perception-of-the-scientific-value"/>
 		<updated>2012-05-18T00:00:00-04:00</updated>
-		<id>//scientific-value-%e2%89%a0-perception-of-the-scientific-value</id>
+		<id>/brunosan.eu//scientific-value-%e2%89%a0-perception-of-the-scientific-value</id>
 		<content type="html">&lt;p&gt;A russian satellite makes a time lapse of the Earth from space. A truly beautiful video.
 [youtube http://www.youtube.com/watch?v=6twFHqJ03_k]&lt;/p&gt;
 
@@ -106,9 +106,9 @@ Zuckerberg spent on Instagram.&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
 	
 	<entry>
 		<title>Case Study for an Invitation System using Google Apps Script.</title>
-		<link href="//case-study-for-an-invitation-system-using-google-apps-script"/>
+		<link href="/brunosan.eu//case-study-for-an-invitation-system-using-google-apps-script"/>
 		<updated>2012-05-18T00:00:00-04:00</updated>
-		<id>//case-study-for-an-invitation-system-using-google-apps-script</id>
+		<id>/brunosan.eu//case-study-for-an-invitation-system-using-google-apps-script</id>
 		<content type="html">&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2417&quot; title=&quot;Screen Shot 2012-05-18 at 5.38.35 PM&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;402&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
@@ -358,9 +358,9 @@ Count the total number of Replies:
 	
 	<entry>
 		<title>Bertrand Russell’s 10 Commandments</title>
-		<link href="//bertrand-russells-10-commandments"/>
+		<link href="/brunosan.eu//bertrand-russells-10-commandments"/>
 		<updated>2012-05-06T00:00:00-04:00</updated>
-		<id>//bertrand-russells-10-commandments</id>
+		<id>/brunosan.eu//bertrand-russells-10-commandments</id>
 		<content type="html">&lt;div&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;span style=&quot;line-height:24px;&quot;&gt;&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/05/mysteries-2108100_1700570c.jpeg&quot;&gt;&lt;img class=&quot;size-full wp-image-2391 aligncenter&quot; title=&quot;mysteries-2108100_1700570c&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/05/mysteries-2108100_1700570c.jpeg&quot; alt=&quot;&quot; width=&quot;460&quot; height=&quot;288&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
 
@@ -390,9 +390,9 @@ Count the total number of Replies:
 	
 	<entry>
 		<title>[Idea] Synthetic Multi-beam Microphone</title>
-		<link href="//idea-synthetic-multi-beam-microphone"/>
+		<link href="/brunosan.eu//idea-synthetic-multi-beam-microphone"/>
 		<updated>2012-05-03T00:00:00-04:00</updated>
-		<id>//idea-synthetic-multi-beam-microphone</id>
+		<id>/brunosan.eu//idea-synthetic-multi-beam-microphone</id>
 		<content type="html">&lt;p style=&quot;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/dominicspics/4626277810/sizes/l/in/photostream/&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-2383&quot; title=&quot;Screen Shot 2012-05-02 at 21.54.28&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-02-at-21-54-28.png&quot; alt=&quot;&quot; width=&quot;75%&quot; /&gt;&lt;/a&gt;&lt;a title=&quot;Speaker Lattice Array - Brian Eno Speaker Flowers Sound Installation at Marlborough House by Dominic's pics, on Flickr&quot; href=&quot;http://www.flickr.com/photos/dominicspics/4626277810/&quot;&gt;
 &lt;/a&gt; This idea is for a synthetic multi-beam microphone, basically allowing to select and amplify sound coming from any, and all, selectable angles and distances, at once, live or replaying the sound, and to detect their LOS velocity. Combined with a speaker, it can be a multi-beam sonar.Physically it would be an array of microphones, at the size of the lattice would define part of the resolution. The rest would come from the software. I thought of this merging concepts of sounds, nets, radioastronomy and optical interferometry.&lt;/p&gt;
 
@@ -454,9 +454,9 @@ The &lt;em&gt;angular&lt;/em&gt; resolution of the ear would depend on the dista
 	
 	<entry>
 		<title>Discovery's final flight.</title>
-		<link href="//discoverys-final-flight-3"/>
+		<link href="/brunosan.eu//discoverys-final-flight-3"/>
 		<updated>2012-04-17T00:00:00-04:00</updated>
-		<id>//discoverys-final-flight-3</id>
+		<id>/brunosan.eu//discoverys-final-flight-3</id>
 		<content type="html">&lt;div class=&quot;sfy-html&quot;&gt;
 &lt;div id=&quot;discovery-s-final-flight&quot; class=&quot;s-story noborder&quot; style=&quot;margin:0 auto;padding:0;background:#fff;color:#333;font-size:15px;line-height:18px;font-family:Arial;border:none;min-width:280px;&quot;&gt;
 &lt;ol class=&quot;s-elements&quot; style=&quot;position:relative;min-height:200px;font-size:12px;line-height:18px;font-family:'Open Sans', Arial;color:#333;list-style:none;padding:0;margin:0 0 10px;&quot;&gt;
@@ -800,9 +800,9 @@ Thanks #Discovery #NASA for the fly by!! http://pic.twitter.com/JVUkoUcP&lt;/div
 	
 	<entry>
 		<title>NASA Chief Scientist responds to ex-employees climate change deniers</title>
-		<link href="//nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers"/>
+		<link href="/brunosan.eu//nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers"/>
 		<updated>2012-04-15T00:00:00-04:00</updated>
-		<id>//nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers</id>
+		<id>/brunosan.eu//nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers</id>
 		<content type="html">&lt;p&gt;&lt;em&gt;Reblogged from &lt;a href=&quot;http://slashdot.org/submission/2022621/nasa-chief-scientist-responds-to-ex-employees?utm_source=rss1.0&amp;amp;utm_medium=feed&quot;&gt;Slashdot&lt;/a&gt;. Emphasis added:&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Last week a fellow at the Heartland Institute, a group &lt;a href=&quot;http://news.slashdot.org/story/12/02/15/1515208/leaked-heartland-institute-documents-reveal-opposition-to-science&quot; rel=&quot;nofollow&quot;&gt;now notorious for their plan to subvert public science education&lt;/a&gt;, gathered a coalition of 49 ex-NASA employees to &lt;a href=&quot;http://science.slashdot.org/story/12/04/12/176200/ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change&quot; rel=&quot;nofollow&quot;&gt;sign a petition&lt;/a&gt; urging NASA to reconsider its position on climate change. For perspective, &lt;a href=&quot;http://www.huffingtonpost.com/2012/04/13/nasa-climate-change-denier-stunts_n_1424492.html?ref=mostpopular&quot; rel=&quot;nofollow&quot;&gt;NASA currently employes over 18,000 people&lt;/a&gt;, and there are likely tens of thousands of ex-employees. In their letter the group requested that NASA refrain from publishing unproven remarks. Since no theory can ever be considered proven, this appears to be an attempt to silence discussion. NASA Chief Scientist Waleed Abdalati &lt;a href=&quot;http://www.spaceref.com/news/viewpr.html?pid=36679&quot; rel=&quot;nofollow&quot;&gt;has since responded&lt;/a&gt;:&lt;/p&gt;
@@ -814,9 +814,9 @@ Thanks #Discovery #NASA for the fly by!! http://pic.twitter.com/JVUkoUcP&lt;/div
 	
 	<entry>
 		<title>El feudo Cubano, 2012</title>
-		<link href="//el-feudo-cubano-2012"/>
+		<link href="/brunosan.eu//el-feudo-cubano-2012"/>
 		<updated>2012-04-14T00:00:00-04:00</updated>
-		<id>//el-feudo-cubano-2012</id>
+		<id>/brunosan.eu//el-feudo-cubano-2012</id>
 		<content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;a title=&quot;IMG_6309 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/6914300048/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm8.staticflickr.com/7247/6914300048_58829fd568.jpg&quot; alt=&quot;IMG_6309&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
