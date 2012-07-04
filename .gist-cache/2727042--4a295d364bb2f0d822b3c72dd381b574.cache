@@ -1,0 +1,11 @@
+=Join("",CHAR(C2),A2,Char(B2),dec2oct(B2))
+A2 is a cell with the ID of the person
+B2 and C2 are Random (but static) numbers.
+
+Examples:
+ids	random	random	token
+2	109	117	u2m155
+3	121	115	s3y171
+4	102	108	l4f146
+5	111	118	v5o157
+6	115	100	d6s163
