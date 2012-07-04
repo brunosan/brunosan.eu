@@ -11,4 +11,5 @@ tags:
 - Science
 title: "y este se\xC3\xB1or fue presidente del gobierno"
 ---
-No quiero hacer un post contra Aznar (no porque me falte material), pero me acabo de encontrar este video que no puede caer en el olvido.<br /><br />[youtube=http://www.youtube.com/watch?v=bF3LWZHyLFY&amp;hl=de&amp;fs=1&amp;]
+
+{% youtube bF3LWZHyLFY %}

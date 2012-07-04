@@ -1,7 +1,7 @@
 module Jekyll
   class Youtube < Liquid::Tag
-    @@width = 640
-    @@height = 510
+    @@width = 420
+    @@height = 315
 
     def initialize(name, id, tokens)
       super

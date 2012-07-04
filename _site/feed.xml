@@ -4,7 +4,7 @@
 	<title type="text" xml:lang="en">Brunosan</title>
 	<link type="application/atom+xml" href="/brunosan.eu/feed/" rel="self"/>
  	<link type="text" href="/brunosan.eu" rel="alternate"/>
-	<updated>2012-07-03T19:39:49-04:00</updated>
+	<updated>2012-07-04T12:10:31-04:00</updated>
 	<id>/brunosan.eu</id>
 	<author>
 		<name>Jason Heppler</name>
@@ -26,10 +26,27 @@
 
 &lt;p&gt;TODO Explain how it works and source the changes.&lt;/p&gt;
 
-&lt;p&gt;% gist 2727042 %}
-bla&lt;/p&gt;
+&lt;div&gt;&lt;script src='https://gist.github.com/2727042.js?file='&gt;&lt;/script&gt;
+&lt;noscript&gt;&lt;pre&gt;&lt;code&gt;=Join(&amp;quot;&amp;quot;,CHAR(C2),A2,Char(B2),dec2oct(B2))
+A2 is a cell with the ID of the person
+B2 and C2 are Random (but static) numbers.
 
-&lt;p&gt;Liquid error: uninitialized constant Jekyll::TweetTag::Digest&lt;/p&gt;
+Examples:
+ids random  random  token
+2   109 117 u2m155
+3   121 115 s3y171
+4   102 108 l4f146
+5   111 118 v5o157
+6   115 100 d6s163&lt;/code&gt;&lt;/pre&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+
+&lt;p&gt;bla&lt;/p&gt;
+
+&lt;div class='embed tweet'&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Your smartphone has more computing power than all of NASA in 1969. NASA launched a man to the moon. We launch birds into pigs &lt;a href=&quot;https://twitter.com/search/%2523fail&quot;&gt;#fail&lt;/a&gt;&lt;/p&gt;&amp;mdash; Kenneth Svenningsen (@svenningsen) &lt;a href=&quot;https://twitter.com/svenningsen/status/144111724923076608&quot; data-datetime=&quot;2011-12-06T17:51:27+00:00&quot;&gt;December 6, 2011&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+
+
 
 &lt;iframe width=&quot;640&quot; height=&quot;510&quot; src=&quot;http://www.youtube.com/embed/Hj33WNhLqOU &quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 

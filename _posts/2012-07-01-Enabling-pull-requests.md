@@ -9,7 +9,7 @@ I use a little .js to create a button to the edit link of the _post file on my g
 <!--more-->
 TODO Explain how it works and source the changes.
 
-% gist 2727042 %}
+{% gist 2727042 %}
 bla
 
 
