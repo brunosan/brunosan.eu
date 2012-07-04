@@ -1,4 +1,4 @@
-lsi: false
+lsi: true
 safe: false
 auto: true
 markdown: rdiscount
