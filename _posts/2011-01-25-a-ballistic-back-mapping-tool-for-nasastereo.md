@@ -1,17 +1,6 @@
 --- 
 layout: post
 status: publish
-meta: 
-  geo_accuracy: "0"
-  _wpas_done_fb: "1"
-  tagazine-media: a:7:{s:7:"primary";s:57:"http://nasonurb.files.wordpress.com/2011/01/a14428833.png";s:6:"images";a:8:{s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-11-at-21-42-25.png";a:6:{s:8:"file_url";s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-11-at-21-42-25.png";s:5:"width";s:3:"587";s:6:"height";s:3:"117";s:4:"type";s:5:"image";s:4:"area";s:5:"68679";s:9:"file_path";s:0:"";}s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-13-at-22-17-16.png";a:6:{s:8:"file_url";s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-13-at-22-17-16.png";s:5:"width";s:3:"777";s:6:"height";s:2:"63";s:4:"type";s:5:"image";s:4:"area";s:5:"48951";s:9:"file_path";s:0:"";}s:56:"http://nasonurb.files.wordpress.com/2011/01/talk-008.jpg";a:6:{s:8:"file_url";s:56:"http://nasonurb.files.wordpress.com/2011/01/talk-008.jpg";s:5:"width";s:3:"800";s:6:"height";s:3:"600";s:4:"type";s:5:"image";s:4:"area";s:6:"480000";s:9:"file_path";s:0:"";}s:54:"http://nasonurb.files.wordpress.com/2011/01/orbits.png";a:6:{s:8:"file_url";s:54:"http://nasonurb.files.wordpress.com/2011/01/orbits.png";s:5:"width";s:3:"375";s:6:"height";s:3:"187";s:4:"type";s:5:"image";s:4:"area";s:5:"70125";s:9:"file_path";s:0:"";}s:54:"http://nasonurb.files.wordpress.com/2011/01/frame1.png";a:6:{s:8:"file_url";s:54:"http://nasonurb.files.wordpress.com/2011/01/frame1.png";s:5:"width";s:3:"922";s:6:"height";s:3:"194";s:4:"type";s:5:"image";s:4:"area";s:6:"178868";s:9:"file_path";s:0:"";}s:53:"http://nasonurb.files.wordpress.com/2011/01/frame.png";a:6:{s:8:"file_url";s:53:"http://nasonurb.files.wordpress.com/2011/01/frame.png";s:5:"width";s:4:"1060";s:6:"height";s:3:"720";s:4:"type";s:5:"image";s:4:"area";s:6:"763200";s:9:"file_path";s:0:"";}s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-13-at-23-10-36.png";a:6:{s:8:"file_url";s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-13-at-23-10-36.png";s:5:"width";s:3:"734";s:6:"height";s:3:"526";s:4:"type";s:5:"image";s:4:"area";s:6:"386084";s:9:"file_path";s:0:"";}s:57:"http://nasonurb.files.wordpress.com/2011/01/a14428833.png";a:6:{s:8:"file_url";s:57:"http://nasonurb.files.wordpress.com/2011/01/a14428833.png";s:5:"width";s:4:"1200";s:6:"height";s:4:"1200";s:4:"type";s:5:"image";s:4:"area";s:7:"1440000";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"8";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2011-01-25 23:30:52";}
-  geo_public: "1"
-  geo_address: 425 P St NW, Washington, DC 20001, USA
-  geo_longitude: "-77.018000"
-  _wpas_done_twitter: "1"
-  geo_latitude: "38.910000"
-  jabber_published: "1295997536"
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
@@ -20,8 +9,10 @@ tags:
 - technology
 title: A [ballistic back-] mapping tool for NASA/STEREO
 ---
-[youtube=http://www.youtube.com/watch?v=Lia9nhdjoRA&amp;hd=1]
-<blockquote>The video above shows the map of the Sun from 2007 to 2010. The map calculates the image <strong>as if</strong> neither the Sun or the Earth rotated, leaving thus a black region that corresponds to the section of the Sun that can´t be seen from Earth. But they do rotate, so the black region shifts in time. The interesting bit is that the solar features remain in place. This allows us to see that certain features survive several months and are indeed recurrent.</blockquote>
+{% youtube Lia9nhdjoRA %}
+
+> The video above shows the map of the Sun from 2007 to 2010. The map calculates the image <strong>as if</strong> neither the Sun or the Earth rotated, leaving thus a black region that corresponds to the section of the Sun that can´t be seen from Earth. But they do rotate, so the black region shifts in time. The interesting bit is that the solar features remain in place. This allows us to see that certain features survive several months and are indeed recurrent.
+
 [Warning, this post is fairly technical, not really outreach. Comments and questions are always welcomed.]
 
 <!--more-->During my last months at the <a href="http://spacescience.nrl.navy.mil/">Space Science Division</a>, before departing to the <a href="http://nas.edu/">National Academies</a>, I invested quite many hours developing <a href="http://bsan.eu/map-euvi">this tool</a>: "A ballistic back-mapping tool using in-situ and remote sensing simultaneously with both STEREO spacecrafts". In essence what it does is to measure the solar wind and calculate the time that wind left the Sun, and then create a projection of the whole solar corona at that time. I also created a trimmed down version that creates the mapping for any given time.
@@ -88,9 +79,9 @@ Note also that, since the corona is optically thin and due to the 3D nature of t
 
 <a href="http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-13-at-23-10-36.png"><img class="aligncenter size-full wp-image-1344" title="Screen shot 2011-01-13 at 23.10.36" src="http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-13-at-23-10-36.png" alt="" width="640" height="458" /></a>
 
-This geometrical distortion is also responsible for the dimming of coronal holes towards the local limb. Coronal Holer appear darker when directly below the s/c and gradually seem to disappear towards the limb. Using the minium value on the overlap region minimizes the problem but, in turn, creates a much more visible geocentric solar meridian. For easier visualization of this effect, we have added the locations of the STEREO s/c and the Earth. We also added a mark, on the individual images, the sub-s/c position of the respective s/c. This marker moves towards the limb in the images as the Sun coverages increases, until the marker disappear beyond the limb. when the s/c reach 90º separation.
+This geometrical distortion is also responsible for the dimming of coronal holes towards the local limb. Coronal Hole appear darker when directly below the s/c and gradually seem to disappear towards the limb. Using the minimum value on the overlap region minimizes the problem but, in turn, creates a much more visible geocentric solar meridian. For easier visualization of this effect, we have added the locations of the STEREO s/c and the Earth. We also added a mark, on the individual images, the sub-s/c position of the respective s/c. This marker moves towards the limb in the images as the Sun coverages increases, until the marker disappear beyond the limb. when the s/c reach 90º separation.
 
-[youtube=http://www.youtube.com/watch?v=EdY7f6Z7sks&amp;hd=1]
+{% youtube EdY7f6Z7sks %}
 <h2><strong>Some Data Interpretation points</strong></h2>
 <ul>
 	<li>Using both dataset we achieve maximum solar coverage, and observation of both polar caps simultaneously.</li>

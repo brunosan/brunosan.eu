@@ -51,7 +51,7 @@ module Jekyll
       if response = cached_response(api_params) || live_response(api_params)
         body = response['html'] || response['error'] || body
       end
-      "<div class='embed tweet'>#{body}</div>"
+      "<div class='embed tweet tw-align-center'>#{body}</div>"
     end
 
     def cache(api_params, data)

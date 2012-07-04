@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 status: publish
 title: Cooked Gazpacho
 tags:
