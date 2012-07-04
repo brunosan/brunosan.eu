@@ -1,18 +1,6 @@
 --- 
 layout: post
 status: publish
-meta: 
-  _wpas_skip_fb: "1"
-  _wpas_skip_twitter: "1"
-  blogger_blog: brunosan.blogspot.com
-  geo_accuracy: "0"
-  geo_public: "1"
-  geo_address: 425 P St NW, Washington, DC 20001, USA
-  geo_longitude: "-77.018000"
-  blogger_author: "Bruno S\xC3\xA1nchez-Andrade Nu\xC3\xB1o"
-  blogger_84811d3284c06b3cad7acdc4a1b30d1c_permalink: "1384217348778099353"
-  geo_latitude: "38.910000"
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
@@ -20,7 +8,7 @@ tags:
 title: Defensa de la Tesis
 ---
 <p style="text-align:center;"><a href="http://lh4.google.com/brunosan/R7lgfYsdlxI/AAAAAAAABJI/fWxB_3GSrXI/IMG_9770.JPG?imgmax=512"><img class="aligncenter" src="http://lh4.google.com/brunosan/R7lgfYsdlxI/AAAAAAAABJI/fWxB_3GSrXI/IMG_9770.JPG?imgmax=512" border="0" alt="" width="384" height="512" /></a></p>
-Pues ya está, ya pasó: el viernes defendí la tesis. Fue muuuy cansado, pero no fue tan dificil.. claro, esto lo dice uno después de haberla defendido, no antes :D
+Pues ya está, ya pasó: el viernes defendí la tesis. Fue muuy cansado, pero no fue tan difícil.. claro, esto lo dice uno después de haberla defendido, no antes :D
 
 Pues como lo prometido es deuda, un post un poco largo contando la experiencia.. en orden cronológico:
 
@@ -31,7 +19,7 @@ T-1 dia. 20:00
 Yo practicando la tesis con un chupito de ron miel con unos amigos en el instituto de astrofísica. Bajo andando a la ciudad para relajar. Hace frío
 
 T-1 dia. 22:00
-Las maletas de mi familia no llegaron (si, Iberia) Reclamaciones y bla bla bla... Todavia les quedan 2 horas en coche. llegarán para la 1 am. Yo tomando una cervecita con un amigo que ha venido sólo a mi defensa y con otros amigos de aquí. Hay que relajar la noche anterior, no?.
+Las maletas de mi familia no llegaron (si, Iberia) Reclamaciones y bla bla bla... Todavía les quedan 2 horas en coche. llegarán para la 1 am. Yo tomando una cervecita con un amigo que ha venido sólo a mi defensa y con otros amigos de aquí. Hay que relajar la noche anterior, no?.
 
 Día D: 00:00
 Me voy para casa hipercansado a dormir. Mi amigos llevarán a mis padres al hotel.
@@ -63,17 +51,17 @@ A un par de preguntas tipo "the extra mile" respondo intentando desviar el tema 
 En general fue muy bien y pude lucir unas cuantas slides más que había preparado al efecto.
 
 Dia D: 10:15:
-La gente se tiene que ir. Dios que de gente hay. Había hasta gente de pie.
-Empiezan los examenes de "Estructura y evolucion estelar" y de "Geofísica".
+La gente se tiene que ir. Dios qué de gente hay. Había hasta gente de pie.
+Empiezan los exámenes de "Estructura y evolución estelar" y de "Geofísica".
 Fueron bien. Pasó rápido. La verdad es que el ambiente es más bien relajado.
 Mi cerebro ya da señales de batería baja.
 
 Día D: 10:45:
-Ya está!. Me invitan a que me vaya mientras ellos deciden. Espero dando minipaseos en la puerta. Alea jacta est.
+Ya está!. Me invitan a que me vaya mientras ellos deciden. Espero dando minipaseos en la puerta. *Alea jacta est*.
 
 Día D: 10:55:
-Les ha gustado el trabajo. Me dan la enhorabuena. "Magna cum laude" en la tesis y la defensa. Bruno es, de facto en ese momento y a falta de papeleo, PhD pa siempre jamás. Olé!
-Me tomo un momento pa guardar el momento en la cabeza y bajo a encontrar a la gente. Abrazos, besos. Rosa incluida (gracias Amaryllis! )
+Salen a buscarme al pasillo donde espero solo. Les ha gustado el trabajo. Me dan la enhorabuena. **Magna cum laude** en la tesis y la defensa. Bruno es, de facto en ese momento y a falta de papeleo, PhD pa siempre jamás. Olé!
+Me dejan solo. Me tomo un momento para guardar el momento en la cabeza y bajo a encontrar a la gente. Abrazos, besos. Rosa incluida (gracias Amaryllis! )
 
 Día D: 11:00
 Primera copa y primer brindis del día. Estoy cansao ya.
@@ -88,10 +76,10 @@ A la salida foto con gonzaga, el amigo que "tenia peligro" que "secuestró" a la
 <a href="http://lh3.google.com/brunosan/R7lgiIsdl1I/AAAAAAAABJs/Lem-4oA08g8/IMG_9776.JPG?imgmax=512"><img src="http://lh3.google.com/brunosan/R7lgiIsdl1I/AAAAAAAABJs/Lem-4oA08g8/IMG_9776.JPG?imgmax=512" border="0" alt="" /></a>
 
 Dia D: 13:15
-Comida con mi feje, mis padres y mi hermana. El hecho de tener que traducir la conversación del Alemán al español acaba por derretir mi cerebro.
+Comida con mi jefe, mis padres y mi hermana. El hecho de tener que traducir la conversación del Alemán al español acaba por derretir mi cerebro.
 
 Dia D: por la tarde
-Café y paseo con la family. Afortunadamente se van a dormir la siesta... Llego a casa y veo que han alquilado peli y la estan viendo en mi habitacion con el proyector... pues nada, a ver jungla de cristal 4. Con cervezas y patatas. Viva Goettingen.
+Café y paseo con la family. Afortunadamente se van a dormir la siesta... Llego a casa y veo que han alquilado peli y la están viendo en mi habitacion con el proyector... pues nada, a ver jungla de cristal 4. Con cervezas y patatas. Viva Goettingen.
 
 Dia D: media tarde
 Todos dormidos.

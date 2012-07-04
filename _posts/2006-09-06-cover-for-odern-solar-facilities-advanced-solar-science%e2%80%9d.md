@@ -1,15 +1,13 @@
 --- 
 layout: post
 status: publish
-meta: 
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
 - media
 - Outreach
 - Science
-title: "Cover for odern solar facilities - advanced solar science\xE2\x80\x9D"
+title: "Cover page for modern solar facilities - advanced solar science\xE2\x80\x9D"
 ---
 The conference “Modern solar facilities - advanced solar science” decided to publish our image for the cover of the proceedings.
 

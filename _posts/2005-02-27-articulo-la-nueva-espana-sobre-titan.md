@@ -1,8 +1,6 @@
 --- 
 layout: post
 status: publish
-meta: 
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
