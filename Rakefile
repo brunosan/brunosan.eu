@@ -22,15 +22,15 @@ desc "give title as argument for draft post"
 # usage rake draft["Post Title Goes Here"]
 # category is optional
 task :draft, [:title, :category] do |t, args|
-  filename = "#{Time.now.strftime('%Y-%m-d')}-#{args.title.gsub(/\s/, '-').downcase}.md"
-  path = File.join("_drafts", filename)
+  filename = "#{Time.now.strftime('%Y-%m-%d')}-#{args.title.gsub(/\s/, '-').downcase}.md"
+  path = File.join("_posts", filename)
   if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
   File.open(path, 'w') do |file|
     file.write <<-EOS
 ---
 layout: post
 title: #{args.title}
-date: #{Time.now.strftime('%Y-%m-d %k:%M:%S')}
+status: draft
 tags:
 - 
 ---
