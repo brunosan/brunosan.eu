@@ -1,37 +1,25 @@
 --- 
 layout: post
 status: publish
-meta: 
-  _wpas_skip_fb: "1"
-  _wpas_skip_twitter: "1"
-  geo_accuracy: "0"
-  tagazine-media: a:7:{s:7:"primary";s:84:"http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png";s:6:"images";a:3:{s:84:"http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png";a:6:{s:8:"file_url";s:84:"http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png";s:5:"width";s:4:"1096";s:6:"height";s:3:"690";s:4:"type";s:5:"image";s:4:"area";s:6:"756240";s:9:"file_path";s:0:"";}s:84:"http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-2-50-43-pm.png";a:6:{s:8:"file_url";s:84:"http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-2-50-43-pm.png";s:5:"width";s:4:"1606";s:6:"height";s:3:"157";s:4:"type";s:5:"image";s:4:"area";s:6:"252142";s:9:"file_path";s:0:"";}s:84:"http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-4-26-46-pm.png";a:6:{s:8:"file_url";s:84:"http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-4-26-46-pm.png";s:5:"width";s:3:"457";s:6:"height";s:3:"427";s:4:"type";s:5:"image";s:4:"area";s:6:"195139";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"3";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2012-05-18 21:44:36";}
-  geo_public: "1"
-  geo_address: 425 P St NW, Washington, DC 20001, USA
-  geo_longitude: "-77.018000"
-  reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1339080586";}
-  _wpas_mess: Case Study for an Invitation System using Google Apps Script. http://wp.me/pzp88-CM
-  geo_latitude: "38.910000"
-  jabber_published: "1337377411"
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
 - Science
 title: Case Study for an Invitation System using Google Apps Script.
 ---
-<p style="text-align:justify;"><a href="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png"><img class="aligncenter size-full wp-image-2417" title="Screen Shot 2012-05-18 at 5.38.35 PM" src="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png" alt="" width="640" height="402" /></a></p>
-<p style="text-align:justify;">Earlier this month my NGO (<a href="http://gain.org">GAIN</a>) had its <a href="http://gain.org/annual-meeting-2012">annual meeting</a>. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.</p>
-<p style="text-align:justify;">I built the Invitation system almost from scratch using <a href="https://developers.google.com/apps-script/">Google Apps Script</a> (GAS), and I want to share the experience. The decision to engage on this was partly becasue I had the chance to participate on a free and open event about GAS for developers at the Google Washington DC offices (<a href="https://plus.google.com/111752662319997528493/posts/bq7NrttcWAb">thank you</a>!).</p>
-<p style="text-align:justify;">My goal was to follow these premises:</p>
+<a href="{{site.baseurl}}/media/screen-shot-2012-05-18-at-5-38-35-pm.png"><img class="aligncenter size-full wp-image-2417" title="Screen Shot 2012-05-18 at 5.38.35 PM" src="{{site.baseurl}}/media/screen-shot-2012-05-18-at-5-38-35-pm.png" width="100%"/></a></p>
 
-<ol style="text-align:justify;">
-	<li>Make it as simple as possible, <strong>for both sides</strong>.</li>
-	<li><strong>Do not ask any information you know</strong>. I hate filling up my name, over and over again, when they should already know it! And learn from the corrections people do on their info.</li>
-	<li>Send short, simple and <strong>personalized</strong>, messages.</li>
-	<li><strong>Automate</strong>, as much as possible.</li>
-</ol>
-<p style="text-align:justify;"><!--more-->I do have coding experience, but not in GAS or javascript. I estimate it was, overall, around 3 full days of coding. I did not start from a blank sheet, I used <a href="https://developers.google.com/apps-script/articles/expense_report_approval">this script</a> as my starting point. This is hardly a re-usable script as-is, but I hope it can help others build upon it. The whole GAS code is <a href="https://github.com/brunosan/Invitation-System">here</a>, and a template of the Spreadsheet is <a href="https://docs.google.com/spreadsheet/ccc?key=0AtlF0LGs5PVVdFJ3Y19wNnIydnNtb05HSkgzUEFYbGc">here</a>.</p>
+Earlier this month my NGO (<a href="http://gain.org">GAIN</a>) had its <a href="http://gain.org/annual-meeting-2012">annual meeting</a>. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.</p>
+<p style="text-align:justify;">I built the Invitation system almost from scratch using <a href="https://developers.google.com/apps-script/">Google Apps Script</a> (GAS), and I want to share the experience. The decision to engage on this was partly becasue I had the chance to participate on a free and open event about GAS for developers at the Google Washington DC offices (<a href="https://plus.google.com/111752662319997528493/posts/bq7NrttcWAb">thank you</a>!).</p>
+My goal was to follow these premises:
+
+* Make it as simple as possible, <strong>for both sides</strong>.
+* <strong>Do not ask any information you know</strong>. I hate filling up my name, over and over again, when they should already know it! And learn from the corrections people do on their info.
+* Send short, simple and <strong>personalized</strong>, messages.
+* <strong>Automate</strong>, as much as possible.
+
+
+<!--more-->I do have coding experience, but not in GAS or javascript. I estimate it was, overall, around 3 full days of coding. I did not start from a blank sheet, I used <a href="https://developers.google.com/apps-script/articles/expense_report_approval">this script</a> as my starting point. This is hardly a re-usable script as-is, but I hope it can help others build upon it. The whole GAS code is <a href="https://github.com/brunosan/Invitation-System">here</a>, and a template of the Spreadsheet is <a href="https://docs.google.com/spreadsheet/ccc?key=0AtlF0LGs5PVVdFJ3Y19wNnIydnNtb05HSkgzUEFYbGc">here</a>.
 
 <h2 style="text-align:justify;">The Master List</h2>
 <p style="text-align:justify;">A Google Docs Spreadsheet with the list of people:</p>
@@ -42,12 +30,12 @@ title: Case Study for an Invitation System using Google Apps Script.
 	<li><strong>Token</strong>: This is an identification number used to match each person with their reply. I used this Spreadsheet formula to generate it:</li>
 </ul>
 </ul>
-https://gist.github.com/2727042
+{% gist https://gist.github.com/2727042 %}
 <ul style="text-align:justify;">
 	<li>A List of the Sessions to place the <em>Confirmed</em>/<em>Declined</em>, and their comments (e.g. vegetarian)</li>
 	<li>I had to add later on few other columns to put things like Badge Name (via a formula), Comments...</li>
 </ul>
-<p style="text-align:justify;"><a href="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-2-50-43-pm.png"><img class="aligncenter size-full wp-image-2406" title="Screen Shot 2012-05-18 at 2.50.43 PM" src="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-2-50-43-pm.png" alt="" width="640" height="62" /></a></p>
+<p style="text-align:justify;"><a href="{{site.baseurl}}/media/screen-shot-2012-05-18-at-2-50-43-pm.png"><img class="aligncenter size-full wp-image-2406" title="Screen Shot 2012-05-18 at 2.50.43 PM" src="{{site.baseurl}}/media/screen-shot-2012-05-18-at-2-50-43-pm.png" alt=""  width="100%" /></a></p>
 
 <h2 style="text-align:justify;"></h2>
 <h2 style="text-align:justify;">Managing the invitations</h2>
@@ -58,44 +46,46 @@ https://gist.github.com/2727042
 	<li>If "Emailed", check for replies and set to "Received".</li>
 	<li>If "Received" check for new replies. (I ended up removing this to a separate function)</li>
 </ol>
-https://gist.github.com/2727107
+{% gist https://gist.github.com/2727107 %}
 <p style="text-align:justify;">To send the invitations, I chose the template depending on the Group, which is then basically a call to <em>MailApp </em>with a HTML email body hard-coded<em>.</em></p>
-https://gist.github.com/2727146
+{% gist https://gist.github.com/2727146 %}
 <p style="text-align:justify;">The interesting bit is the <em>construct_URL </em>function. We made a reply questionnaire using Google Forms, where we write the rough agenda and we ask if you can join us.</p>
 <p style="text-align:justify;">We actually made two Google Forms, one for each group with its questions to the appropriate sessions. Instead of just adding the link to the email, <strong>I used the URL to pass along personalized pre-populated information</strong> to the form. That saves time to the person (we already know his name, and also allows us to place the Token on the last field to identify the answer). [btw Non ASCII characters like accents, can break on IE]</p>
-<p style="text-align:justify;"><a href="http://nasonurb.files.wordpress.com/2012/05/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg"><img class="aligncenter size-full wp-image-2424" title="20120518-tuene3ea161sej1p3cbe8i1is3" src="http://nasonurb.files.wordpress.com/2012/05/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg" alt="" width="640" height="710" /></a></p>
+<p style="text-align:justify;"><a href="{{site.baseurl}}/media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg"><img class="aligncenter size-full wp-image-2424" title="20120518-tuene3ea161sej1p3cbe8i1is3" src="{{site.baseurl}}/media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg" alt="" width="100%" /></a></p>
 <p style="text-align:justify;">This is the simple code to make a personalized URL like <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHFWZllkZWluU2ZEbFU0X0FZaFZJZHc6MQ&amp;entry_6=Dr.&amp;entry_0=Bruno&amp;entry_7=S%C3%A1nchez-Andrade%20Nu%C3%B1o&amp;entry_8=Global%20Adaptation%20Institute&amp;entry_9=Director%20for%20Science%20and%20Technology&amp;entry_5=t200w167">this one</a>.</p>
-https://gist.github.com/2727214
+{% gist https://gist.github.com/2727214 %}
 <p style="text-align:justify;">Now the answers are registered in another Google Spreadsheet. To check for those answers, you just need to process that Sheet looking for Tokens to match the reply with the person (they might have changed their name or other info):</p>
-https://gist.github.com/2727230
+{% gist https://gist.github.com/2727230 %}
 <p style="text-align:justify;">The actual Processing of the information is then just placing the answers from the response form into the appropriate row in the Master List. You just need to code a single reply and iterate to each. Also the special cases Yes/No to all. Making the loop for all matching Token makes sure that the last Reply is the one remaining, in case they submitted more than once.</p>
 <p style="text-align:justify;">The nice thing is that now we can carry back all modifications to their info back to the Master List. If we misspelled their name, or they changed Position, they will likely correct that in the form, and this little code will flag that in green for you. So next time the code uses that information for other emails, badges, or other events, <strong>their information will be updated, by them</strong> (I found this to be the case in 5% of the cells).</p>
-https://gist.github.com/2727260
+{% gist https://gist.github.com/2727260 %}
 <p style="text-align:justify;">A few days before the event you can send a reminder to those attending to at least one session, with a confirmation of their reply, so they can update it if there has been changes. You can also add some attachments with more info:</p>
-https://gist.github.com/2727288
+{% gist https://gist.github.com/2727288 %}
 <p style="text-align:justify;">[We used a very similar IF condition to print the badges for everyone coming to at least one session]</p>
 
 <h2 style="text-align:justify;">Media Consent Forms</h2>
 <p style="text-align:justify;">We also prepared a document to allow us to take pictures of the participants during the event. Again, I would hate to make them write their name, If I already know it. All we did was upload to Consent document to a Google Docs, and personalize it:</p>
-https://gist.github.com/2727302
+{% gist https://gist.github.com/2727302 %}
 <p style="text-align:justify;">Unfortunately, there is not Print option inside GAS, so you need to search on your Google Docs for the common part of the Title of all those consent forms. Then batch download them as a zip file ("Select all" then "Download"). Once in your computer, just drop them to the printer icon.</p>
 
 <h2 style="text-align:justify;">Managing the Information</h2>
 <p style="text-align:justify;">Once you have all the Information in the Master List, is quite easy to manage many parts of the event</p>
 <p style="text-align:justify;"><strong>Badges</strong>: Very similar code to the Consent Forms to print the Names and Companies.</p>
-<p style="text-align:justify;"><strong>Securing the Info</strong>: The Google Docs should not be shared with anyone, only the people inside your team, and only editable to a few. I was really afraid of changes in the Master List, so used to option to set different access right to individual sheets. You can also use the GAS <em>onOpen </em>function and <em>SpreadsheetApp.getActiveSpreadsheet().addMenu("Annual Meeting", menuEntries)</em> to add an extra menu, only to particular users.</p>
-<p style="text-align:justify;"><img class="alignnone" title="security" src="https://img.skitch.com/20120518-ejxaiyufmy1gy9yu71mfat1t9t.jpg" alt="" width="805" height="232" /></p>
+<p style="text-align:justify;"><strong>Securing the Info</strong>: The Google Docs should not be shared with anyone, only the people inside your team, and only editable to a few. I was really afraid of changes in the Master List, so used to option to set different access right to individual sheets. You can also use the GAS <em>onOpen </em>function and     
+	    SpreadsheetApp.getActiveSpreadsheet().addMenu("Annual Meeting", menuEntries) 
+to add an extra menu, only to particular users.</p>
+<p style="text-align:justify;"><img class="alignnone" title="security" src="https://img.skitch.com/20120518-ejxaiyufmy1gy9yu71mfat1t9t.jpg" alt=""  width="100%" /></p>
 <p style="text-align:justify;"><strong>Dealing with "Manuals"</strong>: There will always be cases when they reply via a phone, or you need to update the reply. Since this system relies upon keywords in the "Status" column you only need to set it to something else than the chosen ones to track manual instances. For example set it to "Manual" and add the "Confirmed" replies on the appropriate Field. You can also put any other Status, and you will be able to track it on the Status Sheet ( i.e. How many "Missing Email" we have?)</p>
 
 <h2 style="text-align:justify;">Tracking Participation</h2>
 <p style="text-align:justify;">Having all the information in one placed and updated in almost real time, allows to easily track the progress, with only a few Google Spreadsheet Formulas:</p>
-<p style="text-align:justify;"><a href="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-4-26-46-pm.png"><img class="aligncenter size-full wp-image-2410" title="Screen Shot 2012-05-18 at 4.26.46 PM" src="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-4-26-46-pm.png" alt="" width="457" height="427" /></a></p>
+<p style="text-align:justify;"><a href="{{site.baseurl}}/media/screen-shot-2012-05-18-at-4-26-46-pm.png"><img class="aligncenter size-full wp-image-2410" title="Screen Shot 2012-05-18 at 4.26.46 PM" src="{{site.baseurl}}/media/screen-shot-2012-05-18-at-4-26-46-pm.png" alt=""  width="100%" /></a></p>
 <p style="text-align:justify;">Count number of Confirmation for a particular Session:
-=COUNTIF('Master list'!K:K,"Confirmed")
+    `=COUNTIF('Master list'!K:K,"Confirmed")`
 Count the total number of Replies:
-=COUNTIF('Master list'!J:J,"Replied")</p>
+    `=COUNTIF('Master list'!J:J,"Replied")`
 <p style="text-align:justify;">You can even prepare a Participation list for each Session, with Names, Titles, ... Very useful for example to order lunch and spot vegetarians. This is the formula to pull out a sorted list:</p>
-https://gist.github.com/2727461
+{% gist https://gist.github.com/2727461 %}
 <h2 style="text-align:justify;">Tracking Feedback</h2>
 <p style="text-align:justify;">After the event, we can update the actual participation, and send a personalized Thank You note, and include a quick Feedback Questionnaire.</p>
 

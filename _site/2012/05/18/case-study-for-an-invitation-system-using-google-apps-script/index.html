@@ -61,32 +61,27 @@
 <div id="post-" class="post">
   <h2>Case Study for an Invitation System using Google Apps Script.</h2>
   <div id="post_content">
-    <p style="text-align:justify;"><a href="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png"><img class="aligncenter size-full wp-image-2417" title="Screen Shot 2012-05-18 at 5.38.35 PM" src="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-5-38-35-pm.png" alt="" width="640" height="402" /></a></p>
+    <p><a href="/brunosan.eu//media/screen-shot-2012-05-18-at-5-38-35-pm.png"><img class="aligncenter size-full wp-image-2417" title="Screen Shot 2012-05-18 at 5.38.35 PM" src="/brunosan.eu//media/screen-shot-2012-05-18-at-5-38-35-pm.png" width="100%"/></a></p></p>
 
-
-<p style="text-align:justify;">Earlier this month my NGO (<a href="http://gain.org">GAIN</a>) had its <a href="http://gain.org/annual-meeting-2012">annual meeting</a>. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.</p>
-
+<p>Earlier this month my NGO (<a href="http://gain.org">GAIN</a>) had its <a href="http://gain.org/annual-meeting-2012">annual meeting</a>. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.</p></p>
 
 <p style="text-align:justify;">I built the Invitation system almost from scratch using <a href="https://developers.google.com/apps-script/">Google Apps Script</a> (GAS), and I want to share the experience. The decision to engage on this was partly becasue I had the chance to participate on a free and open event about GAS for developers at the Google Washington DC offices (<a href="https://plus.google.com/111752662319997528493/posts/bq7NrttcWAb">thank you</a>!).</p>
 
 
-<p style="text-align:justify;">My goal was to follow these premises:</p>
+<p>My goal was to follow these premises:</p>
+
+<ul>
+<li>Make it as simple as possible, <strong>for both sides</strong>.</li>
+<li><strong>Do not ask any information you know</strong>. I hate filling up my name, over and over again, when they should already know it! And learn from the corrections people do on their info.</li>
+<li>Send short, simple and <strong>personalized</strong>, messages.</li>
+<li><strong>Automate</strong>, as much as possible.</li>
+</ul>
 
 
+<!--more-->
 
 
-<ol style="text-align:justify;">
-    <li>Make it as simple as possible, <strong>for both sides</strong>.</li>
-    <li><strong>Do not ask any information you know</strong>. I hate filling up my name, over and over again, when they should already know it! And learn from the corrections people do on their info.</li>
-    <li>Send short, simple and <strong>personalized</strong>, messages.</li>
-    <li><strong>Automate</strong>, as much as possible.</li>
-</ol>
-
-
-<p style="text-align:justify;"><!--more-->I do have coding experience, but not in GAS or javascript. I estimate it was, overall, around 3 full days of coding. I did not start from a blank sheet, I used <a href="https://developers.google.com/apps-script/articles/expense_report_approval">this script</a> as my starting point. This is hardly a re-usable script as-is, but I hope it can help others build upon it. The whole GAS code is <a href="https://github.com/brunosan/Invitation-System">here</a>, and a template of the Spreadsheet is <a href="https://docs.google.com/spreadsheet/ccc?key=0AtlF0LGs5PVVdFJ3Y19wNnIydnNtb05HSkgzUEFYbGc">here</a>.</p>
-
-
-
+<p>I do have coding experience, but not in GAS or javascript. I estimate it was, overall, around 3 full days of coding. I did not start from a blank sheet, I used <a href="https://developers.google.com/apps-script/articles/expense_report_approval">this script</a> as my starting point. This is hardly a re-usable script as-is, but I hope it can help others build upon it. The whole GAS code is <a href="https://github.com/brunosan/Invitation-System">here</a>, and a template of the Spreadsheet is <a href="https://docs.google.com/spreadsheet/ccc?key=0AtlF0LGs5PVVdFJ3Y19wNnIydnNtb05HSkgzUEFYbGc">here</a>.</p>
 
 <h2 style="text-align:justify;">The Master List</h2>
 
@@ -104,7 +99,21 @@
 </ul>
 
 
-<p>https://gist.github.com/2727042</p>
+<div><script src='https://gist.github.com/2727042.js?file='></script>
+<noscript><pre><code>=Join(&quot;&quot;,CHAR(C2),A2,Char(B2),dec2oct(B2))
+A2 is a cell with the ID of the person
+B2 and C2 are Random (but static) numbers.
+
+Examples:
+ids random  random  token
+2   109 117 u2m155
+3   121 115 s3y171
+4   102 108 l4f146
+5   111 118 v5o157
+6   115 100 d6s163</code></pre></noscript></div>
+
+
+
 
 <ul style="text-align:justify;">
     <li>A List of the Sessions to place the <em>Confirmed</em>/<em>Declined</em>, and their comments (e.g. vegetarian)</li>
@@ -112,7 +121,7 @@
 </ul>
 
 
-<p style="text-align:justify;"><a href="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-2-50-43-pm.png"><img class="aligncenter size-full wp-image-2406" title="Screen Shot 2012-05-18 at 2.50.43 PM" src="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-2-50-43-pm.png" alt="" width="640" height="62" /></a></p>
+<p style="text-align:justify;"><a href="/brunosan.eu//media/screen-shot-2012-05-18-at-2-50-43-pm.png"><img class="aligncenter size-full wp-image-2406" title="Screen Shot 2012-05-18 at 2.50.43 PM" src="/brunosan.eu//media/screen-shot-2012-05-18-at-2-50-43-pm.png" alt=""  width="100%" /></a></p>
 
 
 
@@ -135,12 +144,101 @@
 </ol>
 
 
-<p>https://gist.github.com/2727107</p>
+<div><script src='https://gist.github.com/2727107.js?file='></script>
+<noscript><pre><code>function ProcessList() {
+   sendEmail =0 ;
+   // Track remaining email quota.
+   var budget = MailApp.getRemainingDailyQuota();
+
+  // For every person
+  for (var i = 0; i &lt; data.length; ++i) {
+    if (budget &lt; 0){
+      Browser.msgBox(&quot;Sorry, your account has reached your daily quote of emails.&quot;)
+      break;
+    }  
+    var row = data[i]; //row is the info of the person
+    if (row.state == GO ) {
+      // empty means do nothing
+      // &quot;Go&quot; means this is a new invitee AND we want to send him an invite.
+      // Email the person to request his response.
+      switch(row.group)
+            {
+              case 1:
+               send1ToInvitee(row);
+               Log+=&quot;(+&quot;+delay()+&quot; s.) SENDING email to &quot;+row.firstName+&quot; &quot;+row.lastName+&quot;. Group 1&lt;br&gt;&quot;;
+               break; 
+              case 2:
+               send2ToInvitee(row);
+               Log+=&quot;(+&quot;+delay()+&quot; s.) SENDING email to &quot;+row.firstName+&quot; &quot;+row.lastName+&quot;. Group 2&lt;br&gt;&quot;;
+               break; 
+              default:
+               Log+=&quot;(+&quot;+delay()+&quot; s.) No Group set for &quot;+row.firstName+&quot; &quot;+row.lastName+&quot;. ERROR&lt;br&gt;&quot;;
+             }     
+      // Update the state of the report to avoid email sending multiple emails
+      budget=budget-2;
+      sheet.getRange(row.id+2, COLUMN_STATE).setValue(row.state);
+      // Flush to update sheet, in case script breaks.
+      SpreadsheetApp.flush();    
+    } 
+    
+      //ReadReplies to see if that person replied
+      // Check if the person has accepted or rejected the invitation in the Reply Spreadsheet.
+      // We look that the tokens match. If they replied more than once, the last prevails.
+    if ((row.state == EMAIL_SENT) ) {
+      //Check for replies and send email
+      sendEmail =1 ;
+      readReplies(row);
+      sendEmail =0 ;
+    }
+    
+    //Case for row.state == REPLIED is taken out. It would check or NEW replies.
+    //Moved to checklNewReplies
+    
+    
+  } // for every person 
+  Log+=&quot;(+&quot;+delay()+&quot; s.) Ended execution.&quot;;
+  MailApp.sendEmail(Session.getUser().getEmail(),
+   &quot;Output of Processing list&quot;,
+   &quot;&quot;, 
+   {
+     htmlBody: Log,
+   //  attachments: pdf,
+     bcc: ITPERSON
+   });
+   
+    Browser.msgBox(&quot;Smile. I've finished (&quot;+delay()+&quot; s)&quot;);
+}
+</code></pre></noscript></div>
+
+
+
 
 <p style="text-align:justify;">To send the invitations, I chose the template depending on the Group, which is then basically a call to <em>MailApp </em>with a HTML email body hard-coded<em>.</em></p>
 
 
-<p>https://gist.github.com/2727146</p>
+<div><script src='https://gist.github.com/2727146.js?file='></script>
+<noscript><pre><code>var message = &quot;&lt;HTML&gt;&lt;BODY&gt;&quot;
+    + '&lt;img align=&quot;middle&quot; width=&quot;150px&quot; src=&quot;http://gain.org/images/gainlogo.png&quot;&gt;&lt;br&gt;'
+    + &quot;&lt;br&gt;&lt;p align='left'&gt; April &quot;+Utilities.formatDate(new Date(), 'GMT', 'd, yyyy')+&quot;&lt;/p&gt;&quot;
+    + &quot;&lt;br&gt;&lt;p&gt;Dear &quot; + row.prefix + &quot; &quot; + row.lastName + &quot;, &lt;p&gt; &quot;
+    + '&lt;P&gt;It is an honor to invite you to ...REST OF EMAIL'
+    + ' Please RSVP at your &lt;a href=&quot;'
+    + construct_URL(row)
+    + '&quot;&gt; personalized form&lt;/a&gt;. &lt;/p&gt;' 
+    + '&lt;P&gt; REST OF EMAIL'
+    + &quot;&lt;/HTML&gt;&lt;/BODY&gt;&quot;;
+  MailApp.sendEmail(row.email, 
+  &quot;RSVP Requested: --SUBJECT--&quot;, 
+  &quot;&quot;, 
+{
+  htmlBody: message,
+  bcc: MANAGER_EMAIL
+  });
+  row.state = EMAIL_SENT;
+  sheet.getRange(row.id+2, COLUMN_STATE).setValue(EMAIL_SENT);</code></pre></noscript></div>
+
+
+
 
 <p style="text-align:justify;">The interesting bit is the <em>construct_URL </em>function. We made a reply questionnaire using Google Forms, where we write the rough agenda and we ask if you can join us.</p>
 
@@ -148,18 +246,86 @@
 <p style="text-align:justify;">We actually made two Google Forms, one for each group with its questions to the appropriate sessions. Instead of just adding the link to the email, <strong>I used the URL to pass along personalized pre-populated information</strong> to the form. That saves time to the person (we already know his name, and also allows us to place the Token on the last field to identify the answer). [btw Non ASCII characters like accents, can break on IE]</p>
 
 
-<p style="text-align:justify;"><a href="http://nasonurb.files.wordpress.com/2012/05/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg"><img class="aligncenter size-full wp-image-2424" title="20120518-tuene3ea161sej1p3cbe8i1is3" src="http://nasonurb.files.wordpress.com/2012/05/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg" alt="" width="640" height="710" /></a></p>
+<p style="text-align:justify;"><a href="/brunosan.eu//media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg"><img class="aligncenter size-full wp-image-2424" title="20120518-tuene3ea161sej1p3cbe8i1is3" src="/brunosan.eu//media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg" alt="" width="100%" /></a></p>
 
 
 <p style="text-align:justify;">This is the simple code to make a personalized URL like <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHFWZllkZWluU2ZEbFU0X0FZaFZJZHc6MQ&amp;entry_6=Dr.&amp;entry_0=Bruno&amp;entry_7=S%C3%A1nchez-Andrade%20Nu%C3%B1o&amp;entry_8=Global%20Adaptation%20Institute&amp;entry_9=Director%20for%20Science%20and%20Technology&amp;entry_5=t200w167">this one</a>.</p>
 
 
-<p>https://gist.github.com/2727214</p>
+<div><script src='https://gist.github.com/2727214.js?file='></script>
+<noscript><pre><code>function construct_URL(row)
+{
+ switch(row.group)
+  {
+    case 1:
+      var RESPONSES_URL = RESPONSES_GROUP1_URL;
+      var AUTOFILL = &quot;&amp;entry_6=&quot;+ (row.prefix|| &quot; &quot;)
+      + &quot;&amp;entry_0=&quot;+row.firstName
+      + &quot;&amp;entry_7=&quot;+row.lastName
+      + &quot;&amp;entry_8=&quot;+(row.company || &quot; &quot;)
+      + &quot;&amp;entry_9=&quot;+(row.title || &quot; &quot;)
+      + &quot;&amp;entry_5=&quot;+row.token;
+      break;
+    default:
+      var RESPONSES_URL = RESPONSES_GROUP2_URL;
+      var AUTOFILL = &quot;&amp;entry_6=&quot;+row.prefix
+      + &quot;&amp;entry_0=&quot;+row.firstName
+      + &quot;&amp;entry_7=&quot;+row.lastName
+      + &quot;&amp;entry_8=&quot;+row.company
+      + &quot;&amp;entry_9=&quot;+row.title
+      + &quot;&amp;entry_5=&quot;+row.token;
+  }
+  
+  var url = RESPONSES_URL + AUTOFILL;
+
+return url;
+}</code></pre></noscript></div>
+
+
+
 
 <p style="text-align:justify;">Now the answers are registered in another Google Spreadsheet. To check for those answers, you just need to process that Sheet looking for Tokens to match the reply with the person (they might have changed their name or other info):</p>
 
 
-<p>https://gist.github.com/2727230</p>
+<div><script src='https://gist.github.com/2727230.js?file='></script>
+<noscript><pre><code>function readReplies(row) {
+ // Open the Responses Spreadsheet and fetch responses.
+  switch(row.group)
+  {
+    case 1:
+      ReplyData = ReplyData1; // This comes from getRowsData(Group1Sheet);
+      break;  
+    default:
+      ReplyData = ReplyData2;
+  }  
+  //Gather info into Master list. Last reply counts
+  for (var j =0 ; j &lt; ReplyData.length ; ++j) {
+  var reply = ReplyData[j];
+    if (reply !== undefined)
+        {
+          if ((row.token == reply.token) &amp;&amp; (row.state == EMAIL_SENT)) {
+            // Identify replies using the tokens
+            switch(row.group)
+            {
+              case 1:
+               Results1(row, reply);
+               Log+=&quot;(+&quot;+delay()+&quot; s.) Found response from &quot;+row.firstName+&quot; &quot;+row.lastName+&quot;. Group 1.&lt;br&gt;&quot;;
+               break; 
+              case 2:
+              Results2(row, reply);
+              Log+=&quot;(+&quot;+delay()+&quot; s.) Found response from &quot;+row.firstName+&quot; &quot;+row.lastName+&quot;. Group 2.&lt;br&gt;&quot;;
+              break; 
+              default:
+              Log+=&quot;(+&quot;+delay()+&quot; s.) No Group set for &quot;+row.firstName+&quot; &quot;+row.lastName+&quot;. ERROR&lt;br&gt;&quot;;
+             
+            }
+          }
+        }
+       }
+}</code></pre></noscript></div>
+
+
+
 
 <p style="text-align:justify;">The actual Processing of the information is then just placing the answers from the response form into the appropriate row in the Master List. You just need to code a single reply and iterate to each. Also the special cases Yes/No to all. Making the loop for all matching Token makes sure that the last Reply is the one remaining, in case they submitted more than once.</p>
 
@@ -167,12 +333,87 @@
 <p style="text-align:justify;">The nice thing is that now we can carry back all modifications to their info back to the Master List. If we misspelled their name, or they changed Position, they will likely correct that in the form, and this little code will flag that in green for you. So next time the code uses that information for other emails, badges, or other events, <strong>their information will be updated, by them</strong> (I found this to be the case in 5% of the cells).</p>
 
 
-<p>https://gist.github.com/2727260</p>
+<div><script src='https://gist.github.com/2727260.js?file='></script>
+<noscript><pre><code>function updateInfo(row,reply,column,fieldanswer) {
+  var current= sheet.getRange(row.id+2, column).getValue();
+  var updated= (fieldanswer || current);
+  
+  if (current != updated) {
+      // update field
+      sheet.getRange(row.id+2, column).setValue(updated);
+      
+      sheet.getRange(row.id+2, column).setBackgroundColor('green');
+  }
+}</code></pre></noscript></div>
+
+
+
 
 <p style="text-align:justify;">A few days before the event you can send a reminder to those attending to at least one session, with a confirmation of their reply, so they can update it if there has been changes. You can also add some attachments with more info:</p>
 
 
-<p>https://gist.github.com/2727288</p>
+<div><script src='https://gist.github.com/2727288.js?file='></script>
+<noscript><pre><code>agenda = UrlFetchApp.fetch(&quot;URL to pdf, in Dropbox&quot;).getBlob().setName(&quot;Agenda.pdf&quot;), //agenda
+paper = UrlFetchApp.fetch(&quot;URL to pdf, in Dropbox&quot;).getBlob().setName(&quot;Discussion Paper.pdf&quot;), // Paper
+logistics = UrlFetchApp.fetch(&quot;URL to pdf, in Dropbox&quot;).getBlob().setName(&quot;Logistics.pdf&quot;) //logistics
+
+for (var i = 0; i &lt; data.length; ++i) {    
+    var row = data[i];
+    
+    if ((row.attending9Am == CONFIRMED)    || 
+        (row.attending9Lunch == CONFIRMED) || 
+        (row.attending9Pm == CONFIRMED)    || 
+        (row.attending10Am == CONFIRMED)   ||
+        (row.attending10Lunch == CONFIRMED)||
+        (row.attending10Pm == CONFIRMED)) {
+      
+      if (row.reminder == &quot;No&quot;) {
+      sendEmail=1;
+
+var message = &quot;&lt;HTML&gt;&lt;BODY&gt;&quot;
+    + '&lt;img align=&quot;middle&quot; width=&quot;150px&quot; src=&quot;http://gain.org/images/gainlogo.png&quot;&gt;&lt;br&gt;'
+    + &quot;&lt;br&gt;&lt;p align='left'&gt; May 7, &quot;+Utilities.formatDate(new Date(), 'GMT', 'yyyy')+&quot;&lt;/p&gt;&quot;
+    + &quot;&lt;p&gt;Dear &quot; + row.prefix + &quot; &quot; + row.lastName + &quot;, &lt;p&gt; &quot;
+    + '&lt;p&gt;We look forward to your participation REST OF THE EMAIL'
+    + &quot;&lt;p&gt;In preparation for the event, please find attached the:&quot;
+    + &quot;&lt;ul&gt;&lt;li&gt;GAIN 2012 Annual Meeting &amp; Scientific Convening Agenda&quot;
+    + &quot;&lt;li&gt;GAIN Index 2012 Discussion Paper&lt;/ul&gt;&quot;
+    + &quot;(No need to print - it will be part of your welcome package.)&quot;    
+    + '&lt;p&gt; Our records indicate that you have confirmed for the following sessions. Please advise us of any changes by replying to this email.&lt;p&gt; &lt;ol&gt;'
+    +((row.attending9Am == CONFIRMED)? &quot;&lt;li&gt; May 9 morning&quot; : &quot;&quot;)
+    +((row.attending9Lunch == CONFIRMED)? &quot;&lt;li&gt; May 9 lunch&quot; : &quot;&quot;)
+    +((row.attending9Pm == CONFIRMED)? &quot;&lt;li&gt; May 9 afternoon&quot; : &quot;&quot;)
+    +((row.attending9Recepcion == CONFIRMED)? &quot;&lt;li&gt; May 9 Reception&quot; : &quot;&quot;)
+    +((row.attending10Am == CONFIRMED)? &quot;&lt;li&gt; May 10 morning&quot; : &quot;&quot;)
+    +((row.attending10Lunch == CONFIRMED)? &quot;&lt;li&gt; May 10 lunch&quot; : &quot;&quot;)
+    +((row.attending10Pm == CONFIRMED)? &quot;&lt;li&gt; May 10 afternoon&quot; : &quot;&quot;)
+    + '&lt;/ol&gt;&lt;p&gt;'
+    +((row.vegetarian == &quot;Vegetarian&quot;)? &quot;(We have also noted you as a vegetarian.)&quot;: &quot;&quot;)
+    + &quot;&lt;p&gt; REST OF THE EMAIL&quot;
+    + &quot;&lt;/HTML&gt;&lt;/BODY&gt;&quot;;
+  
+   Log+=&quot;(+&quot;+delay()+&quot; s.) SENDING reminder for &quot;+row.firstName+&quot; &quot;+row.lastName+&quot;. Group 1.&lt;br&gt;&quot;;   
+   MailApp.sendEmail(row.email,
+   &quot;Event documents: Global Adaptation Institute (GAIN) 2012 Annual Meeting &amp; Scientific Convening&quot;,
+   &quot;&quot;, 
+   {
+     htmlBody: message,
+     attachments: 
+       [
+        agenda, //agenda
+        paper, // Paper
+        logistics //logistics
+       ],
+     bcc: MANAGER_EMAIL
+   });
+   sheet.getRange(row.id+2, COLUMN_REMINDER).setValue(&quot;Yes&quot;);
+   row.reminder = &quot;Yes&quot;;
+   }
+   SpreadsheetApp.flush();
+}</code></pre></noscript></div>
+
+
+
 
 <p style="text-align:justify;">[We used a very similar IF condition to print the badges for everyone coming to at least one session]</p>
 
@@ -185,7 +426,47 @@
 <p style="text-align:justify;">We also prepared a document to allow us to take pictures of the participants during the event. Again, I would hate to make them write their name, If I already know it. All we did was upload to Consent document to a Google Docs, and personalize it:</p>
 
 
-<p>https://gist.github.com/2727302</p>
+<div><script src='https://gist.github.com/2727302.js?file='></script>
+<noscript><pre><code>function PrepareMediaForms() {
+//create the personalized forms for everyone attending any session (aside reception)
+//saved on google docs.
+
+// For every person
+  for (var i = 0; i &lt; data.length; ++i) {    
+    var row = data[i];
+    
+    if ((row.attending9Am == CONFIRMED)    || 
+        (row.attending9Lunch == CONFIRMED) || 
+        (row.attending9Pm == CONFIRMED)    || 
+        (row.attending10Am == CONFIRMED)   ||
+        (row.attending10Lunch == CONFIRMED)||
+        (row.attending10Pm == CONFIRMED)) {
+      form= PreparePermission(row);
+    }
+}
+function PreparePermission(row){
+
+// Full name and email address values come from the spreadsheet form
+   var full_name = row.firstName+&quot; &quot;+row.lastName
+   var docName = &quot;Media Permission form&quot;
+// Get document template, copy it as a new temp doc, and save the Doc’s id
+   var copyId   = DocsList.getFileById(PERMISION_FORM)
+                  .makeCopy(docName+' for '+full_name)
+                  .getId();
+   var copyDoc  = DocumentApp.openById(copyId);
+   var copyBody = copyDoc.getActiveSection();
+// Replace place holder keys,  
+   copyBody.replaceText('Name:', 'Name: '+row.prefix+&quot; &quot;+full_name);
+// Save and close the temporary document
+   copyDoc.saveAndClose();
+// Convert temporary document to PDF by using the getAs blob conversion
+   var pdf = DocsList.getFileById(copyId).getAs(&quot;application/pdf&quot;); 
+   Log+=&quot;Media permission form for &quot;+full_name+&quot;&lt;br&gt;&quot;;
+   return pdf;
+}</code></pre></noscript></div>
+
+
+
 
 <p style="text-align:justify;">Unfortunately, there is not Print option inside GAS, so you need to search on your Google Docs for the common part of the Title of all those consent forms. Then batch download them as a zip file ("Select all" then "Download"). Once in your computer, just drop them to the printer icon.</p>
 
@@ -201,10 +482,12 @@
 <p style="text-align:justify;"><strong>Badges</strong>: Very similar code to the Consent Forms to print the Names and Companies.</p>
 
 
-<p style="text-align:justify;"><strong>Securing the Info</strong>: The Google Docs should not be shared with anyone, only the people inside your team, and only editable to a few. I was really afraid of changes in the Master List, so used to option to set different access right to individual sheets. You can also use the GAS <em>onOpen </em>function and <em>SpreadsheetApp.getActiveSpreadsheet().addMenu("Annual Meeting", menuEntries)</em> to add an extra menu, only to particular users.</p>
+<p style="text-align:justify;"><strong>Securing the Info</strong>: The Google Docs should not be shared with anyone, only the people inside your team, and only editable to a few. I was really afraid of changes in the Master List, so used to option to set different access right to individual sheets. You can also use the GAS <em>onOpen </em>function and     
+        SpreadsheetApp.getActiveSpreadsheet().addMenu("Annual Meeting", menuEntries) 
+to add an extra menu, only to particular users.</p>
 
 
-<p style="text-align:justify;"><img class="alignnone" title="security" src="https://img.skitch.com/20120518-ejxaiyufmy1gy9yu71mfat1t9t.jpg" alt="" width="805" height="232" /></p>
+<p style="text-align:justify;"><img class="alignnone" title="security" src="https://img.skitch.com/20120518-ejxaiyufmy1gy9yu71mfat1t9t.jpg" alt=""  width="100%" /></p>
 
 
 <p style="text-align:justify;"><strong>Dealing with "Manuals"</strong>: There will always be cases when they reply via a phone, or you need to update the reply. Since this system relies upon keywords in the "Status" column you only need to set it to something else than the chosen ones to track manual instances. For example set it to "Manual" and add the "Confirmed" replies on the appropriate Field. You can also put any other Status, and you will be able to track it on the Status Sheet ( i.e. How many "Missing Email" we have?)</p>
@@ -218,83 +501,46 @@
 <p style="text-align:justify;">Having all the information in one placed and updated in almost real time, allows to easily track the progress, with only a few Google Spreadsheet Formulas:</p>
 
 
-<p style="text-align:justify;"><a href="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-4-26-46-pm.png"><img class="aligncenter size-full wp-image-2410" title="Screen Shot 2012-05-18 at 4.26.46 PM" src="http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-18-at-4-26-46-pm.png" alt="" width="457" height="427" /></a></p>
+<p style="text-align:justify;"><a href="/brunosan.eu//media/screen-shot-2012-05-18-at-4-26-46-pm.png"><img class="aligncenter size-full wp-image-2410" title="Screen Shot 2012-05-18 at 4.26.46 PM" src="/brunosan.eu//media/screen-shot-2012-05-18-at-4-26-46-pm.png" alt=""  width="100%" /></a></p>
 
 
 <p style="text-align:justify;">Count number of Confirmation for a particular Session:
-=COUNTIF('Master list'!K:K,"Confirmed")
+    `=COUNTIF('Master list'!K:K,"Confirmed")`
 Count the total number of Replies:
-=COUNTIF('Master list'!J:J,"Replied")</p>
-
-
+    `=COUNTIF('Master list'!J:J,"Replied")`
 <p style="text-align:justify;">You can even prepare a Participation list for each Session, with Names, Titles, ... Very useful for example to order lunch and spot vegetarians. This is the formula to pull out a sorted list:</p>
+<div><script src='https://gist.github.com/2727461.js?file='></script>
+<noscript><pre><code>= SORT(FILTER('Master list'!S2:V,'Master list'!L2:L=&quot;Confirmed&quot;),FILTER('Master list'!S2:S,'Master list'!L2:L=&quot;Confirmed&quot;),TRUE)
 
-
-<p>https://gist.github.com/2727461</p>
+S2:V is the region with the Replies in the Master List with their names and comments
+T2:T is the column of the Session (e.g. Lunch)</code></pre></noscript></div>
 
 <h2 style="text-align:justify;">Tracking Feedback</h2>
-
-
 <p style="text-align:justify;">After the event, we can update the actual participation, and send a personalized Thank You note, and include a quick Feedback Questionnaire.</p>
 
-
-
-
 <h2 style="text-align:justify;">Summary</h2>
-
-
 <p style="text-align:justify;">It was actually fun to code this system. It is the first time I use GAS, or even code in Javascript, and it turned out to be very fun. The debugging options are very useful, specially since I was developing on-demand, so I made sure to place plenty of stop flags before sending to all our invitees a broken email.</p>
-
-
 <p style="text-align:justify;">The actual managers in charge of organizing this event where very happy and loved the system. I tried to anticipate all their needs and plan a structured clean script. In the end  there was some organic growth to code things or  cases I had not planned, but it turned out to be incremental changes, never too deep. Unfortunately that turned the system highly customized and not re-usable without many modifications.</p>
-
-
 <p style="text-align:justify;">I got some actual comments from the end-users:</p>
-
-
 <p style="text-align:justify;">from a participant:</p>
 
-
-
-
 <blockquote>I just wanted to take a moment after the successful annual conference you just organized to briefly mention that the registration system you used excelled any other mechanism I've seen in hundreds of other conferences throughout my professional experience. In your case, we got emails with the right information, including attachments, in a timely manner. I specially appreciated you pre-populated every communication and form with the information I initially gave you. This makes a difference, unlike other systems, where you annoyingly have to enter the same information once and again.</blockquote>
-
-
 <p style="text-align:justify;">from our staff:</p>
 
-
-
-
 <blockquote>Best registration system I've seen. And I've seen many.</blockquote>
-
-
 <div style="text-align:justify;"></div>
-
-
 <blockquote>
 <div>With just a few weeks to go before our nonprofit's annual event, we were so lucky to have this system to organize participant information, mail invitations, receive responses and calculate the data in a very organized fashion. The most efficient piece was the opportunity to personalize each email and feedback form on GoogleDocs.</div>
 <div>Our process was more efficient because of the system Bruno, implemented to help streamline and reduce our workload.</div></blockquote>
-
-
 <p style="text-align:justify;">This system is far from needing an actual developer to nanny its execution, and also far from being re-usable (separating the system and the particularities of our event). Yet, I am proud of it, and how it turned out.</p>
-
-
 <p style="text-align:justify;">What I would do differently in the code if I were to do it again:</p>
-
-
-
 
 <ul style="text-align:justify;">
     <li>Email body should not be hard-coded, it should be placed on a separate sheet to be taken from there. Also add a simple text version (reduces spam score).</li>
     <li>I would implement a "putRowsData" similar to "getRowsData".</li>
     <li>Customize the Forms so they live inside our NGO site, not using the Google Templates.</li>
 </ul>
-
-
 <p style="text-align:justify;">After this expericence I missed:</p>
-
-
-
 
 <ul>
     <li style="text-align:justify;">The option in GAS MailApp to authenticate as another user to send on his/her behalf.</li>
@@ -342,40 +588,40 @@ Count the total number of Replies:
   
     <div class="related-post">
       <div class="title">
-        <a href="/brunosan.eu//2011/01/25/a-ballistic-back-mapping-tool-for-nasastereo//" target="_top">
-          A [ballistic back-] mapping tool for NASA/STEREO
+        <a href="/brunosan.eu//2012/05/18/space-x-and-instagram//" target="_top">
+          Space X, Instagram and Angry Brids
         </a>
       </div>
     </div>
   
     <div class="related-post">
       <div class="title">
-        <a href="/brunosan.eu//2012/01/31/idea-brainstorming-for-apps-for-climate//" target="_top">
-          [Idea] Brainstorming for Apps for Climate
+        <a href="/brunosan.eu//2012/05/18/scientific-value-%25e2%2589%25a0-perception-of-the-scientific-value//" target="_top">
+          Scientific value ≠ Perception of the scientific value
         </a>
       </div>
     </div>
   
     <div class="related-post">
       <div class="title">
-        <a href="/brunosan.eu//2010/10/28/crowdsourcing-development//" target="_top">
-          Crowdsourcing Development
+        <a href="/brunosan.eu//2012/05/06/bertrand-russells-10-commandments//" target="_top">
+          Bertrand Russell’s 10 Commandments
         </a>
       </div>
     </div>
   
     <div class="related-post">
       <div class="title">
-        <a href="/brunosan.eu//2011/04/18/eli-the-physio//" target="_top">
-          Eli, the physio
+        <a href="/brunosan.eu//2012/05/03/idea-synthetic-multi-beam-microphone//" target="_top">
+          [Idea] Synthetic Multi-beam Microphone
         </a>
       </div>
     </div>
   
     <div class="related-post">
       <div class="title">
-        <a href="/brunosan.eu//2008/11/11/work//" target="_top">
-          Astrophysics
+        <a href="/brunosan.eu//2012/04/17/discoverys-final-flight-3//" target="_top">
+          Discovery's final flight.
         </a>
       </div>
     </div>

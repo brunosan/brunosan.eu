@@ -1,0 +1,63 @@
+function ProcessList() {
+   sendEmail =0 ;
+   // Track remaining email quota.
+   var budget = MailApp.getRemainingDailyQuota();
+
+  // For every person
+  for (var i = 0; i < data.length; ++i) {
+    if (budget < 0){
+      Browser.msgBox("Sorry, your account has reached your daily quote of emails.")
+      break;
+    }  
+    var row = data[i]; //row is the info of the person
+    if (row.state == GO ) {
+      // empty means do nothing
+      // "Go" means this is a new invitee AND we want to send him an invite.
+      // Email the person to request his response.
+      switch(row.group)
+            {
+              case 1:
+               send1ToInvitee(row);
+               Log+="(+"+delay()+" s.) SENDING email to "+row.firstName+" "+row.lastName+". Group 1<br>";
+               break; 
+              case 2:
+               send2ToInvitee(row);
+               Log+="(+"+delay()+" s.) SENDING email to "+row.firstName+" "+row.lastName+". Group 2<br>";
+               break; 
+              default:
+               Log+="(+"+delay()+" s.) No Group set for "+row.firstName+" "+row.lastName+". ERROR<br>";
+             }     
+      // Update the state of the report to avoid email sending multiple emails
+      budget=budget-2;
+      sheet.getRange(row.id+2, COLUMN_STATE).setValue(row.state);
+      // Flush to update sheet, in case script breaks.
+      SpreadsheetApp.flush();    
+    } 
+    
+      //ReadReplies to see if that person replied
+      // Check if the person has accepted or rejected the invitation in the Reply Spreadsheet.
+      // We look that the tokens match. If they replied more than once, the last prevails.
+    if ((row.state == EMAIL_SENT) ) {
+      //Check for replies and send email
+      sendEmail =1 ;
+      readReplies(row);
+      sendEmail =0 ;
+    }
+    
+    //Case for row.state == REPLIED is taken out. It would check or NEW replies.
+    //Moved to checklNewReplies
+    
+    
+  } // for every person 
+  Log+="(+"+delay()+" s.) Ended execution.";
+  MailApp.sendEmail(Session.getUser().getEmail(),
+   "Output of Processing list",
+   "", 
+   {
+     htmlBody: Log,
+   //  attachments: pdf,
+     bcc: ITPERSON
+   });
+   
+    Browser.msgBox("Smile. I've finished ("+delay()+" s)");
+}

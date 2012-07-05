@@ -1,20 +1,6 @@
 --- 
 layout: post
 status: publish
-meta: 
-  _wpas_skip_fb: "1"
-  geo_accuracy: "0"
-  publicize_results: a:1:{s:7:"twitter";a:1:{i:6637352;a:2:{s:7:"user_id";s:8:"brunosan";s:7:"post_id";s:18:"203479766215557121";}}}
-  geo_public: "1"
-  tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2012-05-18 02:34:55";}
-  geo_address: 425 P St NW, Washington, DC 20001, USA
-  geo_longitude: "-77.018000"
-  _wpas_done_twitter: "1"
-  reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1339080589";}
-  _wpas_mess: "\"Scientific value\" is not the same as \"perception of the scientific value\" http://wp.me/pzp88-CB"
-  geo_latitude: "38.910000"
-  jabber_published: "1337348328"
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
@@ -24,19 +10,19 @@ tags:
 title: "Scientific value \xE2\x89\xA0 Perception of the scientific value"
 ---
 A russian satellite makes a time lapse of the Earth from space. A truly beautiful video.
-[youtube http://www.youtube.com/watch?v=6twFHqJ03_k]
+{% youtube 6twFHqJ03_k %}
 
 This reminds me of a text I read many years ago: Carl Sagan was defending the inclusion of visual cameras in scientific payloads, even when the scientific value would be arguable.
 
 <!--more-->Researchers were claiming on the extra weight and limited value, and longevity, of such an instrument, versus the many other things they could put to measure wind speed, chemical composition, ...
 
-Carl Sagan´s point was that we need to <strong>connect with society</strong>, to the humane instinct of visual exploration. It is ok to give up a little bit of extra science if we can get a better overal picture, or link with people. A single image can convey to many more people the awe and wonder of the Universe, and the need to continue the journey, than thousand papers or plots. That´s just our human nature. One of the most important things since I´ve left research is exactly that.
+Carl Sagan´s point was that we need to <strong>connect with society</strong>, to the humane instinct of visual exploration. It is ok to give up a little bit of extra science if we can get a better overall picture, or link with people. A single image can convey to many more people the awe and wonder of the Universe, and the need to continue the journey, than thousand papers or plots. That´s just our human nature. One of the most important things since I´ve left research is exactly that.
 
 Almost every single weather satellite in the recent years has had the same capabilities to make this movie of the Earth. But they either chose to put only an infrared camera (needed if you want to see clouds at night) or they never thought of making this Outreach product. The russians did, and they added a camera in the near visible range to have the closest possible to "a view from space". They´ve reached <strong>millions</strong> more of "wow moments". With this video we can connect to many concepts, like the importance of satellites, the concept of climate, the Earth has a unity, ...
 
 Here´s another example with the ISS and the Earth. You might not even remember the purpose of the ISS (or even that we had humans living there since years)  but you might remember (or you will) this video:
 
-[youtube http://www.youtube.com/watch?v=Ip2ZGND1I9Q]
+{% youtube Ip2ZGND1I9Q %}
 
 Another case, from my experience: My thesis took around 3 years, and 100 days of observations at a telescope. Probably less than 20 people understand it, and I hope it be a small contribution to advance solar physic. One day, at the telescope, I made a 20 seconds video, and then I took a few hours to prepare a simple video of it (here it is <a href="http://bsan.eu/LbfigS">http://bsan.eu/LbfigS</a> ). The <a href="https://plus.google.com/113118420661689340672">Astronomy Picture of the Day (APoD)</a> featured it 3 times, and literally millions of people has seen it. With that video, we can engage in so many concepts of Astronomy, Optics and Solar Physics. And so have told me teachers from literally all around the world when they asked me to use it on their classroom.
 

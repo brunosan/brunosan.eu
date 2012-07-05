@@ -1,0 +1,37 @@
+function PrepareMediaForms() {
+//create the personalized forms for everyone attending any session (aside reception)
+//saved on google docs.
+
+// For every person
+  for (var i = 0; i < data.length; ++i) {    
+    var row = data[i];
+    
+    if ((row.attending9Am == CONFIRMED)    || 
+        (row.attending9Lunch == CONFIRMED) || 
+        (row.attending9Pm == CONFIRMED)    || 
+        (row.attending10Am == CONFIRMED)   ||
+        (row.attending10Lunch == CONFIRMED)||
+        (row.attending10Pm == CONFIRMED)) {
+      form= PreparePermission(row);
+    }
+}
+function PreparePermission(row){
+
+// Full name and email address values come from the spreadsheet form
+   var full_name = row.firstName+" "+row.lastName
+   var docName = "Media Permission form"
+// Get document template, copy it as a new temp doc, and save the Doc’s id
+   var copyId   = DocsList.getFileById(PERMISION_FORM)
+                  .makeCopy(docName+' for '+full_name)
+                  .getId();
+   var copyDoc  = DocumentApp.openById(copyId);
+   var copyBody = copyDoc.getActiveSection();
+// Replace place holder keys,  
+   copyBody.replaceText('Name:', 'Name: '+row.prefix+" "+full_name);
+// Save and close the temporary document
+   copyDoc.saveAndClose();
+// Convert temporary document to PDF by using the getAs blob conversion
+   var pdf = DocsList.getFileById(copyId).getAs("application/pdf"); 
+   Log+="Media permission form for "+full_name+"<br>";
+   return pdf;
+}

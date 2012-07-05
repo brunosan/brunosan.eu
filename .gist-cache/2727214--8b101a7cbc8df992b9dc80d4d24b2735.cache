@@ -1,0 +1,27 @@
+function construct_URL(row)
+{
+ switch(row.group)
+  {
+    case 1:
+      var RESPONSES_URL = RESPONSES_GROUP1_URL;
+      var AUTOFILL = "&entry_6="+ (row.prefix|| " ")
+      + "&entry_0="+row.firstName
+      + "&entry_7="+row.lastName
+      + "&entry_8="+(row.company || " ")
+      + "&entry_9="+(row.title || " ")
+      + "&entry_5="+row.token;
+      break;
+    default:
+      var RESPONSES_URL = RESPONSES_GROUP2_URL;
+      var AUTOFILL = "&entry_6="+row.prefix
+      + "&entry_0="+row.firstName
+      + "&entry_7="+row.lastName
+      + "&entry_8="+row.company
+      + "&entry_9="+row.title
+      + "&entry_5="+row.token;
+  }
+  
+  var url = RESPONSES_URL + AUTOFILL;
+
+return url;
+}
