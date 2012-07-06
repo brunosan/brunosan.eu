@@ -5,7 +5,8 @@ do
 	if grep -Fq "filename: " $file
 	then
        # code if found
-	   echo "File: $file already processed"
+       printf ""
+	   # echo "File: $file already processed"
 	else
 	   	# code if not found
     	echo "Adding the line on file: $file"
