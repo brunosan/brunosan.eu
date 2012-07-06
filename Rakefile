@@ -5,7 +5,7 @@ desc "publish updated site to gh-pages"
     if args.commit_message
       puts "Committing and pushing_site into gh-pages branch with message: #{args.commit_message}"
       system "git checkout master"
-      system "jekyll"
+      #system "jekyll"
       system "git add -A && git commit -m \"#{args.commit_message}\""
       system "git checkout -f gh-pages"
       system "mkdir temp"
