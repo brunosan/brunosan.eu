@@ -2,19 +2,6 @@
 filename: 2010-04-15-optimizing-the-way-to-travel.md
 layout: post
 status: publish
-meta: 
-  _wpas_skip_fb: "1"
-  _wpas_skip_twitter: "1"
-  blogger_blog: brunosan.blogspot.com
-  geo_accuracy: "0"
-  tagazine-media: a:7:{s:7:"primary";s:57:"http://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg";s:6:"images";a:2:{s:57:"http://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg";a:6:{s:8:"file_url";s:57:"http://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg";s:5:"width";s:4:"1050";s:6:"height";s:3:"750";s:4:"type";s:5:"image";s:4:"area";s:6:"787500";s:9:"file_path";s:0:"";}s:58:"http://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg";a:6:{s:8:"file_url";s:58:"http://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg";s:5:"width";s:4:"1050";s:6:"height";s:3:"750";s:4:"type";s:5:"image";s:4:"area";s:6:"787500";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"2";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2011-01-18 19:24:03";}
-  geo_public: "1"
-  geo_address: 425 P St NW, Washington, DC 20001, USA
-  geo_longitude: "-77.018000"
-  blogger_author: "Bruno S\xC3\xA1nchez-Andrade Nu\xC3\xB1o"
-  blogger_84811d3284c06b3cad7acdc4a1b30d1c_permalink: "5307222907086979442"
-  geo_latitude: "38.910000"
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
@@ -53,31 +40,28 @@ Obviously this is just a fast calculation. The approach, for a rough estimation,
 
 Happy procrastination!
 
-<span style="font-size:x-small;">time=fltarr(w,1000) </span>
-<span style="font-size:x-small;">w=n_elements(mode) </span>
-<span style="font-size:x-small;">
-</span>
-<span style="font-size:x-small;">for i=0,w-1 do time[i,*]=prepa_min[i]/60.+(depart_km[i]/depart_sp[i]*2)+((km-depart_km[i]&gt;0)/(cruise_sp[i]*(km LT cruise_max[i]))) </span>
-<span style="font-size:x-small;">
-</span>
-<span style="font-size:x-small;">c=[50,70,100,140,155,175,190] </span>
-<span style="font-size:x-small;">l=[0,0,0,0,0,1,0] </span>
-<span style="font-size:x-small;">
-</span>
-<span style="font-size:x-small;">set_plot,'ps' </span>
-<span style="font-size:x-small;">DEVICE, filename='di.ps',SET_FONT='Helvetica Bold Italic', /TT_FONT,/color,/encap </span>
-<span style="font-size:x-small;">plot,time[0,*]/km*60,xtitle='Travel Distance [Km]',ytitle='Time per Kilometer [Minutes]',xrange=[1,200],yrange=[0.1,100],/xlog,/ylog,/ys </span>
-<span style="font-size:x-small;">for i=0,w-1 do oplot,(time[i,*])/km*60,color=c[i],thick=5,line=l[i</span>
-<span style="font-size:x-small;">legend,mode,color=c,linestyle=l,/right </span>
-<span style="font-size:x-small;">device,/close </span>
-<span style="font-size:x-small;">
-</span>
-<span style="font-size:x-small;">set_plot,'ps' </span>
-<span style="font-size:x-small;">DEVICE, filename='di2.ps',SET_FONT='Helvetica Bold Italic', /TT_FONT,/color,/encap </span>
-<span style="font-size:x-small;">plot,time[0,*],xtitle='Travel Distance [Km]',ytitle='Time [Hours]',/xlog,xrange=[1,200];,yrange=[0,50] </span>
-<span style="font-size:x-small;">for i=0,w-1 do oplot,(time[i,*]),color=c[i],thick=5,line=l[i] </span>
-<span style="font-size:x-small;">legend,mode,color=c,linestyle=l,/right,/bottom </span>
-<span style="font-size:x-small;">
-</span>
-<span style="font-size:x-small;">device,/close </span>
-<span style="font-size:x-small;">end</span>
+    time=fltarr(w,1000) 
+    w=n_elements(mode) 
+
+    for i=0,w-1 do time[i,*]=prepa_min[i]/60.+(depart_km[i]/depart_sp[i]*2)+((km-depart_km[i]>0)/(cruise_sp[i]*(km LT cruise_max[i]))) 
+
+    c=[50,70,100,140,155,175,190] 
+	l=[0,0,0,0,0,1,0] 
+
+
+	set_plot,'ps' 
+	DEVICE, filename='di.ps',SET_FONT='Helvetica Bold Italic', /TT_FONT,/color,/encap 
+	plot,time[0,*]/km*60,xtitle='Travel Distance [Km]',ytitle='Time per Kilometer [Minutes]',xrange=[1,200],yrange=[0.1,100],/xlog,/ylog,/ys 
+	for i=0,w-1 do oplot,(time[i,*])/km*60,color=c[i],thick=5,line=l[i
+	legend,mode,color=c,linestyle=l,/right 
+	device,/close 
+	
+	set_plot,'ps' 
+	DEVICE, filename='di2.ps',SET_FONT='Helvetica Bold Italic', /TT_FONT,/color,/encap 
+	plot,time[0,*],xtitle='Travel Distance [Km]',ytitle='Time [Hours]',/xlog,xrange=[1,200];,yrange=[0,50] 
+	for i=0,w-1 do oplot,(time[i,*]),color=c[i],thick=5,line=l[i] 
+	legend,mode,color=c,linestyle=l,/right,/bottom 
+
+
+device,/close 
+end
