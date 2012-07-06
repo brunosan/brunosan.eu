@@ -6,7 +6,6 @@ keywords: brunosan
 change_frequency: daily
 priority: 1.0
 ---
-
   {% for post in site.posts offset: 0 limit: 5 %}
 
   {% if post.external-url %}
@@ -17,7 +16,7 @@ priority: 1.0
         <time>{{ post.date | date_to_string }} •
 		<a id="pull-request-btn" class="btn" href="{{site.baseurl}}{{ post.url }}" data-date="{{ post.date | date: "%Y-%m-%d" }}" data-title="{{ post.url }}">
 			            Send edit request
-			        </a><a href="/posts/jekyll-pull-requests-github">?</a></time>
+			        </a><a href="{{site.baseurl}}/posts/2012/07/01/jekyll-pull-requests/">What is this?</a>
 			</time></p>
     </div>
   
@@ -28,7 +27,7 @@ priority: 1.0
         <time>{{ post.date | date_to_string }} •
 		<a id="pull-request-btn" class="btn" href="{{site.baseurl + post.url }}" data-date="{{ post.date | date: "%Y-%m-%d" }}" data-title="{{ post.title }}">
 			            Send edit request
-			        </a><a href="/posts/jekyll-pull-requests-github">?</a></time>
+			        </a><a href="{{site.baseurl}}/2012/07/01/jekyll-pull-requests/">What is this?</a></time>
     </div>
   
   {% endif %}
