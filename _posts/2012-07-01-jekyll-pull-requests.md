@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Jekyll and Pull Requests
 tags:
 - github
 ---

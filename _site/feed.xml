@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title type="text" xml:lang="en">Brunosan</title>
-	<link type="application/atom+xml" href="/brunosan.eu/feed/" rel="self"/>
- 	<link type="text" href="/brunosan.eu" rel="alternate"/>
-	<updated>2012-07-05T22:35:37-04:00</updated>
-	<id>/brunosan.eu</id>
+	<link type="application/atom+xml" href="/brunosan.es/feed/" rel="self"/>
+ 	<link type="text" href="/brunosan.es" rel="alternate"/>
+	<updated>2012-07-05T22:44:40-04:00</updated>
+	<id>/brunosan.es</id>
 	<author>
 		<name>Jason Heppler</name>
 	</author>
@@ -13,10 +13,10 @@
 
 	
 	<entry>
-		<title>Jekyll Pull Requests</title>
-		<link href="/brunosan.eu/2012/07/01/jekyll-pull-requests/"/>
+		<title>Jekyll and Pull Requests</title>
+		<link href="/brunosan.es/2012/07/01/jekyll-pull-requests/"/>
 		<updated>2012-07-01T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/07/01/jekyll-pull-requests</id>
+		<id>/brunosan.es/2012/07/01/jekyll-pull-requests</id>
 		<content type="html">&lt;p&gt;When I migrated this site to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; I wanted to focus on the content. Any page on this blog is less than 2 clicks away. I´ve been blogging since 2004, so this means I have over 200 pages. While testing the new site I was flabbergasted with the many typos and edits I wanted to correct or complement on &lt;strong&gt;many&lt;/strong&gt; of the posts.&lt;/p&gt;
 
 &lt;p&gt;Fortunately this new system allows to send those edits very easily. I can review or comment on them, and add them extremely easy. That´s what the little button at the bottom of each post does. This &amp;ldquo;&amp;rdquo;&lt;em&gt;Send edit request&lt;/em&gt;&amp;ldquo;&amp;rdquo; button is basically a link to a Github &lt;a href=&quot;https://help.github.com/articles/using-pull-requests&quot;&gt;&lt;em&gt;Pull Request&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -39,9 +39,9 @@
 	
 	<entry>
 		<title>Scientific value ≠ Perception of the scientific value</title>
-		<link href="/brunosan.eu/2012/05/18/scientific-value-%25e2%2589%25a0-perception-of-the-scientific-value/"/>
+		<link href="/brunosan.es/2012/05/18/scientific-value-%25e2%2589%25a0-perception-of-the-scientific-value/"/>
 		<updated>2012-05-18T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/05/18/scientific-value-%e2%89%a0-perception-of-the-scientific-value</id>
+		<id>/brunosan.es/2012/05/18/scientific-value-%e2%89%a0-perception-of-the-scientific-value</id>
 		<content type="html">&lt;p&gt;A russian satellite makes a time lapse of the Earth from space. A truly beautiful video.&lt;/p&gt;
 
 &lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/6twFHqJ03_k &quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
@@ -75,10 +75,10 @@
 	
 	<entry>
 		<title>Case Study for an Invitation System using Google Apps Script.</title>
-		<link href="/brunosan.eu/2012/05/18/case-study-for-an-invitation-system-using-google-apps-script/"/>
+		<link href="/brunosan.es/2012/05/18/case-study-for-an-invitation-system-using-google-apps-script/"/>
 		<updated>2012-05-18T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/05/18/case-study-for-an-invitation-system-using-google-apps-script</id>
-		<content type="html">&lt;p&gt;&lt;a href=&quot;/brunosan.eu/media/screen-shot-2012-05-18-at-5-38-35-pm.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2417&quot; title=&quot;Screen Shot 2012-05-18 at 5.38.35 PM&quot; src=&quot;/brunosan.eu/media/screen-shot-2012-05-18-at-5-38-35-pm.png&quot; width=&quot;100%&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
+		<id>/brunosan.es/2012/05/18/case-study-for-an-invitation-system-using-google-apps-script</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;/brunosan.es/media/screen-shot-2012-05-18-at-5-38-35-pm.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2417&quot; title=&quot;Screen Shot 2012-05-18 at 5.38.35 PM&quot; src=&quot;/brunosan.es/media/screen-shot-2012-05-18-at-5-38-35-pm.png&quot; width=&quot;100%&quot;/&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;Earlier this month my NGO (&lt;a href=&quot;http://gain.org&quot;&gt;GAIN&lt;/a&gt;) had its &lt;a href=&quot;http://gain.org/annual-meeting-2012&quot;&gt;annual meeting&lt;/a&gt;. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.&lt;/p&gt;&lt;/p&gt;
 
@@ -138,7 +138,7 @@ ids random  random  token
 &lt;/ul&gt;
 
 
-&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a href=&quot;/brunosan.eu/media/screen-shot-2012-05-18-at-2-50-43-pm.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2406&quot; title=&quot;Screen Shot 2012-05-18 at 2.50.43 PM&quot; src=&quot;/brunosan.eu/media/screen-shot-2012-05-18-at-2-50-43-pm.png&quot; alt=&quot;&quot;  width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a href=&quot;/brunosan.es/media/screen-shot-2012-05-18-at-2-50-43-pm.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2406&quot; title=&quot;Screen Shot 2012-05-18 at 2.50.43 PM&quot; src=&quot;/brunosan.es/media/screen-shot-2012-05-18-at-2-50-43-pm.png&quot; alt=&quot;&quot;  width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -263,7 +263,7 @@ ids random  random  token
 &lt;p style=&quot;text-align:justify;&quot;&gt;We actually made two Google Forms, one for each group with its questions to the appropriate sessions. Instead of just adding the link to the email, &lt;strong&gt;I used the URL to pass along personalized pre-populated information&lt;/strong&gt; to the form. That saves time to the person (we already know his name, and also allows us to place the Token on the last field to identify the answer). [btw Non ASCII characters like accents, can break on IE]&lt;/p&gt;
 
 
-&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a href=&quot;/brunosan.eu/media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2424&quot; title=&quot;20120518-tuene3ea161sej1p3cbe8i1is3&quot; src=&quot;/brunosan.eu/media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg&quot; alt=&quot;&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a href=&quot;/brunosan.es/media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2424&quot; title=&quot;20120518-tuene3ea161sej1p3cbe8i1is3&quot; src=&quot;/brunosan.es/media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg&quot; alt=&quot;&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;p style=&quot;text-align:justify;&quot;&gt;This is the simple code to make a personalized URL like &lt;a href=&quot;https://docs.google.com/spreadsheet/viewform?formkey=dHFWZllkZWluU2ZEbFU0X0FZaFZJZHc6MQ&amp;amp;entry_6=Dr.&amp;amp;entry_0=Bruno&amp;amp;entry_7=S%C3%A1nchez-Andrade%20Nu%C3%B1o&amp;amp;entry_8=Global%20Adaptation%20Institute&amp;amp;entry_9=Director%20for%20Science%20and%20Technology&amp;amp;entry_5=t200w167&quot;&gt;this one&lt;/a&gt;.&lt;/p&gt;
@@ -518,7 +518,7 @@ to add an extra menu, only to particular users.&lt;/p&gt;
 &lt;p style=&quot;text-align:justify;&quot;&gt;Having all the information in one placed and updated in almost real time, allows to easily track the progress, with only a few Google Spreadsheet Formulas:&lt;/p&gt;
 
 
-&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a href=&quot;/brunosan.eu/media/screen-shot-2012-05-18-at-4-26-46-pm.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2410&quot; title=&quot;Screen Shot 2012-05-18 at 4.26.46 PM&quot; src=&quot;/brunosan.eu/media/screen-shot-2012-05-18-at-4-26-46-pm.png&quot; alt=&quot;&quot;  width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:justify;&quot;&gt;&lt;a href=&quot;/brunosan.es/media/screen-shot-2012-05-18-at-4-26-46-pm.png&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2410&quot; title=&quot;Screen Shot 2012-05-18 at 4.26.46 PM&quot; src=&quot;/brunosan.es/media/screen-shot-2012-05-18-at-4-26-46-pm.png&quot; alt=&quot;&quot;  width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
 &lt;p style=&quot;text-align:justify;&quot;&gt;Count number of Confirmation for a particular Session:
@@ -573,9 +573,9 @@ T2:T is the column of the Session (e.g. Lunch)&lt;/code&gt;&lt;/pre&gt;&lt;/nosc
 	
 	<entry>
 		<title>Space X, Instagram and Angry Birds</title>
-		<link href="/brunosan.eu/2012/05/18/Space-X%2C-Instagram-and-Angry-Birds/"/>
+		<link href="/brunosan.es/2012/05/18/Space-X%2C-Instagram-and-Angry-Birds/"/>
 		<updated>2012-05-18T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/05/18/Space-X,-Instagram-and-Angry-Birds</id>
+		<id>/brunosan.es/2012/05/18/Space-X,-Instagram-and-Angry-Birds</id>
 		<content type="html">&lt;p&gt;On the news, Space X probes wildly successful, and publishes &lt;a href=&quot;http://www.spacex.com/usa.php&quot;&gt;this text&lt;/a&gt;, with blows like this one:&lt;/p&gt;
 
 &lt;blockquote&gt;&lt;p&gt;&amp;hellip;
@@ -609,9 +609,9 @@ Zuckerberg spent on Instagram.&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
 	
 	<entry>
 		<title>Bertrand Russell’s 10 Commandments</title>
-		<link href="/brunosan.eu/2012/05/06/bertrand-russells-10-commandments/"/>
+		<link href="/brunosan.es/2012/05/06/bertrand-russells-10-commandments/"/>
 		<updated>2012-05-06T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/05/06/bertrand-russells-10-commandments</id>
+		<id>/brunosan.es/2012/05/06/bertrand-russells-10-commandments</id>
 		<content type="html">&lt;div&gt;&lt;span style=&quot;font-size:medium;&quot;&gt;&lt;span style=&quot;line-height:24px;&quot;&gt;&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/05/mysteries-2108100_1700570c.jpeg&quot;&gt;&lt;img class=&quot;size-full wp-image-2391 aligncenter&quot; title=&quot;mysteries-2108100_1700570c&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/05/mysteries-2108100_1700570c.jpeg&quot; alt=&quot;&quot; width=&quot;460&quot; height=&quot;288&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
 
@@ -641,9 +641,9 @@ Zuckerberg spent on Instagram.&lt;/p&gt;&lt;/blockquote&gt;&lt;/li&gt;
 	
 	<entry>
 		<title>[Idea] Synthetic Multi-beam Microphone</title>
-		<link href="/brunosan.eu/2012/05/03/idea-synthetic-multi-beam-microphone/"/>
+		<link href="/brunosan.es/2012/05/03/idea-synthetic-multi-beam-microphone/"/>
 		<updated>2012-05-03T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/05/03/idea-synthetic-multi-beam-microphone</id>
+		<id>/brunosan.es/2012/05/03/idea-synthetic-multi-beam-microphone</id>
 		<content type="html">&lt;p style=&quot;text-align:left;&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/dominicspics/4626277810/sizes/l/in/photostream/&quot;&gt;&lt;img class=&quot;aligncenter size-medium wp-image-2383&quot; title=&quot;Screen Shot 2012-05-02 at 21.54.28&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/05/screen-shot-2012-05-02-at-21-54-28.png&quot; alt=&quot;&quot; width=&quot;75%&quot; /&gt;&lt;/a&gt;&lt;a title=&quot;Speaker Lattice Array - Brian Eno Speaker Flowers Sound Installation at Marlborough House by Dominic's pics, on Flickr&quot; href=&quot;http://www.flickr.com/photos/dominicspics/4626277810/&quot;&gt;
 &lt;/a&gt; This idea is for a synthetic multi-beam microphone, basically allowing to select and amplify sound coming from any, and all, selectable angles and distances, at once, live or replaying the sound, and to detect their LOS velocity. Combined with a speaker, it can be a multi-beam sonar.Physically it would be an array of microphones, at the size of the lattice would define part of the resolution. The rest would come from the software. I thought of this merging concepts of sounds, nets, radioastronomy and optical interferometry.&lt;/p&gt;
 
@@ -705,9 +705,9 @@ The &lt;em&gt;angular&lt;/em&gt; resolution of the ear would depend on the dista
 	
 	<entry>
 		<title>Discovery's final flight.</title>
-		<link href="/brunosan.eu/2012/04/17/discoverys-final-flight-3/"/>
+		<link href="/brunosan.es/2012/04/17/discoverys-final-flight-3/"/>
 		<updated>2012-04-17T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/04/17/discoverys-final-flight-3</id>
+		<id>/brunosan.es/2012/04/17/discoverys-final-flight-3</id>
 		<content type="html">&lt;p&gt;Discovery was NASA&amp;rsquo;s Orbiter Fleet leader, having flown 39 successful missions in over 27 years of service, totalling of one full year (365 days) in space. Discovery has performed both research and International Space Station (ISS) assembly missions. Discovery also flew the Hubble Space Telescope into orbit. Here&amp;rsquo;s a quick compilation of impressions from today.&lt;/p&gt;
 
 &lt;!--more--&gt;
@@ -1057,9 +1057,9 @@ Thanks #Discovery #NASA for the fly by!! http://pic.twitter.com/JVUkoUcP&lt;/div
 	
 	<entry>
 		<title>NASA Chief Scientist responds to ex-employees climate change deniers</title>
-		<link href="/brunosan.eu/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers/"/>
+		<link href="/brunosan.es/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers/"/>
 		<updated>2012-04-15T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers</id>
+		<id>/brunosan.es/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers</id>
 		<content type="html">&lt;p&gt;&lt;em&gt;Reblogged from &lt;a href=&quot;http://slashdot.org/submission/2022621/nasa-chief-scientist-responds-to-ex-employees?utm_source=rss1.0&amp;amp;utm_medium=feed&quot;&gt;Slashdot&lt;/a&gt;. Emphasis added:&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Last week a fellow at the Heartland Institute, a group &lt;a href=&quot;http://news.slashdot.org/story/12/02/15/1515208/leaked-heartland-institute-documents-reveal-opposition-to-science&quot; rel=&quot;nofollow&quot;&gt;now notorious for their plan to subvert public science education&lt;/a&gt;, gathered a coalition of 49 ex-NASA employees to &lt;a href=&quot;http://science.slashdot.org/story/12/04/12/176200/ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change&quot; rel=&quot;nofollow&quot;&gt;sign a petition&lt;/a&gt; urging NASA to reconsider its position on climate change. For perspective, &lt;a href=&quot;http://www.huffingtonpost.com/2012/04/13/nasa-climate-change-denier-stunts_n_1424492.html?ref=mostpopular&quot; rel=&quot;nofollow&quot;&gt;NASA currently employes over 18,000 people&lt;/a&gt;, and there are likely tens of thousands of ex-employees. In their letter the group requested that NASA refrain from publishing unproven remarks. Since no theory can ever be considered proven, this appears to be an attempt to silence discussion. NASA Chief Scientist Waleed Abdalati &lt;a href=&quot;http://www.spaceref.com/news/viewpr.html?pid=36679&quot; rel=&quot;nofollow&quot;&gt;has since responded&lt;/a&gt;:&lt;/p&gt;
@@ -1071,9 +1071,9 @@ Thanks #Discovery #NASA for the fly by!! http://pic.twitter.com/JVUkoUcP&lt;/div
 	
 	<entry>
 		<title>El feudo Cubano, 2012</title>
-		<link href="/brunosan.eu/2012/04/14/el-feudo-cubano-2012/"/>
+		<link href="/brunosan.es/2012/04/14/el-feudo-cubano-2012/"/>
 		<updated>2012-04-14T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/04/14/el-feudo-cubano-2012</id>
+		<id>/brunosan.es/2012/04/14/el-feudo-cubano-2012</id>
 		<content type="html">&lt;p style=&quot;text-align:center;&quot;&gt;&lt;a title=&quot;IMG_6309 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/6914300048/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm8.staticflickr.com/7247/6914300048_58829fd568.jpg&quot; alt=&quot;IMG_6309&quot; width=&quot;500&quot; height=&quot;333&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 
@@ -1170,9 +1170,9 @@ Para comer, el cubano tiene una cartilla de racionamiento. Cada persona tiene de
 	
 	<entry>
 		<title>EWB Conference Heightens Awareness to Adaptation Issues</title>
-		<link href="/brunosan.eu/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues/"/>
+		<link href="/brunosan.es/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues/"/>
 		<updated>2012-04-09T00:00:00-04:00</updated>
-		<id>/brunosan.eu/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues</id>
+		<id>/brunosan.es/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues</id>
 		<content type="html">&lt;p class=&quot;MsoNormal&quot;&gt;[&lt;a href=&quot;http://news.gain.org/post/19973678302/ewb-conference-heightens-awareness-to-adaptation-issues&quot;&gt;Cross posted at GAIN&lt;/a&gt;] Engineers will be among those on the front lines of adaptation. From improving the resilience of water pipes and energy transport systems to redesigning how entire urban areas are built, engineering firms will need to solve new challenges created by population growth, urbanization and climate change.&lt;/p&gt;
 
 

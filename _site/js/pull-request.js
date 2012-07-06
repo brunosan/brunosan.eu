@@ -1,8 +1,8 @@
 ////Idea taken from https://github.com/dfm
 ///https://raw.github.com/dfm/dfm.github.com/master/assets/comments.js
 
-var prose_url = "http://prose.io/#brunosan/brunosan.eu/gh-pages/_posts/";
-var github_url = "https://github.com/brunosan/brunosan.eu/edit/gh-pages/_posts/";
+var prose_url = "http://prose.io/#brunosan/brunosan.eu/master/_posts/";
+var github_url = "https://github.com/brunosan/brunosan.eu/edit/master/_posts/";
 
 $(function() {
 
