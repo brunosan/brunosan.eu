@@ -5,7 +5,7 @@ title: Feedback
 ##Feedback##
 Thanks for dropping by.
 
-There is a <a href="https://github.com/brunosan/brunosan.eu/issues/new"  target="_parent">list of Issues</a> I´m already aware.
+There is a <a href="https://github.com/brunosan/brunosan.eu/issues"  target="_parent">list of Issues</a> I´m already aware.
 
 Please <a href="https://github.com/brunosan/brunosan.eu/issues/new" target="_parent"> add yours</a> if something is broken on the site.
 
