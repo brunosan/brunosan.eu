@@ -1,4 +1,6 @@
 desc "publish updated site to gh-pages"
+#check _site exists
+
   task :deploy, [:commit_message]  do |t, args|
     if args.commit_message
       puts "Committing and pushing_site into gh-pages branch with message: #{args.commit_message}"
