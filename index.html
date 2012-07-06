@@ -7,7 +7,7 @@ change_frequency: daily
 priority: 1.0
 ---
 
-  {% for post in site.posts offset: 0 limit: 10 %}
+  {% for post in site.posts offset: 0 limit: 5 %}
 
   {% if post.external-url %}
   
@@ -26,7 +26,7 @@ priority: 1.0
       	<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <a class="perma" href="{{site.baseurl}}{{ post.url }}">∞</a></h2>
          {{ post.content | postmorefilter: post.url, "Read the rest of this entry" }}
         <time>{{ post.date | date_to_string }} •
-		<a id="pull-request-btn" class="btn" href="{{site.baseurl + post.url }}" data-date="{{ post.date | date: "%Y-%m-%d" }}" data-title="{{ post.url }}">
+		<a id="pull-request-btn" class="btn" href="{{site.baseurl + post.url }}" data-date="{{ post.date | date: "%Y-%m-%d" }}" data-title="{{ post.title }}">
 			            Send edit request
 			        </a><a href="/posts/jekyll-pull-requests-github">?</a></time>
     </div>
@@ -34,3 +34,6 @@ priority: 1.0
   {% endif %}
 
   {% endfor %}
+<h4 class="more">
+	<a href="{{site.baseurl}}/archives.html">MORE ARTICLES IN THE ARCHIVE →</a>
+</h4>

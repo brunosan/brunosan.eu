@@ -4,7 +4,7 @@ published: true
 type: post 
 tags: 
 - Science 
-title: Space X, Instagram and Angry Brids
+title: Space X, Instagram and Angry Birds
 --- 
 On the news, Space X probes wildly successful, and publishes [this text](http://www.spacex.com/usa.php), with blows like this one:
 >...
