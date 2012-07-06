@@ -1,4 +1,5 @@
 --- 
+filename: 2011-01-12-exactly-one-year-ago.md
 layout: post
 status: publish
 meta: 

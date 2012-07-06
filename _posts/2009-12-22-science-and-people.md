@@ -1,4 +1,5 @@
 --- 
+filename: 2009-12-22-science-and-people.md
 layout: post
 status: publish
 meta: 

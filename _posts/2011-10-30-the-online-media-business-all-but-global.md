@@ -1,4 +1,5 @@
 --- 
+filename: 2011-10-30-the-online-media-business-all-but-global.md
 layout: post
 status: publish
 meta: 

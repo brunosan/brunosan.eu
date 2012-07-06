@@ -1,4 +1,5 @@
 --- 
+filename: 2011-12-29-[idea]-nasa-outreach-made-by-kids.md
 layout: post
 status: draft
 meta: 

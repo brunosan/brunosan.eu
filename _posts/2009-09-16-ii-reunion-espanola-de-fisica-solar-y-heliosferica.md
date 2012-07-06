@@ -1,4 +1,5 @@
 --- 
+filename: 2009-09-16-ii-reunion-espanola-de-fisica-solar-y-heliosferica.md
 layout: post
 status: publish
 meta: 

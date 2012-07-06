@@ -1,4 +1,5 @@
 --- 
+filename: 2012-03-16-[idea]-a-unique-alias-id-system.md
 layout: post
 status: draft
 meta: 

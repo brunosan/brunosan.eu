@@ -1,4 +1,5 @@
 --- 
+filename: 2011-01-29-headaches-in-3d.md
 layout: post
 status: publish
 meta: 

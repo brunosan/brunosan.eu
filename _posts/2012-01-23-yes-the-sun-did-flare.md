@@ -1,4 +1,5 @@
 --- 
+filename: 2012-01-23-yes-the-sun-did-flare.md
 layout: post
 status: publish
 meta: 

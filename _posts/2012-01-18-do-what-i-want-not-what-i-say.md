@@ -1,4 +1,5 @@
 --- 
+filename: 2012-01-18-do-what-i-want-not-what-i-say.md
 layout: post
 status: publish
 meta: 

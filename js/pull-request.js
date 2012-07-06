@@ -8,8 +8,7 @@ $(function() {
 
     $("#pull-request-btn").click(function () {
         var data = $(this).data();
-        var path = data.title.split("/");
-        var url = github_url + data.date + "-" + path[path.length-1] + ".md";
+        var url = github_url + data.filename;
         window.location = url;
         return false;
     });

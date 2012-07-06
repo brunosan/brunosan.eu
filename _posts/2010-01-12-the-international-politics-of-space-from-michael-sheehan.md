@@ -1,4 +1,5 @@
 --- 
+filename: 2010-01-12-the-international-politics-of-space-from-michael-sheehan.md
 layout: post
 status: publish
 meta: 

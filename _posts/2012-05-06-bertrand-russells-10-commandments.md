@@ -1,4 +1,5 @@
 --- 
+filename: 2012-05-06-bertrand-russells-10-commandments.md
 layout: post
 status: publish
 meta: 

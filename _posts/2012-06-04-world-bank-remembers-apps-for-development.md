@@ -1,4 +1,5 @@
 --- 
+filename: 2012-06-04-world-bank-remembers-apps-for-development.md
 layout: post
 status: draft
 meta: 

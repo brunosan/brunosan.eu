@@ -1,4 +1,5 @@
 --- 
+filename: 2009-01-15-la-cope-%c2%bfinformando.md
 layout: post
 status: publish
 meta: 

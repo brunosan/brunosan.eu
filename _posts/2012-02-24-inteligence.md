@@ -1,4 +1,5 @@
 --- 
+filename: 2012-02-24-inteligence.md
 layout: post
 status: publish
 meta: 

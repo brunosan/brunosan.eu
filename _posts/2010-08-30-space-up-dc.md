@@ -1,4 +1,5 @@
 --- 
+filename: 2010-08-30-space-up-dc.md
 layout: post
 status: publish
 meta: 

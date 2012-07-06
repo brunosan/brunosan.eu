@@ -1,4 +1,5 @@
 --- 
+filename: 2006-09-06-cover-for-odern-solar-facilities-advanced-solar-science%e2%80%9d.md
 layout: post
 status: publish
 published: true

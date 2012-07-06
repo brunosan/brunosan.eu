@@ -22,7 +22,7 @@ layout: default
 	
   <p><time>{{ page.date | date: "%e" | ordinalize }} {{page.date | date: "%B"}} {{page.date | date: "%Y"}}
 •
-<a id="pull-request-btn" class="btn" href="#" data-date="{{ page.date | date: "%Y-%m-%d" }}" data-title="{{ page.title }}">
+<a id="pull-request-btn" class="btn" href="#" data-filename="{{ filename }}">
 	            Send edit request
 	        </a><a href="{{site.baseurl}}/2012/07/01/jekyll-pull-requests/">What is this?</a>
 	</time></p>

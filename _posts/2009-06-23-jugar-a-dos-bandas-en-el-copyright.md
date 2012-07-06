@@ -1,4 +1,5 @@
 --- 
+filename: 2009-06-23-jugar-a-dos-bandas-en-el-copyright.md
 layout: post
 status: publish
 meta: 

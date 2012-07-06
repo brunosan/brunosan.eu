@@ -1,4 +1,5 @@
 --- 
+filename: 2011-01-13-science-and-prosperity.md
 layout: post
 status: publish
 published: true

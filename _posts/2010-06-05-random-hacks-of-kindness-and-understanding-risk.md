@@ -1,4 +1,5 @@
 --- 
+filename: 2010-06-05-random-hacks-of-kindness-and-understanding-risk.md
 layout: post
 status: publish
 meta: 

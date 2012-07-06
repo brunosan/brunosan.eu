@@ -1,4 +1,5 @@
 --- 
+filename: 2011-04-15-communication.md
 layout: post
 status: publish
 meta: 

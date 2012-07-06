@@ -1,4 +1,5 @@
 --- 
+filename: 2012-05-18-case-study-for-an-invitation-system-using-google-apps-script.md
 layout: post
 status: publish
 published: true

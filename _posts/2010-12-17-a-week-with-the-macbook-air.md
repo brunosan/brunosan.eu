@@ -1,4 +1,5 @@
 --- 
+filename: 2010-12-17-a-week-with-the-macbook-air.md
 layout: post
 status: publish
 meta: 

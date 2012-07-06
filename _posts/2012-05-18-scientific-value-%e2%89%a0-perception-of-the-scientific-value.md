@@ -1,4 +1,5 @@
 --- 
+filename: 2012-05-18-scientific-value-%e2%89%a0-perception-of-the-scientific-value.md
 layout: post
 status: publish
 published: true

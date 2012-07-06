@@ -1,4 +1,5 @@
 --- 
+filename: 2008-12-19-solar-astronomy-at-the-international-year-of-astronomy-2009.md
 layout: post
 status: publish
 meta: 

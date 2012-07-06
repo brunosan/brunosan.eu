@@ -1,4 +1,5 @@
 --- 
+filename: 2008-08-02-cover-image-for-astronomy-astrophysics.md
 layout: post
 status: publish
 meta: 

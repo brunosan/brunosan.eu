@@ -1,4 +1,5 @@
 --- 
+filename: 2009-04-28-carta-abierta-a-los-políticos-científicos.md
 layout: post
 status: draft
 meta: 

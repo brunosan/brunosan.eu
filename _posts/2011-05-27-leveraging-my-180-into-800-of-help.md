@@ -1,4 +1,5 @@
 --- 
+filename: 2011-05-27-leveraging-my-180-into-800-of-help.md
 layout: post
 status: publish
 meta: 

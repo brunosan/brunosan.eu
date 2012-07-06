@@ -1,4 +1,5 @@
 --- 
+filename: 2009-12-02-manifiesto-%e2%80%9cen-defensa-de-los-derechos-fundamentales-en-internet%e2%80%9d.md
 layout: post
 status: publish
 meta: 

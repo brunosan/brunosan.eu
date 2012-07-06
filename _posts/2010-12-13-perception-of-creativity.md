@@ -1,4 +1,5 @@
 --- 
+filename: 2010-12-13-perception-of-creativity.md
 layout: post
 status: publish
 meta: 

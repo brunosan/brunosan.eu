@@ -1,4 +1,5 @@
 --- 
+filename: 2010-12-23-science-and-technology-advisor.md
 layout: post
 status: publish
 meta: 

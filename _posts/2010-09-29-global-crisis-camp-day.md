@@ -1,4 +1,5 @@
 --- 
+filename: 2010-09-29-global-crisis-camp-day.md
 layout: post
 status: publish
 meta: 

@@ -1,4 +1,5 @@
 --- 
+filename: 2009-01-13-paranoias.md
 layout: post
 status: publish
 meta: 

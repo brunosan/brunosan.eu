@@ -1,4 +1,5 @@
 --- 
+filename: 2011-07-08-best-moments-for-a-scientist.md
 layout: post
 status: publish
 meta: 

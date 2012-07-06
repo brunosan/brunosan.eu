@@ -1,4 +1,5 @@
 --- 
+filename: 2012-01-13-proactive-from-the-little-things-up.md
 layout: post
 status: publish
 meta: 

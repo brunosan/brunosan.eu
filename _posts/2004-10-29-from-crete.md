@@ -1,4 +1,5 @@
 --- 
+filename: 2004-10-29-from-crete.md
 layout: post
 status: publish
 meta: 

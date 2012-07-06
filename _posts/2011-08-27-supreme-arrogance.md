@@ -1,4 +1,5 @@
 --- 
+filename: 2011-08-27-supreme-arrogance.md
 layout: post
 status: publish
 meta: 

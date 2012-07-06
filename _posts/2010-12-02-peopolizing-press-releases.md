@@ -1,4 +1,5 @@
 --- 
+filename: 2010-12-02-peopolizing-press-releases.md
 layout: post
 status: publish
 published: true

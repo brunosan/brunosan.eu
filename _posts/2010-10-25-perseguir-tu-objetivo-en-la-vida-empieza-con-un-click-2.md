@@ -1,4 +1,5 @@
 --- 
+filename: 2010-10-25-perseguir-tu-objetivo-en-la-vida-empieza-con-un-click-2.md
 layout: post
 status: publish
 meta: 

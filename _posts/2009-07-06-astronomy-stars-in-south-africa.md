@@ -1,4 +1,5 @@
 --- 
+filename: 2009-07-06-astronomy-stars-in-south-africa.md
 layout: post
 status: publish
 meta: 

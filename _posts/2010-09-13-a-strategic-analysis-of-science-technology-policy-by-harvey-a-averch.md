@@ -1,4 +1,5 @@
 --- 
+filename: 2010-09-13-a-strategic-analysis-of-science-technology-policy-by-harvey-a-averch.md
 layout: post
 status: publish
 meta: 

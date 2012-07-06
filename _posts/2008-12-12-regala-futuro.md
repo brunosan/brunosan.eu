@@ -1,4 +1,5 @@
 --- 
+filename: 2008-12-12-regala-futuro.md
 layout: post
 status: publish
 meta: 

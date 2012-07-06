@@ -1,4 +1,5 @@
 --- 
+filename: 2010-01-16-help-haiti-crisis-camp-dc-for-haiti.md
 layout: post
 status: publish
 meta: 

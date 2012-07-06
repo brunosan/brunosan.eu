@@ -1,4 +1,5 @@
 --- 
+filename: 2010-01-28-reflexiones-personales-de-la-asamblea-del-psoe.md
 layout: post
 status: publish
 meta: 

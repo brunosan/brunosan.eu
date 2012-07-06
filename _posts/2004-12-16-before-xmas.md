@@ -1,4 +1,5 @@
 --- 
+filename: 2004-12-16-before-xmas.md
 layout: post
 status: publish
 published: true

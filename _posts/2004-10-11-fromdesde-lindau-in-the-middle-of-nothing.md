@@ -1,4 +1,5 @@
 --- 
+filename: 2004-10-11-fromdesde-lindau-in-the-middle-of-nothing.md
 layout: post
 status: publish
 published: true

@@ -1,4 +1,5 @@
 --- 
+filename: 2008-09-16-bruno-astronauta.md
 layout: post
 status: publish
 meta: 

@@ -1,4 +1,5 @@
 --- 
+filename: 2010-03-01-logics-and-religious-people.md
 layout: post
 status: publish
 meta: 

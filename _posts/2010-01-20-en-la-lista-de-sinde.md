@@ -1,4 +1,5 @@
 --- 
+filename: 2010-01-20-en-la-lista-de-sinde.md
 layout: post
 status: publish
 meta: 

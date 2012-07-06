@@ -1,4 +1,5 @@
 --- 
+filename: 2010-07-02-science-technology-policy-fellow.md
 layout: post
 status: publish
 meta: 

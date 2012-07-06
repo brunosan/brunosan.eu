@@ -1,4 +1,5 @@
 --- 
+filename: 2010-11-27-idea-guess-action-button.md
 layout: post
 status: publish
 meta: 

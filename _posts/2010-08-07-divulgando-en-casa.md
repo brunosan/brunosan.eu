@@ -1,4 +1,5 @@
 --- 
+filename: 2010-08-07-divulgando-en-casa.md
 layout: post
 status: publish
 meta: 

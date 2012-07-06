@@ -1,4 +1,5 @@
 --- 
+filename: 2012-01-09-[idea]-cafe-desgraciado.md
 layout: post
 status: draft
 meta: 

@@ -1,4 +1,5 @@
 --- 
+filename: 2011-01-30-you-can%c2%b4t-outsource-your-unknown-unknowns.md
 layout: post
 status: publish
 meta: 

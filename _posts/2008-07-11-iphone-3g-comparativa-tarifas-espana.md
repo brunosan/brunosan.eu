@@ -1,4 +1,5 @@
 --- 
+filename: 2008-07-11-iphone-3g-comparativa-tarifas-espana.md
 layout: post
 status: publish
 published: true

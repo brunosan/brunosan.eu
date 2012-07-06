@@ -1,4 +1,5 @@
 --- 
+filename: 2009-05-24-compromiso-asturias-xxicompromiso-asturias-xxi.md
 layout: post
 status: publish
 meta: 

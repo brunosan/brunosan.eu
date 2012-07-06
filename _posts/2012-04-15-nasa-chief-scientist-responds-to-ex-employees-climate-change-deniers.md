@@ -1,4 +1,5 @@
 --- 
+filename: 2012-04-15-nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers.md
 layout: post
 status: publish
 meta: 

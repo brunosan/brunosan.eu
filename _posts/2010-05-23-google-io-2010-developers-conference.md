@@ -1,4 +1,5 @@
 --- 
+filename: 2010-05-23-google-io-2010-developers-conference.md
 layout: post
 status: publish
 meta: 

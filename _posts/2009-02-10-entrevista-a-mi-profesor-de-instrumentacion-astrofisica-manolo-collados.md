@@ -1,4 +1,5 @@
 --- 
+filename: 2009-02-10-entrevista-a-mi-profesor-de-instrumentacion-astrofisica-manolo-collados.md
 layout: post
 status: publish
 meta: 

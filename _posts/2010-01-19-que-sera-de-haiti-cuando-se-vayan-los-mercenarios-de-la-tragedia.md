@@ -1,4 +1,5 @@
 --- 
+filename: 2010-01-19-que-sera-de-haiti-cuando-se-vayan-los-mercenarios-de-la-tragedia.md
 layout: post
 status: publish
 meta: 

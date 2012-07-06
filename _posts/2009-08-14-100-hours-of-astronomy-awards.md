@@ -1,4 +1,5 @@
 --- 
+filename: 2009-08-14-100-hours-of-astronomy-awards.md
 layout: post
 status: publish
 meta: 

@@ -1,4 +1,5 @@
 --- 
+filename: 2010-10-16-earth-observations-from-space.md
 layout: post
 status: publish
 meta: 

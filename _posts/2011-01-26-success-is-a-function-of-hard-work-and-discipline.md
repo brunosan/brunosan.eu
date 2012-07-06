@@ -1,4 +1,5 @@
 --- 
+filename: 2011-01-26-success-is-a-function-of-hard-work-and-discipline.md
 layout: post
 status: publish
 meta: 

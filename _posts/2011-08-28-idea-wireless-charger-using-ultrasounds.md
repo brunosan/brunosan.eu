@@ -1,4 +1,5 @@
 --- 
+filename: 2011-08-28-idea-wireless-charger-using-ultrasounds.md
 layout: post
 status: publish
 meta: 

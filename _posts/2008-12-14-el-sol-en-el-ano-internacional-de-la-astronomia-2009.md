@@ -1,4 +1,5 @@
 --- 
+filename: 2008-12-14-el-sol-en-el-ano-internacional-de-la-astronomia-2009.md
 layout: post
 status: publish
 meta: 

@@ -1,4 +1,5 @@
 --- 
+filename: 2008-06-10-mail-to-post.md
 layout: post
 status: publish
 published: true

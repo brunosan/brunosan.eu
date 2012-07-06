@@ -1,4 +1,5 @@
 --- 
+filename: 2004-09-16-still-more-news.md
 layout: post
 status: publish
 published: true

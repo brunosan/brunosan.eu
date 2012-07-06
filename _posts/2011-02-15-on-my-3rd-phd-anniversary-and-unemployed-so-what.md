@@ -1,4 +1,5 @@
 --- 
+filename: 2011-02-15-on-my-3rd-phd-anniversary-and-unemployed-so-what.md
 layout: post
 status: publish
 meta: 

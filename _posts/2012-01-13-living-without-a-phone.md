@@ -1,4 +1,5 @@
 --- 
+filename: 2012-01-13-living-without-a-phone.md
 layout: post
 status: draft
 meta: 

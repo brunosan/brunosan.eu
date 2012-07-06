@@ -1,4 +1,5 @@
 --- 
+filename: 2011-10-22-human-confession.md
 layout: post
 status: draft
 meta: 
