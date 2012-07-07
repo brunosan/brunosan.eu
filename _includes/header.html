@@ -3,6 +3,8 @@
 
 {% assign base = site.baseurl %}
 {% assign canonical = base + page.url | remove_first:'/' | remove_first: 'index.html' %}
+{% assign pullrequesturl = "https://github.com/brunosan/brunosan.eu/edit/master/_posts/" %}
+<!-- Alternative for prose when ready "http://prose.io/#brunosan/brunosan.eu/master/_posts/" %} -->
 
 <head>
 	<link rel="canonical" href="{{canonical}}" />
@@ -23,7 +25,6 @@
 	<!-- JQuery -->
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script type="text/javascript" src="{{site.baseurl}}/js/footnote-popup.js"></script>
-	<script type="text/javascript" src="{{site.baseurl}}/js/pull-request.js"></script>
 	<script type="text/javascript" src="{{site.baseurl}}/js/tinybox.js"></script>
    <!-- Google Analytics -->
    <script type="text/javascript">

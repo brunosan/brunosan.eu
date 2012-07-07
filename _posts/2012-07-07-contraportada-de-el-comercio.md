@@ -5,7 +5,7 @@ status: draft
 tags:
 - 
 ---
-<a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html"><img class="aligncenter size-full wp-image-2484" title="Screen Shot 2012-07-07 at 10.44.04" src="http://nasonurb.files.wordpress.com/2012/07/screen-shot-2012-07-07-at-10-44-04.png" alt="" width="640" height="212" /></a>
+<a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html"><img class="aligncenter size-full wp-image-2484" title="Screen Shot 2012-07-07 at 10.44.04" src="{{site.baseurl}}/media/contraportadaelcomercio.png" alt="" width="640" height="212" /></a>
 
 Hoy Salgo en la <a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html">contraportada del Periódico asturiano El Comercio</a>. Hace unos días una periodísta, Marifé Antuña, me contacto al ver una reposición de "Asturianos en el Mundo" donde salgo y me preguntó si podía entrevistarme.
 
