@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contraportada de El Comercio
-status: draft
+status: publish
 tags:
 - 
 ---
