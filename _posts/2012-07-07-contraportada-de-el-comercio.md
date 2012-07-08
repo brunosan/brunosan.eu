@@ -73,3 +73,5 @@ Siempre hay muchos lugares donde me gustaría perderme un par de días, pero no 
 Se echa de menos la gente, los lugares, la forma de ser de la gente, los paseos por la ciudad y por la montaña. Toda madre piensa que su hijo es el más guapo, y todos pensamos que el lugar de donde somos es muy bonito. Pero con Asturias, es más que eso, todo el mundo al que he llevado lo dice, vivimos en lugar naturalmente privilegiado. Hay poco sol y llueve mucho pero, como dice Dark la eMe, es lo que tiene que sea verde.
 
 ¿Qué desterrar? Somos una región que ha sufrido mucho laboralmente. Nos hace fuertes y más unidos, pero a veces parece que a uno le entra un nubarrón encima de la cabeza. A veces nos faltan ganas de empezar proyectos, ilusión y perseverancia profesional. Creo que debemos amar nuestra tierra, pero ampliar esos regionalismos y ser un poco más orgullosos de ser españoles, fuera de ideologías o partidos. En fútbol lo podemos hacer, ¿por qué no en otros ámbitos?
+
+<a href="{{site.baseurl}}/media/contraportadaelcomercio2.jpg"><img class="aligncenter size-full wp-image-2484" src="{{site.baseurl}}/media/contraportadaelcomercio2.jpg" alt="" width="100%" /></a>

@@ -14,7 +14,7 @@ priority: 1.0
       	<h2><a href="{{ post.external-url }}">{{ post.title }}</a> → </h2>
         {{ post.content }}
         <time>{{ post.date | date_to_string }} •
-		<a id="pull-request-btn" class="btn" href="{{pullrequesturl + post.filename  }}" >
+		<a id="pull-request-btn" class="btn" href="{{site.pullrequesturl}}{{ post.filename  }}" >
 			            Send edit request
 			        </a><a href="{{site.baseurl}}/posts/2012/07/01/jekyll-pull-requests/">What is this?</a>
 			</time></p>
@@ -25,7 +25,7 @@ priority: 1.0
       	<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <a class="perma" href="{{site.baseurl}}{{ post.url }}">∞</a></h2>
          {{ post.content | postmorefilter: post.url, "Read the rest of this entry" }}
         <time>{{ post.date | date_to_string }} •
-		<a id="pull-request-btn" class="btn" href="{{site.baseurl + post.filename  }}" >
+		<a id="pull-request-btn" class="btn" href="{{site.pullrequesturl}}{{ post.filename  }}" >
 			            Send edit request
 			        </a><a href="{{site.baseurl}}/2012/07/01/jekyll-pull-requests/">What is this?</a></time>
     </div>
