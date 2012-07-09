@@ -2,16 +2,6 @@
 filename: 2010-12-09-101-days-as-science-and-technology-policy-fellow.md
 layout: post
 status: publish
-meta: 
-  geo_accuracy: "0"
-  tagazine-media: a:7:{s:7:"primary";s:56:"http://nasonurb.files.wordpress.com/2010/12/unknown.jpeg";s:6:"images";a:3:{s:56:"http://nasonurb.files.wordpress.com/2010/12/unknown.jpeg";a:6:{s:8:"file_url";s:56:"http://nasonurb.files.wordpress.com/2010/12/unknown.jpeg";s:5:"width";s:4:"2639";s:6:"height";s:4:"1760";s:4:"type";s:5:"image";s:4:"area";s:7:"4644640";s:9:"file_path";s:0:"";}s:53:"http://nasonurb.files.wordpress.com/2010/12/heads.jpg";a:6:{s:8:"file_url";s:53:"http://nasonurb.files.wordpress.com/2010/12/heads.jpg";s:5:"width";s:4:"2353";s:6:"height";s:3:"580";s:4:"type";s:5:"image";s:4:"area";s:7:"1364740";s:9:"file_path";s:0:"";}s:57:"http://nasonurb.files.wordpress.com/2010/07/picture-1.png";a:6:{s:8:"file_url";s:57:"http://nasonurb.files.wordpress.com/2010/07/picture-1.png";s:5:"width";s:3:"700";s:6:"height";s:2:"87";s:4:"type";s:5:"image";s:4:"area";s:5:"60900";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"6";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2010-12-23 17:49:46";}
-  geo_public: "1"
-  geo_address: 425 P St NW, Washington, DC 20001, USA
-  geo_longitude: "-77.018000"
-  _wp_old_slug: ""
-  geo_latitude: "38.910000"
-  jabber_published: "1291912345"
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
@@ -42,7 +32,8 @@ Some random selection of things I´ve done during these great 101 days include:
 	<li>Attend open and closed sessions, committee meetings,  briefings,  Congress hearings. Visit the Senate and House chambers, the<em> White House</em>, and many other institutions and NGO that organize zillions of events in science and technology policy. DC is <em>the </em>city for this.</li>
 	<li>Meet and chat with two astronauts: <a href="http://en.wikipedia.org/wiki/James_A._Pawelczyk" target="_blank">James_A._Pawelczyk </a>and <a href="http://en.wikipedia.org/wiki/Ken_Bowersox" target="_blank">Ken_Bowersox</a>. They are really nice people. Talking to them I could not help it but remember that I once <a href="http://brunosan.blogspot.com/2008/09/bruno-astronauta.html">tried that path</a>. Also with an astronomy celebrity (star?) from my childhood. The astrophysicist on the 'Space' video series from the 90s: <a href="http://en.wikipedia.org/wiki/Gregory_Benford" target="_blank">Gregory_Benford</a>.</li>
 	<li>Attend dozens of sessions about extremely interesting topics and reports. Among them: Learning how to communicate controversial science, Science and creationism, The state of forensic science, the impact of the new Congress after the elections, Engineers without Borders, GBEC meetings or a TSA briefing about airport screenings, the role of Science advisory in developing countries...</li>
-	<li>Get to read tons of <a href="http://www.flickr.com/photos/nasonurb/5037575464/">reports </a>on a wild variety of topics. I made some <a href="http://brunosan.eu/category/science/">posts </a>about them here in my blog.<img class="aligncenter" src="http://farm5.static.flickr.com/4138/5037575464_38703d5c5b.jpg" alt="Cursed with endless curiosity. #lovemyjob #nas" width="240" height="180" /></li>
+	<li>Get to read tons of <a href="http://www.flickr.com/photos/nasonurb/5037575464/">reports </a>on a wild variety of topics. I made some <a href="http://brunosan.eu/category/science/">posts </a>about them here in my blog.</li>
+	<img class="aligncenter" src="http://farm5.static.flickr.com/4138/5037575464_38703d5c5b.jpg" alt="Cursed with endless curiosity. #lovemyjob #nas" width="240" height="180" />
 	<li>A totally unexpected, but very much welcomed, visit to <a href="http://www.flickr.com/photos/nasonurb/sets/72157625359251768/">Space X</a>.</li>
 	<li>The opportunity to learn and write a white paper about <a href="http://brunosan.eu/2010/10/28/crowdsourcing-development/">'Crowdsourcing Development</a>', and '<a href="http://brunosan.eu/2010/11/29/user-generated-content-overview-of-policy-needs/">User Generated Content</a>'. An new approach to manage complex information that is just unleashing.</li>
 </ul>
