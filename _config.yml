@@ -3,11 +3,11 @@ safe: false
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title/
-exclude: ["wordpress", "Rakefile", "README.md", "_template.md", "new.rb", "add-filenames-to-posts.sh"]   
+exclude: ["wordpress", "Rakefile", "README.md", "_template.md", "new.rb", "add-filenames-to-posts.sh"]
 multivews: true
 
 name: Tagline
-baseurl:       /brunosan.eu
+baseurl:       /
 description:    "Tag line"
 root_desc:      "Brunosan"
 
