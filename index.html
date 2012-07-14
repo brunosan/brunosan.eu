@@ -22,7 +22,7 @@ priority: 1.0
   
   {% else %}
     <div id="entry-post">
-      	<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <a class="perma" href="{{site.baseurl}}{{ post.url }}">∞</a></h2>
+      	<h2><a href="http://brunosan.eu/{{ post.url }}">{{ post.title }}</a> <a class="perma" href="http://brunosan.eu/{{ post.url }}">∞</a></h2>
          {{ post.content | postmorefilter: post.url, "Read the rest of this entry" }}
         <time>{{ post.date | date_to_string }} •
 		<a id="pull-request-btn" class="btn" href="{{site.pullrequesturl}}{{ post.filename  }}" >
