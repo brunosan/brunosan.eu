@@ -20,7 +20,7 @@ tags:
 - web
 title: Peopolizing press releases
 ---
-<a href="http://brunosan.eu/media/untitled1.jpg"><img class="aligncenter" title="untitled" src="http://nasonurb.files.wordpress.com/2010/12/untitled1.jpg" alt="" width="500" height="231" /></a>
+<a href="{{site.baseurl}}media/untitled1.jpg"><img class="aligncenter" title="untitled" src="http://nasonurb.files.wordpress.com/2010/12/untitled1.jpg" alt="" width="500" height="231" /></a>
 
 This is a screenshot of the NASA press release today about astrobiology. It clearly depicts the direction [Science] outreach should go.
 

@@ -34,7 +34,7 @@ The main part of the event were focus groups to brainstorm about ideas and about
 <p style="text-align:center;"><a href="http://nasonurb.files.wordpress.com/2012/01/logo-apps-for-climate-compact-bw.png"><img class="size-full wp-image-2185 aligncenter" title="logo-apps-for-climate-compact-bw" src="http://nasonurb.files.wordpress.com/2012/01/logo-apps-for-climate-compact-bw.png" alt="" width="221" height="131" /></a></p>
 
 <ol>
-	<li>"<strong>Gap Finder</strong>". The Bank has a massive amount of data. But, do we know all we ought to address climate change rightfully? Where are the gaps? There are obviously things we don´t know we don´t know, but there are many <em>we know we don´t know</em>.  The app would poinpoint/rank/visualize these and perhaps try to fill this gaps with proxy data, <a href="http://brunosan.eu/2010/10/28/crowdsourcing-development/">crowdourcing</a> or advocate to contact those responsible to fill them.</li>
+	<li>"<strong>Gap Finder</strong>". The Bank has a massive amount of data. But, do we know all we ought to address climate change rightfully? Where are the gaps? There are obviously things we don´t know we don´t know, but there are many <em>we know we don´t know</em>.  The app would poinpoint/rank/visualize these and perhaps try to fill this gaps with proxy data, <a href="{{site.baseurl}}2010/10/28/crowdsourcing-development/">crowdourcing</a> or advocate to contact those responsible to fill them.</li>
 	<li>"<strong>So What</strong>". This is an app thinking from the<em> point of view of average citizen</em>, not researchers, govs or NGOs. What should the average person know about climate change. In general and in particular around a topic or a place.</li>
 	<li>"<strong>Climate Birds</strong>". The idea here is to leverage <em>highly motivated specialized groups</em> of people. For example bird watchers. There is a huge outcome if we can find a way to articulate their motivation towards addressing climate change. To increase awareness, to crowdsource data gathering or data verification... Say an app to report location and volume of migratory species, or an app to monitor nesting behavior and match or correlate them to available relevant data.</li>
 	<li>"<strong>Climate UI</strong>". An app to weed out non relevant data for your purposes. There are thousands of indicators, countries, years, models, options, documents, ... Figuring out which ones are relevant for you, and gathering them is in itself a non-trivial task. An app to help select and provide guidance in this regard would be certainly helpful. Something like <a href="http://archive.eso.org/cms/tools-documentation/visual-archive-browser">VirGo</a> or <a href="http://simbad.u-strasbg.fr/simbad/">Simbad</a> in Astronomy, but for climate.</li>
@@ -55,7 +55,7 @@ As you can see, and it was specifically mentioned on the meeting, apps can be of
 	<li>Tools for technical users: To make your life easy to select, download, upload or mine the data.</li>
 	<li>Awareness/Advocacy for the general audience: Quizzes, Games, Calculators.</li>
 	<li>Mashups: Combine several sources to discover new outcomes.</li>
-	<li><a href="http://brunosan.eu/2010/10/28/crowdsourcing-development/">Crowdsourcing</a>: Leverage the audience to provide input, not only to consume the output.</li>
+	<li><a href="{{site.baseurl}}2010/10/28/crowdsourcing-development/">Crowdsourcing</a>: Leverage the audience to provide input, not only to consume the output.</li>
 	<li>Portals: Index and categorize available data or projects.</li>
 </ul>
 Good luck!

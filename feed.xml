@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title type="text" xml:lang="en">{{ site.root_desc }}</title>
-	<link type="application/atom+xml" href="http://brunosan.eu/feed/" rel="self"/>
- 	<link type="text" href="http://brunosan.eu/" rel="alternate"/>
+	<link type="application/atom+xml" href="{{site.baseurl}}feed/" rel="self"/>
+ 	<link type="text" href="{{site.baseurl}}" rel="alternate"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://brunosan.eu/</id>
+	<id>{{site.baseurl}}</id>
 	<author>
 		<name>Jason Heppler</name>
 	</author>
@@ -17,9 +17,9 @@ layout: nil
 	{% for post in site.posts limit:10 %}
 	<entry>
 		<title>{{ post.title }}</title>
-		<link href="http://brunosan.eu/{{ post.url }}"/>
+		<link href="{{site.baseurl}}{{ post.url }}"/>
 		<updated>{{ post.date | date_to_xmlschema }}</updated>
-		<id>http://brunosan.eu/{{ post.id }}</id>
+		<id>{{site.baseurl}}{{ post.id }}</id>
 		<content type="html">{{ post.content | xml_escape }}</content>
 	</entry>
 	{% endfor %}

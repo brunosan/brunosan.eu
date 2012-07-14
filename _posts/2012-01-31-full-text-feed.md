@@ -21,7 +21,7 @@ tags:
 - Science
 title: Full text feed
 ---
-For those following the blog via RSS <a href="http://brunosan.eu/feed/">feed</a> (Google Reader, ... ).
+For those following the blog via RSS <a href="{{site.baseurl}}feed/">feed</a> (Google Reader, ... ).
 
 <em>You can see now the whole text in the feed.</em>
 

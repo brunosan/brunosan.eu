@@ -24,7 +24,7 @@ layout: default
 •
 <a id="pull-request-btn" class="btn" href="{{ site.pullrequesturl }}{{ post.filename  }}">
 	            Send edit request
-	        </a><a href="http://brunosan.eu/2012/07/01/jekyll-pull-requests/">What is this?</a>
+	        </a><a href="{{site.baseurl}}2012/07/01/jekyll-pull-requests/">What is this?</a>
 	</time></p>
 	
 
@@ -32,7 +32,7 @@ layout: default
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'brunosan'; // required: replace example with your forum shortname
-    var disqus_url = 'http://brunosan.eu/{{ page.url }}';
+    var disqus_url = '{{site.baseurl}}{{ page.url }}';
     //var disqus_developer = 1; // developer mode is on
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
@@ -52,7 +52,7 @@ layout: default
   {% for related in site.related_posts limit:5 %}
     <div class="related-post">
       <div class="title">
-        <a href="http://brunosan.eu/{{ related.url }}/" target="_top">
+        <a href="{{ related.url }}/" target="_top">
           {{ related.title }}
         </a>
       </div>
@@ -62,7 +62,7 @@ layout: default
 </div>
 
 <h4 class="more">
-	<a href="http://brunosan.eu/archives.html">MORE ARTICLES IN THE ARCHIVE →</a>
+	<a href="{{site.baseurl}}archives.html">MORE ARTICLES IN THE ARCHIVE →</a>
 </h4>
 
 
