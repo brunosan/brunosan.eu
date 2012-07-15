@@ -209,7 +209,8 @@ BUTTONS
 
 .share-links li {
    float: left;
-   display: block;
+   display: inline-block;
+   vertical-align:middle;
    padding: 7px;
    height: 21px;
 }
