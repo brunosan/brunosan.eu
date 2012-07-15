@@ -1,4 +1,5 @@
 ---
+filename: about/index.md
 layout: default
 title: About
 redirects:
