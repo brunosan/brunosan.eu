@@ -29,7 +29,10 @@ layout: default
 	
         <div class='button share-links'>
           <ul>
-            <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="my url goes here" data-text="my title goes here" data-count="none">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+            <li><a href="https://twitter.com/share"
+              class="twitter-share-button"
+              data-url="{{site.baseurl}}{{post.url}}"
+              data-text="{{post.title}}: {{site.baseurl}}{{post.url}} " data-count="none">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
             <li><div class="fb-like" data-width="0" data-href="{{site.baseurl}}{{post.url}}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div>
             <li><g:plusone annotation="none" size="medium" href="{{site.baseurl}}{{post.url}}"></g:plusone>
           </ul>
