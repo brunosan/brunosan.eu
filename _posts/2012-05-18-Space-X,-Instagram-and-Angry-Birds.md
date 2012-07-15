@@ -1,5 +1,5 @@
 --- 
-filename: 2012-05-18-Space-X,-Instagram-and-Angry-Birds.md
+filename: 2012-05-18-Space-X-Instagram-and-Angry-Birds.md
 layout: post  
 published: true 
 type: post 
