@@ -200,6 +200,22 @@ BUTTONS
 
 
 
+
+.share-links {
+   overflow:hidden;
+   width:auto;
+   text-indent: 0;
+}
+
+.share-links li {
+   float: left;
+   display: block;
+   padding: 7px;
+   height: 21px;
+}
+
+
+
 /*
 LINKS
 */
