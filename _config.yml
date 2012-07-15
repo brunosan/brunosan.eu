@@ -15,3 +15,5 @@ rdiscount:
     extensions: [smart]
 
 pullrequesturl : "https://github.com/brunosan/brunosan.eu/edit/master/_posts/"
+
+redirects: yes
