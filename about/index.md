@@ -1,16 +1,19 @@
 ---
+filename: about/index.md
 layout: default
 title: About
+redirects:
+- about-2/
 ---
-<a title="Death Valley by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/4637385431/"><img class="aligncenter" src="{{site.baseurl}}/media/death-valley.jpeg" alt="IMG_4132" width="100%" /></a>
+<a title="Death Valley by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/4637385431/"><img class="aligncenter" src="{{site.baseurl}}media/death-valley.jpeg" alt="IMG_4132" width="100%" /></a>
 
 Content of this site serve to reach out and share my interests. Thanks for stopping by. Please take a look to the <a href="http://home.brunosan.eu/contact/license/">Licensing</a>. It basically says that I am the sole responsible for the original content of this webpage, and that you can freely use its contents under the Creative Commons Attribution License.
 
 I´m mostly interested in bridging the gaps between **Science, Technology and Society**. I´m fascinated by new technologies that empowers society, development, sustainability or crisis response. 
 
-I´m a **scientist** with research experience. I have a [PhD]({{site.baseurl}}/brunosan.eu/2008/11/13/phd/) in Astrophysics. I´ve used some of the [best]({{site.baseurl}}/2008/07/20/ultimo-dia-en-la-vtt/) ground telescopes of the world. I also did a [Postdoc](#) with NASA satellites and rockets. I´ve always loved science [outreach]({{site.baseurl}}/tags/Outreach/). This is why I jumped the opportunity to help bring S&T closer to society when I was offered a [Mirzayan]({{site.baseurl}}/2010/12/09/101-days-as-science-and-technology-policy-fellow/) Fellowship at the National Academies of Sciences in 2010.
+I´m a **scientist** with research experience. I have a [PhD]({{site.baseurl}}brunosan.eu/2008/11/13/phd/) in Astrophysics. I´ve used some of the [best]({{site.baseurl}}2008/07/20/ultimo-dia-en-la-vtt/) ground telescopes of the world. I also did a [Postdoc](#) with NASA satellites and rockets. I´ve always loved science [outreach]({{site.baseurl}}tags/Outreach/). This is why I jumped the opportunity to help bring S&T closer to society when I was offered a [Mirzayan]({{site.baseurl}}2010/12/09/101-days-as-science-and-technology-policy-fellow/) Fellowship at the National Academies of Sciences in 2010.
 
-[Coding](https://github.com/brunosan) goes hand to hand with S&T. I´m an open-source open-data advocate, and I´m continuously trying to improve as a **developer**. Very honored to be finalist at the ["Apps for Development"]({{site.baseurl}}/2011/06/07/know-your-world-says-thank-you/) World Bank competition.
+[Coding](https://github.com/brunosan) goes hand to hand with S&T. I´m an open-source open-data advocate, and I´m continuously trying to improve as a **developer**. Very honored to be finalist at the ["Apps for Development"]({{site.baseurl}}2011/06/07/know-your-world-says-thank-you/) World Bank competition.
 
 My current challenge is [climate change adaptation](#) and creating an open data open source metric. This is what I do at the NGO Gain as the [Director](http://gain.org/team/bruno-sanchez-andrade-nuno/) for Science and Technology.
 

@@ -16,23 +16,23 @@ priority: 1.0
         <time>{{ post.date | date_to_string }} •
 		<a id="pull-request-btn" class="btn" href="{{site.pullrequesturl}}{{ post.filename  }}" >
 			            Send edit request
-			        </a><a href="{{site.baseurl}}/posts/2012/07/01/jekyll-pull-requests/">What is this?</a>
+			        </a><a href="{{site.baseurl}}posts/2012/07/01/jekyll-pull-requests/">What is this?</a>
 			</time></p>
     </div>
   
   {% else %}
     <div id="entry-post">
-      	<h2><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a> <a class="perma" href="{{site.baseurl}}{{ post.url }}">∞</a></h2>
+      	<h2><a href="{{ post.url }}">{{ post.title }}</a> <a class="perma" href="{{site.baseurl}}{{ post.url }}">∞</a></h2>
          {{ post.content | postmorefilter: post.url, "Read the rest of this entry" }}
         <time>{{ post.date | date_to_string }} •
 		<a id="pull-request-btn" class="btn" href="{{site.pullrequesturl}}{{ post.filename  }}" >
 			            Send edit request
-			        </a><a href="{{site.baseurl}}/2012/07/01/jekyll-pull-requests/">What is this?</a></time>
+			        </a><a href="{{site.baseurl}}2012/07/01/jekyll-pull-requests/">What is this?</a></time>
     </div>
   
   {% endif %}
 
   {% endfor %}
 <h4 class="more">
-	<a href="{{site.baseurl}}/archives.html">MORE ARTICLES IN THE ARCHIVE →</a>
+	<a href="{{site.baseurl}}archives.html">MORE ARTICLES IN THE ARCHIVE →</a>
 </h4>

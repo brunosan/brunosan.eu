@@ -5,7 +5,7 @@ status: publish
 tags:
 - 
 ---
-<a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html"><img class="aligncenter size-full wp-image-2484" title="Screen Shot 2012-07-07 at 10.44.04" src="{{site.baseurl}}/media/contraportadaelcomercio.png" alt="" width="640" height="212" /></a>
+<a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html"><img class="aligncenter size-full wp-image-2484" title="Screen Shot 2012-07-07 at 10.44.04" src="{{site.baseurl}}media/contraportadaelcomercio.png" alt="" width="640" height="212" /></a>
 
 Hoy Salgo en la <a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html">contraportada del Periódico asturiano El Comercio</a>. Hace unos días una periodísta, Marifé Antuña, me contacto al ver una reposición de "Asturianos en el Mundo" donde salgo y me preguntó si podía entrevistarme.
 
@@ -74,4 +74,4 @@ Se echa de menos la gente, los lugares, la forma de ser de la gente, los paseos 
 
 ¿Qué desterrar? Somos una región que ha sufrido mucho laboralmente. Nos hace fuertes y más unidos, pero a veces parece que a uno le entra un nubarrón encima de la cabeza. A veces nos faltan ganas de empezar proyectos, ilusión y perseverancia profesional. Creo que debemos amar nuestra tierra, pero ampliar esos regionalismos y ser un poco más orgullosos de ser españoles, fuera de ideologías o partidos. En fútbol lo podemos hacer, ¿por qué no en otros ámbitos?
 
-<a href="{{site.baseurl}}/media/contraportadaelcomercio2.jpg"><img class="aligncenter size-full wp-image-2484" src="{{site.baseurl}}/media/contraportadaelcomercio2.jpg" alt="" width="100%" /></a>
+<a href="{{site.baseurl}}media/contraportadaelcomercio2.jpg"><img class="aligncenter size-full wp-image-2484" src="{{site.baseurl}}media/contraportadaelcomercio2.jpg" alt="" width="100%" /></a>

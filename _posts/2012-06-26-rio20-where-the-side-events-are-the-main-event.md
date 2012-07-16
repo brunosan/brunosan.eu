@@ -43,7 +43,7 @@ tags:
 Claudio Szlafsztein, PhD (<a href="http://gain.org/team/claudio-szlafsztein/">GAIN Council of scientific advisors</a>)</p>
 -------
 
-I also wrote another post about the  <a href="http://brunosan.eu/2012/06/24/logistics-and-rio20/">logistics of the conference and traffic</a>; and here some of my <a href="http://www.flickr.com/photos/nasonurb/sets/72157630255506528/with/7428189938/">pictures of Rio+20 from Flickr</a>.
+I also wrote another post about the  <a href="{{site.baseurl}}2012/06/24/logistics-and-rio20/">logistics of the conference and traffic</a>; and here some of my <a href="http://www.flickr.com/photos/nasonurb/sets/72157630255506528/with/7428189938/">pictures of Rio+20 from Flickr</a>.
 
 [caption id="" align="aligncenter" width="179"]<a title="Credential by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/7428190608/"><img src="http://farm6.staticflickr.com/5455/7428190608_2e2f3d5990.jpg" alt="Credential" width="179" height="300" /></a> Credential to enter the UN conference[/caption]
 <p style="text-align: center;"></p>

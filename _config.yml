@@ -1,13 +1,13 @@
-lsi: false
+lsi: true
 safe: false
 markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title/
-exclude: ["legacy-imports", "Rakefile", "README.md", "_template.md", "new.rb", "add-filenames-to-posts.sh"]   
+exclude: ["legacy-imports", "Rakefile", "README.md", "_template.md", "new.rb", "add-filenames-to-posts.sh"]
 multivews: true
 
 name: Tagline
-baseurl:       /brunosan.eu
+baseurl:      http://brunosan.eu/
 description:    "Tag line"
 root_desc:      "Brunosan"
 
@@ -15,3 +15,5 @@ rdiscount:
     extensions: [smart]
 
 pullrequesturl : "https://github.com/brunosan/brunosan.eu/edit/master/_posts/"
+
+redirects: yes

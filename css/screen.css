@@ -159,6 +159,8 @@ a:hover.perma {
 }
 
 
+
+
 /*
 BUTTONS
 */
@@ -200,6 +202,23 @@ BUTTONS
 
 
 
+
+.share-links {
+   overflow:hidden;
+   width:auto;
+   text-indent: 0;
+}
+
+.share-links li {
+   float: left;
+   display: inline-block;
+   vertical-align:middle;
+   padding: 7px;
+   height: 21px;
+}
+
+
+
 /*
 LINKS
 */
@@ -218,9 +237,13 @@ a:hover {
     text-decoration: none;
 }
 
+
+
+
 /*
 HEADER
 */
+
 
 h1, h2, h3, h4, h5 {
   font-weight: 700;
@@ -484,6 +507,26 @@ footer a:hover {
 .tclose {position:absolute; top:0px; right:0px; width:30px; height:30px; cursor:pointer; background:url(../media/close.png) no-repeat}
 .tclose:hover {background-position:0 -30px}
 
+
+
+/*
+External link icon
+ */
+a[href^="http"]:not(.btn) {
+  background: url(/media/external.gif) center right no-repeat;
+  padding-right: 13px;
+}
+
+
+a[href^="http://localhost"]:not(.btn) {
+    background: none;
+    padding-right: 0;
+}
+
+a[href^="http://brunosan.eu"]  {
+    background: none;
+    padding-right: 0;
+}
 
 
 @media handheld, screen and (max-width:480px), screen and (max-device-width:480px) {

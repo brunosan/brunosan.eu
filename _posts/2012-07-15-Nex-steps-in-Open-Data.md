@@ -1,38 +1,127 @@
 --- 
-filename: 2012-06-04-world-bank-remembers-apps-for-development.md
 layout: post
-status: draft
-meta: 
-  geo_accuracy: "0"
-  geo_public: "1"
-  geo_address: 425 P St NW, Washington, DC 20001, USA
-  geo_longitude: "-77.018000"
-  geo_latitude: "38.910000"
-  _edit_last: "4180497"
 published: false
-type: post
 tags: 
 - Science
-title: World Bank remembers Apps for Development
+title: Next Steps in Open Data
 ---
-I can´t stress enough how <strong>grateful</strong> and <strong>honored</strong> our team feels for being one of the winning apps. One year after we can quite get over the idea how fun and rewarding was the whole experience. Yet, I feels there is B side to this story that doesn´t get much attention. And it can be fixed. I´ve been thinking about it for a while, and we even talked about this other entrants to the same competition, winners and "loosers".
+Last week DC hosted the [Open Goverment Data
+Conference](http://www.data.gov/communities/conference), the
+[Tech@State](http://tech.state.gov/profiles/blogs/tech-state-wiki-gov-agenda), the
+[Wikimania](http://wikimania2012.wikimedia.org/wiki/Main_Page), and [more](http://developmentseed.org/blog/2012/july/09/week-dc-tech/). It seems clear
+the momentum for open data and Technology innovation is growing strong.
 
-Here´s the problem. When you call for a competition, you´ll (hopefully) get more entrants than prizes. You reward the best ones but ... what you do with <em>The Rest</em>?
+While you can read plenty of good reviews from these events I feel some
+important points regarding Open Data of *where the ball is going* are left amidst the background of *where the ball is*:
 
-The Rest likely joined the competition motivated by
+* Don´t be ashamed of the knowns unkowns.
+* Open Data from the inside out, and at home.
+* Standards, standards, standards.
+* The challenge of non publicly funded open data.
+* Hackathons, and competitions can backslash on you.
 
-you backslashing the long term. All those non winners will loose the motivation
+<!--more-->
+###Don´t be ashamed of the knowns unkowns###
 
+If you are succesful with Open Data, it will allow you to quickly know
+what you know. How much, or little you actually know. In fact, this means you can
+easily pinpout gaps in data, gaps in knowledge. This *half empty* view
+is also important. Yet, if you advocate to Open your Data, focusing on
+the half empty won´t really help you.
+
+When we participated in Apps for Development, our initial idea was an
+app to preciesly pinpoint these gaps in data. We wanted to know the
+known unkowns. And, on a positive side, try to interpolate those gaps
+and enable crowdsourcing of the accuracy of the estimates. I was
+particualry excited about it. However, we thought the Bank would
+probably want to focus on the *half full* side of the Data Repository.
+When the voting started, I chuckled when I saw the [Gap Finder](x) app from
+[The Benedict](#). He was not among the finalists.
+
+This is why I was so gald when Caroline Anstey, Managing Director of the World Bank [talked 
+explicity about the Blind Data app](http://www.worldbank.org/en/news/2012/07/10/second-international-open-government-data-conference) on her Opening Keynote at [IOGDC](#):
+
+>I’d also like to think we’re just as open about what we don’t know. One
+>of the first apps a developer created when we started our Open Data
+>Initiative in April 2010 is called “Blind Data”- it shows the gaps in
+>coverage of our various development data. **We have to be honest about
+>those gaps. Showing them clearly, creates an incentive to fill them.**
+ 
+
+
+### Open Data from the inside out, and at home ###
+
+When the World Banks engages into Open Data not only helps externaly by
+providing information to the world to what are they doing, but it also
+enbales the bank to actually what are they doing when, where, for how
+much:
+
+
+### Standards, standards, standards###
+
+
+### The challenge of non publicly funded open data###
+
+>"Open Data is a public good, for the public good" 
+
+
+data should be a public good, so that anyone can leverage on it. The
+challenge is that data gathering is usually an expensive endevour. Also,
+data itself is the core asset for many business models.
+ 
+The cost of data is lowering, but it still needs heavy funds. Typically
+a public sector entity (govs, international agencies) will fund these
+efforts. The challenge is for the private sector who also collects and
+uses data, to open their archives. Doing so their competitive advantage
+will dissapear. This common (and easy) business model confronts Open Data.
+
+This challenge resonated in several sessions at IOGDC, without much
+answer. If "data belongs to itself" who pays for gathering it? 
+
+
+###Hackathons can backslash on you###
+
+Unless one pays close attention, these events meant to grow the
+development ecosystem, can actually shrink it. Participating on such
+events invloves very intense sessions brainstorming, coding and testing your
+apps. The *first tier* of apps, the winners, are obviosly incentivated to continue and rewarded for
+their efforts. But, I argue, it´s the *second tier* where you should
+focus. Those developers that made very good products but you could not
+reward them. They have invested a lot of time and energy, they have
+learnt a great deal, and now they walk away. They are the untapped
+resource that can make the diffence.
+
+When we got to be finalists for *Apps for Development* with [Know your
+World](#) I wondered about this a lot. Our participation was purely for
+fun, but I know many other participants invested much time and hopes. I
+contacted a few months later. Many said they were less likely to
+participate again on similar competitions. Why? The bitternes of too 
+much completely unrewarded effort.
+
+At IOGDC one of the pannelists shared one possible solution. Enforce, as
+a requirment for participation, to include a business model around any
+app. This completely changes the environment. One can still reward the
+best, but also showcase this *second tier* to help them get traction. 
+If you really believe your app is good, the competition helps you kickstart it, 
+and you can continue withput them.
+
+My point is that [Good](http://hackdaymanifesto.com/) Hackthons and Challenges are not about the prizes or
+the apps, they are about growing the community, and that should be the
+focus, not the prizes.
+
+
+ 
 <strong>Apps for Development winners one year later</strong>
 
 <span style="font-family:serif;font-size:xx-small;">
 </span>
 
-<span style="font-family:serif;font-size:medium;"><img class="size-full wp-image-2343 alignright" title="14225432" src="http://nasonurb.files.wordpress.com/2012/04/14225432.gif" alt="" width="265" height="217" /><span style="font-family:serif;font-size:medium;"><strong>April 4, 2012</strong></span><span style="font-family:serif;font-size:medium;">—Almost exactly one year ago, at last year’s Spring Meetings, President Zoellick </span><a href="http://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,contentMDK:22888693~pagePK:34370~piPK:34424~theSitePK:4607,00.html" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;">celebrated</span></a><span style="font-family:serif;font-size:medium;"> the 15 winners of the </span><a href="http://data.worldbank.org/developers/appsfordevelopment" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;">Apps for Development</span></a><span style="font-family:serif;font-size:medium;"> global competition that challenged software developers to create apps related to the Millennium Development Goals (MDGs) using World Bank data. The competition complemented the Bank’s </span><a href="http://data.worldbank.org/" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;">Open Data initiative</span></a><span style="font-family:serif;font-size:medium;">, and encouraged non-traditional audiences to use the Bank’s datasets.</span></span>
+<img class="size-full wp-image-2343 alignright" title="14225432" src="http://nasonurb.files.wordpress.com/2012/04/14225432.gif" alt="" width="265" height="217" />
+Almost exactly one year ago, at last year’s Spring Meetings, President Zoellick <a href="http://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,contentMDK:22888693~pagePK:34370~piPK:34424~theSitePK:4607,00.html" target="_blank">celebrated</a> the 15 winners of the <a href="http://data.worldbank.org/developers/appsfordevelopment" target="_blank">Apps for Development</a> global competition that challenged software developers to create apps related to the Millennium Development Goals (MDGs) using World Bank data. The competition complemented the Bank’s <a href="http://data.worldbank.org/" target="_blank">Open Data initiative</a>, and encouraged non-traditional audiences to use the Bank’s datasets.
 
 Still, the question that dogs most apps competitions is “So what?” What happens after the awards ceremony and photo op? Where do the software developers go from here? Have they been able to scale their applications’ use to a wider audience?
 
-<!--more-->“The most valuable part of being recognized as one of the winners is the 'stamp of approval' of the World Bank, which gives other organizations confidence in using the application for their own purposes,” said first prize winner Frank van Cappelle, a PhD student at the University of Melbourne.
+The most valuable part of being recognized as one of the winners is the 'stamp of approval' of the World Bank, which gives other organizations confidence in using the application for their own purposes,” said first prize winner Frank van Cappelle, a PhD student at the University of Melbourne.
 
 Van Cappelle’s app, <a href="http://www.statsilk.com/maps/statplanet-world-bank-open-data" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;"><span style="text-decoration:underline;">StatPlanet</span></span></a><span style="font-family:serif;font-size:medium;">—which helps users explore more than 3,000 Bank economic indicators with interactive maps and graphics—was customized soon after to visualize country, regional and global performance data on 19 key education indicators, released under the name </span><a href="http://blogs.worldbank.org/education/node/647" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;"><span style="text-decoration:underline;">EdStats</span></span></a><span style="font-family:serif;font-size:medium;"> by the Bank’s Human Development Network. Paid customizations of StatPlanet are also under way for several organizations who wish to modify the app to better suit their purposes, including the International Food Policy Research Institute and the UN MDG GAP Task Force.</span><span style="font-family:serif;font-size:xx-small;">
 </span>
@@ -59,20 +148,10 @@ Homepage photo: First Prize winner Frank Van Cappelle accepting the award from Z
 </span><span style="font-family:serif;font-size:medium;"><em>
 Contributed by the </em></span><a href="http://wbi.worldbank.org/wbi/content/open-innovation" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;"><em><span style="text-decoration:underline;">World Bank Institute's Open Innovation team</span></em></span></a><span style="font-family:serif;font-size:medium;"> </span>
 
-<span style="font-family:serif;font-size:medium;"><em>Tell us what you think. Rate the article. Share your comments (see </em></span><a href="http://intranet.worldbank.org/WBSITE/INTRANET/INTERCOMM/0,,contentMDK:21195805~pagePK:64141015~piPK:87972~theSitePK:86000,00.html" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;"><em><span style="text-decoration:underline;">rules</span></em></span></a><span style="font-family:serif;font-size:medium;"><em> of conduct). Have an idea for an article? Here are the </em></span><a href="http://intranet.worldbank.org/WBSITE/INTRANET/INTERCOMM/0,,contentMDK:21179673~pagePK:64141015~piPK:87972~theSitePK:86000,00.html" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;"><em><span style="text-decoration:underline;">guidelines</span></em></span></a><span style="font-family:serif;font-size:medium;"><em> or contact </em></span><a href="mailto:Internal%20Communications" target="_blank"><span style="color:#0000ff;font-family:serif;font-size:medium;"><em><span style="text-decoration:underline;">Internal Communications</span></em></span></a><span style="font-family:serif;font-size:medium;"><em>.</em></span>
-
 PS&gt; Links are internal, so they will only work if you are inside the Bank (...)
 
-&nbsp;
 
-&nbsp;
-
-Links to comment
 
 http://hackdaymanifesto.com/
-
 http://chengsoon.com/2012/06/04/hackathon_no_more.html
-
 http://open4m.org/2012/05/24/moldova-re-invents-the-hackathon/
-
-&nbsp;
