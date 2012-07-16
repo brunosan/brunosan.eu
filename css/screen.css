@@ -523,7 +523,7 @@ a[href^="http://localhost"]:not(.btn) {
     padding-right: 0;
 }
 
-a[href^="http://brunosan.eu"]  {
+a[href^="http://brunosan.eu"]:not(.btn) {
     background: none;
     padding-right: 0;
 }
