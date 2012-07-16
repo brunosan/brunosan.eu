@@ -10,7 +10,7 @@ layout: nil
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>{{site.baseurl}}</id>
 	<author>
-		<name>Jason Heppler</name>
+    <name> Bruno Sánchez-Andrade Nuño </name>
 	</author>
 	<rights>Copyright (c) 2004-2012, Bruno Sánchez-Andrade Nuño ; some rights reserved.</rights>
 
