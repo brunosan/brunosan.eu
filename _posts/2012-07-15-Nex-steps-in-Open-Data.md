@@ -1,7 +1,7 @@
---- 
+---
 layout: post
 published: false
-tags: 
+tags:
 - Science
 title: Next Steps in Open Data
 ---
@@ -38,7 +38,7 @@ probably want to focus on the *half full* side of the Data Repository.
 When the voting started, I chuckled when I saw the [Gap Finder](x) app from
 [The Benedict](#). He was not among the finalists.
 
-This is why I was so gald when Caroline Anstey, Managing Director of the World Bank [talked 
+This is why I was so gald when Caroline Anstey, Managing Director of the World Bank [talked
 explicity about the Blind Data app](http://www.worldbank.org/en/news/2012/07/10/second-international-open-government-data-conference) on her Opening Keynote at [IOGDC](#):
 
 >I’d also like to think we’re just as open about what we don’t know. One
@@ -46,7 +46,7 @@ explicity about the Blind Data app](http://www.worldbank.org/en/news/2012/07/10/
 >Initiative in April 2010 is called “Blind Data”- it shows the gaps in
 >coverage of our various development data. **We have to be honest about
 >those gaps. Showing them clearly, creates an incentive to fill them.**
- 
+
 
 
 ### Open Data from the inside out, and at home ###
@@ -62,13 +62,13 @@ much:
 
 ### The challenge of non publicly funded open data###
 
->"Open Data is a public good, for the public good" 
+>"Open Data is a public good, for the public good"
 
 
 data should be a public good, so that anyone can leverage on it. The
 challenge is that data gathering is usually an expensive endevour. Also,
 data itself is the core asset for many business models.
- 
+
 The cost of data is lowering, but it still needs heavy funds. Typically
 a public sector entity (govs, international agencies) will fund these
 efforts. The challenge is for the private sector who also collects and
@@ -76,7 +76,7 @@ uses data, to open their archives. Doing so their competitive advantage
 will dissapear. This common (and easy) business model confronts Open Data.
 
 This challenge resonated in several sessions at IOGDC, without much
-answer. If "data belongs to itself" who pays for gathering it? 
+answer. If "data belongs to itself" who pays for gathering it?
 
 
 ###Hackathons can backslash on you###
@@ -95,14 +95,14 @@ When we got to be finalists for *Apps for Development* with [Know your
 World](#) I wondered about this a lot. Our participation was purely for
 fun, but I know many other participants invested much time and hopes. I
 contacted a few months later. Many said they were less likely to
-participate again on similar competitions. Why? The bitternes of too 
+participate again on similar competitions. Why? The bitternes of too
 much completely unrewarded effort.
 
 At IOGDC one of the pannelists shared one possible solution. Enforce, as
 a requirment for participation, to include a business model around any
 app. This completely changes the environment. One can still reward the
-best, but also showcase this *second tier* to help them get traction. 
-If you really believe your app is good, the competition helps you kickstart it, 
+best, but also showcase this *second tier* to help them get traction.
+If you really believe your app is good, the competition helps you kickstart it,
 and you can continue withput them.
 
 My point is that [Good](http://hackdaymanifesto.com/) Hackthons and Challenges are not about the prizes or
@@ -110,7 +110,6 @@ the apps, they are about growing the community, and that should be the
 focus, not the prizes.
 
 
- 
 <strong>Apps for Development winners one year later</strong>
 
 <span style="font-family:serif;font-size:xx-small;">
