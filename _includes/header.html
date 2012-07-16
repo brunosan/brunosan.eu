@@ -4,7 +4,6 @@
 {% assign base = site.baseurl %}
 {% assign canonical = base + page.url | remove_first:'/' | remove_first: 'index.html' %}
 
-<!-- Alternative for prose when ready "http://prose.io/#brunosan/brunosan.eu/master/_posts/" %} -->
 
 <head>
 	<link rel="canonical" href="{{canonical}}" />
@@ -54,6 +53,8 @@
     fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
+  <!-- RSS announce -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="http://brunosan.eu/feed.xml">
 
 </head>
 <body>
