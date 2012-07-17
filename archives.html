@@ -19,7 +19,7 @@ title: Archives
     {% endunless %}
 
     <li><span>{{ post.date | date: '%d %b' }}</span> &raquo; <a
-      href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>
+      href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 </div>
