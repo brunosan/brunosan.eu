@@ -512,6 +512,11 @@ footer a:hover {
 /*
 External link icon
  */
+a[href^="http://brunosan.eu"]:not(.btn) {
+    background: none;
+    padding-right: 0;
+}
+
 a[href^="http"]:not(.btn) {
   background: url(/media/external.gif) center right no-repeat;
   padding-right: 13px;
@@ -523,10 +528,6 @@ a[href^="http://localhost"]:not(.btn) {
     padding-right: 0;
 }
 
-a[href^="http://brunosan.eu"]:not(.btn) {
-    background: none;
-    padding-right: 0;
-}
 
 
 @media handheld, screen and (max-width:480px), screen and (max-device-width:480px) {
