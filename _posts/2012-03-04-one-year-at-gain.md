@@ -33,4 +33,5 @@ In the last year:
 </ul>
 I am very thankful to the Institute for giving the opportunity to work on such an important topic and amazing people. I think we have lots to celebrate and be proud of. Motivation has been and is the main engine for this journey.
 
-[vimeo=vimeo.com/28950907]
+{% vimeo 28950907 %}
+
