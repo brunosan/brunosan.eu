@@ -3,7 +3,7 @@ module PostMore
     baseurl = @context.registers[:site].config['baseurl']
 
     if input.include? "<!--more-->"
-      input.split("<!--more-->").first + "<p class='more'><a href='#{baseurl + url}'>#{text}</a></p>"
+      input.split("<!--more-->").first + "<p class='more'><a href='#{url}'>#{text}</a></p>"
     else
       input
     end
