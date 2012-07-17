@@ -86,10 +86,9 @@ format, definitions and structure to release their data.
 * Machine readable or human readable?
 * Do I source where I took it from, or where it actually originates?
 * Where to place the definitions of the terms I use? Which language?
-* Which alphabet? (Luckily the whole world uses Arabic numbers and
+* Is it Russian or Chinese? (Luckily the whole world uses Arabic numbers and
   decimal systems.)
-
-...
+* ...
 
 When Gain developed our Index I was keen to use python, R o any
 reasonable tool. The fact is that most Economist and development 
@@ -97,18 +96,16 @@ partitioners use Excel, some VBA. I had to learn it from scracth. Being
 a 2D framework is painfully cumbersome to deal with, not to mention
 the VBA inconsistencies and the fact that probably 70% of the code is
 overhead dealing with files, errors, declarations and not the actual
-conceptual operations. I´m positive our code would be 10 times faster
-shorter and clearer in Ruby or Python with a proper database. 
+conceptual operations. I´m positive our code would be 10 times faster,
+shorter and clearer in i.e. Ruby or Python with a proper database. 
 
-We desperately need a format to which we can all adhere or, if we can´t
-agree on one, a standard way to specify the format so we can convert them. And we need to stop
-using Excel, please.
+We need to use open clear formats, or at least a standard way to specify the format so we can convert them. And we need to stop using Excel, please.
 
 
 ### The challenge of non publicly funded open data###
 
 Overhead at IOGDC:
->"Open Data is a public good, for the public good"
+>"Data is a public good, for the public good"
 
 
 Yes, data should be a public good, so that anyone can leverage on it. The
