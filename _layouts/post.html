@@ -19,10 +19,10 @@ layout: default
   </div>
 
 {% endif %}
-	
-  <p><time>{{ page.date | date: "%e" | ordinalize }} {{page.date | date: "%B"}} {{page.date | date: "%Y"}}
+
+<p><time>{{ page.date | date: "%e" | ordinalize }} {{page.date | date: "%B"}} {{page.date | date: "%Y"}}
 •
-<a id="pull-request-btn" class="btn" href="{{ site.pullrequesturl }}{{ post.filename  }}">
+<a id="pull-request-btn" class="btn" href="{{ site.pullrequesturl }}{{ page.filename  }}">
 	            Send edit request
 	        </a><a href="{{site.baseurl}}2012/07/01/jekyll-pull-requests/">What is this?</a>
 	</time>
@@ -70,7 +70,7 @@ layout: default
 </div>
 
 <h4 class="more">
-	<a href="{{site.baseurl}}archives.html">MORE ARTICLES IN THE ARCHIVE →</a>
+	<a href="/archives.html">MORE ARTICLES IN THE ARCHIVE →</a>
 </h4>
 
 
