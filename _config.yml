@@ -6,7 +6,7 @@ exclude: ["legacy-imports", "Rakefile", "README.md", "_template.md", "new.rb", "
 multivews: true
 
 name: Tagline
-baseurl:      http://brunosan.eu
+baseurl:      http://brunosan.eu/
 description:    "Tag line"
 root_desc:      "Brunosan"
 
