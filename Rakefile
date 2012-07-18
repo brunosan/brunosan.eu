@@ -4,7 +4,7 @@ desc "publish updated site to gh-pages"
   task :deploy, [:commit_message]  do |t, args|
     if args.commit_message
       puts "Committing and pushing_site into gh-pages branch with message: #{args.commit_message}"
-      system "git checkout master"
+      system "./add-filenames-to-posts.sh"
       system "jekyll" #--lsi"
       system "git add -A && git commit -m \"#{args.commit_message}\""
       system "git checkout -f gh-pages"
@@ -34,12 +34,12 @@ task :draft, [:title, :category] do |t, args|
 ---
 layout: post
 title: #{args.title}
-status: draft
+published: false
 tags:
 - 
 ---
 EOS
     end
     puts "Now opening #{path} in TextMate..."
-    system "mate #{path}"
+    system "vi #{path}"
 end
