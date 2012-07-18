@@ -27,7 +27,7 @@ desc "give title as argument for draft post"
 # category is optional
 task :draft, [:title, :category] do |t, args|
   filename = "#{Time.now.strftime('%Y-%m-%d')}-#{args.title.gsub(/\s/, '-').downcase}.md"
-  path = File.join("_drafts", filename)
+  path = File.join("_posts", filename)
   if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
   File.open(path, 'w') do |file|
     file.write <<-EOS
