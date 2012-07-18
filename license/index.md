@@ -25,4 +25,5 @@ This licensing in no way suggests that I endorse you or your use of the work. Fu
 * If the cited material refer or show an identifiable person, using that image for commercial purposes may infringe that person's right of privacy, and separate permission should be obtained from the individual.
 
 
-If you need to obtain more information, please [contact me]({{site.baseurl}}contact).
+If you need to obtain more information, please [contact
+me](email://brunosan@gmail.com).
