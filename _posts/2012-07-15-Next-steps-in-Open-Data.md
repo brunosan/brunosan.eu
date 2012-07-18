@@ -42,7 +42,7 @@ When the voting started, I chuckled when I saw the [Blind Data](http://appsforde
 [@TheBenedict](https://twitter.com/thebenedict) with a similar idea to *GapFinder*. He was not among the finalists.
 
 This is why I was so glad when Caroline Anstey, Managing Director of the World Bank [talked
-explicitly about the Blind Data app](http://www.worldbank.org/en/news/2012/07/10/second-international-open-government-data-conference) on her Opening Keynote at [IOGDC](http://www.data.gov/communities/conference) said:
+explicitly about the Blind Data app](http://www.worldbank.org/en/news/2012/07/10/second-international-open-government-data-conference) on her Opening Keynote:
 
 >I’d also like to think we’re just as open about what we don’t know. One
 >of the first apps a developer created when we started our Open Data
