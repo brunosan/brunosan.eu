@@ -1,11 +1,11 @@
 desc "publish updated site to gh-pages"
 #check _site exists
 
-  task :deploy, [:commit_message]  do |t, args|
+  task :deploy, [:commit_message, :options]  do |t, args|
     if args.commit_message
       puts "Committing and pushing_site into gh-pages branch with message: #{args.commit_message}"
       system "./add-filenames-to-posts.sh"
-      system "jekyll" #--lsi"
+      system "jekyll #{args.options}"
       system "git add -A && git commit -m \"#{args.commit_message}\""
       system "git checkout -f gh-pages"
       system "mkdir temp"
