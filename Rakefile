@@ -16,6 +16,7 @@ desc "publish updated site to gh-pages"
       system "git push -f origin gh-pages"
       system "git checkout master"
       system "git push "
+      system "echo 'Jekyll #{args.options} site has been delpoyed at #{Time.now}' | mail -s 'brunosan.eu -> #{args.commit_message}' brunosan@gmail.com"
     else
       puts "Missing commit_message"
     end
