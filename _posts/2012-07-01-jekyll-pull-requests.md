@@ -1,5 +1,4 @@
 ---
-filename: 2012-09-01-jekyll-pull-requests.md
 layout: post
 title: Jekyll and Pull Requests
 tags:

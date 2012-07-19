@@ -1,5 +1,4 @@
 ---
-filename: 2012-07-14-migration-in-progress.md
 layout: post
 title: Migration in progress
 
