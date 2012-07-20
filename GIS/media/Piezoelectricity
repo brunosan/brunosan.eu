@@ -1,0 +1,755 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Piezoelectricity - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.20wmf5" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Piezoelectricity&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Piezoelectricity&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.teahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d5a1bf6cbd05fc6cc2705e47f52062dc */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Piezoelectricity","wgTitle":"Piezoelectricity","wgCurRevisionId":499625200,"wgArticleId":24975,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Ancient Greek language text","Condensed matter physics","Electrical phenomena","Transducers","Energy harvesting"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Piezoelectricity","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"a77ab17b436d1b0252b535a36b2e4e74","wgArticleFeedbackv5Permissions":{"oversighter":false,"moderator":false,"editor":false},"wikilove-recipient":"","wikilove-edittoken":"+\\","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Whitelist":false});
+}</script><script type="text/javascript">if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:15f947b8a5d6ceebd1f399c3a1526c80 */
+}</script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.20wmf5/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Piezoelectricity skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Piezoelectricity</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Piezoelectricity</b> (<span class="nowrap"><span title="pronunciation:"><img alt="play" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" width="11" height="11" /></span>&#160;<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/</a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'p' in 'pie'" style="border-bottom:1px dotted">p</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/ˌ/ secondary stress follows" style="border-bottom:1px dotted">ˌ</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/eɪ/ long 'a' in 'base'" style="border-bottom:1px dotted">eɪ</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'z' in 'Zion'" style="border-bottom:1px dotted">z</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/oʊ/ long 'o' in 'bode'" style="border-bottom:1px dotted">oʊ</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/ˌ/ secondary stress follows" style="border-bottom:1px dotted">ˌ</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'l' in 'lie'" style="border-bottom:1px dotted">l</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/ɛ/ short 'e' in 'bed'" style="border-bottom:1px dotted">ɛ</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'k' in 'kind'" style="border-bottom:1px dotted">k</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/ˈ/ primary stress follows" style="border-bottom:1px dotted">ˈ</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'t' in 'tie'" style="border-bottom:1px dotted">t</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'r' in 'rye'" style="border-bottom:1px dotted">r</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'s' in 'sigh'" style="border-bottom:1px dotted">s</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/ɪ/ short 'i' in 'bid'" style="border-bottom:1px dotted">ɪ</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="'t' in 'tie'" style="border-bottom:1px dotted">t</span></a></span><span class="IPA"><a href="/wiki/Wikipedia:IPA_for_English#Key" title="Wikipedia:IPA for English"><span title="/i/ 'y' in 'happy'" style="border-bottom:1px dotted">i</span></a></span><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Wikipedia:IPA_for_English" title="Wikipedia:IPA for English">/</a></span></span>) is the charge that accumulates in certain solid materials (notably <a href="/wiki/Crystal" title="Crystal">crystals</a>, certain <a href="/wiki/Ceramic" title="Ceramic">ceramics</a>, and biological matter such as bone, <a href="/wiki/DNA" title="DNA">DNA</a> and various <a href="/wiki/Protein" title="Protein">proteins</a>)<sup id="cite_ref-InstrumentAnalysis_0-0" class="reference"><a href="#cite_note-InstrumentAnalysis-0"><span>[</span>1<span>]</span></a></sup> in response to applied mechanical <a href="/wiki/Stress_(physics)" title="Stress (physics)" class="mw-redirect">stress</a>. The word <i>piezoelectricity</i> means electricity resulting from pressure. It is derived from the <a href="/wiki/Greek_language" title="Greek language">Greek</a> <i>piezo</i> or <i>piezein</i> (πιέζειν), which means to squeeze or press, and <i>electric</i> or <i>electron</i> (<span lang="grc" xml:lang="grc">ήλεκτρον</span>), which stands for <a href="/wiki/Amber" title="Amber">amber</a>, an ancient source of electric charge.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> Piezoelectricity was discovered in 1880 by French physicists <a href="/wiki/Jacques_Curie" title="Jacques Curie">Jacques</a> and <a href="/wiki/Pierre_Curie" title="Pierre Curie">Pierre Curie</a>.</p>
+<p>The <a href="/wiki/Poling_(piezoelectricity)" title="Poling (piezoelectricity)" class="mw-redirect">piezoelectric effect</a> is understood as the linear electromechanical interaction between the mechanical and the electrical state in crystalline materials with no <a href="/wiki/Centrosymmetry" title="Centrosymmetry">inversion symmetry</a>.<sup id="cite_ref-Piezoelectric_Sensorics_2-0" class="reference"><a href="#cite_note-Piezoelectric_Sensorics-2"><span>[</span>3<span>]</span></a></sup> The piezoelectric effect is a <a href="/wiki/Reversible_process" title="Reversible process" class="mw-redirect">reversible process</a> in that materials exhibiting the direct piezoelectric effect (the internal generation of electrical charge resulting from an applied mechanical <a href="/wiki/Force" title="Force">force</a>) also exhibit the reverse piezoelectric effect (the internal generation of a mechanical strain resulting from an applied electrical field). For example, <a href="/wiki/Lead_zirconate_titanate" title="Lead zirconate titanate">lead zirconate titanate</a> crystals will generate measurable piezoelectricity when their static structure is deformed by about 0.1% of the original dimension. Conversely, those same crystals will change about 0.1% of their static dimension when an external electric field is applied to the material.</p>
+<p>Piezoelectricity is found in useful applications such as the production and detection of sound, generation of high voltages, electronic frequency generation, <a href="/wiki/Microbalance" title="Microbalance">microbalances</a>, and ultrafine focusing of optical assemblies. It is also the basis of a number of scientific instrumental techniques with atomic resolution, the <a href="/wiki/Scanning_probe_microscopy" title="Scanning probe microscopy">scanning probe microscopies</a> such as <a href="/wiki/Scanning_tunneling_microscopy" title="Scanning tunneling microscopy" class="mw-redirect">STM</a>, <a href="/wiki/Atomic_force_microscopy" title="Atomic force microscopy">AFM</a>, <a href="/wiki/Microthermal_analysis" title="Microthermal analysis">MTA</a>, <a href="/wiki/Scanning_near-field_optical_microscopy" title="Scanning near-field optical microscopy" class="mw-redirect">SNOM</a>, etc., and everyday uses such as acting as the ignition source for <a href="/wiki/Lighters" title="Lighters" class="mw-redirect">cigarette lighters</a> and push-start <a href="/wiki/Barbecue#Natural_gas_and_propane" title="Barbecue">propane barbecues</a>.</p>
+<table id="toc" class="toc">
+<tr>
+<td>
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Discovery_and_early_research"><span class="tocnumber">1.1</span> <span class="toctext">Discovery and early research</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#World_War_I_and_post-war"><span class="tocnumber">1.2</span> <span class="toctext">World War I and post-war</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#World_War_II_and_post-war"><span class="tocnumber">1.3</span> <span class="toctext">World War II and post-war</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Mechanism"><span class="tocnumber">2</span> <span class="toctext">Mechanism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Mathematical_description"><span class="tocnumber">2.1</span> <span class="toctext">Mathematical description</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Crystal_classes"><span class="tocnumber">3</span> <span class="toctext">Crystal classes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Materials"><span class="tocnumber">4</span> <span class="toctext">Materials</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Naturally_occurring_crystals"><span class="tocnumber">4.1</span> <span class="toctext">Naturally occurring crystals</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Bone"><span class="tocnumber">4.2</span> <span class="toctext">Bone</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Other_natural_materials"><span class="tocnumber">4.3</span> <span class="toctext">Other natural materials</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Synthetic_crystals"><span class="tocnumber">4.4</span> <span class="toctext">Synthetic crystals</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Synthetic_ceramics"><span class="tocnumber">4.5</span> <span class="toctext">Synthetic ceramics</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Lead-free_piezoceramics"><span class="tocnumber">4.6</span> <span class="toctext">Lead-free piezoceramics</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Polymers"><span class="tocnumber">4.7</span> <span class="toctext">Polymers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Applications"><span class="tocnumber">5</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#High_voltage_and_power_sources"><span class="tocnumber">5.1</span> <span class="toctext">High voltage and power sources</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Sensors"><span class="tocnumber">5.2</span> <span class="toctext">Sensors</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Actuators"><span class="tocnumber">5.3</span> <span class="toctext">Actuators</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Frequency_standard"><span class="tocnumber">5.4</span> <span class="toctext">Frequency standard</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Piezoelectric_motors"><span class="tocnumber">5.5</span> <span class="toctext">Piezoelectric motors</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Reduction_of_vibrations_and_noise"><span class="tocnumber">5.6</span> <span class="toctext">Reduction of vibrations and noise</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Infertility_treatment"><span class="tocnumber">5.7</span> <span class="toctext">Infertility treatment</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Surgery"><span class="tocnumber">5.8</span> <span class="toctext">Surgery</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-25"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#International_standards"><span class="tocnumber">7.1</span> <span class="toctext">International standards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>]</span> <span class="mw-headline" id="History">History</span></h2>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=2" title="Edit section: Discovery and early research">edit</a>]</span> <span class="mw-headline" id="Discovery_and_early_research">Discovery and early research</span></h3>
+<p>The <a href="/wiki/Pyroelectricity" title="Pyroelectricity">pyroelectric effect</a>, by which a material generates an electric potential in response to a temperature change, was studied by <a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Carl Linnaeus</a> and <a href="/wiki/Franz_Aepinus" title="Franz Aepinus">Franz Aepinus</a> in the mid-18th century. Drawing on this knowledge, both <a href="/wiki/Ren%C3%A9_Just_Ha%C3%BCy" title="René Just Haüy">René Just Haüy</a> and <a href="/wiki/Antoine_C%C3%A9sar_Becquerel" title="Antoine César Becquerel">Antoine César Becquerel</a> posited a relationship between mechanical stress and electric charge; however, experiments by both proved inconclusive.</p>
+<p>The first demonstration of the direct piezoelectric effect was in 1880 by the brothers <a href="/wiki/Pierre_Curie" title="Pierre Curie">Pierre Curie</a> and <a href="/wiki/Jacques_Curie" title="Jacques Curie">Jacques Curie</a>. They combined their knowledge of pyroelectricity with their understanding of the underlying crystal structures that gave rise to pyroelectricity to predict crystal behavior, and demonstrated the effect using crystals of <a href="/wiki/Tourmaline" title="Tourmaline">tourmaline</a>, <a href="/wiki/Quartz" title="Quartz">quartz</a>, <a href="/wiki/Topaz" title="Topaz">topaz</a>, <a href="/wiki/Sugar_cane" title="Sugar cane" class="mw-redirect">cane</a> <a href="/wiki/Sugar" title="Sugar">sugar</a>, and <a href="/wiki/Rochelle_salt" title="Rochelle salt" class="mw-redirect">Rochelle salt</a> (sodium potassium tartrate tetrahydrate). Quartz and Rochelle salt exhibited the most piezoelectricity.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:SchemaPiezo.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/SchemaPiezo.gif/220px-SchemaPiezo.gif" width="220" height="220" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:SchemaPiezo.gif" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A piezoelectric disk generates a voltage when deformed (change in shape is greatly exaggerated)</div>
+</div>
+</div>
+<p>The Curies, however, did not predict the converse piezoelectric effect. The converse effect was mathematically deduced from fundamental thermodynamic principles by <a href="/wiki/Gabriel_Lippmann" title="Gabriel Lippmann">Gabriel Lippmann</a> in 1881.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span>[</span>4<span>]</span></a></sup> The Curies immediately confirmed the existence of the converse effect, and went on to obtain quantitative proof of the complete reversibility of electro-elasto-mechanical deformations in piezoelectric crystals.</p>
+<p>For the next few decades, piezoelectricity remained something of a laboratory curiosity. More work was done to explore and define the crystal structures that exhibited piezoelectricity. This culminated in 1910 with the publication of <a href="/wiki/Woldemar_Voigt" title="Woldemar Voigt">Woldemar Voigt's</a> <i>Lehrbuch der Kristallphysik</i> (textbook on crystal physics), which described the 20 natural crystal classes capable of piezoelectricity, and rigorously defined the piezoelectric constants using <a href="/wiki/Tensor_analysis" title="Tensor analysis" class="mw-redirect">tensor analysis</a>.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=3" title="Edit section: World War I and post-war">edit</a>]</span> <span class="mw-headline" id="World_War_I_and_post-war">World War I and post-war</span></h3>
+<p>The first practical application for piezoelectric devices was <a href="/wiki/Sonar" title="Sonar">sonar</a>, first developed during <a href="/wiki/World_War_I" title="World War I">World War I</a>. In <a href="/wiki/France" title="France">France</a> in 1917, <a href="/wiki/Paul_Langevin" title="Paul Langevin">Paul Langevin</a> and his coworkers developed an <a href="/wiki/Ultrasound" title="Ultrasound">ultrasonic</a> <a href="/wiki/Submarine" title="Submarine">submarine</a> detector. The detector consisted of a <a href="/wiki/Transducer" title="Transducer">transducer</a>, made of thin quartz crystals carefully glued between two steel plates, and a <a href="/wiki/Hydrophone" title="Hydrophone">hydrophone</a> to detect the returned <a href="/wiki/Echo_(phenomenon)" title="Echo (phenomenon)">echo</a>. By emitting a high-frequency <a href="/wiki/Chirp" title="Chirp">chirp</a> from the transducer, and measuring the amount of time it takes to hear an echo from the sound waves bouncing off an object, one can calculate the distance to that object.</p>
+<p>The use of piezoelectricity in sonar, and the success of that project, created intense development interest in piezoelectric devices. Over the next few decades, new piezoelectric materials and new applications for those materials were explored and developed.</p>
+<p>Piezoelectric devices found homes in many fields. Ceramic <a href="/wiki/Phonograph" title="Phonograph">phonograph</a> cartridges simplified player design, were cheap and accurate, and made record players cheaper to maintain and easier to build. The development of the ultrasonic transducer allowed for easy measurement of viscosity and elasticity in fluids and solids, resulting in huge advances in materials research. Ultrasonic <a href="/wiki/Time-domain_reflectometer" title="Time-domain reflectometer">time-domain reflectometers</a> (which send an ultrasonic pulse through a material and measure reflections from discontinuities) could find flaws inside cast metal and stone objects, improving structural safety.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=4" title="Edit section: World War II and post-war">edit</a>]</span> <span class="mw-headline" id="World_War_II_and_post-war">World War II and post-war</span></h3>
+<p>During <a href="/wiki/World_War_II" title="World War II">World War II</a>, independent research groups in the <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Russia" title="Russia">Russia</a>, and <a href="/wiki/Japan" title="Japan">Japan</a> discovered a new class of synthetic materials, called <a href="/wiki/Ferroelectricity" title="Ferroelectricity">ferroelectrics</a>, which exhibited piezoelectric constants many times higher than natural materials. This led to intense research to develop <a href="/wiki/Barium_titanate" title="Barium titanate">barium titanate</a> and later lead zirconate titanate materials with specific properties for particular applications.</p>
+<p>One significant example of the use of piezoelectric crystals was developed by Bell Telephone Laboratories. Following World War I, Frederick R. Lack, working in radio telephony in the engineering department, developed the “AT cut” crystal, a crystal that operated through a wide range of temperatures. Lack's crystal didn't need the heavy accessories previous crystal used, facilitating its use on aircraft. This development allowed Allied air forces to engage in coordinated mass attacks through the use of aviation radio.</p>
+<p>Development of piezoelectric devices and materials in the United States was kept within the companies doing the development, mostly due to the wartime beginnings of the field, and in the interests of securing profitable patents. New materials were the first to be developed — quartz crystals were the first commercially exploited piezoelectric material, but scientists searched for higher-performance materials. Despite the advances in materials and the maturation of manufacturing processes, the United States market had not grown as quickly. Without many new applications, the growth of the United States' piezoelectric industry suffered.</p>
+<p>In contrast, Japanese manufacturers shared their information, quickly overcoming technical and manufacturing challenges and creating new markets. Japanese efforts in materials research created piezoceramic materials competitive to the U.S. materials, but free of expensive patent restrictions. Major Japanese piezoelectric developments include new designs of piezoceramic filters for radios and televisions, piezo buzzers and audio transducers that can connect directly to electronic circuits, and the <a href="/wiki/Piezo_ignition" title="Piezo ignition">piezoelectric igniter</a>, which generates sparks for small engine ignition systems (and gas-grill lighters) by compressing a ceramic disc. Ultrasonic transducers that transmit sound waves through air had existed for quite some time, but first saw major commercial use in early television remote controls. These transducers now are mounted on several <a href="/wiki/Automobile" title="Automobile">car</a> models as an <a href="/wiki/Acoustic_location" title="Acoustic location">echolocation</a> device, helping the driver determine the distance from the rear of the car to any objects that may be in its path.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=5" title="Edit section: Mechanism">edit</a>]</span> <span class="mw-headline" id="Mechanism">Mechanism</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Piezo_bending_principle.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Piezo_bending_principle.jpg/220px-Piezo_bending_principle.jpg" width="220" height="60" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Piezo_bending_principle.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Piezoelectric plate used to convert <a href="/wiki/Audio_signal" title="Audio signal">audio signal</a> to sound waves</div>
+</div>
+</div>
+<p>The nature of the piezoelectric effect is closely related to the occurrence of <a href="/wiki/Electric_dipole_moment" title="Electric dipole moment">electric dipole moments</a> in solids. The latter may either be induced for <a href="/wiki/Ions" title="Ions" class="mw-redirect">ions</a> on <a href="/wiki/Crystal_lattice" title="Crystal lattice" class="mw-redirect">crystal lattice</a> sites with asymmetric charge surroundings (as in <a href="/wiki/BaTiO3" title="BaTiO3" class="mw-redirect">BaTiO<sub>3</sub></a> and <a href="/wiki/PZT" title="PZT" class="mw-redirect">PZTs</a>) or may directly be carried by molecular groups (as in <a href="/wiki/Cane_sugar" title="Cane sugar" class="mw-redirect">cane sugar</a>). The dipole density or <a href="/wiki/Polarization_density" title="Polarization density">polarization</a> (dimensionality [Cm/m<sup>3</sup>] ) may easily be calculated for <a href="/wiki/Crystals" title="Crystals" class="mw-redirect">crystals</a> by summing up the dipole moments per volume of the crystallographic <a href="/wiki/Unit_cell" title="Unit cell" class="mw-redirect">unit cell</a>.<sup id="cite_ref-ZPB1995a_4-0" class="reference"><a href="#cite_note-ZPB1995a-4"><span>[</span>5<span>]</span></a></sup> As every dipole is a vector, the dipole density <i><b>P</b></i> is also a <a href="/wiki/Euclidean_vector" title="Euclidean vector">vector</a> or a directed quantity. Dipoles near each other tend to be aligned in regions called Weiss domains. The domains are usually randomly oriented, but can be aligned using the process of <i>poling</i> (not the same as <a href="/wiki/Magnetic_pole" title="Magnetic pole">magnetic poling</a>), a process by which a strong electric field is applied across the material, usually at elevated temperatures. Not all piezoelectric materials can be poled.<sup id="cite_ref-PAMTA_5-0" class="reference"><a href="#cite_note-PAMTA-5"><span>[</span>6<span>]</span></a></sup></p>
+<p>Of decisive importance for the piezoelectric effect is the change of polarization <i><b>P</b></i> when applying a <a href="/wiki/Mechanical_stress" title="Mechanical stress" class="mw-redirect">mechanical stress</a>. This might either be caused by a re-configuration of the dipole-inducing surrounding or by re-orientation of molecular dipole moments under the influence of the external stress. Piezoelectricity may then manifest in a variation of the polarization strength, its direction or both, with the details depending on 1. the orientation of <i><b>P</b></i> within the crystal, 2. <a href="/wiki/Crystal_symmetry" title="Crystal symmetry" class="mw-redirect">crystal symmetry</a> and 3. the applied mechanical stress. The change in <i><b>P</b></i> appears as a variation of surface <a href="/wiki/Charge_density" title="Charge density">charge density</a> upon the crystal faces, i.e. as a variation of the <a href="/wiki/Electrical_field" title="Electrical field" class="mw-redirect">electrical field</a> extending between the faces, since the <a href="/wiki/Unit_of_measurement" title="Unit of measurement" class="mw-redirect">units</a> of surface charge density and polarization are the same, [C/m<sup>2</sup>] = [Cm/m<sup>3</sup>]. However, piezoelectricity is not caused by a change in charge density on the surface, but by dipole density in the bulk. For example, a 1&#160;cm<sup>3</sup> cube of quartz with 2&#160;kN (500&#160;lbf) of correctly applied force can produce a voltage of 12500 <a href="/wiki/Volt" title="Volt">V</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>7<span>]</span></a></sup></p>
+<p>Piezoelectric materials also show the opposite effect, called <b>converse piezoelectric effect</b>, where the application of an electrical field creates mechanical deformation in the crystal.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=6" title="Edit section: Mathematical description">edit</a>]</span> <span class="mw-headline" id="Mathematical_description">Mathematical description</span></h3>
+<p>Piezoelectricity is the combined effect of the electrical behavior of the material:</p>
+<dl>
+<dd><img class="tex" alt="D = \varepsilon E \;" src="//upload.wikimedia.org/wikipedia/en/math/6/4/6/6465c24eddefffc701fd74b57899321c.png" /></dd>
+</dl>
+<p>where <i>D</i> is the electric charge density displacement (<a href="/wiki/Electric_displacement" title="Electric displacement" class="mw-redirect">electric displacement</a>), ε is <a href="/wiki/Permittivity" title="Permittivity">permittivity</a> and <i>E</i> is <a href="/wiki/Electric_field_strength" title="Electric field strength" class="mw-redirect">electric field strength</a>, and</p>
+<p><a href="/wiki/Hooke%27s_Law" title="Hooke's Law" class="mw-redirect">Hooke's Law</a>:</p>
+<dl>
+<dd><img class="tex" alt="S=s T \;" src="//upload.wikimedia.org/wikipedia/en/math/5/e/5/5e557e6ad19d252f169cdb19bfc981d4.png" /></dd>
+</dl>
+<p>where <i>S</i> is <a href="/wiki/Strain_(materials_science)" title="Strain (materials science)" class="mw-redirect">strain</a>, <i>s</i> is <a href="/wiki/Stiffness#Definition" title="Stiffness">compliance</a> and <i>T</i> is <a href="/wiki/Stress_(physics)" title="Stress (physics)" class="mw-redirect">stress</a>.</p>
+<p>These may be combined into so-called <i>coupled equations</i>, of which the strain-charge form is:</p>
+<dl>
+<dd><img class="tex" alt="
+\{S\} = \left [s^E \right ]\{T\}+[d^t]\{E\}
+" src="//upload.wikimedia.org/wikipedia/en/math/e/f/b/efb5e2aaf1489c25e42bed45f96f9e8b.png" /></dd>
+<dd><img class="tex" alt="
+\{D\} = [d]\{T\}+\left [ \varepsilon^T \right ] \{E\}
+" src="//upload.wikimedia.org/wikipedia/en/math/7/0/a/70a492348ab079857832462a23dfb025.png" />,</dd>
+</dl>
+<p>where <img class="tex" alt="[d]" src="//upload.wikimedia.org/wikipedia/en/math/5/5/b/55bbeb5fefa388fc850000a090efc0eb.png" /> is the matrix for the direct piezoelectric effect and <img class="tex" alt="[d^t]" src="//upload.wikimedia.org/wikipedia/en/math/d/7/d/d7d9045fa870eb6f063228c4ad6224b2.png" /> is the matrix for the converse piezoelectric effect. The superscript <i>E</i> indicates a zero, or constant, electric field; the superscript <i>T</i> indicates a zero, or constant, stress field; and the superscript <i>t</i> stands for <a href="/wiki/Transpose" title="Transpose">transposition</a> of a <a href="/wiki/Matrix_(mathematics)" title="Matrix (mathematics)">matrix</a>.</p>
+<p>The strain-charge for a material of the <a href="/wiki/Tetragonal_crystal_system" title="Tetragonal crystal system">4mm</a> (C<sub>4v</sub>) <a href="/wiki/Crystal_system" title="Crystal system">crystal class</a> (such as a poled piezoelectric ceramic such as tetragonal PZT or BaTiO<sub>3</sub>) as well as the <a href="/wiki/Hexagonal_crystal_system#Hexagonal_crystal_system" title="Hexagonal crystal system">6mm</a> crystal class may also be written as (ANSI IEEE 176):</p>
+<dl>
+<dd><img class="tex" alt="
+\begin{bmatrix} S_1 \\ S_2 \\ S_3 \\ S_4 \\ S_5 \\ S_6 \end{bmatrix}
+=
+\begin{bmatrix} s_{11}^E &amp; s_{12}^E &amp; s_{13}^E &amp; 0 &amp; 0 &amp; 0 \\
+s_{21}^E &amp; s_{22}^E &amp; s_{23}^E &amp; 0 &amp; 0 &amp; 0 \\
+s_{31}^E &amp; s_{32}^E &amp; s_{33}^E &amp; 0 &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; 0 &amp; s_{44}^E &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; 0 &amp; 0 &amp; s_{55}^E &amp; 0 \\
+0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 &amp; s_{66}^E=2\left(s_{11}^E-s_{12}^E\right) \end{bmatrix}
+\begin{bmatrix} T_1 \\ T_2 \\ T_3 \\ T_4 \\ T_5 \\ T_6 \end{bmatrix}
++
+\begin{bmatrix} 0 &amp; 0 &amp; d_{31} \\
+0 &amp; 0 &amp; d_{32} \\
+0 &amp; 0 &amp; d_{33} \\
+0 &amp; d_{24} &amp; 0 \\
+d_{15} &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; 0 \end{bmatrix}
+\begin{bmatrix} E_1 \\ E_2 \\ E_3 \end{bmatrix}
+" src="//upload.wikimedia.org/wikipedia/en/math/4/8/0/4807f29209b29d3d30349f13f7f7a6f4.png" /></dd>
+</dl>
+<dl>
+<dd><img class="tex" alt="
+\begin{bmatrix} D_1 \\ D_2 \\ D_3 \end{bmatrix}
+=
+\begin{bmatrix} 0 &amp; 0 &amp; 0 &amp; 0 &amp; d_{15} &amp; 0 \\
+0 &amp; 0 &amp; 0 &amp; d_{24} &amp; 0 &amp; 0 \\
+d_{31} &amp; d_{32} &amp; d_{33} &amp; 0 &amp; 0 &amp; 0 \end{bmatrix}
+\begin{bmatrix} T_1 \\ T_2 \\ T_3 \\ T_4 \\ T_5 \\ T_6 \end{bmatrix}
++
+\begin{bmatrix} {\varepsilon}_{11} &amp; 0 &amp; 0 \\
+0 &amp; {\varepsilon}_{22} &amp; 0 \\
+0 &amp; 0 &amp; {\varepsilon}_{33} \end{bmatrix}
+\begin{bmatrix} E_1 \\ E_2 \\ E_3 \end{bmatrix}
+" src="//upload.wikimedia.org/wikipedia/en/math/1/4/8/1482ec8142bf67bae24fd00688b5b971.png" /></dd>
+</dl>
+<p>where the first equation represents the relationship for the converse piezoelectric effect and the latter for the direct piezoelectric effect.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>8<span>]</span></a></sup></p>
+<p>Although the above equations are the most used form in literature, some comments about the notation are necessary. Generally <i>D</i> and <i>E</i> are <a href="/wiki/Vector_(geometric)" title="Vector (geometric)" class="mw-redirect">vectors</a>, that is, <a href="/wiki/Cartesian_tensor" title="Cartesian tensor" class="mw-redirect">Cartesian tensor</a> of rank-1; and permittivity ε is Cartesian tensor of rank 2. Strain and stress are, in principle, also rank-2 <a href="/wiki/Tensors" title="Tensors" class="mw-redirect">tensors</a>. But conventionally, because strain and stress are all symmetric tensors, the subscript of strain and stress can be re-labeled in the following fashion: 11 → 1; 22 → 2; 33 → 3; 23 → 4; 13 → 5; 12 → 6. (Different convention may be used by different authors in literature. Say, some use 12 → 4; 23 → 5; 31 → 6 instead.) That is why <i>S</i> and <i>T</i> appear to have the "vector form" of 6 components. Consequently, <i>s</i> appears to be a 6 by 6 matrix instead of rank-4 tensor. Such a re-labeled notation is often called <a href="/wiki/Voigt_notation" title="Voigt notation">Voigt notation</a>.</p>
+<p>In total, there are 4 piezoelectric coefficients, <img class="tex" alt="d_{ij}" src="//upload.wikimedia.org/wikipedia/en/math/0/c/4/0c4b9c9cd5524aa9646468bf36bc8eec.png" />, <img class="tex" alt="e_{ij}" src="//upload.wikimedia.org/wikipedia/en/math/a/7/e/a7e1159ff8c67416a997a65682227c29.png" />, <img class="tex" alt="g_{ij}" src="//upload.wikimedia.org/wikipedia/en/math/5/b/5/5b5ed78a80d8869983a4a6b976b3dbe5.png" />, and <img class="tex" alt="h_{ij}" src="//upload.wikimedia.org/wikipedia/en/math/2/7/f/27f6d07c29f0781bcc065a3ad4c17797.png" /> defined as follows:</p>
+<dl>
+<dd><img class="tex" alt="
+d_{ij} = \left ( \frac{\partial D_i}{\partial T_j} \right )^E
+ = \left ( \frac{\partial S_j}{\partial E_i} \right )^T
+" src="//upload.wikimedia.org/wikipedia/en/math/c/e/b/ceb6db9d6be74a4feaa52f451114b90d.png" /></dd>
+<dd><img class="tex" alt="
+e_{ij} = \left ( \frac{\partial D_i}{\partial S_j} \right )^E
+ = -\left ( \frac{\partial T_j}{\partial E_i} \right )^S
+" src="//upload.wikimedia.org/wikipedia/en/math/8/5/1/851595673239525e1016b456e516c788.png" /></dd>
+<dd><img class="tex" alt="
+g_{ij} = -\left ( \frac{\partial E_i}{\partial T_j} \right )^D
+ = \left ( \frac{\partial S_j}{\partial D_i} \right )^T
+" src="//upload.wikimedia.org/wikipedia/en/math/1/0/0/1000219b30a2f9ecb89ca7515e9cfee2.png" /></dd>
+<dd><img class="tex" alt="
+h_{ij} = -\left ( \frac{\partial E_i}{\partial S_j} \right )^D
+ = -\left ( \frac{\partial T_j}{\partial D_i} \right )^S
+" src="//upload.wikimedia.org/wikipedia/en/math/7/1/a/71a2f7e5728120b5ec6318fe496a8211.png" /></dd>
+</dl>
+<p>where the first set of 4 terms correspond to the direct piezoelectric effect and the second set of 4 terms correspond to the converse piezoelectric effect.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>9<span>]</span></a></sup> A formalism has been worked out for those piezoelectric crystals, for which the polarization is of the crystal-field induced type, that allows for the calculation of piezoelectrical coefficients <img class="tex" alt="d_{ij}" src="//upload.wikimedia.org/wikipedia/en/math/0/c/4/0c4b9c9cd5524aa9646468bf36bc8eec.png" /> from electrostatic lattice constants or higher-order <a href="/wiki/Madelung_constant" title="Madelung constant">Madelung constants</a>.<sup id="cite_ref-ZPB1995a_4-1" class="reference"><a href="#cite_note-ZPB1995a-4"><span>[</span>5<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=7" title="Edit section: Crystal classes">edit</a>]</span> <span class="mw-headline" id="Crystal_classes">Crystal classes</span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Capacitor_schematic_with_dielectric.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Capacitor_schematic_with_dielectric.svg/220px-Capacitor_schematic_with_dielectric.svg.png" width="220" height="242" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Capacitor_schematic_with_dielectric.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Any spatially separated charge will result in an <a href="/wiki/Electric_field" title="Electric field">electric field</a>, and therefore an <a href="/wiki/Electric_potential" title="Electric potential">electric potential</a>. Shown here is a standard dielectric in a <a href="/wiki/Capacitor" title="Capacitor">capacitor</a>. In a piezoelectric device, mechanical stress, instead of an externally applied voltage, causes the charge separation in the individual atoms of the material, .</div>
+</div>
+</div>
+<p>Of the thirty-two <a href="/wiki/Crystal_class" title="Crystal class" class="mw-redirect">crystal classes</a>, twenty-one are non-centrosymmetric (not having a centre of symmetry), and of these, twenty exhibit direct piezoelectricity (the 21st is the cubic class 432). Ten of these represent the polar crystal classes, which show a spontaneous polarization without mechanical stress due to a non-vanishing electric dipole moment associated with their unit cell, and which exhibit pyroelectricity. If the dipole moment can be reversed by the application of an electric field, the material is said to be <a href="/wiki/Ferroelectric" title="Ferroelectric" class="mw-redirect">ferroelectric</a>.</p>
+<ul>
+<li>Polar crystal classes: 1, 2, m, mm2, 4, 4&#160;mm, 3, 3m, 6, 6&#160;mm.</li>
+<li>Piezoelectric crystal classes: 1, 2, m, 222, mm2, 4, <span style="text-decoration:overline;">4</span>, 422, 4&#160;mm, <span style="text-decoration:overline;">4</span>2m, 3, 32, 3m, 6, <span style="text-decoration:overline;">6</span>, 622, 6&#160;mm, <span style="text-decoration:overline;">6</span>2m, 23, <span style="text-decoration:overline;">4</span>3m.</li>
+</ul>
+<p>For polar crystals, for which <i><b>P</b></i> ≠ 0 holds without applying a mechanical load, the piezoelectric effect manifests itself by changing the magnitude or the direction of <i><b>P</b></i> or both. For the non-polar, but piezoelectric crystals, on the other hand, a polarization <i><b>P</b></i> different from zero is only elicited by applying a mechanical load. For them the stress can be imagined to transform the material from a non-polar crystal class (<i><b>P</b></i> =0) to a polar one,<sup id="cite_ref-ZPB1995a_4-2" class="reference"><a href="#cite_note-ZPB1995a-4"><span>[</span>5<span>]</span></a></sup> having <i><b>P</b></i> ≠ 0.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=8" title="Edit section: Materials">edit</a>]</span> <span class="mw-headline" id="Materials">Materials</span></h2>
+<p>Many materials, both natural and synthetic, exhibit piezoelectricity:</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=9" title="Edit section: Naturally occurring crystals">edit</a>]</span> <span class="mw-headline" id="Naturally_occurring_crystals">Naturally occurring crystals</span></h3>
+<ul>
+<li><a href="/wiki/Berlinite" title="Berlinite">Berlinite</a> (AlPO<font size="-1"><sub>4</sub></font>), a rare <a href="/wiki/Phosphate" title="Phosphate">phosphate</a> <a href="/wiki/Mineral" title="Mineral">mineral</a> that is structurally identical to quartz</li>
+<li><a href="/wiki/Sucrose" title="Sucrose">Sucrose</a> (table sugar)</li>
+<li><a href="/wiki/Quartz" title="Quartz">Quartz</a></li>
+<li><a href="/wiki/Potassium_sodium_tartrate" title="Potassium sodium tartrate">Rochelle salt</a></li>
+<li><a href="/wiki/Topaz" title="Topaz">Topaz</a></li>
+<li><a href="/wiki/Tourmaline" title="Tourmaline">Tourmaline-group minerals</a></li>
+</ul>
+<p>The action of piezoelectricity in Topaz can probably be attributed to ordering of the (F,OH) in its lattice, which is otherwise centrosymmetric: Orthorhombic Bipyramidal (mmm). Topaz has anomalous optical properties which are attributed to such ordering.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>10<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=10" title="Edit section: Bone">edit</a>]</span> <span class="mw-headline" id="Bone">Bone</span></h3>
+<p>Dry <a href="/wiki/Bone" title="Bone">bone</a> exhibits some piezoelectric properties. Studies of Fukada <i>et al.</i> showed that these are not due to the <a href="/wiki/Apatite" title="Apatite">apatite</a> crystals, which are centrosymmetric, thus non-piezoelectric, but due to <a href="/wiki/Collagen" title="Collagen">collagen</a>. Collagen exhibits the polar uniaxial orientation of molecular dipoles in its structure and can be considered as bioelectret, a sort of dielectric material exhibiting quasipermanent space charge and dipolar charge. Potentials are thought to occur when a number of collagen molecules are stressed in the same way displacing significant numbers of the charge carriers from the inside to the surface of the specimen. Piezoelectricity of single individual collagen fibrils was measured using piezoresponse force microscopy, and it was shown that collagen fibrils behave predominantly as shear piezoelectric materials.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>11<span>]</span></a></sup></p>
+<p>The piezoelectric effect is generally thought to act as a biological force sensor.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>12<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>13<span>]</span></a></sup> This effect was exploited by research conducted at the <a href="/wiki/University_of_Pennsylvania" title="University of Pennsylvania">University of Pennsylvania</a> in the late 1970s and early 1980s, which established that sustained application of electrical potential could stimulate both resorption and growth (depending on the polarity) of bone in-vivo.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>14<span>]</span></a></sup> Further studies in the 1990s provided the mathematical equation to confirm long bone wave propagation as to that of hexagonal (Class 6) crystals.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>15<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=11" title="Edit section: Other natural materials">edit</a>]</span> <span class="mw-headline" id="Other_natural_materials">Other natural materials</span></h3>
+<p>Biological materials exhibiting piezoelectric properties include:</p>
+<ul>
+<li><a href="/wiki/Tendon" title="Tendon">Tendon</a></li>
+<li><a href="/wiki/Silk" title="Silk">Silk</a></li>
+<li><a href="/wiki/Wood" title="Wood">Wood</a> due to piezoelectric <a href="/wiki/Texture_(crystalline)" title="Texture (crystalline)">texture</a></li>
+<li><a href="/wiki/Tooth_enamel" title="Tooth enamel">Enamel</a></li>
+<li><a href="/wiki/Dentin" title="Dentin">Dentin</a></li>
+<li><a href="/wiki/DNA" title="DNA">DNA</a></li>
+<li>Viral proteins, including those from <a href="/wiki/Bacteriophage" title="Bacteriophage">bacteriophage</a>. One study has found that thin films of <a href="/wiki/M13_bacteriophage" title="M13 bacteriophage">M13 bacteriophage</a> can be used to construct a piezoelectric generator sufficient to operate a <a href="/wiki/Liquid_crystal_display" title="Liquid crystal display">liquid crystal display</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>16<span>]</span></a></sup></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=12" title="Edit section: Synthetic crystals">edit</a>]</span> <span class="mw-headline" id="Synthetic_crystals">Synthetic crystals</span></h3>
+<ul>
+<li><a href="/wiki/Gallium_orthophosphate" title="Gallium orthophosphate" class="mw-redirect">Gallium orthophosphate</a> (GaPO<font size="-1"><sub>4</sub></font>), a quartz analogic crystal</li>
+<li><a href="/wiki/Langasite" title="Langasite" class="mw-redirect">Langasite</a> (La<font size="-1"><sub>3</sub></font>Ga<font size="-1"><sub>5</sub></font>SiO<font size="-1"><sub>14</sub></font>), a quartz analogic crystal</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=13" title="Edit section: Synthetic ceramics">edit</a>]</span> <span class="mw-headline" id="Synthetic_ceramics">Synthetic ceramics</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Perovskite.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Perovskite.svg/220px-Perovskite.svg.png" width="220" height="120" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Perovskite.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Tetragonal unit cell of lead titanate</div>
+</div>
+</div>
+<p>The family of ceramics with <a href="/wiki/Perovskite_(structure)" title="Perovskite (structure)">perovskite</a> or <a href="/wiki/Tungsten" title="Tungsten">tungsten</a>-<a href="/wiki/Bronze" title="Bronze">bronze</a> structures exhibits piezoelectricity:</p>
+<ul>
+<li><a href="/wiki/Barium_titanate" title="Barium titanate">Barium titanate</a> (BaTiO<font size="-1"><sub>3</sub></font>)—Barium titanate was the first piezoelectric ceramic discovered.</li>
+<li><a href="/wiki/Lead_titanate" title="Lead titanate">Lead titanate</a> (PbTiO<font><sub>3</sub></font>)</li>
+<li><a href="/wiki/Lead_zirconate_titanate" title="Lead zirconate titanate">Lead zirconate titanate</a> (<a href="/wiki/Lead" title="Lead">Pb</a>[<a href="/wiki/Zirconium" title="Zirconium">Zr</a><sub><i>x</i></sub><a href="/wiki/Titanium" title="Titanium">Ti</a><sub>1−<i>x</i></sub>]<a href="/wiki/Oxygen" title="Oxygen">O</a><sub>3</sub> 0≤<i>x</i>≤1)—more commonly known as <i>PZT</i>, lead zirconate titanate is the most common piezoelectric ceramic in use today.</li>
+<li>Potassium niobate (KNbO<font size="-1"><sub>3</sub></font>)</li>
+<li><a href="/wiki/Lithium_niobate" title="Lithium niobate">Lithium niobate</a> (LiNbO<font size="-1"><sub>3</sub></font>)</li>
+<li><a href="/wiki/Lithium_tantalate" title="Lithium tantalate">Lithium tantalate</a> (LiTaO<font size="-1"><sub>3</sub></font>)</li>
+<li><a href="/wiki/Sodium_tungstate" title="Sodium tungstate">Sodium tungstate</a> (Na<font size="-1"><sub>2</sub></font>WO<font size="-1"><sub>3</sub></font>)</li>
+<li><a href="/wiki/Zinc_oxide" title="Zinc oxide">Zinc oxide</a> (Zn<font size="-1"><sub>2</sub></font>O<font size="-1"><sub>3</sub></font>)</li>
+<li>Ba<font size="-1"><sub>2</sub></font>NaNb<font size="-1"><sub>5</sub></font>O<font size="-1"><sub>5</sub></font></li>
+<li>Pb<font size="-1"><sub>2</sub></font>KNb<font size="-1"><sub>5</sub></font>O<font size="-1"><sub>15</sub></font></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=14" title="Edit section: Lead-free piezoceramics">edit</a>]</span> <span class="mw-headline" id="Lead-free_piezoceramics">Lead-free piezoceramics</span></h3>
+<p>More recently, there is growing concern regarding the toxicity in lead-containing devices driven by the result of <a href="/wiki/Restriction_of_hazardous_substances_directive" title="Restriction of hazardous substances directive" class="mw-redirect">restriction of hazardous substances directive</a> regulations. To address this concern, there has been a resurgence in the compositional development of lead-free piezoelectric materials.</p>
+<ul>
+<li>Sodium potassium niobate ((K,Na)NbO<font size="-1"><sub>3</sub></font>). In 2004, a group of Japanese researchers led by Yasuyoshi Saito discovered a sodium potassium niobate composition with properties close to those of PZT, including a high <img class="tex" alt="T_{C}" src="//upload.wikimedia.org/wikipedia/en/math/a/5/d/a5dc69a1ffa1ad9a976d5005d608831c.png" />.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>17<span>]</span></a></sup></li>
+<li><a href="/wiki/Bismuth_ferrite" title="Bismuth ferrite">Bismuth ferrite</a> (BiFeO<sub>3</sub>) is also a promising candidate for the replacement of lead-based ceramics.</li>
+<li>Sodium niobate NaNbO<sub>3</sub></li>
+<li><a href="/w/index.php?title=Bismuth_titanate&amp;action=edit&amp;redlink=1" class="new" title="Bismuth titanate (page does not exist)">Bismuth titanate</a> Bi<sub>4</sub>Ti<sub>3</sub>O<sub>12</sub></li>
+<li>Sodium bismuth titanate Na<sub>0.5</sub>Bi<sub>0.5</sub>TiO<sub>3</sub></li>
+</ul>
+<p>So far, neither the environmental impact nor the stability of supplying these substances have been confirmed.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=15" title="Edit section: Polymers">edit</a>]</span> <span class="mw-headline" id="Polymers">Polymers</span></h3>
+<ul>
+<li><a href="/wiki/Polyvinylidene_fluoride" title="Polyvinylidene fluoride">Polyvinylidene fluoride</a> (PVDF): PVDF exhibits piezoelectricity several times greater than quartz. Unlike ceramics, where the crystal structure of the material creates the piezoelectric effect, in polymers the intertwined long-chain molecules attract and repel each other when an electric field is applied.</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=16" title="Edit section: Applications">edit</a>]</span> <span class="mw-headline" id="Applications">Applications</span></h2>
+<p>Currently, industrial and manufacturing is the largest application market for piezoelectric devices, followed by the automotive industry. Strong demand also comes from medical instruments as well as information and telecommunications. The global demand for piezoelectric devices was valued at approximately US$14.8 billion in 2010. The largest material group for piezoelectric devices is piezocrystal , and piezopolymer is experiencing the fastest growth due to its light weight and small size.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>18<span>]</span></a></sup></p>
+<p>Piezoelectric crystals are now used in numerous ways:</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=17" title="Edit section: High voltage and power sources">edit</a>]</span> <span class="mw-headline" id="High_voltage_and_power_sources">High voltage and power sources</span></h3>
+<p>Direct piezoelectricity of some substances like quartz, as mentioned above, can generate <a href="/wiki/Potential_difference" title="Potential difference" class="mw-redirect">potential differences</a> of thousands of volts.</p>
+<ul>
+<li>The best-known application is the electric cigarette <a href="/wiki/Lighter_(fire_starter)" title="Lighter (fire starter)" class="mw-redirect">lighter</a>: pressing the button causes a spring-loaded hammer to hit a piezoelectric crystal, producing a sufficiently high voltage electric current that flows across a small <a href="/wiki/Spark_gap" title="Spark gap">spark gap</a>, thus heating and igniting the gas. The portable sparkers used to light <a href="/wiki/Natural_gas" title="Natural gas">gas</a> grills or stoves work the same way, and many types of gas burners now have built-in piezo-based ignition systems.</li>
+</ul>
+<ul>
+<li>A similar idea is being researched by <a href="/wiki/DARPA" title="DARPA">DARPA</a> in the United States in a project called <i><a href="/wiki/Energy_Harvesting" title="Energy Harvesting" class="mw-redirect">Energy Harvesting</a></i>, which includes an attempt to power battlefield equipment by piezoelectric generators embedded in <a href="/wiki/Soldier" title="Soldier">soldiers</a>' boots. However, these energy harvesting sources by association have an impact on the body. DARPA's effort to harness 1–2&#160;watts from continuous shoe impact while walking were abandoned due to the impracticality and the discomfort from the additional energy expended by a person wearing the shoes. Other energy harvesting ideas include harvesting the energy from human movements in train stations or other public places<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>20<span>]</span></a></sup> and converting a dance floor to generate electricity.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>21<span>]</span></a></sup> Vibrations from industrial machinery can also be harvested by piezoeletric materials to charge batteries for backup supplies or to power low power microprocessors and wireless radios.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>22<span>]</span></a></sup></li>
+</ul>
+<ul>
+<li>A piezoelectric <a href="/wiki/Transformer" title="Transformer">transformer</a> is a type of AC voltage multiplier. Unlike a conventional transformer, which uses magnetic coupling between input and output, the piezoelectric transformer uses <a href="/wiki/Sound" title="Sound">acoustic</a> coupling. An input voltage is applied across a short length of a bar of piezoceramic material such as <a href="/wiki/Lead_zirconate_titanate" title="Lead zirconate titanate">PZT</a>, creating an alternating stress in the bar by the inverse piezoelectric effect and causing the whole bar to vibrate. The vibration frequency is chosen to be the <a href="/wiki/Resonance" title="Resonance">resonant</a> frequency of the block, typically in the 100&#160;<a href="/wiki/Kilohertz" title="Kilohertz" class="mw-redirect">kilohertz</a> to 1&#160;megahertz range. A higher output voltage is then generated across another section of the bar by the piezoelectric effect. Step-up ratios of more than 1000:1 have been demonstrated. An extra feature of this transformer is that, by operating it above its resonant frequency, it can be made to appear as an <a href="/wiki/Inductor" title="Inductor">inductive</a> load, which is useful in circuits that require a controlled soft start.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>23<span>]</span></a></sup> These devices can be used in DC-AC inverters to drive <a href="/wiki/Cold_cathode_fluorescent_lamp" title="Cold cathode fluorescent lamp" class="mw-redirect">cold cathode fluorescent lamps</a>. Piezo transformers are some of the most compact high voltage sources.</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=18" title="Edit section: Sensors">edit</a>]</span> <span class="mw-headline" id="Sensors">Sensors</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Piezoelectric_pickup1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Piezoelectric_pickup1.jpg/220px-Piezoelectric_pickup1.jpg" width="220" height="180" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Piezoelectric_pickup1.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Piezoelectric disk used as a <a href="/wiki/Guitar_pickup" title="Guitar pickup" class="mw-redirect">guitar pickup</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:RPG-7_detached.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/RPG-7_detached.jpg/220px-RPG-7_detached.jpg" width="220" height="147" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:RPG-7_detached.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Many rocket-propelled grenades used a piezoelectric <a href="//en.wiktionary.org/wiki/fuze" class="extiw" title="wikt:fuze">fuze</a>. For example: <a href="/wiki/RPG-7" title="RPG-7">RPG-7</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>24<span>]</span></a></sup></div>
+</div>
+</div>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Piezoelectric_sensor" title="Piezoelectric sensor">Piezoelectric sensor</a></div>
+<p>The principle of operation of a piezoelectric <a href="/wiki/Sensor" title="Sensor">sensor</a> is that a physical dimension, transformed into a force, acts on two opposing faces of the sensing element. Depending on the design of a sensor, different "modes" to load the piezoelectric element can be used: longitudinal, transversal and shear.</p>
+<p>Detection of pressure variations in the form of sound is the most common sensor application, e.g. piezoelectric <a href="/wiki/Microphone" title="Microphone">microphones</a> (sound waves bend the piezoelectric material, creating a changing voltage) and piezoelectric <a href="/wiki/Pick_up_(music_technology)" title="Pick up (music technology)" class="mw-redirect">pickups</a> for <a href="/wiki/Acoustic-electric_guitar" title="Acoustic-electric guitar">Acoustic-electric guitars</a>. A piezo sensor attached to the body of an instrument is known as a <a href="/wiki/Contact_microphone" title="Contact microphone">contact microphone</a>.</p>
+<p>Piezoelectric sensors especially are used with high frequency sound in ultrasonic transducers for medical imaging and also industrial <a href="/wiki/Nondestructive_testing" title="Nondestructive testing">nondestructive testing</a> (NDT).</p>
+<p>For many sensing techniques, the sensor can act as both a sensor and an actuator – often the term <i>transducer</i> is preferred when the device acts in this dual capacity, but most piezo devices have this property of reversibility whether it is used or not. Ultrasonic transducers, for example, can inject ultrasound waves into the body, receive the returned wave, and convert it to an electrical signal (a voltage). Most medical ultrasound transducers are piezoelectric.</p>
+<p>In addition to those mentioned above, various sensor applications include:</p>
+<ul>
+<li>Piezoelectric elements are also used in the detection and generation of sonar waves.</li>
+<li>Power monitoring in high power applications (e.g. medical treatment, <a href="/wiki/Sonochemistry" title="Sonochemistry">sonochemistry</a> and industrial processing).</li>
+<li><a href="/wiki/Piezoelectric_microbalance" title="Piezoelectric microbalance" class="mw-redirect">Piezoelectric microbalances</a> are used as very sensitive chemical and biological sensors.</li>
+<li>Piezos are sometimes used in <a href="/wiki/Strain_gauge" title="Strain gauge">strain gauges</a>.</li>
+<li>Piezoelectric <a href="/wiki/Transducers" title="Transducers" class="mw-redirect">transducers</a> are used in <a href="/wiki/Electronic_drum" title="Electronic drum">electronic drum pads</a> to detect the impact of the drummer's sticks, and to detect muscle movements in medical <a href="/wiki/Acceleromyography" title="Acceleromyography" class="mw-redirect">acceleromyography</a>.</li>
+<li>Automotive <a href="/wiki/Engine_Control_Unit" title="Engine Control Unit" class="mw-redirect">engine management systems</a> use piezoelectric transducers to detect Engine knock (Knock Sensor, KS), also known as detonation, at certain hertz frequencys. A piezoelectric transducer is also used in fuel injection systems to measure manifold absolute pressure (MAP sensor) to determine engine load, and ultimately the fuel injectors milliseconds of on time.</li>
+<li>Ultrasonic piezo sensors are used in the detection of acoustic emissions in <a href="/wiki/Acoustic_emission_testing" title="Acoustic emission testing" class="mw-redirect">acoustic emission testing</a>.</li>
+<li><a href="/wiki/Crystal_earpiece" title="Crystal earpiece">Crystal earpieces</a> are sometimes used in old or low power radios</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=19" title="Edit section: Actuators">edit</a>]</span> <span class="mw-headline" id="Actuators">Actuators</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:2007-07-24_Piezoelectric_buzzer.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2007-07-24_Piezoelectric_buzzer.jpg/220px-2007-07-24_Piezoelectric_buzzer.jpg" width="220" height="165" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:2007-07-24_Piezoelectric_buzzer.jpg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+Metal disk with piezoelectric disk attached, used in a <a href="/wiki/Buzzer" title="Buzzer">buzzer</a></div>
+</div>
+</div>
+<p>As very high electric fields correspond to only tiny changes in the width of the crystal, this width can be changed with better-than-<a href="/wiki/Micrometre" title="Micrometre">µm</a> precision, making piezo crystals the most important tool for positioning objects with extreme accuracy — thus their use in <a href="/wiki/Actuators" title="Actuators" class="mw-redirect">actuators</a>. Multilayer ceramics, using layers thinner than <span class="nowrap">100 µm</span>, allow reaching high electric fields with voltage lower than <span class="nowrap">150 V</span>. These ceramics are used within two kinds of actuators: direct piezo actuators and <a href="/wiki/Amplified_piezoelectric_actuator" title="Amplified piezoelectric actuator">Amplified piezoelectric actuators</a>. While direct actuator's stroke is generally lower than <span class="nowrap">100 µm</span>, amplified piezo actuators can reach millimeter strokes.</p>
+<ul>
+<li><a href="/wiki/Loudspeakers" title="Loudspeakers" class="mw-redirect">Loudspeakers</a>: Voltage is converted to mechanical movement of a piezoelectric polymer film.</li>
+<li><a href="/wiki/Piezoelectric_motor" title="Piezoelectric motor">Piezoelectric motors</a>: Piezoelectric elements apply a directional force to an <a href="/wiki/Axle" title="Axle">axle</a>, causing it to rotate. Due to the extremely small distances involved, the piezo motor is viewed as a high-precision replacement for the <a href="/wiki/Stepper_motor" title="Stepper motor">stepper motor</a>.</li>
+<li>Piezoelectric elements can be used in <a href="/wiki/Laser" title="Laser">laser</a> mirror alignment, where their ability to move a large mass (the mirror mount) over microscopic distances is exploited to electronically align some laser mirrors. By precisely controlling the distance between mirrors, the laser electronics can accurately maintain optical conditions inside the laser cavity to optimize the beam output.</li>
+<li>A related application is the <a href="/wiki/Acousto-optic_modulator" title="Acousto-optic modulator">acousto-optic modulator</a>, a device that scatters light off of soundwaves in a crystal, generated by piezoelectric elements. This is useful for fine-tuning a laser's frequency.</li>
+<li><a href="/wiki/Atomic_force_microscope" title="Atomic force microscope" class="mw-redirect">Atomic force microscopes</a> and <a href="/wiki/Scanning_tunneling_microscope" title="Scanning tunneling microscope">scanning tunneling microscopes</a> employ converse piezoelectricity to keep the sensing needle close to the probe.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>25<span>]</span></a></sup></li>
+<li><a href="/wiki/Inkjet_printer" title="Inkjet printer">Inkjet printers</a>: On many inkjet printers, piezoelectric crystals are used to drive the ejection of ink from the inkjet print head towards the paper.</li>
+<li><a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engines</a>: High-performance <a href="/wiki/Common_rail" title="Common rail">common rail</a> diesel engines use piezoelectric <a href="/wiki/Fuel_injector" title="Fuel injector" class="mw-redirect">fuel injectors</a>, first developed by <a href="/wiki/Robert_Bosch_GmbH" title="Robert Bosch GmbH">Robert Bosch GmbH</a>, instead of the more common <a href="/wiki/Solenoid_valve" title="Solenoid valve">solenoid valve</a> devices.</li>
+<li>Active vibration control using amplified actuators.</li>
+<li><a href="/wiki/X-ray" title="X-ray">X-ray</a> shutters.</li>
+<li>XY stages for micro scanning used in infrared cameras.</li>
+<li>Moving the patient precisely inside active <a href="/wiki/X-ray_computed_tomography" title="X-ray computed tomography">CT</a> and <a href="/wiki/Magnetic_resonance_imaging" title="Magnetic resonance imaging">MRI</a> scanners where the strong radiation or magnetism precludes electric motors.<sup id="cite_ref-piezact_25-0" class="reference"><a href="#cite_note-piezact-25"><span>[</span>26<span>]</span></a></sup></li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=20" title="Edit section: Frequency standard">edit</a>]</span> <span class="mw-headline" id="Frequency_standard">Frequency standard</span></h3>
+<p>The piezoelectrical properties of quartz are useful as <a href="/wiki/Frequency_standard" title="Frequency standard">standard of frequency</a>.</p>
+<ul>
+<li><a href="/wiki/Quartz_clock" title="Quartz clock">Quartz clocks</a> employ a <a href="/wiki/Crystal_oscillator" title="Crystal oscillator">crystal oscillator</a> made from a quartz crystal that uses a combination of both direct and converse piezoelectricity to generate a regularly timed series of electrical pulses that is used to mark time. The quartz crystal (like any <a href="/wiki/Elasticity_(physics)" title="Elasticity (physics)">elastic</a> material) has a precisely defined natural frequency (caused by its shape and size) at which it prefers to <a href="/wiki/Oscillator" title="Oscillator" class="mw-redirect">oscillate</a>, and this is used to stabilize the frequency of a periodic voltage applied to the crystal.</li>
+<li>The same principle is critical in all <a href="/wiki/Radio" title="Radio">radio</a> <a href="/wiki/Transmitter" title="Transmitter">transmitters</a> and <a href="/wiki/Receiver_(radio)" title="Receiver (radio)">receivers</a>, and in <a href="/wiki/Computer" title="Computer">computers</a> where it creates a <a href="/wiki/Clock_pulse" title="Clock pulse" class="mw-redirect">clock pulse</a>. Both of these usually use a <a href="/wiki/Frequency_multiplier" title="Frequency multiplier">frequency multiplier</a> to reach gigahertz ranges.</li>
+</ul>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=21" title="Edit section: Piezoelectric motors">edit</a>]</span> <span class="mw-headline" id="Piezoelectric_motors">Piezoelectric motors</span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Slip-stick_actuator_operation.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Slip-stick_actuator_operation.svg/220px-Slip-stick_actuator_operation.svg.png" width="220" height="238" class="thumbimage" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Slip-stick_actuator_operation.svg" class="internal" title="Enlarge"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/magnify-clip.png" width="15" height="11" alt="" /></a></div>
+A slip-stick actuator.</div>
+</div>
+</div>
+<div class="rellink relarticle mainarticle">Main article: <a href="/wiki/Piezoelectric_motor" title="Piezoelectric motor">Piezoelectric motor</a></div>
+<p>Types of piezoelectric motor include:</p>
+<ul>
+<li>The <a href="/w/index.php?title=Traveling-wave_motor&amp;action=edit&amp;redlink=1" class="new" title="Traveling-wave motor (page does not exist)">traveling-wave motor</a> used for <a href="/wiki/Auto-focus" title="Auto-focus" class="mw-redirect">auto-focus</a> in <a href="/wiki/Single_lens_reflex" title="Single lens reflex" class="mw-redirect">reflex cameras</a></li>
+<li><a href="/wiki/Inchworm_motor" title="Inchworm motor">Inchworm motors</a> for linear motion</li>
+<li>Rectangular four-quadrant motors with high power density (2.5 <a href="/wiki/Watt" title="Watt">watt</a>/cm<sup>3</sup>) and speed ranging from 10&#160;nm/s to 800&#160;mm/s.</li>
+<li>Stepping piezo motor, using <a href="/wiki/Stick-slip" title="Stick-slip" class="mw-redirect">stick-slip</a> effect.</li>
+</ul>
+<p>All these motors, except the stepping stick-slip motor work on the same principle. Driven by dual orthogonal vibration modes with a <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a> difference of 90°, the contact point between two surfaces vibrates in an <a href="/wiki/Ellipse" title="Ellipse">elliptical</a> path, producing a <a href="/wiki/Friction" title="Friction">frictional</a> force between the surfaces. Usually, one surface is fixed causing the other to move. In most piezoelectric motors the piezoelectric crystal is excited by a <a href="/wiki/Sine_wave" title="Sine wave">sine wave</a> signal at the resonant frequency of the motor. Using the resonance effect, a much lower voltage can be used to produce a high vibration amplitude.</p>
+<p>Stick-slip motor works using the inertia of a mass and the friction of a clamp. Such motors can be very small. Some are used for camera sensor displacement, allowing anti shake function.</p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=22" title="Edit section: Reduction of vibrations and noise">edit</a>]</span> <span class="mw-headline" id="Reduction_of_vibrations_and_noise">Reduction of vibrations and noise</span></h3>
+<p>Different teams of researchers have been investigating ways to reduce vibrations in materials by attaching piezo elements to the material. When the material is bent by a vibration in one direction, the vibration-reduction system responds to the bend and sends electric power to the piezo element to bend in the other direction. Future applications of this technology are expected in cars and houses to reduce noise.</p>
+<p>In a demonstration at the Material Vision Fair in <a href="/wiki/Frankfurt" title="Frankfurt">Frankfurt</a> in November 2005, a team from <a href="/wiki/Darmstadt_University_of_Technology" title="Darmstadt University of Technology" class="mw-redirect">TU Darmstadt</a> in <a href="/wiki/Germany" title="Germany">Germany</a> showed several panels that were hit with a rubber mallet, and the panel with the piezo element immediately stopped swinging.</p>
+<p>Piezoelectric ceramic fiber technology is being used as an electronic damping system on some <a href="/wiki/Head_(company)" title="Head (company)">HEAD</a> <a href="/wiki/Tennis_racket" title="Tennis racket" class="mw-redirect">tennis rackets</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>27<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=23" title="Edit section: Infertility treatment">edit</a>]</span> <span class="mw-headline" id="Infertility_treatment">Infertility treatment</span></h3>
+<p>In people with previous <a href="/wiki/Total_fertilization_failure" title="Total fertilization failure" class="mw-redirect">total fertilization failure</a>, piezoelectric activation of oocytes together with <a href="/wiki/Intracytoplasmic_sperm_injection" title="Intracytoplasmic sperm injection">intracytoplasmic sperm injection</a> (ICSI) seems to improve fertilization outcome.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span>[</span>28<span>]</span></a></sup></p>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=24" title="Edit section: Surgery">edit</a>]</span> <span class="mw-headline" id="Surgery">Surgery</span></h3>
+<p>A recent application of piezoelectric ultrasound sources is piezoelectric surgery, also known as <a href="/wiki/Piezosurgery" title="Piezosurgery">piezosurgery</a>.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span>[</span>29<span>]</span></a></sup> Piezosurgery is a minimally invasive technique that aims to cut a target tissue with little damage to neighboring tissues. For example, Hoigne <i>et al.</i><sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>30<span>]</span></a></sup> reported its use in hand surgery for the cutting of bone, using frequencies in the range 25–29&#160;kHz, causing microvibrations of 60–210&#160;μm. It has the ability to cut mineralized tissue without cutting neurovascular tissue and other soft tissue, thereby maintaining a blood-free operating area, better visibility and greater precision.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>31<span>]</span></a></sup></p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=25" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<div class="column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li><a href="/wiki/Charge_amplifier" title="Charge amplifier">Charge amplifier</a></li>
+<li><a href="/wiki/Electronic_component" title="Electronic component">Electronic component</a></li>
+<li><a href="/wiki/Electret" title="Electret">Electret</a></li>
+<li><a href="/wiki/Electrostriction" title="Electrostriction">Electrostriction</a></li>
+<li><a href="/wiki/Energy_harvesting" title="Energy harvesting">Energy harvesting</a>, methods of converting other forms of energy to electricity.</li>
+<li><a href="/wiki/Ferroelectricity" title="Ferroelectricity">Ferroelectricity</a></li>
+<li><a href="/wiki/Flexoelectricity" title="Flexoelectricity">Flexoelectricity</a></li>
+<li><a href="/wiki/Magnetostriction" title="Magnetostriction">Magnetostriction</a></li>
+<li><a href="/wiki/Piezomagnetism" title="Piezomagnetism">Piezomagnetism</a></li>
+<li><a href="/wiki/Piezosurgical" title="Piezosurgical" class="mw-redirect">Piezosurgical</a></li>
+<li><a href="/wiki/Piezoresistive_effect" title="Piezoresistive effect">Piezoresistive effect</a></li>
+<li><a href="/wiki/Sonomicrometry" title="Sonomicrometry">Sonomicrometry</a></li>
+<li><a href="/wiki/Surface_acoustic_wave" title="Surface acoustic wave">Surface acoustic wave</a></li>
+<li><a href="/wiki/Triboluminescence" title="Triboluminescence">Triboluminescence</a></li>
+</ul>
+</div>
+<h2><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=26" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<div class="reflist references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-InstrumentAnalysis-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-InstrumentAnalysis_0-0">^</a></b></span> <span class="reference-text"><span class="citation book">Holler, F. James; Skoog, Douglas A; Crouch, Stanley R (2007). "Chapter 1". <i>Principles of Instrumental Analysis</i> (6th ed.). Cengage Learning. p.&#160;9. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-495-01201-6" title="Special:BookSources/978-0-495-01201-6">978-0-495-01201-6</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Chapter+1&amp;rft.atitle=Principles+of+Instrumental+Analysis&amp;rft.aulast=Holler&amp;rft.aufirst=F.+James&amp;rft.au=Holler%2C%26%2332%3BF.+James&amp;rft.date=2007&amp;rft.pages=p.%26nbsp%3B9&amp;rft.edition=6th&amp;rft.pub=Cengage+Learning&amp;rft.isbn=978-0-495-01201-6&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><span class="citation web">Harper, Douglas. <a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=piezoelectric">"piezoelectric"</a>. <i><a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">Online Etymology Dictionary</a></i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.etymonline.com/index.php?term=piezoelectric">http://www.etymonline.com/index.php?term=piezoelectric</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=piezoelectric&amp;rft.atitle=%5B%5BOnline+Etymology+Dictionary%5D%5D&amp;rft.aulast=Harper%2C+Douglas&amp;rft.au=Harper%2C+Douglas&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dpiezoelectric&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-Piezoelectric_Sensorics-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Piezoelectric_Sensorics_2-0">^</a></b></span> <span class="reference-text"><span class="citation book">Gautschi, G (2002). <i>Piezoelectric Sensorics: Force, Strain, Pressure, Acceleration and Acoustic Emission Sensors, Materials and Amplifiers.</i>. Springer.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Piezoelectric+Sensorics%3A+Force%2C+Strain%2C+Pressure%2C+Acceleration+and+Acoustic+Emission+Sensors%2C+Materials+and+Amplifiers.&amp;rft.aulast=Gautschi&amp;rft.aufirst=G&amp;rft.au=Gautschi%2C%26%2332%3BG&amp;rft.date=2002&amp;rft.pub=Springer&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><span class="citation Journal">Lippman, G. (1881). <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k348640">"Principe de la conservation de l'électricité"</a> (in French). <i><a href="/wiki/Annales_de_chimie_et_de_physique" title="Annales de chimie et de physique">Annales de chimie et de physique</a></i> <b>24</b>: 145<span class="printonly">. <a rel="nofollow" class="external free" href="http://gallica.bnf.fr/ark:/12148/bpt6k348640">http://gallica.bnf.fr/ark:/12148/bpt6k348640</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Principe+de+la+conservation+de+l%27%C3%A9lectricit%C3%A9&amp;rft.jtitle=%5B%5BAnnales+de+chimie+et+de+physique%5D%5D&amp;rft.aulast=Lippman&amp;rft.aufirst=G.&amp;rft.au=Lippman%2C%26%2332%3BG.&amp;rft.date=1881&amp;rft.volume=24&amp;rft.pages=145&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k348640&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-ZPB1995a-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-ZPB1995a_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ZPB1995a_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ZPB1995a_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation Journal">M. Birkholz (1995). <a rel="nofollow" class="external text" href="http://www.mariobirkholz.de/ZPB1995b.pdf">"Crystal-field induced dipoles in heteropolar crystals – II. physical significance"</a>. <i>Z. Phys. B</i> <b>96</b> (3): 333–340. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a> <a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1995ZPhyB..96..333B">1995ZPhyB..96..333B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2FBF01313055">10.1007/BF01313055</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.mariobirkholz.de/ZPB1995b.pdf">http://www.mariobirkholz.de/ZPB1995b.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Crystal-field+induced+dipoles+in+heteropolar+crystals+%E2%80%93+II.+physical+significance&amp;rft.jtitle=Z.+Phys.+B&amp;rft.aulast=M.+Birkholz&amp;rft.au=M.+Birkholz&amp;rft.date=1995&amp;rft.volume=96&amp;rft.issue=3&amp;rft.pages=333%E2%80%93340&amp;rft_id=info:bibcode/1995ZPhyB..96..333B&amp;rft_id=info:doi/10.1007%2FBF01313055&amp;rft_id=http%3A%2F%2Fwww.mariobirkholz.de%2FZPB1995b.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-PAMTA-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-PAMTA_5-0">^</a></b></span> <span class="reference-text"><span class="citation book">S. Trolier-McKinstry (2008). "Chapter3: Crystal Chemistry of Piezoelectric Materials". In A. Safari, E.K. Akdo˘gan. <i>Piezoelectric and Acoustic Materials for Transducer Applications</i>. New York: Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-387-76538-9" title="Special:BookSources/978-0-387-76538-9">978-0-387-76538-9</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Chapter3%3A+Crystal+Chemistry+of+Piezoelectric+Materials&amp;rft.atitle=Piezoelectric+and+Acoustic+Materials+for+Transducer+Applications&amp;rft.aulast=S.+Trolier-McKinstry&amp;rft.au=S.+Trolier-McKinstry&amp;rft.date=2008&amp;rft.place=New+York&amp;rft.pub=Springer&amp;rft.isbn=978-0-387-76538-9&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://machinedesign.com/article/sensor-sense-piezoelectric-force-sensors-0207">Sensor Sense: Piezoelectric Force Sensors</a>. Machinedesign.com (2008-02-07). Retrieved on 2012-05-04.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><span class="citation Journal">Damjanovic, Dragan (1998). "Ferroelectric, dielectric and piezoelectric properties of ferroelectric thin films and ceramics". <i>Reports on Progress in Physics</i> <b>61</b> (9): 1267–1324. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a> <a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/1998RPPh...61.1267D">1998RPPh...61.1267D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1088%2F0034-4885%2F61%2F9%2F002">10.1088/0034-4885/61/9/002</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ferroelectric%2C+dielectric+and+piezoelectric+properties+of+ferroelectric+thin+films+and+ceramics&amp;rft.jtitle=Reports+on+Progress+in+Physics&amp;rft.aulast=Damjanovic&amp;rft.aufirst=Dragan&amp;rft.au=Damjanovic%2C%26%2332%3BDragan&amp;rft.date=1998&amp;rft.volume=61&amp;rft.issue=9&amp;rft.pages=1267%E2%80%931324&amp;rft_id=info:bibcode/1998RPPh...61.1267D&amp;rft_id=info:doi/10.1088%2F0034-4885%2F61%2F9%2F002&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation Journal">Kochervinskii, V (2003). "Piezoelectricity in Crystallizing Ferroelectric Polymers". <i>Crystallography Reports</i> <b>48</b> (4): 649–675. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a> <a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2003CryRp..48..649K">2003CryRp..48..649K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1134%2F1.1595194">10.1134/1.1595194</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Piezoelectricity+in+Crystallizing+Ferroelectric+Polymers&amp;rft.jtitle=Crystallography+Reports&amp;rft.aulast=Kochervinskii&amp;rft.aufirst=V&amp;rft.au=Kochervinskii%2C%26%2332%3BV&amp;rft.date=2003&amp;rft.volume=48&amp;rft.issue=4&amp;rft.pages=649%E2%80%93675&amp;rft_id=info:bibcode/2003CryRp..48..649K&amp;rft_id=info:doi/10.1134%2F1.1595194&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><span class="citation Journal">Akizuki, Mizuhiko, Martin S. Hampar, and Jack Zussman (1979). <a rel="nofollow" class="external text" href="http://rruff.geo.arizona.edu/doclib/MinMag/Volume_43/43-326-237.pdf">"An explanation of anomalous optical properties of topaz"</a>. <i>Mineralogical Magazine</i> <b>43</b> (326): 237–241. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1180%2Fminmag.1979.043.326.05">10.1180/minmag.1979.043.326.05</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://rruff.geo.arizona.edu/doclib/MinMag/Volume_43/43-326-237.pdf">http://rruff.geo.arizona.edu/doclib/MinMag/Volume_43/43-326-237.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=An+explanation+of+anomalous+optical+properties+of+topaz&amp;rft.jtitle=Mineralogical+Magazine&amp;rft.aulast=Akizuki%2C+Mizuhiko%2C+Martin+S.+Hampar%2C+and+Jack+Zussman&amp;rft.au=Akizuki%2C+Mizuhiko%2C+Martin+S.+Hampar%2C+and+Jack+Zussman&amp;rft.date=1979&amp;rft.volume=43&amp;rft.issue=326&amp;rft.pages=237%E2%80%93241&amp;rft_id=info:doi/10.1180%2Fminmag.1979.043.326.05&amp;rft_id=http%3A%2F%2Frruff.geo.arizona.edu%2Fdoclib%2FMinMag%2FVolume_43%2F43-326-237.pdf&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><span class="citation Journal">M. Minary-Jolandan, and Min-Feng Yu (2009). "Nanoscale characterization of isolated individual type I collagen fibrils: Polarization and piezoelectricity". <i>Nanotechnology</i> <b>20</b> (8): 085706. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1088%2F0957-4484%2F20%2F8%2F085706">10.1088/0957-4484/20/8/085706</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19417467">19417467</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Nanoscale+characterization+of+isolated+individual+type+I+collagen+fibrils%3A+Polarization+and+piezoelectricity&amp;rft.jtitle=Nanotechnology&amp;rft.aulast=M.+Minary-Jolandan%2C+and+Min-Feng+Yu&amp;rft.au=M.+Minary-Jolandan%2C+and+Min-Feng+Yu&amp;rft.date=2009&amp;rft.volume=20&amp;rft.issue=8&amp;rft.pages=085706&amp;rft_id=info:doi/10.1088%2F0957-4484%2F20%2F8%2F085706&amp;rft_id=info:pmid/19417467&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><span class="citation web">Lakes, Roderic. <a rel="nofollow" class="external text" href="http://silver.neep.wisc.edu/~lakes/BoneElectr.html">"Electrical Properties of Bone: A Review"</a>. <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://silver.neep.wisc.edu/~lakes/BoneElectr.html">http://silver.neep.wisc.edu/~lakes/BoneElectr.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Electrical+Properties+of+Bone%3A+A+Review&amp;rft.atitle=&amp;rft.aulast=Lakes&amp;rft.aufirst=Roderic&amp;rft.au=Lakes%2C%26%2332%3BRoderic&amp;rft.pub=%5B%5BUniversity+of+Wisconsin%E2%80%93Madison%5D%5D&amp;rft_id=http%3A%2F%2Fsilver.neep.wisc.edu%2F%7Elakes%2FBoneElectr.html&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><span class="citation book">Becker, Robert O; Marino, Andrew A (1982). <a rel="nofollow" class="external text" href="http://www.ortho.lsuhsc.edu/Faculty/Marino/EL/EL4/Piezo.html">"Chapter 4: Electrical Properties of Biological Tissue (Piezoelectricity)"</a>. <i>Electromagnetism &amp; Life</i>. <a href="/wiki/Albany,_New_York" title="Albany, New York">Albany, New York</a>: State University of New York Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87395-560-9" title="Special:BookSources/0-87395-560-9">0-87395-560-9</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.ortho.lsuhsc.edu/Faculty/Marino/EL/EL4/Piezo.html">http://www.ortho.lsuhsc.edu/Faculty/Marino/EL/EL4/Piezo.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Chapter+4%3A+Electrical+Properties+of+Biological+Tissue+%28Piezoelectricity%29&amp;rft.atitle=Electromagnetism+%26+Life&amp;rft.aulast=Becker&amp;rft.aufirst=Robert+O&amp;rft.au=Becker%2C%26%2332%3BRobert+O&amp;rft.date=1982&amp;rft.place=%5B%5BAlbany%2C+New+York%5D%5D&amp;rft.pub=State+University+of+New+York+Press&amp;rft.isbn=0-87395-560-9&amp;rft_id=&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation book">Pollack, S.R, Korostoff, E., Starkebaum, W. y Lannicone, W (1979). "Micro-electrical studies of stress-generated potentials in bone". In Brighton, C.T., Black, J. and Pollack, S.R.. <i>Electrical Properties of Bone and Cartilage</i>. New York City: Grune &amp; Stratton, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8089-1228-3" title="Special:BookSources/0-8089-1228-3">0-8089-1228-3</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Micro-electrical+studies+of+stress-generated+potentials+in+bone&amp;rft.atitle=Electrical+Properties+of+Bone+and+Cartilage&amp;rft.aulast=Pollack%2C+S.R%2C+Korostoff%2C+E.%2C+Starkebaum%2C+W.+y+Lannicone%2C+W&amp;rft.au=Pollack%2C+S.R%2C+Korostoff%2C+E.%2C+Starkebaum%2C+W.+y+Lannicone%2C+W&amp;rft.date=1979&amp;rft.place=New+York+City&amp;rft.pub=Grune+%26+Stratton%2C+Inc&amp;rft.isbn=0-8089-1228-3&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation Journal">Fotiadis, D.I; Foutsitzi, G., and Massalas, C.V (1999). <a rel="nofollow" class="external text" href="http://www.springerlink.com/content/tr43l7562581u4q8">"Wave propagation modeling in human long bones"</a>. <i>Acta Mechanica</i> <b>137</b>: 65–81. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1007%2FBF01313145">10.1007/BF01313145</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.springerlink.com/content/tr43l7562581u4q8">http://www.springerlink.com/content/tr43l7562581u4q8</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Wave+propagation+modeling+in+human+long+bones&amp;rft.jtitle=Acta+Mechanica&amp;rft.aulast=Fotiadis&amp;rft.aufirst=D.I&amp;rft.au=Fotiadis%2C%26%2332%3BD.I&amp;rft.date=1999&amp;rft.volume=137&amp;rft.pages=65%E2%80%9381&amp;rft_id=info:doi/10.1007%2FBF01313145&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Ftr43l7562581u4q8&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation Journal">Lee, BY; Zhang, J; Zueger, C; Chung, WJ; Yoo, SY; Wang, E; Meyer, J; Ramesh, R; Lee, SW (2012 May 13). "Virus-based piezoelectric energy generation.". <i>Nature nanotechnology</i>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22581406">22581406</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Virus-based+piezoelectric+energy+generation.&amp;rft.jtitle=Nature+nanotechnology&amp;rft.aulast=Lee&amp;rft.aufirst=BY&amp;rft.au=Lee%2C%26%2332%3BBY&amp;rft.date=2012+May+13&amp;rft_id=info:pmid/22581406&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><span class="citation Journal">Saito, Yasuyoshi; Takao, Hisaaki; Tanil, Toshihiko; Nonoyama, Tatsuhiko; Takatoril Kazumasa; Homma, Takahiko; Nagaya, Toshiatsu; Nakamura, Masaya (2004-11-04). <a rel="nofollow" class="external text" href="http://www.nature.com/nature/journal/v432/n7013/abs/nature03028.html">"Lead-free piezoceramics"</a>. <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i> (Nature Publishing Group) <b>432</b> (7013): 81–87. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a> <a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2004Natur.432...84S">2004Natur.432...84S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1038%2Fnature03028">10.1038/nature03028</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15516921">15516921</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.nature.com/nature/journal/v432/n7013/abs/nature03028.html">http://www.nature.com/nature/journal/v432/n7013/abs/nature03028.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Lead-free+piezoceramics&amp;rft.jtitle=%5B%5BNature+%28journal%29%7CNature%5D%5D&amp;rft.aulast=Saito&amp;rft.aufirst=Yasuyoshi&amp;rft.au=Saito%2C%26%2332%3BYasuyoshi&amp;rft.date=2004-11-04&amp;rft.volume=432&amp;rft.issue=7013&amp;rft.pages=81%E2%80%9387&amp;rft.pub=Nature+Publishing+Group&amp;rft_id=info:bibcode/2004Natur.432...84S&amp;rft_id=info:doi/10.1038%2Fnature03028&amp;rft_id=info:pmid/15516921&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv432%2Fn7013%2Fabs%2Fnature03028.html&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.acmite.com/market-reports/materials/world-piezoelectric-device-market-report.html">"Market Report: World Piezoelectric Device Market"</a>. <a rel="nofollow" class="external text" href="http://www.acmite.com">Acmite Market Intelligence</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.acmite.com/market-reports/materials/world-piezoelectric-device-market-report.html">http://www.acmite.com/market-reports/materials/world-piezoelectric-device-market-report.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Market+Report%3A+World+Piezoelectric+Device+Market&amp;rft.atitle=&amp;rft.pub=%5Bhttp%3A%2F%2Fwww.acmite.com+Acmite+Market+Intelligence%5D&amp;rft_id=http%3A%2F%2Fwww.acmite.com%2Fmarket-reports%2Fmaterials%2Fworld-piezoelectric-device-market-report.html&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><span class="citation web">Richard, Michael Graham (2006-08-04). <a rel="nofollow" class="external text" href="http://www.treehugger.com/files/2006/08/japan_ticket_gates.php">"Japan: Producing Electricity from Train Station Ticket Gates"</a>. <i>TreeHugger</i>. Discovery Communications, LLC<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.treehugger.com/files/2006/08/japan_ticket_gates.php">http://www.treehugger.com/files/2006/08/japan_ticket_gates.php</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Japan%3A+Producing+Electricity+from+Train+Station+Ticket+Gates&amp;rft.atitle=TreeHugger&amp;rft.aulast=Richard&amp;rft.aufirst=Michael+Graham&amp;rft.au=Richard%2C%26%2332%3BMichael+Graham&amp;rft.date=2006-08-04&amp;rft.pub=Discovery+Communications%2C+LLC&amp;rft_id=http%3A%2F%2Fwww.treehugger.com%2Ffiles%2F2006%2F08%2Fjapan_ticket_gates.php&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><span class="citation web">Wright, Sarah H (2007-07-25). <a rel="nofollow" class="external text" href="http://web.mit.edu/newsoffice/2007/crowdfarm-0725.html">"MIT duo sees people-powered "Crowd Farm""</a>. <i>MIT news</i>. <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a><span class="printonly">. <a rel="nofollow" class="external free" href="http://web.mit.edu/newsoffice/2007/crowdfarm-0725.html">http://web.mit.edu/newsoffice/2007/crowdfarm-0725.html</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=MIT+duo+sees+people-powered+%22Crowd+Farm%22&amp;rft.atitle=MIT+news&amp;rft.aulast=Wright&amp;rft.aufirst=Sarah+H&amp;rft.au=Wright%2C%26%2332%3BSarah+H&amp;rft.date=2007-07-25&amp;rft.pub=%5B%5BMassachusetts+Institute+of+Technology%5D%5D&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2Fnewsoffice%2F2007%2Fcrowdfarm-0725.html&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><span class="citation web">Kannampilly, Ammu (2008-07-11). <a rel="nofollow" class="external text" href="http://abcnews.go.com/International/story?id=5358214&amp;page=1">"How to Save the World One Dance at a Time"</a>. <i>ABC</i>. ABC<span class="printonly">. <a rel="nofollow" class="external free" href="http://abcnews.go.com/International/story?id=5358214&amp;page=1">http://abcnews.go.com/International/story?id=5358214&amp;page=1</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=How+to+Save+the+World+One+Dance+at+a+Time&amp;rft.atitle=ABC&amp;rft.aulast=Kannampilly&amp;rft.aufirst=Ammu&amp;rft.au=Kannampilly%2C%26%2332%3BAmmu&amp;rft.date=2008-07-11&amp;rft.pub=ABC&amp;rft_id=http%3A%2F%2Fabcnews.go.com%2FInternational%2Fstory%3Fid%3D5358214%26page%3D1&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.linear.com/docs/29984">True Grid Independence: Robust Energy Harvesting System for Wireless Sensors Uses Piezoelectric Energy Harvesting Power Supply and Li-Poly Batteries with Shunt Charger</a>. None. Retrieved on 2012-05-04.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><span class="citation web">Phillips, James R (2000-08-10). <a rel="nofollow" class="external text" href="http://www.techonline.com/community/ed_resource/feature_article/8277">"Piezoelectric Technology: A Primer"</a>. <i>eeProductCenter</i>. TechInsights<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.techonline.com/community/ed_resource/feature_article/8277">http://www.techonline.com/community/ed_resource/feature_article/8277</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Piezoelectric+Technology%3A+A+Primer&amp;rft.atitle=eeProductCenter&amp;rft.aulast=Phillips&amp;rft.aufirst=James+R&amp;rft.au=Phillips%2C%26%2332%3BJames+R&amp;rft.date=2000-08-10&amp;rft.pub=TechInsights&amp;rft_id=http%3A%2F%2Fwww.techonline.com%2Fcommunity%2Fed_resource%2Ffeature_article%2F8277&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Speck, Shane. (2004-03-11) <a rel="nofollow" class="external text" href="http://science.howstuffworks.com/rpg3.htm">How Rocket-Propelled Grenades Work by Shane Speck</a>. Science.howstuffworks.com. Retrieved on 2012-05-04.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><span class="citation Journal">Le Letty, R.; Barillot, F.; Lhermet, N.; Claeyssen, F.; Yorck, M.; Gavira Izquierdo, J.; Arends, H.; Barillot; Lhermet; Claeyssen; Yorck; Gavira Izquierdo; Arends (2001). "The scanning mechanism for ROSETTA/MIDAS from an engineering model to the flight model". <i>Proceedings of the 9th European Space Mechanisms and Tribology Symposium, 19–21 September 2001, Liège, Belgium. Compiled by R. A. Harris. ESA SP-480, Noordwijk, Netherlands: ESA Publications Division</i> <b>480</b>: 75–81. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a> <a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2001ESASP.480...75L">2001ESASP.480...75L</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/92-9092-761-5" title="Special:BookSources/92-9092-761-5">92-9092-761-5</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+scanning+mechanism+for+ROSETTA%2FMIDAS+from+an+engineering+model+to+the+flight+model&amp;rft.jtitle=Proceedings+of+the+9th+European+Space+Mechanisms+and+Tribology+Symposium%2C+19%E2%80%9321+September+2001%2C+Li%C3%A8ge%2C+Belgium.+Compiled+by+R.+A.+Harris.+ESA+SP-480%2C+Noordwijk%2C+Netherlands%3A+ESA+Publications+Division&amp;rft.aulast=Le+Letty%2C+R.%3B+Barillot%2C+F.%3B+Lhermet%2C+N.%3B+Claeyssen%2C+F.%3B+Yorck%2C+M.%3B+Gavira+Izquierdo%2C+J.%3B+Arends%2C+H.&amp;rft.au=Le+Letty%2C+R.%3B+Barillot%2C+F.%3B+Lhermet%2C+N.%3B+Claeyssen%2C+F.%3B+Yorck%2C+M.%3B+Gavira+Izquierdo%2C+J.%3B+Arends%2C+H.&amp;rft.au=Barillot&amp;rft.au=Lhermet&amp;rft.au=Claeyssen&amp;rft.au=Yorck&amp;rft.au=Gavira+Izquierdo&amp;rft.au=Arends&amp;rft.date=2001&amp;rft.volume=480&amp;rft.pages=75%E2%80%9381&amp;rft_id=info:bibcode/2001ESASP.480...75L&amp;rft.isbn=92-9092-761-5&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-piezact-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-piezact_25-0">^</a></b></span> <span class="reference-text">Simonsen, Torben R. <a rel="nofollow" class="external text" href="http://elektronikbranchen.dk/nyhed/dansk-elektronikvirksomhed-goer-klar-til-rumeventyr-efter-koeb-af-piezoteknologi">Piezo in space</a> <i>Electronics Business</i> (in Danish), 27 September 2010. Retrieved: 28 September 2010.</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.head.com/tennis/technology.php?region=eu&amp;tag=intelligence">"Isn’t it amazing how one smart idea, one chip and an intelligent material has changed the world of tennis?"</a>. HEAD<span class="printonly">. <a rel="nofollow" class="external free" href="http://www.head.com/tennis/technology.php?region=eu&amp;tag=intelligence">http://www.head.com/tennis/technology.php?region=eu&amp;tag=intelligence</a></span><span class="reference-accessdate">. Retrieved 2008-02-27</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Isn%E2%80%99t+it+amazing+how+one+smart+idea%2C+one+chip+and+an+intelligent+material+has+changed+the+world+of+tennis%3F&amp;rft.atitle=&amp;rft.pub=HEAD&amp;rft_id=http%3A%2F%2Fwww.head.com%2Ftennis%2Ftechnology.php%3Fregion%3Deu%26tag%3Dintelligence&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><span class="citation Journal">Baltaci, Volkan; Ayvaz, Özge Üner; Ünsal, Evrim; Aktaş, Yasemin; Baltacı, Aysun; Turhan, Feriba; Özcan, Sarp; Sönmezer, Murat (2009). "The effectiveness of intracytoplasmic sperm injection combined with piezoelectric stimulation in infertile couples with total fertilization failure". <i>Fertil. Steril.</i> <b>94</b> (3): 900–4. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2Fj.fertnstert.2009.03.107">10.1016/j.fertnstert.2009.03.107</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19464000">19464000</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=The+effectiveness+of+intracytoplasmic+sperm+injection+combined+with+piezoelectric+stimulation+in+infertile+couples+with+total+fertilization+failure&amp;rft.jtitle=Fertil.+Steril.&amp;rft.aulast=Baltaci&amp;rft.aufirst=Volkan&amp;rft.au=Baltaci%2C%26%2332%3BVolkan&amp;rft.au=Ayvaz%2C%26%2332%3B%C3%96zge+%C3%9Cner&amp;rft.au=%C3%9Cnsal%2C%26%2332%3BEvrim&amp;rft.au=Akta%C5%9F%2C%26%2332%3BYasemin&amp;rft.au=Baltac%C4%B1%2C%26%2332%3BAysun&amp;rft.au=Turhan%2C%26%2332%3BFeriba&amp;rft.au=%C3%96zcan%2C%26%2332%3BSarp&amp;rft.au=S%C3%B6nmezer%2C%26%2332%3BMurat&amp;rft.date=2009&amp;rft.volume=94&amp;rft.issue=3&amp;rft.pages=900%E2%80%934&amp;rft_id=info:doi/10.1016%2Fj.fertnstert.2009.03.107&amp;rft_id=info:pmid/19464000&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><span class="citation Journal">Manbachi, A. and Cobbold R.S.C. (2011). "Development and Application of Piezoelectric Materials for Ultrasound Generation and Detection". <i>Ultrasound</i> <b>19</b> (4): 187–196. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1258%2Fult.2011.011027">10.1258/ult.2011.011027</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Development+and+Application+of+Piezoelectric+Materials+for+Ultrasound+Generation+and+Detection&amp;rft.jtitle=Ultrasound&amp;rft.aulast=Manbachi%2C+A.+and+Cobbold+R.S.C.&amp;rft.au=Manbachi%2C+A.+and+Cobbold+R.S.C.&amp;rft.date=2011&amp;rft.volume=19&amp;rft.issue=4&amp;rft.pages=187%E2%80%93196&amp;rft_id=info:doi/10.1258%2Fult.2011.011027&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><span class="citation Journal">Hoigne DJ, Stubinger S, Von Kaenel O, Shamdasani S, Hasenboehler P. (2006). "Piezoelectic osteotomy in hand surgery: first experiences with a new technique". <i>BMC Musculoskelet Disord</i> <b>7</b>: 36. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1186%2F1471-2474-7-36">10.1186/1471-2474-7-36</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Piezoelectic+osteotomy+in+hand+surgery%3A+first+experiences+with+a+new+technique&amp;rft.jtitle=BMC+Musculoskelet+Disord&amp;rft.aulast=Hoigne+DJ%2C+Stubinger+S%2C+Von+Kaenel+O%2C+Shamdasani+S%2C+Hasenboehler+P.&amp;rft.au=Hoigne+DJ%2C+Stubinger+S%2C+Von+Kaenel+O%2C+Shamdasani+S%2C+Hasenboehler+P.&amp;rft.date=2006&amp;rft.volume=7&amp;rft.pages=36&amp;rft_id=info:doi/10.1186%2F1471-2474-7-36&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><span class="citation Journal">Labanca M, Azzola F, Vinci R, Rodella LF. (2008). "Piezoelectric surgery: twenty years of use". <i>Br J Oral Maxillofac Surg</i> <b>46</b> (4): 265–9. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="http://dx.doi.org/10.1016%2Fj.bjoms.2007.12.007">10.1016/j.bjoms.2007.12.007</a>. <a href="/wiki/PubMed_Identifier" title="PubMed Identifier" class="mw-redirect">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/18342999">18342999</a>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Piezoelectric+surgery%3A+twenty+years+of+use&amp;rft.jtitle=Br+J+Oral+Maxillofac+Surg&amp;rft.aulast=Labanca+M%2C+Azzola+F%2C+Vinci+R%2C+Rodella+LF.&amp;rft.au=Labanca+M%2C+Azzola+F%2C+Vinci+R%2C+Rodella+LF.&amp;rft.date=2008&amp;rft.volume=46&amp;rft.issue=4&amp;rft.pages=265%E2%80%939&amp;rft_id=info:doi/10.1016%2Fj.bjoms.2007.12.007&amp;rft_id=info:pmid/18342999&amp;rfr_id=info:sid/en.wikipedia.org:Piezoelectricity"><span style="display: none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h3><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=27" title="Edit section: International standards">edit</a>]</span> <span class="mw-headline" id="International_standards">International standards</span></h3>
+<ul>
+<li>ANSI-IEEE 176 (1987) Standard on Piezoelectricity</li>
+<li>IEEE 177 (1976) Standard Definitions &amp; Methods of Measurement for Piezoelectric Vibrators</li>
+<li>IEC 444 (1973) Basic method for the measurement of resonance freq &amp; equiv series resistance of quartz crystal units by zero-phase technique in a pi-network</li>
+<li>IEC 302 (1969) Standard Definitions &amp; Methods of Measurement for Piezoelectric Vibrators Operating over the Freq Range up to 30&#160;MHz</li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Piezoelectricity&amp;action=edit&amp;section=28" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+<tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" /></td>
+<td class="mbox-text" style="">Wikimedia Commons has media related to: <i><b><a class="external text" href="//commons.wikimedia.org/wiki/Category:Piezoelectricity">Piezoelectricity</a></b></i></td>
+</tr>
+</table>
+<ul>
+<li>Gautschi, Gustav H., 2002, <i>Piezoelectric Sensorics</i>, Springer, <a href="/wiki/Special:BookSources/3540422595" class="internal mw-magiclink-isbn">ISBN 3-540-42259-5</a>,</li>
+<li><a rel="nofollow" class="external text" href="http://www.amazon.com/Fundamentals-Piezoelectric-Sensorics-Mechanical-Thermodynamical/dp/3540439668/ref=sr_1_2?ie=UTF8&amp;s=books&amp;qid=1275053589&amp;sr=1-2">Fundamentals of Piezoelectrics</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/pubmed/19163430">Piezo motor based microdrive for neural signal recording</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.piezoinstitute.com/about/piezohistory/index.php">History of Piezoelectricity</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.scientificblogging.com/news_account/research_new_piezoelectric_materials">Research on new Piezoelectric materials</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.techonline.com/showArticle.jhtml?articleID=192201162&amp;queryText=22">Piezo Equations</a></li>
+<li><a rel="nofollow" class="external text" href="http://medicaldesign.com/motors-motion-control/precision-via-piezo-20100501/">Piezo in Medical Design</a></li>
+<li><a rel="nofollow" class="external text" href="http://vega.org.uk/video/programme/195">Video demonstration of Piezoelectricity</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.doitpoms.ac.uk/tlplib/piezoelectrics/index.php">DoITPoMS Teaching and Learning Package – Piezoelectric Materials</a></li>
+<li><a href="//commons.wikimedia.org/wiki/File:Piezomotor_type_inchworm.gif" class="extiw" title="commons:File:Piezomotor type inchworm.gif">Piezo Motor Types</a></li>
+</ul>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 24694/1000000
+Post-expand include size: 158608/2048000 bytes
+Template argument size: 51756/2048000 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24975-0!0!0!!en!4!* and timestamp 20120627162618 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Piezoelectricity&amp;oldid=499625200">http://en.wikipedia.org/w/index.php?title=Piezoelectricity&amp;oldid=499625200</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Condensed_matter_physics" title="Category:Condensed matter physics">Condensed matter physics</a></li><li><a href="/wiki/Category:Electrical_phenomena" title="Category:Electrical phenomena">Electrical phenomena</a></li><li><a href="/wiki/Category:Transducers" title="Category:Transducers">Transducers</a></li><li><a href="/wiki/Category:Energy_harvesting" title="Category:Energy harvesting">Energy harvesting</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Ancient_Greek_language_text" title="Category:Articles containing Ancient Greek language text">Articles containing Ancient Greek language text</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Piezoelectricity&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Piezoelectricity" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Piezoelectricity"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Piezoelectricity"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Piezoelectricity" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Piezoelectricity&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Piezoelectricity&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton" width="12" height="13"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/vector/images/search-ltr.png?303-4" alt="Search" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Piezoelectricity" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Piezoelectricity" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Piezoelectricity&amp;oldid=499625200" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Piezoelectricity&amp;id=499625200" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Piezoelectricity" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Piezoelectricity&amp;oldid=499625200&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Piezoelectricity&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-af"><a href="//af.wikipedia.org/wiki/Pi%C3%ABso-elektrisiteit" title="Piëso-elektrisiteit" lang="af" hreflang="af">Afrikaans</a></li>
+			<li class="interwiki-ar"><a href="//ar.wikipedia.org/wiki/%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1_%D8%A7%D9%86%D8%B6%D8%BA%D8%A7%D8%B7%D9%8A%D8%A9" title="كهرباء انضغاطية" lang="ar" hreflang="ar">العربية</a></li>
+			<li class="interwiki-bg"><a href="//bg.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B5%D0%B7%D0%BE%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D0%BD_%D0%B5%D1%84%D0%B5%D0%BA%D1%82" title="Пиезоелектричен ефект" lang="bg" hreflang="bg">български</a></li>
+			<li class="interwiki-bs"><a href="//bs.wikipedia.org/wiki/Piezoelektricitet" title="Piezoelektricitet" lang="bs" hreflang="bs">bosanski</a></li>
+			<li class="interwiki-ca"><a href="//ca.wikipedia.org/wiki/Piezoelectricitat" title="Piezoelectricitat" lang="ca" hreflang="ca">català</a></li>
+			<li class="interwiki-cs"><a href="//cs.wikipedia.org/wiki/Piezoelektrick%C3%BD_jev" title="Piezoelektrický jev" lang="cs" hreflang="cs">česky</a></li>
+			<li class="interwiki-da"><a href="//da.wikipedia.org/wiki/Piezoelektrisk_effekt" title="Piezoelektrisk effekt" lang="da" hreflang="da">dansk</a></li>
+			<li class="interwiki-de"><a href="//de.wikipedia.org/wiki/Piezoelektrizit%C3%A4t" title="Piezoelektrizität" lang="de" hreflang="de">Deutsch</a></li>
+			<li class="interwiki-el"><a href="//el.wikipedia.org/wiki/%CE%A0%CE%B9%CE%B5%CE%B6%CE%BF%CE%B7%CE%BB%CE%B5%CE%BA%CF%84%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82" title="Πιεζοηλεκτρισμός" lang="el" hreflang="el">Ελληνικά</a></li>
+			<li class="interwiki-es"><a href="//es.wikipedia.org/wiki/Piezoelectricidad" title="Piezoelectricidad" lang="es" hreflang="es">español</a></li>
+			<li class="interwiki-eo"><a href="//eo.wikipedia.org/wiki/Piezoelektro" title="Piezoelektro" lang="eo" hreflang="eo">Esperanto</a></li>
+			<li class="interwiki-fa"><a href="//fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%B2%D9%88%D8%A7%D9%84%DA%A9%D8%AA%D8%B1%DB%8C%D8%B3%DB%8C%D8%AA%D9%87" title="پیزوالکتریسیته" lang="fa" hreflang="fa">فارسی</a></li>
+			<li class="interwiki-fr"><a href="//fr.wikipedia.org/wiki/Pi%C3%A9zo%C3%A9lectricit%C3%A9" title="Piézoélectricité" lang="fr" hreflang="fr">français</a></li>
+			<li class="interwiki-gl"><a href="//gl.wikipedia.org/wiki/Piezoelectricidade" title="Piezoelectricidade" lang="gl" hreflang="gl">galego</a></li>
+			<li class="interwiki-ko"><a href="//ko.wikipedia.org/wiki/%EC%95%95%EC%A0%84%EA%B8%B0" title="압전기" lang="ko" hreflang="ko">한국어</a></li>
+			<li class="interwiki-hi"><a href="//hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BE%E0%A4%AC%E0%A4%B5%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%A4%E0%A4%BF%E0%A4%95%E0%A5%80" title="दाबविद्युतिकी" lang="hi" hreflang="hi">हिन्दी</a></li>
+			<li class="interwiki-hr"><a href="//hr.wikipedia.org/wiki/Piezoelektri%C4%8Dni_efekt" title="Piezoelektrični efekt" lang="hr" hreflang="hr">hrvatski</a></li>
+			<li class="interwiki-id"><a href="//id.wikipedia.org/wiki/Piezoelektrik" title="Piezoelektrik" lang="id" hreflang="id">Bahasa Indonesia</a></li>
+			<li class="interwiki-it"><a href="//it.wikipedia.org/wiki/Piezoelettricit%C3%A0" title="Piezoelettricità" lang="it" hreflang="it">italiano</a></li>
+			<li class="interwiki-he"><a href="//he.wikipedia.org/wiki/%D7%A4%D7%99%D7%90%D7%96%D7%95%D7%90%D7%9C%D7%A7%D7%98%D7%A8%D7%99%D7%95%D7%AA" title="פיאזואלקטריות" lang="he" hreflang="he">עברית</a></li>
+			<li class="interwiki-lv"><a href="//lv.wikipedia.org/wiki/Pjezoelektriskais_efekts" title="Pjezoelektriskais efekts" lang="lv" hreflang="lv">latviešu</a></li>
+			<li class="interwiki-hu"><a href="//hu.wikipedia.org/wiki/Piezoelektromoss%C3%A1g" title="Piezoelektromosság" lang="hu" hreflang="hu">magyar</a></li>
+			<li class="interwiki-nl"><a href="//nl.wikipedia.org/wiki/Pi%C3%ABzo-elektrisch_effect" title="Piëzo-elektrisch effect" lang="nl" hreflang="nl">Nederlands</a></li>
+			<li class="interwiki-ja"><a href="//ja.wikipedia.org/wiki/%E5%9C%A7%E9%9B%BB%E5%8A%B9%E6%9E%9C" title="圧電効果" lang="ja" hreflang="ja">日本語</a></li>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Piezoelektrisitet" title="Piezoelektrisitet" lang="no" hreflang="no">‪norsk (bokmål)‬</a></li>
+			<li class="interwiki-nn"><a href="//nn.wikipedia.org/wiki/Piezoelektrisitet" title="Piezoelektrisitet" lang="nn" hreflang="nn">‪norsk (nynorsk)‬</a></li>
+			<li class="interwiki-pl"><a href="//pl.wikipedia.org/wiki/Piezoelektryki" title="Piezoelektryki" lang="pl" hreflang="pl">polski</a></li>
+			<li class="interwiki-pt"><a href="//pt.wikipedia.org/wiki/Piezoeletricidade" title="Piezoeletricidade" lang="pt" hreflang="pt">português</a></li>
+			<li class="interwiki-ro"><a href="//ro.wikipedia.org/wiki/Piezoelectricitate" title="Piezoelectricitate" lang="ro" hreflang="ro">română</a></li>
+			<li class="interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%9F%D1%8C%D0%B5%D0%B7%D0%BE%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82" title="Пьезоэлектрический эффект" lang="ru" hreflang="ru">русский</a></li>
+			<li class="interwiki-sk"><a href="//sk.wikipedia.org/wiki/Piezoelektrick%C3%BD_jav" title="Piezoelektrický jav" lang="sk" hreflang="sk">slovenčina</a></li>
+			<li class="interwiki-sl"><a href="//sl.wikipedia.org/wiki/Piezoelektri%C4%8Dnost" title="Piezoelektričnost" lang="sl" hreflang="sl">slovenščina</a></li>
+			<li class="interwiki-sr"><a href="//sr.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B5%D0%B7%D0%BE%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B8_%D0%B5%D1%84%D0%B5%D0%BA%D1%82" title="Пиезоелектрични ефект" lang="sr" hreflang="sr">српски / srpski</a></li>
+			<li class="interwiki-fi"><a href="//fi.wikipedia.org/wiki/Pietsos%C3%A4hk%C3%B6inen_ilmi%C3%B6" title="Pietsosähköinen ilmiö" lang="fi" hreflang="fi">suomi</a></li>
+			<li class="interwiki-sv"><a href="//sv.wikipedia.org/wiki/Piezoelektricitet" title="Piezoelektricitet" lang="sv" hreflang="sv">svenska</a></li>
+			<li class="interwiki-ta"><a href="//ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%B5%E0%AE%BF%E0%AE%B3%E0%AF%88%E0%AE%B5%E0%AF%81" title="அழுத்தமின் விளைவு" lang="ta" hreflang="ta">தமிழ்</a></li>
+			<li class="interwiki-tr"><a href="//tr.wikipedia.org/wiki/Piezoelektrik" title="Piezoelektrik" lang="tr" hreflang="tr">Türkçe</a></li>
+			<li class="interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%9F%27%D1%94%D0%B7%D0%BE%D0%B5%D1%84%D0%B5%D0%BA%D1%82" title="П'єзоефект" lang="uk" hreflang="uk">українська</a></li>
+			<li class="interwiki-vi"><a href="//vi.wikipedia.org/wiki/%C3%81p_%C4%91i%E1%BB%87n" title="Áp điện" lang="vi" hreflang="vi">Tiếng Việt</a></li>
+			<li class="interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E5%A3%93%E9%9B%BB%E6%95%88%E6%87%89" title="壓電效應" lang="zh" hreflang="zh">中文</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 27 June 2012 at 16:26.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Piezoelectricity&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script type="text/javascript">if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest","ext.gadget.teahouse","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful"], null, true);
+}</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by srv195 in 0.145 secs. -->
+	</body>
+</html>

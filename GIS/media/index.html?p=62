@@ -1,0 +1,452 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="es-ES">
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>
+	Entrevista: El estudiador de estrellas | Memoria de Acceso Aleatorio	</title>
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.entremaqueros.com/bitacoras/memoria/wp-content/themes/zbench/style.css" />
+	<link rel="pingback" href="http://www.entremaqueros.com/bitacoras/memoria/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Memoria de Acceso Aleatorio &raquo; Feed" href="http://www.entremaqueros.com/bitacoras/memoria/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Memoria de Acceso Aleatorio &raquo; RSS de los comentarios" href="http://www.entremaqueros.com/bitacoras/memoria/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Memoria de Acceso Aleatorio &raquo; Entrevista: El &lt;em&gt;estudiador de estrellas&lt;/em&gt; RSS de los comentarios" href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/feed/" />
+<script type='text/javascript' src='http://www.entremaqueros.com/bitacoras/memoria/wp-includes/js/comment-reply.js?ver=3.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.entremaqueros.com/bitacoras/memoria/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Safari y WebKit, actualizados en Mac OS X 10.3.9' href='http://www.entremaqueros.com/bitacoras/memoria/2005/04/17/nuevo-safari-13/' />
+<link rel='next' title='SMS Mac más barato' href='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/sms-mac-mas-barato/' />
+<meta name="generator" content="WordPress 3.4" />
+<link rel='canonical' href='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/' />
+<link rel='shortlink' href='http://www.entremaqueros.com/bitacoras/memoria/?p=62' />
+<script type="text/javascript" src="http://www.entremaqueros.com/bitacoras/memoria/wp-content/plugins/addicted_live_search/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.entremaqueros.com/bitacoras/memoria/wp-content/plugins/addicted_live_search/js/live_search.js"></script>
+
+	<script type="text/javascript">
+		ls.url = "http://www.entremaqueros.com/bitacoras/memoria/wp-content/plugins/addicted_live_search/search_results.php";
+	</script><link type="text/css" href="http://www.entremaqueros.com/bitacoras/memoria/wp-content/plugins/addicted_live_search/css/live_search.css" rel="stylesheet" />
+<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script><script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'wp.832cb7d9-d568-475b-a832-f32fab36fa6b'});var st_type='wordpress3.2.1';</script>	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head>
+<body class="single single-post postid-62 single-format-standard">
+<div id="nav">
+	<div id="menus">
+		<ul><li><a href="http://www.entremaqueros.com/bitacoras/memoria/">Inicio</a></li></ul>
+		<ul><li class="page_item page-item-2317"><a href="http://www.entremaqueros.com/bitacoras/memoria/acerca-de-memoria-de-acceso-aleatorio/">Acerca de Memoria de Acceso Aleatorio</a></li>
+<li class="page_item page-item-25"><a href="http://www.entremaqueros.com/bitacoras/memoria/contacto/">Buzón</a></li>
+</ul>	</div>
+	<div id="search">
+		<form id="searchform" method="get" action="http://www.entremaqueros.com/bitacoras/memoria/">
+<input type="text" value="Busqueda: escriba y pulse enter" onfocus="if (this.value == 'Busqueda: escriba y pulse enter') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Busqueda: escriba y pulse enter';}" size="35" maxlength="50" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="BUSQUEDA" />
+</form>	</div>
+</div>
+<div id="wrapper">
+	<div id="header">		<h1><a href="http://www.entremaqueros.com/bitacoras/memoria/">Memoria de Acceso Aleatorio</a></h1>
+		<h2>Archivo electrónico de pensamientos más o menos aleatorios, centrados en el Mac</h2>
+		<div class="clear"></div>
+				<div id="header_image">
+			<div id="header_image_border">
+				<a href="http://www.entremaqueros.com/bitacoras/memoria/"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-content/uploads/2011/09/CabeceraMemoriaAccesoAleatorio.jpeg" width="950" height="180" alt="" /></a>
+			</div>
+		</div>
+			</div>
+<div id="content">
+		<div class="post-62 post type-post status-publish format-standard hentry category-ciencia category-entrevista category-linux category-mac-os-x category-sistemas-operativos post-single" id="post-62"><!-- post div -->
+		<h2 class="title">Entrevista: El <em>estudiador de estrellas</em></h2>
+		<div class="post-info-top">
+			<span class="post-info-date">
+				Enviado por <a href="http://www.entremaqueros.com/bitacoras/memoria/author/juandesant/" title="View all posts by juandesant" rel="author">juandesant</a>
+				el				18 abril, 2005							</span>
+						<span class="addcomment"><a href="#respond"  rel="nofollow" title="Dejar un comentario?">Deje un comentario</a> (6)</span>
+			<span class="gotocomments"><a href="#comments"  rel="nofollow" title="Ir a comentarios">Ir a comentarios</a></span>
+					</div>
+		<div class="clear"></div>
+		<div class="entry">
+			<p>Bruno Sánchez-Andrade Nuño es uno de esos españoles que tenemos viviendo fuera de España, realizando su doctorado en el Observatorio de Göttingen, gracias a una beca del Instituto Max Planck para el <a href="http://www.solar-system-school.de">estudio del Sistema Solar</a>.<br />
+<span id="more-62"></span></p>
+<p>Hoy en día, las actividades de investigación necesitan el apoyo constante de herramientas informáticas, pasados ya los tiempos en los que primero las reglas de cálculo, y luego las calculadoras programables, eran los auxiliares del científico.</p>
+<h3>Bueno, Bruno, cuéntanos de dónde eres y a qué te dedicas</h3>
+<p>Hola, Juande. Pues verás, soy un asturiano (de nacimiento y corazón). Me gradué en astrofísica el curso pasado. Desde los 9 años siempre quise ser &#8220;estudiador de estrellas&#8221;, como le dije a mi madre entonces. Así que estudié Física en la Universidad de Oviedo, y luego la especialidad de Astrofísica en Tenerife utilizando los telescopios del <acronym title="Instituto Astrofísico de Canarias">IAC</acronym> en el Teide, donde afortunadamente volveré con mi doctorado.</p>
+<p>Como has contado, actualmente estoy realizando mis estudios de doctorado en el <a href="http://www.uni-sw.gwdg.de">Observatorio de Göttingen</a>. Antes de que el doctorado absorviera todo mi tiempo era también miembro de Protección Civil, representante de alumnos en la Universidad de Oviedo, y gran amante de la naturaleza. También fui secretario de la <a href="http://www.aegee.org">AEGEE</a> en Oviedo, una asociación europea de estudiantes para conocer Europa. Pero aparte de viajar al extranjero —he estado en Portugal, Francia, Italia, Grecia, Turquía, Estonia, Finlanda, y claro, Alemania—, he viajado mucho por España. Me considero una persona activa e inquieta con una sana curiosidad creciente por todo.</p>
+<h3>Y dentro de esa curiosidad, ¿entraba la informática?</h3>
+<p>Pues la verdad, me gusta la informática, para mi es una herramienta muy importante. Siempre estuve al tanto de todos los avances, modelos, cracks, hacks&#8230; (todos tenemos una fase un poco tonta, aunque eso sí, en plan hacker bueno :D ), comandos, etc&#8230;</p>
+<p>Aprendí BASIC de niño leyendo un manual del ordenador de mi primo y lo practicaba cuando iba a su casa, Linux cuando tampoco tenia ordenador, y en la facultad me movía con facilidad en el ordenador, así me considero un usuario &#8220;avanzado&#8221; en Windows y Linux (quizá menos en Linux, digamos que nunca me he peleado en serio con el kernel&#8230;). Siempre estuve al dia, cuando algún amigo se compraba un ordenador podía opinar si era caro o no, o sobre si los componentes  eran buenos o no&#8230;</p>
+<h3>¿Sobre los Mac?</h3>
+<p>Hasta hace algo mas de un  año Mac para mi era algo raro y marginal que usaba muy poca gente (un poco más en américa, en casi todas las peliculas aparece :D ), y sobre todo los diseñadores gráficos. El primer Mac que vi de cerca fue uno de un amigo de mi padre, diseñador gráfico; un  Power Macintosh G3 con el Mac OS 9. Al ver que sentia curiosidad por eso del Mac, me regaló un antiguo Power Macintosh 8200, con 2 discos SCSI de 1 Giga.  Afortunadamente desistí de ponerle Debian y le di una oportunidad al sistema tal como estaba, un Mac de al menos 5 años sin actualizar. Así descubrí por encima el mundo Mac, sorprendiéndome de lo capaz que eran máquina y sistema operativo.</p>
+<p>Era otro mundo, ni mejor ni peor, otro concepto de uso del ordenador. Aunque la verdad, sin nadie que me explicara nada, me extrañó el diferente concepto de Apple de instalar, las extensiones, el botón derecho, tirar los CDs a la basura para sacarlos&#8230;</p>
+<p>Con ese buen sabor de boca, pero un poco desfasado del estado actual, me fui a Canarias. Allí probé un portátil PowerBook de la era de titanio con OS X de la mano de un buen amigo, que me dejo trastear un poco. En nuestras discusiones PC-Mac siempre acababa con el único (y anticuado ya) argumento del precio de su portátil, pero impresionado con su funcionamiento.</p>
+<p>Yo tenia un portátil Gericom de dudosa calidad, y por los problemas que empezaba a dar, pensé en saltar al mundo Mac como premio al terminar la carrera.</p>
+<p>Lo que me hizo decantarme finalmente sin ninguna duda por un iBook fue que mi padre, a mitad de tesis sobre Musicología, se desesperó con los errores infinitos de Windows y se compró un iMac &#8220;seta&#8221;. No tuvo ningún problema para seguir trabajando con sus documentos. Es curioso resaltar que al mes de comprarlo, con su conocimiento de usuario &#8220;normal&#8221; de Windows, y sin grandes ayudas en el cambio,  me comentó que había descubierto el multiproceso con el Mac, estaba encantado, y sigue encantado.</p>
+<h3>¿Utilizas tu iBook para tu trabajo? ¿Qué otros equipos usas?</h3>
+<p>En mi despacho tengo un AMD con SuSE Linux, y también uso mi iBook 12&#8221; de última generación. De vez en cuando tengo que trabajar con una estación Sun. Afortunadamente, no toco Windows más que en los ordenadores de mis amigos ;-)</p>
+<h3>Entonces, nunca has tenido que recurrir a un PC con Windows</h3>
+<p>Gracias al gran trabajo de compatibilidad de Apple, hasta ahora nunca he tenido que recurrir a un Windows. Ni para mi uso personal ni para el trabajo. Eso si, en más de una ocasión he tenido que esperar a llegar al iBook porque el SuSE no me dejaba hacer algo. </p>
+<p>VirtualPC está en mi ordenador sólo para replicar a los últimos &#8220;peros&#8221; de los dudosos usuarios de Windows que se interesan por mi Mac.</p>
+<h3>Por cierto, ¿cuál es la difusión de Mac OS X en Alemania, comparando con España? ¿Es mayor en el campo científico?</h3>
+<p>Mi impresión es que el uso de Mac en Alemania está prácticamente al mismo nivel que en España: existe, pero no se ve.</p>
+<p>En mi lugar de trabajo el 90% usa SuSE, aunque cuando entras al Max Planck te preguntan qué quieres, PC (Windows o Linux), o Sun. En Linux dan soporte si dejas que el usuario <em>root</em> sea el servicio técnico, y no dan ninguna clase de soporte a Mac. Pero sé que alguno lo utiliza (aparecen en Rendezvous ;-) ).</p>
+<h3>Sin embargo, Alemania fue durante mucho tiempo un fuerte reducto de los Atari ST y los Commodore Amiga. ¿Son allí más receptivos a otras plataformas?</h3>
+<p>Es posible, tecnológicamente están más avanzados e interesados. En el tiempo que llevo aquí veo que SuSE es sinónimo de Linux, que por cierto está mucho más difundido que en España, aún cuando el estándar mayoritario es, obviamente, Windows. Aún así no es raro que al recibir un CD de tu banco venga preparado para los 3 sistemas.</p>
+<p>De momento no he visto ningun ordenador &#8220;público&#8221; con Linux (administraciones, bibliotecas, etc.. ), pero no me extrañaría mucho.</p>
+<h3>Vamos a centrarnos un poco más en tu trabajo. ¿Cuáles son los paquetes software que utilizas en el Mac?</h3>
+<p>Pues muy fácil, los mismos que en Linux, que parece ser el estándar del 90% de los astrofísicos, ni más ni menos… Una de las cosas que no me gusta de Linux es que es un sistema para informáticos: juegas con sus reglas, todo el día con el terminal, sin poder hacer muchas cosas, o teniendo que pelearte para conseguir<br />
+hacerlas. Ha habido un montón de avance para hacer el sistema mas &#8220;apetecible&#8221;<br />
+pero la prueba de que esto no termina de funcionar es que todo aquel que usa Linux acaba peleándose con el terminal.</p>
+<p>Sin embargo con el Mac no: funciona tan bien como Windows &#8220;pretende&#8221;, y encima, sin problemas. A nivel ofimatica, a golpe de raton y para programación ¿WMV, Perl, ssh, DivX, WiFi, FTP personal, acceso remoto, archivos .doc, .pps, LaTeX? No problem!</p>
+<p>Pero bueno, centrándonos en los paquetes que utilizo para mi trabajo, uso frecuentemente IDL y GDL desde mi iBook.</p>
+<p>IDL es un lenguaje de programación y estudio de imágenes muy extendido en física solar. En el Mac corre bajo X11 de Apple sin problemas. Tengo que tener algún cuidado como con el FileEndian —ordenamiento de la información según el procesador; es igual, por ejemplo, entre Alpha e Intel, y entre los procesadores de Sun y los PowerPC, pero diferente entre ellos, aunque se puede convertir—, pero los códigos corren sin modificarlos en absoluto.</p>
+<p>GDL es un intento de IDL versión GNU que permite muchas funciones básicas de IDL. Dentro de sus capacidades corre limpiamente con el X11.</p>
+<p>Todo esto en ejecución local o usando máquinas remotas con X11 y <code> ssh -X </code></p>
+<p>Aunque yo no lo utilice ahora, hay gente que programa en C, FORTRAN (sí, el antiguo FORmula TRANslator, y bastante gente) o Perl.</p>
+<p>También he tenido la oportunidad de conocer un proyecto para que los códigos de IDL corran sobre Python, un interesante tentativa que se llama PAPA (Python Alternative for Programing Astrophysics).</p>
+<p>Ahora que tengo el Mac me suelo fijar, y parece que hay bastante soporte para otros programas comunes en astrofísica como IRAF (sobre todo gracias al uso más extendido en los EE.UU.).</p>
+<h3>Entonces, más que aplicaciones Aqua, utilizas aplicaciones Unix sobre X11…</h3>
+<p>Bueno, como ordenador principal que es uso las aplicaciones Aqua comunes del sistema; Safari, Mail, iTunes, Mplayer, &#8230; aunque siempre estoy abierto a probar cosas nuevas (Aqua, Carbon y Unix, local y remoto,  Terminal para trastear y conocer el sistema mejor&#8230;)</p>
+<h3>Y cambiando de nuevo de tercio, y viniendo del mundo PC, ¿qué te parece el hardware de Apple?</h3>
+<p>Pues como he comentado antes, con el PC me informaba sobre componentes, precios&#8230; pero afortunadamente ya no. Esa es una de las ventajas que me ha proporcionado mi Mac, ya no me importa lo que es un bus de datos, me dan igual los <em>frame buffers</em>, si la nueva nVidia GForce da problemas, si hay drivers para mi Asus&#8230; Me da igual. No quiero estar al día en los avances, solo quiero una cosa, que funcione. Y en eso con el Mac puedes confiar.</p>
+<p>No tienes que fabricarte tu máquina. te venden una que va de maravilla, tanto para alguien que va a guardar sus fotos y para alguien que va a hacer procesamiento de datos de la cromosfera solar.</p>
+<h3>¡Pues me parece un colofón estupendo! Muchas gracias, ¡y muchísima<br />
+suerte con tu investigación!</h3>
+<p>Gracias a vosotros por las páginas de faq-mac.</p>
+<p>ps. Bruno envió esta entrevista mientras venía desde Alemania para Oviedo, mitad en avión, mitad en tren, compuso las respuestas en su iBook, y la envió en cuanto se enganchó a la primera conexión inalámbrica abierta que pilló ;-) Para que luego digan que simplificar el acceso a la tecnología no es útil ;-)</p>
+<p><span class='st_facebook_buttons' st_title='Entrevista: El estudiador de estrellas' st_url='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/' displayText='Facebook'></span><span class='st_twitter_buttons' st_title='Entrevista: El estudiador de estrellas' st_url='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/' displayText='Twitter'></span><span class='st_email_buttons' st_title='Entrevista: El estudiador de estrellas' st_url='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/' displayText='Email'></span><span class='st_sharethis_buttons' st_title='Entrevista: El estudiador de estrellas' st_url='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/' displayText='ShareThis'></span><span class='st_fblike_buttons' st_title='Entrevista: El estudiador de estrellas' st_url='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/' displayText='Facebook Like'></span><span class='st_plusone_buttons' st_title='Entrevista: El estudiador de estrellas' st_url='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/' displayText='Google +1'></span><span class='st_pinterest _buttons' st_title='Entrevista: El estudiador de estrellas' st_url='http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/' displayText='Pinterest'></span></p>					</div><!-- END entry -->
+		<div class="add-info">
+			Post relacionados		</div>
+		<div class="post-info-bottom">
+			<span class="post-info-category"><a href="http://www.entremaqueros.com/bitacoras/memoria/cat/ciencia/" title="Ver todas las entradas en Ciencia" rel="category tag">Ciencia</a>, <a href="http://www.entremaqueros.com/bitacoras/memoria/cat/entrevista/" title="Ver todas las entradas en Entrevista" rel="category tag">Entrevista</a>, <a href="http://www.entremaqueros.com/bitacoras/memoria/cat/sistemas-operativos/linux/" title="Ver todas las entradas en Linux" rel="category tag">Linux</a>, <a href="http://www.entremaqueros.com/bitacoras/memoria/cat/sistemas-operativos/mac-os-x/" title="Ver todas las entradas en Mac OS X" rel="category tag">Mac OS X</a>, <a href="http://www.entremaqueros.com/bitacoras/memoria/cat/sistemas-operativos/" title="Ver todas las entradas en Sistemas Operativos" rel="category tag">Sistemas Operativos</a></span><span class="post-info-tags"></span>
+		</div>
+		<div id="nav-below">
+			<div class="nav-previous"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/17/nuevo-safari-13/" rel="prev"><span class="meta-nav">&larr;</span> Safari y WebKit, actualizados en Mac OS X 10.3.9</a></div>
+			<div class="nav-next"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/sms-mac-mas-barato/" rel="next">SMS Mac más barato <span class="meta-nav">&rarr;</span></a></div>
+		</div><!-- #nav-below -->					
+	</div><!-- END post -->
+	<!-- You can start editing here. -->
+
+			<div id="comments-div"><span id="comments-addcomment"><a href="#respond"  rel="nofollow" title="Dejar un comentario?">Dejar un comentario?</a></span><h2 id="comments">6 Comentarios.</h2></div>
+		<ol class="commentlist" id="thecomments">
+				
+<li class="comment even thread-even depth-1" id="li-comment-49">
+	<div id="comment-49">
+		<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/4376f6bdf82344db641665f2b100fdd4?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">Ariok</cite>
+			<span class="comment-meta commentmetadata"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/#comment-49">18 abril, 2005 @9:34 am</a></span>
+		</div>
+		<div class="comment-text">
+			<p>Este tio es un crack. un poco friki pero quien no lo es en este mundo informatizado<br />
+saludos</p>
+					</div>
+		<div class="reply">
+			<a class='comment-reply-link' href='/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/?replytocom=49#respond' onclick='return addComment.moveForm("comment-49", "49", "respond", "62")'>Responder</a>		</div>
+	</div>
+
+</li>
+
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-50">
+	<div id="comment-50">
+		<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/cbaf7dc054b1f3a9bc785ddc456456ca?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">pollonasturiano</cite>
+			<span class="comment-meta commentmetadata"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/#comment-50">18 abril, 2005 @2:05 pm</a></span>
+		</div>
+		<div class="comment-text">
+			<p>estoy de acuerdo, el tio este es un crack, tan solo espero que sea premiado por su gran propaganda a mac. </p>
+					</div>
+		<div class="reply">
+			<a class='comment-reply-link' href='/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/?replytocom=50#respond' onclick='return addComment.moveForm("comment-50", "50", "respond", "62")'>Responder</a>		</div>
+	</div>
+
+</li>
+
+<li class="comment even thread-even depth-1" id="li-comment-52">
+	<div id="comment-52">
+		<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/2e7381d1d9870e505d9439ba4fa47686?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">saioa</cite>
+			<span class="comment-meta commentmetadata"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/#comment-52">18 abril, 2005 @10:05 pm</a></span>
+		</div>
+		<div class="comment-text">
+			<p>wow!! impresionante!! no eres un friki sino un crack!!! podían haber puesto foto y de paso te tiraba los tejos, porque se me han acabado las flores!!! :-) Suerte en todo!!! y besos desde alc </p>
+					</div>
+		<div class="reply">
+			<a class='comment-reply-link' href='/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/?replytocom=52#respond' onclick='return addComment.moveForm("comment-52", "52", "respond", "62")'>Responder</a>		</div>
+	</div>
+
+</li>
+
+<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-54">
+	<div id="comment-54">
+		<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/2a12390d132335aefb6bb9c1be084fd5?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">CAESAR</cite>
+			<span class="comment-meta commentmetadata"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/#comment-54">19 abril, 2005 @1:35 am</a></span>
+		</div>
+		<div class="comment-text">
+			<p>¡¡Hola perra!! Quiero un hijo tuyo&#8230; Jejeje&#8230;<br />
+Enhorabuena Bruno, parece que te va bien ;)<br />
+Ya sabes que en cuanto la carrera me de un respiro me planto en Alemania a hacerte una visita, ¡¡pero no te vayas a Italia como la otra vez!!</p>
+					</div>
+		<div class="reply">
+			<a class='comment-reply-link' href='/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/?replytocom=54#respond' onclick='return addComment.moveForm("comment-54", "54", "respond", "62")'>Responder</a>		</div>
+	</div>
+
+</li>
+
+<li class="comment even thread-even depth-1" id="li-comment-500">
+	<div id="comment-500">
+		<div class="comment-author vcard">
+			<img alt='' src='http://0.gravatar.com/avatar/a2973ede78c52d060d0bd0a5d8da0226?s=40&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn">Bruno SAN</cite>
+			<span class="comment-meta commentmetadata"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/#comment-500">31 agosto, 2005 @4:03 pm</a></span>
+		</div>
+		<div class="comment-text">
+			<p>Buenas&#8230;</p>
+<p>Añadir hoy que estoy en una conferencia internacional de Física Solar y compruebo sorprendido la cantidad de Mac que estoy viendo por aqui, no solo de gente de EEUU, sino tb de Japon, Turquía, Holanda, España, &#8230; algo así como el 20% de los portátiles que se ven por aquí&#8230; una pasada&#8230;</p>
+<p>Dato curioso, fijándome un poco veo que casi nadie tiene Tiger (o eso creo, porque no veo la lupita del Spotlight :D )</p>
+<p>Es gracioso ver a la gente con PC todo el día reiniciando de Win a Linux, apagando&#8230;. y ver a la gente con el Mac: abren, trabajan y cierran, that´s it.</p>
+<p>¡Saludos desde el CCMag!</p>
+<p>En dos semanas voy a otro en Belgica, a ver que se ve&#8230;</p>
+					</div>
+		<div class="reply">
+			<a class='comment-reply-link' href='/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/?replytocom=500#respond' onclick='return addComment.moveForm("comment-500", "500", "respond", "62")'>Responder</a>		</div>
+	</div>
+
+</li>
+
+<li class="comment byuser comment-author-juandesant bypostauthor odd alt thread-odd thread-alt depth-1" id="li-comment-501">
+	<div id="comment-501">
+		<div class="comment-author vcard">
+			<img alt='' src='http://1.gravatar.com/avatar/d6c83d5d20c63b8e421a7966b04cfedb?s=40&amp;d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D40&amp;r=G' class='avatar avatar-40 photo' height='40' width='40' />			<cite class="fn"><a href='http://homepage.mac.com/juandesant/cv/personal.es.html' rel='external nofollow' class='url'>juandesant</a></cite>
+			<span class="comment-meta commentmetadata"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/#comment-501">31 agosto, 2005 @4:14 pm</a></span>
+		</div>
+		<div class="comment-text">
+			<p>¡Hola, Bruno, genial saber de ti!</p>
+<p>Yo estuve en el Euro-VO en Garching —me acordé a la vuelta de que el Max Plank también está por allí—, y también había un porcentaje importante de portátiles Apple, pero los que tenían máquinas x86 allí —otra cosa que va a cambiar ;-)— usaban todos Linux, muy pocos usaban Windows…</p>
+<p>Y después <a href="http://www.entremaqueros.com/bitacoras/memoria/?p=202" rel="nofollow">he estado</a> en el Center for Astrophysics de Harvard, y allí casi todo el mundo tenía un Mac como portátil, aparte de tener una Sun o una Digital como estación de trabajo…</p>
+					</div>
+		<div class="reply">
+			<a class='comment-reply-link' href='/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/?replytocom=501#respond' onclick='return addComment.moveForm("comment-501", "501", "respond", "62")'>Responder</a>		</div>
+	</div>
+
+</li>
+		</ol>
+		<div class="navigation"></div>
+	
+	<script type="text/javascript">
+	/* <![CDATA[ */
+		function grin(tag) {
+			var myField;
+			tag = ' ' + tag + ' ';
+			if (document.getElementById('comment') && document.getElementById('comment').type == 'textarea') {
+				myField = document.getElementById('comment');
+			} else {
+				return false;
+			}
+			if (document.selection) {
+				myField.focus();
+				sel = document.selection.createRange();
+				sel.text = tag;
+				myField.focus();
+			}
+			else if (myField.selectionStart || myField.selectionStart == '0') {
+				var startPos = myField.selectionStart;
+				var endPos = myField.selectionEnd;
+				var cursorPos = endPos;
+				myField.value = myField.value.substring(0, startPos)
+							  + tag
+							  + myField.value.substring(endPos, myField.value.length);
+				cursorPos += tag.length;
+				myField.focus();
+				myField.selectionStart = cursorPos;
+				myField.selectionEnd = cursorPos;
+			}
+			else {
+				myField.value += tag;
+				myField.focus();
+			}
+		}
+	/* ]]> */
+	</script>
+									<div id="respond">
+				<h3 id="reply-title">Deje un comentario <small><a rel="nofollow" id="cancel-comment-reply-link" href="/bitacoras/memoria/2005/04/18/entrevista-estudiador-de-estrellas/#respond" style="display:none;"><small>Cancelar la respuesta</small></a></small></h3>
+									<form action="http://www.entremaqueros.com/bitacoras/memoria/wp-comments-post.php" method="post" id="commentform">
+																										<p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" /> <label for="author"><small>NOMBRE</small></label></p>
+<p class="comment-form-email"><input id="email" name="email" type="text" value="" size="30" /> <label for="email">EMAIL</label></p>
+<p class="comment-form-url"><input id="url" name="url" type="text" value="" size="30" /> <label for="url">URL del sitio web</label></p>
+												<p class="smilies">
+	<a href="javascript:grin(':?:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_question.gif" alt="" /></a>
+	<a href="javascript:grin(':razz:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_razz.gif" alt="" /></a>
+	<a href="javascript:grin(':sad:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_sad.gif" alt="" /></a>
+	<a href="javascript:grin(':evil:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_evil.gif" alt="" /></a>
+	<a href="javascript:grin(':!:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_exclaim.gif" alt="" /></a>
+	<a href="javascript:grin(':smile:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_smile.gif" alt="" /></a>
+	<a href="javascript:grin(':oops:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_redface.gif" alt="" /></a>
+	<a href="javascript:grin(':grin:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_biggrin.gif" alt="" /></a>
+	<a href="javascript:grin(':eek:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_surprised.gif" alt="" /></a>
+	<a href="javascript:grin(':shock:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_eek.gif" alt="" /></a>
+	<a href="javascript:grin(':???:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_confused.gif" alt="" /></a>
+	<a href="javascript:grin(':cool:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_cool.gif" alt="" /></a>
+	<a href="javascript:grin(':lol:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_lol.gif" alt="" /></a>
+	<a href="javascript:grin(':mad:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_mad.gif" alt="" /></a>
+	<a href="javascript:grin(':twisted:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_twisted.gif" alt="" /></a>
+	<a href="javascript:grin(':roll:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_rolleyes.gif" alt="" /></a>
+	<a href="javascript:grin(':wink:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_wink.gif" alt="" /></a>
+	<a href="javascript:grin(':idea:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_idea.gif" alt="" /></a>
+	<a href="javascript:grin(':arrow:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_arrow.gif" alt="" /></a>
+	<a href="javascript:grin(':neutral:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_neutral.gif" alt="" /></a>
+	<a href="javascript:grin(':cry:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_cry.gif" alt="" /></a>
+	<a href="javascript:grin(':mrgreen:')"><img src="http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/smilies/icon_mrgreen.gif" alt="" /></a>
+	<br /></p><p class="comment-form-comment"><textarea aria-required="true" rows="8" cols="45" name="comment" id="comment" onkeydown="if(event.ctrlKey){if(event.keyCode==13){document.getElementById('submit').click();return false}};"></textarea></p>						<p class="comment-note">NOTA - Puede usar estos<abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:<br /> <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="ENVIAR" />
+							<input type='hidden' name='comment_post_ID' value='62' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b0056993d0" /></p>					</form>
+							</div><!-- #respond -->
+						</div><!--content-->
+<div id="sidebar-border">
+	<div id="rss_border">
+		<div class="rss_border">
+			<div id="rss_wrap">
+				<div class="rss_wrap">
+										<a class="rss " href="http://www.entremaqueros.com/bitacoras/memoria/feed/" rel="bookmark" title="RSS Feed">RSS Feed</a>
+										<a class="twitter" href="http://twitter.com/juandesant" rel="author" title="Seguirme en twitter.">Seguirme en twitter.</a>
+																				<a class="googleplus" href="https://plus.google.com/109554001058154597625/posts" rel="me" title="Google+">Google+</a>
+																			</div>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar">
+
+<div id="calendar-3" class="widget widget_calendar"><h3 class="widgettitle">&nbsp;</h3><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>abril 2005</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Lunes">L</th>
+		<th scope="col" title="Martes">M</th>
+		<th scope="col" title="Miércoles">X</th>
+		<th scope="col" title="Jueves">J</th>
+		<th scope="col" title="Viernes">V</th>
+		<th scope="col" title="Sábado">S</th>
+		<th scope="col" title="Domingo">D</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/03/" title="Ver todas las entradas para marzo 2005">&laquo; mar</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next"><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/05/" title="Ver todas las entradas para mayo 2005">may &raquo;</a></td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="4" class="pad">&nbsp;</td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/01/" title="¿Pero qué son los servicios web?, Google: &lt;em&gt;Operadores de búsqueda avanzada&lt;/em&gt;">1</a></td><td>2</td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/03/" title="Apple, 29 años y tres d&iacute;as, ¿No es maravilloso el hipertexto?, HyperCard ha muerto, vivan sus sucesores">3</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/04/" title="palmOne creará un centro de ingeniería en Europa para el desarrollo de teléfonos inteligentes, Desde la LSPM: &lt;em&gt;Cómo reparticionar un disco duro&lt;/em&gt;">4</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/05/" title="ColorSync, Safari y perfiles incrustados, El teclado es m&aacute;s poderoso que la espada">5</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/06/" title="El futuro de Cell: Transmeta y Sony se al&iacute;an">6</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/07/" title="Sobre los comentarios en esta bit&aacute;cora">7</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/08/" title="Qu&eacute; se espera de Longhorn, y el Mac OS X">8</a></td><td>9</td><td>10</td>
+	</tr>
+	<tr>
+		<td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/11/" title="De ILP a TLP: El futuro de los microprocesadores, Apple, cuadrigent&eacute;sima cuadrag&eacute;simo segunda compañ&iacute;a del mundo">11</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/12/" title="¿SMS con iChat?, ¡Tiger desencadenado!">12</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/13/" title="Tigretón: Mac OS X 10.4 Server, Adobe Reader 7 para Linux, Bonjour, Rendezvous, Ethernet para todo">13</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/14/" title="Resultados de Apple: An&aacute;lisis, 950M&aacute;rboles">14</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/15/" title="Más sobre AppleScript como heredero de HyperTalk, Programar en Pascal con Xcode, Más de 200 novedades en Tiger">15</a></td><td>16</td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/17/" title="Safari y WebKit, actualizados en Mac OS X 10.3.9">17</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/18/" title="Entrevista: El &lt;em&gt;estudiador de estrellas&lt;/em&gt;, SMS Mac más barato">18</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/19/" title="15 años de TidBITS, Safari 1.3 frente a Safari RSS (Tiger), Problemas Mac OS X 10.3.9: Safari no abre applets Java, o se cierra inesperadamente">19</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/20/" title="Presencia Macintosh en el &lt;em&gt;IAA&lt;/em&gt;, Safari 1.3: La mínima expresión de un navegador">20</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/21/" title="Open Clip Art Library, Microsoft quiere jugar a los piratas">21</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/22/" title="Teoría de Todo, Creative Commons y bitácoras WordPress, Arranque en frío en 4 segundos, Spotlight: ¿tecnología disruptiva?, Prueba un &lt;em&gt;widget&lt;/em&gt; en Panther, 10.000 visitas">22</a></td><td>23</td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/24/" title="Rob Glasser, de Real, tiene algo entre manos">24</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/25/" title="Diccionarios en castellano para Nvu, Importar favoritos de Safari en Firefox">25</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/26/" title="M&aacute;s &lt;em&gt;Tigeradas&lt;/em&gt; en Safari 1.3, &lt;em&gt;Tio Petros&lt;/em&gt;">26</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/27/" title="¿Qué pasaría si Apple regalase supercomputadores?, El otro &lt;em&gt;Rhapsody&lt;/em&gt;, Google Tutor &amp; Advisor, Web Hypertext Application Technology Working Group">27</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/28/" title="¿Es Apple irrelevante?, iChat AV &lt;em&gt;Tiger edition&lt;/em&gt; y edición de vídeo">28</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/29/" title="Meet-o-Matic: proyecta las mejores fechas para tus reuniones">29</a></td><td><a href="http://www.entremaqueros.com/bitacoras/memoria/2005/04/30/" title="¡Tengo mi Tigre!">30</a></td>
+		<td class="pad" colspan="1">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></div><div id="recent-comments-3" class="widget widget_recent_comments"><h3 class="widgettitle">Comentarios recientes</h3><ul id="recentcomments"><li class="recentcomments"><a href='http://www.free-electronic-cigarette-starter-kit.com/' rel='external nofollow' class='url'>electronic cigarette health hazards</a> en <a href="http://www.entremaqueros.com/bitacoras/memoria/2007/02/22/atu-303-la-materia-mas-fria-del-universo/#comment-148668">ATU 3.03: <em>La materia más fría del universo</em></a></li><li class="recentcomments">kenia en <a href="http://www.entremaqueros.com/bitacoras/memoria/2005/10/06/nombres-de-peliculas-en-espanol-y-en-ingles/#comment-148667">Nombres de películas en español y en inglés</a></li><li class="recentcomments">kenia en <a href="http://www.entremaqueros.com/bitacoras/memoria/2005/10/06/nombres-de-peliculas-en-espanol-y-en-ingles/#comment-148666">Nombres de películas en español y en inglés</a></li><li class="recentcomments">Allan en <a href="http://www.entremaqueros.com/bitacoras/memoria/2005/10/06/nombres-de-peliculas-en-espanol-y-en-ingles/#comment-148665">Nombres de películas en español y en inglés</a></li><li class="recentcomments">Hernando C en <a href="http://www.entremaqueros.com/bitacoras/memoria/2005/10/06/nombres-de-peliculas-en-espanol-y-en-ingles/#comment-148662">Nombres de películas en español y en inglés</a></li></ul></div><div id="tag_cloud-3" class="widget widget_tag_cloud"><h3 class="widgettitle">Etiquetas</h3><div class="tagcloud"><a href='http://www.entremaqueros.com/bitacoras/memoria/tag/3d/' class='tag-link-152' title='4 temas' style='font-size: 8pt;'>3D</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/aniversario/' class='tag-link-328' title='4 temas' style='font-size: 8pt;'>aniversario</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/apple/' class='tag-link-74' title='19 temas' style='font-size: 18.120481927711pt;'>Apple</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/applescript/' class='tag-link-10' title='4 temas' style='font-size: 8pt;'>AppleScript</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/astrofisica/' class='tag-link-147' title='11 temas' style='font-size: 14.409638554217pt;'>astrofísica</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/astronomy/' class='tag-link-420' title='5 temas' style='font-size: 9.3493975903614pt;'>astronomy</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/astronomia/' class='tag-link-146' title='19 temas' style='font-size: 18.120481927711pt;'>astronomía</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/a-traves-del-universo/' class='tag-link-35' title='4 temas' style='font-size: 8pt;'>A Través del Universo</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/bases-de-datos/' class='tag-link-237' title='7 temas' style='font-size: 11.373493975904pt;'>bases de datos</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/cell/' class='tag-link-70' title='5 temas' style='font-size: 9.3493975903614pt;'>Cell</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/ciencia/' class='tag-link-19' title='30 temas' style='font-size: 21.325301204819pt;'>Ciencia</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/conferencias/' class='tag-link-63' title='4 temas' style='font-size: 8pt;'>Conferencias</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/divulgacion/' class='tag-link-62' title='11 temas' style='font-size: 14.409638554217pt;'>Divulgación</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/google/' class='tag-link-106' title='4 temas' style='font-size: 8pt;'>google</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/historia-computacion/' class='tag-link-270' title='4 temas' style='font-size: 8pt;'>Historia Computación</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/iaa/' class='tag-link-170' title='5 temas' style='font-size: 9.3493975903614pt;'>iaa</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/iaa-csic/' class='tag-link-171' title='5 temas' style='font-size: 9.3493975903614pt;'>iaa-csic</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/internet/' class='tag-link-204' title='7 temas' style='font-size: 11.373493975904pt;'>internet</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/iphone/' class='tag-link-38' title='5 temas' style='font-size: 9.3493975903614pt;'>iPhone</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/javascript/' class='tag-link-229' title='5 temas' style='font-size: 9.3493975903614pt;'>javascript</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/latex/' class='tag-link-319' title='5 temas' style='font-size: 9.3493975903614pt;'>LaTeX</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/libros/' class='tag-link-65' title='4 temas' style='font-size: 8pt;'>Libros</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/mac/' class='tag-link-145' title='4 temas' style='font-size: 8pt;'>mac</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/macintosh/' class='tag-link-368' title='4 temas' style='font-size: 8pt;'>Macintosh</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/mac-os-x/' class='tag-link-49' title='33 temas' style='font-size: 22pt;'>Mac OS X</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/mailapp/' class='tag-link-95' title='4 temas' style='font-size: 8pt;'>Mail.app</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/numpy/' class='tag-link-160' title='4 temas' style='font-size: 8pt;'>NumPy</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/paralelismo/' class='tag-link-112' title='4 temas' style='font-size: 8pt;'>paralelismo</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/pdf/' class='tag-link-258' title='8 temas' style='font-size: 12.21686746988pt;'>PDF</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/podcast/' class='tag-link-176' title='4 temas' style='font-size: 8pt;'>podcast</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/powerpc/' class='tag-link-71' title='6 temas' style='font-size: 10.530120481928pt;'>PowerPC</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/problemas/' class='tag-link-23' title='4 temas' style='font-size: 8pt;'>Problemas</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/programacion/' class='tag-link-9' title='23 temas' style='font-size: 19.469879518072pt;'>Programación</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/python/' class='tag-link-78' title='11 temas' style='font-size: 14.409638554217pt;'>Python</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/science/' class='tag-link-437' title='4 temas' style='font-size: 8pt;'>science</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/scipy/' class='tag-link-161' title='4 temas' style='font-size: 8pt;'>SciPy</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/seguridad/' class='tag-link-22' title='4 temas' style='font-size: 8pt;'>Seguridad</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/software/' class='tag-link-2' title='13 temas' style='font-size: 15.590361445783pt;'>Software</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/steve-jobs/' class='tag-link-127' title='4 temas' style='font-size: 8pt;'>Steve Jobs</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/trucos/' class='tag-link-89' title='7 temas' style='font-size: 11.373493975904pt;'>trucos</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/utilidades/' class='tag-link-141' title='6 temas' style='font-size: 10.530120481928pt;'>utilidades</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/visualizacion/' class='tag-link-151' title='5 temas' style='font-size: 9.3493975903614pt;'>visualización</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/video/' class='tag-link-410' title='5 temas' style='font-size: 9.3493975903614pt;'>vídeo</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/web/' class='tag-link-227' title='6 temas' style='font-size: 10.530120481928pt;'>web</a>
+<a href='http://www.entremaqueros.com/bitacoras/memoria/tag/web-20/' class='tag-link-360' title='5 temas' style='font-size: 9.3493975903614pt;'>Web 2.0</a></div>
+</div><div id="linkcat-68" class="widget widget_links"><h3 class="widgettitle">Bitácoras Entremaqueros</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.entremaqueros.com/bitacoras/brocolifresco/" rel="colleague" title="Una bitácora de Alberto Corbi.">Brócoli Fresco</a></li>
+<li><a href="http://www.entremaqueros.com/bitacoras/cajon/" title="Bitácora de neodata sobre tecnología, Macs, y lo paranormal">Cajón Manzanas</a></li>
+<li><a href="http://www.entremaqueros.com/bitacoras/dimension25/" title="Bitácora de efectos visuales, por Miguel Gómez">Dimension 2.5</a></li>
+<li><a href="http://jesscs.entremaqueros.com/bitacoras/" title="Todo sobre Creative Suite de Adobe (y otras Constelaciones del software) ">Galaxia Creativa</a></li>
+<li><a href="http://www.entremaqueros.com/bitacoras/macgamers/" title="La actualidad de los juegos para Mac.">MacGamers</a></li>
+<li><a href="http://www.entremaqueros.com/bitacoras/memoria/" title="Anotaciones aleatorias, aunque centradas en Mac y ciencia, de Juan de Dios Santander">Memoria de Acceso Aleatorio</a></li>
+<li><a href="http://www.entremaqueros.com/bitacoras/mmm/" title="Dando la vuelta a la web.">MMM</a></li>
+<li><a href="http://www.entremaqueros.com/bitacoras/press/" title="Revista dedicada a las notas de prensa de diferentes empresas.">PressClipping</a></li>
+<li><a href="http://www.soundtracktunes.com/" title="Una bitácora sobre la iTunes Music Store">Sountracktunes</a></li>
+<li><a href="http://www.entremaqueros.com/bitacoras/todas/" rel="acquaintance colleague" title="La bitácora para ellas">Todas</a></li>
+
+	</ul>
+</div>
+<div id="linkcat-67" class="widget widget_links"><h3 class="widgettitle">Enlaces personales</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.faq-mac.com/" rel="colleague">faq-mac.com</a></li>
+<li><a href="http://www.iaa.csic.es/" rel="co-worker" title="Instituto de Astrofísica de Andalucía">IAA</a></li>
+<li><a href="http://homepage.mac.com/juandesant/" rel="me" title="Mi &#8220;homepage&#8221; en .Mac">JuandeSant</a></li>
+
+	</ul>
+</div>
+<div id="linkcat-69" class="widget widget_links"><h3 class="widgettitle">También visito</h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://daringfireball.net/">Daring Fireball</a></li>
+<li><a href="http://www.eduo.info/">Eduo</a></li>
+<li><a href="http://www.iddeco.net/blog/" title="Arte, Tecnología y Comunicación">El Blog de Idecco</a></li>
+<li><a href="http://geneura.ugr.es/~jmerelo/atalaya/planetGranada.cgi" rel="acquaintance met co-resident" title="Agregador de bitácoras granainas">Planet Granada</a></li>
+<li><a href="http://www.psicobyte.com/" title="Blog de Psicobyte">Psicofonías</a></li>
+
+	</ul>
+</div>
+<div id="rss-985305171" class="widget widget_rss"><h3 class="widgettitle"><a class='rsswidget' href='http://www.instapaper.com/starred/rss/475724/ZycUNeHnQ1l3xiwDKoePvO152M' title='Sindicar este contenido'><img style='border:0' width='14' height='14' src='http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://www.instapaper.com/starred' title=''>Cosas que leí recientemente</a></h3><ul><li><a class='rsswidget' href='http://juanegea.wordpress.com/2007/06/11/tipos-de-sociedad-¿por-que-elijo-slne/' title=' [&hellip;]'>Tipos de Sociedad ¿Por qué elijo SLNE? « Juan Egea</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://arstechnica.com/science/2012/06/the-house-of-the-future-will-look-exactly-the-same-er-totally-different/' title=' [&hellip;]'>The house of the future will look exactly the same… er, totally different | Ars Technica</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://www.guardian.co.uk/technology/2012/jun/29/rim-chiefs-best-quotes' title=' [&hellip;]'>RIM chiefs Mike Lazaridis and Jim Balsillie&#039;s best quotes | Technology | guardian.co.uk</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://counternotions.com/2008/07/16/bet-iphone/' title=' [&hellip;]'>iPhone: The bet Steve Jobs didn’t decline — counternotions.com — Readability</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://www.faq-mac.com/reportajes/iphone-dentro-5-anos/48029' title=' [&hellip;]'>El iPhone, dentro de 5 años | Faq-mac</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://counternotions.com/2009/08/26/pre-iphone/' title=' [&hellip;]'>Before Apple introduced the iPhone… — counternotions.com — Readability</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://www.codinghorror.com/blog/2009/04/the-eight-levels-of-programmers.html' title=' [&hellip;]'>Coding Horror: The Eight Levels of Programmers</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://www.codinghorror.com/blog/2006/07/separating-programming-sheep-from-non-programming-goats.html' title=' [&hellip;]'>Coding Horror: Separating Programming Sheep from Non-Programming Goats</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://www.bricklin.com/wontprogram.htm' title=' [&hellip;]'>Why Johnny can&#039;t program</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li><li><a class='rsswidget' href='http://ihnatko.com/2012/06/26/icloud-and-app-store-transition-yojimbo/' title=' [&hellip;]'>iCloud and App Store Transition: Yojimbo | Andy Ihnatko&#039;s Celestial Waste of Bandwidth (BETA)</a> <span class="rss-date">1 julio, 2012</span><div class='rssSummary'> [&hellip;]</div></li></ul></div><div id="rss-371570721" class="widget widget_rss"><h3 class="widgettitle"><a class='rsswidget' href='http://feeds2.feedburner.com/Feeds4ram?format=xml' title='Sindicar este contenido'><img style='border:0' width='14' height='14' src='http://www.entremaqueros.com/bitacoras/memoria/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://pipes.yahoo.com/pipes/pipe.info?_id=gkTwhuwJ3hGn0J5B3nBDOQ' title='Accumulates feeds from favorite sites to be republished as a &quot;favourites RSS&quot; in Memoria de Acceso Aleatorio (RAM), http://www.entremaqueros.com/bitacoras/memoria/'>Actividad en Feeds favoritos</a></h3><ul><li><a class='rsswidget' href='http://www.microsiervos.com/archivo/mundoreal/museo-ilusiones-opticas.html' title='Curioso lugar en el que nada es como parece: el Trick Eye Museum en Hongdae, Seúl (Corea del Sur), una visita obligada para los aficionados a las ilusiones ópticas. # Enlace Permanente [&hellip;]'>Un museo de ilusiones ópticas para engañar a nuestros ojos y hacer pensar a nuestro cerebro</a></li><li><a class='rsswidget' href='http://www.microsiervos.com/archivo/frases-citas/inversiones-ciencia-pobres-ricos.html' title='Los países pobres creen que los países ricos invierten en ciencia porque son ricos. Pero algunos países son ricos porque invierten en ciencia.- twalmar vía @samueldalva # Enlace Permanente [&hellip;]'>Inversiones</a></li><li><a class='rsswidget' href='http://www.theverge.com/2012/6/29/3125396/google-nexus-7-review' title='Seems to be the undisputed best 7-inch tablet, and the most interesting non-phone Android device yet made.  ★  [&hellip;]'>Josh Topolsky Reviews the Nexus 7</a></li><li><a class='rsswidget' href='http://wtf.microsiervos.com/eltubo/grua-lb-13000.html' title='Mi alemán no es precisamente muy bueno, pero según llego a entender en esta demostración de fuerza bruta están enseñando de lo que es capaz una bestia mecánica llamada LB-13000 (Liebherr), a la que apodan cariñosamente, «la grúa sobre orugas más potente del mundo de construcción convencional». El momento cumbre está a partir de 05:30: De lo que dice el prese [&hellip;]'>LB-13000: la grúa capaz de levantar una grúa que levanta una grúa que levanta una grúa</a></li><li><a class='rsswidget' href='http://www.microsiervos.com/archivo/ciencia/asi-se-forman-tormentas.html' title='Este time-lapse sobre formación de tormentas está grabado en a última hora de la tarde; muestra cómo se juntan y crecen las nubes hasta formar una buena «fiesta», que comienza con unas cuantas sacudidadas en forma de rayos y truenos. No hay que olvidar que lo que estamos viendo son… ¡toneladas y toneladas de agua! «chocando», en forma de nubes. Es un montaje [&hellip;]'>Vídeo: Así se forman las tormentas</a></li><li><a class='rsswidget' href='http://www.microsiervos.com/archivo/frases-citas/instagraaaaaaaam.html' title='¿Y ahora qué hago con mi comida? ¿Comérmela?– @SteFlockaal ver que Instagram no funciona(entre otros muchos servicios) # Enlace Permanente [&hellip;]'>¡Instagraaaaaaaam!</a></li><li><a class='rsswidget' href='https://tapstream.com/?df' title='My thanks to Tapstream for sponsoring this week’s DF RSS feed. Tapstream is a new tool for iOS, Mac, and Android developers that lets you understand how users are finding your app, and measure which social networks, websites, and marketing campaigns are driving traffic. It’s super-easy to implement: just add a snippet of JavaScript to your website and add th [&hellip;]'>Tapstream for iOS, Mac, and Android</a></li><li><a class='rsswidget' href='http://www.gearlive.com/news/article/q108-flash-on-iphone-is-just-around-the-corner/' title='Andru Edwards, back in February 2008, “Flash on iPhone Is Just Around the Corner”: Well, we’ve just got word from a reliable source that Flash support is on its way to the iPhone, and it should be coming very, very soon. Called it.  ★  [&hellip;]'>World’s Longest Corner</a></li><li><a class='rsswidget' href='http://www.slashgear.com/apple-granted-preliminary-sales-ban-of-galaxy-nexus-29236534/' title='Chris Davies, writing for Slashgear: Apple has been granted a preliminary sales injunction against the Samsung Galaxy Nexus in the US, with the Cupertino company now required to stump up a $96m bond in order to secure the ban. The decision was tweeted by Reuters’ Dan Levine, and follows a win earlier this week for Apple against the Samsung Galaxy Tab 10.1, w [&hellip;]'>Apple Granted Preliminary Sales Ban of Galaxy Nexus</a></li><li><a class='rsswidget' href='http://www.virtualpants.com/post/26147935178/google-is-slowly-cracking-open-ios' title='Virtual Pants: It’s easy to figure out why Apple doesn’t want default third-party apps. It would cede control of the iOS experience to third-parties. Imagine a Google user with an iPhone replacing most of the core apps with Google counterparts. An iPhone home screen with Chrome, Gmail, Drive, Docs, Calendar, Contacts, Music, Maps, Listen, Now, and Google+ is [&hellip;]'>Don’t Annoy Users</a></li><li><a class='rsswidget' href='http://rampantspeculation.squarespace.com/home/2012/6/29/on-chrome-for-ios.html' title='Conrad MacIntyre: I suspect the reason is because of the deep system integration of things like Safari, Mail, Contacts, and the like. Take Mail, for example, if you could set Sparrow as your default client on iOS you’d still have to configure Mail because any email sent from other apps uses the Mail API. Then rely on IMAP to sync those things up. Inelegant a [&hellip;]'>On the Lack of User-Choosable Default Apps in iOS</a></li><li><a class='rsswidget' href='https://twitter.com/greggretsch/statuses/218052452820336641' title='Greg Gretsch, on Twitter: Since release of iPhone 5 years ago, market caps of companies most affected: $AAPL +376%; $GOOG +9%; $RIMM -85%; $NOK -89% I’ll add two more: Microsoft +0.6% Samsung +36%  ★  [&hellip;]'>The iPhone’s Effect on the Phone Industry</a></li><li><a class='rsswidget' href='https://twitter.com/wsj/status/218440250605846528' title='What’s the over/under that RIM is still an independent company in Q1 2013?  ★  [&hellip;]'>WSJ: ‘Research in Motion Says Its New BlackBerry 10 Smartphone Won’t Be Released Until First-Quarter 2013’</a></li><li><a class='rsswidget' href='http://muleradio.net/thetalkshow/7/' title='This week’s episode of The Talk Show, with two special guests: John August and Adam Lisagor. Topics include Google’s announcements at I/O, Apple’s new Podcasts app, creating apps to solve your own problems, and a whole bunch of talk about movies and filmmaking. Brought to you by two great sponsors that go great together: Olloclip, a three-in-one camera lens  [&hellip;]'>‘Hot Ladies in Movies’</a></li><li><a class='rsswidget' href='http://www.businessinsider.com/bertrand-serlet-is-working-on-a-mystery-startup-in-palo-alto-with-ex-apple-employees-2012-6?op=1' title='Speaking of Apple executives who went out on top, Seth Flegerman at Business Insider has a wee bit of a scoop on what Bertrand Serlet is up to. I heard a whiff about this at WWDC; he’s definitely got some A-list UI designers on board. Update: Upthere’s simple job-listing page.  ★  [&hellip;]'>Bertrand Serlet’s Stealth Startup: Upthere</a></li></ul></div><div id="meta-2" class="widget widget_meta"><h3 class="widgettitle">Meta</h3>			<ul>
+						<li><a href="http://www.entremaqueros.com/bitacoras/memoria/wp-login.php">Acceder</a></li>
+			<li><a href="http://www.entremaqueros.com/bitacoras/memoria/feed/" title="Suscribirse a este sitio usando RSS 2.0"><abbr title="Really Simple Syndication">RSS</abbr> de las entradas</a></li>
+			<li><a href="http://www.entremaqueros.com/bitacoras/memoria/comments/feed/" title="Últimos comentarios a todas las entradas en RSS"><abbr title="Really Simple Syndication">RSS</abbr> de los comentarios</a></li>
+			<li><a href="http://es.wordpress.org/" title="Gestionado con WordPress, una avanzada plataforma semántica de publicación personal.">WordPress.org</a></li>
+						</ul>
+</div>
+
+	</div><!-- end: #sidebar -->
+</div><!-- end: #sidebar-border --></div><!--wrapper-->
+<div class="clear"></div>
+<div id="footer">
+	<div id="footer-inside">
+		<p>
+			Copyright &copy; 2012 Memoria de Acceso Aleatorio			| Powered by <a href="http://wordpress.org/">WordPress</a> and <a href="http://zww.me">zBench</a>
+		</p>
+		<span id="back-to-top">&uarr; <a href="#" rel="nofollow" title="Back to top">Subir</a></span>
+	</div>
+</div><!--footer-->
+</body>
+</html>

@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title type="text" xml:lang="en">Brunosan</title>
+	<link type="application/atom+xml" href="http://brunosan.eu/feed/" rel="self"/>
+ 	<link type="text" href="http://brunosan.eu/" rel="alternate"/>
+	<updated>2012-07-20T18:30:14-04:00</updated>
+	<id>http://brunosan.eu/</id>
+	<author>
+    <name> Bruno Sánchez-Andrade Nuño </name>
+	</author>
+	<rights>Copyright (c) 2004-2012, Bruno Sánchez-Andrade Nuño ; some rights reserved.</rights>
+
+	
+	<entry>
+		<title>Migration in progress</title>
+		<link href="http://brunosan.eu//2012/09/14/migration-in-progress/"/>
+		<updated>2012-09-14T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/09/14/migration-in-progress</id>
+		<content type="html">&lt;p&gt;I´m in the progress of moving my blog into Jekyll. I´m halfway done, so I´ve decided to publish the new version.&lt;/p&gt;
+
+&lt;p&gt;Sorry if things are broken. I´ve tried to respect the URL to the posts,
+so most inbound links should still work.&lt;/p&gt;
+
+&lt;p&gt;My old site still lives at &lt;a href=&quot;http://nasonurb.wordpress.com&quot;&gt;Wordpress&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feel free to send me your comments to &lt;a href=&quot;mailto:brunosan@gmail.com?subject=Feedback%20for%20your%20newsite&quot;&gt;brunosan@gmail.com&lt;/a&gt;. Thanks!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Next Steps in Open Data</title>
+		<link href="http://brunosan.eu//2012/07/15/Next-steps-in-Open-Data/"/>
+		<updated>2012-07-15T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/07/15/Next-steps-in-Open-Data</id>
+		<content type="html">&lt;p&gt;Last week DC hosted the &lt;a href=&quot;http://www.data.gov/communities/conference&quot;&gt;Open Government Data
+Conference&lt;/a&gt;, the
+&lt;a href=&quot;http://tech.state.gov/profiles/blogs/tech-state-wiki-gov-agenda&quot;&gt;Tech@State&lt;/a&gt;, the
+&lt;a href=&quot;http://wikimania2012.wikimedia.org/wiki/Main_Page&quot;&gt;Wikimania&lt;/a&gt;, and &lt;a href=&quot;http://developmentseed.org/blog/2012/july/09/week-dc-tech/&quot;&gt;more&lt;/a&gt;. It seems clear
+the momentum here for open data and Technology innovation is growing strong.&lt;/p&gt;
+
+&lt;p&gt;While you can read plenty of good reviews from these events I feel some
+important points regarding Open Data of &lt;em&gt;where the ball is going&lt;/em&gt; are left amidst the background of &lt;em&gt;where the ball is&lt;/em&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Don´t be ashamed of the knowns unknowns.&lt;/li&gt;
+&lt;li&gt;Open Data from the inside out, and at home.&lt;/li&gt;
+&lt;li&gt;Standards, standards, standards.&lt;/li&gt;
+&lt;li&gt;The challenge of non publicly funded open data.&lt;/li&gt;
+&lt;li&gt;Hackathons and competitions can backslash on you.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;!--more--&gt;
+
+
+&lt;h3&gt;Don´t be ashamed of the knowns unknowns&lt;/h3&gt;
+
+&lt;p&gt;With Open Data, anyone can quickly learn how much we know about the
+topic of the data. How much&amp;hellip; or little you actually know. In fact, this means you can
+easily pinpoint gaps in data, gaps in knowledge. This &lt;em&gt;half empty&lt;/em&gt; view
+is also important. Yet, if you advocate to Open your Data, focusing on
+the half empty won´t really help you. The traditional view is better
+not to know we don´t know.&lt;/p&gt;
+
+&lt;p&gt;When we participated in Apps for Development, our initial idea was an
+app to precisely pinpoint these gaps in data, and we call the idea
+&lt;em&gt;GapFinder&lt;/em&gt;. We wanted to know the known unknowns. And, tapping on
+that resource, try to interpolate those gaps
+and, perhaps, enable crowd sourcing the gaps, or the accuracy of the estimates. I was
+particularly excited about this idea for an app. However, we thought the Bank would
+probably want to focus on the &lt;em&gt;half full&lt;/em&gt; side of the Data Repository,
+so we made &lt;a href=&quot;http://www.quiz2015.com/&quot;&gt;&amp;ldquo;Know your World&amp;rdquo;&lt;/a&gt; which pulls available data.
+When the voting started, I chuckled when I saw the &lt;a href=&quot;http://appsfordevelopment.challengepost.com/submissions/1525-blind-data&quot;&gt;Blind Data&lt;/a&gt; app from
+&lt;a href=&quot;https://twitter.com/thebenedict&quot;&gt;@TheBenedict&lt;/a&gt; with a similar idea to &lt;em&gt;GapFinder&lt;/em&gt;. He was not among the finalists.&lt;/p&gt;
+
+&lt;p&gt;This is why I was so glad when Caroline Anstey, Managing Director of the World Bank &lt;a href=&quot;http://www.worldbank.org/en/news/2012/07/10/second-international-open-government-data-conference&quot;&gt;talked
+explicitly about the Blind Data app&lt;/a&gt; on her Opening Keynote:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;I’d also like to think we’re just as open about what we don’t know. One
+of the first apps a developer created when we started our Open Data
+Initiative in April 2010 is called “Blind Data”- it shows the gaps in
+coverage of our various development data. &lt;strong&gt;We have to be honest about
+those gaps. Showing them clearly, creates an incentive to fill them.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The know unknowns are huge resource, use them.&lt;/p&gt;
+
+&lt;h3&gt;Open Data from the inside out, and at home&lt;/h3&gt;
+
+&lt;p&gt;When a big entity like a government, the World Bank
+or USAID engages into Open Data not only helps externally by
+providing information to the world of what are they doing, but it
+actually enables them to internally know what are they doing, when, where, for how
+much. To quote the exact phrase &amp;ldquo;We know how much we spent, but we don´t
+know what actually happens with it&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Open Data should not be implemented as a
+overarching layer that receives information for external use, but as an
+integral internal operational framework.&lt;/p&gt;
+
+&lt;p&gt;Laia Grino, with her post &lt;a href=&quot;http://www.interaction.org/blog/will-ngos-join-open-data-movement&quot;&gt;&amp;ldquo;Will NGOs Join The Open Data
+Movement?&amp;rdquo;&lt;/a&gt;, brings a closely related point. NGOs are keen to call upon opening the vast archives of data from governments and public sector. Yet, the NGO landscape is in general fairly close itself on its operations, financials, &amp;hellip; Compliance law and grantee requirements push for more openness, but these are usually enclosed in formats such as annual pdf reports. Open Data is not only about releasing data, is about doing it in a re-usable way.&lt;/p&gt;
+
+&lt;p&gt;Open Data is for everyone: open AND usable.&lt;/p&gt;
+
+&lt;h3&gt;Standards, standards, standards&lt;/h3&gt;
+
+&lt;p&gt;The most common entry barrier to actually work with available data are
+formats. Virtually each and every data provider decides their own
+format, definitions and structure to release their data.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;When does the Year start? Is it Tax Year, Natural Year, Financial Year,
+&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Which units? from which country? According to which borders when?&lt;/li&gt;
+&lt;li&gt;Is it xml, xls, csv, db, &amp;hellip;?&lt;/li&gt;
+&lt;li&gt;API based? Released by year? by topic? All data bundled on a big file?&lt;/li&gt;
+&lt;li&gt;How do I register changes?&lt;/li&gt;
+&lt;li&gt;1.000,5 or 1000.5?&lt;/li&gt;
+&lt;li&gt;Machine readable or human readable?&lt;/li&gt;
+&lt;li&gt;Do I source where I took it from, or where it actually originates?&lt;/li&gt;
+&lt;li&gt;Where to place the definitions of the terms I use? Which language?&lt;/li&gt;
+&lt;li&gt;Is it Russian or Chinese? (Luckily the whole world uses Arabic numbers and
+decimal systems.)&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;When Gain developed our Index I was keen to use python, R o any
+reasonable tool. The fact is that most Economist and development
+partitioners use Excel, some VBA. I had to learn it from scracth. Being
+a 2D framework is painfully cumbersome to deal with, not to mention
+the VBA inconsistencies and the fact that probably 70% of the code is
+overhead dealing with files, errors, declarations and not the actual
+conceptual operations. I´m positive our code would be 10 times faster,
+shorter and clearer in i.e. Ruby or Python with a proper database.&lt;/p&gt;
+
+&lt;p&gt;We need to use open clear formats, or at least a standard way to specify the format so we can convert them. And we need to stop using Excel, please.&lt;/p&gt;
+
+&lt;h3&gt;The challenge of non publicly funded open data&lt;/h3&gt;
+
+&lt;p&gt;Overhead at IOGDC:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&amp;ldquo;Data is a public good, for the public good&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Yes, data should be a public good, so that anyone can leverage on it. The
+challenge is that data gathering is usually an expensive endeavor. On
+top of expensive, data itself is the core asset for many business models.&lt;/p&gt;
+
+&lt;p&gt;The cost of data is lowering, but it still needs heavy funds for
+gathering, mining and maintaining. Typically
+a public sector entity (govs, international agencies) will fund these
+efforts. Thus, opening data paid with taxes for the public good
+whenever possible makes much sense.&lt;/p&gt;
+
+&lt;p&gt;The challenge is then for the private sector who also collects and
+uses data, to open their archives. Doing so their competitive advantage
+will disappear. Is there a case for them to join Open Data? Most sessions at IOGDC
+had private sector involvement, but none raised this issue.&lt;/p&gt;
+
+&lt;p&gt;There are many good examples of private sector led Open Data and Open
+source, but they are not common, neither leading the norm. Some release
+part of the data, some provide services to work with the data they give free,
+some temporarily embargo the latest batch&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;If &amp;ldquo;data belongs to itself&amp;rdquo; who pays for creating it?&lt;/p&gt;
+
+&lt;h3&gt;Hackathons can backslash on you&lt;/h3&gt;
+
+&lt;p&gt;Unless one pays close attention, these events meant to grow the
+development ecosystem, can actually shrink it. Participating on such
+events involves very intense sessions brainstorming, coding and testing your
+apps. The &lt;em&gt;first tier&lt;/em&gt; of apps, the winners, are obviously incentives to continue and rewarded for
+their efforts. But, I argue, it´s the &lt;em&gt;second tier&lt;/em&gt; where you should
+focus. Those developers that made very good products but you could not
+reward them. They have invested a lot of time and energy, they have
+learned a great deal, and now they walk away. They are the untapped
+resource that can make the difference.&lt;/p&gt;
+
+&lt;p&gt;When we got to be finalists for &lt;em&gt;Apps for Development&lt;/em&gt; with &lt;a href=&quot;#&quot;&gt;Know your
+World&lt;/a&gt; I wondered about this a lot. Our participation was purely for
+fun, but I know many other participants invested much time and hopes. I
+contacted a few months later. Many said they were less likely to
+participate again on similar competitions. Why? The bitterness of too
+much completely unrewarded effort.&lt;/p&gt;
+
+&lt;p&gt;At IOGDC one of the panelists shared one possible solution. Enforce, as
+a requirement for participation, to include a business model around any
+app. This completely changes the environment. One can still reward the
+best, but also showcase this &lt;em&gt;second tier&lt;/em&gt; to help them get traction.
+If you really believe your app is good, the competition helps you kick start it,
+and you can continue without them.&lt;/p&gt;
+
+&lt;p&gt;My point is that &lt;a href=&quot;http://hackdaymanifesto.com/&quot;&gt;Good&lt;/a&gt; Hackthons and Challenges are not about the prizes or
+the apps, they are about growing the community, and that should be the
+focus, not the prizes.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Contraportada de El Comercio</title>
+		<link href="http://brunosan.eu//2012/07/07/contraportada-de-el-comercio/"/>
+		<updated>2012-07-07T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/07/07/contraportada-de-el-comercio</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2484&quot; title=&quot;Screen Shot 2012-07-07 at 10.44.04&quot; src=&quot;http://brunosan.eu/media/contraportadaelcomercio.png&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;212&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hoy Salgo en la &lt;a href=&quot;http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html&quot;&gt;contraportada del Periódico asturiano El Comercio&lt;/a&gt;. Hace unos días una periodísta, Marifé Antuña, me contacto al ver una reposición de &amp;ldquo;Asturianos en el Mundo&amp;rdquo; donde salgo y me preguntó si podía entrevistarme.&lt;/p&gt;
+
+&lt;p&gt;Hubiera aceptado sea cual fuere el periódico, pero además éste es &lt;a href=&quot;http://es.wikipedia.org/wiki/El_Comercio_(Espa%C3%B1a)&quot;&gt;uno de los grandes medios de mi región&lt;/a&gt;. Encantado estoy.&lt;/p&gt;
+
+&lt;p&gt;No tengo imagen de la versión papel, pero aquí está el &lt;a href=&quot;http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html&quot;&gt;enlace a la versión digital&lt;/a&gt;. La entrevista completa está a continuación.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;&lt;strong&gt;¿Cómo llega hasta Washington un estudiante del Piles?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Con pasión y determinación. Es un largo camino, pero se puede hacer. Lo importante es la motivación, y perseverar. Siempre me gustó la Ciencia y tenía claro que quería hacer eso. Recuerdo que mi profesor de Ética en el Piles me dijo una vez que mi camino profesional requeriría sacrificios personales al tener que cambiar mucho de ciudad y empezar de cero. Tenía razón, pero si lo hago es porque me encanta a lo que me dedico. Estoy orgulloso de llegar lejos, y de haber empezado en Asturias. La última vez que fui a casa, un compañero de la Universidad de Oviedo me dijo que verme tan lejos le motivaba: &amp;ldquo;Si tu pudiste hacerlo, cualquiera puede&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Antes de ir a Estados Unidos, estuvo en Alemania. ¿Salir de España era la única vía? ¿Se siente uno de esos cerebros en fuga de España?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sí. Llevo ya unos 8 años fuera. Estudié Física en Oviedo, y terminé Astrofísica en Canarias. En ambos sitios te preparan con mucho nivel. Lamentablemente España rechazó las opciones que pedí para hacer el doctorado, mientras que el famoso y atractivo Max Planck de Alemania (uno de los mejores centros del mundo) me acogió con muchas facilidades y una buena beca para hacer mi doctorado. Un &amp;ldquo;cerebro español fugado&amp;rdquo;: España invirtió en mi formación como astrofísico, pero no supo ofrecerme nada al terminar. Irónicamente, volvía a menudo a España para tomar datos en los telescopios, alemanes, de Tenerife.
+Al mismo tiempo, también sería un &amp;ldquo;cerebro europeo fugado&amp;rdquo;. Al terminar el doctorado me pasó lo mismo, Europa no pudo ofrecerme nada y los Estados Unidos me dieron una muy buena oportunidad para trabajar con satélites y cohetes de la NASA, y me fui.&lt;/p&gt;
+
+&lt;p&gt;Sigo buscando oportunidades interesantes para volver. Me gustaría poder tener más relación profesional con España, pero de momento sólo puedo publicar algún artículo de divulgación cada pocos meses. En la revista “Prímula” del Hospital de Cabueñes acabo de colaborar con uno sobre tormentas solares.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Me imagino que estará preocupado por los recortes en investigación en España. ¿Cuál cree que ese el modelo que debería poner en marcha para garantizar un futuro mejor?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hace pocas semanas el programa Salvados emitió el episodio &amp;ldquo;Más allá del ladrillo&amp;rdquo; sobre el tema. Creo que acierta en muchos aspectos. Tenemos gente muy buena, tenemos capacidad, pero nos faltan piezas clave. Las manidas alternativas políticas no incluyen un liderazgo que apueste por la Ciencia; y nos falta capacidad para implementar políticas informadas con ciencia, o políticas que crean en beneficio de la ciencia. Tenemos que apostar por la ciencia y la tecnología como principio y sustento del desarrollo a medio y largo plazo. Por otro lado, tenemos que acercar la investigación a la industria y otros sectores para cerrar el ciclo a corto plazo. Apoyar a aquellos que decidan invertir en convertir ideas en empresas rentables. ¿Por qué no podemos crear un Facebook en España? Tenemos los mismos ordenadores.&lt;/p&gt;
+
+&lt;p&gt;En 2008 el Gobierno de Estados Unidos preguntó a la Academia de Ciencias qué medidas concretas deberían implementarse para que el país se asegure una prosperidad y competitividad a escala global. El informe del resultado, de acceso gratuito, es demoledor: aumentar la fuente de talento con mejor educación en Ciencia y Tecnología; mantener los compromisos con la investigación básica, fuente de ideas, inventos y calidad de vida; retener y atraer al mayor número de investigadores dentro y fuera de las fronteras; facilitar la innovación e invertir en el trasvase de investigación básica a aplicaciones prácticas, y asegurar el acceso a estas tecnología lo mejor posible. Llevar este informe nuestro gobierno no sería una mala idea.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trabaja en la Universidad George Mason y en un laboratorio federal de investigación espacial. Dígame cómo es su día a a día. ¿A qué más aspira a nivel profesional? ¿Cuáles son sus retos?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cambié de trabajo poco tiempo después de grabar Asturianos en el Mundo. Me encanta la ciencia, pero decidí hacer algo que se centrase en acercar y aplicar la ciencia y la tecnología en el mundo de hoy. Trabajé en la Academia de Ciencias de los Estados Unidos, que son los consejeros científicos para el Gobierno. Al cabo de unos meses me fui como Director de Ciencia y Tecnología a una ONG nueva y muy pequeña (www.gain.org). Se centra en Adaptación al cambio climático, y mi trabajo es crear un sistema de medida, abierto y transparente, de vulnerabilidad y preparación para todos los países. Es un trabajo fascinante porque no sólo puedo aplicar las técnicas aprendidas en investigación, sino que también estoy en contacto con expertos de todo el mundo y tengo la oportunidad de viajar y dar presentaciones en sitios increíbles. En los últimos meses estuve en una conferencia científica en Arizona, en otra de las Naciones Unidas en Rio de Janerio y también di charlas para el Banco Mundial, embajadores y presidentes de empresas.
+Al ser una ONG tan pequeña nos centramos mucho en colaboraciones con expertos, en hacer nuestro trabajo transparente y conceptualmente muy claro. Aprendes muchísimo, tan pronto tienes que gestionar un presupuesto para hacer una web, como tienes que dar una charla para un senador, o te toca bajar a comprar café para todos.&lt;/p&gt;
+
+&lt;p&gt;Mi meta profesional es seguir situándome en ese hueco entre la sociedad, la gente, los gobiernos, las empresas por un lado; y la ciencia y la tecnología por otro. Existe una triste desconexión entre ambas, sobre todo entre la gente y la ciencia, y creo que ambas partes ganarían mucho si esto cambiara. Esto se traduce en consejeros científicos, en divulgación, en ciencia para informar políticas, en políticas para mejorar la ciencia, integrando científicos en empresas, gobiernos y ONG, y acercando mucho éstas a la ciencia y la tecnología.&lt;/p&gt;
+
+&lt;p&gt;Me gustaría que me dijera en poquitas palabras qué es lo que te has llevado de país en país en que ha vivido, qué ha aprendido más allá de la física e incluso qué cree que deberíamos aprender todos esos lugares.&lt;/p&gt;
+
+&lt;p&gt;De Asturias me quedo con la familia, amigos, lugares y gente con la que he crecido, con la empatía de la gente, la cercanía con la naturaleza y la filosofía de disfrutar de la vida. Y por supuesto sus paisajes y comida.
+De Alemania me quedo con el aprecio a que las cosas funcionen, las normas se cumplan y se valore a todo el mundo por su trabajo. Y con la cerveza de trigo.
+De Europa me quedo con su diversidad de culturas, de historias, de idiomas y de gente. Y lo mucho que podemos compartir y aprender juntos. Y AEGEE, la asociación europea de estudiantes que me abrió los ojos a Europa.
+De Estados Unidos me quedo con el ambiente de innovación, que se te valore por lo que haces, no por lo que eres o de donde vienes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Usted suelta la palabra Asturias en Washington. ¿Les suena de algo o se quedan como estaban?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A veces creen que dices Austria. Suelo decir que soy de España, y casi siempre me preguntan si Barcelona. Si no tengo tiempo les digo que sí, que cerca. Si tengo tiempo les cuento un poco sobre el paisaje, la comida y la gente, y les pongo fotos de Google. La imagen de España suele ser sol, playa, Barcelona y Madrid. Quedan alucinados con Asturias.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Qué se dice por ahí de España en una situación como la que estamos viviendo? ¿Qué se conoce y qué imagen transmitimos?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No se sabe mucho de España además de la típica imagen de vacaciones. Saben de nuestra crisis, pero los americanos no suelen ser muy internacionales.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Y qué imagen transmite Asturias hacia un asturiano desde la distancia? ¿Cómo se ve la región desde tan lejos?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Asturias se ve con morriña y con frustración. La situación no es buena, pero somos muy buena gente, con mucha capacidad para hacer cosas increíbles. Pero, de alguna forma, parece que tenemos una nube encima de la cabeza que evita que nos movamos para conseguir lo que queramos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Sigue lo que está sucediendo en el plano político? ¿Sufre con el Sporting?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sigo la política nacional con más detalle, pero no mucho la regional. No me gusta el fútbol. He visto y celebrado la victoria de España, pero ése ha sido el único partido que he visto desde la final del Mundial.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;No sé si vienes a menudo por Asturias, pero seguro que cuando lo haces hay algo que no perdonas, ¿lo primero nada más llegar a casa es&amp;hellip;?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cada vez me gusta más dar un paseo por las mismos sitios por donde solía ir y ver cómo ha cambiado. Aprovechar y hacerlo con la familia o amigos, o solo. Es una sensación extraña, por un lado te reencuentras con tu pasado, pero por otro te das cuenta que vives cada vez más desconectado de esos lugares.
+Pasear por la playa, acercarse a Cimadevilla y tomarse unas sidras, chopitos, croquetas, escalopines al cabrales. Encontrarse con amigos y visitar casi los mismos bares, mientras te ponen al día de bodas y niños, y a lo lejos ves a chavales que bien pudieran ser tú hace sólo unos añitos.
+Siempre hay muchos lugares donde me gustaría perderme un par de días, pero no suele ser posible. Hace años que quiero volver a subir al Urriellu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Qué se echa en falta? ¿Y qué no se echa en falta en absoluto, que es eso que los asturianos deberíamos desterrar para tener una vida mejor?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Se echa de menos la gente, los lugares, la forma de ser de la gente, los paseos por la ciudad y por la montaña. Toda madre piensa que su hijo es el más guapo, y todos pensamos que el lugar de donde somos es muy bonito. Pero con Asturias, es más que eso, todo el mundo al que he llevado lo dice, vivimos en lugar naturalmente privilegiado. Hay poco sol y llueve mucho pero, como dice Dark la eMe, es lo que tiene que sea verde.&lt;/p&gt;
+
+&lt;p&gt;¿Qué desterrar? Somos una región que ha sufrido mucho laboralmente. Nos hace fuertes y más unidos, pero a veces parece que a uno le entra un nubarrón encima de la cabeza. A veces nos faltan ganas de empezar proyectos, ilusión y perseverancia profesional. Creo que debemos amar nuestra tierra, pero ampliar esos regionalismos y ser un poco más orgullosos de ser españoles, fuera de ideologías o partidos. En fútbol lo podemos hacer, ¿por qué no en otros ámbitos?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://brunosan.eu/media/contraportadaelcomercio2.jpg&quot;&gt;&lt;img class=&quot;aligncenter size-full wp-image-2484&quot; src=&quot;http://brunosan.eu/media/contraportadaelcomercio2.jpg&quot; alt=&quot;&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Higgs Bosson cartoon</title>
+		<link href="http://brunosan.eu//2012/07/04/Higgs-Bosson-cartoon/"/>
+		<updated>2012-07-04T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/07/04/Higgs-Bosson-cartoon</id>
+		<content type="html">&lt;p&gt;In case you want to know what´s the &lt;a href=&quot;http://www.nytimes.com/2012/07/05/science/cern-physicists-may-have-discovered-higgs-boson-particle.html?pagewanted=all&quot;&gt;fuss about the Higgs bosson&lt;/a&gt; and the CERN news.&lt;/p&gt;
+
+&lt;iframe src=&quot;http://player.vimeo.com/video/41038445?portrait=0&amp;amp;color=c8b3df&quot; width=&quot;500&quot; height=&quot;656&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt; &lt;p&gt;&lt;a href=&quot;http://vimeo.com/41038445&quot;&gt;The Higgs Boson Explained&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/phdcomics&quot;&gt;PHD Comics&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;And please, stop saying is the God´s particle, that´s prepostreous.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Jekyll and Pull Requests</title>
+		<link href="http://brunosan.eu//2012/07/01/jekyll-pull-requests/"/>
+		<updated>2012-07-01T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/07/01/jekyll-pull-requests</id>
+		<content type="html">&lt;p&gt;&lt;strong&gt;I´m migrating my blog to this new system. Sorry for the many bugs. I´ll
+appreciate any &lt;a href=&quot;email:brunosan@gmail.com&quot;&gt;comments or suggestions&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When I migrated this site to &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; I wanted to focus on the content. Any page on this blog is less than 2 clicks away. I´ve been blogging since 2004, so this means I have over 200 pages. While testing the new site I was flabbergasted with the many typos and edits I wanted to correct or complement on &lt;strong&gt;many&lt;/strong&gt; of the posts.&lt;/p&gt;
+
+&lt;p&gt;Fortunately this new system allows to send those edits very easily. I got the idea from &lt;a href=&quot;https://github.com/dfm/dfm.github.com/blob/master/assets/comments.js&quot;&gt;dfm&lt;/a&gt;, that uses it as a comment system. I can review or comment on them, and add them extremely easy. That´s what the little button at the bottom of each post does. This &amp;ldquo;&amp;rdquo;&lt;em&gt;Send edit request&lt;/em&gt;&amp;ldquo;&amp;rdquo; button is basically a link to a Github &lt;a href=&quot;https://help.github.com/articles/using-pull-requests&quot;&gt;&lt;em&gt;Pull Request&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And this is how it works:&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The site is made of flat text files&lt;/strong&gt;
+This site is made in &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, so everything is a flat text file. What Jekyll does is convert those files into html format ready for your browser.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The site is a git repository on Github&lt;/strong&gt;
+The website is actually a &lt;a href=&quot;http://en.wikipedia.org/wiki/Git_(software&quot;&gt;git&lt;/a&gt; repository. And &lt;a href=&quot;www.github.com&quot;&gt;Github&lt;/a&gt; is the website where that repository lives, and from where this site is hosted. Among other many things git allows for &lt;em&gt;asynchronous collaboration&lt;/em&gt;. One can just clone the repository. Git keeps track of the history of changes, and any modification on any clone or the main site can be easily integrated among clones, or the main repository. That means, for example, that I can write my posts offline, and then send my changes once I&amp;rsquo;m online.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A Pull request is only a link to a URL&lt;/strong&gt;
+What a &lt;a href=&quot;https://help.github.com/articles/using-pull-requests&quot;&gt;&lt;em&gt;Pull Request&lt;/em&gt;&lt;/a&gt; does is make a clone of the repository of my website. When you make edits you can send them back to the main repository. Since you don´t have permission to change the website (only me), I receive a notification that someone is proposing changes. I can review them, modify them and integrate them.&lt;/p&gt;
+
+&lt;p&gt;This functionality is &lt;strong&gt;huge&lt;/strong&gt; when developing software, specially open-source software. Anyone can propose edits than are integrated, and all those changes are authored in the history of the repository.&lt;/p&gt;
+
+&lt;p&gt;In my case all I need to do is create that link.&lt;/p&gt;
+
+&lt;p&gt;For example, this post that lives here:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/2012/07/01/jekyll-pull-requests/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;and its filename is:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;2012-07-01-jekyll-pull-requests.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;therefore the link should be:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;https://github.com/brunosan/brunosan.eu/edit/master/_posts/2012-07-01-jekyll-pull-requests.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;or if I use &lt;a href=&quot;http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/&quot;&gt;prose&lt;/a&gt; [at the moment prose does not allow pull request via url link]:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;http://prose.io/#brunosan/brunosan.eu/master/_posts/2012-07-01-jekyll-pull-requests.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Getting the filename is tricky. &lt;a href=&quot;http://www.twitter/dfm&quot;&gt;Dan Foreman&lt;/a&gt; constructed the filename using the date and title, but filenames can be different from titles. What I did is to create the variable &lt;code&gt;filename&lt;/code&gt; on the YAML:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;---
+filename: 2012-07-01-jekyll-pull-requests.md
+layout: post
+title: Jekyll and Pull Requests
+tags:
+- github
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I would hate to need to add this manually, so I made a simple shell script that checks if the filename variable is present, and it adds it if not:&lt;/p&gt;
+
+&lt;div&gt;&lt;script src='https://gist.github.com/3058846.js?file='&gt;&lt;/script&gt;
+&lt;noscript&gt;&lt;pre&gt;&lt;code&gt;#!/bin/bash
+cd _posts
+for file in $(ls *.md)
+do
+    if grep -Fq &amp;quot;filename: &amp;quot; $file
+    then
+       # code if not found
+       echo &amp;quot;File: $file already processed&amp;quot;
+    else
+        # code if found
+        echo &amp;quot;Adding the line on file: $file&amp;quot;
+        awk -v n=2 -v s=&amp;quot;filename: $file&amp;quot; 'NR == n {print s} {print}' $file &amp;gt; tmp.txt
+        mv tmp.txt $file
+    fi
+
+done&lt;/code&gt;&lt;/pre&gt;&lt;/noscript&gt;&lt;/div&gt;
+
+
+&lt;p&gt;You can see a &lt;a href=&quot;https://github.com/brunosan/brunosan.eu/pulls&quot;&gt;list of all my Pull Request&lt;/a&gt;. Feel free to comment or test it. Just click below!&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Rio+20. Where the "side events" are the main event</title>
+		<link href="http://brunosan.eu//2012/06/26/rio20-where-the-side-events-are-the-main-event/"/>
+		<updated>2012-06-26T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/06/26/rio20-where-the-side-events-are-the-main-event</id>
+		<content type="html">&lt;p&gt;[Cross posted at &lt;a href=&quot;http://news.gain.org/post/25929948555/rio-20-were-the-side-events-are-the-main-event&quot;&gt;GAIN News&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;img src=&quot;http://farm9.staticflickr.com/8011/7428189938_7af1d82e2b.jpg&quot; alt=&quot;Conference entrance&quot; width=&quot;500&quot; height=&quot;299&quot; /&gt; Entrance to the Rio+20 Conference in Rio de Janeiro, Brazil[/caption]&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;a href=&quot;http://blogs.un.org/blog/2012/06/22/rio20-wrap-up-vital-stats/&quot;&gt;45,381 participants from 188 countries&lt;/a&gt;, which included 100 heads of state and their staff were present at Rio+20. The goal of this &lt;a href=&quot;http://www.uncsd2012.org/about.html&quot;&gt;United Nations Conference on Sustainable Development&lt;/a&gt; was to strengthen political commitment towards sustainable development. Among the many messages gaining strength around Rio+20, a few are resonating with our participation at the conference: &lt;strong&gt;1)&lt;/strong&gt; The side events are much more interesting than the actual negotiations, albeit the lack focus on the private sector; &lt;strong&gt;2)&lt;/strong&gt; Moving beyond measuring GDP gets more traction; &lt;strong&gt;3)&lt;/strong&gt; Adaptation is a cross cutting but also overarching challenge in sustainable development; &lt;strong&gt;4)&lt;/strong&gt; Data gains relevance, yet the opportunity for a data declaration is lost.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;!--more--&gt;
+&lt;strong&gt;1) The action is on the side events&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Sustainability and development for every nation, protection of the environment and inclusive involvement from stakeholders, amidst the many global challenges we face (climate change, population growth, urbanization…), were the summit’s top priorities. Such important and timely challenges, which gathers the global political leadership whose task is to represent us. The reality of the conference is a meeting where more than 150 national leaders negotiate a consensus agreement, mostly beforehand, of commitments and accountable goals which become watered down. The convening power of this political conference also serves as a milestone for several and diverse stakeholders. Parallel to the summit’s main events, more than 500 official side events were organized. GAIN took part in the “Innovation Alley” of the U.S. Department of State tent. The side events offered a much more pragmatic and data-informed spread of projects, help gather and share experiences and best practices, and measure progress particularly considering the 1992’ scenario. Examples and actions taken by individual (sub)national governments, NGOs and other stakeholders were demonstrated. These side events, indeed, offer a coherent set of expectations for the negotiations that extend far beyond the actual draft of the negotiations.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;As was the case in Durban for COP-17, the side events are the drivers for our participation, more so than the talk show of nations during the plenaries. It is these side events that we see a unique opportunity to learn the status quo and frame development goals. Yet again a major stakeholder is missing – the private sector, which was recognized as an important player, but was under-represented at Rio+20. To reiterate the &lt;a href=&quot;http://www3.weforum.org/docs/WEF_FriendsRio20_Message_2012.pdf&quot;&gt;WEF message&lt;/a&gt;, we need to “enable multi-country and multi-stakeholder coalitions of willing and able actors to undertake explicit sets of actions now and in the near term to help achieve these goals”.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a title=&quot;2012-06-19 12.54.58 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/7428207260/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm6.staticflickr.com/5448/7428207260_2a8a366bfc.jpg&quot; alt=&quot;2012-06-19 12.54.58&quot; width=&quot;500&quot; height=&quot;375&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;
+&lt;/strong&gt;
+&lt;strong&gt;2) Measuring What Matters&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;One of the three main goals of the Global Adaptation Institute (GAIN) is to provide a navigation tool that enables measuring a country’s vulnerabilities to climate change; and their readiness to face these challenges. GAIN, with its open data &lt;span class=&quot;MsoHyperlink&quot;&gt;&lt;a href=&quot;index.gain.org&quot;&gt;GAIN Index&lt;/a&gt;&lt;/span&gt;, avoids the use of holistic or outcome-based metrics such as GDP or HDI. It also emphasizes the need for a pragmatic approach and usability of the data sets through understandable maps, graphs and summaries. Our message and methodology are as clear and simple as possible. The GAIN Index can help navigate the data and tell the story of the past, present and future of national challenges to face adaptation.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;The &quot;&lt;span class=&quot;MsoHyperlink&quot;&gt;&lt;a href=&quot;http://www.uncsd2012.org/index.php?page=view&amp;amp;type=1000&amp;amp;nr=476&amp;amp;menu=126&quot;&gt;Measuring what matters, metrics beyond GDP&lt;/a&gt;&lt;/span&gt;&quot; session in Rio+20 echoed some these themes at GAIN. The two main take-aways were, first, we need to go beyond measuring GDP and define a set of pragmatic metrics that enable monitoring and setting goals. Second, we need to recognize the role, and bring to the table, the private sector, which must be a part of the core action in adaptation. Currently, their role is both under-recognized and underdeveloped. Not one panelist involved was from the private sector. When the audience of around 150 people was asked, only two were from the U.N., most from NGOs and fewer than 20 from the private sector.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;When the IDB presented their &lt;span class=&quot;MsoHyperlink&quot;&gt;&lt;a href=&quot;http://www5.iadb.org/mif/climatescope/2012/&quot;&gt;ClimateScope&lt;/a&gt;&lt;/span&gt; to address similar issues on sustainability, the outcome of discussions was similar. In this case, the implementation path seems to focus on the city level by guiding on what metrics to gather and monitor. It was unclear how the private sector and other implementers would focus on adaptation in particular, or if the initiative would embrace open source, or if they would scale to other levels of granularity (national, regional or community level).&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;!--EndFragment--&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a title=&quot;2012-06-20 10.36.47 by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/7428219336/&quot;&gt;&lt;img class=&quot;aligncenter&quot; src=&quot;http://farm8.staticflickr.com/7260/7428219336_8aba7c1fd4.jpg&quot; alt=&quot;2012-06-20 10.36.47&quot; width=&quot;500&quot; height=&quot;375&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;3) Sustainability, a Global and Transversal Challenge, with Imperative Adaptation Links&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Sustainability cuts transversely many fields, and the challenges on which it depends are cross-border and interdependent. When we talk about adaptation, we are talking about sustainability and the need to recognize adaptation challenges in e.g. water, agriculture, population growth or  social readiness. Not only because it is a transversal issue, but also because if not specifically addressed, lack of adaptation, or maladaptation can endanger or quickly set back the development clock by many years.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;4) A Data Declaration&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;When &lt;a href=&quot;http://en.wikipedia.org/wiki/United_Nations_Conference_on_Environment_and_Development&quot;&gt;the &lt;span class=&quot;MsoHyperlink&quot;&gt;original Rio conference&lt;/span&gt;&lt;/a&gt; ended, a set of declarations based on principles of sustainability were put forth. The text being prepared now, 20 years later, is also based on principles but in a major step forward, includes a substantial amount of data to support and identify the status of those principles. This is partly possible because in the recent years a major revolution on data gathering and disponibility, the core concept of open data. This leap has unleashed the power to measure the state of the world in many major indicators, mostly gathered at the national level or remotely with the use of satellites.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;We still, however, lack the next step: a data declaration. &lt;em&gt;Rio+20 should have provided a set of data that quantitatively describes the status of the world in metrics, and the commitment to maintain and improve this benchmark that enables us to measure progress and establish long and short term goals&lt;/em&gt;. The GAIN Index, which measures what matters, will continue to bring a pragmatic approach to adaptation and identify concrete actions or challenges that need to be addressed now.&lt;/p&gt;
+
+
+&lt;p&gt;[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;a title=&quot;Pan de azucar by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/7428184560/&quot;&gt;&lt;img src=&quot;http://farm9.staticflickr.com/8141/7428184560_487af90113.jpg&quot; alt=&quot;Pan de azucar&quot; width=&quot;500&quot; height=&quot;299&quot; /&gt;&lt;/a&gt; Rio, from the Pan de acucar.[/caption]&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The world cannot wait another 20 years for Rio+40&lt;/strong&gt;. We need to act now, and for action to happen the civil society and private sector are crucial. GAIN offers a platform, a “Go to place” for Adaptation. We welcome your feedback.&lt;/p&gt;
+
+&lt;p style=&quot;text-align: right;&quot;&gt;Bruno Sánchez-Andrade Nuño, PhD (&lt;a href=&quot;http://gain.org/team/bruno-sanchez-andrade-nuno/&quot;&gt;GAIN Director of Science &amp;amp; Technology&lt;/a&gt;)
+Claudio Szlafsztein, PhD (&lt;a href=&quot;http://gain.org/team/claudio-szlafsztein/&quot;&gt;GAIN Council of scientific advisors&lt;/a&gt;)&lt;/p&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;I also wrote another post about the  &lt;a href=&quot;http://brunosan.eu/2012/06/24/logistics-and-rio20/&quot;&gt;logistics of the conference and traffic&lt;/a&gt;; and here some of my &lt;a href=&quot;http://www.flickr.com/photos/nasonurb/sets/72157630255506528/with/7428189938/&quot;&gt;pictures of Rio+20 from Flickr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;179&amp;rdquo;]&lt;a title=&quot;Credential by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/7428190608/&quot;&gt;&lt;img src=&quot;http://farm6.staticflickr.com/5455/7428190608_2e2f3d5990.jpg&quot; alt=&quot;Credential&quot; width=&quot;179&quot; height=&quot;300&quot; /&gt;&lt;/a&gt; Credential to enter the UN conference[/caption]&lt;/p&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;/p&gt;
+
+</content>
+	</entry>
+	
+	<entry>
+		<title>Rio+20 stuck on traffic for a year, every day</title>
+		<link href="http://brunosan.eu//2012/06/24/logistics-and-rio20/"/>
+		<updated>2012-06-24T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/06/24/logistics-and-rio20</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;http://farm5.staticflickr.com/4090/4993990030_b10fd201bb.jpg&quot; alt=&quot;rio traffic&quot; width=&quot;500&quot; height=&quot;375&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Rio+20 [&lt;a href=&quot;http://brunosan.eu/2012/06/26/rio20-where-the-side-events-are-the-main-event/&quot;&gt;my post about the conference&lt;/a&gt; here, this is a rant on the traffic] had 45.381 participants from 188 countries, which included 100 heads of state and their staff [&lt;a href=&quot;http://blogs.un.org/blog/2012/06/22/rio20-wrap-up-vital-stats/&quot;&gt;source&lt;/a&gt;]. Now, &lt;a href=&quot;http://en.wikipedia.org/wiki/Rio_de_Janeiro&quot;&gt;the city of Rio de Janerio&lt;/a&gt; has 6 million people, and 2 million cars, in 5000 km². Furthermore, there seems to be a &lt;a href=&quot;http://brazilianbubble.com/opinion-brazils-strained-auto-loan-market&quot;&gt;automobile loan bubble&lt;/a&gt;, similar to the house loan bubble in the USA, that has been injecting cars into the barely increasing roads of the city. You can already see how logistics in Rio+20 are, at least, very tricky.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;!--more--&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a title=&quot;The green wears out by brunosan, on Flickr&quot; href=&quot;http://www.flickr.com/photos/nasonurb/7428226606/&quot;&gt;&lt;img src=&quot;http://farm8.staticflickr.com/7255/7428226606_beea86bb86.jpg&quot; alt=&quot;&quot; width=&quot;299&quot; height=&quot;500&quot; /&gt;&lt;/a&gt;
+The green wears out at the UN conference&lt;/p&gt;
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;The conference provided free shuttle buses between the hotels and the conference venue, which is a 30 minutes ride with no traffic. Taking the &lt;a href=&quot;http://www.uncsd2012.org/transportation.html&quot;&gt;official schedule&lt;/a&gt; of routes and hotels, we can make a rough average per hotel of around 60 minutes. Consider that as a VERY optimistic threshold, since there is &lt;strong&gt;lot´s&lt;/strong&gt; of traffic. One day it took me 60 minutes, the next 120.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;Let´s play with the numbers. Let´s say that only 50% on average indeed uses the buses on a each particular day. That means roughly 30.000 people-hours of development professionals, or 3 years of development time wasted on moving people each way, and if you only consider the extra time due to traffic, &lt;strong&gt;a year of development time wasted waiting in traffic&lt;/strong&gt;, every day of the conference.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;On the first day I got an interesting offer from &lt;a href=&quot;http://www.petrobras.com.br/en/&quot;&gt;Petrobras&lt;/a&gt;. They were providing free rides to get to the conference on their company cars, directly to the venue, without stopping unlike the conference buses. They only wanted my name, email, and to show me a video on their biofuels initiative. Probably &lt;a href=&quot;http://www.petrobras.com.br/en/energy-and-technology/sources-of-energy/biofuels/&quot;&gt;this one&lt;/a&gt;. At that point, with the cumulative desperation, and the curiosity, I accepted. The ride, I must say, was much quicker (small car, no stops). Unfortunately the driver &lt;em&gt;forgot&lt;/em&gt; to show me the video, even when I asked him.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;On Wednesday I planned to get early to attend the session on &lt;a href=&quot;http://www.uncsd2012.org/index.php?page=view&amp;amp;type=1000&amp;amp;nr=476&amp;amp;menu=126&quot;&gt;metrics to measure progress&lt;/a&gt; at 9 am. I left my &lt;a href=&quot;http://www.airbnb.com/&quot;&gt;Airbnb&lt;/a&gt; apartment at 7am towards the conference bus stop. When the first bus came at 7:40am there were worth 2 full buses of people waiting. Now picture that. Participants of a &lt;em&gt;United&lt;/em&gt; Nations conference to bring together world experts on how to grow together, on formal attire, dashing towards the bus door, elbowing each other, on their perfectly ironed suits. We all had reasons to be worried and wanted to get early to the conference venue, but when the need strikes, it makes us egoistic and unpolite, even on a UN conference. I had estimated were the bus would stop, and I was right, so I was basically pushed into the bus. It was that bad.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;The next day I went at the same time. Interestingly, people arranged themselves into a perfect line and waited for the bus. It also turned out that my president was hosted on that hotel, so I stepped out the line when I saw his car with the flags to make some pictures... and may be also get a ride (carpooling? after all I was the only spaniard around and I had conference credentials). When I came back to the line, the very nice couple before me (&lt;a href=&quot;https://www.facebook.com/Permacyclists&quot;&gt;Anna and Dave&lt;/a&gt;) let me go back in, and I had the pleasure to get to know them and their wonderful story. Somehow, apparent behaviour snowballs. If a few are considerate and polite to make a line in the beginning, the rest will align. Early model behavior can make a difference. Every action is a vote for the world we want to live in, specially if you arrive early.&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/06/photo.jpeg&quot;&gt;&lt;img class=&quot;size-full wp-image-2448 aligncenter&quot; title=&quot;photo&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/06/photo.jpeg&quot; alt=&quot;&quot; width=&quot;403&quot; height=&quot;403&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p style=&quot;text-align: justify;&quot;&gt;I can only fear what will happen on the Soccer &lt;a href=&quot;http://en.wikipedia.org/wiki/2014_FIFA_World_Cup&quot;&gt;World Cup&lt;/a&gt; in 2 years. After all, the Rio+20 conference is no more than a few days of up to 50.000 people than come to work. World Cup people will be there to enjoy the games, and I am afraid will not be happy sitting 2 hours on a otherwise 30 minutes bus ride.&lt;/p&gt;
+
+</content>
+	</entry>
+	
+	<entry>
+		<title>El Sol y sus Tormentas, en Prímula</title>
+		<link href="http://brunosan.eu//2012/06/20/el-sol-y-sus-tormentas-en-primula/"/>
+		<updated>2012-06-20T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/06/20/el-sol-y-sus-tormentas-en-primula</id>
+		<content type="html">&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/06/screen-shot-2012-06-09-at-22-44-27.png&quot;&gt;&lt;img class=&quot;aligncenter  wp-image-2429&quot; title=&quot;Screen Shot 2012-06-09 at 22.44.27&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/06/screen-shot-2012-06-09-at-22-44-27.png&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;234&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Hoy se presenta el nuevo número del&lt;a href=&quot;http://ccprimula.blogspot.com/&quot;&gt; Cuaderno Cultural Prímula&lt;/a&gt;, en el cual colaboro con un artículo sobre el Sol: &amp;ldquo;&lt;em&gt;El Sol y sus Tormentas&lt;/em&gt;&amp;rdquo;. &lt;em&gt;Prímula&lt;/em&gt; es una revista gratuita del &lt;a href=&quot;http://www.flickr.com/photos/homana/5960414769/&quot;&gt;Hospital de Cabueñes de Gijón&lt;/a&gt; (Asturias). Se publica dos veces al año y está formada por artículos donados por sus autores. Se puede descargar en su web y se imprime para ser distribuida gratuitamente en el Hospital para aquellos que están internos o de visita.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;Prímula es un cuaderno cultural en sentido amplio, gestado, confeccionado y distribuido por un conjunto de personas que desarrollan su actividad profesional en el Hospital de Cabueñes (Gijón) y en el que colaboran los usuarios o pacientes  ingresados y ambulatorios) y sus familiares.&lt;/blockquote&gt;
+
+
+&lt;p&gt;Ha sido un placer escribirlo y un honor pensar en que quizás pueda hacer más ameno parte del tiempo que algunos lectores han de pasar en el Hospital. Gracias Prímula!&lt;/p&gt;
+
+&lt;p&gt;Aquí enlazo una &lt;a href=&quot;https://docs.google.com/file/d/0B4xJVrXz_YHISFc5dUhfQllTWWc/edit&quot;&gt;copia de la revista&lt;/a&gt;, y adjunto el texto del artículo,&lt;strong&gt; sin maquetar&lt;/strong&gt;. He de dar las gracias a todos aquellos que me dísteis vuestra opinión cuando publiqué &lt;a href=&quot;https://docs.google.com/document/d/1I1ob7FD5y2QrDrbC1x42C00C6pIvdcWPZ6xNTXfFxeA/edit&quot;&gt;el borrado en un Google Doc&lt;/a&gt; y, por supuesto, a Aurora, gestora de Prímula.&lt;/p&gt;
+
+&lt;p&gt;[caption id=&amp;ldquo;attachment_2431&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;]&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/06/carrington_richard_sunspots_1859.jpeg&quot;&gt;&lt;img class=&quot;size-full wp-image-2431&quot; title=&quot;Carrington_Richard_sunspots_1859&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/06/carrington_richard_sunspots_1859.jpeg&quot; alt=&quot;&quot; width=&quot;500&quot; height=&quot;312&quot; /&gt;&lt;/a&gt; Dibujo original de Carrington del 1 de septiembre de 1859. Los brillos aparecieron en A y B. Se movieron en cinco minutos hasta C y D, donde desaparecieron. [Imagen: Dominio público].[/caption]&lt;/p&gt;
+
+&lt;div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Uno de septiembre de 1859 en mitad del campo, a las afueras de Londres. Un día soleado y tranquilo. Carrington, un joven de 33 años de familia adinerada y apasionado por la astronomía, usa su telescopio para observar el Sol. Le ha puesto unos filtros para disminuir el peligroso brillo y poder ver su superficie.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+&lt;div&gt;
+
+El Sol es un objeto majestuoso, casi inmaculado. El universo en esta época es algo perfecto, incluso predecible gracias a las leyes de Newton. Todavía no ha nacido Einstein, no hay teoría del caos, no hay cuántica. La física es determinista y causal, con pocos enigmas importantes por explicar. El Sol que Carrington observa es un objeto celeste de evolución muy lenta y majestuosa, casi estático. De vez en cuando se ven manchas en su superficie. Unos creen que son claros en sus nubes que permiten ver la verdadera superficie del Sol. Otros creen que es la cima de montañas solares. Sea como fuere, aparecen en cuestión de días y pueden durar semanas. Carrington quiere dibujar la mancha que ya apareció unos días antes. Es de las más grandes nunca vistas, como diez veces el tamaño de la Tierra. Bien situada cerca del centro. Para poder plasmarla mejor y medirla con cuidado, Carrington pone unos pequeños hilos a través de la mirilla del instrumento y tiene que contar los segundos que la mancha tarda en pasar según el Sol se mueve en el cielo.
+
+[caption id=&quot;attachment_2432&quot; align=&quot;aligncenter&quot; width=&quot;640&quot;]&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/06/6777302867_e347925294_o.jpeg&quot;&gt;&lt;img class=&quot;size-full wp-image-2432&quot; title=&quot;6777302867_e347925294_o&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/06/6777302867_e347925294_o.jpeg&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;426&quot; /&gt;&lt;/a&gt; Aurora boreal en Abisko (Suecia), 22 de enero del 2012. [Imagen: usuario nate2b de Flickr].[/caption]Carrington observa con fascinación y paciencia esta inmensa estructura en cuyo interior entraría varias veces la Tierra entera. Cuenta mentalmente con ayuda del tictac del reloj. No hay prisa y quiere hacer un buen diagrama. De repente aparecen dos puntos brillantes cerca del borde de la mancha. Carrington piensa que algún reflejo se ha colado en su telescopio y mueve un poco la montura, pero los puntos brillantes siguen fijos en la mancha. No son un reflejo. Están en el Sol. Son grandes, inmensos. Del tamaño de la Tierra entera. Cada uno. Está viendo, en directo, algo que nunca nadie ha visto. No es difícil imaginar su corazón acelerar con nerviosismo y sin saber realmente qué pasa. Su mente científica se apresura a buscar la mejor forma de afrontar lo que ve y no entiende. Necesita testigos que confirmen su descubrimiento. ¿Habrá alguien más, en algún observatorio, observando lo mismo? Imposible saberlo hasta dentro de semanas. Carrington, moralmente obligado, se va corriendo a buscar a alguien para que sea testigo. Vuelve antes de un minuto y el brillo sigue ahí. Es más, se mueve a través de la mancha. No tiene sentido. En una época donde el tren a vapor difícilmente llega a los 70 km/h, ver algo moverse cuatro veces el diámetro de la Tierra en cinco minutos escapa de toda lógica. Finalmente los puntos desaparecen. De hecho, no hay rastro de que alguna vez hayan existido. Aun sin poder procesar lo que acaba de ver, Carrington termina su dibujo y registra todo lo que puede relacionado con ese brillo mientras el nerviosismo del momento se transforma en la excitante responsabilidad de registrar lo que seguramente sea un evento histórico. Si alguien le cree.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+
+Tan pronto como pudo, Carrington se fue al observatorio más cercano esperando que alguien más hubiera visto esa “llamarada”. Nadie estaba usando el telescopio cuando pasó. No obstante, la brújula del lugar sí registró bruscos cambios, exactamente a la misma hora; pero había tardado varias horas en volver a la normalidad. De hecho, unas horas después había vuelto a registrar algo, esta vez aún más intenso y durante más tiempo. No solo eso, sino que se empezaron a encontrar avisos de efectos extraños en todo el mundo a la misma hora: los telégrafos dejaron de funcionar, o mandaban señales incluso cuando se desconectaban los cables, los registros automáticos de mensajes prendían fuego espontáneamente. Llegaron informes de nubes brillantes en el cielo, tan al norte como Canadá, pero también cerca del ecuador, en Cuba. Las luces eran tan brillantes que se podía leer un periódico por la noche sin dificultad. Marinos cruzando el estrecho de Magallanes se despertaron a ver un mar de sangre, reflejo de un cielo nocturno completamente rojizo y brillante -lo que los antiguos ya llamaban auroras-, a la vez que observaban un aura de luz alrededor de los mástiles del barco -fuegos de San Telmo-.
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+
+Estas luces brillantes, &lt;em&gt;auroras&lt;/em&gt;, no tenían origen conocido o explicación plausible. Son brillos que ondulan, pulsan y se mueven en el cielo de lugares nórdicos; con tonos verdes, rojizos y blancos. Carrington, leyendo los avisos, puso de manifiesto que posiblemente existía una relación entre las llamaradas solares y las auroras. El magnetismo tenía algo que ver, como reflejaban los efectos en las brújulas. Cuanto mayor era el evento en el Sol, más potentes podían ser las auroras y visibles desde más al sur. Carrington contribuyó al concepto de “tiempo espacial” y “tormentas magnéticas” que se originaban en el Sol y po- dían llegar a afectar a la Tierra horas después. De hecho, se pasó el resto de su vida buscando evidencias que apoyasen su hipótesis.
+
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+
+Ciertamente, antes de Carrington hubo otras llamaradas u otras tormentas magnéticas, esporádicamente registradas como eventos inexplicables. Según avanza nuestra capacidad para registrar y entender estos eventos, sabemos de otros casos. De hecho, puesto que los, cada vez más comunes, aparatos eléctricos son vulnerables, cada vez son más los efectos causados por estas tormentas. Por ejemplo, en 1989 una tormenta solar colapsó buena parte del sistema eléctrico de seis millones de personas, a la vez que las auroras eran visibles en latitudes incluso más al sur que España.
+
+&lt;/div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Probablemente, la llamarada de Carrington es la mayor jamás registrada, aunque sea en lápiz y papel. Se estima que tal magnitud de llamarada solo pasa una vez cada quinientos años. En el año 2003, no obstante, hubo otra que, aunque menor, sí entra en la clase de eventos improbablemente grandes. La gran diferencia es que entonces teníamos una plétora de instrumentos, satélites y comunicaciones para guardar cada vez más detalles con los que alimentar y comprobar hipótesis.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;SOHO es el nombre de uno de los satélites que más datos ha conseguido del Sol. Fue lanzado por la NASA en 1995 y colocado frente a la Tierra en dirección al Sol. Sin protección posible frente a las inclemencias espaciales, ha mantenido su diligente canal de datos, enviando valiosa información. A veces le arrecia de lleno una de estas nubes magnéticas, lo que le deja ciego durante unas horas antes de volver a la normalidad. Ese fue el caso de las llamaradas de octubre del 2003.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;La superficie del Sol gira. Desde la Tierra podemos ver sus manchas aparecer por el este y desaparecer por el oeste. A principios de octubre del 2003, las sensibles cámaras del SOHO detectaban inmensas olas, tsunamis solares, que llegaban desde detrás del borde visible del Sol. Algo estaba a punto de aparecer. Algo que ya estaba produciendo explosiones tan grandes que creaban esos tsunamis solares que se propagaban hacia la cara visible a velocidades absurdas. El 18 de octubre ya se vio en el borde una mancha pequeña que rápidamente creció a más de siete veces el tamaño de la Tierra. Bastante más grande de lo común. Al igual que Carrington, SOHO vio en directo la explosión de una llamarada el 19 de octubre. La diferencia es que esta vez todos los datos quedaban registrados en detalle. La explosión de brillo fue tan grande que inmediatamente bloqueó comunicaciones por radio en la Tierra durante una hora. Lo que preocupaba a algunos científicos es que esa mancha había crecido después de ver los tsunamis solares, por lo que quizás otra mancha, aún más grande, estaba por aparecer.&lt;/p&gt;
+
+[caption id=&quot;attachment_2433&quot; align=&quot;aligncenter&quot; width=&quot;640&quot;]&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/06/04698.jpeg&quot;&gt;&lt;img class=&quot;size-full wp-image-2433&quot; title=&quot;04698&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/06/04698.jpeg&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;277&quot; /&gt;&lt;/a&gt; Las dos inmensas manchas solares en octubre del 2003. [Imagen: NSO/AURA/NSF/Bill Livingston].[/caption]
+&lt;div style=&quot;text-align: justify;&quot;&gt;
+&lt;div&gt;
+
+Las sospechas se confirmaron el 21 de octubre. Algo, aún detrás del borde visible del Sol, acababa de lanzar una inmensa nube magnética. SOHO pudo grabar cómo se propagaba hacia el espacio. Gracias a esos datos, y con la ayuda de la magnetohidrodinámica, se podía predecir que la mancha sería visible a partir del 26 de octubre. Y sería aún más grande que la primera. Mientras tanto, la primera mancha seguía creciendo. Según se acerca al centro, la línea de tiro de sus probables eyecciones de material apunta cada vez más a la Tierra. Esto fue lo que pasó el 22 de octubre. Hubo otra llamarada y una nube magnética más grande que un planeta salió disparada al espacio, y probablemente chocase con la Tierra. Nuestro planeta tiene un escudo magnético que la protege, pero si estas nubes son muy intensas puede afectarnos. Gracias a SOHO se pudo calcular la hora de llegada de esa nube. Aun cuando posiblemente nos impactara muy de lado, se temía que sería bastante intensa, por lo que la NASA mandó a los astronautas de la Estación Espacial Internacional a resguardarse en la parte relativamente más protegida de la nave. Las compañías aéreas desviaron sus vuelos lo más lejos posible de los polos y con menor altura, para evitar las zonas más vulnerables y estar lo más dentro posible del escudo terrestre. Minutos antes de llegar a la Tierra, la nube alcanza SOHO. El impacto fue tan grande que cegó las cámaras y puso a prueba los sistemas de protección del satélite. Lo mismo ocurre con todo satélite que orbita la Tierra, aunque a SOHO, al estar más lejos, le llega antes y está más expuesto. De hecho, el impacto, aun lateral, fue tan grande que un satélite japonés no aguantó la descarga y nunca volvió a responder. El resto, incluido SOHO, pudo volver a funcionar al cabo de unas horas.
+
+&lt;/div&gt;
+&lt;div&gt;[caption id=&quot;attachment_2434&quot; align=&quot;aligncenter&quot; width=&quot;640&quot;]&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/06/295700853_5d2dfd5afd_o.jpeg&quot;&gt;&lt;img class=&quot;size-full wp-image-2434&quot; title=&quot;295700853_5d2dfd5afd_o&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/06/295700853_5d2dfd5afd_o.jpeg&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;176&quot; /&gt;&lt;/a&gt; Mancha solar visible a simple vista al atardecer, 16 de noviembre del 2006. [Imagen: usuario Fdecomite de Flickr].[/caption]Cuando la nube magnética llega finalmente a la Tierra, nuestro propio campo magnético manda la mayoría de las partículas que forman la nube hacia los polos. Si es suficien- temente intensa, estas partículas cargadas intentan bajar hacia la superficie. Es entonces cuando chocan con nuestra atmósfera, produciendo brillos de varios colores. Desde abajo se ven como luces ondulantes y pulsantes en intensidad a medida que las ráfagas de partículas van siendo frenadas por encima de los 80 km de altitud. Es lo que llamamos auroras. Esta es la razón por la que se ven sobre todo cerca de los polos, y, cuando las tormentas son muy fuertes, es posible que ocurran en zonas más cercanas al ecuador.La situación en octubre del 2003 se ponía cada vez más preocupante. La primera mancha crecía y era más de diez veces el tamaño de la Tierra, y se estaba situando en línea de tiro directa con la Tierra, mientras su actividad no cesaba. La segunda mancha, en camino, ya era perfectamente visible. Un monstruo aún más grande, activo y complejo que el primero. Tal y como cuenta Stuart Clark en el libro Los reyes del Sol, una de las fuentes de este artículo: “Ver una mancha de tales dimensiones es fascinante, ver dos es preocupante”.El 28 de octubre, con la primera mancha en línea de tiro directa a la Tierra, se produce lo que más se temía: otra inmensa llamarada, cuya energía era mayor de 50.000 millones de bombas atómicas. Su brillo bloqueó inmediatamente toda comunicación del sistema marítimo de comunicaciones de emergencia, dejó sin contacto por radio a las expediciones en el Everest e incluso las radios de un grupo de bomberos que apagaban entonces un incendio en California. SOHO, aunque deslumbrado, pudo ver cómo una inmensa nube salía directamente hacia la cámara, hacia nosotros. A la alta velocidad con la que salió disparada, solo había unas horas para preparase. Se decidió que sería demasiado para SOHO, y mandaron el comando a su ordenador para que entrase en modo de emergencia anticipado hasta después de que la tormenta azotase todos sus sistemas. De nuevo, los aviones tuvieron que cambiar sus rutas, mucho más bajas y lo más al sur posible. El coste extra por volar a menos altitud y rutas más largas superó el millón de euros. La nube magnética creó corrientes estáticas en la superficie que se propagan fácilmente por cualquier conductor. Más de 50.000 suecos quedaron sin electricidad por varias horas y varias centrales de energía nuclear en Estados Unidos decidieron activar protocolos de emergencia preventivos por temor a estas corrientes.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;El resto de octubre y parte de noviembre siguió sufriendo las batidas de estas manchas, mientras en la Tierra miríada de problemas continuaban. Los GPS daban datos erróneos, las televisiones por satélite funcionaban intermitentemente. Mientras, cada vez más gente consultaba las imágenes de SOHO y otros satélites para ver cómo seguían aguantando y cuándo pasaría la tormenta.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;Lentamente, ambas manchas seguían su explosiva marcha por la superficie del Sol, hacia el borde oeste. En un último acto de protagonismo, la segunda mancha, ya en el borde visible desde Tierra, emitió una llamarada tan grande que cegó las cámaras, haciendo imposible medir su intensidad exacta. Lo que sí es seguro es que era más del doble de potente que la que impactó la Tierra un par de semanas antes. Mientras los científicos seguían la tra- yectoria de la nube expulsada lejos de nosotros, era intimidante pensar en las desastrosas consecuencias de que esta hubiera tenido de pasar tan solo unos días antes. Quizás una llamarada parecida es la que Carrington observó. Improbablemente intensa, pero no imposible.&lt;/p&gt;
+
+
+[caption id=&quot;attachment_2435&quot; align=&quot;aligncenter&quot; width=&quot;640&quot;]&lt;a href=&quot;http://nasonurb.files.wordpress.com/2012/06/3116651251_11dc28776b_o.gif&quot;&gt;&lt;img class=&quot;size-full wp-image-2435&quot; title=&quot;3116651251_11dc28776b_o&quot; src=&quot;http://nasonurb.files.wordpress.com/2012/06/3116651251_11dc28776b_o.gif&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;587&quot; /&gt;&lt;/a&gt; Mancha solar vista desde el observatorio del Teide, 26 de abril del 2006, parte de mi tesis doctoral. http://brunosan.eu/about-2/work/phd/.[/caption]
+&lt;p style=&quot;text-align: justify;&quot;&gt;Las auroras son fascinantes eventos de inmensa belleza. Las manchas solares, visibles muy raramente a simple vista al atardecer, son también hechos naturales que han sido enigmáticos durante miles de años. Hoy en día, la ciencia, física solar y el estudio del tiempo espacial, nos da muchas respuestas a estos y otros eventos. Cuando ahora vemos una aurora, vemos la misma belleza, pero entendemos su naturaleza, lo que nos lleva a una perspectiva muchísimo más rica. Ver lo que ocurre nos da la misma fascinación visual que nos ha acompañado en la historia, pero permite, además, entender lo que ocurre, lo que nos aporta una satisfacción mental indescriptible. La ciencia nos abre un nuevo tipo de ojos, nos da un sentido solo accesible al privilegio de la ciencia moderna. Es más, podemos acceder a esa admiración por el universo sin necesariamente ver una aurora o una mancha solar. Yo he visto manchas en directo con telescopios, pero nunca he visto una aurora. Nuestra mente es capaz de acceder a ese sentimiento de maravilla solo leyendo y pensando sobre ello, como espero haber conseguido con este artículo.&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;div&gt;
+
+El material de este artículo lo he extraído de:
+- Libro “The Sun Kings” de Stuart Clark.
+- Libro “Breve historia de casi todo” de Bill Bryson.
+- Wikipedia.es páginas: “Sol”, “Tiempo solar”, “Carrington”, “Halloween event”. - Amazings.es
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</content>
+	</entry>
+	
+	<entry>
+		<title>It´s not about the Science, it´s the whole package</title>
+		<link href="http://brunosan.eu//2012/06/02/its-not-only-about-science/"/>
+		<updated>2012-06-02T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/06/02/its-not-only-about-science</id>
+		<content type="html">&lt;p&gt;This is a screencast of my talk the &lt;a href=&quot;http://www.adaptation.arizona.edu/adaptation2012/&quot;&gt;Adaptation Futures&lt;/a&gt; conference in Arizona last month. I present our &lt;a href=&quot;http://index.gain.org&quot;&gt;GAIN Index&lt;/a&gt; to measure the vulnerability of countries to face Adaptation challenges, and their readiness to implement solutions. Beyond the Index, I tried to stress the importance of the &lt;em&gt;whole package&lt;/em&gt;: It is not about making good science, it is not just an academic exercise. From the beginning one needs to think who will be the users, what do they know and what they want to know, and how are you going to present it.&lt;/p&gt;
+
+&lt;p&gt;In particular, consider that many stakeholders in Adaptation are not engaged, or even aware. Our work won´t get much beyond a few academics if your Index needs one hour to be explained. If you get time to talk to a president or a CEO, like we have had, you want to inform them, but first you need to engage them, quickly. This is how we do it.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/in_P2so2Brk &quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;I used my Android phone to record the audio. Then, while listening to it later at my hotel room, I made a screencast using QuickTime Player, and put it together using iMovie. I used &lt;a href=&quot;http://www.taskrabbit.com/&quot;&gt;taskrabbit&lt;/a&gt; and I paid someone &lt;a href=&quot;http://www.taskrabbit.com/virtual/t/caption-this-video&quot;&gt;10$ to caption&lt;/a&gt; it using &lt;a href=&quot;http://www.universalsubtitles.org/en/&quot;&gt;Amara&lt;/a&gt;.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Scientific value ≠ Perception of the scientific value</title>
+		<link href="http://brunosan.eu//2012/05/18/scientific-value-%25e2%2589%25a0-perception-of-the-scientific-value/"/>
+		<updated>2012-05-18T00:00:00-04:00</updated>
+		<id>http://brunosan.eu//2012/05/18/scientific-value-%e2%89%a0-perception-of-the-scientific-value</id>
+		<content type="html">&lt;p&gt;A russian satellite makes a time lapse of the Earth from space. A truly beautiful video.&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/6twFHqJ03_k &quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;This reminds me of a text I read many years ago: Carl Sagan was defending the inclusion of visual cameras in scientific payloads, even when the scientific value would be arguable.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+
+&lt;p&gt;Researchers were claiming on the extra weight and limited value, and longevity, of such an instrument, versus the many other things they could put to measure wind speed, chemical composition, &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Carl Sagan´s point was that we need to &lt;strong&gt;connect with society&lt;/strong&gt;, to the humane instinct of visual exploration. It is ok to give up a little bit of extra science if we can get a better overall picture, or link with people. A single image can convey to many more people the awe and wonder of the Universe, and the need to continue the journey, than thousand papers or plots. That´s just our human nature. One of the most important things since I´ve left research is exactly that.&lt;/p&gt;
+
+&lt;p&gt;Almost every single weather satellite in the recent years has had the same capabilities to make this movie of the Earth. But they either chose to put only an infrared camera (needed if you want to see clouds at night) or they never thought of making this Outreach product. The russians did, and they added a camera in the near visible range to have the closest possible to &amp;ldquo;a view from space&amp;rdquo;. They´ve reached &lt;strong&gt;millions&lt;/strong&gt; more of &amp;ldquo;wow moments&amp;rdquo;. With this video we can connect to many concepts, like the importance of satellites, the concept of climate, the Earth has a unity, &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Here´s another example with the ISS and the Earth. You might not even remember the purpose of the ISS (or even that we had humans living there since years)  but you might remember (or you will) this video:&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Ip2ZGND1I9Q &quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;Another case, from my experience: My thesis took around 3 years, and 100 days of observations at a telescope. Probably less than 20 people understand it, and I hope it be a small contribution to advance solar physic. One day, at the telescope, I made a 20 seconds video, and then I took a few hours to prepare a simple video of it (here it is &lt;a href=&quot;http://bsan.eu/LbfigS&quot;&gt;http://bsan.eu/LbfigS&lt;/a&gt; ). The &lt;a href=&quot;https://plus.google.com/113118420661689340672&quot;&gt;Astronomy Picture of the Day (APoD)&lt;/a&gt; featured it 3 times, and literally millions of people has seen it. With that video, we can engage in so many concepts of Astronomy, Optics and Solar Physics. And so have told me teachers from literally all around the world when they asked me to use it on their classroom.&lt;/p&gt;
+
+&lt;p&gt;The last example could well be my recent work: We did a Climate change Adaptation Index, and it took a lot of work. Once done, it would have never went very far, if we had not spent significant time and resources to make a visual tool to explore some of the messages. (&lt;a href=&quot;http://index.gain.org/&quot;&gt;index.gain.org&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;The lesson to learn here, to me, is very clear. The &lt;strong&gt;scientific value&lt;/strong&gt; is one stop away from the &lt;strong&gt;societal perception of the scientific value&lt;/strong&gt;, which is tremendously important, and powerful. We must do that extra mile, even at the cost of some more research. &lt;em&gt;There is a painful detachment of S&amp;amp;T and society.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;PS: I can´t remember if that Carl Sagan text was connected to the russian lander on Venus (I doubt it) or to the Viking Mars from +&lt;a href=&quot;https://plus.google.com/113315419190905475766&quot;&gt;NASA Jet Propulsion Laboratory&lt;/a&gt;. This might be part of the Cosmos book. Can´t remember or find it. This is the closest I could find. &lt;a href=&quot;http://history.nasa.gov/SP-4212/ch9.html&quot;&gt;http://history.nasa.gov/SP-4212/ch9.html&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+</feed>

@@ -1,0 +1,411 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<title>FFmpeg on Mac OS X How-to</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<style type="text/css">
+	body	{ font-family: Verdana, arial, sans-serif }
+	.banner	{
+				font-size: 300%; 
+				background-image: url("../images/lines.gif");
+				background-repeat: repeat-x;
+			 	color: rgb(60, 60, 150);
+			 	margin-bottom: 0.1em;
+			}
+	.tiny	{ font-size: 80% }
+</style></head>
+<body>
+<p class=banner align=right>stephen<font color="#209020">jungels</font>.com</p>
+<p class=tiny>
+<a href="/">StephenJungels.com</a> :: 
+<a href="/jungels.net/">Open source</a> :: 
+<a href=".">Articles</a> ::
+FFmpeg on Mac OS X How-to</p>
+
+<div style="float: right; height: 32px;">
+</div>
+
+<div class="container">
+<div class="sidebar">
+
+<div style="height: 35px;"></div>
+<p>More articles:</p>
+
+<ul>
+<li><a href="ffmpeg-howto.html">FFmpeg on Mac OS X Howto</a></li>
+<li><a href="nokia-verizon-ringtone-hacking.html">Hacking ringtones on your Nokia or LG Verizon phone</a></li>
+<li><a href="nokia-lg-mp3-hacking.html">Hacking MP3s on your Nokia or LG phone</a></li>
+<li><a href="flash-video-howto.html">Flash Video Howto</a></li>
+<li><a href="flash-mp3-howto.html">Flash MP3 Howto</a></li>
+<li><a href="mod-rewrite-recipes.html">The Indie Publisher's mod_rewrite Recipe Book</a></li>
+<li><a href="diff-patch-ten-minutes.html">Ten Minute Guide to diff and patch</a></li>
+<li><a href="php-templates.html">Roll Your Own HTML Templates With PHP</a></li>
+<li><a href="headless-dual-boot.html">Headless dual-boot Debian/Windows Howto</a></li>
+</ul>
+
+<div style="height: 35px;"></div>
+</div>
+<div class="content">
+
+<h1>Installing and using FFmpeg on Mac OS X</h1>
+
+<p>The <a href="http://ffmpeg.org/">FFmpeg project</a> is a fast, accurate multimedia transcoder
+which can be applied in a variety of scenarios on OS X.</p>
+
+<p>If you just want to add a good video transcoder to a toolset that
+already includes Final Cut Pro, Adobe Photoshop, and similar tools,
+<a href="http://homepage.mac.com/major4/">FFmpegX</a> may be your best choice because of its familiar
+Mac-style user interface.</p>
+
+<p>But it's possible that you are interested in using FFmpeg to set up an
+automated, web based system to transcode a variety of input video
+formats to the Flash video format, which can easily be displayed on
+the web.</p>
+
+<p>In this case it will be necessary to approach FFmpeg on its own terms
+as a command-line, Linux-centric project.  You will need to learn the
+installation techniques commonly used by open source projects, and the
+starting point for your work will be running Terminal and working
+mostly from the command line.  This article will apply these
+techniques in a step-by-step manner to installing a version of FFmpeg
+which has most of the features you will need.  Some techniques will be
+used without explanation, so be prepared to do some Googling to fill
+in the gaps in your knowledge.</p>
+
+<p>Before you can follow these instructions, you must install Apple's
+Developer Tools.</p>
+
+<h2>Prerequisites: LAME</h2>
+
+<p>MP3 is the audio codec most often used with Flash video, so you will
+need an MP3 encoder.  FFmpeg doesn't include one, but it will use
+<a href="http://lame.sourceforge.net/">LAME</a>, which creates good quality audio files, if you
+install it.  Header files will be needed during the compile, so it is
+not enough to install a prebuilt binary using a package manager.
+Instead follow these directions to compile it from source:</p>
+
+<p>Start by creating a working directory:</p>
+
+<pre><code>mkdir ~/lame
+cd ~/lame
+</code></pre>
+
+<p>On a good day you can get the latest source code release of LAME <a href="http://sourceforge.net/project/showfiles.php?group_id=290">from
+Sourceforge</a>.  The file you want will be named
+lame-3.97.tar.gz or something similar.</p>
+
+<p>If that doesn't work, do what I did and get the bleeding edge release
+from revision control:</p>
+
+<pre><code>cvs -d:pserver:anonymous@lame.cvs.sourceforge.net:/cvsroot/lame \
+  login
+cvs -z3 \
+  -d:pserver:anonymous@lame.cvs.sourceforge.net:/cvsroot/lame \
+  co -P lame
+</code></pre>
+
+<p>If you download the tar file, you need to unpack it as follows (this
+command is not necessary if you used CVS):</p>
+
+<pre><code>tar xvzf lame-3.97.tar.gz
+</code></pre>
+
+<p>After downloading and unpacking the source or checking it out from
+CVS, change to the main directory and then enter the three commands
+which are typically used to build open source projects:</p>
+
+<pre><code>cd lame-3.97
+./configure
+make
+sudo make install
+</code></pre>
+
+<p>Each command will take a minute or so to complete.  You should keep an
+eye out for any errors which may occur, but installing LAME is
+generally trouble-free.</p>
+
+<h2>Optional: FAAC and FAAD</h2>
+
+<p>Since Quicktime commonly uses AAC for audio, you may want to encode
+and decode that format.  Here again FFmpeg doesn't include built-in
+codecs, but it will use the codecs provided by <a href="http://audiocoding.com/">another open source
+project</a> if you install them first.</p>
+
+<p>Installing these codecs used to be so difficult that I wouldn't even
+have tried to address it in an introductory article, but recent
+improvements mean that you can simply download the <a href="http://www.audiocoding.com/downloads.html">latest
+releases</a> and follow the instructions they provide, for example:</p>
+
+<pre><code>mkdir ~/faad
+cd ~/faad
+curl -O http://downloads.sourceforge.net/faac/faad2-2.6.1.tar.gz
+tar xvzf faad2-2.6.1.tar.gz
+cd faad2
+less INSTALL
+# (follow the instructions you see there)
+</code></pre>
+
+<p>It's generally a good idea to poke around in the main directory for
+files named INSTALL and README and pay attention to the instructions
+there.  Often that's all you need.</p>
+
+<h2>Building FFmpeg for Mac OS X Leopard</h2>
+
+<p>Recent versions of FFmpeg will compile successfully on versions of OS
+X as far back as 10.3.  Before that OS X used an older version of the
+C compiler which is no longer compatible with FFmpeg.  It's possible
+to get an older version of FFmpeg running on OS X 10.2 (read on), but
+you may not be satisfied with its capabilities.</p>
+
+<p>If you have a choice it's best to run a recent version of FFmpeg,
+which means downloading the source code from one of the revision
+control systems used by the developers, or getting a nightly
+snapshot.  Using revision control for something this simple is pretty
+easy, and it's a useful technique, so that's what we'll do.  Recent
+versions of Xcode already include Subversion (a newish revision
+control tool which really isn't so bad), so we'll use that.</p>
+
+<p>First create a working directory:</p>
+
+<pre><code>mkdir ~/ffmpeg
+cd ~/ffmpeg
+</code></pre>
+
+<p>The up-to-date version of FFmpeg generally compiles cleanly, and that
+is the version you usually will want:</p>
+
+<pre><code>svn checkout svn://svn.ffmpeg.org/ffmpeg/trunk ffmpeg
+cd ffmpeg
+</code></pre>
+
+<p>Next, configure and make</p>
+
+<pre><code>./configure --enable-libmp3lame --enable-shared \
+  --disable-mmx --arch=x86_64
+make
+sudo make install
+</code></pre>
+
+<p>The --disable-mmx flag is not required on a PowerPC.  If you leave it
+out on an Intel Mac, you will probably get a compile error, but it's
+worth trying since it will provide a speed boost.  If you installed
+the AAC codecs, add the flags --enable-libfaac and --enable-libfaad.</p>
+
+<p>(According to a <a href="http://article.gmane.org/gmane.comp.video.ffmpeg.user/23143">discussion on ffmpeg-user</a> The "--arch" flag is
+required under Snow Leopard.  Experiment.)</p>
+
+<h3>A fallback</h3>
+
+<p>When I tested for this article originally, the latest source in the
+Subversion repository did not compile cleanly.  My workaround was to
+use a known stable revision.  In general, FFmpeg is a moving target
+and you may encounter new issues that I did not.  See the <a href="http://ffmpeg.org/mailinglists.html">mailing
+lists</a> for the latest information.  Here's how to build FFmpeg
+if you have problems with the latest release</p>
+
+<pre><code>cd ~/ffmpeg
+svn checkout --revision 15624 \
+  svn://svn.ffmpeg.org/ffmpeg/trunk ffmpeg-15624
+cd ffmpeg-15624
+./configure --enable-libmp3lame --enable-shared --disable-mmx
+make
+sudo make install
+</code></pre>
+
+<p>Once again, the --disable-mmx flag is not required on a PowerPC-based
+Mac.  There is nothing special about revision 15624, it's just a
+version that happened to compile when this article was revised.  If
+FFmpeg is not compiling on OS X because of a recent change,
+subtracting a small amount from the latest revision number will
+probably fix the issue.  Work your way backwards until you find
+something that works.</p>
+
+<p>Congratulations, you've installed FFmpeg.  The next section describes
+a similar procedure for OS X 10.2, so skip ahead for additional
+information on running FFmpeg.</p>
+
+<h2>Building FFmpeg for Mac OS X 10.2</h2>
+
+<p>[<em>Update:</em> the OS X 10.2 procedure results in an ffmpeg binary that
+can decode only some of the video formats listed in the ffmpeg
+documentation.  In particular, it can't decode Quicktime video.  Take
+this into account before you go to the trouble of downloading and
+compiling it.  On the other hand, this is one of the few free
+alternatives to Macromedia Flash for converting mpeg into Flash video,
+and you may be able to convert Quicktime to mpeg by other means.]</p>
+
+<p>Start by creating a build directory:</p>
+
+<pre><code>mkdir ~/ffmpeg
+cd ~/ffmpeg
+</code></pre>
+
+<p>Compiling on OS X 10.2 requires a patch, and it makes sense to patch
+against a known release.  So we will download a recent release, which
+can be found by clicking <a href="http://prdownloads.sourceforge.net/ffmpeg/ffmpeg-0.4.9-pre1.tar.gz?download">here</a>, and unpack it:</p>
+
+<pre><code>tar xvzf ffmpeg-0.4.9-pre1.tar.gz
+</code></pre>
+
+<p>I have modified a patch by <a href="http://www.christophseibert.de/weblog/en/it/computer-vision/tools/opencv-mac.html">Christoph Seibert</a> to compile on
+Mac OS X 10.2 (if it doesn't work on another version of OS X, try
+Christoph's patch).  Download it by right-clicking <a href="ffmpeg-0.4.9-pre1-macosx-10-2.patch.gz">here</a> and
+uncompress it:</p>
+
+<pre><code>gzip -d ffmpeg-0.4.9-pre1-macosx-10-2.patch.gz
+</code></pre>
+
+<p>Change to the ffmpeg source directory and apply the patch:</p>
+
+<pre><code>cd ffmpeg-0.4.9-pre1
+patch -p1 &lt; ../ffmpeg-0.4.9-pre1-macosx-10-2.patch
+</code></pre>
+
+<p>(For more information on using patch, see <a href="diff-patch-ten-minutes.html">my article on diff and
+patch</a>.)</p>
+
+<p>Now build the project:</p>
+
+<pre><code>./configure --enable-mp3lame --enable-shared --enable-pthreads \
+  --disable-vhook
+make
+sudo make install
+</code></pre>
+
+<h2>Some flv examples</h2>
+
+<p>FFmpeg is now installed.  There are instructions in the doc/
+directory, but basic commands are quite simple, and you will find that
+they are similar to ImageMagick, if you have used it.  To convert an
+mpeg video to Flash, use:</p>
+
+<pre><code>ffmpeg -i video.mpg -ar 22050 video.flv
+</code></pre>
+
+<p>(The "-ar 22050" flag sets an audio sample rate of 22050 Hz.  It is
+usually necessary to set a sample rate when encoding flv files because
+the MP3 encoder only supports rates of 11025, 22050, and 44100 Hz.)
+That's the basic idea, but in practical uses you will probably want to
+take control over more of the quality settings.  A more realistic
+command would look like this:</p>
+
+<pre><code>ffmpeg -i video.mov -b 600k -r 24 -ar 22050 -ab 96k video.flv
+</code></pre>
+
+<p>where</p>
+
+<ul>
+<li><p>"-b 600k" selects a video bitrate of 600 kilobits per second.  This
+is a compromise between quality and bandwidth (with older versions
+of FFmpeg you would use "-b 600".  Type "ffmpeg -h" to check which
+units are expected in your version);</p></li>
+<li><p>"-r 24" selects 24 video frames per second;</p></li>
+<li><p>"-ar 22050" selects an audio sample rate of 22050 Hz, which is
+sufficient for voice;</p></li>
+<li><p>"-ab 96k" selects an audio bit rate of 96 kilobits per second; you
+could go a little lower for voice-only audio (with older versions of
+FFmpeg you would use "-ab 96".  Type "ffmpeg -h" to check.)</p></li>
+</ul>
+
+<p>These are the parameters you will adjust most often.  Finding the
+perfect values for your material is a matter of experiment.</p>
+
+<h2>Troubleshooting</h2>
+
+<h3>flv 1.1 metadata</h3>
+
+<p>FFmpeg is a moving target, and this issue is resolved in the latest
+version of FFmpeg from the Subversion repository.  In older versions,
+however, FFmpeg didn't write the FLV metadata which is required for
+the scrubber bar to work in some Flash video players.</p>
+
+<p>If you experience this problem, there is a fix:</p>
+
+<ol>
+<li><p>First, try upgrading to the latest version of FFmpeg.</p></li>
+<li><p>If for some reason you can't upgrade, get the <a href="http://www.buraks.com/flvmdi/">FLV Metadata
+Injector</a> (Windows-only), or <a href="http://www.inlet-media.de/flvtool2">FLVTool2</a> (OS X and
+Linux) and process your flv files with them.  See the links for
+instructions.</p></li>
+</ol>
+
+<h3>make build errors</h3>
+
+<p>According to the mailing list, FFmpeg is sensitive to the version of
+"make" you are running and the build will fail in many cases.  Recent
+testing shows that the current stable version of GNU make (3.81) will
+work, but 3.79 and 3.80 will both fail, for different reasons.  BSD
+make (also distributed with OS X as "bsdmake") will fail with multiple
+errors.  If you are having a problem with make, the simple solution
+would be to upgrade Developer Tools.</p>
+
+<h3>Alternate download methods</h3>
+
+<p>If your version of Xcode doesn't include a Subversion client, refer to
+<a href="http://ffmpeg.org/download.html">the FFmpeg download page</a> and pick another method to get
+the source, for example:</p>
+
+<pre><code>curl -O http://ffmpeg.org/ffmpeg-export-snapshot.tar.bz2
+tar xvjf ffmpeg-export-snapshot.tar.bz2
+</code></pre>
+
+<h3>Runtime errors</h3>
+
+<p>Some FFmpeg error messages are a little cryptic.  Here are a few I
+have encountered:</p>
+
+<ol>
+<li><p>If you try to decode a video format that FFmpeg does not
+understand, you get the message</p>
+
+<pre><code>No audio or video streams available
+</code></pre>
+
+<p>Just try again with another format, or recompile FFmpeg to add the
+codec you need.</p></li>
+<li><p>If you build FFmpeg without the --enable-libmp3lame flag and try to
+encode to Flash video, the audio stream will be silently discarded.
+Only by encoding to another format that does not require MP3 will you
+discover that this is not the expected behavior.  In this case just
+follow the instructions in this article to install LAME, if necessary,
+and recompile FFmpeg with LAME support.</p></li>
+<li><p>When encoding to MP3, you may receive the message</p>
+
+<pre><code>Could not write header for output file #0 (incorrect codec
+parameters ?)
+</code></pre>
+
+<p>In practice, this means that you should use the -ar flag to set an
+audio sample rate of 11025, 22050, or 44100 Hz.</p></li>
+</ol>
+
+<h2>Further reading</h2>
+
+<p>Now that you have video in Flash video format, you may be interested
+in publishing it on the web.  See my <a href="flash-video-howto.html">Flash Video Howto</a> for
+complete instructions.</p>
+
+<p>Howard Pritchett publishes an <a href="http://howto-pages.org/ffmpeg/">FFmpeg user's guide</a>
+which includes lots of useful information if you're just starting out
+with FFmpeg.</p>
+<h2>Comment on this article and its topic</h2>
+
+<p>Google Friend Connect is going or gone so it has been turned off! Commenting will return if I find something good to replace it.</p>
+
+<hr>
+<p>Copyright by Stephen Jungels.
+Written permission is required to repost or reprint this article</p>
+
+<p>
+  <a href="http://validator.w3.org/check?uri=referer">
+    <img
+      src="http://www.w3.org/Icons/valid-html401"
+      alt="Valid HTML 4.01 Transitional" height="31" width="88">
+  </a>
+</p>
+
+<p><em>Last modified: Mon Apr 16 12:16:49 CDT 2012</em></p>
+</div>
+</div>
+</body>
+</html>
+

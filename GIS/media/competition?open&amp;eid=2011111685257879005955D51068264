@@ -1,0 +1,1489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>View Challenge | World Bank Institute</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Cache-control" content="no-cache" />
+<link rel="icon" href="/wbchallengefiles.nsf/files/favicon.ico/$file/favicon.ico" />
+<link rel="image_src" href="/wbchallengefiles.nsf/files/wb-thumbnail.jpg/$file/wb-thumbnail.jpg" />
+<link rel="stylesheet" type="text/css" href="/wbchallengecomp.nsf/x/reset.css" />
+<link rel="stylesheet" href="/wbchallengecomp.nsf/jquery-ui-1.8.13.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/wbchallengecomp.nsf/x/static.css" />
+<script type="text/javascript" src="/wbchallengecomp.nsf/x/choose.js"></script>
+<link rel="stylesheet" type="text/css" href="/wbchallengecomp.nsf/x/960-grid.css" />
+<script type="text/javascript" src="/wbchallengecomp.nsf/x/jquery-1.7.1.min.js?open"></script>
+<script src="/wbchallengecomp.nsf/jquery-ui-1.8.13.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/wbchallengecomp.nsf/x/ext-webcms.js"></script>
+<script type="text/javascript" src="/wbchallengecomp.nsf/x/wbcomp_common.js"></script>
+<script type="text/javascript" src="https://siteresources.worldbank.org/SITEMGR/Resources/WebStatsUtil.js"></script>
+<script type="text/javascript" src="/wbchallengecomp.nsf/x/omniture_vars.js"></script>
+<style>
+#vitals{
+  position:relative;
+  display:none;
+}
+#statsHelp span.close {
+    background: url("/wbchallengefiles.nsf/files/close.png/$file/close.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    cursor: pointer;
+    float: right;
+    height: 24px;
+    position: absolute;
+    right: -6px;
+    top: -6px;
+    width: 24px;
+}
+#statsHelp{
+    background-color:#DADCCF;
+    border: 1px solid #DDDDDD;
+color: #333;
+font-size: 13px;
+line-height:18px;
+    cursor:pointer;
+    display: none;
+    padding: 10px;
+    position: absolute;
+    right: 30px;
+    width: 350px;
+    z-index: 1001;
+-moz-box-shadow:6px 6px 18px #191919;
+-webkit-box-shadow:6px 6px 18px #191919;
+box-shadow:6px 6px 18px #191919;
+filter: progid:DXImageTransform.Microsoft.Shadow(color='#969696', Direction=135, Strength=6);
+}
+#info_tab_wrap h1{line-height:22px;}
+table.s06v8-million-accent-text{width:100%;}
+#comp_ideas{text-align:right;}
+#comp_comments{text-align:right;}
+#comp_votes{text-align:right;}
+#comp_contributors{text-align:right;}
+#ataglance{padding-left: 6px;padding-right: 6px;}
+#comp_contact span.email{
+    background: url("/wbchallengefiles.nsf/files/sprite.png/$file/sprite.png") no-repeat scroll -119px -269px transparent;
+    display: inline-block;
+    height: 16px;
+    margin-right: 6px;
+    width: 16px;
+}
+#comp_contact span.faq {
+    background: url("/wbchallengefiles.nsf/files/faq_icon2.gif/$file/faq_icon2.gif") no-repeat scroll 0 0 transparent;
+    display: inline-block;
+    height: 16px;
+    margin-right: 6px;
+    width: 16px;
+}
+/* Tweaks to jQuery-UI tabs */
+.ui-widget-content {
+    background: none no-repeat scroll 0 0 #ffffff;
+    border: medium none;
+    color: #000000;
+    font-size:15px;
+   line-height:24px;
+}
+.ui-tabs {
+    background: url("/wbchallengefiles.nsf/files/sprite.png/$file/sprite.png") no-repeat scroll -1px -434px transparent;
+    padding: 0;
+    float: left;
+    width:582px!important;
+    margin:0 auto;
+}
+.ui-tabs .ui-tabs-nav {
+    margin: 15px 0 0 11px;
+    padding: 0;
+}
+.ui-tabs .ui-tabs-panel {
+    border-top: medium none;
+    padding: 0 12px 0px 10px;
+    font-size: 13px;
+    line-height: 20px;    
+}
+html > body .ui-tabs .ui-tabs-panel {
+    border-top: medium none;
+    padding: 14px 12px 0 10px;  
+}      
+    
+.ui-tabs .ui-tabs-nav li {
+    background-color: #FFFFFF;
+    border-left: none;
+    border-right: 1px solid #D9DCCF;
+    border-top: 1px solid #D9DCCF;
+    cursor: pointer;
+    float: left;
+    font-family: Arial;
+    font-size: 11px;
+    line-height: 11px;
+    list-style: none outside none;
+    margin:0px;
+    padding: 8px 10px 9px;
+    position: relative;
+    text-transform: uppercase;
+    top: 1px;
+}
+.ui-tabs .ui-tabs-nav li:first-child {
+    border-left: 1px solid #D9DCCF;
+}
+.ui-tabs .ui-tabs-nav li.ui-state-hover{
+    background-color: #E3E5DB;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected {
+    background: url("/wbchallengefiles.nsf/files/g03v1-global-navigation.png/$file/g03v1-global-navigation.png") no-repeat scroll center -227px transparent;
+    border-left: medium none!important;
+    border-right: medium none;
+    color: #FFFFFF;
+    height: 18px;
+    z-index: 999;
+    padding-bottom: 9px;    
+}
+.ui-tabs .ui-tabs-nav li a {
+    float: left;
+    padding: 0;
+    height:11px;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+    background: none repeat scroll 0 0 #FFFFFF;
+}
+.ui-tabs .ui-tabs-panel {
+    border-top: 1px solid #CCCCCC;
+}
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
+    color: #FFFFFF;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+    background: url("/wbchallengefiles.nsf/files/tab-active-bg.png/$file/tab-active-bg.png") repeat-x scroll left bottom #FFFFFF;
+    border: medium none;
+}
+.ui_active_tab{
+    background: url("/wbchallengefiles.nsf/files/tab-active-arrow.png/$file/tab-active-arrow.png") no-repeat scroll center top transparent;
+    bottom: -4px;
+    display: none;
+    height: 4px;
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+}
+.ui-state-active .ui_active_tab, .ui-widget-content .ui-state-active .ui_active_tab, .ui-widget-header .ui-state-active .ui_active_tab{
+    display:block;
+}
+.ui-corner-top {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.ui-corner-all {
+    border-radius: 0 0 0 0;
+}
+.ui-widget {
+    font-family: Arial,sans-serif;
+    font-size: 13px;
+    line-height:20px;
+}
+#tabs .ui-widget-header {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+}
+.ui-button-text-only .ui-button-text {
+    padding: 0;
+}
+.ui-dialog .ui-dialog-buttonpane button, #loginsubmit {
+    cursor: pointer;
+    background: url("/wbchallengefiles.nsf/files/generic59_button.png/$file/generic59_button.png") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    display: block;
+    height: 21px;
+    margin: 0;
+    padding: 0;
+    width: 59px;
+    color:#ffffff;
+    font-family:arial;
+    font-size:12px;
+    border-radius: 0px;
+}
+.ui-dialog .ui-dialog-buttonpane button:hover, #loginsubmit:hover {
+    background: url("/wbchallengefiles.nsf/files/generic59_button.png/$file/generic59_button.png") no-repeat scroll -59px 0 transparent;
+}
+.ui-widget-overlay  {
+  background:url("/wbchallengefiles.nsf/files/dialog_overlay.png/$file/dialog_overlay.png") repeat scroll 50% 50% #666666!important;
+  opacity:0.5;
+}
+/* tweaks to breadcrumb CSS */
+/* tweaks for news and stories */
+#intro_wrap h1{
+    color: #000000;
+    font-family: georgia, arial;
+    font-size: 18px;
+    margin-left: 12px;
+    margin-top: 20px;
+}
+html > body #intro_wrap h1{
+    margin-left: 10px;
+}
+#tabs h1, #stories h1{
+    color: #000000;
+    font-family: georgia, arial;
+    font-size: 18px;
+    margin-left: 12px;
+    margin-top: 20px;
+}
+div.tit1-cont a, div.tit1-cont p {
+    font: 13px Georgia,"Times New Roman",Times,serif;
+}
+.n02v9-recentlypub-readmore a, .n02v9-recentlypub-readmore a:visited{
+    color: #850000;
+    display: block;
+    font-size: 0.75em;
+    padding-top: 12px;
+    text-decoration: none;
+}
+.n02v9-recentlypub-readmore a:hover{
+    text-decoration: underline;
+}
+.s01v3-bank-group ul li {
+    background: none repeat scroll 0 0 transparent;
+    padding: 1px 10px 4px 12px;
+}
+html > body .s01v3-bank-group ul li {
+    background: none repeat scroll 0 0 transparent;
+    padding: 1px 10px 4px 6px;
+}
+/* tweaks to their tabs to align better accommodate my content */
+.TabbedPanels {
+    width: 580px;
+}
+.n02v9-recentlypub-image img{
+ margin-bottom:20px;
+}
+.n06v1-clusters-cont1 {
+    float: left;
+    margin-right: 17px;
+    padding: 0 0 20px;
+    width: 176px;
+}
+html > body .n06v1-clusters-cont1 {
+    float: left;
+    margin-right: 17px;
+    padding: 0 0 20px;
+    width: 176px;
+}
+.c17v4_country_tabs{
+  float:left;
+  width:582px;
+  overflow:hidden;
+}
+div.fauxborder {
+    padding-bottom: 0;
+    display:none;
+}
+/* my new things to support news */
+/* stuff for voting stars & comments row */
+#voteStarDisplaySmall{
+  display:inline-block;
+}
+#voteStarDisplaySmall span{
+background: url("/wbchallengefiles.nsf/files/vote_star_small.gif/$file/vote_star_small.gif") repeat-x scroll left -1000px transparent;
+display: inline-block;;
+height: 13px;
+line-height: 13px;
+overflow: hidden;
+}
+#voteStarDisplaySmall span.all-stars {
+background-position: left top;
+width: 65px;
+}
+#voteStarDisplaySmall span.all-stars span.some-stars{
+background-position: left -13px;
+}
+.n02v9-recentlypub-stars{
+ font-size:11px;
+ font-family:arial;
+ color:#666666;
+ margin-top:12px;
+}
+.n02v9-recentlypub-stars img{
+  margin-right:7px;
+}
+.s06v8-million-accent-text hr{
+  color: #D9DCCF;
+}
+.s06v8-million-accent-text a{
+font-size: 12px!important;
+}
+.n02v9-recentlypub-super-header-tag {
+   font-size:11px;
+   padding-top:0px;
+}
+.n02v9-recentlypub-headline p a {
+   font-size:16px;
+}
+.n02v9-recentlypub-author {
+   font-size:12px;
+}
+.recentlypub {
+    font-size: 11px;
+}    
+.n02v9-recentlypub-text p {
+    font-size: 12px;
+}
+.n02v9-recentlypub-readmore a{
+    font-size: 12px;
+}
+.c00v3-introduction-link {
+    width: 786px;
+}
+.submit_prop_button{
+text-align:center;
+}
+.submit_prop_button a{
+background: url("/wbchallengefiles.nsf/files/generic125_button.png/$file/generic125_button.png") no-repeat scroll 0 0 transparent;
+border: medium none;
+border-radius: 0 0 0 0;
+color: #FFFFFF;
+cursor: pointer;
+display: block;
+font-family: arial;
+font-size: 12px;
+height: 21px;
+    margin: 0 auto;
+    padding: 4px 0 0;
+    position: relative;
+    text-decoration: none;
+    width: 125px;
+}
+.submit_prop_button a:hover{
+background: url("/wbchallengefiles.nsf/files/generic125_button.png/$file/generic125_button.png") no-repeat scroll -125px 0 transparent;
+}
+#submitidea {
+ background-color: #FFFFFF;
+ margin-right: -1px;
+ padding-bottom: 12px;
+}
+.large-callout a{
+ display: block;
+ height: 87px;
+ outline: none;
+ text-indent: -999em;
+ width: 191px;
+}
+.new-idea a{
+ background-image: url("/wbchallengefiles.nsf/files/external_callouts.png/$file/external_callouts.png");
+ background-position: 0px 0px;
+}
+.new-idea a:hover{
+ background-position: 191px 0px;
+}
+.mass-vote a{
+ background-image: url("/wbchallengefiles.nsf/files/external_callouts2.png/$file/external_callouts2.png");
+ background-position: 0px 0px;
+}
+.mass-vote a:hover{
+ background-position: 191px 0px;
+}
+.snapshot_head{
+ margin-bottom:6px;
+ border-bottom:1px solid #D9DCCF;
+ padding-left: 12px; 
+ background-color: #D9DCCF; 
+ font-weight: bold; 
+ height: 32px; 
+ line-height: 32px;
+ font-size:13px;
+}
+#idea_details hr{
+ margin:6px 12px;
+}
+#getinvolved{
+    background: url("/wbchallengefiles.nsf/files/sprite-horizontal.png/$file/sprite-horizontal.png") repeat-x scroll 0 -55px transparent;
+    color: #FFFFFF;
+    font-size: 13px;
+    height: 36px;
+    line-height: 36px;
+    margin-bottom: 6px;
+    margin-top: -1px;
+    padding-left: 12px;
+}
+#compintro{
+    font-size: 13px;
+    line-height:20px;
+}
+.border-top1{
+  border-top:1px solid #D9DCCF;
+}
+.border-top1:first-child{
+  border-top:none;
+}
+.C01v1-banner-country .bar_arrow {
+    background: url("/wbchallengefiles.nsf/files/plus_minus.png/$file/plus_minus.png") no-repeat scroll 0px top transparent;
+}
+#menu-callout-list{
+display:none;
+}
+.c14v1_static_content a, .c14v1_static_content a:visited{
+  text-decoration:none;
+}
+.c14v1_static_content a:hover;{
+  text-decoration:underline;
+}
+#comp_contact a{
+white-space:nowrap;
+}
+/*Need to add styles for ordered lists to display correctly*/
+ol
+{
+	list-style-type: decimal;
+	margin-left: 25px;
+}
+ol > li
+{
+	padding-bottom: 10px;
+}
+/*Headings need to match up with IdC*/
+#intro_wrap h1, h2, h3, h4, h5, h6{
+    color: #000000;
+    font-weight: normal;
+    margin: 2ex 0 1ex;
+}
+#intro_wrap h1, h2, h3, h4, h5, h6{
+    font-family: georgia;
+}
+#intro_wrap h1>b, h2>b, h3>b, h4>b, h5>b, h6>b{
+    font-family: georgia;
+}
+#intro_wrap h3{
+    font-size: 15px;
+}
+</style>
+</head>
+<body>
+<!--   DO NOT CHANGE ANYTHING BELOW UNTIL IT SAYS CHANGE  -->
+<!--   DO NOT CHANGE ANYTHING BELOW UNTIL IT SAYS CHANGE  -->
+<!--   DO NOT CHANGE ANYTHING BELOW UNTIL IT SAYS CHANGE  -->
+<!--   DO NOT CHANGE ANYTHING BELOW UNTIL IT SAYS CHANGE  -->
+<!-- Wrapper Starts -->
+<div id="wrapper">
+  <!-- Wrapper top Starts -->
+  <div class="wrapper-top clearfix">
+    <!-- 960 Grid System Starts -->
+    <div class="container_24 clearfix">
+      <div class="grid_24">
+        <!-- Masthead Start -->
+        <div class="clearfix" id="masthead">
+          <!-- (F01v1) Global Language Toggle Starts -->
+          <div class="global_language_toggler global_language_toggler_slideshow_detail">
+            <div class="f01v1-global-language-toggle">
+              <ul>
+                <li class="active-language">English</li>
+                <li class="divider"><a href="http://www.bancomundial.org/">Español</a></li>
+                <li class="divider"><a href="http://www.banquemondiale.org/">Français</a></li>
+                <li class="divider"><a href="http://www.worldbank.org/eca/russian/">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a></li>
+                <li class="divider"><a href="http://www.albankaldawli.org/">&#1593;&#1585;&#1576;&#1610;</a></li>
+                <li class="divider cn"><a href="http://www.worldbank.org.cn/Chinese/">&#20013;&#25991;</a></li>
+                <li><a title="More Languages" href="http://www.worldbank.org/languages" class="arrow1"></a></li>  
+              </ul> 
+            </div>
+          </div>
+          <!-- (F01v1) Global Language Toggle Ends -->
+          <!--Global Header box for World Bank Logo and Search Start -->
+          <div class="global-header">
+            <!-- World Bank Logo Starts -->
+            <a href="http://www.worldbank.org/" class="world-bank-logo">The World Bank Working for a World Free of Poverty</a>
+            <!-- World Bank Logo Ends -->
+            <!-- (F02v1) Global Search Starts -->
+                <div id="f02v1-global-search">
+                  <input id="wbsearch" type="text" onfocus="clearField(this)" value="Search" class="search-text"
+                    name="qterm" size="15">
+                    <a href="#" onclick="javascript:doWBSearch();return false;" title="Search" class="search-submit-text">GO</a>
+                </div>
+            <!-- (F02v1) Global Search Ends -->
+          </div>
+          <!-- Global Header box for World Bank Logo and Search End -->
+        </div>
+        <!-- Masthead ends -->
+      </div>    
+    
+      <div class="grid_24">
+        <!-- (G03v1) Global Navigation Bar Starts -->
+        <div class="g03v1_topnavigation top_navigation">
+          <div class="g03v1-global-navigation">  
+            <div class="g03v1-global-navigation-home">
+              <a href="http://www.worldbank.org/" class="homelink">Home</a>
+            </div>
+            <div class="g03v1-global-navigation-sec1">
+              <ul class="navtabs">    
+                <li class="first"><a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/0,,pagePK:50004410~piPK:36602~theSitePK:29708,00.html"><span>ABOUT</span></a></li>
+                <li><a href="http://data.worldbank.org/"><span>DATA</span></a></li>
+                <li><a href="http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/0,,menuPK:476823~pagePK:64165236~piPK:64165141~theSitePK:469372,00.html"><span>RESEARCH</span></a></li>
+                <li class="current"><a href="http://wbi.worldbank.org/wbi/"><span>LEARNING</span></a></li>
+                <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,pagePK:34382~piPK:34439~theSitePK:4607,00.html"><span>NEWS</span></a></li>
+                <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/0,,menuPK:115635~pagePK:64020917~piPK:64021009~theSitePK:40941,00.html"><span>PROJECTS &amp; OPERATIONS</span></a></li>
+                <li class="last"><a href="http://www.worldbank.org/reference/"><span>PUBLICATIONS</span></a></li>
+              </ul>     
+            </div>
+            <div class="g03v1-global-navigation-sec2">
+              <ul class="navtabs">
+                <li class="first"><a href="http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/0,,pagePK:180619~theSitePK:136917,00.html"><span>COUNTRIES</span></a></li>
+                <li class="last"><a href="http://www.worldbank.org/html/extdr/thematic.htm"><span>TOPICS</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <!-- (G03v1) Global Navigation Bar Ends -->
+        <div class="navtabs-print">
+          <span><img width="28" height="27" src="/wbchallengefiles.nsf/files/home-icon-red.png/$file/home-icon-red.png"></span>
+          <ul>              
+            <li>ABOUT</li> 
+            <li>DATA</li>
+            <li>RESEARCH</li>
+            <li>LEARNING</li>
+            <li>NEWS</li>
+            <li>PROJECTS &amp; OPERATIONS</li>
+            <li>PUBLICATIONS</li>
+            <li>COUNTRIES</li>
+            <li>TOPICS</li>
+          </ul>
+        </div>
+      </div>
+    
+    <div class="grid_24">  
+      <!-- (C01v1) Banner Starts --> 
+      <div class="clearfix" id="c01v1-banner">
+        <div class="parbase c01v1_country_banner">
+          <div class="C01v1-banner-country">
+            <span class="bar_arrow"></span>
+            <span class="bar_show_hide">Hide</span>
+            <h1><a href="/wbchallengecomp.nsf/x/Main?open">Challenges</a></h1> 
+          </div>
+        </div>
+        <!--start hidden extended header -->
+        <div style="display: none;" id="myContent" class="banner-hidden">
+          <div class="columscontent clearfix">
+            <div class="introcopy">
+              <p>Welcome to the World Bank Challenge platform. This platform contains competitions and challenges run by the World Bank.&nbsp;&nbsp;Two heads are better than one, and a thousand heads are better than two...<a href="#">Read More »</a></p> 
+            </div>
+            <!--End columm5 --> <!--End columm6 -->
+            <div class="linklist border-vert1">
+              <ul>
+                <li><a href="/wbchallengecomp.nsf/x/about?open&tab=0">Vision</a></li>
+                <li><a href="/wbchallengecomp.nsf/x/about?open&tab=1">Strategy</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>        
+      </div>
+      <!-- (C01v1) Banner Ends -->
+    </div>
+    
+    <div class="grid_24">
+      <div class="page wb_metadata country_landing_metadata">
+        <div style="clear:both"></div>
+      </div>
+    </div>
+    
+    <div id="loading"><center><img src="/wbchallengefiles.nsf/files/redwait.gif/$file/redwait.gif" /></center></div>
+    
+    <!-- Faux Border wrapper Starts -->
+    <div class="fauxborder six clearfix padding-bottom40">
+      <!-- Zone 1 Starts -->
+      <div class="grid_4 grid_4-news">
+        <!-- N01v1 Left Navigation Starts-->
+        <div class="n01v1_left_navigaton n01v1_left_navigation">
+          <div class="n01v1-leftnav">
+            <ul>
+              <li class="">
+                <a href="/wbchallengecomp.nsf/x/main?open" title="Challenges Home">Home</a>
+              </li>
+              <li class="active">
+                <a title="Challenges" href="/wbchallengecomp.nsf/x/search?open">Challenges</a>
+              </li>
+<li id="li_stories" class="">
+<a title="Stories" href="/wbchallengeblog2.nsf">Stories</a>
+</li>
+<li id="li_news" class="">
+<a title="What's New" href="/wbchallengeblog1.nsf">What's New</a>
+</li>
+              <li class="">
+                <a title="About" href="/wbchallengecomp.nsf/x/about?open">About</a>
+              </li>
+              <li class="">
+                <a title="Contact Us" href="/wbchallengecomp.nsf/x/contact?open">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+    
+        <!-- N01v1 Left Navigation Ends-->
+        <!-- LR01V1 country contacts starts here -->
+        <div class="lr01v1-countrycontent padding-left-right border-bottom padding-top17">
+          <div class="lr01v1_country_office_contacts">
+            <div class="lr01v1-superheader">Login / Register</div>
+            <ul>
+              <li class="login"><a title="Login" class="login" onclick="javascript:checkLogin();return false;" href="#">Login</a></li>
+              <li class="register"><a title="Register" class="register" href="/wbchallengelogin.nsf/Registration?OpenForm">Register</a></li>
+            </ul>   
+          </div>
+        </div>        
+        
+        <!-- LR01V1 country contacts Ends here -->
+        <!--(LR02v1) Subscribe Starts -->
+        <div class="lr02v1-subscribe padding-left-right padding-top19">
+          <div class="parbase lr02v1_rss_subscribe">
+            <div class="lr01v1-superheader">RSS</div>
+            <ul class="padding-bottom10">
+              <li class="rss"><a title="RSS" class="rss" href="/wbchallengecomp.nsf/competitions.rss" target="_blank"></a></li>
+            </ul>
+            <p class="lr02v1-subscribe-text"><a target="_blank" href="/wbchallengecomp.nsf/competitions.rss" class="rss" title="RSS">Subscribe to the Bank's RSS Updates for Challenges</a></p><p></p>
+          </div>
+        </div>
+      </div>
+      <!-- Zone 1 Ends -->
+      <!-- Zone 2 Top Starts -->
+      <div class="grid_20 width788 margin-left5 backgroungcolor page-tools-zindex">  
+        <!-- (F03v1) Page Tools starts -->
+        <div id="f03v1-page-tools">
+          <div class="page_tools parbase f03v1_pagetools"> 
+            <div class="pagestools">
+              <ul>
+                <li class="Prnt dividerpagetools" title="Print"><a href="#" onclick="print_page();return false;" class="Prt"><span>Print</span></a></li>                
+                <li class="email dividerpagetools" title="Email">
+                  <a href="javascript:MM_openBrWindow();" class="Prt"><span>Email</span></a>
+                  <form name="emailfrm" method="post" target="emailpopup">
+                    <input type="hidden" name="reftitle">
+                    <input type="hidden" name="reflink">                  
+                  </form> 
+                </li>
+                <li class="Facebook" title="Facebook"><a href="javascript:facebook();" class="Prt"><span>Facebook</span></a></li>
+                <li class="Tweet" title="Tweet"><a href="javascript:twitter();" class="Prt"><span>Tweet</span></a></li>
+                <li class="shareicon" title="Share">
+                  <div class="sharecont">
+                    <div class="expand_all"></div>
+                    <div class="toggle_container" style="display: none;"> 
+                      <div class="sharebox"> 
+                        <ul> 
+                          <li class="Linked In" title="LinkedIn"><a href="javascript:linkedin();">LinkedIn</a></li>
+                          <li class="Dig" title="Digg"><a href="javascript:digg();">Digg</a></li>
+                        </ul>
+                      </div>
+                      <div class="sharebox2"> 
+                        <ul>
+                          <li class="Google" title="Google buzz"><a href="javascript:googlebuzz();">Google buzz</a></li>
+                          <li class="Stumble" title="Stumble Upon"><a href="javascript:stumbleUpon();">Stumble Upon</a></li>
+                          <li class="Delicious" title="Delicious"><a href="javascript:delicious();">Delicious</a></li>
+                        </ul> 
+                      </div> 
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div style="clear: both;"></div>
+          </div>
+               
+        </div>
+        <div class="grid_21">
+          <div class="page projects_programs_metadata wb_metadata"></div>
+        </div>
+      <!-- YOU CAN START MAKING CHANGES BELOW -->
+      <!-- YOU CAN START MAKING CHANGES BELOW -->
+      <!-- YOU CAN START MAKING CHANGES BELOW -->
+      <!-- YOU CAN START MAKING CHANGES BELOW -->
+        
+        <h2 class="backgroungcolor four clearleft">View Challenge</h2>
+        
+      </div>
+      
+      <!-- (F03v1) Page Tools Ends -->         
+      <!--(C00v3) Introduction Ends -->     
+      
+      
+      <!-- page stuff starts here -->
+  
+  
+      <div class="grid_15 width582">
+      
+        <div id="intro_wrap" class="c17v4_country_tabs min-height-500 border-top-red border-left border-bottom1 border-right non-printable margin-bottom20">
+         <div class="snapshot_head">CHALLENGE SNAPSHOT</div>
+          <h1 id="comptitle" class="backgroungcolor four clearleft"></h1>
+          <div class="paragraph TabbedPanelsContent" style="padding-bottom: 4px;">
+            <div class="c14v1_static_content" id="compintro"></div>      
+          </div>
+        </div>
+        <div id="tabs">
+        <div id="info_tab_wrap" class="c17v4_country_tabs min-height-500 border-top-red border-left border-bottom1 border-right non-printable margin-bottom20">
+          <h1>Challenge Information</h1>
+          <div id="info_tab" class="paragraph">
+            <ul>
+              <li id="prize_label"><a href="#prize_tab">Prize/Awards</a></li>
+              <li id="eligibility_label"><a href="#eligibility_tab">Eligibility</a></li>
+              <li id="participation_label"><a href="#participation_tab">Participation</a></li>
+              <li id="evaluations_label"><a href="#evaluations_tab">Evaluations</a></li>
+              <li id="rules_label"><a href="#rules_tab">Official Rules</a></li>
+              <li id="legal_label"><a href="#legal_tab">Legal</a></li>
+            </ul>
+              <div id="rules_tab" class="paragraph"></div>
+              <div id="legal_tab"></div>
+              <div id="eligibility_tab"></div>
+              <div id="participation_tab"></div>
+              <div id="prize_tab"></div>
+              <div id="evaluations_tab"></div>
+          </div>
+        </div>
+        
+        <div id="ideas_tab_wrap" class="c17v4_country_tabs min-height-500 border-top-red border-left border-bottom1 border-right non-printable margin-bottom20">
+          <h1>Submissions</h1>
+          <div id="ideas_tab">
+            <ul>
+              <li id="allsubmissions_label"><a href="#allsubmissions_tab">All Submissions</a></li>
+              <li id="shuffle_label"><a href="#shuffle_tab">Shuffle</a></li>
+<!--
+              <li id="toprated_label"><a href="#toprated_tab">Top Rated</a></li>
+              <li id="mostdiscussed_label"><a href="#mostdiscussed_tab">Most Discussed</a></li>
+              <li id="latest_label"><a href="#latest_tab">Latest</a></li>
+-->
+<!--
+              <li class="TabbedPanelsTab" id="spotlight_label"><a href="#">Spotlight</a></li>
+              <li class="TabbedPanelsTab" id="myideas_label"><a href="#">My Submissions</a></li>
+-->
+              </ul>
+              <div id="allsubmissions_tab"></div>
+              <div id="shuffle_tab"></div>
+              
+<!--              
+              <div id="toprated_tab"></div>
+              <div id="mostdiscussed_tab"></div>
+              <div id="latest_tab"></div>
+-->
+<!--
+              <div style="display: none;" class="TabbedPanelsContent" id="spotlight_tab"></div>
+              <div style="display: none;" class="TabbedPanelsContent" id="myideas_tab"></div>
+-->
+          </div>
+        </div>
+        </div>
+      </div>
+            
+      <div id="rightinfo" class="grid_5 width194-overview border-left-print grid_24-print">
+        <div id="submitidea">
+          <div id="getinvolved">GET INVOLVED</div>
+          <ul id="menu-callout-list" class="callout-links">
+            <li id="menu-new-idea-link" class="large-callout new-idea" style="display:none;"><a id="newidea" href="#">New Submission</a></li>
+            <li id="menu-mass-vote-link" class="large-callout mass-vote" style="display:none;"><a id="massvote" href="#">Vote on Submissions</a></li>
+          </ul>
+        </div>
+        <div class="s01v3-bank-group border-bottom border-top-red" id="ataglance">
+          <div class="s01v3_around_the_bank_group">
+            <div>
+              <h2 class="s01v3-bank-group-super-header padding-bottom12">At a Glance</h2>
+              <ul class="s06v8-million-accent-text">
+                <li><b>Status:</b>&nbsp;<span id="comp_status"></span></li>
+                <li><b>Begins:</b>&nbsp;<span id="comp_begins"></span></li>
+                <li><b>Ends:</b>&nbsp;<span id="comp_ends"></span></li>
+                <li class="contactus_li" id="comp_contact"></li>
+                <li><hr><b>Sponsoring Unit:</b><br/><span id="comp_sponsor"></span></li>
+                <li><b>VPU:</b><br/><span id="comp_vpu"></span></li>
+                <li><b>Sector:</b><br/><span id="comp_sector"></span></li>
+                <li><b>Topic:</b><br/><span id="comp_topic"></span></li>
+                <li><b>Country:</b><br/><span id="comp_country"></span></li>
+                <li><b>Theme:</b><br/><span id="comp_theme"></span></li>
+                <li><b>Region:</b><br/><span id="comp_region"></span></li>
+                <li><b>McKinsey Archetype:</b><br/><span id="comp_mckinsey"></span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="s01v3-bank-group border-bottom margin-top18 padding-left-right" id="vitals">
+          <div class="s01v3_around_the_bank_group">
+            <div>
+              <h2 class="s01v3-bank-group-super-header padding-bottom12">
+               Stats  <a href="#" onclick="showStatsHelp();return false;"><img align="absmiddle" title="Click for help on the stats" src="/wbchallengefiles.nsf/files/icon-info.png/$file/icon-info.png"/></a>
+              </h2>
+<div id="statsHelp">
+<span class="close" alt="Close" title="Close" onclick="showStatsHelp();"></span>
+<p>Want to learn more about the statistics for this challenge?</p><p>&nbsp;</p>
+<p><b>Submissions:</b> Indicates the current number of submissions.</p>
+<p><b>Comments:</b> Indicates the current number of comments.</p>
+<p><b>Votes:</b> Indicates the current number of votes.</p>
+<p><b>Contributors:</b> Indicates the current number of submitters.</p><p>&nbsp;</p>
+<p><b>Note:</b> Stats are updated every 15 minutes.</p>
+</div>
+              <table id="statstbl" class="s06v8-million-accent-text">
+                <tr><td>Submissions:</td><td id="comp_ideas"></td></tr>
+                <tr><td>Comments:</td><td id="comp_comments"></td></tr>
+                <tr><td>Votes:</td><td id="comp_votes"></td></tr>
+                <tr><td>Contributors:</td><td id="comp_contributors"></td></tr>
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+  
+    </div>    
+        
+                 
+<!-- FOOTER STUFF --> 
+    
+    
+<div class="grid_24">
+<!-- (G02v1) Global Footer Starts-->
+<div class="footernavi__opinion g02v1_globalfooter">
+<div class="clearfix" id="g02v1-global-footer">
+<!-- (F04v1) Breadcrumb Starts -->
+<div id="f04v1-breadcrumb">
+<span class="breadcrumb-header">You are here</span>
+<div class="breadcrumbimg"></div>
+<span class="breadcrumb-header">&nbsp;&nbsp;<a href="http://wbi.worldbank.org/wbi/">Learning</a></span>
+<div class="breadcrumbimg"></div>
+<span class="breadcrumb-header">&nbsp;&nbsp;<a href="/wbchallengecomp.nsf/x/Main?open">Challenges</a></span>
+<div class="breadcrumbimg"></div>
+<span class="breadcrumb-header">&nbsp;&nbsp;View Challenge</span>
+</div>
+<!-- (F04v1) Breadcrumb Ends -->
+<div class="open-footer">
+                    <div class="footer-visible">
+<a href="/"><img alt="The World Bank Logo" title="The World Bank" src="/wbchallengefiles.nsf/files/footer-white-wbicon.gif/$file/footer-white-wbicon.gif"></a> <a href="/">The World Bank Group</a> <span class="partner"> <a href="http://www.worldbank.org/ibrd">IBRD</a> <a href="http://www.worldbank.org/ida">IDA</a> <a href="http://www.ifc.org">IFC</a> <a href="http://www.miga.org/">MIGA</a> <a href="http://icsid.worldbank.org">ICSID</a> </span>
+                    </div>
+<div class="footer-left">
+<!--Start left -->
+<p><a href="http://www.worldbank.org/legalinfo">Legal</a> | <a href="http://www.worldbank.org/sitemap">Site Map</a> | <a href="http://www.worldbank.org/jobs">Jobs</a> | <a href="http://www.worldbank.org/contacts">Contact</a><br>
+<span class="footer-left-print">
+<a href="http://www.worldbank.org/">&copy; 2011 The World Bank Group, All Rights Reserved.</a></span></p>
+</div>
+<!--End footer left  -->
+<div class="footer-right">
+<!-- Start footer right -->
+<p><a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html"><strong>Fraud &amp; Corruption Hotline</strong><br>
+1-800-831-0463</a></p>
+</div>
+<!--End footer left -->
+</div>
+</div>
+</div>
+<!-- (G02v1) Global Footer Ends -->
+</div>    
+ 
+<div class="grid_24 grid_24-print">
+  <span class="footer-left-print4">
+    <a href="http://www.worldbank.org/">&copy;2011 The World Bank Group, All Rights Reserved.</a>
+  </span>
+</div>     
+      
+      
+    
+  </div>
+  <!-- 960 Grid System Ends -->
+ </div>
+ <!-- Wrapper top End -->
+ <!-- Wrapper bottom Starts -->
+ <div class="wrapper-bottom-shadow">
+  &nbsp;
+ </div>
+ <!-- Wrapper bottom Ends -->
+</div>
+<!-- Wrapper Ends -->
+<script type="text/javascript">
+  var authorPicts=[];
+  var login_path='';
+  $(function() {
+    setupBannerExpandCollaps();
+    //add the competition information
+    addCompInfo();
+    
+  });           
+            
+  function addFieldData(fid,fval){
+    if (fval.length==0){
+      $(fid).parent().hide();
+    }else{
+      if ($.isArray(fval)){
+         $(fid).html(fval.join(', '));
+      }else{
+         $(fid).html(fval);
+      }
+    }
+  }
+  
+  function addTabData(tid,tval,tidx){
+    if (tval.length==0){
+      $('#info_tab').tabs( "remove" , tidx );
+    }else{
+      if ($.isArray(tval)){
+         $(tid).html(tval.join(' '));
+      }else{
+         $(tid).html(tval);
+      }
+    }
+  }
+  
+  function MakeEmailLinks(str,evn){
+    var rtn=str;
+    var emails=findEmailAddresses(str).split(',');
+    for (var x=0;x<emails.length;x++){
+      var stemp='<a href="mailto:eee?subject=World%20Bank%20Challenge&body=Regarding%20bbb">fff</a>';
+      stemp=stemp.replace(/eee/g, emails[x]);
+      stemp=stemp.replace(/fff/g, emails[x].replace('@','@ '));
+      stemp=stemp.replace(/bbb/g, evn);
+      rtn = rtn.replace(emails[x],stemp);
+    }
+    return rtn;
+  }
+  
+  
+  function addCompInfo(){
+    var compevtID = getArgs("eid");
+    var snodata='<div id="nodata" class="n02v9-recentlypub border-top1 padding-bottom12">';
+    snodata+='<div class="n02v9-recentlypub-image"><a href="#nodata"><img class="defaultpic" width="82" height="82" src="/wbchallengefiles.nsf/files/nodata.png/$file/nodata.png" alt="" title="No challenge found"></a></div>';
+    snodata+='<div class="n02v9-recentlypub-super-header-tag">&nbsp;</div>';
+    snodata+='<div class="n02v9-recentlypub-headline">';
+    snodata+='<p><a href="#nodata">A challenge reference was not specified or we did not find the specified challenge.  Please click on an appropriate challenge link.</a></p></div></div>';
+    if (compevtID==''){
+      //hide tabs and put up error message
+      $('#comptitle').html('Unspecified Challenge Reference');
+      $('#compintro').html(snodata);
+      $('#tabs').hide();
+      $('#rightinfo').hide();
+      $('div.fauxborder.six').css('background','url("/wbchallengefiles.nsf/files/fauxborder2.gif/$file/fauxborder2.gif") repeat-y scroll 0 0 transparent');
+      $('.lr02v1-subscribe').css('margin-bottom','50px');
+      $('#loading').hide();
+      $('.fauxborder').css('display','block');
+     
+    }else{
+      // just in case there is an error
+      $.ajaxSetup({"error":function(XMLHttpRequest,textStatus, errorThrown) {alert(errorThrown);}});
+  
+      //read the json feed
+      var t=new Date();
+      t=t.getTime();
+      $.getJSON('/wbchallengecomp.nsf/compjson?openview&comp='+compevtID+'&cnt=300&t='+t, function(data){
+        var thtml=''; var fcnt=0; var item;
+        
+        //Use this piece of code if you need to temporarily hard code an event end date
+    	//$.each(data.competitions, function(i,item){
+        //	if(item.eventid == "2011111685257879005955D51068264")
+        //	{
+        //    	item.edate = "2012-03-16";
+        // 	}
+        //});
+        // find anything?
+        if (data.numdocuments==0){
+          //hide tabs and put up error message
+          $('#comptitle').html('Unspecified Challenge Reference');
+          $('#compintro').html(snodata);
+          $('#tabs').hide();
+          $('#rightinfo').hide();
+          $('div.fauxborder.six').css('background','url("/wbchallengefiles.nsf/files/fauxborder2.gif/$file/fauxborder2.gif") repeat-y scroll 0 0 transparent');
+          $('.lr02v1-subscribe').css('margin-bottom','50px');
+          $('#loading').hide();
+          $('.fauxborder').css('display','block');
+          return;
+        }
+        
+        
+        // loop through each record
+        for (var x=0;x<data.competitions.length;x++){
+          if (data.competitions[x].eventid == compevtID){
+           // goto real idea
+            if (isLoggedIn()==true && data.competitions[x].status!='closed'){
+              location.href = '/'+data.competitions[x].path;
+              return;
+            }
+            // set global variable for path if they press login
+            login_path= '/'+data.competitions[x].path;
+ 
+            item=data.competitions[x];
+            addFieldData('#comptitle',item.evname);
+            document.title=(item.evname + ' | World Bank Institute');
+        //    if (item.evpurpose <= 600){
+              addFieldData('#compintro',item.evpurpose);
+     //       }else{
+  //            var stemp=item.evpurpose.substr(0,600)+'<div class="n02v9-recentlypub-readmore"><a href="#" onclick="showMoreRW(this);return false;">Read More »</a><span style="display:none">'+item.evpurpose.substr(600)+'</span></div>';
+   //           addFieldData('#compintro',stemp);
+  //          }
+       //     var stemp=MakeEmailLinks(item.evcontact,item.evname);
+            addFieldData('#comp_contact',item.evcontact);
+            addFieldData('#comp_sponsor',item.m5);
+            addFieldData('#comp_vpu', item.m6);            addFieldData('#comp_sector',item.m7);
+            addFieldData('#comp_theme' ,item.m8);            addFieldData('#comp_topic',item.m9);
+            addFieldData('#comp_region',item.m10);
+            addFieldData('#comp_country',item.m11);
+            addFieldData('#comp_mckinsey','');   // item.m12);
+            
+            d1=new Date();
+            var ds=item.edate.replace(/-/g,',').split(',');
+            var d2=new Date(ds[0],ds[1]-1,ds[2],23,59,59);            
+            if (item.status=='open'){
+              if (d1.getTime() <= d2.getTime()){                
+                addFieldData('#comp_status','Open');
+                $('#menu-new-idea-link').show();
+                $('#menu-callout-list').show();
+              }else if(item.m19.toString().indexOf('Votes On')!=-1){
+                addFieldData('#comp_status','Open for Public Voting');              
+              }else{
+                addFieldData('#comp_status','Closed');
+              }
+            }else if(item.status=='closed'){
+              addFieldData('#comp_status','Complete');
+              login_path='';  //default back to compdb
+            }else{
+              addFieldData('#comp_status','Unknown');
+            }
+            
+            addFieldData('#comp_begins', formatDateTime(item.sdate,false));
+            addFieldData('#comp_ends', formatDateTime(item.edate,false));
+            addFieldData('#comp_ideas', commaFormat(item.stats.ideas));
+            addFieldData('#comp_comments', commaFormat(item.stats.coms));
+            addFieldData('#comp_contributors', commaFormat(item.stats.conts));
+            addFieldData('#comp_votes', commaFormat(item.stats.votes));
+			//show the mass vote button if voting is on
+			if(item.m19.toString().indexOf('Votes On')!=-1)
+			{
+				$('#menu-mass-vote-link').show();
+                $('#menu-callout-list').show();
+			}
+			
+            // link to new idea
+            $('#newidea').attr('href','/'+item.path+'/newidea?open&login');
+            
+            // link to mass vote
+            $('#massvote').attr('href','/'+item.path+'/massvote?open&login');
+            // turn on the tab
+            $('#info_tab').tabs({
+              create: function(event, ui) {
+                addTabData('#rules_tab',item.m13,0);
+                addTabData('#legal_tab',item.m14,1);
+                addTabData('#eligibility_tab',item.m15,2);
+                addTabData('#participation_tab',item.m16,3);
+                addTabData('#prize_tab',item.m18,4);
+                addTabData('#evaluations_tab',item.m17,5);    
+              },
+              select: function(event, ui) {$(ui.tab).blur();}
+            });
+            // show stats?
+            if (item.m19.toString().indexOf('Show Stats')>-1){
+             if (item.m19.toString().indexOf('Comments On')==-1){$('#comp_comments').parent().hide();}
+             if (item.m19.toString().indexOf('Votes On')==-1){$('#comp_votes').parent().hide();}
+             $('#vitals').show();
+            }
+            break;
+          }
+        };
+        // check to see if you must be logged in to see ideas
+        if (item.m19.toString().indexOf('Show Ideas')>-1){          // now go create the tabs using same json data
+          createIdeaTabs(compevtID, item.m19.toString());
+        }else{
+          $('#loading').hide();
+          $('#ideas_tab_wrap').hide();
+          $('.fauxborder').css('display','block');
+        }
+        // load omniture code
+        loadUpOmniture();
+      });
+    }
+  }
+function showMoreRW(elm){
+  $(elm).hide().parent().find('span').show();
+}    
+function buildIdeaHTML(compevtID,item,path,settings){
+  
+    var stemplate='<div class="n02v9-recentlypub border-top1 padding-bottom12 clearleft"><div style="float:left;">';
+    stemplate+='<div class="n02v9-recentlypub-image"><img title="Login to see author image" class="defaultpic" width="60" height="70" src="/wbchallengefiles.nsf/files/defaultProfile.gif/$file/defaultProfile.gif" alt=""></div>';
+    stemplate+='</div><div style="float:left;width:466px;padding-bottom:12px;"><div class="n02v9-recentlypub-super-header-tag">&nbsp;</div>';
+    stemplate+='<div class="n02v9-recentlypub-headline">';
+    stemplate+='<p><a href="aaa">ddd</a></p></div>';
+    stemplate+='<div class="n02v9-recentlypub-author">Authored by eee&nbsp;|&nbsp;<span class="recentlypub">fff</span></div>';
+    stemplate+='<div class="n02v9-recentlypub-text"><p>ggg</p></div>';
+    stemplate+='<div class="n02v9-recentlypub-readmore" style="display:xxx;"><a href="aaa">Read More&nbsp;»</a></div>';
+    stemplate+='<div class="n02v9-recentlypub-stars">';
+    if (settings.indexOf('Comments On')>-1){
+      stemplate+='<img width="13" height="12" src="/wbchallengefiles.nsf/files/comment_icon.png/$file/comment_icon.png" alt="" title=""><span>Comments&nbsp;(hhh)</span>';
+    }
+    //Don't want to display the vote average so commenting out the following lines
+    //if (settings.indexOf('Votes On')>-1){
+    //  stemplate+='<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Votes&nbsp;(iii)&nbsp;&nbsp;&nbsp;</span>';
+    //  stemplate+='<span id="voteStarDisplaySmall"><span class="all-stars" title="kkk Stars"><span class="some-stars" style="width:jjjpx;"></span></span></span>';
+    //}
+    stemplate+='</div></div></div>';
+    var thtml=stemplate;
+    if (isLoggedIn()==false || $('#comp_status').html()=='Complete'){
+      if ($('#comp_status').html()=='Open'){
+        thtml=thtml.replace(/aaa/g,('/wbchallengecomp.nsf/x/idea?open&eid='+compevtID+'&iid='+item.unid+'&es=2'));    //open  
+      }else if ($('#comp_status').html()=='Closed'){
+        thtml=thtml.replace(/aaa/g,('/wbchallengecomp.nsf/x/idea?open&eid='+compevtID+'&iid='+item.unid+'&es=1'));    //closed  
+      }else{ // complete
+        thtml=thtml.replace(/aaa/g,('/wbchallengecomp.nsf/x/idea?open&eid='+compevtID+'&iid='+item.unid+'&es=0'));    //complete   
+      }
+    }else{
+      thtml=thtml.replace(/aaa/g,('/'+path+'/x/'+item.unid));    //url  
+    }
+    if ($.isArray(item.aq_1)){
+      thtml=thtml.replace(/ccc/g,item.aq_1.join(', '));        //Sponsoring Unit
+    }else{
+      thtml=thtml.replace(/ccc/g,item.aq_1);        //Sponsoring Unit
+    }
+    thtml=thtml.replace(/ddd/g,item.ti);          //Title
+    thtml=thtml.replace(/eee/g,item.au);          //Author
+ 
+    thtml=thtml.replace(/fff/g,formatDateTime(item.dt,true));               //Date
+    
+    if (item.de.length >=250){                    //Description
+      ds=item.de.substr(0,250)+' . . .';
+      thtml=thtml.replace(/ggg/g,ds);             
+      thtml=thtml.replace(/xxx/g,'block');             
+    }else{
+      thtml=thtml.replace(/ggg/g,item.de);        //Description
+      thtml=thtml.replace(/xxx/g,'none');             
+    }
+    thtml=thtml.replace(/hhh/g,item.cc);          //Comment Count
+    thtml=thtml.replace(/iii/g,item.vc);          //Vote Count
+    thtml=thtml.replace(/jjj/g,(parseFloat(item.va)*13));          //Span width
+    thtml=thtml.replace(/kkk/g,item.va);          //Vote Average
+    
+    if (isLoggedIn()==true){
+      thtml=thtml.replace(/defaultpic/g,   item.ae.replace(/\x2E/g,'w1w').replace(/\x40/g,'z1z').replace(/-/g,'x1x')    );          //img class contains username
+      thtml=thtml.replace('Login to see author image', 'No picture available for '+item.au);          //img class contains username
+    }
+    
+    return thtml;
+  }
+  function returnPictureURL(afn){
+   if (authorPicts[afn] == ''){
+     $.getJSON('/wbchallengeprofiles.nsf/profilesjson?openagent&incnormal=1&filteron=email&filtertype=eq&filter='+escape(afn.replace(/w1w/g,'.').replace(/z1z/g,'@').replace(/x1x/g,'-')), function(data){
+      // loop through each record
+      for (var x=0;x<data.profiles.length;x++){
+        if (data.profiles[x].picurl){
+          var stemp=('img.'+afn);
+          authorPicts[afn]=data.profiles[x].picurl;
+          $(stemp).attr('src',authorPicts[afn]).attr('title','Picture of '+data.profiles[x].fn+' '+data.profiles[x].ln);
+          break;
+        }
+      }
+    });
+   }
+  }
+  
+  function createIdeaTabs(compevtID,settings){
+    var snodata='<div id="nodata" class="n02v9-recentlypub border-top1 padding-bottom12">';
+    snodata+='<div class="n02v9-recentlypub-image"><img class="defaultpic" width="82" height="82" src="/wbchallengefiles.nsf/files/nodata.png/$file/nodata.png" alt="" title="No data found"></div>';
+    snodata+='<div class="n02v9-recentlypub-super-header-tag">&nbsp;</div>';
+    snodata+='<div class="n02v9-recentlypub-headline">';
+    snodata+='<p><a href="#nodata">No submissions have been found for this tab.  Please check back later.</a></p></div></div>';
+    // hide the tabs
+    if (settings.indexOf('Comments On')==-1){$('#mostdiscussed_label').hide();}
+    if (settings.indexOf('Votes On')==-1){$('#toprated_label').hide();}
+    
+    //read the json feed
+    var t=new Date();
+    t=t.getTime();
+    $.getJSON('/wbchallengecomp.nsf/ideasbycompjson?openview&cnt=300&comp='+compevtID+'&t='+t, function(data){
+    	var thtml=''; var fcnt=0;
+        if (data.numideas==0){
+          data.ideas=[{unid:null}];
+        }
+        
+        var latestArr=data.ideas.slice(0);
+        latestArr.sort(function(a,b){
+        
+        // make a comment count field        
+        a.cc=a.cms.length-1; //cntComments(a.cms);
+        b.cc=b.cms.length-1;   //cntComments(b.cms);
+        if (a.unid==null){a.dt="1901-01-01T00:00:00-00:00";}
+        if (b.unid==null){b.dt="1901-01-01T00:00:00-00:00";}
+        
+        var ds=a.dt.substr(0,19).replace(/-/g,',').replace(/T/g,',').replace(/:/g,',').split(',');
+        var d1=new Date(ds[0],ds[1]-1,ds[2],ds[3],ds[4],ds[5]);
+        ds=b.dt.substr(0,19).replace(/-/g,',').replace(/T/g,',').replace(/:/g,',').split(',');
+        var d2=new Date(ds[0],ds[1]-1,ds[2],ds[3],ds[4],ds[5]);
+  
+        //descending order          
+        if (d1.getTime() > d2.getTime()){ return -1;}
+        if (d1.getTime() < d2.getTime()){ return 1;}
+        return 0;       
+          
+      	});
+	  var randomArr=data.ideas.slice(0);
+	  randomArr.sort(function(a,b){
+		 var a1=Math.round(Math.random()*1);
+		 var b1=Math.round(Math.random()*1);
+		 if (b1==0){return (a1*-1);}
+		 return a1;
+	  });
+	  var topRatedArr=data.ideas.slice(0);      
+	  topRatedArr.sort(function(a,b){
+		  if (a.unid==null){a.va=0;}
+		  if (b.unid==null){b.va=0;}
+		
+		  //descending order          
+		  if (parseFloat(a.va) > parseFloat(b.va)){ return -1;}
+		  if (parseFloat(a.va) < parseFloat(b.va)){ return 1;}
+		  return 0;       
+	  });
+	  var mostDiscArr=data.ideas.slice(0);      
+	  mostDiscArr.sort(function(a,b){
+		  if (a.unid==null){a.cc=0;}
+		  if (b.unid==null){b.cc=0;}
+		
+		  //descending order          
+		  if (parseInt(a.cc) > parseInt(b.cc)){ return -1;}
+		  if (parseInt(a.cc) < parseInt(b.cc)){ return 1;}
+		  return 0; 
+	  });
+	  
+	  var allArr=latestArr.slice(0);
+	  //Max increased so all submissions show
+	  var max=1000;
+	  
+	  /* Latest tab not being used at present
+	  var cnt=0;
+	  for (var x=0;x<latestArr.length;x++){
+		if (latestArr[x].unid != null && cnt < max){
+		  $(buildIdeaHTML(data.comp.evid,latestArr[x],data.comp.path,settings)).appendTo('#latest_tab',data.comp.path);
+		  cnt++;
+		}
+		if ( x==(latestArr.length-1) && $('#latest_tab').html().length==0 ){
+		  $(snodata).appendTo('#latest_tab');
+		}
+	  }; latestArr='';
+	  */
+	  
+	  //Shuffle tab
+	  cnt=0;
+	  for (var x=0;x<randomArr.length;x++){
+		if (randomArr[x].unid != null && cnt < max){
+		  $(buildIdeaHTML(data.comp.evid,randomArr[x],data.comp.path,settings)).appendTo('#shuffle_tab');
+		  cnt++;
+		}
+		if ( x==(randomArr.length-1) && $('#shuffle_tab').html().length==0 ){
+		  $(snodata).appendTo('#shuffle_tab');
+		}
+	  }; randomArr='';
+	  
+	  /* Top rated tab not being used at present
+	  cnt=0;
+	  for (var x=0;x<topRatedArr.length;x++){
+		if (topRatedArr[x].unid != null && topRatedArr[x].va > 0 && cnt < max){
+		  $(buildIdeaHTML(data.comp.evid,topRatedArr[x],data.comp.path,settings)).appendTo('#toprated_tab');
+		  cnt++;
+		}
+		if ( x==(topRatedArr.length-1) && $('#toprated_tab').html().length==0 ){
+		  $(snodata).appendTo('#toprated_tab');
+		}
+	  }; topRatedArr='';
+	  */
+	  
+	  /* Most discussed tab not being used at present
+	  cnt=0;
+	  for (var x=0;x<mostDiscArr.length;x++){
+		if (mostDiscArr[x].unid != null && cnt < max && mostDiscArr[x].cc >= 3){
+		  $(buildIdeaHTML(data.comp.evid,mostDiscArr[x],data.comp.path,settings)).appendTo('#mostdiscussed_tab');
+		  cnt++;
+		}
+		if ( x==(mostDiscArr.length-1) && $('#mostdiscussed_tab').html().length==0 ){
+		  $(snodata).appendTo('#mostdiscussed_tab');
+		}
+	  }; mostDiscArr='';
+	  */
+	  
+	  //All submissions tab
+	  cnt=0;
+	  for (var x=0;x<allArr.length;x++){
+		if (allArr[x].unid != null){
+		  $(buildIdeaHTML(data.comp.evid,allArr[x],data.comp.path,settings)).appendTo('#allsubmissions_tab');
+		  cnt++;
+		}
+		if ( x==(allArr.length-1) && $('#allsubmissions_tab').html().length==0 ){
+		  $(snodata).appendTo('#allsubmissions_tab');
+		}
+	  }; allArr='';
+	  
+	  $.getJSON('/wbchallengecomp.nsf/ideaswinbycompjson?openview&cnt=300&comp='+compevtID+'&t=' + t, function(data){      
+      	var whtml = '';
+    	var fhtml = '';
+      
+        if (data.numideas>0){
+          data.ideas.sort(function(a,b){
+		    return a.cdba - b.cdba;
+		  });
+        
+          for (var i=0;i<data.ideas.length;i++){
+            if (data.ideas[i].ca=='Winner' || data.ideas[i].ca=='Finalist'){
+              if (data.ideas[i].ca=='Winner'){
+              	whtml += buildIdeaHTML(data.comp.evid,data.ideas[i],data.comp.path,settings);
+              }
+              if (data.ideas[i].ca=='Finalist'){
+                fhtml += buildIdeaHTML(data.comp.evid,data.ideas[i],data.comp.path,settings);
+              }
+            }
+          }
+    	}
+    	
+    	if (fhtml != '')
+    	{
+            $('<li id="finalist_label"><a href="#finalist_tab">Finalists</a></li>').prependTo('#ideas_tab ul');
+            $('<div id="finalist_tab">' + fhtml + '</div>').insertBefore('#ideas_tab div:first');
+        }
+    	if (whtml != '')
+    	{
+			$('<li id="winner_label"><a href="#winner_tab">Winners</a></li>').prependTo('#ideas_tab ul');
+            $('<div id="winner_tab">' + whtml + '</div>').insertBefore('#ideas_tab div:first');
+        }
+        
+        $('#ideas_tab').tabs({select: function(event, ui) {$(ui.tab).blur();}});
+	  	$('.ui-tabs-nav li').click(function(){$(this).find('a').click();});
+	  	$('#loading').hide();
+	  	$('.fauxborder').css('display','block');
+	  
+	  	if (isLoggedIn()==true){
+			var pimgs=$('.n02v9-recentlypub-image img');
+			for (var x=0;x<pimgs.length;x++){
+				var stemp=$(pimgs[x]).attr('class');
+				if (stemp.length>0){
+				  if (typeof authorPicts[stemp] != 'undefined'){
+					if (authorPicts[stemp].length > 0){
+					  $(pimgs[x]).attr('src',authorPicts[stemp]);
+					}
+				  }else{
+					authorPicts[stemp]='';
+					returnPictureURL(stemp);
+				  }
+				}
+			}       
+	  	} 
+      });
+    });
+  }
+function commaFormat(s){
+ return String(s).replace(/,/g,"").replace( /\d{1,3}(?=(\d{3})+(?!\d))/g , "$&,");
+}
+function print_page(){
+var shtml='<html><head>';
+shtml+='<title>Print Competition | World Bank Institute</title>';
+shtml+='<link href="/wbchallengecomp.nsf/x/reset.css" type="text/css" rel="stylesheet" />';
+shtml+='<link type="text/css" href="/wbchallengecomp.nsf/jquery-ui-1.8.13.css" rel="stylesheet" />';
+shtml+='<link href="/wbchallengecomp.nsf/x/static.css" type="text/css" rel="stylesheet" />';
+shtml+='<link type="text/css" rel="stylesheet" href="/wbchallengecomp.nsf/x/mac-fixes.css" />';
+shtml+='<link href="/wbchallengecomp.nsf/x/960-grid.css" type="text/css" rel="stylesheet" />';
+shtml+='<style>';
+shtml+='body{background:none repeat scroll 0 0 #ffffff;font-size:15px;line-height:24px;}';
+shtml+='a, a:visited, a:hover{text-decoration:none!important;color:#000!important;cursor:default!important;}';
+shtml+='.myfooter{border-top: 2px solid #980101;font-size: 9pt;font-weight: normal;padding-top: 10px;color: #666666; margin: 2ex auto;}';
+shtml+='#wrapper{width: 800px;font-family:arial;}';
+shtml+='div.wrapper-top{background:none repeat scroll 0 0 #ffffff;}';
+shtml+='div.container_24{width: auto;}';
+shtml+='div.fauxborder {padding-bottom: 0;}';
+shtml+='div.fauxborder.six{background:none;}';
+shtml+='#voteStarDisplaySmall{display:inline-block;}';
+shtml+='#voteStarDisplaySmall span{background: url("/wbchallengefiles.nsf/files/vote_star_small.gif/$file/vote_star_small.gif") repeat-x scroll left -1000px transparent;display: block;height: 13px;line-height: 13px;overflow: hidden;}';
+shtml+='#voteStarDisplaySmall span.all-stars {background-position: left top;width: 65px;}';
+shtml+='#voteStarDisplaySmall span.all-stars span.some-stars{background-position: left -13px;}';
+shtml+='.n02v9-recentlypub-stars{font-size:11px;font-family:arial;color:#666666;margin-top:12px;}';
+shtml+='.n02v9-recentlypub-stars img{margin-right:7px;}';
+shtml+='.s06v8-million-accent-text hr{color: #D9DCCF;}';
+shtml+='.s06v8-million-accent-text a{font-size: 12px!important;}';
+shtml+='.n02v9-recentlypub-super-header-tag {font-size:11px;}';
+shtml+='.n02v9-recentlypub-headline p a {font-size:16px;}';
+shtml+='.n02v9-recentlypub-author {font-size:12px;}';
+shtml+='.recentlypub {font-size: 11px;}';
+shtml+='.n02v9-recentlypub-text p {font-size: 12px;}';
+shtml+='.n02v9-recentlypub-readmore a{font-size: 12px;}';
+shtml+='.c00v3-introduction-link {width: 786px;}';
+shtml+='#idea_details hr{margin:6px 12px;}';
+shtml+='.s01v3-bank-group ul {list-style-type: none;margin: 0;padding: 0;background:none;}';
+shtml+='html > body .s01v3-bank-group ul {list-style-type: none;margin: 0;padding: 0;background:none;}';
+shtml+='.s01v3-bank-group ul li {list-style-type: none;background:none;}';
+shtml+='html > body .s01v3-bank-group ul li {list-style-type: none;background:none;}';
+shtml+='#compintro{font-size:15px;line-height:24px;}';
+shtml+-'.n02v9-recentlypub-readmore a{display:none;}';
+shtml+='h1{margin:12px;color:#000000;font-size:16px;font-weight:bold;}';
+shtml+='.s01v3-bank-group ul li span{margin:6px 0px;}';
+shtml+='#info_tab{margin:0 12px;}.n02v9-recentlypub-image{display:none;}';
+shtml+='.ui-tabs .ui-tabs-panel{margin: 12px;padding:0px;}';
+shtml+='div.n02v9-recentlypub {border-top: 1px solid #D9DCCF;}';
+shtml+='.c17v4_country_tabs{float:left;width:582px;}';
+shtml+='.n02v9-recentlypub > div{width:100%!important;}';
+shtml+='div.ui-widget-content{font-size:15px;line-height:24px;}';
+shtml+='.n02v9-recentlypub-readmore a, #statsHelp, .contactus_li{display:none;}';
+shtml+='.myheading{font-size:13px;font-weight:bold;margin-right:12px;}';
+shtml+='.snapshot_head {background-color: #D9DCCF;border-bottom: 1px solid #D9DCCF;font-size: 13px;font-weight: bold;height: 32px;line-height: 32px;margin-bottom: 6px;padding-left: 12px;}';
+shtml+='#rightinfo {border-left: 1px solid #D9DCCF;border-right: 1px solid #D9DCCF;border-bottom: 1px solid #D9DCCF;';
+shtml+='</style></head><body>';
+shtml+='<div id="wrapper">';
+shtml+='<div class="wrapper-top clearfix">';
+shtml+='<div class="container_24 clearfix">';
+shtml+='<img src="/wbchallengefiles.nsf/files/wb-logo.jpg/$file/wb-logo.jpg" border="0" /><br/><br/>';
+shtml+='<div class="fauxborder six clearfix padding-bottom40" style="display: block;">';
+shtml+='<div class="grid_15 width582">';
+shtml+='<div id="intro_wrap" class="c17v4_country_tabs border-top-red border-left border-bottom1 border-right non-printable margin-bottom20">';
+shtml+=$('#intro_wrap').html();
+shtml+='</div>';
+shtml+='<div id="info_tab_wrap" class="c17v4_country_tabs border-top-red border-left border-bottom1 border-right non-printable margin-bottom20">';
+shtml+='<h1>Competition Information</h1>';
+shtml+='<div id="info_tab" class="paragraph ui-tabs ui-widget">';
+shtml+='<div class="myheading">PRIZE/AWARDS</div>';
+shtml+='<div id="prize_tab" class="ui-tabs-panel ui-widget-content">';
+shtml+=document.getElementById('prize_tab').innerHTML;
+shtml+='</div><div class="myheading">ELIGIBILITY</div>';
+shtml+='<div id="eligibility_tab" class="ui-tabs-panel ui-widget-content">';
+shtml+=document.getElementById('eligibility_tab').innerHTML;
+shtml+='</div><div class="myheading">PARTICIPATION</div>';
+shtml+='<div id="participation_tab" class="ui-tabs-panel ui-widget-content">';
+shtml+=document.getElementById('participation_tab').innerHTML;
+shtml+='</div><div class="myheading">EVALUATIONS</div>';
+shtml+='<div id="evaluations_tab" class="ui-tabs-panel ui-widget-content">';
+shtml+=document.getElementById('evaluations_tab').innerHTML;
+shtml+='</div><div class="myheading">OFFICIAL RULES</div>';
+shtml+='<div id="rules_tab" class="paragraph ui-tabs-panel ui-widget-content">';
+shtml+=document.getElementById('rules_tab').innerHTML;
+shtml+='</div><div class="myheading">LEGAL</div>';
+shtml+='<div id="legal_tab" class="ui-tabs-panel ui-widget-content">';
+shtml+=document.getElementById('legal_tab').innerHTML;
+shtml+='</div></div></div>';
+if ($('#ideas_tab_wrap').css('display')!='none'){
+  shtml+='<div id="ideas_tab_wrap" class="c17v4_country_tabs border-top-red border-left border-bottom1 border-right non-printable margin-bottom20">';
+  shtml+='<h1>Submissions</h1>';
+  shtml+='<div id="ideas_tab" class="ui-tabs ui-widget">';
+  shtml+='<div id="shuffle_tab" class="ui-tabs-panel">';
+  shtml+=$('#shuffle_tab').html();
+  shtml+='</div></div></div>';
+}
+shtml+='</div><div id="rightinfo" class="grid_5 width194-overview border-left-print grid_24-print">';
+shtml+='<div class="s01v3-bank-group border-bottom border-top-red padding-left-right" id="ataglance">';
+shtml+=$('#ataglance').html();
+shtml+='</div><div class="s01v3-bank-group border-bottom margin-top18 padding-left-right" id="vitals">';
+shtml+=$('#vitals').html();
+shtml+='</div></div></div>';
+shtml+='<div class="myfooter">&copy;&nbsp;';
+var time=new Date();
+var year=time.getYear();
+if (year < 2000){year = year + 1900;}
+shtml+=year;
+shtml+='&nbsp;The World Bank Group, All Rights Reserved.</div>';
+shtml+='</div></div></div></div></body></html>'
+myWindow=window.open('','','width=850,height=700,scrollbars=yes');
+myWindow.document.write(shtml);
+myWindow.document.close();
+myWindow.focus();
+myWindow.print();
+}
+function showStatsHelp(){
+  $('#statsHelp').fadeToggle('slow');
+}
+function loadUpOmniture(){
+var sTitle = document.title;
+var asTitleParts = sTitle.split("-");
+while (sTitle.indexOf(",") > -1){
+sTitle = sTitle.replace(",", "");
+}
+s_pageName = sTitle;
+s_prop1 = sTitle;
+s_hier1 += ", " + sTitle;
+var s_account="wbnispwbiextcpe"; 
+var script = document.createElement("script")
+script.type = "text/javascript";
+script.src = "https://siteresources.worldbank.org/scripts/omniture/g9/s_code_remote.js" ;
+document.getElementsByTagName("body")[0].replaceChild(script, document.getElementById("remotejs"));
+}
+</script>
+<script id="remotejs" type="text/javascript" src="https://siteresources.worldbank.org/scripts/omniture/g9/s_code_remote.js"></script>
+
+<script type="text/javascript">
+var ip = "68.50.15.118";
+var userFullName = "Anonymous";
+var refurl = "";
+</script>
+</body>
+</html>
