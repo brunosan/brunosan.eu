@@ -1,4 +1,5 @@
 ---
+filename: 2012-07-19-[idea]-enviro.sense.md
 layout: post
 title: "[Idea] Enviro.sense a crowd-sourced meta-location"
 published: false
