@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Idea] Enviro.sense a crowd-sourced meta-location
+title: "[Idea] Enviro.sense a crowd-sourced meta-location"
 published: false
 tags:
 - idea
