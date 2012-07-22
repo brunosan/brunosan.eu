@@ -6,22 +6,21 @@ published: false
 tags:
 - 
 ---
-This is a map of 2 year recording my run with
+This is a map of 2 years running with
 [RunKeeper](www.runkeeper.com).
-<iframe width='500' height='300' frameBorder='1px'
+<iframe width='100%' height='300' frameBorder='1px'
 src='http://a.tiles.mapbox.com/v3/gai.map-ticb4ks9.html#14/38.913/-77.046'></iframe>
 
-I was inspired by xxx, but I was not happy with just using Google Earth,
-  I wanted to make a beautiful map. And this is how you make it with
-  [TileMill](http://www.tilemill.com) and [Mapbox](www.mapbox.com).
+  I always wanted to make a beautiful heatmap with all my tracks. I finally got some time to play with
+  [TileMill](http://www.tilemill.com) and [Mapbox](www.mapbox.com) to
+make it. The map above is the result, and these are the steps to make
+your own:
   <!--more-->
-
-  Steps are:
-  0- Run a few routes :)
-  1- Get your data from RunKeeper.
-  2- Import in TileMile
-  3- Style at will.
-  4- Use Mapbox for hosting and base layer.
+  0. Run a few routes :)
+  1. Get your data from RunKeeper.
+  2. Import in TileMile
+  3. Style at will.
+  4. Use Mapbox for hosting and base layer.
 
 
 ###Get your data###
@@ -29,7 +28,7 @@ I was inspired by xxx, but I was not happy with just using Google Earth,
   Click on "export data" [link](http://runkeeper.com/exportDataForm) under *Settings* page in RunKeeper. Select the dates, you might want all your data so just select a wide range. You´ll get the link on your email in a few minutes.
 
 
-  <img src="/media/runkeeper-export.jpg" width="50%">
+  <img src="/media/runkeeper-export.jpg" width="100%">
 
 ###Import in TileMile###
 
@@ -40,10 +39,12 @@ help from the awesome people at Mapbox and it turns to be as simple as:
 
 Then append the rest of the files in the folder:
 
-    #bin/sh
-    for file in `ls .`
-    echo yo
-    endfor
+{% highlight sh %}
+#bin/sh
+for file in `ls .`
+echo yo
+endfor
+{% endhighlight %}
 
 You will have new folder that contains shapefiles with tracks for each
 race, and also another shapefile with all measures positions
@@ -65,17 +66,21 @@ them as blood arteries, with a green shade around. Zoomed out you get
 the heatmap idea, and if you zoom in, you can see all the individual
 tracks. This gives a funny highway aspects to places I tend to use a
 lot. Here is the style I used:
-    tracks:glow {
-    line: 0;
-    }
+{% highlight css %}
+tracks:glow {
+line: 0;
+}
+{% endhighlight %}
 
 Note that I am not putting any base map. The reason is that I want to
 add one of the beautiful basemaps MapBox provides. More later. While
 styling you might want to add some background, you can do that for
 example with this:
-    Map{
-    blabla
+{% highlight css %}
+Map{
+blabla
   }
+{% endhighlight %}
 
 ###Use Mapbox for hosting and base layer.###
 
