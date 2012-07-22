@@ -204,7 +204,6 @@ BUTTONS
 
 
 .share-links {
-   overflow:hidden;
    width:auto;
    text-indent: 0;
 }
@@ -582,7 +581,12 @@ a[href^="http://localhost"]:not(.btn) {
 		text-align: center;
 	}
 	
-	section {
+	iframe {
+    border:5px #7BBDBC;
+
+  }
+  
+  section {
 		border-top: 1px solid #bcbcbc;
 		margin-top: 23px;
 		padding-top: 23px;
