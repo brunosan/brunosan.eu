@@ -535,7 +535,6 @@ a[href^="http://localhost"]:not(.btn) {
 	body {
 		width: 90%;
 		margin: 0 auto;
-		webkit-text-size-adjust: 150%;
 	}
 	
 	header {
@@ -569,7 +568,12 @@ a[href^="http://localhost"]:not(.btn) {
 		margin: 0 10px;
 	}
 	
-	article {
+	#ad {
+    display: none;
+  }
+
+
+  article {
 		width: 100%;
 		margin: 46px 0 0;
 	}
