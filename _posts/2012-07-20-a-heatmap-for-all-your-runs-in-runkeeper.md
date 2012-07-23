@@ -4,12 +4,14 @@ layout: post
 title: A heatmap for all your runs in RunKeeper
 published: true 
 tags:
-- 
+- map
+- Technology
+- GIS 
 ---
 This is a map of 2 years running around Washington DC with
 [RunKeeper](www.runkeeper.com).
 <iframe width='100%' height='300' frameBorder='1px'
-src='http://a.tiles.mapbox.com/v3/gai.map-ticb4ks9.html#13/38.913/-77.046'></iframe>
+src='http://a.tiles.mapbox.com/v3/gai.map-ticb4ks9.html#12/38.913/-77.046'></iframe>
 
   I always wanted to make a [heat]map with all my tracks. I finally got some time to play with
   [TileMill](http://www.tilemill.com) and [Mapbox](www.mapbox.com) to
@@ -34,7 +36,7 @@ your own:
 ###Import your tracks into TileMile###
 
 You need first to export the gpx tracks into a Shapefile. I got some
-help from the awesome people at Mapbox and it turns to be as simple as:
+[help](http://support.mapbox.com/discussions/tilemill/1331-gpx-to-sqlite) from the awesome people at Mapbox and it turns to be as simple as:
 
 {% highlight sh %}
     ogx2ogx first-track.gpx
@@ -43,17 +45,19 @@ help from the awesome people at Mapbox and it turns to be as simple as:
 Then append the rest of the files in the folder:
 
 {% highlight sh %}
-#bin/sh
-for file in `ls .`
-echo yo
-endfor
+#!/bin/bash
+directory=gpx/
+for file in $( ls $directory )
+do
+  ogr2ogr -append runs $directory$file
+done
 {% endhighlight %}
 
 You will have new folder that contains shapefiles with tracks for each
-race, and also another shapefile with all measures positions
+race, and also another shapefile with all measured positions
 (trackpoints). I´ll only use the tracks.
 
-In TileMill (available for free [here](http://www.mapbox.com/tilemill) create a new project.
+In TileMill (available for free [here](http://www.mapbox.com/tilemill)) create a new project.
 Then click on add layer, select the shapefile with the tracks, and click
 "style and save".
 
@@ -73,8 +77,27 @@ the heatmap idea, and if you zoom in, you can see all the individual
 tracks. This gives a funny highway aspects to places I tend to use a
 lot. Here is the style I used:
 {% highlight css %}
-tracks:glow {
-line: 0;
+#tracks::extraglow[zoom <8] {
+  line-width:5;
+  line-color:#0c7205;
+  line-opacity:1;
+  line-smooth:0;
+}
+#tracks::extraglow[zoom >8] {
+  line-width:13;
+  line-color:#0c7205;
+  line-opacity:0.18;
+  line-smooth:0.6; 
+}
+#tracks::glow {
+  line-width:5;
+  line-color:#ffce09;
+    line-opacity:0.4;
+}
+#tracks::base {
+  line-width:1;
+  line-color:#fd0505;
+  line-opacity:0.6;
 }
 {% endhighlight %}
 
@@ -88,10 +111,16 @@ activating the MapBox streets layer plugin (under settings) or adding
 a quick style only while you play with the styling:
 
 {% highlight css %}
-Map{
-blabla
-  }
+@base: #ffffff;
+Map { background-color:@base; }
 {% endhighlight %}
+
+To activate the tooltip when you put the mouse over the track, you need
+to go to the "Templates" tab (the icon with the hand), then "Teaser".
+Use the drop-down menu to select the only layer ("tracks") as the source
+of data and, under Content write the text. In my case I just use the
+*name* column in the shapefiles: `{{{name}}}` 
+
 
 ###Use Mapbox for hosting and base layer.###
 
@@ -120,11 +149,8 @@ something plain, to let the heatmap shine, so I chose "Light". You can still
 style the color palette at will to get exactly what you want, and even
 add markers if you want.
 
-
-
 Last step, once saved, it´s to embed it. You only need to click on the
-share button. There is also a static API, but it is a closed beta for
-the moment.
+share button.
 
 
 If you end up making a map with your runs, please send over a link,
