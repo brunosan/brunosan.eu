@@ -22,12 +22,12 @@ tags:
 - technology
 title: Earth Observations from Space
 ---
-The National Academies Press publishes more than <a href="http://www.nap.edu/about.html">200</a> books a year on a wide range of topics in science, engineering, and health. I am cursed with endless curiosity, so working there is a love-hate relationship. Love because I love what the NAS does, hate because <a href="http://www.flickr.com/photos/nasonurb/5037575464/">everyday I find I report "I have" to read</a>. Halfway in my fellowship, I decided to highlight the one I find most interesting*. This "the" one, (so far).
+The National Academies Press publishes more than <a href="http://www.nap.edu/about.html">200</a> books a year on a wide range of topics in science, engineering, and health. I am cursed with endless curiosity, so working there is a love-hate relationship. Love because I love what the NAS does, hate because <a href="http://www.flickr.com/photos/nasonurb/5037575464/">everyday I find I report "I have" to read</a>. Halfway in my fellowship, I decided to highlight some of the ones I find most interesting. For now, this is the one:
 <h1><a href="http://dels-old.nas.edu/basc/earthobservations/"><img class="aligncenter" title="eos_banner" src="http://nasonurb.files.wordpress.com/2010/10/eos_banner.jpg" alt="" width="100%" /></a></h1>
 <!--more-->
 
-<span style="font-size:26px;font-weight:bold;">Earth Observations from Space:</span>
-<h2>The First 50 Years of Scientific Achievements</h2>
+##Earth Observations from Space##
+###The First 50 Years of Scientific Achievements###
 The report [<a href="http://www.nap.edu/catalog.php?record_id=11991#toc">free pdf]</a> is just one of the many in the amazing field of Earth Observation and remote sensing, and its benefits. In the last years the geo revolution is unleashing astonishing possibilities, so this report provides a broad overview of what actually happened. I have training in Space Physics, rockets, satellites and data analysis. Yet, I had no idea one could indeed do <strong>so many</strong> things.
 
 This report has even a <a href="http://dels-old.nas.edu/basc/earthobservations/index.cgi">webpage</a> to help with the dissemination with animations, videos and online resources. I can only add one more things before leaving you to download the <a href="http://www.nap.edu/catalog.php?record_id=11991#toc">pdf</a>: Claudia Mengelt (Study Director), Thank you.
