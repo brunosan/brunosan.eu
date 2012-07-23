@@ -9,12 +9,12 @@ tags:
 - GIS 
 ---
 This is a map of 2 years running around Washington DC with
-[RunKeeper](www.runkeeper.com).
+[RunKeeper](http://www.runkeeper.com).
 <iframe width='100%' height='300' frameBorder='1px'
 src='http://a.tiles.mapbox.com/v3/gai.map-ticb4ks9.html#12/38.913/-77.046'></iframe>
 
   I always wanted to make a [heat]map with all my tracks. I finally got some time to play with
-  [TileMill](http://www.tilemill.com) and [Mapbox](www.mapbox.com) to
+  [TileMill](http://www.tilemill.com) and [Mapbox](http://www.mapbox.com) to
 make it. The map above is the result, and these are the steps to make
 your own:
   <!--more-->
