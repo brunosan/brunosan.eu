@@ -31,7 +31,7 @@ your own:
   Click on "export data" [link](http://runkeeper.com/exportDataForm) under *Settings* page in RunKeeper. Select the dates, you might want all your data so just select a wide range. You´ll get the link on your email in a few minutes.
 
 
-  <img src="/media/Runkeeper-export.jpg" width="100%">
+  <img src="/media/RunKeeper-export.jpg" width="100%">
 
 ###Import your tracks into TileMile###
 
