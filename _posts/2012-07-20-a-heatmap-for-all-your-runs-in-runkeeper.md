@@ -39,7 +39,7 @@ You need first to export the gpx tracks into a Shapefile. I got some
 [help](http://support.mapbox.com/discussions/tilemill/1331-gpx-to-sqlite) from the awesome people at Mapbox and it turns to be as simple as:
 
 {% highlight sh %}
-    ogx2ogx first-track.gpx
+    ogr2ogr first-track.gpx
 {% endhighlight %}
 
 Then append the rest of the files in the folder:
