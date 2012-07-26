@@ -7,7 +7,7 @@ redirects:
 ---
 <a title="Death Valley by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/4637385431/"><img class="aligncenter" src="/media/death-valley.jpeg" alt="IMG_4132" width="100%" /></a>
 
-Content of this site serve to reach out and share my interests. Thanks for stopping by. Please take a look to the <a href="http://home.brunosan.eu/contact/license/">Licensing</a>. It basically says that I am the sole responsible for the original content of this webpage, and that you can freely use its contents under the Creative Commons Attribution License.
+Content of this site serve to reach out and share my interests. Thanks for stopping by. Please take a look to the <a href="/license/">Licensing</a>. It basically says that I am the sole responsible for the original content of this webpage, and that you can freely use its contents under the Creative Commons Attribution License.
 
 I´m mostly interested in bridging the gaps between **Science, Technology and Society**. I´m fascinated by new technologies that empowers society, development, sustainability or crisis response. 
 
