@@ -1,4 +1,5 @@
 ---
+filename: 2012-07-25-power-searching-with-google.md
 layout: post
 title: Power Searching with Google
 published: true 
