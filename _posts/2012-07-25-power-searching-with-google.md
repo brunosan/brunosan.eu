@@ -8,25 +8,25 @@ tags:
 
 Just got the certificate for my participation in [Power Searching
 with
-Google](http://www.google.com/insidesearch/landing/powersearching.html). 
+Google](http://www.google.com/insidesearch/landing/powersearching.html). (Free and online)
 
 * Mid-class assessment score:  100%
 * Post-class assessment score:  100%
 
-And, as for my assesment, 90% of what is covered, I knew already. Things like filetype, search by image, search inside a site, ...
-The things I didn't know (like *intext:* or searches translated pages) are useful, but I´m
-not sure worth the time. I ended up jumping to the assessments, and from
+I have to say that I've enjoyed it, but most of what is covered seems a bit basic. If Google decided to this course it means that it is not comming knowldege, which is already interesting feedback. Things like search by filetype, by image, only inside a site, ...
+They did cover thing I did not know, like *intext:* or searches that translate pages, but I´m
+not sure it made the whole time invested worth. I ended up jumping to the assessments, and from
 the errors, go back to the indicated lesson.
 
 {% image Google-search.png %}
 <!--more-->
-The course seems close to registered folks, but
+The course material seems closed only to registered folks, but
 [Carolin](http://www.twitter.com/bumsonseats) compiled the
 [links to all the
 videos](http://bumsonseats.wordpress.com/2012/07/20/power-searching-with-google-2/).
 
 
-They did a Hangout. Just like the course, there is a very thin line
+They also did a Hangout. Just like the course, there is a very thin line
 between what you know and you want to skip, and what you don't know.
 
 {% youtube dwlpViuIYgU %}
