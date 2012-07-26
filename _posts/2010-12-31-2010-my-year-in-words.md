@@ -31,6 +31,6 @@ For my Twitter feed in 2010
 
 <!--more-->FYI: The command line magic is:
 
-<address>wget -r -Nc -mk   --include-directories=2010 {{site.baseurl}}2010
+<address>wget -r -Nc -mk   --include-directories=2010 /2010
 </address> <address>find . -name "index.html" -exec lynx -dump -print -nolist {} &gt;&gt;2010.txt \;
 </address>then paste on the <a href="http://www.wordle.net/show/wrdl/2929181/brunosan.eu">Wordle.net</a> window.

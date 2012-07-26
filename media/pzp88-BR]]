@@ -25,7 +25,7 @@ window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_b
 <title>El feudo Cubano, 2012 | </title>
 <link rel="profile" href="http://gmpg.org/xfn/11"/>
 <link rel="stylesheet" type="text/css" media="all" href="http://s1.wp.com/wp-content/themes/pub/twentyten/style.css?m=1339795534g"/>
-<link rel="pingback" href="{{site.baseurl}}xmlrpc.php"/>
+<link rel="pingback" href="/xmlrpc.php"/>
 <meta name="google-site-verification" content="bQUmYXXjTTwhDzVqGpwn1OCUwqiU-DM7IplmvN7XPEQ"/>
 <style type="text/css">#flickr_badge_source_txt{padding:0;font:11px Arial,Helvetica,Sans serif;color:#666666;}#flickr_badge_icon{display:block!important;margin:0!important;border:1px solid rgb(0,0,0)!important;}#flickr_icon_td{padding:0 5px 0 0!important;}.flickr_badge_image{text-align:center!important;}.flickr_badge_image img{border:1px solid black!important;}#flickr_badge_uber_wrapper{width:150px;}#flickr_www{display:block;text-align:center;padding:0 10px 0 10px!important;font:11px Arial,Helvetica,Sans serif!important;color:#3993ff!important;}#flickr_badge_uber_wrapper a:hover,#flickr_badge_uber_wrapper a:link,#flickr_badge_uber_wrapper a:active,#flickr_badge_uber_wrapper a:visited{text-decoration:none!important;background:inherit!important;color:#3993ff;}#flickr_badge_wrapper{background-color:#ffffff;border:solid 1px #000000}#flickr_badge_source{padding:0!important;font:11px Arial,Helvetica,Sans serif!important;color:#666666!important;}</style>
 <script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=brunosan.eu&amp;id=8438084&amp;t=1341220737&amp;back=brunosan.eu%2F2012%2F04%2F14%2Fel-feudo-cubano-2012%2F' type="text/javascript"></script>
@@ -39,9 +39,9 @@ window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_b
 			}
 		/* ]]> */
 		</script>
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="{{site.baseurl}}feed/"/>
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="{{site.baseurl}}comments/feed/"/>
-<link rel="alternate" type="application/rss+xml" title=" &raquo; El feudo Cubano,&nbsp;2012 Comments Feed" href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; El feudo Cubano,&nbsp;2012 Comments Feed" href="/2012/04/14/el-feudo-cubano-2012/feed/"/>
 <script type="text/javascript">
 /* <![CDATA[ */
 function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
@@ -55,14 +55,14 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <![endif]-->
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nasonurb.wordpress.com/xmlrpc.php?rsd"/>
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nasonurb.wordpress.com/wp-includes/wlwmanifest.xml"/>
-<link rel='prev' title='EWB Conference Heightens Awareness to Adaptation&nbsp;Issues' href='{{site.baseurl}}2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues/'/>
-<link rel='next' title='NASA Chief Scientist responds to ex-employees climate change&nbsp;deniers' href='{{site.baseurl}}2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers/'/>
+<link rel='prev' title='EWB Conference Heightens Awareness to Adaptation&nbsp;Issues' href='/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues/'/>
+<link rel='next' title='NASA Chief Scientist responds to ex-employees climate change&nbsp;deniers' href='/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers/'/>
 <meta name="generator" content="WordPress.com"/>
-<link rel='canonical' href='{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/'/>
+<link rel='canonical' href='/2012/04/14/el-feudo-cubano-2012/'/>
 <link rel='shortlink' href='http://wp.me/pzp88-BR'/>
 <link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbrunosan.eu%2F2012%2F04%2F14%2Fel-feudo-cubano-2012%2F&amp;for=wpcom-auto-discovery"/><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbrunosan.eu%2F2012%2F04%2F14%2Fel-feudo-cubano-2012%2F&amp;for=wpcom-auto-discovery"/><meta property="og:type" content="article"/>
 <meta property="og:title" content="El feudo Cubano,&nbsp;2012"/>
-<meta property="og:url" content="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/"/>
+<meta property="og:url" content="/2012/04/14/el-feudo-cubano-2012/"/>
 <meta property="og:description" content="Hace unos días estuve en la Habana, Cuba, con mi padre de vacaciones. Tenía muchas ganas de ir, y aprender. Me preguntaba ¿Qué es lo que opina el cubano de la calle? ¿Qué es el régimen revol..."/>
 <meta property="og:site_name" content=""/>
 <meta property="og:image" content="http://farm8.staticflickr.com/7247/6914300048_58829fd568.jpg?w=300&amp;h=300"/>
@@ -77,11 +77,11 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1311618091g"/>
 <link rel='openid.server' href='http://nasonurb.wordpress.com/?openidserver=1'/>
 <link rel='openid.delegate' href='http://nasonurb.wordpress.com/'/>
-<link rel="search" type="application/opensearchdescription+xml" href="{{site.baseurl}}osd.xml" title=""/>
+<link rel="search" type="application/opensearchdescription+xml" href="/osd.xml" title=""/>
 <link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com"/>
 <meta name='geo.position' content='38.910000;-77.018000'/>
 <meta name='ICBM' content='38.910000, -77.018000'/>
-<meta name="application-name" content="WordPress.com"/><meta name="msapplication-window" content="width=device-width;height=device-height"/><meta name="msapplication-tooltip" content="Bruno Sánchez-Andrade Nuño, PhD"/><meta name="msapplication-task" content="name=Subscribe;action-uri={{site.baseurl}}feed/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><style type="text/css" id="custom-background-css">body.custom-background{background-color:#000000;}</style>
+<meta name="application-name" content="WordPress.com"/><meta name="msapplication-window" content="width=device-width;height=device-height"/><meta name="msapplication-tooltip" content="Bruno Sánchez-Andrade Nuño, PhD"/><meta name="msapplication-task" content="name=Subscribe;action-uri=/feed/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><style type="text/css" id="custom-background-css">body.custom-background{background-color:#000000;}</style>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _gaq = _gaq || [];
@@ -105,17 +105,17 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div id="branding" role="banner">
 <div id="site-title">
 <span>
-<a href="{{site.baseurl}}" title="" rel="home"></a>
+<a href="/" title="" rel="home"></a>
 </span>
 </div>
 <div id="site-description">Bruno Sánchez-Andrade Nuño, PhD</div>
-<a class="home-link" href="{{site.baseurl}}" title="" rel="home">
+<a class="home-link" href="/" title="" rel="home">
 <img src="http://nasonurb.files.wordpress.com/2010/12/cropped-picture-31.jpg" width="940" height="198" alt=""/>
 </a>
 </div> 
 <div id="access" role="navigation">
 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-<div class="menu"><ul><li><a href="{{site.baseurl}}" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="{{site.baseurl}}st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="{{site.baseurl}}blog/">Blog</a></li><li class="page_item page-item-27"><a href="{{site.baseurl}}contact/">Contact</a></li><li class="page_item page-item-241"><a href="{{site.baseurl}}about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="{{site.baseurl}}about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="{{site.baseurl}}about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="{{site.baseurl}}about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="{{site.baseurl}}about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="{{site.baseurl}}about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="{{site.baseurl}}about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
 </div> 
 </div> 
 </div> 
@@ -123,13 +123,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div id="container">
 <div id="content" role="main">
 <div id="nav-above" class="navigation">
-<div class="nav-previous"><a href="{{site.baseurl}}2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues/" rel="prev"><span class="meta-nav">&larr;</span> EWB Conference Heightens Awareness to Adaptation&nbsp;Issues</a></div>
-<div class="nav-next"><a href="{{site.baseurl}}2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers/" rel="next">NASA Chief Scientist responds to ex-employees climate change&nbsp;deniers <span class="meta-nav">&rarr;</span></a></div>
+<div class="nav-previous"><a href="/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues/" rel="prev"><span class="meta-nav">&larr;</span> EWB Conference Heightens Awareness to Adaptation&nbsp;Issues</a></div>
+<div class="nav-next"><a href="/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers/" rel="next">NASA Chief Scientist responds to ex-employees climate change&nbsp;deniers <span class="meta-nav">&rarr;</span></a></div>
 </div> 
 <div id="post-2347" class="post-2347 post type-post status-publish format-standard hentry category-science tag-capitalismo tag-comunismo tag-cuba tag-habana tag-viaje">
 <h1 class="entry-title">El feudo Cubano,&nbsp;2012</h1>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Posted on</span> <a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/" title="11:39 am" rel="bookmark"><span class="entry-date">April 14, 2012</span></a> <span class="by-author"><span class="sep">by</span> <span class="author vcard"><a class="url fn n" href="{{site.baseurl}}author/nasonurb/" title="View all posts by brunosan" rel="author">brunosan</a></span> </span> </div> 
+<span class="meta-prep meta-prep-author">Posted on</span> <a href="/2012/04/14/el-feudo-cubano-2012/" title="11:39 am" rel="bookmark"><span class="entry-date">April 14, 2012</span></a> <span class="by-author"><span class="sep">by</span> <span class="author vcard"><a class="url fn n" href="/author/nasonurb/" title="View all posts by brunosan" rel="author">brunosan</a></span> </span> </div> 
 <div class="entry-content">
 <p style="text-align:center;"><a title="IMG_6309 by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/6914300048/"><img class="aligncenter" src="http://farm8.staticflickr.com/7247/6914300048_58829fd568.jpg" alt="IMG_6309" width="500" height="333"/></a></p>
 <p style="text-align:justify;">Hace unos días estuve en la Habana, Cuba, con mi padre de vacaciones. Tenía muchas ganas de ir, y aprender. Me preguntaba ¿Qué es lo que opina el cubano de la calle? ¿Qué es el régimen revolucionario, en términos reales? ¿Cómo es el sector privado allí? ¿Qué no se puede hacer? ¿Que beneficios tiene un sistema comunista? &#8230; Esto es lo que he podido medio entender después de una semana de vacaciones allí, charlando con cubanos, viviendo en un apartamento alquilado, yendo a varias ciudades en las afueras (Mariel y Viñales), visitando un hospital, una universidad, un conservatorio, varias casas particulares&#8230;</p>
@@ -170,13 +170,13 @@ Para comer, el cubano tiene una cartilla de racionamiento. Cada persona tiene de
 <div id="geo-post-2347" class="geo geo-post" style="display: none">
 <span class="latitude">38.910000</span>
 <span class="longitude">-77.018000</span>
-</div><div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sd-block sd-rating"><h3 class="sd-title">Rate this:</h3><div class="pd-rating" id="pd_rating_holder_355747_post_2347"></div></div><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-2347"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/?share=facebook" title="Share on Facebook" id="sharing-facebook-2347"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-2347" class="wpl-button "><a href='{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
+</div><div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sd-block sd-rating"><h3 class="sd-title">Rate this:</h3><div class="pd-rating" id="pd_rating_holder_355747_post_2347"></div></div><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="/2012/04/14/el-feudo-cubano-2012/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-2347"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="/2012/04/14/el-feudo-cubano-2012/?share=facebook" title="Share on Facebook" id="sharing-facebook-2347"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="/2012/04/14/el-feudo-cubano-2012/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="/2012/04/14/el-feudo-cubano-2012/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="/2012/04/14/el-feudo-cubano-2012/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-2347" class="wpl-button "><a href='/2012/04/14/el-feudo-cubano-2012/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
 <div class="entry-utility">
-This entry was posted in <a href="{{site.baseurl}}category/science/" title="View all posts in Science" rel="category tag">Science</a> and tagged <a href="{{site.baseurl}}tag/capitalismo/" rel="tag">capitalismo</a>, <a href="{{site.baseurl}}tag/comunismo/" rel="tag">comunismo</a>, <a href="{{site.baseurl}}tag/cuba/" rel="tag">cuba</a>, <a href="{{site.baseurl}}tag/habana/" rel="tag">habana</a>, <a href="{{site.baseurl}}tag/viaje/" rel="tag">viaje</a>. Bookmark the <a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/" title="Permalink to El feudo Cubano,&nbsp;2012" rel="bookmark">permalink</a>. </div> 
+This entry was posted in <a href="/category/science/" title="View all posts in Science" rel="category tag">Science</a> and tagged <a href="/tag/capitalismo/" rel="tag">capitalismo</a>, <a href="/tag/comunismo/" rel="tag">comunismo</a>, <a href="/tag/cuba/" rel="tag">cuba</a>, <a href="/tag/habana/" rel="tag">habana</a>, <a href="/tag/viaje/" rel="tag">viaje</a>. Bookmark the <a href="/2012/04/14/el-feudo-cubano-2012/" title="Permalink to El feudo Cubano,&nbsp;2012" rel="bookmark">permalink</a>. </div> 
 </div> 
 <div id="nav-below" class="navigation">
-<div class="nav-previous"><a href="{{site.baseurl}}2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues/" rel="prev"><span class="meta-nav">&larr;</span> EWB Conference Heightens Awareness to Adaptation&nbsp;Issues</a></div>
-<div class="nav-next"><a href="{{site.baseurl}}2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers/" rel="next">NASA Chief Scientist responds to ex-employees climate change&nbsp;deniers <span class="meta-nav">&rarr;</span></a></div>
+<div class="nav-previous"><a href="/2012/04/09/ewb-conference-heightens-awareness-to-adaptation-issues/" rel="prev"><span class="meta-nav">&larr;</span> EWB Conference Heightens Awareness to Adaptation&nbsp;Issues</a></div>
+<div class="nav-next"><a href="/2012/04/15/nasa-chief-scientist-responds-to-ex-employees-climate-change-deniers/" rel="next">NASA Chief Scientist responds to ex-employees climate change&nbsp;deniers <span class="meta-nav">&rarr;</span></a></div>
 </div> 
 <div id="comments">
 <h3 id="comments-title">9 Responses to <em>El feudo Cubano,&nbsp;2012</em></h3>
@@ -185,7 +185,7 @@ This entry was posted in <a href="{{site.baseurl}}category/science/" title="View
 <div id="comment-2628">
 <div class="comment-author vcard">
 <cite class="fn">David</cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2628">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2628">
 April 14, 2012 at 12:19 pm</a> </div> 
 <div class="comment-body"><p>Guauu!! Yo tambien llevo mucho preguntandome todas esas preguntas que tu tenias sobre Cuba y los cubanos. Y pensando ir a Cuba a respondermela yo mismo. He disfrutado leyendo tus &#8220;descubrimientos&#8221;&#8230; aunque en parte no me guste el resultado&#8230; aun tenia la esperanza de que hubiese mas cubanos Revolucionarios, y que estuviesen viviendo felices en su Cuba. Pero la cruda realidad no es asi.<br/>
 Gracias por tu detallada descripcion! Veo que has tenido una semanita muy intensa!!!<br/>
@@ -199,7 +199,7 @@ PS. Buenisimas fotos!!</p>
 <div id="comment-2640">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://twitter.com/brunosan' rel='external nofollow' class='url'>Bruno Sánchez-A Nuño (@brunosan)</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2640">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2640">
 April 19, 2012 at 3:40 pm</a> </div> 
 <div class="comment-body"><p>Gracias David. Es cierto, en una semana solo encontré un cubano revolucionario. Intenté hacerle preguntas, pero me fue imposible seguir su lógica. Por lo que ví, no es una sociedad feliz, pero tampoco triste. Algunos los llaman héroes, yo mas bien creo que son supervivientes. Y limitados en muchos aspectos.</p>
 <div class="pd-rating" id="pd_rating_holder_355750_comm_2640"></div></div>
@@ -213,7 +213,7 @@ April 19, 2012 at 3:40 pm</a> </div>
 <div id="comment-2630">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://www.consmupa.es' rel='external nofollow' class='url'>Roberto Martínez Vigil-Escalera</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2630">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2630">
 April 16, 2012 at 12:09 pm</a> </div> 
 <div class="comment-body"><p>Muchas gracias Bruno por tus observaciones y por tu franqueza a la hora de traducir la experiencia personal a un texto que podamos leer los demás. Muy buenas las fotos.</p>
 <div class="pd-rating" id="pd_rating_holder_355750_comm_2630"></div></div>
@@ -225,7 +225,7 @@ April 16, 2012 at 12:09 pm</a> </div>
 <div id="comment-2641">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://twitter.com/brunosan' rel='external nofollow' class='url'>Bruno Sánchez-A Nuño (@brunosan)</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2641">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2641">
 April 19, 2012 at 3:42 pm</a> </div> 
 <div class="comment-body"><p>Gracias Roberto! Una de las cosas indiscutibles de La Habana es lo fotogénica que es.</p>
 <div class="pd-rating" id="pd_rating_holder_355750_comm_2641"></div></div>
@@ -239,7 +239,7 @@ April 19, 2012 at 3:42 pm</a> </div>
 <div id="comment-2633">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://www.fedaes.org' rel='external nofollow' class='url'>Cristina</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2633">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2633">
 April 17, 2012 at 3:12 pm</a> </div> 
 <div class="comment-body"><p>¡Gracias Bruno!: vi, con calma, las fotos y son estupendas,¡pero dan una tristeza&#8230;&#8230;&#8230;&#8230;.!, sólo sonreí un poco al leer &#8220;espejuelos&#8221; <img src='http://s1.wp.com/wp-includes/images/smilies/icon_wink.gif?m=1129645325g' alt=';-)' class='wp-smiley'/> ))</p>
 <div class="pd-rating" id="pd_rating_holder_355750_comm_2633"></div></div>
@@ -251,7 +251,7 @@ April 17, 2012 at 3:12 pm</a> </div>
 <div id="comment-2642">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://twitter.com/brunosan' rel='external nofollow' class='url'>Bruno Sánchez-A Nuño (@brunosan)</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2642">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2642">
 April 19, 2012 at 3:43 pm</a> </div> 
 <div class="comment-body"><p>Espejuelos <img src='http://s0.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1129645325g' alt=':)' class='wp-smiley'/> Sí es verdad que usan un español que nos suena raro. Imagino que a ellos les pasa lo mismo cuando nos oyen hablar&#8230; Gracias por leer y compartir Cris!</p>
 <div class="pd-rating" id="pd_rating_holder_355750_comm_2642"></div></div>
@@ -265,7 +265,7 @@ April 19, 2012 at 3:43 pm</a> </div>
 <div id="comment-2639">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://theblogbyjavier.wordpress.com' rel='external nofollow' class='url'>Javier Irastorza</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2639">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2639">
 April 19, 2012 at 3:33 pm</a> </div> 
 <div class="comment-body"><p>Grandísimo post, Bruno. Demoledor. Me imaginaba algunas conclusiones. Aunque, como ya te dije al ver las fotos, la imagen que se me queda es mucho peor de lo que esperaba. El efecto que tiene la falta de incentivos es devastador. Me quedo con tu frase: &#8220;es una sociedad rota&#8221;.</p>
 <p>En otro orden, te recomiendo el libro &#8220;Poor Charlie&#8217;s Almanack&#8221; (<a href="http://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/B000XK1PEC/ref=lp_B001JRYRMA_1_1?ie=UTF8&#038;qid=1334867518&#038;sr=1-1" rel="nofollow">http://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/B000XK1PEC/ref=lp_B001JRYRMA_1_1?ie=UTF8&#038;qid=1334867518&#038;sr=1-1</a>), y en especial su último capítulo donde se centra en ver tendencias que tenemos los humanos según las situaciones nos incentiven a una cosa u otra.</p>
@@ -278,7 +278,7 @@ April 19, 2012 at 3:33 pm</a> </div>
 <div id="comment-2643">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://twitter.com/brunosan' rel='external nofollow' class='url'>Bruno Sánchez-A Nuño (@brunosan)</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2643">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2643">
 April 19, 2012 at 3:50 pm</a> </div> 
 <div class="comment-body"><p>He de confesar que me costó bastante encajar las ideas en una especie de hilo o estructura. Son tantas las cosas que te chocan, o incluso que te chocan el hecho de que te choquen o que no te dieras cuenta hasta horas después, que le di varias vueltas antes de escribir nada.</p>
 <p>El libro suena interesante&#8230; pero no hay version Kindle y la única que hay son como 100$! Me lo guardo para el wish list <img src='http://s0.wp.com/wp-includes/images/smilies/icon_smile.gif?m=1129645325g' alt=':)' class='wp-smiley'/> </p>
@@ -293,7 +293,7 @@ April 19, 2012 at 3:50 pm</a> </div>
 <div id="comment-2690">
 <div class="comment-author vcard">
 <cite class="fn">Anonymous</cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/#comment-2690">
+<div class="comment-meta commentmetadata"><a href="/2012/04/14/el-feudo-cubano-2012/#comment-2690">
 May 1, 2012 at 3:44 pm</a> </div> 
 <div class="comment-body"><p>Buenisimo Bruno! Analisis certero, inteligente y no dogmatico. Deberias venirte a alguna multilateral en Washington, de esas que empiezan por B, acaban por D y tienen una I en el medio,,, ; )</p>
 <div class="pd-rating" id="pd_rating_holder_355750_comm_2690"></div></div>
@@ -304,7 +304,7 @@ May 1, 2012 at 3:44 pm</a> </div>
 </ol>
 <div id="respond">
 <h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2012/04/14/el-feudo-cubano-2012/#respond" style="display:none;">Cancel reply</a></small></h3>
-<form action="{{site.baseurl}}wp-comments-post.php" method="post" id="commentform">
+<form action="/wp-comments-post.php" method="post" id="commentform">
 <input type="hidden" name="hc_post_as" id="hc_post_as" value="guest"/>
 <div class="comment-form-field comment-textarea">
 <label for="comment">Enter your comment here...</label>
@@ -442,7 +442,7 @@ jQuery(document).ready(function(){
 </div> 
 <div id="primary" class="widget-area" role="complementary">
 <ul class="xoxo">
-<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="{{site.baseurl}}about-2/">Scientist.</a>
+<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about-2/">Scientist.</a>
 Advocate for a world where science, technology and society listen to each other.</div>
 </li><li id="twitter-3" class="widget-container widget_twitter"><h3 class="widget-title"><a href='http://twitter.com/brunosan'>My Twitter feed</a></h3><ul class='tweets'>
 <li>Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://espn.go.com/watchespn/player?id=496987#"> espn.go.com/watchespn/play…</a> <a href="http://twitter.com/brunosan/statuses/219512842490089477" class="timesince">13&nbsp;hours&nbsp;ago</a></li>
@@ -450,19 +450,19 @@ Advocate for a world where science, technology and society listen to each other.
 <li>Remember to put your clocks back tonight. <a href="http://bsan.eu/LN1MRb"> bsan.eu/LN1MRb</a> <a href="http://twitter.com/brunosan/statuses/219182094629347329" class="timesince">1&nbsp;day&nbsp;ago</a></li>
 </ul>
 </li><li id="pages-3" class="widget-container widget_pages"><h3 class="widget-title">Sitemap</h3> <ul>
-<li class="page_item page-item-242"><a href="{{site.baseurl}}">Home</a></li>
-<li class="page_item page-item-1278"><a href="{{site.baseurl}}st-policy/">S&amp;T&nbsp;Policy</a></li>
-<li class="page_item page-item-36 current_page_parent"><a href="{{site.baseurl}}blog/">Blog</a></li>
-<li class="page_item page-item-27"><a href="{{site.baseurl}}contact/">Contact</a></li>
-<li class="page_item page-item-241"><a href="{{site.baseurl}}about-2/">About</a>
+<li class="page_item page-item-242"><a href="/">Home</a></li>
+<li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li>
+<li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li>
+<li class="page_item page-item-27"><a href="/contact/">Contact</a></li>
+<li class="page_item page-item-241"><a href="/about-2/">About</a>
 <ul class='children'>
-<li class="page_item page-item-73"><a href="{{site.baseurl}}about-2/license/">License</a></li>
-<li class="page_item page-item-1272"><a href="{{site.baseurl}}about-2/my-universe/">My&nbsp;Universe</a></li>
-<li class="page_item page-item-1014"><a href="{{site.baseurl}}about-2/papercracy/">Papercracy</a></li>
-<li class="page_item page-item-5"><a href="{{site.baseurl}}about-2/work/">Astrophysics</a>
+<li class="page_item page-item-73"><a href="/about-2/license/">License</a></li>
+<li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li>
+<li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li>
+<li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a>
 <ul class='children'>
-<li class="page_item page-item-58"><a href="{{site.baseurl}}about-2/work/apod/">APOD</a></li>
-<li class="page_item page-item-98"><a href="{{site.baseurl}}about-2/work/phd/">PhD</a></li>
+<li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li>
+<li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li>
 </ul>
 </li>
 </ul>
@@ -495,15 +495,15 @@ Some restrictions apply, please read the <a rel="license" href="http://home.brun
 </table>
 </td></tr></table>
  
-</li><li id="rss_links-3" class="widget-container widget_rss_links"><h3 class="widget-title">Subscribe</h3><p class="size-small"><a class="feed-image-link" href="{{site.baseurl}}feed/" title="Subscribe to Posts"><img src="{{site.baseurl}}i/rss/red-small.png" alt="RSS Feed"/></a>&nbsp;<a href="{{site.baseurl}}feed/" title="Subscribe to Posts">RSS - Posts</a></p>
-</li><li id="tag_cloud" class="widget-container widget_tag_cloud"><h3 class="widget-title">Category cloud</h3><div style='overflow: hidden'><a href='{{site.baseurl}}category/adaptation/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='adaptation (5)'>adaptation</a> <a href='{{site.baseurl}}category/autonomo/' style='font-size: 100%; padding: 1px; margin: 1px;' title='autónomo (3)'>autónomo</a> <a href='{{site.baseurl}}category/books/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='books (5)'>books</a> <a href='{{site.baseurl}}category/climate/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='climate (8)'>climate</a> <a href='{{site.baseurl}}category/espana/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='españa (5)'>españa</a> <a href='{{site.baseurl}}category/idea/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='idea (8)'>idea</a> <a href='{{site.baseurl}}category/mac/' style='font-size: 100%; padding: 1px; margin: 1px;' title='Mac (3)'>Mac</a> <a href='{{site.baseurl}}category/outreach/' style='font-size: 139.68023255814%; padding: 1px; margin: 1px;' title='Outreach (42)'>Outreach</a> <a href='{{site.baseurl}}category/politics/' style='font-size: 129.50581395349%; padding: 1px; margin: 1px;' title='politics (32)'>politics</a> <a href='{{site.baseurl}}category/quotes/' style='font-size: 112.20930232558%; padding: 1px; margin: 1px;' title='quotes (15)'>quotes</a> <a href='{{site.baseurl}}category/science/' style='font-size: 275%; padding: 1px; margin: 1px;' title='Science (175)'>Science</a> <a href='{{site.baseurl}}category/technology/' style='font-size: 132.55813953488%; padding: 1px; margin: 1px;' title='technology (35)'>technology</a> </div></li> </ul>
+</li><li id="rss_links-3" class="widget-container widget_rss_links"><h3 class="widget-title">Subscribe</h3><p class="size-small"><a class="feed-image-link" href="/feed/" title="Subscribe to Posts"><img src="/i/rss/red-small.png" alt="RSS Feed"/></a>&nbsp;<a href="/feed/" title="Subscribe to Posts">RSS - Posts</a></p>
+</li><li id="tag_cloud" class="widget-container widget_tag_cloud"><h3 class="widget-title">Category cloud</h3><div style='overflow: hidden'><a href='/category/adaptation/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='adaptation (5)'>adaptation</a> <a href='/category/autonomo/' style='font-size: 100%; padding: 1px; margin: 1px;' title='autónomo (3)'>autónomo</a> <a href='/category/books/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='books (5)'>books</a> <a href='/category/climate/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='climate (8)'>climate</a> <a href='/category/espana/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='españa (5)'>españa</a> <a href='/category/idea/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='idea (8)'>idea</a> <a href='/category/mac/' style='font-size: 100%; padding: 1px; margin: 1px;' title='Mac (3)'>Mac</a> <a href='/category/outreach/' style='font-size: 139.68023255814%; padding: 1px; margin: 1px;' title='Outreach (42)'>Outreach</a> <a href='/category/politics/' style='font-size: 129.50581395349%; padding: 1px; margin: 1px;' title='politics (32)'>politics</a> <a href='/category/quotes/' style='font-size: 112.20930232558%; padding: 1px; margin: 1px;' title='quotes (15)'>quotes</a> <a href='/category/science/' style='font-size: 275%; padding: 1px; margin: 1px;' title='Science (175)'>Science</a> <a href='/category/technology/' style='font-size: 132.55813953488%; padding: 1px; margin: 1px;' title='technology (35)'>technology</a> </div></li> </ul>
 </div> 
 <div id="secondary" class="widget-area" role="complementary">
 <ul class="xoxo">
 <li id="meta-2" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3> <ul>
 <li><a href="http://nasonurb.wordpress.com/wp-login.php?action=register">Register</a></li> <li><a href="http://nasonurb.wordpress.com/wp-login.php">Log in</a></li>
-<li><a href="{{site.baseurl}}feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
-<li><a href="{{site.baseurl}}comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
 <li><a href="http://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>
 </ul>
 </li> </ul>
@@ -514,23 +514,23 @@ Some restrictions apply, please read the <a rel="license" href="http://home.brun
 <div id="footer-widget-area" role="complementary">
 <div id="first" class="widget-area">
 <ul class="xoxo">
-<li id="text-6" class="widget-container widget_text"> <div class="textwidget"><a rel="license" href="{{site.baseurl}}contact/license/"><img class="aligncenter" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License" width="88" height="31"/></a>
+<li id="text-6" class="widget-container widget_text"> <div class="textwidget"><a rel="license" href="/contact/license/"><img class="aligncenter" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License" width="88" height="31"/></a>
 </div>
 </li> </ul>
 </div> 
 <div id="second" class="widget-area">
 <ul class="xoxo">
-<li id="text-8" class="widget-container widget_text"> <div class="textwidget">See <a rel="license" href="{{site.baseurl}}contact/license/">Licensing </a> for details. </div>
+<li id="text-8" class="widget-container widget_text"> <div class="textwidget">See <a rel="license" href="/contact/license/">Licensing </a> for details. </div>
 </li> </ul>
 </div> 
 <div id="third" class="widget-area">
 <ul class="xoxo">
-<li id="text-7" class="widget-container widget_text"> <div class="textwidget">Views expressed here <a rel="license" href="{{site.baseurl}}contact/license/"> are my own.</a></div>
+<li id="text-7" class="widget-container widget_text"> <div class="textwidget">Views expressed here <a rel="license" href="/contact/license/"> are my own.</a></div>
 </li> </ul>
 </div> 
 </div> 
 <div id="site-info">
-<a href="{{site.baseurl}}" title="" rel="home">
+<a href="/" title="" rel="home">
 </a>
 </div> 
 <div id="site-generator">
@@ -594,7 +594,7 @@ _qevents.push( wpcomQuantcastData );
 				e.preventDefault();
 
 				var postid = $(this).parent().attr('id').split('like-')[1];
-				$.post( '{{site.baseurl}}wp-admin/admin-ajax.php', {
+				$.post( '/wp-admin/admin-ajax.php', {
 					'action': 'wpl_record_stat',
 					'stat_name': 'loggedout_like_click'
 				} );
@@ -611,7 +611,7 @@ _qevents.push( wpcomQuantcastData );
 							<label><span>Password</span> <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="81" /></label> \
 							<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" tabindex="82" /> \
 							<input type="hidden" name="postid" value="' + postid + '" /> \
-							<input type="hidden" name="redirect_to" value="{{site.baseurl}}2012/04/14/el-feudo-cubano-2012?year=2012&monthnum=04&day=14&name=el-feudo-cubano-2012&like=1" /> \
+							<input type="hidden" name="redirect_to" value="/2012/04/14/el-feudo-cubano-2012?year=2012&monthnum=04&day=14&name=el-feudo-cubano-2012&like=1" /> \
 							<input type="hidden" name="wpl_rand" value="d95a83e608" /> \
 							<p>Not a member yet? <a href="http://wordpress.com/signup/?ref=likebox" id="wpl-signup-link">Sign up with WordPress.com</a></p> \
 						</form> \
@@ -632,7 +632,7 @@ _qevents.push( wpcomQuantcastData );
 			$('#wpl-mustlogin input#wp-submit').live( 'click', function(e) {
 				e.preventDefault();
 
-				$.post( '{{site.baseurl}}wp-admin/admin-ajax.php', {
+				$.post( '/wp-admin/admin-ajax.php', {
 					'action': 'wpl_record_stat',
 					'stat_name': 'loggedout_login_submit'
 				}, function() {
@@ -645,7 +645,7 @@ _qevents.push( wpcomQuantcastData );
 
 				var link = $(this).attr('href');
 
-				$.post( '{{site.baseurl}}wp-admin/admin-ajax.php', {
+				$.post( '/wp-admin/admin-ajax.php', {
 					'action': 'wpl_record_stat',
 					'stat_name': 'loggedout_signup_click'
 				}, function() {
@@ -657,7 +657,7 @@ _qevents.push( wpcomQuantcastData );
 	/* ]]> */
 	</script>
 <script type="text/javascript">
-		WPCOM_sharing_counts = {'{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/':'2347'};
+		WPCOM_sharing_counts = {'/2012/04/14/el-feudo-cubano-2012/':'2347'};
 	</script>
 <script>jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });</script> <div style="display:none">
 </div>
@@ -709,7 +709,7 @@ $( '#polldaddyRatings' ).after( script );
 <script type="text/javascript" charset="utf-8">
 	function sharing_plusone( obj ) { 
 		jQuery.ajax( {
-			url: '{{site.baseurl}}2012/04/14/el-feudo-cubano-2012/?share=google-plus-1',
+			url: '/2012/04/14/el-feudo-cubano-2012/?share=google-plus-1',
 			type: 'POST',
 			data: obj
 		} );

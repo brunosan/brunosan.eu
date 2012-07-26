@@ -25,7 +25,7 @@ window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_b
 <title>Contact | </title>
 <link rel="profile" href="http://gmpg.org/xfn/11"/>
 <link rel="stylesheet" type="text/css" media="all" href="http://s1.wp.com/wp-content/themes/pub/twentyten/style.css?m=1339795534g"/>
-<link rel="pingback" href="{{site.baseurl}}xmlrpc.php"/>
+<link rel="pingback" href="/xmlrpc.php"/>
 <meta name="google-site-verification" content="bQUmYXXjTTwhDzVqGpwn1OCUwqiU-DM7IplmvN7XPEQ"/>
 <style type="text/css">#flickr_badge_source_txt{padding:0;font:11px Arial,Helvetica,Sans serif;color:#666666;}#flickr_badge_icon{display:block!important;margin:0!important;border:1px solid rgb(0,0,0)!important;}#flickr_icon_td{padding:0 5px 0 0!important;}.flickr_badge_image{text-align:center!important;}.flickr_badge_image img{border:1px solid black!important;}#flickr_badge_uber_wrapper{width:150px;}#flickr_www{display:block;text-align:center;padding:0 10px 0 10px!important;font:11px Arial,Helvetica,Sans serif!important;color:#3993ff!important;}#flickr_badge_uber_wrapper a:hover,#flickr_badge_uber_wrapper a:link,#flickr_badge_uber_wrapper a:active,#flickr_badge_uber_wrapper a:visited{text-decoration:none!important;background:inherit!important;color:#3993ff;}#flickr_badge_wrapper{background-color:#ffffff;border:solid 1px #000000}#flickr_badge_source{padding:0!important;font:11px Arial,Helvetica,Sans serif!important;color:#666666!important;}</style>
 <script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=brunosan.eu&amp;id=8438084&amp;t=1341192312&amp;back=brunosan.eu%2Fcontact%2F' type="text/javascript"></script>
@@ -39,9 +39,9 @@ window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_b
 			}
 		/* ]]> */
 		</script>
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="{{site.baseurl}}feed/"/>
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="{{site.baseurl}}comments/feed/"/>
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Contact Comments Feed" href="{{site.baseurl}}contact/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Contact Comments Feed" href="/contact/feed/"/>
 <script type="text/javascript">
 /* <![CDATA[ */
 function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
@@ -55,14 +55,14 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <![endif]-->
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nasonurb.wordpress.com/xmlrpc.php?rsd"/>
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nasonurb.wordpress.com/wp-includes/wlwmanifest.xml"/>
-<link rel='prev' title='Astrophysics' href='{{site.baseurl}}about-2/work/'/>
-<link rel='next' title='Blog' href='{{site.baseurl}}blog/'/>
+<link rel='prev' title='Astrophysics' href='/about-2/work/'/>
+<link rel='next' title='Blog' href='/blog/'/>
 <meta name="generator" content="WordPress.com"/>
-<link rel='canonical' href='{{site.baseurl}}contact/'/>
+<link rel='canonical' href='/contact/'/>
 <link rel='shortlink' href='http://wp.me/Pzp88-r'/>
 <link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbrunosan.eu%2Fcontact%2F&amp;for=wpcom-auto-discovery"/><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbrunosan.eu%2Fcontact%2F&amp;for=wpcom-auto-discovery"/><meta property="og:type" content="article"/>
 <meta property="og:title" content="Contact"/>
-<meta property="og:url" content="{{site.baseurl}}contact/"/>
+<meta property="og:url" content="/contact/"/>
 <meta property="og:description" content="Dr. rer. nat. Bruno Sánchez-Andrade Nuño Google Talk / iChat: Online status Skype: nasonurb e-mail: web@brunosan.eu Mobile: +1 417 278-6676 [ USA, online ]"/>
 <meta property="og:site_name" content=""/>
 <meta property="og:image" content="http://www.google.com/talk/service/resources/chaticon.gif?w=300&amp;h=300"/>
@@ -76,9 +76,9 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1311618091g"/>
 <link rel='openid.server' href='http://nasonurb.wordpress.com/?openidserver=1'/>
 <link rel='openid.delegate' href='http://nasonurb.wordpress.com/'/>
-<link rel="search" type="application/opensearchdescription+xml" href="{{site.baseurl}}osd.xml" title=""/>
+<link rel="search" type="application/opensearchdescription+xml" href="/osd.xml" title=""/>
 <link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com"/>
-<meta name="application-name" content="WordPress.com"/><meta name="msapplication-window" content="width=device-width;height=device-height"/><meta name="msapplication-tooltip" content="Bruno Sánchez-Andrade Nuño, PhD"/><meta name="msapplication-task" content="name=Subscribe;action-uri={{site.baseurl}}feed/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><style type="text/css" id="custom-background-css">body.custom-background{background-color:#000000;}</style>
+<meta name="application-name" content="WordPress.com"/><meta name="msapplication-window" content="width=device-width;height=device-height"/><meta name="msapplication-tooltip" content="Bruno Sánchez-Andrade Nuño, PhD"/><meta name="msapplication-task" content="name=Subscribe;action-uri=/feed/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><style type="text/css" id="custom-background-css">body.custom-background{background-color:#000000;}</style>
 <script type="text/javascript">
 /* <![CDATA[ */
 var _gaq = _gaq || [];
@@ -102,17 +102,17 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div id="branding" role="banner">
 <div id="site-title">
 <span>
-<a href="{{site.baseurl}}" title="" rel="home"></a>
+<a href="/" title="" rel="home"></a>
 </span>
 </div>
 <div id="site-description">Bruno Sánchez-Andrade Nuño, PhD</div>
-<a class="home-link" href="{{site.baseurl}}" title="" rel="home">
+<a class="home-link" href="/" title="" rel="home">
 <img src="http://nasonurb.files.wordpress.com/2010/12/cropped-picture-31.jpg" width="940" height="198" alt=""/>
 </a>
 </div> 
 <div id="access" role="navigation">
 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-<div class="menu"><ul><li><a href="{{site.baseurl}}" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="{{site.baseurl}}st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36"><a href="{{site.baseurl}}blog/">Blog</a></li><li class="page_item page-item-27 current_page_item"><a href="{{site.baseurl}}contact/">Contact</a></li><li class="page_item page-item-241"><a href="{{site.baseurl}}about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="{{site.baseurl}}about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="{{site.baseurl}}about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="{{site.baseurl}}about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="{{site.baseurl}}about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="{{site.baseurl}}about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="{{site.baseurl}}about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36"><a href="/blog/">Blog</a></li><li class="page_item page-item-27 current_page_item"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
 </div> 
 </div> 
 </div> 
@@ -147,21 +147,21 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </tr>
 </tbody>
 </table>
-<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="{{site.baseurl}}contact/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-27"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="{{site.baseurl}}contact/?share=facebook" title="Share on Facebook" id="sharing-facebook-27"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="{{site.baseurl}}contact/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="{{site.baseurl}}contact/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="{{site.baseurl}}contact/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-27" class="wpl-button "><a href='{{site.baseurl}}contact/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="/contact/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-27"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="/contact/?share=facebook" title="Share on Facebook" id="sharing-facebook-27"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="/contact/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="/contact/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="/contact/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-27" class="wpl-button "><a href='/contact/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
 </div> 
 <div id="comments">
 <h3 id="comments-title">2 Responses to <em>Contact</em></h3>
 <ol class="commentlist">
 <li class="post pingback">
-<p>Pingback: <a href='{{site.baseurl}}2010/12/23/science-and-technology-advisor/' rel='external nofollow' class='url'>Science and Technology Advisor |</a></p>
+<p>Pingback: <a href='/2010/12/23/science-and-technology-advisor/' rel='external nofollow' class='url'>Science and Technology Advisor |</a></p>
 </li>
 <li class="post pingback">
-<p>Pingback: <a href='{{site.baseurl}}2011/02/15/on-my-3rd-phd-anniversary-and-unemployed-so-what/' rel='external nofollow' class='url'>On my 3rd PhD anniversary, and unemployed. So what? |</a></p>
+<p>Pingback: <a href='/2011/02/15/on-my-3rd-phd-anniversary-and-unemployed-so-what/' rel='external nofollow' class='url'>On my 3rd PhD anniversary, and unemployed. So what? |</a></p>
 </li>
 </ol>
 <div id="respond">
 <h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/contact/#respond" style="display:none;">Cancel reply</a></small></h3>
-<form action="{{site.baseurl}}wp-comments-post.php" method="post" id="commentform">
+<form action="/wp-comments-post.php" method="post" id="commentform">
 <input type="hidden" name="hc_post_as" id="hc_post_as" value="guest"/>
 <div class="comment-form-field comment-textarea">
 <label for="comment">Enter your comment here...</label>
@@ -299,7 +299,7 @@ jQuery(document).ready(function(){
 </div> 
 <div id="primary" class="widget-area" role="complementary">
 <ul class="xoxo">
-<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="{{site.baseurl}}about-2/">Scientist.</a>
+<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about-2/">Scientist.</a>
 Advocate for a world where science, technology and society listen to each other.</div>
 </li><li id="twitter-3" class="widget-container widget_twitter"><h3 class="widget-title"><a href='http://twitter.com/brunosan'>My Twitter feed</a></h3><ul class='tweets'>
 <li>Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://espn.go.com/watchespn/player?id=496987#"> espn.go.com/watchespn/play…</a> <a href="http://twitter.com/brunosan/statuses/219512842490089477" class="timesince">5&nbsp;hours&nbsp;ago</a></li>
@@ -307,19 +307,19 @@ Advocate for a world where science, technology and society listen to each other.
 <li>Remember to put your clocks back tonight. <a href="http://bsan.eu/LN1MRb"> bsan.eu/LN1MRb</a> <a href="http://twitter.com/brunosan/statuses/219182094629347329" class="timesince">1&nbsp;day&nbsp;ago</a></li>
 </ul>
 </li><li id="pages-3" class="widget-container widget_pages"><h3 class="widget-title">Sitemap</h3> <ul>
-<li class="page_item page-item-242"><a href="{{site.baseurl}}">Home</a></li>
-<li class="page_item page-item-1278"><a href="{{site.baseurl}}st-policy/">S&amp;T&nbsp;Policy</a></li>
-<li class="page_item page-item-36"><a href="{{site.baseurl}}blog/">Blog</a></li>
-<li class="page_item page-item-27 current_page_item"><a href="{{site.baseurl}}contact/">Contact</a></li>
-<li class="page_item page-item-241"><a href="{{site.baseurl}}about-2/">About</a>
+<li class="page_item page-item-242"><a href="/">Home</a></li>
+<li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li>
+<li class="page_item page-item-36"><a href="/blog/">Blog</a></li>
+<li class="page_item page-item-27 current_page_item"><a href="/contact/">Contact</a></li>
+<li class="page_item page-item-241"><a href="/about-2/">About</a>
 <ul class='children'>
-<li class="page_item page-item-73"><a href="{{site.baseurl}}about-2/license/">License</a></li>
-<li class="page_item page-item-1272"><a href="{{site.baseurl}}about-2/my-universe/">My&nbsp;Universe</a></li>
-<li class="page_item page-item-1014"><a href="{{site.baseurl}}about-2/papercracy/">Papercracy</a></li>
-<li class="page_item page-item-5"><a href="{{site.baseurl}}about-2/work/">Astrophysics</a>
+<li class="page_item page-item-73"><a href="/about-2/license/">License</a></li>
+<li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li>
+<li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li>
+<li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a>
 <ul class='children'>
-<li class="page_item page-item-58"><a href="{{site.baseurl}}about-2/work/apod/">APOD</a></li>
-<li class="page_item page-item-98"><a href="{{site.baseurl}}about-2/work/phd/">PhD</a></li>
+<li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li>
+<li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li>
 </ul>
 </li>
 </ul>
@@ -352,15 +352,15 @@ Some restrictions apply, please read the <a rel="license" href="http://home.brun
 </table>
 </td></tr></table>
  
-</li><li id="rss_links-3" class="widget-container widget_rss_links"><h3 class="widget-title">Subscribe</h3><p class="size-small"><a class="feed-image-link" href="{{site.baseurl}}feed/" title="Subscribe to Posts"><img src="{{site.baseurl}}i/rss/red-small.png" alt="RSS Feed"/></a>&nbsp;<a href="{{site.baseurl}}feed/" title="Subscribe to Posts">RSS - Posts</a></p>
-</li><li id="tag_cloud" class="widget-container widget_tag_cloud"><h3 class="widget-title">Category cloud</h3><div style='overflow: hidden'><a href='{{site.baseurl}}category/adaptation/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='adaptation (5)'>adaptation</a> <a href='{{site.baseurl}}category/autonomo/' style='font-size: 100%; padding: 1px; margin: 1px;' title='autónomo (3)'>autónomo</a> <a href='{{site.baseurl}}category/books/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='books (5)'>books</a> <a href='{{site.baseurl}}category/climate/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='climate (8)'>climate</a> <a href='{{site.baseurl}}category/espana/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='españa (5)'>españa</a> <a href='{{site.baseurl}}category/idea/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='idea (8)'>idea</a> <a href='{{site.baseurl}}category/mac/' style='font-size: 100%; padding: 1px; margin: 1px;' title='Mac (3)'>Mac</a> <a href='{{site.baseurl}}category/outreach/' style='font-size: 139.68023255814%; padding: 1px; margin: 1px;' title='Outreach (42)'>Outreach</a> <a href='{{site.baseurl}}category/politics/' style='font-size: 129.50581395349%; padding: 1px; margin: 1px;' title='politics (32)'>politics</a> <a href='{{site.baseurl}}category/quotes/' style='font-size: 112.20930232558%; padding: 1px; margin: 1px;' title='quotes (15)'>quotes</a> <a href='{{site.baseurl}}category/science/' style='font-size: 275%; padding: 1px; margin: 1px;' title='Science (175)'>Science</a> <a href='{{site.baseurl}}category/technology/' style='font-size: 132.55813953488%; padding: 1px; margin: 1px;' title='technology (35)'>technology</a> </div></li> </ul>
+</li><li id="rss_links-3" class="widget-container widget_rss_links"><h3 class="widget-title">Subscribe</h3><p class="size-small"><a class="feed-image-link" href="/feed/" title="Subscribe to Posts"><img src="/i/rss/red-small.png" alt="RSS Feed"/></a>&nbsp;<a href="/feed/" title="Subscribe to Posts">RSS - Posts</a></p>
+</li><li id="tag_cloud" class="widget-container widget_tag_cloud"><h3 class="widget-title">Category cloud</h3><div style='overflow: hidden'><a href='/category/adaptation/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='adaptation (5)'>adaptation</a> <a href='/category/autonomo/' style='font-size: 100%; padding: 1px; margin: 1px;' title='autónomo (3)'>autónomo</a> <a href='/category/books/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='books (5)'>books</a> <a href='/category/climate/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='climate (8)'>climate</a> <a href='/category/espana/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='españa (5)'>españa</a> <a href='/category/idea/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='idea (8)'>idea</a> <a href='/category/mac/' style='font-size: 100%; padding: 1px; margin: 1px;' title='Mac (3)'>Mac</a> <a href='/category/outreach/' style='font-size: 139.68023255814%; padding: 1px; margin: 1px;' title='Outreach (42)'>Outreach</a> <a href='/category/politics/' style='font-size: 129.50581395349%; padding: 1px; margin: 1px;' title='politics (32)'>politics</a> <a href='/category/quotes/' style='font-size: 112.20930232558%; padding: 1px; margin: 1px;' title='quotes (15)'>quotes</a> <a href='/category/science/' style='font-size: 275%; padding: 1px; margin: 1px;' title='Science (175)'>Science</a> <a href='/category/technology/' style='font-size: 132.55813953488%; padding: 1px; margin: 1px;' title='technology (35)'>technology</a> </div></li> </ul>
 </div> 
 <div id="secondary" class="widget-area" role="complementary">
 <ul class="xoxo">
 <li id="meta-2" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3> <ul>
 <li><a href="http://nasonurb.wordpress.com/wp-login.php?action=register">Register</a></li> <li><a href="http://nasonurb.wordpress.com/wp-login.php">Log in</a></li>
-<li><a href="{{site.baseurl}}feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
-<li><a href="{{site.baseurl}}comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
 <li><a href="http://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>
 </ul>
 </li> </ul>
@@ -371,23 +371,23 @@ Some restrictions apply, please read the <a rel="license" href="http://home.brun
 <div id="footer-widget-area" role="complementary">
 <div id="first" class="widget-area">
 <ul class="xoxo">
-<li id="text-6" class="widget-container widget_text"> <div class="textwidget"><a rel="license" href="{{site.baseurl}}contact/license/"><img class="aligncenter" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License" width="88" height="31"/></a>
+<li id="text-6" class="widget-container widget_text"> <div class="textwidget"><a rel="license" href="/contact/license/"><img class="aligncenter" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License" width="88" height="31"/></a>
 </div>
 </li> </ul>
 </div> 
 <div id="second" class="widget-area">
 <ul class="xoxo">
-<li id="text-8" class="widget-container widget_text"> <div class="textwidget">See <a rel="license" href="{{site.baseurl}}contact/license/">Licensing </a> for details. </div>
+<li id="text-8" class="widget-container widget_text"> <div class="textwidget">See <a rel="license" href="/contact/license/">Licensing </a> for details. </div>
 </li> </ul>
 </div> 
 <div id="third" class="widget-area">
 <ul class="xoxo">
-<li id="text-7" class="widget-container widget_text"> <div class="textwidget">Views expressed here <a rel="license" href="{{site.baseurl}}contact/license/"> are my own.</a></div>
+<li id="text-7" class="widget-container widget_text"> <div class="textwidget">Views expressed here <a rel="license" href="/contact/license/"> are my own.</a></div>
 </li> </ul>
 </div> 
 </div> 
 <div id="site-info">
-<a href="{{site.baseurl}}" title="" rel="home">
+<a href="/" title="" rel="home">
 </a>
 </div> 
 <div id="site-generator">
@@ -451,7 +451,7 @@ _qevents.push( wpcomQuantcastData );
 				e.preventDefault();
 
 				var postid = $(this).parent().attr('id').split('like-')[1];
-				$.post( '{{site.baseurl}}wp-admin/admin-ajax.php', {
+				$.post( '/wp-admin/admin-ajax.php', {
 					'action': 'wpl_record_stat',
 					'stat_name': 'loggedout_like_click'
 				} );
@@ -468,7 +468,7 @@ _qevents.push( wpcomQuantcastData );
 							<label><span>Password</span> <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="81" /></label> \
 							<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" tabindex="82" /> \
 							<input type="hidden" name="postid" value="' + postid + '" /> \
-							<input type="hidden" name="redirect_to" value="{{site.baseurl}}contact?pagename=contact&like=1" /> \
+							<input type="hidden" name="redirect_to" value="/contact?pagename=contact&like=1" /> \
 							<input type="hidden" name="wpl_rand" value="5a343c9713" /> \
 							<p>Not a member yet? <a href="http://wordpress.com/signup/?ref=likebox" id="wpl-signup-link">Sign up with WordPress.com</a></p> \
 						</form> \
@@ -489,7 +489,7 @@ _qevents.push( wpcomQuantcastData );
 			$('#wpl-mustlogin input#wp-submit').live( 'click', function(e) {
 				e.preventDefault();
 
-				$.post( '{{site.baseurl}}wp-admin/admin-ajax.php', {
+				$.post( '/wp-admin/admin-ajax.php', {
 					'action': 'wpl_record_stat',
 					'stat_name': 'loggedout_login_submit'
 				}, function() {
@@ -502,7 +502,7 @@ _qevents.push( wpcomQuantcastData );
 
 				var link = $(this).attr('href');
 
-				$.post( '{{site.baseurl}}wp-admin/admin-ajax.php', {
+				$.post( '/wp-admin/admin-ajax.php', {
 					'action': 'wpl_record_stat',
 					'stat_name': 'loggedout_signup_click'
 				}, function() {
@@ -514,7 +514,7 @@ _qevents.push( wpcomQuantcastData );
 	/* ]]> */
 	</script>
 <script type="text/javascript">
-		WPCOM_sharing_counts = {'{{site.baseurl}}contact/':'27'};
+		WPCOM_sharing_counts = {'/contact/':'27'};
 	</script>
 <script>jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });</script> <div style="display:none">
 </div>
@@ -544,7 +544,7 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 <script type="text/javascript" charset="utf-8">
 	function sharing_plusone( obj ) { 
 		jQuery.ajax( {
-			url: '{{site.baseurl}}contact/?share=google-plus-1',
+			url: '/contact/?share=google-plus-1',
 			type: 'POST',
 			data: obj
 		} );

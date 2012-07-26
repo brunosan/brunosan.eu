@@ -8,7 +8,7 @@ tags:
 - Science
 title: Case Study for an Invitation System using Google Apps Script.
 ---
-<a href="{{site.baseurl}}media/screen-shot-2012-05-18-at-5-38-35-pm.png"><img class="aligncenter size-full wp-image-2417" title="Screen Shot 2012-05-18 at 5.38.35 PM" src="{{site.baseurl}}media/screen-shot-2012-05-18-at-5-38-35-pm.png" width="100%"/></a></p>
+<a href="/media/screen-shot-2012-05-18-at-5-38-35-pm.png"><img class="aligncenter size-full wp-image-2417" title="Screen Shot 2012-05-18 at 5.38.35 PM" src="/media/screen-shot-2012-05-18-at-5-38-35-pm.png" width="100%"/></a></p>
 
 Earlier this month my NGO (<a href="http://gain.org">GAIN</a>) had its <a href="http://gain.org/annual-meeting-2012">annual meeting</a>. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.</p>
 <p style="text-align:justify;">I built the Invitation system almost from scratch using <a href="https://developers.google.com/apps-script/">Google Apps Script</a> (GAS), and I want to share the experience. The decision to engage on this was partly becasue I had the chance to participate on a free and open event about GAS for developers at the Google Washington DC offices (<a href="https://plus.google.com/111752662319997528493/posts/bq7NrttcWAb">thank you</a>!).</p>
@@ -36,7 +36,7 @@ My goal was to follow these premises:
 	<li>A List of the Sessions to place the <em>Confirmed</em>/<em>Declined</em>, and their comments (e.g. vegetarian)</li>
 	<li>I had to add later on few other columns to put things like Badge Name (via a formula), Comments...</li>
 </ul>
-<p style="text-align:justify;"><a href="{{site.baseurl}}media/screen-shot-2012-05-18-at-2-50-43-pm.png"><img class="aligncenter size-full wp-image-2406" title="Screen Shot 2012-05-18 at 2.50.43 PM" src="{{site.baseurl}}media/screen-shot-2012-05-18-at-2-50-43-pm.png" alt=""  width="100%" /></a></p>
+<p style="text-align:justify;"><a href="/media/screen-shot-2012-05-18-at-2-50-43-pm.png"><img class="aligncenter size-full wp-image-2406" title="Screen Shot 2012-05-18 at 2.50.43 PM" src="/media/screen-shot-2012-05-18-at-2-50-43-pm.png" alt=""  width="100%" /></a></p>
 
 <h2 style="text-align:justify;"></h2>
 <h2 style="text-align:justify;">Managing the invitations</h2>
@@ -52,7 +52,7 @@ My goal was to follow these premises:
 {% gist https://gist.github.com/2727146 %}
 <p style="text-align:justify;">The interesting bit is the <em>construct_URL </em>function. We made a reply questionnaire using Google Forms, where we write the rough agenda and we ask if you can join us.</p>
 <p style="text-align:justify;">We actually made two Google Forms, one for each group with its questions to the appropriate sessions. Instead of just adding the link to the email, <strong>I used the URL to pass along personalized pre-populated information</strong> to the form. That saves time to the person (we already know his name, and also allows us to place the Token on the last field to identify the answer). [btw Non ASCII characters like accents, can break on IE]</p>
-<p style="text-align:justify;"><a href="{{site.baseurl}}media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg"><img class="aligncenter size-full wp-image-2424" title="20120518-tuene3ea161sej1p3cbe8i1is3" src="{{site.baseurl}}media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg" alt="" width="100%" /></a></p>
+<p style="text-align:justify;"><a href="/media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg"><img class="aligncenter size-full wp-image-2424" title="20120518-tuene3ea161sej1p3cbe8i1is3" src="/media/20120518-tuene3ea161sej1p3cbe8i1is3.jpeg" alt="" width="100%" /></a></p>
 <p style="text-align:justify;">This is the simple code to make a personalized URL like <a href="https://docs.google.com/spreadsheet/viewform?formkey=dHFWZllkZWluU2ZEbFU0X0FZaFZJZHc6MQ&amp;entry_6=Dr.&amp;entry_0=Bruno&amp;entry_7=S%C3%A1nchez-Andrade%20Nu%C3%B1o&amp;entry_8=Global%20Adaptation%20Institute&amp;entry_9=Director%20for%20Science%20and%20Technology&amp;entry_5=t200w167">this one</a>.</p>
 {% gist https://gist.github.com/2727214 %}
 <p style="text-align:justify;">Now the answers are registered in another Google Spreadsheet. To check for those answers, you just need to process that Sheet looking for Tokens to match the reply with the person (they might have changed their name or other info):</p>
@@ -80,7 +80,7 @@ to add an extra menu, only to particular users.</p>
 
 <h2 style="text-align:justify;">Tracking Participation</h2>
 <p style="text-align:justify;">Having all the information in one placed and updated in almost real time, allows to easily track the progress, with only a few Google Spreadsheet Formulas:</p>
-<p style="text-align:justify;"><a href="{{site.baseurl}}media/screen-shot-2012-05-18-at-4-26-46-pm.png"><img class="aligncenter size-full wp-image-2410" title="Screen Shot 2012-05-18 at 4.26.46 PM" src="{{site.baseurl}}media/screen-shot-2012-05-18-at-4-26-46-pm.png" alt=""  width="100%" /></a></p>
+<p style="text-align:justify;"><a href="/media/screen-shot-2012-05-18-at-4-26-46-pm.png"><img class="aligncenter size-full wp-image-2410" title="Screen Shot 2012-05-18 at 4.26.46 PM" src="/media/screen-shot-2012-05-18-at-4-26-46-pm.png" alt=""  width="100%" /></a></p>
 <p style="text-align:justify;">Count number of Confirmation for a particular Session:
     `=COUNTIF('Master list'!K:K,"Confirmed")`
 Count the total number of Replies:

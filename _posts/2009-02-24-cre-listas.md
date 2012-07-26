@@ -26,7 +26,7 @@ title: Elections for the Spanish Resident Council
 
 --------------
 
-El 2 de Febrero recibí un mail enviado a la lista de inscritos en el Consulado de España en Washington. <a href="{{site.baseurl}}wp-content/uploads/2009/02/edicto-convocatoria-cre.pdf">Anuncia</a> la convocatoria de elecciones para la formación de un Consejo de Residentes Españoles  (CRE) en la zona de Washington DC.
+El 2 de Febrero recibí un mail enviado a la lista de inscritos en el Consulado de España en Washington. <a href="/wp-content/uploads/2009/02/edicto-convocatoria-cre.pdf">Anuncia</a> la convocatoria de elecciones para la formación de un Consejo de Residentes Españoles  (CRE) en la zona de Washington DC.
 
 <!--more-->Hasta ahora no tenía ni idea de la existencia de CRE ni de actividades organizadas por el consulado. Asi que, después de pensarlo bastante, he decidio animarme y pasar a la acción. Para poder entrar en las listas <strong>necesito avalar mi candidatura con 50 firmas</strong> de españoles inscritos en el Consulado de Washington. Una vez conseguidos entraré en las listas para poder ser votado en las elecciones. Para ése fin escribo este post. ¿Preguntas?
 
@@ -47,7 +47,7 @@ No tengo propuesta global. Mi interés se centra en promocionar actividades. Des
 Si decide darme su apoyo, necesito lo siguiente de usted:
 <ul>
 	<li>Asegúrese que está inscrito en el Consulado de Washington DC.</li>
-	<li>Avale mi candidatura <a href="{{site.baseurl}}wp-content/uploads/2009/02/lista1.pdf">imprimiendo y firmando este documento</a>. Ha de llegar  a mis manos antes del 10 de Abril. Puede dármelo <a href="contact">directamente</a> o a través de alguien.</li>
+	<li>Avale mi candidatura <a href="/wp-content/uploads/2009/02/lista1.pdf">imprimiendo y firmando este documento</a>. Ha de llegar  a mis manos antes del 10 de Abril. Puede dármelo <a href="contact">directamente</a> o a través de alguien.</li>
 	<li>Cuando las elecciones empiecen, vote por mi candidatura.</li>
 	<li>Salga o no elegido, mande sus comentarios y propuestas de actividades al CRE.</li>
 </ul>
