@@ -14,7 +14,7 @@ Google](http://www.google.com/insidesearch/landing/powersearching.html). (Free a
 * Mid-class assessment score:  100%
 * Post-class assessment score:  100%
 
-I have to say that I've enjoyed it, but most of what is covered seems a bit basic. If Google decided to this course it means that it is not coming knowledge, which is already interesting feedback. Things like search by filetype, by image, only inside a site, ...
+I have to say that I've enjoyed it, but most of what is covered seems a bit basic. If Google decided to this course it means that it is not common knowledge, which is already interesting feedback. Things like search by filetype, by image, only inside a site, ...
 They did cover a few tips I did not know, like *intext:* or searches that translate pages, but I´m
 not sure it made the whole time invested worth. I ended up jumping to the assessments, and from
 the errors, go back to the indicated lesson.
