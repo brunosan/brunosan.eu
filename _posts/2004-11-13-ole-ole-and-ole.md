@@ -6,7 +6,7 @@ published: true
 type: post
 tags: 
 - Science
-title: ole ole and ole
+title: Ole ole and ole
 ---
 Hey guys. look what an amazing mail  I have just received!!!!
 -----------------------
