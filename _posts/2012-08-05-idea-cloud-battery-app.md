@@ -1,4 +1,5 @@
 ---
+filename: 2012-08-05-idea-cloud-battery-app.md
 layout: post
 title: "[Idea] Cloud Battery App"
 published: true
