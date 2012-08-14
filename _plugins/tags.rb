@@ -3,7 +3,7 @@ module Jekyll
     def initialize(site, base, tag)
       @site = site
       @base = base
-      @dir =  site.config['tags_dir'] || 'tags'
+      @dir =  site.config['tags_dir'] || '/tags'
       @name = File.join(tag, 'index.html')
 
       self.process(@name)
