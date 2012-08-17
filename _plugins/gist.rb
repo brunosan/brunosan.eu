@@ -12,8 +12,9 @@ require 'uri'
 
 module Jekyll
   class GistTag < Liquid::Tag
-    
+    def initialize(tag_name, text, token)
       super
+      @text           = text
    
       @cache_disabled = false
       @cache_folder   = File.expand_path "../.gist-cache", File.dirname(__FILE__)
