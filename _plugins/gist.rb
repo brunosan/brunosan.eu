@@ -1,7 +1,7 @@
 # A Liquid tag for Jekyll sites that allows embedding Gists and showing code for non-JavaScript enabled browsers and readers.
-# by: Brandon Tilly
+
 # Source URL: https://gist.github.com/1027674
-# Post http://brandontilley.com/2011/01/31/gist-tag-for-jekyll.html
+
 #
 # Example usage: {% gist 1027674 gist_tag.rb %} //embeds a gist for this plugin
 
@@ -12,9 +12,9 @@ require 'uri'
 
 module Jekyll
   class GistTag < Liquid::Tag
-    def initialize(tag_name, text, token)
+    
       super
-      @text           = text
+   
       @cache_disabled = false
       @cache_folder   = File.expand_path "../.gist-cache", File.dirname(__FILE__)
       FileUtils.mkdir_p @cache_folder
