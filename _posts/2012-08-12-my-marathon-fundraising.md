@@ -1,4 +1,5 @@
 ---
+filename: 2012-08-12-my-marathon-fundraising.md
 layout: post
 title: My marathon fundraising
 published: false
