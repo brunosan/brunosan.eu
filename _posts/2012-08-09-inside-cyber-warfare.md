@@ -3,49 +3,59 @@ layout: post
 title: Inside Cyber Warfare
 published: true
 tags:
-- 
+- books
+- review
+- technology
+- computers 
 ---
 
-{% image cyberwarfarecover.gif 3 3 "50%" %}
+(Notice: I was given this book for free with the condition of reviewing it on my
+blog.)
+[<img width="40%" src="/media/cyberwarfarecover.gif "
+class="center">](http://shop.oreilly.com/product/9780596802165.do)
 
->Disclaimer: this blog post is part of [O’Reilly’s Blogger Review
->Program](http://oreilly.com/bloggers/)
->where you can get a free ebook or video to review in your blog or
->website. This doesn’t mean I’ll be less impartial on the content of the
->post, I’m just more serious about actually publishing it. I’d have
->bought the book and I’d have written this same text either way.
 
-I chose this title looking for an overview of the topic, some historical
+This book is disappointing and I do not recommend it.
+It seems an incomplete recollection of examples with no real 
+insights. His approach is shallow and naive (perhaps
+intentionally so). Yet, it provides interesting pointers to research
+elsewhere.
+The Wikipedia entry on [Cyberwarfare](http://en.wikipedia.org/wiki/Cyberwarfare) is far more relevant and
+updated. 
+
+<!--more-->
+There are many typos, the density of content is very low, and the style
+seems more appropriate for a blog, not an O-Reilly book. At times it
+resembles an speculative conspiracy plot. This book is not technical,
+neither I would qualify it as a good policy brief. For a good policy
+overview for the USA I would recommend the (free) NAS report on 
+[Deterring
+Cyberattacks](http://www.nap.edu/catalog.php?record_id=12997).
+
+
+Cyberwarfare moves in the forefront of technology. As technologies
+mainstream and reach larger audiences, the leading edge gets more and
+more advanced. 
+I chose this title looking for a technical overview of the topic, some historical
 examples and an evaluation of where the topic is evolving into.
 
-I respect authors very much. Pullign together any book takes times,
-energy and a lot of thought, specially with such an aim to provide an
-overview of a field that evolves so fast and ties with so many areas of
-technology, policy and security.
+
+The author, Jeffrey Carr, is the CEO of [Taia
+Global](https://www.taiaglobal.com/), "a cyber
+intelligence expert and consultant".
 
 
-Lewis Shepherd, CTO from Microsoft Institute for Advanced Technology in
-Goverments even says, right on the cover, "The necessary handbook for
-the 21st century".
+It does have a few interesting description of events, 
+policy implications and issues that make very good pointers to discuss,
+learn or research upon (outside this book). Interestingly I would recommend
+this book exatly as that, a conversation starter for the Issues and
+facts, not for the conclusions or narrative. 
 
-##Change!
-I fundamentally disagree with his approach to information assurance and
-what constitutes cyber warfare, and he's a bit too naive (perhaps
-intentionally so)
+Looking at the Index I hope to make the point that the book does cover
+appropriate topics, but it fails to provide a structure or sense of
+comprehension.
 
-Boring, unstructured and full of crap. This is the kind of person that
-gives security people a bad name.
-
-
-
-##End change
-
-The author, Jeffrey Carr, is the CEO of Taia Global, "a cyber
-intelligence expert and consultant"
-
-The Index looks also promissing. 
-
-1. Assesing the Problem
+1. Assessing the Problem
 2. The Rise of the Nonstate Hacker
 3. The Legal Status of Cyber Warfare
 4. Responding to International Cyber Attacks as Acts of War
@@ -64,3 +74,10 @@ The Index looks also promissing.
 17. US Department of Defense Cyber Command and Organizational Structure
 18. Active Defense for Cyber: A Legal Framework for Covert
     Countermeasures 
+
+
+>Disclaimer: this blog post is part of [O’Reilly’s Blogger Review
+>Program](http://oreilly.com/bloggers/)
+>where you can get a free ebook or video to review in your blog or
+>website. This doesn’t mean I’ll be less impartial on the content of the
+>review.
