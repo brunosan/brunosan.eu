@@ -17,7 +17,7 @@ class="center">](http://shop.oreilly.com/product/9780596802165.do)
 
 
 This book is disappointing and I do not recommend it.
-It seems an incomplete recollection of examples with no real 
+It seems an uncomprehensive recollection of examples with no real 
 insights. His approach is shallow and naive (perhaps
 intentionally so). Yet, it provides interesting pointers to research
 elsewhere.
@@ -35,8 +35,8 @@ Cyberattacks](http://www.nap.edu/catalog.php?record_id=12997).
 
 
 Cyberwarfare moves in the forefront of technology. As technologies
-mainstream and reach larger audiences, the leading edge gets more and
-more advanced. 
+mainstream and reach exponentially larger audiences, the leading edge
+gets very advanced and diverse. 
 I chose this title looking for a technical overview of the topic, some historical
 examples and an evaluation of where the topic is evolving into.
 
@@ -49,7 +49,7 @@ intelligence expert and consultant".
 It does have a few interesting description of events, 
 policy implications and issues that make very good pointers to discuss,
 learn or research upon (outside this book). Interestingly I would recommend
-this book exatly as that, a conversation starter for the Issues and
+this book exactly as that, a conversation starter for the Issues and
 facts, not for the conclusions or narrative. 
 
 Looking at the Index I hope to make the point that the book does cover
