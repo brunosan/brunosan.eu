@@ -7,7 +7,7 @@ layout: default
     <ol>
     {% for p in site.tags[page.tag] %}
         <li class="internal">
-            <a href="/{{ p.url }}">
+            <a href="{{ p.url }}">
                 {{ p.title }}
             </a>
             <div class="meta">

@@ -1,0 +1,53 @@
+---
+layout: default
+title: Projects
+---
+<h2>Projects</h2>
+
+Most of the work I do has no public restrictions, and I always try to
+release it whenever I feel it could be of help or makes sense. I also like to learn new
+skills, and I appreciate when people take the time to upload their
+progress and challenges.
+
+Here is a summary of some of the projects I´ve been doing in the past
+years that have some associated public material. Should you have any
+questions or want to collaborate with any of these, let me know!
+
+<div id="projects">
+  {% include projects_header.html %} 
+  
+  {% for project in site.categories.project %}
+
+    {% include projects_line.html %} 
+
+  {% endfor %}
+
+
+  {% include projects_footer.html %} 
+</div>
+
+<div id="skillstag">
+<h3>Projects by skill</h3>
+<div id="skill-cloud">
+  <ol>
+  {% for skill in site.skills %}
+  {% assign skilllist = skill[1] %}
+  {% case skilllist.size %}
+      {% when 1 %}
+      {% assign class="not-popular" %}
+      {% when 2 %}
+      {% assign class="popular" %}
+      {% when 3..9 %}
+      {% assign class="very-popular" %}
+      {% else %}
+      {% assign class="ultra-popular" %}
+  {% endcase %}
+      <li class="{{ class }}"><a href="skills/{{ skill[0] | cgi_escape }}/" title="View entries skillged '{{ skill[0] }}'">{{ skill[0] }}</a></li>
+  {% endfor %}
+  </ol>
+  </div>
+</div>
+
+</div>
+
+</div>
