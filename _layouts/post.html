@@ -2,23 +2,15 @@
 layout: default
 ---
 
-{% if page.external-url %}
-
-<div id="entry-link" class="post">
-  <h2><a href="{{ page.external-url }}">{{ page.title }}</a> →</h2>
-  <div id="post_content">
-    {{ content }}
-  </div>
-  
-
-{% else %}
 <div id="post-{{ id }}" class="post">
   <h2>{{ page.title }}</h2>
+  
+  <time>{{ page.date | date: "%e" | ordinalize }} {{page.date | date: "%B"}} {{page.date | date: "%Y"}}</time>
+  
   <div id="post_content">
     {{ content }}
   </div>
 
-{% endif %}
 
 <p><time>{{ page.date | date: "%e" | ordinalize }} {{page.date | date: "%B"}} {{page.date | date: "%Y"}}
 •
@@ -28,7 +20,16 @@ layout: default
 	        </a><a href="/2012/07/01/jekyll-pull-requests/">What is
           this?</a> 
 	</time>
-	
+
+  <div id="post_tags">
+   <p>
+   Related tags: 
+   {% for tag in page.tags %}
+     <a href="/tags/{{ tag }}">{{ tag }}</a>, 
+   {% endfor %}
+   ...</p>
+  </div>
+
         <div class='button share-links'>
           <ul>
             <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="{{site.baseurl}}{{page.url}}" data-via="brunosan">Tweet</a>
