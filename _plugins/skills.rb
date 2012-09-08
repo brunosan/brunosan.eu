@@ -34,7 +34,7 @@ module Jekyll
         return
       end
 
-      @site.skills.keys.each do |skill|
+      @site.tags.keys.each do |skill|
         detail = SkillDetail.new(@site, @site.source, skill)
         detail.render(@site.layouts, @site.site_payload)
         detail.write(@site.dest)
