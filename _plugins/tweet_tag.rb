@@ -55,7 +55,7 @@ module Jekyll
     end
 
     def cache(api_params, data)
-      cache_file = cache_file_for(api_params)
+
       File.open(cache_file, "w") do |f|
         f.write(data)
       end
