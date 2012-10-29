@@ -9,10 +9,9 @@ skills:
 ---
 
 On April, 2008 ESA
-[opened](http://www.esa.int/SPECIALS/Astronaut_Selection/SEM3TR0YUFF_0.html) applications for astronauts 
-in the European Astronaut Corps of ESA.
+[opened](http://www.esa.int/SPECIALS/Astronaut_Selection/SEM3TR0YUFF_0.html) the application phase their next round of astronauts.
 
-Selection Phases ([more
+The Selection Phases were as follows ([more
 info](http://www.esa.int/esaMI/Astronaut_Selection/SEM3V4R03EF_0.html)):
 
 1. Prospective candidates fill in an online application.  
@@ -35,7 +34,7 @@ high motivation, flexibility, team competence, empathy with others and
 emotional stability.
 
 Since I signed an NDA I will only restrict here information that is
-freely available at the ESA website and elsewhere freely online.
+freely available online, mainly from the ESA website.
 
 ###Goal
 
@@ -44,9 +43,9 @@ the experience.
 
 ###Progress
 
-* *2008-05-15*: Private Pilot medical Certificate.
-* *2008-05-17*: Application submitted.
-* *2008-05-21*: Application selected for continuing to phase 3.
+* *2008-05-15*: Obtained Private Pilot medical Certificate.
+* *2008-05-17*: Astronaut Application submitted.
+* *2008-05-21*: Application approved and selected for continuing the process.
 * *2008-07-04 *: Selected for phase 3: Psychological Test I.
 * *2008-08-xx *: Psychological tests, a full day of tests in Hamburg (Germany).
 * *2008-09-01*: Application **not** selected to continue :(
@@ -59,14 +58,14 @@ applications](http://www.esa.int/SPECIALS/Astronaut_Selection/SEM3ZTRHKHF_0.html
 Of those, [8413 application](http://www.esa.int/SPECIALS/Astronaut_Selection/SEM3ZTRHKHF_0.html) were selected to continue. 
 Just [923 were
 shortlisted](http://www.elpais.com/articulo/sociedad/Quiere/ser/astronauta/elpepisoc/20080824elpepisoc_1/Tes) to continue to the first round of
-Psychological Tests. I was one of them, but did not make it to the next
+Psychological Tests. I was one of them, but I did not make it to the next
 cut, where only [200
 applicants](http://www.esa.int/SPECIALS/Astronaut_Selection/SEMAIXRHKHF_0.html) continued.
 
 The Psychological Test I in Hamburg was an exhausting full day of tests. For courtesy to ESA, and the NDA that I signed, I cannot tell details, but you can get a glimpse of a subset of the tests we made [here](http://webservices.esa.int/eas/sampletest/).
 
-I am very honored to be selected for the first phases, and very
-frustrating to be left aside. Nonetheless I can say I am on the
+I am very honored to be selected for the first phases, and also very
+frustrated to be left aside. Nonetheless I can say I am on the
 honorable pool of 923 europeans that passed though the first phases of
 the process.
 
@@ -79,7 +78,7 @@ lodging and travel arrangements were all taken care of.
 
 [Not much available due to the NDA]
 
-* As part of the process ESA asked us to familiarized ourselves with the
+* As part of the process ESA asked us to familiarize ourselves with the
   type of tests for the first round. Some time later, they made those
 [tests available here](http://webservices.esa.int/eas/sampletest/). 
 * On my blog I talk a bit more [about the experience](/2008/09/16/bruno-astronauta/).

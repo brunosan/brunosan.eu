@@ -55,7 +55,7 @@ marvellous complexity of our Sun.
 * *2004-09-01*: Granted Fellowship to start January 2009.
 * *2005-01-05*: Moved to Göttingen to start doctorate.
 * *2007-12-01*: Written dissertation submitted.
-* *2008-02-15*: Oral Dissertation and exams done. Final grade for PhD *Magna Cum Laude*   
+* *2008-02-15*: Oral Dissertation and exams done. Final grade for PhD, *Magna Cum Laude*   
 
 #Resources
 
@@ -68,10 +68,9 @@ marvellous complexity of our Sun.
   * <a href="http://webdoc.sub.gwdg.de/diss/2008/sanchez_andrade_nuno/">From the Niedersächsische Staats- und Universitätsbibliothek Göttingen.</a>
   * <a href="http://www.solar-system-school.de/alumni2008.html#sanchez">From the International Max Planck Research School</a>.
 
-* Written Dissertation Source files. You can also obtain the source
-  files (LaTeX, figures, procedures, ...). Contact me if you are interested so I can give you the link (30 Megas).
+* Github repository with all my [Written Dissertation Source files](https://github.com/brunosan/PhD-thesis-LaTeX). This includes LaTeX files, figures, templates, ...
 
-* [Github repository](#) with all my IDL library with custom procedures for
+* Github repository with all [my IDL library](https://github.com/brunosan/myIDL) of 4 years coding with that language, also with custom procedures for
   Image and data analysis and manipulation. Also specific routines to
 handle telescope and satellite data from the hardware I used (VTT, SST,
 TESOS, TIP, ...)

@@ -6,21 +6,9 @@ keywords: brunosan, bruno, science, technology, outreach, Sanchez-Andrade, Nuno,
 change_frequency: daily
 priority: 1.0
 ---
-  {% for post in site.posts offset: 0 limit: 5 %}
 
-  {% if post.external-url %}
+  {% for post in site.categories.blog offset: 0 limit: 5 %}
   
-    <div id="entry-link">
-      	<h2><a href="{{ post.external-url }}">{{ post.title }}</a> → </h2>
-        {{ post.content }}
-        <time>{{ post.date | date_to_string }} •
-		<a id="pull-request-btn" class="btn" href="{{site.pullrequesturl}}{{ post.filename  }}" >
-			            Send edit request
-			        </a><a href="posts/2012/07/01/jekyll-pull-requests/">What is this?</a>
-			</time></p>
-    </div>
-  
-  {% else %}
     <div id="entry-post">
       <h2><a href="{{ post.url }}">{{ post.title }}</a> <a class="perma" href="{{ post.url }}">∞</a></h2>
          {{ post.content | postmorefilter: post.url, "Read the rest of this entry" }}
@@ -30,8 +18,6 @@ priority: 1.0
 			        </a><a href="2012/07/01/jekyll-pull-requests/">What is this?</a></time>
     </div>
   
-  {% endif %}
-
   {% endfor %}
 <h4 class="more">
 </h4>

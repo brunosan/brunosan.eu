@@ -14,7 +14,7 @@ layout: nil
 	</author>
 	<rights>Copyright (c) 2004-2012, Bruno Sánchez-Andrade Nuño ; some rights reserved.</rights>
 
-	{% for post in site.posts limit:10 %}
+	{% for post in site.categories.blog limit:10 %}
 	<entry>
 		<title>{{ post.title }}</title>
     <link href="{{site.baseurl}}/{{ post.url }}"/>

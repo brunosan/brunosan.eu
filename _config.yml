@@ -14,7 +14,6 @@ baseurl:      http://brunosan.eu
 rdiscount:
     extensions: [smart]
 
-#pullrequesturl : "https://github.com/brunosan/brunosan.eu/edit/master/_posts/"
 pullrequesturl : "http://prose.io/#brunosan/brunosan.eu/edit/master/_posts/"
 
 redirects: yes
