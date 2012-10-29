@@ -4,12 +4,13 @@ do
 	if grep -Fq "filename: " $file
 	then
        # code if found
-        printf ""
+        
+		echo "Cleaning the line on file: $file"
+        sed '/filename: /d'  $file > tmp.txt
+		mv tmp.txt $file
 	   # echo "File: $file already processed"
 	else
 	   	# code if not found
-    	echo "Adding the line on file: $file"
-        awk -v n=2 -v s="filename: $file" 'NR == n {print s} {print}' $file > tmp.txt
-		mv tmp.txt $file
+    	printf ""
 	fi
 done
