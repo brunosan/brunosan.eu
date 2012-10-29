@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-02-13-idea-a-public-voting-system-for-movie-awards.md
 category: blog
-filename: 2011-02-13-idea-a-public-voting-system-for-movie-awards.md
 layout: post
 status: publish
 meta: 

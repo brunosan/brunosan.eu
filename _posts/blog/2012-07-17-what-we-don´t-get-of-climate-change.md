@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-07-17-what-we-don´t-get-of-climate-change.md
 category: blog
-filename: 2012-07-17-what-we-don´t-get-of-climate-change.md
 layout: post
 title: What we don´t get of climate change
 published: false

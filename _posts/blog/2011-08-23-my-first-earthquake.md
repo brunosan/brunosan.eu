@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-08-23-my-first-earthquake.md
 category: blog
-filename: 2011-08-23-my-first-earthquake.md
 layout: post
 status: publish
 meta: 

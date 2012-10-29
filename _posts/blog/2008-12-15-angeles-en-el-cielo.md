@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-12-15-angeles-en-el-cielo.md
 category: blog
-filename: 2008-12-15-angeles-en-el-cielo.md
 layout: post
 status: publish
 meta: 

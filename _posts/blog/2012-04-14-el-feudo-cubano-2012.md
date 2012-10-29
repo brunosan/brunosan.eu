@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-04-14-el-feudo-cubano-2012.md
 category: blog
-filename: 2012-04-14-el-feudo-cubano-2012.md
 layout: post
 status: publish
 meta: 

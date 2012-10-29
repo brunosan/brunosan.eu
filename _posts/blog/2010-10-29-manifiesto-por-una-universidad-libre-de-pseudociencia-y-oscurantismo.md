@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-10-29-manifiesto-por-una-universidad-libre-de-pseudociencia-y-oscurantismo.md
 category: blog
-filename: 2010-10-29-manifiesto-por-una-universidad-libre-de-pseudociencia-y-oscurantismo.md
 layout: post
 status: publish
 meta: 

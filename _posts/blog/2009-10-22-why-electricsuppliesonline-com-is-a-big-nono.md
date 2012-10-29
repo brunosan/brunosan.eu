@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-10-22-why-electricsuppliesonline-com-is-a-big-nono.md
 category: blog
-filename: 2009-10-22-why-electricsuppliesonline-com-is-a-big-nono.md
 layout: post
 status: publish
 meta: 

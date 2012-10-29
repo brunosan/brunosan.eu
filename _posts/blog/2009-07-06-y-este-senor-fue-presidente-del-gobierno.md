@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-07-06-y-este-senor-fue-presidente-del-gobierno.md
 category: blog
-filename: 2009-07-06-y-este-senor-fue-presidente-del-gobierno.md
 layout: post
 status: publish
 meta: 

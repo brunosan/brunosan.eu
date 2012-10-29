@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-12-03-raising-above-the-gathering-storm-revisited.md
 category: blog
-filename: 2010-12-03-raising-above-the-gathering-storm-revisited.md
 layout: post
 status: publish
 meta: 

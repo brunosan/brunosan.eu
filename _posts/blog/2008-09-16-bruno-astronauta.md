@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-09-16-bruno-astronauta.md
 category: blog
-filename: 2008-09-16-bruno-astronauta.md
 layout: post
 status: publish
 meta: 

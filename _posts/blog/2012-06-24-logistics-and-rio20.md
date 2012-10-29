@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-06-24-logistics-and-rio20.md
 category: blog
-filename: 2012-06-24-logistics-and-rio20.md
 layout: post
 title: Rio+20 stuck on traffic for a year, every day
 tags:

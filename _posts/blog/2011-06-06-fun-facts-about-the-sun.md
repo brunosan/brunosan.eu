@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-06-06-fun-facts-about-the-sun.md
 category: blog
-filename: 2011-06-06-fun-facts-about-the-sun.md
 layout: post
 status: publish
 meta: 

@@ -1,4 +1,5 @@
 ---
+filename: _posts/project/2012-06-10-contribute-to-open-street-map.md
 layout: project
 category: project
 title: Contribute to Open Street Map

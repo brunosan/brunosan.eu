@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-07-07-conference-in-barcelona.md
 category: blog
-filename: 2008-07-07-conference-in-barcelona.md
 layout: post
 status: publish
 published: true

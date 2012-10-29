@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-02-14-techstate-2011-open-source-software-advocacy-from-the-state-dept.md
 category: blog
-filename: 2011-02-14-techstate-2011-open-source-software-advocacy-from-the-state-dept.md
 layout: post
 status: publish
 meta: 

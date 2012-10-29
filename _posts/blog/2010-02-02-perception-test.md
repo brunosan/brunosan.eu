@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-02-02-perception-test.md
 category: blog
-filename: 2010-02-02-perception-test.md
 layout: post
 status: publish
 meta: 

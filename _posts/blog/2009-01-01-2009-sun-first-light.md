@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-01-01-2009-sun-first-light.md
 category: blog
-filename: 2009-01-01-2009-sun-first-light.md
 layout: post
 status: publish
 meta: 

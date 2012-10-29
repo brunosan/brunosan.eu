@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-03-29-articulo-de-hugo-de-la-heras.md
 category: blog
-filename: 2009-03-29-articulo-de-hugo-de-la-heras.md
 layout: post
 status: publish
 meta: 

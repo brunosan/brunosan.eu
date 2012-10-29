@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-04-15-creativity-in-science.md
 category: blog
-filename: 2010-04-15-creativity-in-science.md
 layout: post
 status: publish
 meta: 

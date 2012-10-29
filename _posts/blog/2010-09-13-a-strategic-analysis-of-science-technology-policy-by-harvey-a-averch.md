@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-09-13-a-strategic-analysis-of-science-technology-policy-by-harvey-a-averch.md
 category: blog
-filename: 2010-09-13-a-strategic-analysis-of-science-technology-policy-by-harvey-a-averch.md
 layout: post
 status: publish
 meta: 

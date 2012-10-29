@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-04-20-seguridad-vs-libertad-en-eeuu.md
 category: blog
-filename: 2009-04-20-seguridad-vs-libertad-en-eeuu.md
 layout: post
 status: publish
 meta: 

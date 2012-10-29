@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-04-20-Apps-for-Development-a-year-later.md
 category: blog
-filename: 2012-04-20-Apps-for-Development-a-year-later.md
 layout: post
 published: true
 tags:

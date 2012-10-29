@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-01-31-full-text-feed.md
 category: blog
-filename: 2012-01-31-full-text-feed.md
 layout: post
 status: publish
 meta: 

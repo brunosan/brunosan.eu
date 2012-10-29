@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-04-17-discoverys-final-flight-3.md
 category: blog
-filename: 2012-04-17-discoverys-final-flight-3.md
 layout: post
 status: publish
 meta: 

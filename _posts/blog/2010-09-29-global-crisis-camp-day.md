@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-09-29-global-crisis-camp-day.md
 category: blog
-filename: 2010-09-29-global-crisis-camp-day.md
 layout: post
 status: publish
 meta: 

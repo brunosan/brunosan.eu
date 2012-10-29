@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-04-09-ewb-conference-heightens-awareness-to-adaptation-issues.md
 category: blog
-filename: 2012-04-09-ewb-conference-heightens-awareness-to-adaptation-issues.md
 layout: post
 status: publish
 meta: 

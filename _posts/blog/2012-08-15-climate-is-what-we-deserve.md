@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-08-15-climate-is-what-we-deserve.md
 category: blog
-filename: 2012-08-15-climate-is-what-we-deserve.md
 layout: post
 title: Climate is what we deserve
 published: false

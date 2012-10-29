@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-07-04-Higgs-Bosson-cartoon.md
 category: blog
-filename: 2012-07-04-Higgs-Bosson-cartoon.md
 layout: post
 title: Higgs Bosson cartoon
 tags:

@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-06-26-rio20-where-the-side-events-are-the-main-event.md
 category: blog
-filename: 2012-06-26-rio20-where-the-side-events-are-the-main-event.md
 layout: post
 title: Rio+20. Where the "side events" are the main event
 tags:

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-09-30-charla-divulgativa-en-oviedo.md
 category: blog
-filename: 2009-09-30-charla-divulgativa-en-oviedo.md
 layout: post
 status: publish
 meta: 

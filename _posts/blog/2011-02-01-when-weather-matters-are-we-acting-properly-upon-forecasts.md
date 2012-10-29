@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-02-01-when-weather-matters-are-we-acting-properly-upon-forecasts.md
 category: blog
-filename: 2011-02-01-when-weather-matters-are-we-acting-properly-upon-forecasts.md
 layout: post
 status: publish
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-03-25-idea-which-jobs-were-historically-respected-in-history.md
 category: blog
-filename: 2011-03-25-idea-which-jobs-were-historically-respected-in-history.md
 layout: post
 status: publish
 meta: 

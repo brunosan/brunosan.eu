@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-05-23-google-io-2010-developers-conference.md
 category: blog
-filename: 2010-05-23-google-io-2010-developers-conference.md
 layout: post
 status: publish
 meta: 

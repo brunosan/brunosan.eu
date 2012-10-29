@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-06-16-the-power-of-a-pale-blue-dot.md
 category: blog
-filename: 2010-06-16-the-power-of-a-pale-blue-dot.md
 layout: post
 status: publish
 meta: 

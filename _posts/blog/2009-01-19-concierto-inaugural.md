@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-01-19-concierto-inaugural.md
 category: blog
-filename: 2009-01-19-concierto-inaugural.md
 layout: post
 status: draft
 meta: 

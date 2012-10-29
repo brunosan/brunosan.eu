@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-05-16-sequoia-y-kings-canyon-national-park-y-un-poqutio-de-yosemite.md
 category: blog
-filename: 2010-05-16-sequoia-y-kings-canyon-national-park-y-un-poqutio-de-yosemite.md
 layout: post
 status: publish
 meta: 

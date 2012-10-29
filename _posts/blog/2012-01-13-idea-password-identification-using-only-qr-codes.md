@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-01-13-idea-password-identification-using-only-qr-codes.md
 category: blog
-filename: 2012-01-13-idea-password-identification-using-only-qr-codes.md
 layout: post
 status: publish
 meta: 

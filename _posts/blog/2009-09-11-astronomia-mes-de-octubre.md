@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-09-11-astronomia-mes-de-octubre.md
 category: blog
-filename: 2009-09-11-astronomia-mes-de-octubre.md
 layout: post
 status: publish
 meta: 

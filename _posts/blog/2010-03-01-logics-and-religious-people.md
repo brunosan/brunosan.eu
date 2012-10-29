@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-03-01-logics-and-religious-people.md
 category: blog
-filename: 2010-03-01-logics-and-religious-people.md
 layout: post
 status: publish
 meta: 

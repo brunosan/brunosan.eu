@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-01-15-this-is-my-screen-right-now-working-looking-at-the-sun.md
 category: blog
-filename: 2010-01-15-this-is-my-screen-right-now-working-looking-at-the-sun.md
 layout: post
 status: publish
 meta: 

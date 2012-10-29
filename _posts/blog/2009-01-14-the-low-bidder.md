@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-01-14-the-low-bidder.md
 category: blog
-filename: 2009-01-14-the-low-bidder.md
 layout: post
 status: published
 type: post

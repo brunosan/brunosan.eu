@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-09-18-hablando-ruso.md
 category: blog
-filename: 2008-09-18-hablando-ruso.md
 layout: post
 status: publish
 meta: 

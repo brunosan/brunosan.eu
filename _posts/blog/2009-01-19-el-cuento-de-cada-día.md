@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-01-19-el-cuento-de-cada-día.md
 category: blog
-filename: 2009-01-19-el-cuento-de-cada-día.md
 layout: post
 status: draft
 meta: 

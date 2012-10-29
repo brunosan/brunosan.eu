@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-09-20-some-space-gossiping.md
 category: blog
-filename: 2011-09-20-some-space-gossiping.md
 layout: post
 status: publish
 meta: 

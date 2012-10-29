@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-05-13-desierto-de-mojave.md
 category: blog
-filename: 2010-05-13-desierto-de-mojave.md
 layout: post
 status: publish
 meta: 

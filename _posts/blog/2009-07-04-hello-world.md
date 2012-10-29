@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-07-04-hello-world.md
 category: blog
-filename: 2009-07-04-hello-world.md
 layout: post
 status: publish
 meta: 

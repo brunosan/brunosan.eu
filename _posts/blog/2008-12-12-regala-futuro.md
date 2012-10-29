@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-12-12-regala-futuro.md
 category: blog
-filename: 2008-12-12-regala-futuro.md
 layout: post
 status: publish
 meta: 

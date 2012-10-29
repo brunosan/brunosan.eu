@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-10-10-american-guest.md
 category: blog
-filename: 2011-10-10-american-guest.md
 layout: post
 status: publish
 meta: 

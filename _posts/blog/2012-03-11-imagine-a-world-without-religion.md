@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-03-11-imagine-a-world-without-religion.md
 category: blog
-filename: 2012-03-11-imagine-a-world-without-religion.md
 layout: post
 status: publish
 meta: 

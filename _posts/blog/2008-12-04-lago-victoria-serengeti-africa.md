@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-12-04-lago-victoria-serengeti-africa.md
 category: blog
-filename: 2008-12-04-lago-victoria-serengeti-africa.md
 layout: post
 status: publish
 meta: 

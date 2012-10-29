@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-06-22-10-reasons-i-love-google-voice.md
 category: blog
-filename: 2010-06-22-10-reasons-i-love-google-voice.md
 layout: post
 status: publish
 meta: 

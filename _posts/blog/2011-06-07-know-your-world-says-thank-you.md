@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-06-07-know-your-world-says-thank-you.md
 category: blog
-filename: 2011-06-07-know-your-world-says-thank-you.md
 layout: post
 status: publish
 published: true

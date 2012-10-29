@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2005-04-18-3-months-later.md
 category: blog
-filename: 2005-04-18-3-months-later.md
 layout: post
 status: publish
 published: true

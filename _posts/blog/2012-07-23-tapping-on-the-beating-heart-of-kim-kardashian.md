@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-07-23-tapping-on-the-beating-heart-of-kim-kardashian.md
 category: blog
-filename: 2012-07-23-tapping-on-the-beating-heart-of-kim-kardashian.md
 layout: post
 title: "Tapping on 'The Beating Heart of Kim Kardashian'"
 published: true 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-06-06-with-great-knowledge-comes-great-responsibility.md
 category: blog
-filename: 2011-06-06-with-great-knowledge-comes-great-responsibility.md
 layout: post
 status: publish
 meta: 

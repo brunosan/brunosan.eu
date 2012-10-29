@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2004-09-15-astrofisico.md
 category: blog
-filename: 2004-09-15-astrofisico.md
 layout: post
 status: publish
 published: true

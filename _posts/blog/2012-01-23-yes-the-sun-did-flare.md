@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-01-23-yes-the-sun-did-flare.md
 category: blog
-filename: 2012-01-23-yes-the-sun-did-flare.md
 layout: post
 status: publish
 meta: 

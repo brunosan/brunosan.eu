@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2004-09-15-bruno-san-has-just-created-his-blog.md
 category: blog
-filename: 2004-09-15-bruno-san-has-just-created-his-blog.md
 layout: post
 status: publish
 published: true

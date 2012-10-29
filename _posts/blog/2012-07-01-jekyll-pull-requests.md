@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-07-01-jekyll-pull-requests.md
 category: blog
-filename: 2012-07-01-jekyll-pull-requests.md 
 layout: post
 title: Jekyll and Pull Requests
 tags:
@@ -84,7 +84,6 @@ page.filenmae } }`
 
 [Dan Foreman](http://www.twitter/dfm) constructed the filename using the date and title, but filenames can be different from titles. What I did is to create the variable `filename` on the YAML:
 	---
-	filename: 2012-07-01-jekyll-pull-requests.md
 	layout: post
 	title: Jekyll and Pull Requests
 	tags:

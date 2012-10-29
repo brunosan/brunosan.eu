@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-12-02-the-adaptation-agenda-at-durban.md
 category: blog
-filename: 2011-12-02-the-adaptation-agenda-at-durban.md
 layout: post
 status: publish
 meta: 

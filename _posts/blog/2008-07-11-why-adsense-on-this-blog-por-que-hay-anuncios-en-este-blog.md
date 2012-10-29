@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-07-11-why-adsense-on-this-blog-por-que-hay-anuncios-en-este-blog.md
 category: blog
-filename: 2008-07-11-why-adsense-on-this-blog-por-que-hay-anuncios-en-este-blog.md
 layout: post
 status: publish
 published: true

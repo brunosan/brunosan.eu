@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-12-31-2010-my-year-in-words.md
 category: blog
-filename: 2010-12-31-2010-my-year-in-words.md
 layout: post
 status: publish
 meta: 

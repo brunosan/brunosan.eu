@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2004-10-29-from-crete.md
 category: blog
-filename: 2004-10-29-from-crete.md
 layout: post
 status: publish
 published: true

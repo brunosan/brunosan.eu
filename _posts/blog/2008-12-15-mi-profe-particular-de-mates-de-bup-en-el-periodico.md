@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-12-15-mi-profe-particular-de-mates-de-bup-en-el-periodico.md
 category: blog
-filename: 2008-12-15-mi-profe-particular-de-mates-de-bup-en-el-periodico.md
 layout: post
 status: publish
 meta: 

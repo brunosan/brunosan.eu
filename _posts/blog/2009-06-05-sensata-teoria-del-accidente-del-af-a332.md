@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-06-05-sensata-teoria-del-accidente-del-af-a332.md
 category: blog
-filename: 2009-06-05-sensata-teoria-del-accidente-del-af-a332.md
 layout: post
 status: publish
 meta: 

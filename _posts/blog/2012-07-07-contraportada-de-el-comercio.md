@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-07-07-contraportada-de-el-comercio.md
 category: blog
-filename: 2012-07-07-contraportada-de-el-comercio.md
 layout: post
 title: Contraportada de El Comercio
 status: publish

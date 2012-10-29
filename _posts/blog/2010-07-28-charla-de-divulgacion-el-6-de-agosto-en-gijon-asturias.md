@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-07-28-charla-de-divulgacion-el-6-de-agosto-en-gijon-asturias.md
 category: blog
-filename: 2010-07-28-charla-de-divulgacion-el-6-de-agosto-en-gijon-asturias.md
 layout: post
 status: publish
 meta: 

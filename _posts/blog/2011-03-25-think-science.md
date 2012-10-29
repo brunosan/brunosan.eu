@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-03-25-think-science.md
 category: blog
-filename: 2011-03-25-think-science.md
 layout: post
 status: publish
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-01-25-a-ballistic-back-mapping-tool-for-nasastereo.md
 category: blog
-filename: 2011-01-25-a-ballistic-back-mapping-tool-for-nasastereo.md
 layout: post
 status: publish
 published: true

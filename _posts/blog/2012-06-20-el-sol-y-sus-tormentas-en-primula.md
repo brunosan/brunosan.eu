@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-06-20-el-sol-y-sus-tormentas-en-primula.md
 category: blog
-filename: 2012-06-20-el-sol-y-sus-tormentas-en-primula.md
 layout: post
 title: El Sol y sus Tormentas, en Prímula
 tags:

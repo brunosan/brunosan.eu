@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-02-12-la-vtt-en-el-apod.md
 category: blog
-filename: 2009-02-12-la-vtt-en-el-apod.md
 layout: post
 status: draft
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-07-16-astronomy-night-on-the-national-mall.md
 category: blog
-filename: 2010-07-16-astronomy-night-on-the-national-mall.md
 layout: post
 status: publish
 meta: 

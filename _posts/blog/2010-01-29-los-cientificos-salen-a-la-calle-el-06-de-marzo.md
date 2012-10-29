@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-01-29-los-cientificos-salen-a-la-calle-el-06-de-marzo.md
 category: blog
-filename: 2010-01-29-los-cientificos-salen-a-la-calle-el-06-de-marzo.md
 layout: post
 status: publish
 meta: 

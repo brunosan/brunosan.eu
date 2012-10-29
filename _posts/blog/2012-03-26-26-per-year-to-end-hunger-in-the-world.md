@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-03-26-26-per-year-to-end-hunger-in-the-world.md
 category: blog
-filename: 2012-03-26-26-per-year-to-end-hunger-in-the-world.md
 layout: post
 status: publish
 meta: 

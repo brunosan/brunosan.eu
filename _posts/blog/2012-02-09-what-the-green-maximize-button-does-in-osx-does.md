@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-02-09-what-the-green-maximize-button-does-in-osx-does.md
 category: blog
-filename: 2012-02-09-what-the-green-maximize-button-does-in-osx-does.md
 layout: post
 status: publish
 meta: 

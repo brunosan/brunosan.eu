@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-02-24-vault-webpage-updatespagina-de-vault-actualizada.md
 category: blog
-filename: 2009-02-24-vault-webpage-updatespagina-de-vault-actualizada.md
 layout: post
 status: publish
 meta: 

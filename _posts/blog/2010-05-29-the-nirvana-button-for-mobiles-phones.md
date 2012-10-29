@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-05-29-the-nirvana-button-for-mobiles-phones.md
 category: blog
-filename: 2010-05-29-the-nirvana-button-for-mobiles-phones.md
 layout: post
 status: publish
 meta: 

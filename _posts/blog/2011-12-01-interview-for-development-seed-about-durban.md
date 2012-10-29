@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-12-01-interview-for-development-seed-about-durban.md
 category: blog
-filename: 2011-12-01-interview-for-development-seed-about-durban.md
 layout: post
 status: publish
 meta: 

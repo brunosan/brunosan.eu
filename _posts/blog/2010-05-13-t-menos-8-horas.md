@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-05-13-t-menos-8-horas.md
 category: blog
-filename: 2010-05-13-t-menos-8-horas.md
 layout: post
 status: publish
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-09-16-ii-reunion-espanola-de-fisica-solar-y-heliosferica.md
 category: blog
-filename: 2009-09-16-ii-reunion-espanola-de-fisica-solar-y-heliosferica.md
 layout: post
 status: publish
 meta: 

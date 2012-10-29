@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-06-05-random-hacks-of-kindness-and-understanding-risk.md
 category: blog
-filename: 2010-06-05-random-hacks-of-kindness-and-understanding-risk.md
 layout: post
 status: publish
 meta: 

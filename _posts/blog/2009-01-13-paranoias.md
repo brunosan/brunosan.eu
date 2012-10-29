@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-01-13-paranoias.md
 category: blog
-filename: 2009-01-13-paranoias.md
 layout: post
 status: publish
 published: true

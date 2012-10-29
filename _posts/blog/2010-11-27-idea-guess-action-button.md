@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-11-27-idea-guess-action-button.md
 category: blog
-filename: 2010-11-27-idea-guess-action-button.md
 layout: post
 status: publish
 meta: 

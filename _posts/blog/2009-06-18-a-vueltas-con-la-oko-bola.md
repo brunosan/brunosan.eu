@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-06-18-a-vueltas-con-la-oko-bola.md
 category: blog
-filename: 2009-06-18-a-vueltas-con-la-oko-bola.md
 layout: post
 status: publish
 meta: 

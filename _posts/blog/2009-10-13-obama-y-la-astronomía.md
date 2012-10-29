@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-10-13-obama-y-la-astronomía.md
 category: blog
-filename: 2009-10-13-obama-y-la-astronomía.md
 layout: post
 status: draft
 meta: 

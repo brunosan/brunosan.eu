@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-09-28-make-a-beautiful-correlation-matrix.md
 category: blog
-filename: 2011-09-28-make-a-beautiful-correlation-matrix.md
 layout: post
 status: draft
 meta: 

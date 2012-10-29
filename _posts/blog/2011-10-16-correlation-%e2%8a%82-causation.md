@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-10-16-correlation-%e2%8a%82-causation.md
 category: blog
-filename: 2011-10-16-correlation-%e2%8a%82-causation.md
 layout: post
 status: publish
 meta: 

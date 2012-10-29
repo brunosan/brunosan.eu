@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-01-07-my-universe.md
 category: blog
-filename: 2011-01-07-my-universe.md
 layout: page
 status: publish
 meta: 

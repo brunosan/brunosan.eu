@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-07-20-a-heatmap-for-all-your-runs-in-runkeeper.md
 category: blog
-filename: 2012-07-20-a-heatmap-for-all-your-runs-in-runkeeper.md
 layout: post
 title: A heatmap for all your runs in RunKeeper
 published: true 

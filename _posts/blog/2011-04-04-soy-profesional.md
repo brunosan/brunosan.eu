@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-04-04-soy-profesional.md
 category: blog
-filename: 2011-04-04-soy-profesional.md
 layout: post
 status: publish
 meta: 

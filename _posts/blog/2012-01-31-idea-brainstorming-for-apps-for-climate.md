@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-01-31-idea-brainstorming-for-apps-for-climate.md
 category: blog
-filename: 2012-01-31-idea-brainstorming-for-apps-for-climate.md
 layout: post
 status: publish
 meta: 

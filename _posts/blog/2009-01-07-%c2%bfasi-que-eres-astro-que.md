@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-01-07-%c2%bfasi-que-eres-astro-que.md
 category: blog
-filename: 2009-01-07-%c2%bfasi-que-eres-astro-que.md
 layout: post
 status: publish
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2004-09-16-still-more-news.md
 category: blog
-filename: 2004-09-16-still-more-news.md
 layout: post
 status: publish
 published: true

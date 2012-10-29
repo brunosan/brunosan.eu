@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-07-15-Next-steps-in-Open-Data.md
 category: blog
-filename: 2012-07-15-Next-steps-in-Open-Data.md
 layout: post
 tags:
 - Science

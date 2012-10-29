@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-02-01-fellow-of-the-spanish-royal-society-of-physicsmiembro-numerario-de-la-real-sociedad-espanola-de-fisica.md
 category: blog
-filename: 2009-02-01-fellow-of-the-spanish-royal-society-of-physicsmiembro-numerario-de-la-real-sociedad-espanola-de-fisica.md
 layout: post
 status: publish
 meta: 

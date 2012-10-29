@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-05-24-compromiso-asturias-xxicompromiso-asturias-xxi.md
 category: blog
-filename: 2009-05-24-compromiso-asturias-xxicompromiso-asturias-xxi.md
 layout: post
 status: publish
 meta: 

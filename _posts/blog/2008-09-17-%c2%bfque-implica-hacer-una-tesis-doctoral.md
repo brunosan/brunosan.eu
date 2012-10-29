@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-09-17-%c2%bfque-implica-hacer-una-tesis-doctoral.md
 category: blog
-filename: 2008-09-17-%c2%bfque-implica-hacer-una-tesis-doctoral.md
 layout: post
 status: publish
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-04-18-eli-the-physio.md
 category: blog
-filename: 2011-04-18-eli-the-physio.md
 layout: post
 status: publish
 meta: 

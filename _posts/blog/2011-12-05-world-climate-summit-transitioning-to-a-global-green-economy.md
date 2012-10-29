@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-12-05-world-climate-summit-transitioning-to-a-global-green-economy.md
 category: blog
-filename: 2011-12-05-world-climate-summit-transitioning-to-a-global-green-economy.md
 layout: post
 status: publish
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-10-22-human-confession.md
 category: blog
-filename: 2011-10-22-human-confession.md
 layout: post
 status: draft
 meta: 

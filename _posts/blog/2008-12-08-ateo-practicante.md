@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-12-08-ateo-practicante.md
 category: blog
-filename: 2008-12-08-ateo-practicante.md
 layout: post
 status: publish
 meta: 

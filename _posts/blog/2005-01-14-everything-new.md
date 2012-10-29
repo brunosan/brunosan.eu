@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2005-01-14-everything-new.md
 category: blog
-filename: 2005-01-14-everything-new.md
 layout: post
 status: publish
 published: true

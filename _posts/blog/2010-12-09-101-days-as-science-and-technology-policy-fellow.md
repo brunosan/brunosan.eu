@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-12-09-101-days-as-science-and-technology-policy-fellow.md
 category: blog
-filename: 2010-12-09-101-days-as-science-and-technology-policy-fellow.md
 layout: post
 status: publish
 published: true

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-03-17-entrevista-a-ignacio-ugarte.md
 category: blog
-filename: 2009-03-17-entrevista-a-ignacio-ugarte.md
 layout: post
 status: publish
 meta: 

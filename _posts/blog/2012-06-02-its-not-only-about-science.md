@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-06-02-its-not-only-about-science.md
 category: blog
-filename: 2012-06-02-its-not-only-about-science.md
 layout: post
 title: It´s not about the Science, it´s the whole package
 tags:

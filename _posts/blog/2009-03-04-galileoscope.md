@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-03-04-galileoscope.md
 category: blog
-filename: 2009-03-04-galileoscope.md
 layout: post
 status: draft
 meta: 

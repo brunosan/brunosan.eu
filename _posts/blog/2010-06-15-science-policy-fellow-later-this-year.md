@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-06-15-science-policy-fellow-later-this-year.md
 category: blog
-filename: 2010-06-15-science-policy-fellow-later-this-year.md
 layout: post
 status: draft
 meta: 

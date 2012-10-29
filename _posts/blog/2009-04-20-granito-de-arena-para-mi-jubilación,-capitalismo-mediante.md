@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-04-20-granito-de-arena-para-mi-jubilación,-capitalismo-mediante.md
 category: blog
-filename: 2009-04-20-granito-de-arena-para-mi-jubilación,-capitalismo-mediante.md
 layout: post
 status: draft
 meta: 

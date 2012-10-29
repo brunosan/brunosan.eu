@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-08-12-my-marathon-fundraising.md
 category: blog
-filename: 2012-08-12-my-marathon-fundraising.md
 layout: post
 title: My marathon fundraising
 published: false

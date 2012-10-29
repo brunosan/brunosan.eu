@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-05-17-yosemite-y-central-valley.md
 category: blog
-filename: 2010-05-17-yosemite-y-central-valley.md
 layout: post
 status: publish
 meta: 

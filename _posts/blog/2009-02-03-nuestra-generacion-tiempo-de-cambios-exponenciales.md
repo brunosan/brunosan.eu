@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-02-03-nuestra-generacion-tiempo-de-cambios-exponenciales.md
 category: blog
-filename: 2009-02-03-nuestra-generacion-tiempo-de-cambios-exponenciales.md
 layout: post
 status: publish
 meta: 

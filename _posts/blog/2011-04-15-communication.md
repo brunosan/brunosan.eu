@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-04-15-communication.md
 category: blog
-filename: 2011-04-15-communication.md
 layout: post
 status: publish
 meta: 

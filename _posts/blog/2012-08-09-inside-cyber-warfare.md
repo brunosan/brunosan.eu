@@ -1,6 +1,6 @@
 ---
+filename: _posts/blog/2012-08-09-inside-cyber-warfare.md
 category: blog
-filename: 2012-08-09-inside-cyber-warfare.md
 layout: post
 title: Inside Cyber Warfare
 published: true

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-05-03-idea-synthetic-multi-beam-microphone.md
 category: blog
-filename: 2012-05-03-idea-synthetic-multi-beam-microphone.md
 layout: post
 status: publish
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2004-10-11-fromdesde-lindau-in-the-middle-of-nothing.md
 category: blog
-filename: 2004-10-11-fromdesde-lindau-in-the-middle-of-nothing.md
 layout: post
 status: publish
 published: true

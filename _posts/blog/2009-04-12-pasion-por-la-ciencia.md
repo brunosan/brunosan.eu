@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-04-12-pasion-por-la-ciencia.md
 category: blog
-filename: 2009-04-12-pasion-por-la-ciencia.md
 layout: post
 status: publish
 meta: 

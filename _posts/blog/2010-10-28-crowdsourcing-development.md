@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-10-28-crowdsourcing-development.md
 category: blog
-filename: 2010-10-28-crowdsourcing-development.md
 layout: post
 status: publish
 meta: 

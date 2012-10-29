@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2011-12-29-lo-que-más-me-chocó-cuando-llegué-a-washington,-dc.md
 category: blog
-filename: 2011-12-29-lo-que-más-me-chocó-cuando-llegué-a-washington,-dc.md
 layout: post
 status: draft
 meta: 

@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-08-03-conectar-con-wireless-al-livebox.md
 category: blog
-filename: 2008-08-03-conectar-con-wireless-al-livebox.md
 layout: post
 status: publish
 meta: 

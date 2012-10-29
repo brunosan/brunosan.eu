@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-07-20-ultimo-dia-en-la-vtt.md
 category: blog
-filename: 2008-07-20-ultimo-dia-en-la-vtt.md
 layout: post
 status: publish
 published: true

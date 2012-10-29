@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-01-13-living-without-a-phone.md
 category: blog
-filename: 2012-01-13-living-without-a-phone.md
 layout: post
 status: draft
 meta: 

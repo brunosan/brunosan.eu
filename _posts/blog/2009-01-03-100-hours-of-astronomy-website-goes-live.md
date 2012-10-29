@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-01-03-100-hours-of-astronomy-website-goes-live.md
 category: blog
-filename: 2009-01-03-100-hours-of-astronomy-website-goes-live.md
 layout: post
 status: publish
 meta: 

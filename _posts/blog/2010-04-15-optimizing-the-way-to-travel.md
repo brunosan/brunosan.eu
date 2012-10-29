@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2010-04-15-optimizing-the-way-to-travel.md
 category: blog
-filename: 2010-04-15-optimizing-the-way-to-travel.md
 layout: post
 status: publish
 published: true

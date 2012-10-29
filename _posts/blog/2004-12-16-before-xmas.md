@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2004-12-16-before-xmas.md
 category: blog
-filename: 2004-12-16-before-xmas.md
 layout: post
 status: publish
 published: true

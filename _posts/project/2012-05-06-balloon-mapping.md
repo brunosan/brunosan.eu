@@ -1,4 +1,5 @@
 ---
+filename: _posts/project/2012-05-06-balloon-mapping.md
 layout: project
 category: project
 title: Balloon mapping

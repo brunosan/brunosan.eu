@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2005-04-18-entrevista-el-estudiador-de-estrellas.md
 category: blog
-filename: 2005-04-18-entrevista-el-estudiador-de-estrellas.md
 layout: post
 status: publish
 published: true

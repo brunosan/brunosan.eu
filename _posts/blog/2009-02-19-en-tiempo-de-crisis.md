@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-02-19-en-tiempo-de-crisis.md
 category: blog
-filename: 2009-02-19-en-tiempo-de-crisis.md
 layout: post
 status: draft
 meta: 

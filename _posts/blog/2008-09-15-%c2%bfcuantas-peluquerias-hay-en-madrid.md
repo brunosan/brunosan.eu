@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2008-09-15-%c2%bfcuantas-peluquerias-hay-en-madrid.md
 category: blog
-filename: 2008-09-15-%c2%bfcuantas-peluquerias-hay-en-madrid.md
 layout: post
 status: publish
 meta: 

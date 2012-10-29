@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-06-15-reflexiones-de-las-elecciones-del-cre.md
 category: blog
-filename: 2009-06-15-reflexiones-de-las-elecciones-del-cre.md
 layout: post
 status: publish
 meta: 

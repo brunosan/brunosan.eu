@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2009-04-01-interview-with-pere-estupinyaentrevista-con-pere-estupinya.md
 category: blog
-filename: 2009-04-01-interview-with-pere-estupinyaentrevista-con-pere-estupinya.md
 layout: post
 status: publish
 meta: 

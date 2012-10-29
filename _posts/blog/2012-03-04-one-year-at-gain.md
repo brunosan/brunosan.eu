@@ -1,6 +1,6 @@
 --- 
+filename: _posts/blog/2012-03-04-one-year-at-gain.md
 category: blog
-filename: 2012-03-04-one-year-at-gain.md
 layout: post
 status: publish
 published: true
