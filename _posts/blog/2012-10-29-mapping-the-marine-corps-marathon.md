@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2012-10-29-mapping-the-marine-corps-marathon.md
 category: blog
 layout: post
 title: Mapping the Marine Corps Marathon

@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2012-09-27-mapping-worlds-population.md
 layout: post
 title: Mapping worlds population
 published: false
