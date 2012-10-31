@@ -8,7 +8,27 @@ tags:
 - 
 ---
 
-Description
+[Map]
+
+Last week I ran my first Marathon, the 2012 [Marine Corps Marathon](http://www.marinemarathon.com/). It was my first marathon and it was a **great experience**. I did it 3h54m17s, much better than I expected. To get to that point I trained hard, I researched it, and I geeked with the data. I want to talk about that.
+<!--more-->
+
+
+I can proudly say that the marathon was a challenge, but not a suffering. I did the last mile with a smile on my face and a strong 15 seconds full sprint to the finish line. Two days later I barely have soreness in the legs, my toe nails are intact, no blisters, injuries or particular pain. I base this success in 3 things: Stride, Fitness, Nutrition, Motivation.
+
+###1. Stride
+
+"Every year as many as eighty percent of runners suffer an injury that will keep them off the streets for a month", quotes [Christopher McDougall](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189). It does't make much sense to me. Running should be natural, why do we get so many injuries? These kind of thoughts lead me to try cold turkey the Vibram [Fivefingers](http://www.vibramfivefingers.com/index.htm). I read a couple of articles, I followed a couple of thread and that was enough for me to try the **front food landing stride**
+
+{% image MCM-stride.png %}
+
+###2. Fitness
+
+
+###3. Nutrition
+
+
+###4. Motivation
 
 ##How I got the data
 
@@ -38,3 +58,13 @@ Btw, to import the data in Python I used:
 	        runner.append(row)
 	finally:
 	    f.close()
+
+	
+{% image histo_Excess_time_gender copy.png %}
+{% image histo_Excess_time_gender.png %}
+{% image histo_gender_2.png %}
+{% image histo_gender.png %}
+{% image histo_time_gender_2.png %}
+{% image histo_time_gender.png %}
+{% image scatter-4.png %}
+{% image scatter.png %}
