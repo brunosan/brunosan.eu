@@ -25,7 +25,7 @@ I can proudly say that the marathon was a challenge, but not a suffering. I did 
 The key points to me were:
 
 * The [running man hypothesis](http://en.wikipedia.org/wiki/Endurance_running_hypothesis) makes sense to me.
-* I've seen and stretched an Aquiles tendon when on a dead body (at the Faculty of Medicine). They really have some elasticity. I can see how part of the landing weight is absorved by the elasticity and released when you push, minimizing the energy to run.
+* I've seen and stretched an Aquiles tendon on a dead body (at the Faculty of Medicine). They really have some elasticity. I can see how part of the landing weight is absorbed by the elasticity and released when you push, minimizing the energy to run. Incidentally you can see on the image above a fellow runner with prosthetic limb using the same principle with the arched metal.
 * Landing on the ball of the foot really uses the feet that otherwise are quite passive.
 * The posture makes you run standing more straight, landing right above the center of mass, so there is no vector pointing backwards. It's just *pushing back* all the time.
 * The posture also make you land already with a slight bend on the knee, minimizing the impact on the knee and hips. 
