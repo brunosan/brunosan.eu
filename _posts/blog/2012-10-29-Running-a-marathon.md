@@ -118,9 +118,9 @@ With this I can get some insights on the Marathon:
 * Runners came from 4274 different Locations.
 * 42,5% where women, 57,5% men.
 * The most common runner was a male, 38 years old, from Washington DC, finishing in ~4h24m
-* The most common woman was ~20m slower than the most common men.
+* The most common woman was ~20m slower than the most common man.
 
-but let's break it down more. You can see my whole [python code here](https://gist.github.com/3996931).
+but let's break it down more. You can see my whole to mine the data and make the plots in [python here](https://gist.github.com/3996931).
 
 **Histogram of participation by gender**
 
