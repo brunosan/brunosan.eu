@@ -10,7 +10,7 @@ tags:
 
 [Map]
 
-Last week I ran my first Marathon, the 2012 [Marine Corps Marathon](http://www.marinemarathon.com/). It was my first marathon and it was a **great experience**. I did it 3h54m17s, much better than I expected. To get to that point I trained hard, I changed my diet and my stride, I read papers on strategies, and I *geeked* with the data. I want to talk about all that.
+Last week I ran the 2012 [Marine Corps Marathon](http://www.marinemarathon.com/). It was my first marathon and it was a **great experience**. I did it 3h54m17s, much better than I expected. To get to that point I trained hard, I changed my diet and my stride, I read papers on strategies, and I *geeked* with the data. I want to talk about all that.
 <!--more-->
 
 
