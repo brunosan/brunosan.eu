@@ -69,6 +69,8 @@ Since November 2011 that I started using RunKeeper, I've logged 1,440 km, roughl
 
 I've written before on how to make a map in TileMill with [all your runs as a heatmap](http://brunosan.eu/2012/07/20/a-heatmap-for-all-your-runs-in-runkeeper/). I did it again, this time with the marathon itself in black, for contrast. This is it:
 
+The geek fun continues after the marathon. I got hold of all runners data and started playing around with it. This is the second part:
+
 ##How I got the data
 
 **Scrapping the data**
