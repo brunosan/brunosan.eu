@@ -76,11 +76,25 @@ Probably the first you learn when you train for a marathon is that *commitment* 
 
 You really need motivation specially on the first days. Running 40 minutes can get very long those early days. But as you train more and more, you start to enjoy and look forward that feeling of achievement and fitness at the end of the race. After a while, the running itself becomes the reward and, believe me, you really enjoy running. You stop thinking about the time and the steps and you get lost in your thoughts, the music you hear, the nature around you.
 
-What really worked for me those early days was the music I was playing via Pandora, and then later [Spotify](http://www.spotify.com/) (btw this is my [running playlist](http://t.co/PAxTGBhd)). And of course the **mapping**. I was mapping every race with [RunKeeper](http://www.runkeeper.com), and knowing I was going to be able to monitor the track, the speed or the heart rate was a motivation on itself. I even made plans to make tracks of particular paths or shapes, like running the borders of the DC rhomboid. During the long runs I would post the live link so that friends or facility could track it in real time. Knowing someone following my run made me push harder. This is the map of the training runs:
+What really worked for me those early days was the music I was playing via Pandora, and then later [Spotify](http://www.spotify.com/) (btw this is my [running playlist](http://t.co/PAxTGBhd)). And of course the **mapping**. I was mapping every race with [RunKeeper](http://www.runkeeper.com), and knowing I was going to be able to monitor the track, the speed or the heart rate was a motivation on itself. I even made plans to make tracks of particular paths or shapes, like running the borders of the DC rhomboid. During the long runs I would post the live link so that friends or family could track it in real time. Knowing someone following my run made me push harder. Getting those likes and comments in Facebook really helped too! 
 
-Since November 2011 that I started using RunKeeper, I've logged 1,440 km, roughly 718Km for this marathon training.
+Since November 2011 that I started using RunKeeper, I've logged 1,440 km, roughly 718Km for this marathon training. I've written before on how to make a map in TileMill with [all your runs as a heatmap](http://brunosan.eu/2012/07/20/a-heatmap-for-all-your-runs-in-runkeeper/). I did it again, this time with the marathon itself in black, for contrast. The only difference this time is to merge an aditional RunKeeper file that has the summary of the run, so I can put it on the map as a tooltip.
 
-I've written before on how to make a map in TileMill with [all your runs as a heatmap](http://brunosan.eu/2012/07/20/a-heatmap-for-all-your-runs-in-runkeeper/). I did it again, this time with the marathon itself in black, for contrast. This is it:
+This is the code to do that:
+
+[Code]
+
+Together with the same process I used for the heatmap, this is the result. Pan and zoom at will [[full screen here](#)]:
+
+[MAP]
+
+##The day of the Marathon
+
+There should be nothing new the day of the race. Don´t try anything for the first time on that day, the slight deviation could risk the performance you have trained for 100 days or more. New shirt, new shoes, more coffee. Nope.
+
+The day of the race I woke up at 4:30 to get up and have the usual pre long race breakfast: Granola, soy milk, banana, and a slice of bread with peanut butter. Get to the first metro around 5:15am and head to the Starting line, on the Pentagon. More than 30.000 people are expected, and there several steps to make, so you don´t want to miss the 8am start.
+
+On the street a few Halloween walks of shame to cheer you up, and the metro is only has runners. Get of at the Pentagon and head to the Parking lot. Go through the security lines (it´s the Pentagon after all), gently apply [Body Glide](http://www.bodyglide.com/) or Vaseline on chaffing areas, visit one of the thousands of portajohns, drop your bag at the UPS trucks, get some water, ... and wait. Everything was faster than expected, and there you have an increasing number of runners, all ready, sitting down on the parking lot, still before dawn. Most of them wearing plastic bags to avoid getting cold. Around 7:20am you head to you corral.
 
 The geek fun continues after the marathon. I got hold of all runners data and started playing around with it. This is the second part:
 
