@@ -14,7 +14,7 @@ Last week I ran the 2012 [Marine Corps Marathon](http://www.marinemarathon.com/)
 <!--more-->
 
 
-I can proudly say that the marathon was a challenge, but not a suffering. I did the last mile with a smile on my face and a strong 15 seconds full sprint to the finish line. Two days later I barely have soreness in the legs, and none of the [usual problems](http://walking.about.com/od/marathontraining/tp/marathoninjury.htm): my toe nails are intact, no blisters, injuries, chaffing or particular pain. I base this success in 4 things: Stride, Fitness, Nutrition, Motivation.
+I can proudly say that the marathon was a challenge, but not a suffering. I did the last mile with a smile on my face and a strong 15 seconds full sprint to the finish line. Two days later I barely had soreness in the legs, and none of the [usual problems](http://walking.about.com/od/marathontraining/tp/marathoninjury.htm): my toe nails are intact, no blisters, injuries, chaffing or particular pain. I base this success in 4 things: Stride, Fitness, Nutrition, Motivation.
 
 ###1. Stride
 
@@ -38,14 +38,27 @@ The only drawback is that, since we always use running shoes, we´ve never run l
 
 I did not run barefoot like at least one people I saw, or with minimal shoes, like a few as well that I saw, but I would not discard it. As I run, I barely use the heel, so the extra cushioning isn't really involved on my stride. On a few occasions I changed my pace to heel strike to release tension and change the cadence as I felt it.
 
-As a side note. When I finished, after a few minutes, I started to feel the start of cramps on my feet. I removed the shoes and walked on my shocks. It worked immediately, my feet just wanted to get free from the shoes and move around a little bit, just like my legs.
+As a side note. When I finished, after a few minutes, I started to feel the start of cramps on my feet. I removed the shoes and walked on my socks. It worked immediately, relaxing my feet. They just wanted to get free from the shoes and stretch out a little bit, just like my legs.
 
 ###2. Fitness
 
-Together with the stride, you need to have physical fitness to endure the 26 miles. For that you just need to bank as many miles as possible, without overtraining. I followed a trining plan from Adidas [MiCoach](http://www.adidas.com/us/micoach/), but adjusting it whenever I didn't feel good or I had any problems. Before this training the longest I did was a half marathon in March, and that was my absolute maximum. I felt awful when I finished, much pain in the hips and soreness for several days. In those 100 days, I went for 5 km/week the first week, to 70 km/week 4 weeks before tapering for the race.
+Together with the stride, you need to have physical fitness to endure the 26 miles. For that you just need to bank as many miles as possible, without overtraining. I followed a training plan from Adidas [MiCoach](http://www.adidas.com/us/micoach/), but adjusting it whenever I didn't feel good or I had any problems. I didnt´really pay much attention to the suggested change of pace, I just kept it on a comfortable pace of around 10km/h. Before this training the longest I did was a half marathon in March, and that was my absolute maximum. I felt awful when I finished, much pain in the hips and soreness for several days. In those 100 days, I went for 5 km/week the first week, to 70 km/week 4 weeks before tapering for the race.
 
 {% image weekly-runs.png %}
 
+From what I could learn, one of the keys of endurance training is learning about [Glycogen](http://en.wikipedia.org/wiki/Glycogen) dynamics. Glycogen is basically the main energy storage of the muscles, the other one, less efficient but more compact is lipids. Some is stored directly on the muscles for immediate use and most of the rest on the liver where, on demand, will be broken down to glucose and send with the blood elsewhere. So the more your muscles store, the better. Training helps muscles store more Glycogen. When we ran out of it, we start to use the other fat reserves. When we deplete glycogen, we [hit the wall](http://en.wikipedia.org/wiki/Hitting_the_wall), typically around mile 20. That's why is helpfull to replenish glucose as you run. My choice was [GU](https://guenergy.com/) and [Clif Shots](http://www.clifbar.com/food/products_shot_gel_turbo/) every 45 minutes or so. With too many of either you get tired of their taste.
+
+Another factor here, the metabolic rate, is very important. When there is enough oxygen the preferred [cell respiration](http://en.wikipedia.org/wiki/Aerobic_respiration) to get ATPs on the Slow Twitch fibers is aerobic. You want that for low intensity over long periods of time. If you need more energy than the aerobic metabolism can provide, the body uses the anaerobic pathways, which help get that sprint (mostly on the Fast Twitch fibers), but also produce lactic acid at higher rates than the body can clean, which will make you cramp and even [vomit](http://en.wikipedia.org/wiki/Lactic_acidosis). You want to keep the anaerobic rate down for as long as possible. There is a [rough](http://fitcoachjoe.com/wordpress/wp-content/uploads/2011/04/Heart+Rate+Zone.jpg) relation of heart rate (oxygen blood flow) and metabolic regime, for my age (31) is below ~150 bpm for aerobic exercise. You want to keep it below that range, or you will start to consume your precious glycogen anaerobically while your lactate acid builds up. I used a heart rate band for some runs, until I learn to recognize which levels of effort meant which heart rate, and then I was pretty good at keeping it around 150, which also meant around 10 km/h. See my heart rate progress on the marathon run:
+
+{% image mcm-bpm.png %}
+
+It was actually quite quick to get there, just 250 m:
+
+{% image mcm-start.png %}
+
+Unfortunately my phone battery died 2 miles before the end (...) so I don´t have the pace or bpm during the 15 seconds or so sprint. I think it would be around 25 km/h and closing in into 190 bpm or more when I stopped. I would have loved to see the recovery time back to the 60sh bpm or so (perhaps 10 minutes? no idea). From other runs I know I can go down from 170ish to 110 in one minute, but I presume the decay is proportional to the bpm, so for there to 60 perhaps another 5 minutes or more.
+
+My guess is that a key to run faster marathons is to train your body to run faster keeping it on the aerobic side. 
 
 ###3. Nutrition
 
@@ -226,5 +239,7 @@ and this is the result, pan and zoom at will ([Full Screen here](http://a.tiles.
 <iframe width='100%' height='600' frameBorder='0' src='http://a.tiles.mapbox.com/v3/brunosan.map-usc1zz4y.html#5/38.880209498082706/-77.11475372314449'></iframe>
 
 There are surely many more things one can do, but I leave the train here. It has been an amazing experience. I enjoyed the training. Running the marathon was a challenge but not a suffering and I really enjoyed doing it. Playing around with this data has also been very fun!
+
+Now I don´t know If I want to try a trail marathon, an ultra, or a triathlon :)
 
 Ideas? Comments? Thanks!!
