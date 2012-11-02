@@ -169,9 +169,9 @@ Again you can see a blue edge across all ages, mostly men that need more than on
 
 For the next visualization, I wanted to map all runners on the US map. You can indeed upload the csv file to [Google Fusion Tables](http://www.google.com/drive/start/apps.html#fusiontables) (the file is [too big](http://support.google.com/drive/bin/answer.py?hl=en&answer=37603) for [Google Docs](https://docs.google.com)), and Google will recognize the Location names and map then for you. Pretty awesome, quick, and easy.
 
-[Google maps]
+<img width="50%" src="/media/Google-mcm.png " class="center">
 
-There are several problems here. For once, I want to have some control to make the map more beautiful and customize the looks (and I dig open source). Above all, any place with more than one runner will simply overlap everyone on the same place. I need to aggregate the data.
+There are several problems here. For once, I want to have some control to make the map more beautiful and customize the looks (and I dig open source). Above all, any place with more than one runner will simply overlap everyone on the same place. We need to aggregate the data.
 
 To aggregate the data I use again Python, and this little code:
 
