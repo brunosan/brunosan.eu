@@ -5,12 +5,15 @@ layout: post
 title: Running a marathon
 published: true
 tags:
-- 
+- running
+- marathon
+- data
+- vegan
 ---
 
-[Map]
+<a href="http://www.flickr.com/photos/kaneda99/4146016291/" title="Go by kaneda99, on Flickr"><img src="http://farm3.staticflickr.com/2724/4146016291_4e4649b7a5.jpg" width="100%" alt="Go"></a>
 
-Last week I ran the 2012 [Marine Corps Marathon](http://www.marinemarathon.com/). It was my first marathon, I did it eating only plants as vegan, and it was a **great experience**. Finish time was 3h54m17s, much better than I expected. To get to that point I trained hard, I focused on my diet and my stride, I read papers on strategies, and I *geeked* with the data. I want to talk about all that.
+Last week I ran the 2012 [Marine Corps Marathon](http://www.marinemarathon.com/). It was my first marathon, I did it as vegan, and it was a **great experience**. Finish time was *3h54m17s*, much better than I expected. To get to that point I trained hard, I focused on my diet and my stride, I read papers on strategies, and I *geeked* with the data. I want to talk about all that.
 <!--more-->
 
 
@@ -18,7 +21,7 @@ I can proudly say that the marathon was a challenge, but not a suffering. I did 
 
 ###1. Stride
 
-"Every year as many as eighty percent of runners suffer an injury that will keep them off the streets for a month", quotes [Christopher McDougall](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189). It does't make much sense to me. Running should be natural, why do we get so many injuries? These kind of thoughts lead me to consider the minimal shoes Vibram [Fivefingers](http://www.vibramfivefingers.com/index.htm). I read a couple of articles, I followed a couple of threads and that was enough for me to switch to the **front food landing stride**
+"Every year as many as eighty percent of runners suffer an injury that will keep them off the streets for a month", quotes [Christopher McDougall](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189). It does't make much sense to me. Running should be natural, why do we get so many injuries? These kind of thoughts lead me to consider the minimal shoes Vibram [Fivefingers](http://www.vibramfivefingers.com/index.htm). I read a couple of articles, I followed a couple of threads and that was enough for me to switch to the **forefoot strike**
 
 <img width="40%" src="/media/MCM-stride.png " class="center">
 
@@ -80,23 +83,25 @@ You really need motivation specially on the first days. Running 40 minutes can g
 Try to find various sources of motivations. What really worked for me those early days was the music I was playing via Pandora, and then later [Spotify](http://www.spotify.com/) (btw this is my [running playlist](http://t.co/PAxTGBhd)). And of course the **mapping**. I was mapping every race with [RunKeeper](http://www.runkeeper.com), and knowing I was going to be able to monitor the track, the speed or the heart rate was a motivation on itself. I even made plans to make tracks of particular paths or shapes, like running the borders of the DC rhomboid. During the long runs I would post a live link so that friends or family could track it in real time. Knowing someone is following my run made me push harder. Getting those likes and comments in Facebook really helped to push through weak times.
 
 
-Since November 2011 that I started using RunKeeper, I've logged 1,440 km, roughly 718Km for this marathon training. I've written before on how to make a map in TileMill with [all your runs as a heatmap](http://brunosan.eu/2012/07/20/a-heatmap-for-all-your-runs-in-runkeeper/). I did it again, this time with the marathon itself in black, for contrast. The only difference this time is to merge an aditional RunKeeper file that has the summary of the run, so I can put it on the map as a tooltip.
+Since November 2011 that I started using RunKeeper, I've logged 1,440 km, roughly 718Km for this marathon training. I've written before on how to make a map in TileMill with [all your runs as a heatmap](http://brunosan.eu/2012/07/20/a-heatmap-for-all-your-runs-in-runkeeper/). I did it again, this time with the marathon itself in black, for contrast. 
 
-This is the code to do that:
+Together with the same process I used for the heatmap, this is the result. Pan and zoom at will [[full screen here](http://a.tiles.mapbox.com/v3/brunosan.map-49c6q4ys.html#14.00/38.8895/-77.0409)]:
 
-[Code]
-
-Together with the same process I used for the heatmap, this is the result. Pan and zoom at will [[full screen here](#)]:
-
-[MAP]
+<iframe width='100%' height='600' frameBorder='0' src='http://a.tiles.mapbox.com/v3/brunosan.map-49c6q4ys.html#14.00/38.8895/-77.0409'></iframe>
 
 ##The day of the Marathon
 
-There should be nothing new the day of the race. Don´t try anything for the first time on that day, the slight deviation could risk the performance you have trained for 100 days or more. New shirt, new shoes, more coffee. Nope.
+There should be nothing new the day of the race. Don´t try *anything* for the first time on that day, the slight deviation could risk the performance you have trained for 100 days or more. New shirt, new shoes, more coffee. Nope.
 
-The day of the race I woke up at 4:30 to get up and have the usual pre long race breakfast: Granola, soy milk, banana, and a slice of bread with peanut butter. Get to the first metro around 5:15am and head to the Starting line, on the Pentagon. More than 30.000 people are expected, and there several steps to make, so you don´t want to miss the 8am start.
+The day of the race I woke up at 4:30am to get up and have the usual pre long race breakfast: Granola, soy milk, banana, and a slice of bread with peanut butter. Get to the first metro around 5:15am and head to the Starting line, on the Pentagon. More than 30.000 people are expected, and there several steps to make, so you don´t want to miss the 8am start.
 
-On the street a few Halloween walks of shame to cheer you up, and the metro is only has runners. Get of at the Pentagon and head to the Parking lot. Go through the security lines (it´s the Pentagon after all), gently apply [Body Glide](http://www.bodyglide.com/) or Vaseline on chaffing areas, visit one of the thousands of portajohns, drop your bag at the UPS trucks, get some water, ... and wait. Everything was faster than expected, and there you have an increasing number of runners, all ready, sitting down on the parking lot, still before dawn. Most of them wearing plastic bags to avoid getting cold. Around 7:20am you head to you corral.
+On the street a few Halloween *walks of shame* to cheer you up, and the metro is only has runners. Get off at the Pentagon station and head to the Parking lot. Go through the security lines (it´s the Pentagon after all), gently apply [Body Glide](http://www.bodyglide.com/) or Vaseline on chaffing areas, visit one of the thousands of portajohns, drop your bag at the UPS trucks, get some water, ... and wait. Everything was much faster than expected, and there you have an increasing number of runners, all ready, sitting down quiet on the parking lot, still before dawn. Most of them wearing plastic bags to avoid getting cold. Around 7:20am you head to you corral. People organize themselves in groups, *corrals* according to the expected finishing time. I chose one one the slow side of my expectation (4h30m), to help me push along if things go wrong, and to get that extra boost of overtaking people as you go stronger.
+
+When the shot gun fires, it still takes a few minutes for your corral to start moving, and for the first 5 miles of so, you run on dense *multipede* of people snaking around the bends and turns of the course. Getting to an overpass or a downhill is quite a view of just people running, for miles. One of the common mistakes is to start too strong, so I tried to concentrate on the music and the feeling of any other long run. Slow but not walking on the uphills, easy but not letting go on the downhills. Some spots have a lot of people that cheer you up, and honestly *carry you on* with their support. Some spots have no spectators, so you just enjoy the beautiful autumn day, and look around fellow runners. Along with the music of Pandora, RunKeeper tells me the pace every 5 minutes. On my forearm I wrote my boundaries. Keep it between a 9:11 min/mile (for a 4 h marathon) and 9:55 for a (4h30m). I was always a bit faster than 9, so I was holding it most of the time. Every 45 minutes or so eat your Go. Keep running and remember you are *running a marathon*.
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/cfVg6Fxj14I" frameborder="0" allowfullscreen></iframe>
+
+Until the half marathon mark, I was *just running*. Then I realized I was a bit slow, and had enough energy. But the stomach was acting up a bit. Too much Gu with caffeine? A technical stop for 60 seconds, and back to the race. The first part of the second half is where most of the people are watching and cheering, so I let myself be carried on with their cheers. Mile 20, the famous milestone for many runners, coincided with the bridge over the Potomac, the wind, no people, seeing many people give up and walk or sit down... I turned the music on just as [Thievery Corporation](spotify:track:66KcXPDs1hr8T06KvlJCeA) started. 6 miles didn´t seem so short any more after 20. On that moment I though of my cousin who suffers a degenerative motor disorder and is on a wheel chair. I focused my thoughts on my luck to being able to get this far, and I pushed on faster. Nearing the mile 24 was when I realized it was almost over, and I saw the 4h pacer (a guy how runs from the 4h corral and keeps the pace, to help others) so I took my last Gu (probably unnecessary and not good for the stomach) and kept the pace, now more relaxed and even smiling. I knew I had energy to finish, so as soon as I thought I was less than 20 seconds on a full sprint, I gave it all and dashed to the finish line. **Vamos!**
 
 The geek fun continues after the marathon. I got hold of all runners data and started playing around with it. This is the second part:
 
@@ -155,7 +160,7 @@ But let's break it down more. You can see my whole code to mine the data and mak
 
 **Histogram of participation by gender**
 
-This histogram shows the distribution of Ages, according to gender: 
+This histogram shows the distribution of Ages, according to gender (mouse over for tooltips): 
 <a href="/media/histo_gender.png"><img src="/media/histo_gender.png" onmouseover="this.src='/media/histo_gender_2.png'" onmouseout="this.src='/media/histo_gender.png'" class="center"  width='75%'/></a>
 
 Remember this is *not* a random sample of population. These are all marathon finishers (A small subset of the population... 1%??). At any age, there is more men than women, except from 25-30. Perhaps women are more physically active then. After that women decline while male participation increases. I wonder if having your first kid is reflected here. I can imagine it's hard to train or run when you are pregnant or new mum. According to the statistics the [mean age for first kid in the USA](http://www.nationmaster.com/graph/hea_age_of_wom_at_fir_chi-health-age-women-first-childbirth) is 24, so it is plausible that effect shows here.
@@ -249,15 +254,53 @@ To aggregate the data I use again Python, and this little code:
 
 With a little bit of some more python magic, you can aggregate the times and ages to get the percentiles by gender, and save everything to a neat csv file with all the info you need. You can see the whole [python code here](https://gist.github.com/3996931).
 
-Now you can go to TileMill, import the file on a new project and have the map styled, up and running in less than 10 minutes.
+Now you can go to [TileMill](http://mapbox.com/tilemill/), import the file on a new project and have the map styled, up and running in less than 10 minutes.
 
 <a href="/media/tilemill-mcm.png"><img src="/media/tilemill-mcm.png" onmouseover="this.src='/media/tilemill-mcm-over.png'" onmouseout="this.src='/media/tilemill-mcm.png'" class="center"  width='75%'/></a>
 
 and this is the result, pan and zoom at will ([Full Screen here](http://a.tiles.mapbox.com/v3/brunosan.map-usc1zz4y.html#5.00/39.711/-86.018))
 <iframe width='100%' height='600' frameBorder='0' src='http://a.tiles.mapbox.com/v3/brunosan.map-usc1zz4y.html#5/38.880209498082706/-77.11475372314449'></iframe>
 
-There are surely many more things one can do, but I leave the train here. It has been an amazing experience. I enjoyed the training. Running the marathon was a challenge but not a suffering and I really enjoyed doing it. Playing around with this data has also been very fun!
+**Overtakers or overtaken?**
+
+When I was talking with another marathoner about the draft of this post he said it would be interesting to see a scatter plot of how many people you pass by gender, or age. This involves not only your pace, but also which corral you chose (your expectation). We only have data for Bib numbers at Gun Time, ChipTime, and partial ChipTime splits for 5K,10K,15K..40K. Can we get the data we want?
+
+1. Ordering Bib numbers by "Gun Time" at any landmark (5K,10K, ..) gives you the order of arrival to that line mark, regardless of their position at the Start time. It´s just the time it took them to get to the landmark from the Gun Time. 
+2. Ordering Bib numbers by "Gun Time" minus Chip Time, gives you an estimate of the distance from the runner at the Gun Time and the Start Line. That is a rough estimate of the order at the start time.
+3. Hence the difference of 1 and 2 for each land mark gives you the *net* change. Using the landmark you can even check for which Bib numbers changed in between.
+
+Helpers in python to get there:
+
+* You can create a new key with to convert time in 1:34:10 into second with:
+
+         def count_sec(lista):
+     	   return np.sum(np.array([np.int(a) for a in lista.split(':')])*[60*60,60,1])
+
+	
+* Get the rough order estimates with:
+
+
+          for r in runner:
+	       r['Start_order_in seconds']=count_sec(r['ChipTime'])-count_sec(r['ClockTime'])
+          Start=sorted(runners, key=lambda k: k['Start_order_seconds'])
+
+
+* Get the change in order for each Bib with:
+
+
+          for r in runner:
+     	  index_s=map(itemgetter('Bib'),Start).index(r['Bib'])
+	       index_e=map(itemgetter('Bib'),End).index(r['Bib'])
+	       r['Change']=index_s-index_e`
+
+
+
+... but I leave the train here. There are surely many more things one can do. It has been an amazing experience, and many more will come. I enjoyed and learnt a great deal with the training. Running the marathon was a challenge but not a suffering and I really enjoyed doing it. Playing around with this data has also been very fun!
 
 Now I don´t know If I want to try a trail marathon, an ultra, or a triathlon :)
 
-Ideas? Comments? Thanks!!
+Ideas? Comments? Corrections? Forks?
+
+Thanks!!
+
+<a href="http://www.flickr.com/photos/nasonurb/6248176332/" title="Hiking Grand Canyon by brunosan, on Flickr"><img src="http://farm7.staticflickr.com/6236/6248176332_2fe75df485.jpg" width="75%" alt="Hiking Grand Canyon"></a>
