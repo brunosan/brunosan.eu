@@ -21,14 +21,14 @@ I can proudly say that the marathon was a challenge, but not a suffering. I did 
 
 ###1. Stride
 
-"Every year as many as eighty percent of runners suffer an injury that will keep them off the streets for a month", quotes [Christopher McDougall](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189). It does't make much sense to me. Running should be natural, why do we get so many injuries? These kind of thoughts lead me to consider the minimal shoes Vibram [Fivefingers](http://www.vibramfivefingers.com/index.htm). I read a couple of articles, I followed a couple of threads and that was enough for me to switch to the **forefoot strike**
+"Every year as many as eighty percent of runners suffer an injury that will keep them off the streets for a month", quotes [Christopher McDougall](http://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/0307279189). It doesn't make much sense to me. Running should be natural, why do we get so many injuries? These kind of thoughts lead me to consider the minimal shoes Vibram [Fivefingers](http://www.vibramfivefingers.com/index.htm). I read a couple of articles, I followed a couple of threads and that was enough for me to switch to the **forefoot strike**
 
 <img width="40%" src="/media/MCM-stride.png " class="center">
 
 The key points to me were:
 
 * The [running man hypothesis](http://en.wikipedia.org/wiki/Endurance_running_hypothesis) makes sense to me.
-* I've seen and stretched an Aquiles tendon on a dead body (at the Faculty of Medicine). They really have some elasticity. I can see how part of the landing weight is absorbed by the elasticity and released when you push, minimizing the energy to run. Incidentally you can see on the image above a fellow runner with a prosthetic limb using the same principle with the arched metal.
+* I've seen and stretched an Achilles tendon on a dead body (at the Faculty of Medicine). They really have some elasticity. I can see how part of the landing weight is absorbed by the elasticity and released when you push, minimizing the energy to run. Incidentally you can see on the image above a fellow runner with a prosthetic limb using the same principle with the arched metal.
 * Landing on the ball of the foot really uses the feet that otherwise are quite passive.
 * The stride changes your posture and makes you run more straight and stable above the waist, landing your feet right above the center of mass, so there is no vector pointing backwards. It's just *pushing back* all the time.
 * The posture also make you land already with a slight bend on the knee, minimizing the impact on the knee and hips. This point was very important, as I would usually get pain there after long runs.
@@ -45,7 +45,7 @@ As a side note. When I finished, after a few minutes, I started to feel my feet 
 
 ###2. Fitness
 
-Together with the stride, you need to have physical fitness to endure the 26 miles. For that you just need to bank as many miles as possible, without overtraining. I followed a training plan from Adidas [MiCoach](http://www.adidas.com/us/micoach/), but adjusting it whenever I didn't feel good or I had any problems. I didnt´really pay much attention to the suggested change of pace, I just kept it on a comfortable pace of around 10km/h. Before this training the longest I did was a half marathon in March, before changing the stride, and that was my absolute maximum. I felt awful when I finished, much pain in the left hip and soreness for several days. In the 100 days I trained for this marathon, I went for 5 km/week the first week, to 70 km/week 4 weeks before tapering for the race.
+Together with the stride, you need to have physical fitness to endure the 26 miles. For that you just need to bank as many miles as possible, without over training. I followed a training plan from Adidas [MiCoach](http://www.adidas.com/us/micoach/), but adjusting it whenever I didn't feel good or I had any problems. I didn't´really pay much attention to the suggested change of pace, I just kept it on a comfortable pace of around 10km/h. Before this training the longest I did was a half marathon in March, before changing the stride, and that was my absolute maximum. I felt awful when I finished, much pain in the left hip and soreness for several days. In the 100 days I trained for this marathon, I went for 5 km/week the first week, to 70 km/week 4 weeks before tapering for the race.
 
 {% image weekly-runs.png %}
 
