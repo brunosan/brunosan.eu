@@ -21,7 +21,8 @@ skills:
 - Speckle interferometry
 - 2D spectrograms
 - Image reconstruction
-
+- Magnetohydrodynamics
+- Plasma waves
 ---
 
 
@@ -53,7 +54,7 @@ marvellous complexity of our Sun.
 
 #Progress
 
-* *2004-09-01*: Granted Fellowship to start January 2009.
+* *2004-09-01*: Granted Fellowship to start January 2005.
 * *2005-01-05*: Moved to Göttingen to start doctorate.
 * *2007-12-01*: Written dissertation submitted.
 * *2008-02-15*: Oral Dissertation and exams done. Final grade for PhD, *Magna Cum Laude*   

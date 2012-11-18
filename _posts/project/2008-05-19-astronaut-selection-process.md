@@ -23,7 +23,7 @@ info](http://www.esa.int/esaMI/Astronaut_Selection/SEM3V4R03EF_0.html)):
 6. Professional Interviews. 
 7. Decision by the Director General of ESA. 
 
-The ideal candidates should be competent in relevant scientific
+>The ideal candidates should be competent in relevant scientific
 disciplines, such as life sciences, physics, chemistry and medicine
 and/or be an engineer or experimental test pilot, and should have
 demonstrated outstanding abilities in research, applications or the
@@ -40,7 +40,7 @@ freely available online, mainly from the ESA website.
 ###Goal
 
 I knew the chances were infinitesimal, but I wanted to try it, and enjoy
-the experience.
+the experience. Who wouldn´t want to be an astronaut!
 
 ###Progress
 
@@ -74,6 +74,9 @@ I must also thank ESA for the great experience. Not only the facilities
 were of high quality and staff were very professional, but also the
 lodging and travel arrangements were all taken care of.
 
+While on this process, talking with other candidates and knowing the
+requirements failed but I could do, I ended up adding a few items to my To Do lists (Run a
+marathon, scuba dive, parachute jumps, learn some Russian...)
   
 ###Resources
 

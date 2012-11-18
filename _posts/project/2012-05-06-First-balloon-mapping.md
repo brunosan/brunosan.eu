@@ -1,8 +1,7 @@
 ---
-filename: _posts/project/2012-05-06-balloon-mapping.md
 layout: project
 category: project
-title: Balloon mapping
+title: First Balloon mapping
 status: Completed 
 color: GreenYellow
 skills:
@@ -29,14 +28,14 @@ The Goal here is to get to know the technique and get familiar with the
 challenges and benefits of grassroots mapping using balloons. We chose to map a small region inside the Rock Creek and one of the
 bridges.
 
-#Progress
+##Progress
 
 * *2012-05-06*: Hardware delivered (as a birthday present, thank you
   guys!). Corresponds to this kit available online from [Grassroots Mappers](http://shop.breadpig.com/collections/publiclaboratory/products/balloon-mapping-kit)
 * *2012-05-20*: Mapping event. Managed to get Helium and map a small
   section of the Rock Creek and bridge as planned. Mapping scope reduced
 due to DC regulations for objects in the sky. 
-* *2012-05-25*:  Map stitching using SeaShore.   
+* *2012-05-25*:  Quick and dirty map stitching using SeaShore.   
 
 ###Lessons Learned
 
@@ -47,16 +46,16 @@ find a place to buy the Helium which hinders its usability in crisis
 response or anywhere far from such shops ( i.e. country side, developing
 countries, ...) 
 
-Stocking up Helium before hand and carrying it along
+Stocking up Helium beforehand and carrying it along
  seems the best option. Yet, this significantly increases the size 
-of a "Balloon mapping kit" and has others limitations such us flying with a kit which otherwise fits inside a small bag.
+of a "Balloon mapping kit" and has others limitations such us travelling with a kit which otherwise fits inside a small bag.
 
 It would be very desirable to build a solution to recover
 the Helium once used, specially given the challenges with Helium supply. 
 
 **Wind**
 
-Balloon mapping is suitable for none to low-wind conditions. Even a
+Balloon mapping is suitable with none to low wind conditions. Even a
 small wind can create vibrations and swings on the camera that greatly
 difficult the stitching, specially when the camera doesn't point to the
 nadir.
@@ -64,7 +63,7 @@ nadir.
 Using a very low-tech DIY wind stabilizer greatly reduces the shaking
 (Image provided below).
 
-Mapping under increased wind conditions can be address with kites
+If you need to map under increased wind conditions you should try kites
 instead of balloons.
 
 **Stitching**
@@ -76,13 +75,12 @@ minimal, and the cameras points towards the nadir.
 Stitching can be done purely by hand using any image manipulation with
 layers, such us Gimp or SeaShore.
 
-We recommend the online stitching tool [Mapknitter](http://mapknitter.org/) if the goal is to compare
-the results with available aerial imaginery, or the GNU tool
-[Hugin](http://hugin.sourceforge.net/)
+If you want to do some serious stitching we recommend the online stitching tool [Mapknitter](http://mapknitter.org/), or the GNU tool
+[Hugin](http://hugin.sourceforge.net/). They both need some training.
 
 
 
-#Resources
+##Resources
 
 
 * Images from the mapping event:

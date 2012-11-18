@@ -1,8 +1,7 @@
 ---
-filename: _posts/project/2012-06-10-contribute-to-open-street-map.md
 layout: project
 category: project
-title: Contribute to Open Street Map
+title: First contribution to Open Street Map
 status: completed 
 color: GreenYellow
 skills:
@@ -27,10 +26,9 @@ at the top by several meters.
 
 ###Goal
 
-The goal was to map as best as possible the top of the Pão de Açúcar
+The goal was to map as best as possible the top of the *Pão de Açúcar*
 with my Android device using the built-in GPS and with no data
-connection. Then upload my tracks and amenities, hence contributing to
-OSM.
+connection. Then upload my tracks and POIs.
 
 ###Progress
 
@@ -43,8 +41,10 @@ tracker](https://play.google.com/store/apps/details?id=me.guillaumin.android.osm
 ###Lessons Learned
 
 Basic mapping using an Android device is quite simple. Just wait for
-best coverage, and remember to store amenities, or at least make
-pictures of them so that you can fill all the detailed information when
+best coverage, and remember to store POIs such as shops, views, names,
+..., or at least make
+pictures of them so that you can fill all the detailed information later
+on when
 uploading to OSM servers.
 
 To introduce the changes and upload the changeset I used
@@ -52,7 +52,7 @@ To introduce the changes and upload the changeset I used
 
 ###Resources
 
-* [GPS tracks](http://goo.gl/iyXvw) are available.
+* My [GPS tracks](http://goo.gl/iyXvw) are available.
 * [OSM Changeset](http://www.openstreetmap.org/browse/changeset/12041189) with my new nodes and tracks.
 * Comparison of Google Maps with no information for tracks on the right,
   and OSM on the left (even more nodes are available if zoomed in, such

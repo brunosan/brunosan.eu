@@ -1,7 +1,6 @@
 ---
-filename: _posts/project/2012-09-01-Arduino-101.md
 layout: project
-title: Arduino 101 
+title: First Arduino 
 category: project
 status: Started
 color: Yellow 
@@ -22,6 +21,7 @@ skills:
 * Create a couple of sketches using various sensors:
     * IR sensor & IR LED - Create a IR remote control cloner.
     * Proximity sensor: Display distance to object.
+    * Integrated Display
 
 ###Progress
 
