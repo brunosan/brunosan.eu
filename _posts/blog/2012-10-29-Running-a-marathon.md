@@ -39,7 +39,7 @@ The key points to me were:
 
 The only drawback is that, since we always use running shoes, we have never run like that, and muscles and tendons are not prepared. You need to go very slowly or you will injure yourself (like I did last year when I went cold turkey to the Vibram). At first it will feel awkward and it will be hard on your Soleus, Gastrocnemius, Aquiles, soles of the feet and thigh. It helps to walk barefoot at home. It soon pays back, I really believe this stride contributed to running longer, faster and with less pain or soreness afterwards.
 
-I did not run barefoot like at least one people I saw, or with minimal shoes, like a few as well that I saw, but I would not discard it. As I run, I barely use the heel, so the extra cushioning isn't really involved on my stride. However, having that options helps and on a few occasions I changed my stride to heel strike to release tension and change the cadence as I felt it.
+I did not run barefoot like at least one people I saw, or with minimal shoes, like a few as well that I saw, but I would not discard it. As I run, I barely use the heel, so the extra cushioning isn't really involved on my stride. However, having that option helps and on a few occasions I changed my stride to heel strike to release tension and change the cadence as I felt it.
 
 As a side note. When I finished, after a few minutes, I started to feel my feet cramping. I removed the shoes and walked on my socks. It worked immediately, relaxing my feet. They just wanted to get free from the shoes and stretch out a little bit, just like my legs.
 
@@ -71,7 +71,7 @@ I find more and more reasons to reduce my meat intake as much as I can, but I wa
 
 <a href="http://www.flickr.com/photos/nasonurb/8145481393/" title="vegan grocery shopping by brunosan, on Flickr"><img src="http://farm9.staticflickr.com/8326/8145481393_f1443b4fa2.jpg" width="75%" class="center" alt="vegan grocery shopping"></a>
 
-In particular I enjoyed the extra intake of quinoa, beets, nuts... I plan to continue like this. Please read "[In defense of food](#)", it´s a great book. I don't think being vegan makes training for a marathon any harder, perhaps on the contrary. And it makes you be more conscious of what you eat, which is good. And [Mint](https://wwws.mint.com) says no significant impact on my food budget.
+In particular I enjoyed the extra intake of quinoa, beets, nuts... I plan to continue like this. Please read "[In defense of food](http://www.amazon.com/gp/product/1594133328?ie=UTF8&camp=213733&creative=393185&creativeASIN=1594133328&linkCode=shr&tag=brunosan-20)", it´s a great book. I don't think being vegan makes training for a marathon any harder, perhaps on the contrary. And it makes you be more conscious of what you eat, which is good. And [Mint](https://wwws.mint.com) says no significant impact on my food budget.
 
 ###4. Motivation
 
