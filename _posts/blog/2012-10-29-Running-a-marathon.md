@@ -1,5 +1,5 @@
 ---
-filename: _posts/blog/2012-10-29-Running-a-marathon.md
+filename: _posts/blog/2012-10-29-Running-a-marathon.md¨
 category: blog
 layout: post
 title: Running a marathon
