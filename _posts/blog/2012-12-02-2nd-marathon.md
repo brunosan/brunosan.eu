@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2012-12-02-2nd-marathon.md
 layout: post
 category: blog 
 title: 2nd Marathon
