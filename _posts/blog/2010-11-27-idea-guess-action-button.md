@@ -3,25 +3,12 @@ filename: _posts/blog/2010-11-27-idea-guess-action-button.md
 category: blog
 layout: post
 status: publish
-meta: 
-  _wpas_skip_twitter: "1"
-  _wpas_skip_fb: "1"
-  geo_accuracy: "0"
-  tagazine-media: a:7:{s:7:"primary";s:61:"http://farm5.static.flickr.com/4007/4268118420_d3670182bd.jpg";s:6:"images";a:2:{s:61:"http://farm5.static.flickr.com/4007/4268118420_d3670182bd.jpg";a:6:{s:8:"file_url";s:61:"http://farm5.static.flickr.com/4007/4268118420_d3670182bd.jpg";s:5:"width";s:3:"500";s:6:"height";s:3:"375";s:4:"type";s:5:"image";s:4:"area";s:6:"187500";s:9:"file_path";s:0:"";}s:61:"http://farm4.static.flickr.com/3491/4083009098_d83fd2a5d6.jpg";a:6:{s:8:"file_url";s:61:"http://farm4.static.flickr.com/3491/4083009098_d83fd2a5d6.jpg";s:5:"width";s:3:"320";s:6:"height";s:3:"480";s:4:"type";s:5:"image";s:4:"area";s:6:"153600";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"2";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2011-04-08 07:33:38";}
-  geo_public: "1"
-  geo_address: 425 P St NW, Washington, DC 20001, USA
-  geo_longitude: "-77.018000"
-  _wp_old_slug: ""
-  geo_latitude: "38.910000"
-  jabber_published: "1290881221"
-  _edit_last: "4180497"
 published: true
 type: post
 tags: 
 - android
 - entrepreneur
 - idea
-- ideas
 - technology
 - vc
 - widget
