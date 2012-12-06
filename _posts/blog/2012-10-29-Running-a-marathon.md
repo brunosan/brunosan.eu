@@ -105,6 +105,13 @@ Until the half marathon mark, I was *just running*. Then I realized I was a bit 
 
 The geek fun continues after the marathon. I got hold of all runners data and started playing around with it. This is the second part:
 
+<script async class="speakerdeck-embed"
+data-id="c339498021ea01300e441231381b2534" data-ratio="1.33333333333333"
+src="//speakerdeck.com/assets/embed.js"></script>
+[Update: *Added this SpeakerDeck with the slides I used for the [GedoDC Meetup talk
+on Dec 2012](http://www.meetup.com/Geo-DC/events/84473462/)*]
+
+
 ##How I got the data
 
 **Scrapping the data**
