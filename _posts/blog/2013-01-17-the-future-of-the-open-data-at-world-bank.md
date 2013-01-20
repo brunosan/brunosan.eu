@@ -28,7 +28,8 @@ Catalog to be "more technologically capable, but also more user friendly, readab
 understandable". On their summary of the proposition they highlight: Search, Federation, 
 user friendliness, better metadata, and scalable. 
 
-I hope this quick post with my experience as a user and building GAIN could be of help.
+
+<!--more-->
 
 ###SPEED###
 
@@ -136,7 +137,7 @@ Fixing identified issues with the data is specially important if you intend to u
 the data directly via APIs. Otherwise, you need extra steps to *fix*
 those issues.
 
-##Towards organic resolution ##
+###Towards organic resolution ###
 
 This is a big one I´m also struggling. Most of the available data is at
 the national level. There are many reasons for that, from feasibility
