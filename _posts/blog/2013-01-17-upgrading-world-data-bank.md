@@ -13,7 +13,7 @@ tags:
 
 The [Open Data Catalog at the World Bank](http://data.worldbank.org/) is a fantastic resource. I´ve
 used it many, many times. Specially while developing the [GAIN
-Index](http://index.gain.org). I´m sure I spent hours on that domain. It´s astonishing the amount of information
+Index](http://index.gain.org). I´m sure I´ve spent hours on that domain. It´s astonishing the amount of information
 they´ve gathered on a consistent way.
 
 Our Gain Index indeed uses, and references roughly 80% of it´s
