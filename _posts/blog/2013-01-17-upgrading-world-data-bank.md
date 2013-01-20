@@ -16,9 +16,9 @@ used it many, many times. Specially while developing the [GAIN
 Index](http://index.gain.org). I´m sure I´ve spent hours on that domain. It´s astonishing the amount of information
 they´ve gathered on a consistent way.
 
-Our Gain Index indeed uses, and references roughly 80% of it´s
-components directly back to the Catalog. Oddly, I ended up (and a number
-of people have told so as well) using *our* page to get a glimpse of the data
+Our Gain Index indeed uses, and references, roughly 80% of it´s
+components directly back to the Catalog. Proudly, but oddly, a number
+of people have told me that they  use our page **instead** of the Bank´s to get a glimpse of the data
 for a particular country. As humbling as that is, it´s odd that our page
 gets visits to see the components, not the aggregation we do for our
 purposes. It´s like buying a book for the Bibliography.
@@ -35,7 +35,7 @@ user friendliness, better metadata, and scalable.
 
 The Catalog must be *fast*. And I can propose a concrete benchmark:  
 Faster than using the traditional sets of Excel files many people
-use. That´s the inertia from part of they target users. Why would I
+use. That´s the inertia from part of their target users. Why would I
 prefer to fire up the website every time If I can download the whole thing to my
 disk? This is specially important if you don´t have a fast connection,
 like it happens in many parts of the world.
@@ -63,7 +63,7 @@ a website and more like an app.
 
 This is also related with speed. Minimize the *clicks-to-target*. 
 The distance from the front page to  any piece of information should less 
-than say three clicks, or two. Same for the most common cases like i.e. showing 
+than, say, three clicks, or two. Same for the most common cases like i.e. showing 
 the world´s GDP compared to x and y country.
 
 ###Low friction for basic users###
@@ -128,7 +128,7 @@ charset="utf-8"></script>
 
 
 It would be great If you could *flag* data, or measures, and leave
-feedback, or request. Other users could reply, or vote, raising prominence to the
+feedback, or requests. Other users could reply, or vote, raising prominence to the
 issue. I can see how this could also pressure the original sources of the
 data which on many causes are also the root of the issue, like the
 example above with the nurses data.
@@ -139,7 +139,7 @@ those issues.
 
 ###Towards organic resolution ###
 
-This is a big one I´m also struggling. Most of the available data is at
+This is a big one I´m also struggling with. Most of the available data is at
 the national level. There are many reasons for that, from feasibility
 and gathering constrains, to pragmatism to the scale most users wanted.
 Nowadays it´s increasingly easy to get data, but also we demand more
@@ -151,7 +151,7 @@ is equally relevant. This is specially the case for big heterogeneous
 countries, like India, China, Russia, USA ... 
 
 What I'm proposing, and is the direction I´m planning to develop
-at GAIN, is a *organic resolution* protocol: 
+at GAIN, is an *organic resolution* protocol: 
 
 * There is a background
 database with all available measures, at all available resolutions, as
@@ -161,14 +161,14 @@ culture, correlations, ...
 * If the user request one of them, it´s instantly served. 
 
 * Sometimes one might need aggregates of available data, like for example all countries
-from LAC, or spanish speaking, or cities inside this watershed. The interface then requests than job and
+from LAC, or spanish speaking, or cities inside this watershed. The interface then requests that job and
 it´s served aggregated as the median or envelope values (this can probably be also done at the client level via
 Javascript).
 * Sometimes the data is simply not available, and then some
 working assumptions could be suggested like based on geographical
 neighbours, similar countries in other correlated measures, temporal
 extrapolations ... In these cases probably more computation is needed,
-specially to provide some envelope of possible estimates.
+specially to provide degree of uncertanty.
 
 
 
