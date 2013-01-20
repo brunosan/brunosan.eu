@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-01-17-the-future-of-the-open-data-at-world-bank.md
 layout: post
 category: blog
 title: World Bank Data Catalog at World Bank
