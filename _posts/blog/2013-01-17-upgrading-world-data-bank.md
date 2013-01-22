@@ -28,7 +28,8 @@ Catalog to be "more technologically capable, but also more user friendly, readab
 understandable". On their summary of the proposition they highlight: Search, Federation, 
 user friendliness, better metadata, and scalable. 
 
-
+These are my six points of feedback: fast, flat, visual, better
+feedback, support more granularity of data, and open the source.
 <!--more-->
 
 ###SPEED###
