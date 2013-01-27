@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-01-26-using-maps-while-travelling-without-paying.md
 layout: post
 category: project
 title: "OsmAnd: Using Maps while travelling without paying"
