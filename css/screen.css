@@ -3,12 +3,13 @@
 
 html {
 	border-top: 12px solid #182945;
-	background: #E8E8F0;
+	background: whitesmoke;
 	color: #333;
 }
 
 body {
-	font-family: 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+	/*font-family: 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;*/
+	font-family: 'Book Antiqua', 'Palatino Linotype', Palatino, Serif;
 	line-height: 1.6em;
 	width: 800px;
 	margin: 0 auto;
