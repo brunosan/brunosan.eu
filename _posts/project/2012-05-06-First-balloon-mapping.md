@@ -1,5 +1,4 @@
 ---
-filename: _posts/project/2012-05-06-First-balloon-mapping.md
 layout: project
 category: project
 title: First Balloon mapping
@@ -26,10 +25,11 @@ You can read more about Grassroots Mapping
 ###Goal
 
 The Goal here is to get to know the technique and get familiar with the
-challenges and benefits of grassroots mapping using balloons. We chose to map a small region inside the Rock Creek and one of the
+challenges and benefits of grassroots mapping using balloons. Washington is pretty strict against flying stuff
+inside the city, so my scope was fairly limited. We chose to map a small region inside the Rock Creek and one of the
 bridges.
 
-##Progress
+###Progress
 
 * *2012-05-06*: Hardware delivered (as a birthday present, thank you
   guys!). Corresponds to this kit available online from [Grassroots Mappers](http://shop.breadpig.com/collections/publiclaboratory/products/balloon-mapping-kit)
@@ -81,7 +81,7 @@ If you want to do some serious stitching we recommend the online stitching tool 
 
 
 
-##Resources
+###Resources
 
 
 * Images from the mapping event:

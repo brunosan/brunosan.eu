@@ -1,5 +1,4 @@
 ---
-filename: _posts/project/2008-01-05-doctorate-in-astrophysics.md
 layout: project
 category: project
 title: Doctorate in Astrophysics
@@ -52,14 +51,16 @@ marvellous complexity of our Sun.
 
 
 
-#Progress
+###Progress
 
 * *2004-09-01*: Granted Fellowship to start January 2005.
 * *2005-01-05*: Moved to Göttingen to start doctorate.
 * *2007-12-01*: Written dissertation submitted.
 * *2008-02-15*: Oral Dissertation and exams done. Final grade for PhD, *Magna Cum Laude*   
+* *2013-02-15*: Got the idea of recording a 100s video of what my thesis
+  is about, as science outreach. TBD
 
-#Resources
+###Resources
 
 
 * This thesis generated and was referenced by several <a href="http://scholar.google.de/scholar?hl=de&amp;q=bruno+sanchez-andrade+nuno&amp;btnG=Suche&amp;lr=&amp;as_ylo=&amp;as_vis=0">publications</a>, <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&amp;author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&amp;db_key=AST">citations</a>, talks and outreach material (e.g. <a href="/about-2/work/apod/">NASA APOD</a>)

@@ -1,9 +1,8 @@
 ---
-filename: _posts/project/2012-06-10-contribute-to-open-street-map.md
 layout: project
 category: project
-title: First contribution to Open Street Map
-status: completed 
+title: Data contribution to Open Street Map
+status: Completed 
 color: GreenYellow
 skills:
 - OSM
@@ -21,8 +20,8 @@ DC, where I live, is pretty well mapped, so I had to wait. When I went
 to Rio+20 I realized that the [Pão de
 Açúcar](http://en.wikipedia.org/wiki/Sugarloaf_Mountain_(Brazil)) only had points for the
 Cable car station and a couple of main tracks. And these were mapped
-using a satellite image with considerable slanted view. Since the Pão de
-Açúcar is considerably high, the projection effect displaced the track
+using a non-nadir satellite image with considerable slanted view. Since the Pão de
+Açúcar has a high height/width ratio, the projection effect displaced the track
 at the top by several meters. 
 
 ###Goal
