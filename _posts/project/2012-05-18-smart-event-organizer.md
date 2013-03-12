@@ -1,4 +1,5 @@
 ---
+filename: _posts/project/2012-05-18-smart-event-organizer.md
 layout: project
 category: project
 title: Smart Event Organizer
