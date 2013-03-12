@@ -1,5 +1,4 @@
 ---
-filename: _posts/blog/2013-03-12-young-global-leader-2013.md
 layout: post
 category: blog 
 title: Young Global Leader 2013
@@ -10,7 +9,7 @@ tags:
 - YGL
 ---
 
-Today the *World Economic Forum* ([WEF](http://www.weforum.org/)) announces this year´s "Young Global
+Today the *World Economic Forum* ([WEF](http://www.weforum.org/)) [announces](http://www.weforum.org/news/world-economic-forum-announces-young-global-leaders-class-2013) this year awards of  "Young Global
 Leaders"
 ([YGL](http://www.weforum.org/community/forum-young-global-leaders)). 
 I am one of them.
@@ -26,6 +25,7 @@ According to the website:
 >nomination process and assessed according to rigorous selection criteria
 > accepting only the very best leaders who have already demonstrated their
 >commitment to serving society at large."
+
 
 <!--more-->
 
@@ -63,9 +63,10 @@ Being a YGL, I am told, is a transformational experience. Certainly, having the
 chance to get to know such a *Forum* of *doers* will be motivating.
 
 For now, I´m planning to squeeze as much time as possible to take the
-most of this opportunity WEF is offering.
+most of this opportunity WEF is offering. Let´s do it.
 
 > "I don´t know where is the limit, but I know where the limit is not"
 @josefajram 
 
+{% youtube vtW1uqTpV94  %}
 
