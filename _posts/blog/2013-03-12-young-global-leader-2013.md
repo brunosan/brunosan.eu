@@ -71,3 +71,9 @@ most of this opportunity WEF is offering. Let´s do it.
 
 {% youtube vtW1uqTpV94  %}
 
+
+*Update*: Yahoo Spain has run an interview, [in spanish](http://es.noticias.yahoo.com/bruno-sanchez--astrofisico-espa%C3%B1ol-valioso-zuckerberg-federer-chris-martin-152850179.html). At some point it
+was on the [front page of
+Yahoo](https://twitter.com/brunosan/status/311540366912405504/photo/1). Crazy day.
+
+{% image yahoo-ygl.png %}
