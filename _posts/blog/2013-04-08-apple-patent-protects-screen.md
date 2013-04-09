@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-04-08-apple-patent-protects-screen.md
 layout: post
 category: blog 
 title: "[Idea] Apple patent to protect your phone screen"
