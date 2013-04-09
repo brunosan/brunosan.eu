@@ -18,7 +18,7 @@ increases the weight. I got an idea to fix that.
 <!--more-->
   Today I was attending a talk by [Mark P Mills](http://www.forbes.com/sites/markpmills/) on Patent Law at the Notre
 Dame Law School. He mentioned that Apple had just patented a way to
-prevent shattered iPhone screens, but he didn´t go until the details, 
+prevent shattered iPhone screens, but he didn´t go to the details, 
 just that he thought it was difficult.
 
 Apple indeed [has a patent to protect the hard
@@ -51,7 +51,7 @@ the rotation needed is less than the full 90˚ turn, the other
 2 screws will also be released, letting the battery separate at the
 exact moment the phone is properly oriented ( thus reducing also the weight on impact). 
 
-To increase the momentum of inertia of the battery, one could speed the angular speed using screws with small springs. Here is a
+To gain more momentum of inertia of the rotation of the battery, one could increase the angular speed using screws with small springs. Here is a
 quick sketch of the whole thing:
 
 {% image phone-battery.jpg %}
@@ -62,4 +62,3 @@ Apple would finally make replaceable batteries in the end. :)
 Update: For reference, as I upload this, I find the [Apple patent
 online](http://bsan.eu/17nQ1bv). I still thing my solution is better and
 simpler :)
-
