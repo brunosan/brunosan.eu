@@ -1,6 +1,6 @@
 # Brunosan.eu #
 
-This repository contains the source for my personal site at [{{site.baseurl}}]({{site.baseurl}}).
+This repository contains the source for my personal site at [brunosan.eu](http://brunosan.eu).
 
 The site runs on [Jekyll](https://github.com/mojombo/jekyll). 
 
