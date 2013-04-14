@@ -1,5 +1,5 @@
 # Brunosan.eu #
-category: 2004-09-15-astrofisico.md
+
 This repository contains the source for my personal site at [{{site.baseurl}}]({{site.baseurl}}).
 
 The site runs on [Jekyll](https://github.com/mojombo/jekyll). 
