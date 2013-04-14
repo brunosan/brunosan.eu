@@ -14,7 +14,7 @@ desc "publish updated site to gh-pages"
       system "rm -rf temp"
       system "git add -A && git commit -m \"#{args.commit_message}\""
       system "git push -f origin gh-pages"
-      system "git checkout master"
+      system "git checkout main"
       system "git push "
       system "echo 'Jekyll #{args.options} site has been delpoyed at #{Time.now}' | mail -s 'brunosan.eu -> #{args.commit_message}' brunosan@gmail.com"
     else
