@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-05-06-the-mirror-of-the-google-glass-inverted.md
 layout: post
 category: blog 
 title: Why is the mirror of the Google Glass inverted?
