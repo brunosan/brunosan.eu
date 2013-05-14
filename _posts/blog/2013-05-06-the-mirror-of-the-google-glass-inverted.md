@@ -13,9 +13,9 @@ tags:
 {% image glass-intro.jpg %}
 
 
-Today I had the chance to play for the first time with the Google Glass
+These past days I have had the chance to play for the first time with the Google Glass
 from [Silica Labs](http://www.silicalabs.com). This post is not about the
-experience, you can about that online. What drove my interest is
+experience, you can find about that online. What drove my interest is
 the hardware, in particular the eyepiece. If Google Glass is to become
 popularized, the eyepiece needs to be as small and invisible as possible. 
 I´m pretty sure they have invested a lot of time on that. 
@@ -28,7 +28,7 @@ geeky aspect that much.
 <!--more-->
 
 If you look closely you´ll see that the eyepiece is a nanoprojector
-inside the bulk piece. This little image is sent sideways to a 50% mirror
+inside the bulk piece. The little image is sent sideways to a 50% mirror
 that directs half the light to the eye. This is
 done to also allow 50% of the light from the outside reach the eye, thus
 making the image superimposed over the real world.
@@ -53,8 +53,9 @@ Why the second option, with a double pass?
 I think the reason is augmentation. The mirror at the end is not flat,
 but slightly spherical (or parabolic). A concave mirror creates an
 augmented virtual image if the object is before the focus. On the side
-image you can see the piece is nearly flat but no quite so. The radius is much
-bigger than the distance to the eye. The virtual image if the screen is
+image you can see the piece is nearly flat but no quite so. Thus the image you see 
+on the outside (convex mirror) is smaller. The radius is much
+bigger than the distance to the eye. The virtual image if the screen is therefore
 then bigger than it would be with a flat mirror.
 
 This means that the overall light path on the eyepiece of the Google
@@ -70,7 +71,7 @@ I believe there must be better options, smaller and less visible when you
 wear them. Perhaps:
 
 * A single non-flat semi-transparent mirror instead of the flat one. This what we use on a special type of telescopes. They
-are called asymmetrical or *off-axis*. They come with their own set of
+are called asymmetrical or *[off-axis](http://en.wikipedia.org/wiki/Reflecting_telescope#Off-axis_designs)*. They come with their own set of
 problems (like chromatic aberrations), but in such a small light path I
 would still argue to try it, with some combination of software to
 correct these problems. Still, that option would probably introduce strange field aberrations on
@@ -81,7 +82,7 @@ the transmitted background image.
 field of vision, so it´s only available on the corner, not in the middle
 of your normal view. 
 
-##Ideas for Apps for the Google Glass
+###Ideas for Apps for the Google Glass
 
 After using them for a weekend, talking about them with colleagues at
 [Silica Labs](http://www.silicalabs.com), and wear them at various
@@ -105,7 +106,7 @@ of accident if you are on the road, you are a police officer, or you
 think you saw something worth saving when it already started.  
 
 * *Glass Notifier*. An app that just pushes notifications to your Glass.
-  I´m thinking of any app currently flashes notification on your phone.
+  I´m thinking of any app that currently flashes notification on your phone.
 Just taking them and pushing them as a card to the glass. (Agenda,
 Whatsapp, Facebook, Instagram, Google Now, Email)
 
