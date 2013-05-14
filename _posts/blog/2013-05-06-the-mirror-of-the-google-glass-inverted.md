@@ -9,7 +9,7 @@ tags:
 - hardware
 ---
 
-{% image glass-concept.png %}
+{% image glass-intro.jpg %}
 
 
 Today I had the chance to play for the first time with the Google Glass
@@ -80,4 +80,33 @@ the transmitted background image.
 field of vision, so it´s only available on the corner, not in the middle
 of your normal view. 
 
+##Ideas for Apps for the Google Glass
 
+After using them for a weekend, talking about them with colleagues at
+[Silica Labs](http://www.silicalabs.com), and wear them at various
+situations, I got a few ideas for apps:
+
+* *Climb app*. Save videos and pictures of your climbs. At any climbing
+  place, make a picture of the route to help you flash tricky points,
+locate best places for hooks and save videos as you make your way up. If
+the route is long, the belayer can talk and see the climber and
+videochat to give support without releasing the rope.
+
+* *Talking queues*. When you meet someone and start talking,
+  start flashing cards of his/her interest, pictures, notes. Content
+could come from the CV if it´s a work interview, OkCupid profile if it´s
+a first date, live speech assistance from someone who is listening and
+watching what you see, ...
+
+* *Buffer record*. Continuously save video or frames every few seconds,
+  and overwrite them in a continuous loop. This can be important in case
+of accident if you are on the road, you are a police officer, or you
+think you saw something worth saving when it already started.  
+
+* *Glass Notifier*. An app that just pushes notifications to your Glass.
+  I´m thinking of any app currently flashes notification on your phone.
+Just taking them and pushing them as a card to the glass. (Agenda,
+Whatsapp, Facebook, Instagram, Google Now, Email)
+
+
+{% image glass-capitol.jpg %}
