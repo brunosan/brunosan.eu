@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-06-16-my-impact-journey-to-rural-myanmar.md
 layout: post
 category: blog
 title: My Impact Journey to rural Myanmar
