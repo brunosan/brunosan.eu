@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-06-17-mi-vida-en-el-max-planck.md
 layout: post
 category: blog
 title: Mi vida en el Max Planck
