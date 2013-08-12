@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-07-10-today-is-my-last-day-at-gain.md
 layout: blog
 category: project
 title: Today is my last day at GAIN

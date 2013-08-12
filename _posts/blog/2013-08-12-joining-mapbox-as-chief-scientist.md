@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-08-12-joining-mapbox-as-chief-scientist.md
 layout: post
 category: blog
 title: Joining MapBox as Chief Scientist
