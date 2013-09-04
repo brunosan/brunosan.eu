@@ -6,7 +6,7 @@ exclude: ["legacy-imports", "Rakefile", "README.md", "_template.md", "new.rb", "
 multivews: true
 
 author:    "Bruno Sánchez-Andrade Nuño - brunosan"
-description:    "Science works regardless of what people think, but it´s better when they do."
+description:    "Scientist exploring other worlds. Alien of extraordinary ability"
 keywords: "science, technology, outreach, ciencia, tecnologia, divulgacion"
 root_desc:      "Brunosan"
 baseurl:      http://brunosan.eu
