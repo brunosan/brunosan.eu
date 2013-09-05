@@ -11,11 +11,11 @@ Content of this site serve to reach out and share my interests. Thanks for stop
 
 I´m mostly interested in bridging the gaps between **Science, Technology and Society**. I´m fascinated by new technologies that empowers society, development, sustainability or crisis response. 
 
-I´m a **scientist**. I have a [PhD](/2008/11/13/phd/) in Astrophysics. I´ve used some of the [best](/2008/07/20/ultimo-dia-en-la-vtt/) ground telescopes of the world. I also did a [Postdoc](http://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory) with NASA satellites and rockets. I´ve always loved science [outreach](/tags/Outreach/). This is why I jumped the opportunity to help bring S&T closer to society when I was offered a [Mirzayan](/2010/12/09/101-days-as-science-and-technology-policy-fellow/) Fellowship at the National Academies of Sciences in 2010.
+I´m a **scientist**. I have a [PhD](/2008/11/13/phd/) in Astrophysics. I´ve used some of the [best](/2008/07/20/ultimo-dia-en-la-vtt/) ground telescopes of the world. I also did a [Postdoc](http://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory) with NASA satellites and rockets. I´ve always loved science [outreach](/tags/Outreach/). This is why I jumped the opportunity to help bring S&T closer to society when I was offered a [Mirzayan](/2010/12/09/101-days-as-science-and-technology-policy-fellow/) Fellowship at the National Academies of Sciences in 2010. I then worked to bring open data to the climate change arena when I worked as Director for Science and Technology at the NGO [Gain](http://gain.org/).
 
 [Coding](https://github.com/brunosan) goes hand to hand with S&T. I´m an open-source open-data advocate, and I´m continuously trying to improve as a **developer**. Very honored to be finalist at the ["Apps for Development"](/2011/06/07/know-your-world-says-thank-you/) World Bank competition.
 
-My current work is climate change adaptation and creating an open data open source metric. This is what I do at the NGO Gain as the [Director](http://gain.org/team/bruno-sanchez-andrade-nuno/) for Science and Technology.
+My current work is Chief Scientists at [MapBox](www.mapbox.com). We are pushing what´s possible  with geolocation services, mapping and satellite images all with open data and open software.
 
 In 2013 I was awarded "[Young Global Leader](/2013/03/12/young-global-leader-2013/)" by the World Economic Forum.
 
