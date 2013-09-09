@@ -65,7 +65,7 @@ to push myself, I need to or I´ll be too slow. I pass him back and
 another guy with another fancy swoosshy red bike passes me. And I go
 again. The three of us spent the whole 40K passing each other, every 5
 minutes at most. I think this was the key to make an awesome bike leg. I
-*averaged* 26 mph (36 km/h). I could hardly push further. We were not
+*averaged* 22 mph (35 km/h). I could hardly push further. We were not
 the first, but only a handful
 other riders passed us. I had to force myself to drink and eat energy
 gels. As we were cruising the city I got glimpses of the landmarks, the
@@ -116,7 +116,7 @@ feeling absolutely amazing.
 
 Turns out my estimate of 3 hours was way off. [My official time](http://nationstri.com/results-2013-results.html#/results:&AthleteSearch=397&Division=All:1378680178590) is 2 hours 34 minutes, an incredible
 time to me. The swimming was just on par to my best trainings in the pool, the
-bike was the best of my legs, where I *averaged* 36 km/h on a mostly
+bike was the best of my legs, where I *averaged* 35 km/h on a mostly
 flat course. The run was 47 minutes, 7:35 minutes per mile (my record in 10K -only running-
 is 44:15 minutes). Many things could have gone wrong today, but few could have gone
 better. I can´t say being vegan helps or not, but
