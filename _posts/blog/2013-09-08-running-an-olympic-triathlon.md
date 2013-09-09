@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-09-08-running-an-olympic-triathlon.md
 layout: post
 category: blog 
 title: Running an Olympic triathlon
