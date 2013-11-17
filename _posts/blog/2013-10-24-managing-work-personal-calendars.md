@@ -11,8 +11,7 @@ tags:
 
 {% image cal-cover.png  %}
 
-> Lately I have been asked about how I manage my Calendars. I am not very happy with it, neither I think it scales up, but it
-works well for me, and it is much better than what I have seen people use.
+> Lately I have been asked about how do I manage my Calendars. My system is far from ideal, but turns out to be much better than what many people seem to use.
 
 ### The problem
 
@@ -20,7 +19,7 @@ works well for me, and it is much better than what I have seen people use.
 * I don´t want my coworkers to see my personal details but I want to let them know
 I´ll be busy. 
 * I want to let someone else manage my work calendar if needed. 
-* I want to see/edit/add all calendars using the Cal App on my Mac, or the web, or my phone (Android and iPhone).
+* I want to have an updated calendar across all my devices. That also means to see/edit/add events using the Cal App on my Mac or my phones (Android and iPhone).
 
 
 ### The solution
@@ -34,7 +33,7 @@ your personal email with full access so you can transfer event between calendars
 <!--more-->
 
 1. **Personal calendar**: Go to the calendar on your personal Google
-   account and make a calendar called "Bruno personal". Then got to sharing and share it:
+   account and make a calendar called "Bruno personal". Then go to sharing and share it:
     * Share with full rights with your work email.
     * Share as "free/busy" with the coworkers you need. This is the part
       that scales bad, you need to add them one by one.
@@ -43,7 +42,7 @@ your personal email with full access so you can transfer event between calendars
     * Share it with your personal email with full rights.
     * Select the option to share full details with all your coworkers.
     * Add whoever should have edit access.
-    * The *admin* of the domain can change the default option to share all details with everyone within the organization.
+    * Pro tip: The *admin* of the domain can change the default option across all coworkers to share all details with everyone within the organization.
 
     {% image cal-share.png  %}
 
