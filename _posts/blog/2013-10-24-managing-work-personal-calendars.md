@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2013-10-24-managing-work-personal-calendars.md
 layout: post
 category: blog 
 title: Managing work/personal Calendars
