@@ -1,8 +1,8 @@
 ---
-filename: _posts/blog/2013-05-06-the-mirror-of-the-google-glass-inverted.md
+filename: _posts/blog/2013-05-06-mirror-google-glass-inverted.md
 layout: post
 category: blog 
-title: Why is the mirror of the Google Glass inverted?
+title: "Why is the mirror of the Google Glass inverted?"
 published: true 
 tags:
 - google
