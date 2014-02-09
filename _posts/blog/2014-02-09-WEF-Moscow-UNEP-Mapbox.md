@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2014-02-09-WEF-Moscow-UNEP-Mapbox.md
 layout: post
 category: blog 
 title: Moscow, United Nations and, mostly, Mapbox
