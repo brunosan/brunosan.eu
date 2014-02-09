@@ -76,4 +76,4 @@ Some of the things I have written about on our company blog:
 
 ### Putting the Google Glasses to my president
 
-Yeah, that happened, but prabably deserves a blog post of it´s own. [soon]
+Yeah, that happened, but probably deserves a blog post of it´s own. [soon]
