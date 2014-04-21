@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2014-04-15-Demoing-Google-glass-to-the-Spanish-president.md
 layout: post
 category: blog 
 title: Demoing the Google Glass to the Spanish president

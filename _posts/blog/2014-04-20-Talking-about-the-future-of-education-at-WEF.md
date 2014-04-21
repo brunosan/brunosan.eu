@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2014-04-20-Talking-about-the-future-of-education-at-WEF.md
 layout: post
 category: blog 
 title: Talking about the Future of Education at the World Economic Forum
