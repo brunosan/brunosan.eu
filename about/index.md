@@ -2,8 +2,10 @@
 filename: about/index.md
 layout: default
 title: About
+redirect_from: "/"
 redirects:
 - about-2/
+  /
 ---
 <a title="Death Valley by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/4637385431/"><img class="aligncenter" src="/media/death-valley.jpeg" alt="IMG_4132" width="100%" /></a>
 

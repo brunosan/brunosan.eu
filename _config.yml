@@ -18,3 +18,5 @@ pullrequesturl : "http://prose.io/#brunosan/brunosan.eu/edit/main/"
 
 
 redirects: yes
+gems:
+  - jekyll-redirect-from
