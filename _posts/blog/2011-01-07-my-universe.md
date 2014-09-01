@@ -1,7 +1,7 @@
 --- 
 filename: _posts/blog/2011-01-07-my-universe.md
 category: blog
-layout: page
+layout: post
 status: publish
 meta: 
   _wp_page_template: default
