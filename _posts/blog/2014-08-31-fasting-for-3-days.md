@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2014-08-31-fasting-for-3-days.md
 layout: post
 category: blog
 title: Fasting for 3 days
