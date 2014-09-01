@@ -9,7 +9,6 @@ author:    "Bruno Sánchez-Andrade Nuño - brunosan"
 description:    "Scientist exploring other worlds. Alien of extraordinary ability"
 keywords: "science, technology, outreach, ciencia, tecnologia, divulgacion"
 root_desc:      "Brunosan"
-baseurl:      http://brunosan.eu
 
 rdiscount:
     extensions: [smart]
