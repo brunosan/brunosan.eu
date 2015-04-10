@@ -9,6 +9,15 @@ I'm more than pleased if you wish to borrow from my design but please be sure th
 
 Thanks!
 
+# Install #
+
+You need bundler
+    sudo gem install bundler
+    bundle update
+
+Then install the gems on the Gemfile
+    bundle install
+
 # Licensing #
 All the content (files and folders in _posts) along with the HTML files and index are under the [Attribution 3.0 Unported (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/) license (in short, my work is my contribution to free culture.)
 
