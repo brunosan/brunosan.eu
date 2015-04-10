@@ -1,4 +1,5 @@
 safe: false
+encoding: utf-8
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title/
