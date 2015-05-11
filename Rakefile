@@ -34,7 +34,7 @@ task :bdraft, [:title, :category] do |t, args|
     file.write <<-EOS
 ---
 layout: post
-category: project
+category: blog 
 title: #{args.title}
 published: false
 tags:
