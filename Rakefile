@@ -27,7 +27,7 @@ desc "give title as argument for draft post"
 # usage rake draft["Post Title Goes Here"]
 # category is optional
 task :bdraft, [:title, :category] do |t, args|
-  filename = "#{Time.now.strftime('%Y-%m-%d')}-#{args.title.gsub(/\s/, '-').downcase}.md"
+  filename = "#{Time.now.strftime('%Y-%m-%d')}-#{args.title.to_s.gsub(/\s/, '-').downcase}.md"
   path = File.join("_posts/blog", filename)
   if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
   File.open(path, 'w') do |file|
