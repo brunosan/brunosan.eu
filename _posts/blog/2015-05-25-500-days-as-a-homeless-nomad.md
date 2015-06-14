@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2015-05-25-500-days-as-a-homeless-nomad.md
 layout: post
 category: blog 
 title: 500 days as a homeless nomad
