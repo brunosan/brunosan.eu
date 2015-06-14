@@ -283,6 +283,7 @@ h4 {
 }
 
 img {
+  width: 100%;
   color: transparent;
   font-size: 0;
   vertical-align: middle;
