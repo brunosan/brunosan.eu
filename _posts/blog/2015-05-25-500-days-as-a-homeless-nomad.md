@@ -34,7 +34,7 @@ This absolutely uncommitted settlement predated over the rest of my life. I beca
 
 Two months ago I left that life. I decided to sign a year lease in DC. The nomadic life was fun, I learnt a lot, and offered a lot of uncommon moments and though processes. But it was also very taxing in my mind. Signing the lease was oddly a relief, and gave much much mental space to focus on my new job and other things, instead of where I would sleep next week. Still it was very uncomfortable to buy forks, or bedding for the new place. I love sleeping in *my* bed, but I can't help it to have a very minimalistic place now. 
 
-My new "experiment" is that everything I have is bought online (Ikea, Amazon and [From the Farmer](#) is 99% of all I need). My friends tells me it looks like an Airbnb spot, and I guess it makes sense.
+My new "experiment" is that everything I have is bought online (Ikea, Amazon and [From the Farmer](http://wwww.fromthefarmer.com) is 99% of all I need). My friends tells me it looks like an Airbnb spot, and I guess it makes sense.
  
 
 
