@@ -5,7 +5,7 @@ desc "publish updated site to gh-pages"
     if args.commit_message
       puts "Committing and pushing_site into gh-pages branch with message: #{args.commit_message}"
       system "./add-filenames-to-posts.sh"
-      system "jekyll build"
+      system "bundle exec jekyll build"
       system "git add -A && git commit -m \"#{args.commit_message}\""
       system "git checkout -f gh-pages"
       system "mkdir temp"
@@ -34,11 +34,11 @@ task :bdraft, [:title, :category] do |t, args|
     file.write <<-EOS
 ---
 layout: post
-category: blog 
+category: blog
 title: #{args.title}
 published: false
 tags:
-- 
+-
 ---
 EOS
     end
@@ -63,7 +63,7 @@ published: false
 status: drafted
 color: Grey
 skills:
-- 
+-
 ---
 
 Description
