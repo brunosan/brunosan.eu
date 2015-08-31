@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2015-08-29-the-missing-knowledge-revolution.md
 layout: post
 category: blog
 title: The missing knowledge revolution
