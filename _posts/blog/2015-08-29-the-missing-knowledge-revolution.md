@@ -8,10 +8,10 @@ published: true
 
 We are living a fundamental (as opposed to incremental) data revolution which enables an, also fundamental, information revolution. In the [classical DIK view](https://en.wikipedia.org/wiki/DIKW_Pyramid) of `Data`, then `Information`, and then `Knowledge`; we are still missing the third layer. That isn't happening, neither I argue it will if we don't have stronger leaders shaping the right direction.
 
-[![](https://pbs.twimg.com/media/CMMv2cMUkAIw1fX.jpg)](https://twitter.com/pablojenkins/status/631400999681433600?ref_src=twsrc%5Etfw)
+[![](https://farm1.staticflickr.com/776/20666182552_876cb5bf60_z_d.jpg)](https://www.flickr.com/photos/yglvoices/20666182552/in/photostream/)
 Klaus Schwab introducing our panel discussion.
 
-Earlier this month I was part of a [WEF panel on the current trends of knowledge and technology](https://twitter.com/alemannoEU/status/631408130509918208). The panel had the Forum's leads on these topics and [Claire Boonstra](https://www.youtube.com/watch?v=AEDM3zzYN_I). The plenary had ~500 fellow global leaders from around the world. We had a great discussion, and these are some thoughts I collected before, during and after the session.
+Earlier this month I was part of a [WEF panel on the current trends of knowledge and technology](https://twitter.com/alemannoEU/status/631408130509918208). The panel had the Forum's leads on these topics and the amazing Claire Boonstra ([e.g. just check her TED talk on value based education](https://www.youtube.com/watch?v=AEDM3zzYN_I)]. The plenary had ~500 fellow global leaders from around the world. We had a great discussion, and these are some thoughts collected before, during and after the session (under [Chatham House Rule](https://en.wikipedia.org/wiki/Chatham_House_Rule)).
 
 The `data` revolution stands over several facts, among them the exponentially diminishing costs for [generating](http://www.economist.com/node/15557443), [storing](https://www.backblaze.com/blog/farming-hard-drives-2-years-and-1m-later/) and [processing](http://www.singularity.com/charts/page62.html) it. Very roughly speaking every 5 years these costs are one order of magnitude cheaper, and we have one order of magnitude more. "Silicon Valley" is pushing this trend as part of the elastic business model: More data to profile and optimize ads and operations.
 
