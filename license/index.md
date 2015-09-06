@@ -4,7 +4,6 @@ status: publish
 published: true
 type: page
 tags: []
-
 title: License
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img style="centre" src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License" width="88" height="31" /></a></p>
