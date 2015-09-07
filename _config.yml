@@ -11,11 +11,13 @@ description:    "Scientist exploring other worlds. Alien of extraordinary abilit
 keywords: "science, technology, outreach, ciencia, tecnologia, divulgacion"
 root_desc:      "Brunosan"
 
-rdiscount:
-    extensions: [smart]
 
 pullrequesturl : "http://prose.io/#brunosan/brunosan.eu/edit/main/"
-
+rdiscount:
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # footnotes
+    - smart         # typographic substitutions with SmartyPants
 
 redirects: yes
 gems:
