@@ -120,7 +120,7 @@ blockquote {
 img.center {
   display: block;
   margin-left: auto;
-  margin-right: auto; 
+  margin-right: auto;
 }
 
 section {
@@ -283,7 +283,6 @@ h4 {
 }
 
 img {
-  width: 100%;
   color: transparent;
   font-size: 0;
   vertical-align: middle;
@@ -309,7 +308,7 @@ ul {
 
 #entry-post a {
   text-decoration: none;
-  border: none;  
+  border: none;
 }
 
 #entry-link {
@@ -451,7 +450,7 @@ pre, code {
   pre.console code {
     background-color: #333;
   }
-  
+
 footer {
 	border-top: 1px solid #bcbcbc;
 	margin: 23px 0 50px 200px;
@@ -488,36 +487,36 @@ footer a:hover {
   list-style: none;
 }
 
-#feedback { 
+#feedback {
 	width: 106px;
-	position: fixed; 
+	position: fixed;
 	top: 1px;
-	right:0; 
+	right:0;
 	z-index: 99999;
 	/* transform: rotate(-90deg);
-		-webkit-transform: rotate(-90deg); 
-		-moz-transform: rotate(-90deg); 
-		-o-transform: rotate(-90deg); 
+		-webkit-transform: rotate(-90deg);
+		-moz-transform: rotate(-90deg);
+		-o-transform: rotate(-90deg);
 		filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 	*/
 }
 
-#feedback a { 
-	display: block; 
-	background: #182945; 
-	height: 15px; 
-	width: 70px; 
+#feedback a {
+	display: block;
+	background: #182945;
+	height: 15px;
+	width: 70px;
 	padding: 8px 16px;
-	color: #fff; 
-	font-family: Arial, sans-serif; 
-	font-size: 17px; 
-	font-weight: bold; 
-	text-decoration: none; 
+	color: #fff;
+	font-family: Arial, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	text-decoration: none;
 	border-bottom: solid 1px #333; border-left: solid 1px #333; border-right: solid 1px #fff;
 }
 
-#feedback a:hover { 
-	background: #333; 
+#feedback a:hover {
+	background: #333;
 }
 
 .tbox {position:absolute; display:none; padding:14px 17px; z-index:900}
@@ -555,7 +554,7 @@ a[href^="http://localhost"]:not(.btn) {
 		width: 90%;
 		margin: 0 auto;
 	}
-	
+
 	header {
 		width: 100%;
 		position: relative;
@@ -565,7 +564,7 @@ a[href^="http://localhost"]:not(.btn) {
 		text-align: center;
 		margin: 46px auto 23px;
 	}
-	
+
 	nav {
 		width: 100%;
 		position: relative;
@@ -575,18 +574,18 @@ a[href^="http://localhost"]:not(.btn) {
 		text-align: center;
 		margin: 0 auto;
 	}
-	
+
 	nav ul {
 		display: inline-block;
 		margin: 0;
 		font-size: 100%;
 	}
-	
+
 	nav ul li {
 		display: inline-block;
 		margin: 0 10px;
 	}
-	
+
 	#ad {
     display: none;
   }
@@ -596,16 +595,16 @@ a[href^="http://localhost"]:not(.btn) {
 		width: 100%;
 		margin: 46px 0 0;
 	}
-	
+
 	article h1 {
 		text-align: center;
 	}
-	
+
 	iframe {
     border:5px #7BBDBC;
 
   }
-  
+
   section {
 		border-top: 1px solid #bcbcbc;
 		margin-top: 23px;
@@ -614,7 +613,7 @@ a[href^="http://localhost"]:not(.btn) {
 		width: 100%;
 		margin: 23px 0 0;
 	}
-	
+
 	footer {
 		width: 100%;
 		border-top: 1px solid #bcbcbc;
