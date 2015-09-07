@@ -116,7 +116,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div> 
 <div id="access" role="navigation">
 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about/license/">License</a></li><li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
 </div> 
 </div> 
 </div> 
@@ -161,7 +161,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <li>All around the building there are screen will all the meetings for the day. Each morning stop by, look at them and find out the most interesting. Ask the responsible if you can join, most likely you will be able. Even closed sessions. Just honor the confidentiality rules.</li>
 <li>Don&#8217;t tweet or blog anything said during closed or open session. Don&#8217;t post personal comments on those either. What you can do is to mention and share information that is already public. Like announcements of open sessions, webcasts and the like. I did tweet some, you can search for the <a href="http://www.google.com/#q=mirzayan&amp;hl=en&amp;prmd=iv&amp;source=lnms&amp;tbs=mbl:1&amp;ei=VP4ATavUN4S0lQe0uZz8CA&amp;sa=X&amp;oi=mode_link&amp;ct=mode&amp;ved=0CA4Q_AU&amp;prmdo=1&amp;fp=6b6197850fe1fb69">#mirzayan</a> hashtag on Twitter.</li>
 <li>Get to know your fellow fellows. They all have amazing histories. They are all committed to the same objective, and very very smart. I truly respect and trust all of my fellow fellows. They are amazing.</li>
-<li>And above all, <a href="/about-2/">enjoy</a>.</li>
+<li>And above all, <a href="/about/">enjoy</a>.</li>
 </ul>
 </div>
 <p style="text-align:center;"><a title="Inside the White House" href="http://www.flickr.com/photos/nasonurb/5105734154/"><img class="aligncenter" src="http://farm2.static.flickr.com/1102/5105734154_3042d42344.jpg" alt="Inside the White House" width="50%"/></a></p>
@@ -326,7 +326,7 @@ jQuery(document).ready(function(){
 </div> 
 <div id="primary" class="widget-area" role="complementary">
 <ul class="xoxo">
-<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about-2/">Scientist.</a>
+<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about/">Scientist.</a>
 Advocate for a world where science, technology and society listen to each other.</div>
 </li><li id="twitter-3" class="widget-container widget_twitter"><h3 class="widget-title"><a href='http://twitter.com/brunosan'>My Twitter feed</a></h3><ul class='tweets'>
 <li>Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://espn.go.com/watchespn/player?id=496987#"> espn.go.com/watchespn/play…</a> <a href="http://twitter.com/brunosan/statuses/219512842490089477" class="timesince">12&nbsp;hours&nbsp;ago</a></li>
@@ -338,15 +338,15 @@ Advocate for a world where science, technology and society listen to each other.
 <li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li>
 <li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li>
 <li class="page_item page-item-27"><a href="/contact/">Contact</a></li>
-<li class="page_item page-item-241"><a href="/about-2/">About</a>
+<li class="page_item page-item-241"><a href="/about/">About</a>
 <ul class='children'>
-<li class="page_item page-item-73"><a href="/about-2/license/">License</a></li>
-<li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li>
-<li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li>
-<li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a>
+<li class="page_item page-item-73"><a href="/about/license/">License</a></li>
+<li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li>
+<li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li>
+<li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a>
 <ul class='children'>
-<li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li>
-<li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li>
+<li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li>
+<li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li>
 </ul>
 </li>
 </ul>

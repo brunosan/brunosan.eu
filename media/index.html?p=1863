@@ -110,7 +110,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div> 
 <div id="access" role="navigation">
 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about/license/">License</a></li><li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
 </div> 
 </div> 
 </div> 
@@ -126,7 +126,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Posted on</span> <a href="/2011/02/15/on-my-3rd-phd-anniversary-and-unemployed-so-what/" title="10:57 pm" rel="bookmark"><span class="entry-date">February 15, 2011</span></a> <span class="by-author"><span class="sep">by</span> <span class="author vcard"><a class="url fn n" href="/author/nasonurb/" title="View all posts by brunosan" rel="author">brunosan</a></span> </span> </div> 
 <div class="entry-content">
-<p>Exactly three years ago I defended my <a href="/about-2/work/phd/">PhD</a> in Goettingen, Germany. Today is my <em>birthday</em> as Doctor. Around then I had then an offer to work at <a href="http://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory">best place</a> in the world in my field, which I accepted. I also had an invitation to<a href="http://brunosan.blogspot.com/2008/09/cuantas-peluqueras-hay-en-madrid.html"> interview with McKinsey</a> and was drafted for the <a href="http://brunosan.blogspot.com/2008/09/bruno-astronauta.html">astronaut election process</a>.  It was a great moment.</p>
+<p>Exactly three years ago I defended my <a href="/about/work/phd/">PhD</a> in Goettingen, Germany. Today is my <em>birthday</em> as Doctor. Around then I had then an offer to work at <a href="http://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory">best place</a> in the world in my field, which I accepted. I also had an invitation to<a href="http://brunosan.blogspot.com/2008/09/cuantas-peluqueras-hay-en-madrid.html"> interview with McKinsey</a> and was drafted for the <a href="http://brunosan.blogspot.com/2008/09/bruno-astronauta.html">astronaut election process</a>.  It was a great moment.</p>
 <div style="text-align:center;">
 <p style="text-align:left;">Today I am unemployed.</p>
 <p style="text-align:left;">So What?</p>
@@ -340,7 +340,7 @@ jQuery(document).ready(function(){
 </div> 
 <div id="primary" class="widget-area" role="complementary">
 <ul class="xoxo">
-<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about-2/">Scientist.</a>
+<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about/">Scientist.</a>
 Advocate for a world where science, technology and society listen to each other.</div>
 </li><li id="twitter-3" class="widget-container widget_twitter"><h3 class="widget-title"><a href='http://twitter.com/brunosan'>My Twitter feed</a></h3><ul class='tweets'>
 <li>Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://espn.go.com/watchespn/player?id=496987#"> espn.go.com/watchespn/play…</a> <a href="http://twitter.com/brunosan/statuses/219512842490089477" class="timesince">13&nbsp;hours&nbsp;ago</a></li>
@@ -352,15 +352,15 @@ Advocate for a world where science, technology and society listen to each other.
 <li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li>
 <li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li>
 <li class="page_item page-item-27"><a href="/contact/">Contact</a></li>
-<li class="page_item page-item-241"><a href="/about-2/">About</a>
+<li class="page_item page-item-241"><a href="/about/">About</a>
 <ul class='children'>
-<li class="page_item page-item-73"><a href="/about-2/license/">License</a></li>
-<li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li>
-<li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li>
-<li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a>
+<li class="page_item page-item-73"><a href="/about/license/">License</a></li>
+<li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li>
+<li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li>
+<li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a>
 <ul class='children'>
-<li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li>
-<li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li>
+<li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li>
+<li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li>
 </ul>
 </li>
 </ul>

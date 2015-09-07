@@ -7,19 +7,15 @@ tags:
 - github
 ---
 
-
-**I´m migrating my blog to this new system. Sorry for the many bugs. I´ll
-appreciate any [comments or suggestions](email:brunosan@gmail.com).**
-
 When I migrated this site to [Jekyll](http://jekyllrb.com/) I wanted to focus on the content. Any page on this blog is less than 2 clicks away. I´ve been blogging since 2004, so this means I have over 200 pages. While testing the new site I was flabbergasted with the many typos and edits I wanted to correct or complement on **many** of the posts.
 
-Fortunately this new system allows to make hose edits very easily. Even better, it allows **anyone** to send edits. I got the idea from [dfm](https://github.com/dfm/dfm.github.com/blob/master/assets/comments.js), that uses it as a comment system. 
+Fortunately this new system allows to make hose edits very easily. Even better, it allows **anyone** to send edits. I got the idea from [dfm](https://github.com/dfm/dfm.github.com/blob/master/assets/comments.js), that uses it as a comment system.
 
-I can review or comment on any requested change, and add them extremely easy. Also any change is properly authored in the repository. 
+I can review or comment on any requested change, and add them extremely easy. Also any change is properly authored in the repository.
 
 That´s what the little button at the bottom of each post does. This ""*Send edit request*"" button is basically a link to a Github [*Pull Request*](https://help.github.com/articles/using-pull-requests).
 
-And this is how it works:<!--more--> 
+And this is how it works:<!--more-->
 
 1- When you see a post you want to edit, click on "Send edit request":
 
@@ -39,7 +35,7 @@ front end to edit files.
 {% image Login.png %}
 
 4- You'll start here after your first edit. Editing a file is just one click away. Just type and edit at will.
-**Thanks!!!** When you are done, just click "Send patch" 
+**Thanks!!!** When you are done, just click "Send patch"
 
 {% image edit.png %}
 
@@ -69,31 +65,40 @@ This functionality is **huge** when developing software, specially open-source s
 **In my case all I need to do is create that link.**
 
 For example, this post that lives here:
-    {{page.url}}
-and its filename is:
-    {{page.filename}}
-therefore the link should be:
-	  https://github.com/brunosan/brunosan.eu/edit/master/_posts/2012-07-01-jekyll-pull-requests.md
 
-Or if I want to use the beautiful [prose](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/) interface I use this link: 
+      {{page.url}}
+
+and its filename is:
+
+      {{page.filename}}
+
+therefore the link should be:
+
+  	  https://github.com/brunosan/brunosan.eu/edit/master/_posts/2012-07-01-jekyll-pull-requests.md
+
+Or if I want to use the beautiful [prose](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/) interface I use this link:
+
 	http://prose.io/#brunosan/brunosan.eu/master/_posts/2012-07-01-jekyll-pull-requests.md
-	
-Now, getting the filename is tricky. Jekyll can write the URL of the page, for example the url above was made via Liquid using 
+
+Now, getting the filename is tricky. Jekyll can write the URL of the page, for example the url above was made via Liquid using
 `{ { page.url } }` but there is no built-in variable `{ {
 page.filenmae } }`
 
 [Dan Foreman](http://www.twitter/dfm) constructed the filename using the date and title, but filenames can be different from titles. What I did is to create the variable `filename` on the YAML:
-	---
+
+  ```yaml
+   ---
 	layout: post
 	title: Jekyll and Pull Requests
 	tags:
 	- github
 	---
+  ```
 
 I would hate to need to add this manually, so I made a simple shell script that checks if the filename variable is present, and it adds it if not:
 
 {% gist 3058846 %}
-	
+
 On [my rake file](https://github.com/brunosan/brunosan.eu/blob/master/Rakefile) for deploy I just have a quiet version of this script
 before running `jekyll`.
 
@@ -101,7 +106,8 @@ On my `_config.yml` I set up a variable for the link header:
     pullrequesturl: https://github.com/brunosan/brunosan.eu/edit/master/_posts/
 
 Once all these few and easy steps are done, all I have to do then is add this link as a button, and let the magic happen:
-    <a id="pull-request-btn" class="btn"        
+
+    <a id="pull-request-btn" class="btn"
     href="{ { site.pullrequesturl}} { { page.filename}}">
 
 You can see a [list of all my Pull Request](https://github.com/brunosan/brunosan.eu/pulls). Feel free to comment or test it. Just click below!

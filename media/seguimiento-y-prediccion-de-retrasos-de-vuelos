@@ -112,7 +112,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div> 
 <div id="access" role="navigation">
 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about/license/">License</a></li><li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
 </div> 
 </div> 
 </div> 
@@ -286,7 +286,7 @@ jQuery(document).ready(function(){
 </div> 
 <div id="primary" class="widget-area" role="complementary">
 <ul class="xoxo">
-<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about-2/">Scientist.</a>
+<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about/">Scientist.</a>
 Advocate for a world where science, technology and society listen to each other.</div>
 </li><li id="twitter-3" class="widget-container widget_twitter"><h3 class="widget-title"><a href='http://twitter.com/brunosan'>My Twitter feed</a></h3><ul class='tweets'>
 <li>Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://espn.go.com/watchespn/player?id=496987#"> espn.go.com/watchespn/play…</a> <a href="http://twitter.com/brunosan/statuses/219512842490089477" class="timesince">11&nbsp;hours&nbsp;ago</a></li>
@@ -298,15 +298,15 @@ Advocate for a world where science, technology and society listen to each other.
 <li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li>
 <li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li>
 <li class="page_item page-item-27"><a href="/contact/">Contact</a></li>
-<li class="page_item page-item-241"><a href="/about-2/">About</a>
+<li class="page_item page-item-241"><a href="/about/">About</a>
 <ul class='children'>
-<li class="page_item page-item-73"><a href="/about-2/license/">License</a></li>
-<li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li>
-<li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li>
-<li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a>
+<li class="page_item page-item-73"><a href="/about/license/">License</a></li>
+<li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li>
+<li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li>
+<li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a>
 <ul class='children'>
-<li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li>
-<li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li>
+<li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li>
+<li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li>
 </ul>
 </li>
 </ul>

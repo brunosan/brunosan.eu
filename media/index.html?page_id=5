@@ -28,7 +28,7 @@ window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_b
 <link rel="pingback" href="/xmlrpc.php"/>
 <meta name="google-site-verification" content="bQUmYXXjTTwhDzVqGpwn1OCUwqiU-DM7IplmvN7XPEQ"/>
 <style type="text/css">#flickr_badge_source_txt{padding:0;font:11px Arial,Helvetica,Sans serif;color:#666666;}#flickr_badge_icon{display:block!important;margin:0!important;border:1px solid rgb(0,0,0)!important;}#flickr_icon_td{padding:0 5px 0 0!important;}.flickr_badge_image{text-align:center!important;}.flickr_badge_image img{border:1px solid black!important;}#flickr_badge_uber_wrapper{width:150px;}#flickr_www{display:block;text-align:center;padding:0 10px 0 10px!important;font:11px Arial,Helvetica,Sans serif!important;color:#3993ff!important;}#flickr_badge_uber_wrapper a:hover,#flickr_badge_uber_wrapper a:link,#flickr_badge_uber_wrapper a:active,#flickr_badge_uber_wrapper a:visited{text-decoration:none!important;background:inherit!important;color:#3993ff;}#flickr_badge_wrapper{background-color:#ffffff;border:solid 1px #000000}#flickr_badge_source{padding:0!important;font:11px Arial,Helvetica,Sans serif!important;color:#666666!important;}</style>
-<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=brunosan.eu&amp;id=8438084&amp;t=1341191441&amp;back=brunosan.eu%2Fabout-2%2Fwork%2F' type="text/javascript"></script>
+<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=brunosan.eu&amp;id=8438084&amp;t=1341191441&amp;back=brunosan.eu%2Fabout%2Fwork%2F' type="text/javascript"></script>
 <script type="text/javascript">
 		/* <![CDATA[ */
 			if ( 'function' === typeof WPRemoteLogin ) {
@@ -41,7 +41,7 @@ window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_b
 		</script>
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="/feed/"/>
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="/comments/feed/"/>
-<link rel="alternate" type="application/rss+xml" title=" &raquo; Astrophysics Comments Feed" href="/about-2/work/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Astrophysics Comments Feed" href="/about/work/feed/"/>
 <script type="text/javascript">
 /* <![CDATA[ */
 function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
@@ -58,11 +58,11 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <link rel='prev' title='Home' href='/'/>
 <link rel='next' title='Contact' href='/contact/'/>
 <meta name="generator" content="WordPress.com"/>
-<link rel='canonical' href='/about-2/work/'/>
+<link rel='canonical' href='/about/work/'/>
 <link rel='shortlink' href='http://wp.me/Pzp88-5'/>
-<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbrunosan.eu%2Fabout-2%2Fwork%2F&amp;for=wpcom-auto-discovery"/><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbrunosan.eu%2Fabout-2%2Fwork%2F&amp;for=wpcom-auto-discovery"/><meta property="og:type" content="article"/>
+<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbrunosan.eu%2Fabout%2Fwork%2F&amp;for=wpcom-auto-discovery"/><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbrunosan.eu%2Fabout%2Fwork%2F&amp;for=wpcom-auto-discovery"/><meta property="og:type" content="article"/>
 <meta property="og:title" content="Astrophysics"/>
-<meta property="og:url" content="/about-2/work/"/>
+<meta property="og:url" content="/about/work/"/>
 <meta property="og:description" content="[I wrote this back in 2010, when I was at solar physicist]   &#8220;I try to understand the Sun, and share the joy of science with everyone&#8221;.       I am an astrophysicist. It means that I..."/>
 <meta property="og:site_name" content=""/>
 <meta property="og:image" content="http://farm4.static.flickr.com/3230/3145734921_dba6e95c2b_m.jpg?w=300&amp;h=300"/>
@@ -112,7 +112,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div> 
 <div id="access" role="navigation">
 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241 current_page_ancestor current_page_parent"><a href="/about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5 current_page_item"><a href="/about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241 current_page_ancestor current_page_parent"><a href="/about/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about/license/">License</a></li><li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li><li class="page_item page-item-5 current_page_item"><a href="/about/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
 </div> 
 </div> 
 </div> 
@@ -170,7 +170,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <p>My share of responsibility is to communicate my vision of the relation of society and science, astronomy, solar physics. And that I try to do, as best as I can.</p>
 <p style="text-align:center;"><a title="VTT dome by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/3117478022/"><img class="aligncenter" src="http://farm4.static.flickr.com/3125/3117478022_f5397c2622.jpg" alt="VTT dome" width="500" height="375"/></a><br/>
  </p>
-<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="/about-2/work/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-5"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="/about-2/work/?share=facebook" title="Share on Facebook" id="sharing-facebook-5"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="/about-2/work/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="/about-2/work/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="/about-2/work/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-5" class="wpl-button "><a href='/about-2/work/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="/about/work/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-5"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="/about/work/?share=facebook" title="Share on Facebook" id="sharing-facebook-5"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="/about/work/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="/about/work/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="/about/work/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-5" class="wpl-button "><a href='/about/work/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
 </div> 
 <div id="comments">
 <h3 id="comments-title">2 Responses to <em>Astrophysics</em></h3>
@@ -179,29 +179,29 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div id="comment-111">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://uedworld.com/christophersblog/' rel='external nofollow' class='url'>DrearceEthept</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="/about-2/work/#comment-111">
+<div class="comment-meta commentmetadata"><a href="/about/work/#comment-111">
 November 27, 2009 at 5:24 am</a> </div> 
 <div class="comment-body"><p>Lots of people talk about this matter but you said some true words.</p>
 <div class="pd-rating" id="pd_rating_holder_355750_comm_111"></div></div>
 <div class="reply">
-<a class='comment-reply-link' href='/about-2/work/?replytocom=111#respond' onclick='return addComment.moveForm("comment-111", "111", "respond", "5")'>Reply</a> </div> 
+<a class='comment-reply-link' href='/about/work/?replytocom=111#respond' onclick='return addComment.moveForm("comment-111", "111", "respond", "5")'>Reply</a> </div> 
 </div> 
 </li>
 <li class="comment odd alt thread-odd thread-alt depth-1 highlander-comment" id="li-comment-112">
 <div id="comment-112">
 <div class="comment-author vcard">
 <cite class="fn"><a href='http://schnarchen.tumblr.com' rel='external nofollow' class='url'>SchnarchenBlog</a></cite> <span class="says">says:</span> </div> 
-<div class="comment-meta commentmetadata"><a href="/about-2/work/#comment-112">
+<div class="comment-meta commentmetadata"><a href="/about/work/#comment-112">
 December 9, 2009 at 9:19 am</a> </div> 
 <div class="comment-body"><p>Stunning&#8230; really interesting subject. I will write about it also.</p>
 <div class="pd-rating" id="pd_rating_holder_355750_comm_112"></div></div>
 <div class="reply">
-<a class='comment-reply-link' href='/about-2/work/?replytocom=112#respond' onclick='return addComment.moveForm("comment-112", "112", "respond", "5")'>Reply</a> </div> 
+<a class='comment-reply-link' href='/about/work/?replytocom=112#respond' onclick='return addComment.moveForm("comment-112", "112", "respond", "5")'>Reply</a> </div> 
 </div> 
 </li>
 </ol>
 <div id="respond">
-<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/about-2/work/#respond" style="display:none;">Cancel reply</a></small></h3>
+<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/about/work/#respond" style="display:none;">Cancel reply</a></small></h3>
 <form action="/wp-comments-post.php" method="post" id="commentform">
 <input type="hidden" name="hc_post_as" id="hc_post_as" value="guest"/>
 <div class="comment-form-field comment-textarea">
@@ -340,7 +340,7 @@ jQuery(document).ready(function(){
 </div> 
 <div id="primary" class="widget-area" role="complementary">
 <ul class="xoxo">
-<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about-2/">Scientist.</a>
+<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about/">Scientist.</a>
 Advocate for a world where science, technology and society listen to each other.</div>
 </li><li id="twitter-3" class="widget-container widget_twitter"><h3 class="widget-title"><a href='http://twitter.com/brunosan'>My Twitter feed</a></h3><ul class='tweets'>
 <li>Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://espn.go.com/watchespn/player?id=496987#"> espn.go.com/watchespn/play…</a> <a href="http://twitter.com/brunosan/statuses/219512842490089477" class="timesince">5&nbsp;hours&nbsp;ago</a></li>
@@ -352,15 +352,15 @@ Advocate for a world where science, technology and society listen to each other.
 <li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li>
 <li class="page_item page-item-36"><a href="/blog/">Blog</a></li>
 <li class="page_item page-item-27"><a href="/contact/">Contact</a></li>
-<li class="page_item page-item-241 current_page_ancestor current_page_parent"><a href="/about-2/">About</a>
+<li class="page_item page-item-241 current_page_ancestor current_page_parent"><a href="/about/">About</a>
 <ul class='children'>
-<li class="page_item page-item-73"><a href="/about-2/license/">License</a></li>
-<li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li>
-<li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li>
-<li class="page_item page-item-5 current_page_item"><a href="/about-2/work/">Astrophysics</a>
+<li class="page_item page-item-73"><a href="/about/license/">License</a></li>
+<li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li>
+<li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li>
+<li class="page_item page-item-5 current_page_item"><a href="/about/work/">Astrophysics</a>
 <ul class='children'>
-<li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li>
-<li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li>
+<li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li>
+<li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li>
 </ul>
 </li>
 </ul>
@@ -509,7 +509,7 @@ _qevents.push( wpcomQuantcastData );
 							<label><span>Password</span> <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="81" /></label> \
 							<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" tabindex="82" /> \
 							<input type="hidden" name="postid" value="' + postid + '" /> \
-							<input type="hidden" name="redirect_to" value="/about-2/work?pagename=about-2%2Fwork&like=1" /> \
+							<input type="hidden" name="redirect_to" value="/about/work?pagename=about%2Fwork&like=1" /> \
 							<input type="hidden" name="wpl_rand" value="30402411e9" /> \
 							<p>Not a member yet? <a href="http://wordpress.com/signup/?ref=likebox" id="wpl-signup-link">Sign up with WordPress.com</a></p> \
 						</form> \
@@ -555,7 +555,7 @@ _qevents.push( wpcomQuantcastData );
 	/* ]]> */
 	</script>
 <script type="text/javascript">
-		WPCOM_sharing_counts = {'/about-2/work/':'5'};
+		WPCOM_sharing_counts = {'/about/work/':'5'};
 	</script>
 <script>jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });</script> <div style="display:none">
 </div>
@@ -585,7 +585,7 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 <script type="text/javascript" charset="utf-8">
 	function sharing_plusone( obj ) { 
 		jQuery.ajax( {
-			url: '/about-2/work/?share=google-plus-1',
+			url: '/about/work/?share=google-plus-1',
 			type: 'POST',
 			data: obj
 		} );
@@ -613,7 +613,7 @@ Sorry, your blog cannot share posts by email. </div>
 </form>
 </div>
 <script type='text/javascript' charset='UTF-8' id='polldaddyRatings'><!--//--><![CDATA[//><!--
-PDRTJS_settings_355750_comm_111={"id":355750,"unique_id":"wp-comment-111","title":"Lots%20of%20people%20talk%20about%20this%20matter%20but%20you%20said%20some%20true%20words....","permalink":"http:\/\/brunosan.eu\/about-2\/work\/#comment-111","item_id":"_comm_111"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_355750_comm_111 == 'undefined' ){PDRTJS_355750_comm_111 = new PDRTJS_RATING( PDRTJS_settings_355750_comm_111 );}}PDRTJS_settings_355750_comm_112={"id":355750,"unique_id":"wp-comment-112","title":"Stunning...%20really%20interesting%20subject.%20I%20will%20write%20about%20it%20also....","permalink":"http:\/\/brunosan.eu\/about-2\/work\/#comment-112","item_id":"_comm_112"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_355750_comm_112 == 'undefined' ){PDRTJS_355750_comm_112 = new PDRTJS_RATING( PDRTJS_settings_355750_comm_112 );}}
+PDRTJS_settings_355750_comm_111={"id":355750,"unique_id":"wp-comment-111","title":"Lots%20of%20people%20talk%20about%20this%20matter%20but%20you%20said%20some%20true%20words....","permalink":"http:\/\/brunosan.eu\/about\/work\/#comment-111","item_id":"_comm_111"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_355750_comm_111 == 'undefined' ){PDRTJS_355750_comm_111 = new PDRTJS_RATING( PDRTJS_settings_355750_comm_111 );}}PDRTJS_settings_355750_comm_112={"id":355750,"unique_id":"wp-comment-112","title":"Stunning...%20really%20interesting%20subject.%20I%20will%20write%20about%20it%20also....","permalink":"http:\/\/brunosan.eu\/about\/work\/#comment-112","item_id":"_comm_112"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_355750_comm_112 == 'undefined' ){PDRTJS_355750_comm_112 = new PDRTJS_RATING( PDRTJS_settings_355750_comm_112 );}}
 //--><!]]></script><script type='text/javascript' charset='UTF-8' src='http://i.polldaddy.com/ratings/rating.js'></script><script type='text/javascript'><!--//--><![CDATA[//><!--
 (function($) { 
 	$('body').on( 'post-load', function(){

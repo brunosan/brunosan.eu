@@ -21,7 +21,7 @@ tags:
 - Science
 title: On my 3rd PhD anniversary, and unemployed. So what?
 ---
-Exactly three years ago I defended my <a href="/about-2/work/phd/">PhD</a> in Goettingen, Germany. Today is my <em>birthday</em> as Doctor. Around then I had then an offer to work at <a href="http://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory">best place</a> in the world in my field, which I accepted. I also had an invitation to<a href="http://brunosan.blogspot.com/2008/09/cuantas-peluqueras-hay-en-madrid.html"> interview with McKinsey</a> and was drafted for the <a href="http://brunosan.blogspot.com/2008/09/bruno-astronauta.html">astronaut election process</a>.  It was a great moment.
+Exactly three years ago I defended my <a href="/about/work/phd/">PhD</a> in Goettingen, Germany. Today is my <em>birthday</em> as Doctor. Around then I had then an offer to work at <a href="http://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory">best place</a> in the world in my field, which I accepted. I also had an invitation to<a href="http://brunosan.blogspot.com/2008/09/cuantas-peluqueras-hay-en-madrid.html"> interview with McKinsey</a> and was drafted for the <a href="http://brunosan.blogspot.com/2008/09/bruno-astronauta.html">astronaut election process</a>.  It was a great moment.
 <div style="text-align:center;">
 <p style="text-align:left;">Today I am unemployed.</p>
 <p style="text-align:left;">So What?</p>

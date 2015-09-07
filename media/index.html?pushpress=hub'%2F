@@ -51,8 +51,8 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <script type='text/javascript' src='http://s1.wp.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-includes/js/comment-reply.js,/wp-includes/js/spin.js,/wp-includes/js/jquery/jquery.spin.js?m=1339788006j'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nasonurb.wordpress.com/xmlrpc.php?rsd"/>
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nasonurb.wordpress.com/wp-includes/wlwmanifest.xml"/>
-<link rel='prev' title='About' href='/about-2/'/>
-<link rel='next' title='Astrophysics' href='/about-2/work/'/>
+<link rel='prev' title='About' href='/about/'/>
+<link rel='next' title='Astrophysics' href='/about/work/'/>
 <meta name="generator" content="WordPress.com"/>
 <link rel='canonical' href='/'/>
 <link rel='shortlink' href='http://wp.me/Pzp88-3U'/>
@@ -104,7 +104,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div> 
 <div id="access" role="navigation">
 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-<div class="menu"><ul><li class="current_page_item"><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about-2/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+<div class="menu"><ul><li class="current_page_item"><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about/license/">License</a></li><li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
 </div> 
 </div> 
 </div> 
@@ -122,7 +122,7 @@ and society listen to each other.</h5>
 <p style="text-align:right;">&nbsp;</p>
 <p style="text-align:right;">&nbsp;</p>
 <p style="text-align:right;">&nbsp;</p>
-<p style="text-align:right;">welcome to my <a href="/about-2/">personal</a> webpage.</p>
+<p style="text-align:right;">welcome to my <a href="/about/">personal</a> webpage.</p>
 <div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-242" class="wpl-button "><a href='/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
 </div> 
 <div id="comments">

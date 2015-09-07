@@ -52,7 +52,7 @@ Some random selection of things I´ve done during these great 101 days include:
 	<li>All around the building there are screen will all the meetings for the day. Each morning stop by, look at them and find out the most interesting. Ask the responsible if you can join, most likely you will be able. Even closed sessions. Just honor the confidentiality rules.</li>
 	<li>Don't tweet or blog anything said during closed or open session. Don't post personal comments on those either. What you can do is to mention and share information that is already public. Like announcements of open sessions, webcasts and the like. I did tweet some, you can search for the <a href="http://www.google.com/#q=mirzayan&amp;hl=en&amp;prmd=iv&amp;source=lnms&amp;tbs=mbl:1&amp;ei=VP4ATavUN4S0lQe0uZz8CA&amp;sa=X&amp;oi=mode_link&amp;ct=mode&amp;ved=0CA4Q_AU&amp;prmdo=1&amp;fp=6b6197850fe1fb69">#mirzayan</a> hashtag on Twitter.</li>
 	<li>Get to know your fellow fellows. They all have amazing histories. They are all committed to the same objective, and very very smart. I truly respect and trust all of my fellow fellows. They are amazing.</li>
-	<li>And above all, <a href="/about-2/">enjoy</a>.</li>
+	<li>And above all, <a href="/about/">enjoy</a>.</li>
 </ul>
 </div>
 <p style="text-align:center;"><a title="Inside the White House" href="http://www.flickr.com/photos/nasonurb/5105734154/"><img class="aligncenter" src="http://farm2.static.flickr.com/1102/5105734154_3042d42344.jpg" alt="Inside the White House" width="50%" /></a></p>

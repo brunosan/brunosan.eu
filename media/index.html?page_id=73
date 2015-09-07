@@ -28,7 +28,7 @@ window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_b
 <link rel="pingback" href="/xmlrpc.php"/>
 <meta name="google-site-verification" content="bQUmYXXjTTwhDzVqGpwn1OCUwqiU-DM7IplmvN7XPEQ"/>
 <style type="text/css">#flickr_badge_source_txt{padding:0;font:11px Arial,Helvetica,Sans serif;color:#666666;}#flickr_badge_icon{display:block!important;margin:0!important;border:1px solid rgb(0,0,0)!important;}#flickr_icon_td{padding:0 5px 0 0!important;}.flickr_badge_image{text-align:center!important;}.flickr_badge_image img{border:1px solid black!important;}#flickr_badge_uber_wrapper{width:150px;}#flickr_www{display:block;text-align:center;padding:0 10px 0 10px!important;font:11px Arial,Helvetica,Sans serif!important;color:#3993ff!important;}#flickr_badge_uber_wrapper a:hover,#flickr_badge_uber_wrapper a:link,#flickr_badge_uber_wrapper a:active,#flickr_badge_uber_wrapper a:visited{text-decoration:none!important;background:inherit!important;color:#3993ff;}#flickr_badge_wrapper{background-color:#ffffff;border:solid 1px #000000}#flickr_badge_source{padding:0!important;font:11px Arial,Helvetica,Sans serif!important;color:#666666!important;}</style>
-<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=brunosan.eu&amp;id=8438084&amp;t=1341197646&amp;back=brunosan.eu%2Fabout-2%2Flicense%2F' type="text/javascript"></script>
+<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=brunosan.eu&amp;id=8438084&amp;t=1341197646&amp;back=brunosan.eu%2Fabout%2Flicense%2F' type="text/javascript"></script>
 <script type="text/javascript">
 		/* <![CDATA[ */
 			if ( 'function' === typeof WPRemoteLogin ) {
@@ -41,7 +41,7 @@ window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_b
 		</script>
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="/feed/"/>
 <link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="/comments/feed/"/>
-<link rel="alternate" type="application/rss+xml" title=" &raquo; License Comments Feed" href="/about-2/license/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; License Comments Feed" href="/about/license/feed/"/>
 <script type="text/javascript">
 /* <![CDATA[ */
 function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
@@ -55,14 +55,14 @@ function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!
 <![endif]-->
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nasonurb.wordpress.com/xmlrpc.php?rsd"/>
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nasonurb.wordpress.com/wp-includes/wlwmanifest.xml"/>
-<link rel='prev' title='APOD' href='/about-2/work/apod/'/>
-<link rel='next' title='PhD' href='/about-2/work/phd/'/>
+<link rel='prev' title='APOD' href='/about/work/apod/'/>
+<link rel='next' title='PhD' href='/about/work/phd/'/>
 <meta name="generator" content="WordPress.com"/>
-<link rel='canonical' href='/about-2/license/'/>
+<link rel='canonical' href='/about/license/'/>
 <link rel='shortlink' href='http://wp.me/Pzp88-1b'/>
-<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbrunosan.eu%2Fabout-2%2Flicense%2F&amp;for=wpcom-auto-discovery"/><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbrunosan.eu%2Fabout-2%2Flicense%2F&amp;for=wpcom-auto-discovery"/><meta property="og:type" content="article"/>
+<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbrunosan.eu%2Fabout%2Flicense%2F&amp;for=wpcom-auto-discovery"/><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbrunosan.eu%2Fabout%2Flicense%2F&amp;for=wpcom-auto-discovery"/><meta property="og:type" content="article"/>
 <meta property="og:title" content="License"/>
-<meta property="og:url" content="/about-2/license/"/>
+<meta property="og:url" content="/about/license/"/>
 <meta property="og:description" content="This website reflects my personal and professional activities and opinon. Institutions with which I have or had a relation do not necessarily endorse this content. I am the sole responsible for its..."/>
 <meta property="og:site_name" content=""/>
 <meta property="og:image" content="http://i.creativecommons.org/l/by/3.0/88x31.png?w=300&amp;h=300"/>
@@ -110,7 +110,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </div> 
 <div id="access" role="navigation">
 <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
-<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241 current_page_ancestor current_page_parent"><a href="/about-2/">About</a><ul class='children'><li class="page_item page-item-73 current_page_item"><a href="/about-2/license/">License</a></li><li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241 current_page_ancestor current_page_parent"><a href="/about/">About</a><ul class='children'><li class="page_item page-item-73 current_page_item"><a href="/about/license/">License</a></li><li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
 </div> 
 </div> 
 </div> 
@@ -136,11 +136,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <p style="text-align:justify;">If you need to obtain more information, please <a href="/contact">contact me</a>.</p>
 <p>  </p>
 <p> </p>
-<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="/about-2/license/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-73"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="/about-2/license/?share=facebook" title="Share on Facebook" id="sharing-facebook-73"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="/about-2/license/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="/about-2/license/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="/about-2/license/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-73" class="wpl-button "><a href='/about-2/license/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
+<div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="/about/license/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-73"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="/about/license/?share=facebook" title="Share on Facebook" id="sharing-facebook-73"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="/about/license/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="/about/license/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="/about/license/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-73" class="wpl-button "><a href='/about/license/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
 </div> 
 <div id="comments">
 <div id="respond">
-<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/about-2/license/#respond" style="display:none;">Cancel reply</a></small></h3>
+<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/about/license/#respond" style="display:none;">Cancel reply</a></small></h3>
 <form action="/wp-comments-post.php" method="post" id="commentform">
 <input type="hidden" name="hc_post_as" id="hc_post_as" value="guest"/>
 <div class="comment-form-field comment-textarea">
@@ -279,7 +279,7 @@ jQuery(document).ready(function(){
 </div> 
 <div id="primary" class="widget-area" role="complementary">
 <ul class="xoxo">
-<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about-2/">Scientist.</a>
+<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about/">Scientist.</a>
 Advocate for a world where science, technology and society listen to each other.</div>
 </li><li id="twitter-3" class="widget-container widget_twitter"><h3 class="widget-title"><a href='http://twitter.com/brunosan'>My Twitter feed</a></h3><ul class='tweets'>
 <li>Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://espn.go.com/watchespn/player?id=496987#"> espn.go.com/watchespn/play…</a> <a href="http://twitter.com/brunosan/statuses/219512842490089477" class="timesince">7&nbsp;hours&nbsp;ago</a></li>
@@ -291,15 +291,15 @@ Advocate for a world where science, technology and society listen to each other.
 <li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li>
 <li class="page_item page-item-36"><a href="/blog/">Blog</a></li>
 <li class="page_item page-item-27"><a href="/contact/">Contact</a></li>
-<li class="page_item page-item-241 current_page_ancestor current_page_parent"><a href="/about-2/">About</a>
+<li class="page_item page-item-241 current_page_ancestor current_page_parent"><a href="/about/">About</a>
 <ul class='children'>
-<li class="page_item page-item-73 current_page_item"><a href="/about-2/license/">License</a></li>
-<li class="page_item page-item-1272"><a href="/about-2/my-universe/">My&nbsp;Universe</a></li>
-<li class="page_item page-item-1014"><a href="/about-2/papercracy/">Papercracy</a></li>
-<li class="page_item page-item-5"><a href="/about-2/work/">Astrophysics</a>
+<li class="page_item page-item-73 current_page_item"><a href="/about/license/">License</a></li>
+<li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li>
+<li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li>
+<li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a>
 <ul class='children'>
-<li class="page_item page-item-58"><a href="/about-2/work/apod/">APOD</a></li>
-<li class="page_item page-item-98"><a href="/about-2/work/phd/">PhD</a></li>
+<li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li>
+<li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li>
 </ul>
 </li>
 </ul>
@@ -448,7 +448,7 @@ _qevents.push( wpcomQuantcastData );
 							<label><span>Password</span> <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="81" /></label> \
 							<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" tabindex="82" /> \
 							<input type="hidden" name="postid" value="' + postid + '" /> \
-							<input type="hidden" name="redirect_to" value="/about-2/license?pagename=about-2%2Flicense&like=1" /> \
+							<input type="hidden" name="redirect_to" value="/about/license?pagename=about%2Flicense&like=1" /> \
 							<input type="hidden" name="wpl_rand" value="0cea8eb264" /> \
 							<p>Not a member yet? <a href="http://wordpress.com/signup/?ref=likebox" id="wpl-signup-link">Sign up with WordPress.com</a></p> \
 						</form> \
@@ -494,7 +494,7 @@ _qevents.push( wpcomQuantcastData );
 	/* ]]> */
 	</script>
 <script type="text/javascript">
-		WPCOM_sharing_counts = {'/about-2/license/':'73'};
+		WPCOM_sharing_counts = {'/about/license/':'73'};
 	</script>
 <script>jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });</script> <div style="display:none">
 </div>
@@ -524,7 +524,7 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 <script type="text/javascript" charset="utf-8">
 	function sharing_plusone( obj ) { 
 		jQuery.ajax( {
-			url: '/about-2/license/?share=google-plus-1',
+			url: '/about/license/?share=google-plus-1',
 			type: 'POST',
 			data: obj
 		} );

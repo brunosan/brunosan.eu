@@ -64,7 +64,7 @@ marvellous complexity of our Sun.
 ###Resources
 
 
-* This thesis generated and was referenced by several <a href="http://scholar.google.de/scholar?hl=de&amp;q=bruno+sanchez-andrade+nuno&amp;btnG=Suche&amp;lr=&amp;as_ylo=&amp;as_vis=0">publications</a>, <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&amp;author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&amp;db_key=AST">citations</a>, talks and outreach material (e.g. <a href="/about-2/work/apod/">NASA APOD</a>)
+* This thesis generated and was referenced by several <a href="http://scholar.google.de/scholar?hl=de&amp;q=bruno+sanchez-andrade+nuno&amp;btnG=Suche&amp;lr=&amp;as_ylo=&amp;as_vis=0">publications</a>, <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&amp;author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&amp;db_key=AST">citations</a>, talks and outreach material (e.g. <a href="/about/work/apod/">NASA APOD</a>)
 
 * Written dissertation. Available from:
 
