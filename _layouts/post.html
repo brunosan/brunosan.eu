@@ -4,9 +4,9 @@ layout: default
 
 <div id="post-{{ id }}" class="post">
   <h2>{{ page.title }}</h2>
-  
+
   <time>{{ page.date | date: "%e" | ordinalize }} {{page.date | date: "%B"}} {{page.date | date: "%Y"}}</time>
-  
+
   <div id="post_content">
     {{ content }}
   </div>
@@ -18,17 +18,9 @@ layout: default
   href="{{site.pullrequesturl}}{{page.filename}}" target="_blank">
 	            Send edit request
 	        </a><a href="/2012/07/01/jekyll-pull-requests/">What is
-          this?</a> 
+          this?</a>
 	</time>
 
-  <div id="post_tags">
-   <p>
-   Related tags: 
-   {% for tag in page.tags %}
-     <a href="/tags/{{ tag }}">{{ tag }}</a>, 
-   {% endfor %}
-   ...</p>
-  </div>
 
         <div class='button share-links'>
           <ul>
@@ -39,7 +31,7 @@ layout: default
           </ul>
           </div>
  </p>
-                                                                    
+
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
