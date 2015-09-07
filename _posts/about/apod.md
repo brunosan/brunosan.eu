@@ -1,4 +1,4 @@
---- 
+---
 filename: _posts/blog/2008-11-11-apod.md
 category: blog
 layout: post
@@ -8,8 +8,9 @@ type: page
 tags: []
 title: APOD
 redirects:
-- about-2/work/apod/
+- about/work/apod/
 ---
+
 <!--:en-->On <a href="http://www.astro.physik.uni-goettingen.de/~bruno/APOD/apod.html">May,22 2007</a> I had the pleasure to publish on the NASA Astronomy Picture of the Day.
 <p style="text-align:center;"><a href="http://antwrp.gsfc.nasa.gov/apod/ap070522.html"><img class="aligncenter size-full wp-image-464" title="picture-4" src="http://solarastronomy2009.files.wordpress.com/2009/11/screen-shot-2009-11-07-at-5-56-11-pm.jpg" alt="picture-4" width="398" height="225" /></a></p>
 <p style="text-align:left;">Thank you to the <a href="http://www.astro.physik.uni-goettingen.de/">AIG</a> to host the video files. It has been served thousands of times already... The whole server went even down the day of the publication!</p>
