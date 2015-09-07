@@ -7,7 +7,7 @@ exclude: ["legacy-imports", "Rakefile", "README.md", "_template.md", "new.rb", "
 multivews: true
 
 author:    "Bruno Sánchez-Andrade Nuño - brunosan"
-description:    "Scientist exploring other worlds. Alien of extraordinary ability"
+description:    "Scientist exploring other worlds. Bridging the global gaps between Science, Technology and Society."
 keywords: "science, technology, outreach, ciencia, tecnologia, divulgacion"
 root_desc:      "Brunosan"
 
