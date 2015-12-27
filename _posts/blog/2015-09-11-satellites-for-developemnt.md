@@ -1,4 +1,5 @@
 ---
+filename: _posts/blog/2015-09-11-satellites-for-developemnt.md
 layout: post
 category: blog
 title: "Satellites for development: What's in it for you?"
