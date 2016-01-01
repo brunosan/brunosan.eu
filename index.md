@@ -5,8 +5,14 @@ redirects:
 - about/
 - about-2/
 ---
-<a title="Death Valley by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/4637385431/"><img class="aligncenter" src="/media/death-valley.jpeg" alt="IMG_4132" width="100%" /></a>
 
-Bridging the gaps between **Science, Technology and Society**.
+<img width="100%" src="/media/tv-stage.jpg" class="center">
 
-**Scientist**. Technical lead on bringing Big Data into Development at the World Bank's LLI Innovation Labs. [Young Global Leader](/2013/03/12/young-global-leader-2013/) of the World Economic Forum. [PhD](/about/phd/) Magna Cum Laude in Astrophysics by the University of Goeetingen and the Max Planck for Solar System Research. [Postdoctoral Fellow at NRL](http://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory) on NASA satellites and rocket science. [Mirzayan](/2010/12/09/101-days-as-science-and-technology-policy-fellow/) Fellow of the US National Academies of Sciences. Former Director for Science and Technology at the NGO [Gain](http://gain.org/) on climate change Adaptiation. Former Chief Scientist for the mapping company [Mapbox](www.mapbox.com).
+
+Bruno Sánchez-Andrade Nuño, PhD is a Scientist committed to bring the value of Science and Technology in society at large, from human centered design to public policy. I am specially interested in the use of technology and data to empower development, sustainability or crisis response. Currently leveraging Big Data at the World Bank Innovation Labs, by way of Silicon Valley, US National Science Policy and academic rocket science.
+
+
+
+<img width="85%" src="/media/globalgoals.jpg" class="center">
+
+>Dr. Sanchez-Andrade Nuño, scientist, earned a PhD Magna Cum Laude at the Max Planck, and then worked as JAXA/NASA satellite and rocket scientist. Dr. Sanchez was Director for Science and Technology at the NGO Gain on measuring Climate Change Adaptation. Dr. Sanchez was Chief Scientist for Mapbox during exponential growth from series A to series B investment rounds. In 2015 Bruno joined the World Bank Innovation Labs to lead the technical work incorporating Big Data across Bank operations. Mirzayan Fellow of the US National Academy of Science, member of the Global Agenda Council on Space, Young Global Leader of the World Economic Forum. Serves a Board Member, Mentor and Advisor. Frequent author and speaker on Science & Technology.
