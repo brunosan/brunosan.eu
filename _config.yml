@@ -45,6 +45,8 @@ page_layout: page
 # Format titles with titlecase?
 titlecase: true
 
+# comments in all posts
+comments: true
 
 # Site owner
 owner:

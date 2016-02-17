@@ -1,17 +1,18 @@
---- 
+---
 filename: _posts/blog/2011-01-25-a-ballistic-back-mapping-tool-for-nasastereo.md
 category: blog
 layout: post
 status: publish
 published: true
 type: post
-tags: 
+tags:
 - Outreach
 - Science
 - technology
 title: A [ballistic back-] mapping tool for NASA/STEREO
 ---
-{% youtube Lia9nhdjoRA %}
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Lia9nhdjoRA" frameborder="0"> </iframe>
 
 > The video above shows the map of the Sun from 2007 to 2010. The map calculates the image <strong>as if</strong> neither the Sun or the Earth rotated, leaving thus a black region that corresponds to the section of the Sun that can´t be seen from Earth. But they do rotate, so the black region shifts in time. The interesting bit is that the solar features remain in place. This allows us to see that certain features survive several months and are indeed recurrent.
 

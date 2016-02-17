@@ -1,12 +1,12 @@
 ---
 filename: _posts/blog/2012-12-02-2nd-marathon.md
 layout: post
-category: blog 
+category: blog
 title: 2nd Marathon
 published: true
 tags:
 - running
-- data 
+- data
 ---
 
 <a href="http://www.flickr.com/photos/nasonurb/8216425185/" title="So,
@@ -20,10 +20,10 @@ Last week I ran the [NCR **Trail** Marathon](http://ncrtrailmarathon.com/) in Ba
 weeks after my [first marathon](/2012/10/29/Running-a-marathon/).
 
 I didn't actually train for it, as it was not on my plans four days
-before the race. I crossed the start line breaking plenty of 
+before the race. I crossed the start line breaking plenty of
 recommendations, like getting some time off, new shoes, new
 clothes, no music for the first time, first trail race, no setting goals
-or paces, ... 
+or paces, ...
 
 Somehow I managed to pull quite an enjoyable race and beating my best marathon time.
 
@@ -43,7 +43,7 @@ train line. This means that it goes through a forest on an unpaved road but is m
 flat. The course is back and forth, with roughly a 75m elevation change
 in the turn around:
 
-{% image NCR-profile.png %}
+![](/images/NCR-profile.png)
 
 One of the most important rules I´ve read about marathons is never to
 try something new on the race day. Well:
@@ -86,8 +86,8 @@ the pace of the group was actually good. I didn´t miss the music at all.
 Since I only had 3 *Gu* energy gels instead of the 6 I used in the
 previous marathon, I decided to keep the dates I had brought for breakfast
 and eat 2 every 30 minutes or so. I rationed my *Gu* to eat one each way on the half point
-of the back and forth track, 
-and also one the turn around. I have to say that it feel much better on the stomach and I had 
+of the back and forth track,
+and also one the turn around. I have to say that it feel much better on the stomach and I had
 no lack of energy compared to using twice the gels like last time.
 
 Getting to mile 13 was quite a good feeling. I only had to go back. It
@@ -103,12 +103,12 @@ down and forward. That little extra bounce down was being absorbed by the
 knees and hip, and hence the pain. And of course, the lack of training.
 
 On the turn around I made a small pause to make the picture and also drink water. When
-I went back, after a mile or so, I decided to do the rest of the race, 
-now slightly downhill, enjoying the forest and pushing a little bit more. 
+I went back, after a mile or so, I decided to do the rest of the race,
+now slightly downhill, enjoying the forest and pushing a little bit more.
 According to [Strava](http://app.strava.com/activities/29711289#) that has all
 my runs since 2009, on that second half marathon I made my best ever 400m
-(4:07min/km) but also best 1/2 mile, 5km, mile, 10 km, 15 km and 10 miles. 
-I think I overtook 50 runners or so in the second half. 
+(4:07min/km) but also best 1/2 mile, 5km, mile, 10 km, 15 km and 10 miles.
+I think I overtook 50 runners or so in the second half.
 
 <a href="http://www.flickr.com/photos/brrc/8215552252/" title="ParkB0218
 by brrc, on Flickr"><img
@@ -124,7 +124,7 @@ back to running, and when I saw the end I managed to squeeze a sprint to
 cross with 180 bpm, a full smile and the surreal fact I had done a faster
 marathon.
 
-{% image NCR-finish.jpeg %}
+![](/images/NCR-finish.jpeg)
 
 ##Results data
 
@@ -132,7 +132,7 @@ The [results for all runners](http://www.charmcityrun.com/content/results/ncrtra
 location data, so no mapping for these runners. What I could do is
 create the [same visualizations as last
 time](http://brunosan.eu/2012/10/29/Running-a-marathon/), and compare the
-statistical results with the last race. 
+statistical results with the last race.
 
 This race is 8 times smaller, and my hypothesis is that you
 would find mostly good local runners yielding better times on average,
@@ -152,18 +152,18 @@ So when you see 0.04 on y axis it meas 4% of the finishers.
 
 ## Runners by Age
 
-{% image NCR-age.png %}
+![](/images/NCR-age.png)
 
 66% of participants were male. Most women were actually grouped
 on the 35-40 bin. Compared to the MCM, the 25-30 women were mostly
-missing, but on the other side, there were more women 35-40. 
+missing, but on the other side, there were more women 35-40.
 Numbers for women are much more concentrated than men, whose biggest group
 was 45-50 years old. Overall there seems to be less younger
 participants.
 
 ## Runners by time
 
-{% image NCR-time.png %}
+![](/images/NCR-time.png)
 
 In terms of time, this race (which is 7 times smaller) deviates
 significantly from the nice Gaussian shape of the MCM. Smaller races
@@ -172,10 +172,10 @@ milestome* is much more apparent in both men and women, with another
 peak for women around 4:30. After that time, there is consistently better
 times for this smaller race than the more popular MCM. Big races attract
 slower runners. On the other side fast runners are proportionally much
-more prominent, specifically faster men. 
+more prominent, specifically faster men.
 
 
-{% image NCR-scatter.png %}
+![](/images/NCR-scatter.png)
 
 Combining both dimensions one gets again the scatterplot of Hours by
 runner Age and Gender. As I was mentioning in the beginning, the
@@ -187,10 +187,10 @@ attract many more (overall) slower runners, specially on the 15-35 age range.
 
 Most of the results lie within the envelope of the bigger race, which
 thus indicates that a bigger, more popular race, also includes the type
-of participants of smaller races. 
+of participants of smaller races.
 
 
-{% image NCR-scatter2.png %}
+![](/images/NCR-scatter2.png)
 
 Also like last time, I try to estimate those who are not able to keep a
 constant pace, and e.g. hit the wall on the second half. This does not
@@ -201,7 +201,7 @@ temperatures made many walkers quit the race.
 NCR runners on this smaller race seem to be able to keep their paces
 much better. The graph is remarkably vertical without much deviation on
 either side. The *Wall* is barely visible with an impact of less than 1
-hour on the finish time.  
+hour on the finish time.
 
 Again women seem remarkably better at setting a pace and keeping it the
 whole race.

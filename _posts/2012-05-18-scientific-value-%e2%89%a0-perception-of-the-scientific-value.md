@@ -1,18 +1,19 @@
---- 
+---
 filename: _posts/blog/2012-05-18-scientific-value-%e2%89%a0-perception-of-the-scientific-value.md
 category: blog
 layout: post
 status: publish
 published: true
 type: post
-tags: 
+tags:
 - Outreach
 - Science
 - technology
 title: "Scientific value \xE2\x89\xA0 Perception of the scientific value"
 ---
 A russian satellite makes a time lapse of the Earth from space. A truly beautiful video.
-{% youtube 6twFHqJ03_k %}
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/6twFHqJ03_k" frameborder="0"> </iframe>
 
 This reminds me of a text I read many years ago: Carl Sagan was defending the inclusion of visual cameras in scientific payloads, even when the scientific value would be arguable.
 

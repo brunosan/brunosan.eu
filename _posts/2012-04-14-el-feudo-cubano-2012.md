@@ -1,11 +1,11 @@
---- 
+---
 filename: _posts/blog/2012-04-14-el-feudo-cubano-2012.md
 category: blog
 layout: post
 status: publish
 published: true
 type: post
-tags: 
+tags:
 - capitalismo
 - comunismo
 - cuba
@@ -67,4 +67,4 @@ Soy consciente que uno no puede absorber la compleja realidad de un país como C
 <p style="text-align:left;">Hice muchas fotos. Hay una selección en <a href="https://www.facebook.com/images/set/?set=a.502710973413.438.239200025&amp;type=3">Facebook</a>, y en <a href="http://www.flickr.com/photos/nasonurb/sets/72157629410743248/">Flickr</a> hay más, en calidad alta, por si alguien las quiere usar para algo:</p>
 <a href="http://www.flickr.com/photos/nasonurb/sets/72157629410743248/show/">http://www.flickr.com/photos/nasonurb/sets/72157629410743248/show/</a>
 
-{% youtube 9BDKxoivwzU %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/9BDKxoivwzU" frameborder="0"> </iframe>

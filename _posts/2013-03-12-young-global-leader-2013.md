@@ -1,9 +1,9 @@
 ---
 filename: _posts/blog/2013-03-12-young-global-leader-2013.md
 layout: post
-category: blog 
+category: blog
 title: Young Global Leader 2013
-published: true 
+published: true
 tags:
 - World Economic Forum
 - WEF
@@ -12,10 +12,10 @@ tags:
 
 Today the *World Economic Forum* ([WEF](http://www.weforum.org/)) [announces](http://www.weforum.org/news/world-economic-forum-announces-young-global-leaders-class-2013) this year awards of  "Young Global
 Leaders"
-([YGL](http://www.weforum.org/community/forum-young-global-leaders)). 
+([YGL](http://www.weforum.org/community/forum-young-global-leaders)).
 I am one of them.
 
-According to the website: 
+According to the website:
 
 >"Young Global Leaders represent the future of leadership, coming from all
 >regions of the world and representing business, government, civil
@@ -58,7 +58,7 @@ thankful for this nomination. Reading the roster of fellow YGLs, I can only take
 as an acknowledgement of a trajectory that is still very short. It has
 not been easy, and the passion that drives me rejoices with this
 opportunity: a clear motivation to help bring Science
-and Technology closer to Society. 
+and Technology closer to Society.
 
 Being a YGL, I am told, is a transformational experience. Certainly, having the
 chance to get to know such a *Forum* of *doers* will be motivating.
@@ -67,13 +67,13 @@ For now, I´m planning to squeeze as much time as possible to take the
 most of this opportunity WEF is offering. Let´s do it.
 
 > "I don´t know where is the limit, but I know where the limit is not"
-@josefajram 
+@josefajram
 
-{% youtube vtW1uqTpV94  %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/vtW1uqTpV94" frameborder="0"> </iframe>
 
 
 *Update*: Yahoo Spain has run an interview, [in spanish](http://es.noticias.yahoo.com/bruno-sanchez--astrofisico-espa%C3%B1ol-valioso-zuckerberg-federer-chris-martin-152850179.html). At some point it
 was on the [front page of
 Yahoo](https://twitter.com/brunosan/status/311540366912405504/photo/1). Crazy day.
 
-{% image yahoo-ygl.png %}
+![](/images/yahoo-ygl.png)

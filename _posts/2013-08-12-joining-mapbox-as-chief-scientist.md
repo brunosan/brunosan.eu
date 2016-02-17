@@ -3,7 +3,7 @@ filename: _posts/blog/2013-08-12-joining-mapbox-as-chief-scientist.md
 layout: post
 category: blog
 title: Joining MapBox as Chief Scientist
-published: true 
+published: true
 tags:
 - science
 - maps
@@ -14,15 +14,15 @@ tags:
 ---
 
 
-{% image mapboxlogo.png %}
+![](/images/mapboxlogo.png)
 
 I´ve joined [MapBox](http://www.mapbox.com/) as [Chief Scientist](http://www.mapbox.com/about/team/#bruno-sánchez-andrade-nuño)! This is a long coming love story, possible thanks to my recent [*extraordinary* visa](/2013/07/22/alien-with-extraordinary-ability/). An amazing next stop on my journey to bridge Science and Technology with Society at large. I am very excited to join this awesome team.
 
-Think of MapBox as a mix of Wikipedia for maps (leveraging the power of open data and crowds) and Apple style to master a product that is beautiful, fast and breaks beyond convention. Faster, better, open maps for anything that has a location. 
+Think of MapBox as a mix of Wikipedia for maps (leveraging the power of open data and crowds) and Apple style to master a product that is beautiful, fast and breaks beyond convention. Faster, better, open maps for anything that has a location.
 
 Opening the *geo* space... What is MapBox doing?
 
-* A [cloudless Satellite map](http://www.wired.com/design/2013/05/a-cloudless-atlas/) of the whole world. 
+* A [cloudless Satellite map](http://www.wired.com/design/2013/05/a-cloudless-atlas/) of the whole world.
 * Maps provider for Github, Foursquare, Financial Time, Le Monde, USA Today, ... See [Showcase](http://www.mapbox.com/showcase/)
 * Street level satellite image [fresh from space](http://www.mapbox.com/blog/super-sharp-pleiades-imagery-on-mapbox/) (this was my first blog post, on my first week here) .
 * Monitoring [deforestation in the Amazonas](http://infoamazonia.org/maps/deforestation/).
@@ -34,9 +34,9 @@ Opening the *geo* space... What is MapBox doing?
 And this is just a sneak peak of what has already shipped in [less than 3 years](http://www.mapbox.com/about/). Btw, [we are hiring](http://www.mapbox.com/blog/jobs-at-mapbox/).
 
 
-A real garage start-up... Well, a garage with glass doors that we open on summer days, couches, fossball, free food and drinks, computers hanging on the walls, a bar space, bike rack, meeting rooms that actually are *hanging out* rooms since there are virtually no meetings ... 
+A real garage start-up... Well, a garage with glass doors that we open on summer days, couches, fossball, free food and drinks, computers hanging on the walls, a bar space, bike rack, meeting rooms that actually are *hanging out* rooms since there are virtually no meetings ...
 
-{% image mapboxgarage.jpg %}
+![](/images/mapboxgarage.jpg)
 
 
 MapBox, **let´s dance.**

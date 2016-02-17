@@ -7,7 +7,7 @@ published: true
 tags:
 - world bank
 - open data
-- data 
+- data
 ---
 
 
@@ -23,10 +23,10 @@ for a particular country. As humbling as that is, it´s odd that our page
 gets visits to see the components, not the aggregation we do for our
 purposes. It´s like buying a book for the Bibliography.
 
-Last Thursday the data team posted a [call for input](http://blogs.worldbank.org/opendata/the-future-of-the-open-data-catalog). They are upgrading the 
+Last Thursday the data team posted a [call for input](http://blogs.worldbank.org/opendata/the-future-of-the-open-data-catalog). They are upgrading the
 Catalog to be "more technologically capable, but also more user friendly, readable and
-understandable". On their summary of the proposition they highlight: Search, Federation, 
-user friendliness, better metadata, and scalable. 
+understandable". On their summary of the proposition they highlight: Search, Federation,
+user friendliness, better metadata, and scalable.
 
 These are my six points of feedback: fast, flat, visual, better
 feedback, support more granularity of data, and open the source.
@@ -34,7 +34,7 @@ feedback, support more granularity of data, and open the source.
 
 ###SPEED###
 
-The Catalog must be *fast*. And I can propose a concrete benchmark:  
+The Catalog must be *fast*. And I can propose a concrete benchmark:
 Faster than using the traditional sets of Excel files many people
 use. That´s the inertia from part of their target users. Why would I
 prefer to fire up the website every time If I can download the whole thing to my
@@ -55,16 +55,16 @@ of Defense, Javascript was golden, and PHP was evil.
 
 * Asynchronous calls. Avoid linearity. This is related to avoiding full
   page reloads if I, e.g., want to add a country to a plot, or I´ve
-requested more info on a particular data point. 
+requested more info on a particular data point.
 
-All these points are actually related to make the Catalog feel less like 
+All these points are actually related to make the Catalog feel less like
 a website and more like an app.
 
 ###As flat as possible###
 
-This is also related with speed. Minimize the *clicks-to-target*. 
-The distance from the front page to  any piece of information should less 
-than, say, three clicks, or two. Same for the most common cases like i.e. showing 
+This is also related with speed. Minimize the *clicks-to-target*.
+The distance from the front page to  any piece of information should less
+than, say, three clicks, or two. Same for the most common cases like i.e. showing
 the world´s GDP compared to x and y country.
 
 ###Low friction for basic users###
@@ -77,15 +77,15 @@ presented. And they occupy **a lot** of space on the screen.
 
 <table>
 <tr>
-<td width="40%">{% image data-catalog.png   %}</td>
-<td width="60%">{% image Gain-frontpage.png   %}</td>
+<td width="40%">![](/images/data-catalog.png)</td>
+<td width="60%">![](/images/Gain-frontpage.png)</td>
 </tr>
 </table>
 
 
 I also love maps, interactive maps. Personally, and this is the way I´m
 leading the upgrade of GAIN, a simple interactive map like GAIN and then
-adding search fields like Google (or Wolfram Alpha). 
+adding search fields like Google (or Wolfram Alpha).
 Procrastinating folks can navigate the map slipping towards deeper
 levels of detail. The search box, small but prominent, gives you access
 to everything. Coupling it with some predictive/popular suggestion
@@ -149,17 +149,17 @@ policies, but for many other the higher the resolution the better. For
 example access to energy at the national level is important to
 prioritize in the global context, but knowing on which region to focus
 is equally relevant. This is specially the case for big heterogeneous
-countries, like India, China, Russia, USA ... 
+countries, like India, China, Russia, USA ...
 
 What I'm proposing, and is the direction I´m planning to develop
-at GAIN, is an *organic resolution* protocol: 
+at GAIN, is an *organic resolution* protocol:
 
 * There is a background
 database with all available measures, at all available resolutions, as
 a network of nodes with plenty relations among them based on geography, economy,
-culture, correlations, ... 
+culture, correlations, ...
 
-* If the user request one of them, it´s instantly served. 
+* If the user request one of them, it´s instantly served.
 
 * Sometimes one might need aggregates of available data, like for example all countries
 from LAC, or spanish speaking, or cities inside this watershed. The interface then requests that job and
@@ -190,7 +190,7 @@ also to spread best uses and help others catch up on their online
 resources.
 
 Back in April 2010, the former President of the World Bank, Robert Zoellick, [said](http://blogs.worldbank.org/opendata/open-data-at-the-world-bank-2-years-old-today):
- 
+
     "It's important to make the data and knowledge of the World Bank
     available to everyone. Statistics tell the story of people in developing
     and emerging countries and can play an important part in helping to

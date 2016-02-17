@@ -1,14 +1,14 @@
 ---
 filename: _posts/blog/2013-11-17-what-i-think-about-on-my-3+-hours-runs.md
 layout: post
-category: blog 
+category: blog
 title: What I think about on my 3+ hours runs
-published: false 
+published: false
 tags:
 - run
 ---
 
-{% image running.jpg  %}
+![](/images/running.jpg)
 
 I get this question often:
 
@@ -18,7 +18,7 @@ I get this question often:
 <!--more-->
 
 I don´t know what I think, just like I don´t know what I talk about when
-I meet someone *before* I meet them. 
+I meet someone *before* I meet them.
 
 But reflecting back, It´s a mixture, sometimes I listen
 to music, and that has the effect of switching off your thoughts, and
@@ -37,7 +37,7 @@ Sometimes I just let the mind wonder. This is probably my favorite. I
 just think how lucky I am for being fit, for having time to run, for
 having endurance to run 3 hours and enjoying it. I reflect on my
 surroundings, the nature, the river... the deer that escapes fro me, the biker,
-the fellow runner ahead of me that I challenge myself to catch up... I fool myself 
+the fellow runner ahead of me that I challenge myself to catch up... I fool myself
 thinking that every other runner or biker I
 see is also training for the same race.
 

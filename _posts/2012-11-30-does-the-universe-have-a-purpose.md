@@ -3,18 +3,19 @@ filename: _posts/blog/2012-11-30-does-the-universe-have-a-purpose?.md
 layout: post
 title: "Does the Universe have a purpose?"
 category: blog
-published: true 
+published: true
 tags:
 - science
 - universe
 ---
 
-{% youtube 7pL5vzIMAhs %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/7pL5vzIMAhs" frameborder="0"> </iframe>
 
-Neil deGrasse Tyson is, to my taste, one of the greatest 
+
+Neil deGrasse Tyson is, to my taste, one of the greatest
 outreach scientist of our time. Not long ago, the Templeton Fundation
-asked leading scientist and scholars ["Does the Universe have a purpose?"](http://www.templeton.org/purpose/). 
-  His answer is the one I like the most. 
+asked leading scientist and scholars ["Does the Universe have a purpose?"](http://www.templeton.org/purpose/).
+  His answer is the one I like the most.
 <!--more-->
 
 >Anyone who expresses a more definitive response to the question is

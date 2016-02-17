@@ -33,7 +33,7 @@ The key points to me were:
 * The stride changes your posture and makes you run more straight and stable above the waist, landing your feet right above the center of mass, so there is no vector pointing backwards. It's just *pushing back* all the time.
 * The posture also make you land already with a slight bend on the knee, minimizing the impact on the knee and hips. This point was very important, as I would usually get pain there after long runs.
 * Quite literally the absorption of the impact is done by the muscles and tendons, not the bones and articulations.
-* It just feels smoother and lighter. 
+* It just feels smoother and lighter.
 
 <a href="http://www.zygotebody.com/#nav=-2.34,35.81,120.37"><img width="50%" src="/images/Aquiles.png " class="center"></a>
 
@@ -47,21 +47,21 @@ As a side note. When I finished, after a few minutes, I started to feel my feet 
 
 Together with the stride, you need to have physical fitness to endure the 26 miles. For that you just need to bank as many miles as possible, without over training. I followed a training plan from Adidas [MiCoach](http://www.adidas.com/us/micoach/), but adjusting it whenever I didn't feel good or I had any problems. I didn't´really pay much attention to the suggested change of pace, I just kept it on a comfortable pace of around 10km/h. Before this training the longest I did was a half marathon in March, before changing the stride, and that was my absolute maximum. I felt awful when I finished, much pain in the left hip and soreness for several days. In the 100 days I trained for this marathon, I went for 5 km/week the first week, to 70 km/week 4 weeks before tapering for the race.
 
-{% image weekly-runs.png %}
+![](/images/weekly-runs.png)
 
 From what I could learn, one of the keys of endurance training is learning about [Glycogen](http://en.wikipedia.org/wiki/Glycogen) dynamics. Glycogen is basically the main energy storage of the muscles. The other one, less efficient but more compact is lipids. Some is stored directly on the muscles for immediate use and most of the rest on the liver where, on demand, will be broken down to glucose and send with the blood elsewhere. So the more your muscles store, the better. Training helps muscles store more Glycogen. When we ran out of it, we start to use the other fat reserves. When we deplete glycogen, we [hit the wall](http://en.wikipedia.org/wiki/Hitting_the_wall), typically around mile 20. That's why is helpful to replenish glucose as you run. My choice was [GU](https://guenergy.com/) and [Clif Shots](http://www.clifbar.com/food/products_shot_gel_turbo/) every 45 minutes or so. With too many of either you get tired of their taste. Even so, my stomach was not too happy after so many of those. If think next time I´ll try peanut butter sandwich, falafel roll or something more... food resembling.
 
 Another factor here, the metabolic rate, is very important. When there is enough oxygen the preferred [cell respiration](http://en.wikipedia.org/wiki/Aerobic_respiration) to get ATPs on the Slow Twitch fibers (the ones for endurance) is **aerobic**. You want that for low intensity over long periods of time. If you need more energy than the aerobic metabolism can provide, the body uses the **anaerobic** pathways, which help get that sprint (mostly on the Fast Twitch fibers), but also produce lactic acid at higher rates than the body can clean, which will make you cramp and even [vomit](http://en.wikipedia.org/wiki/Lactic_acidosis). You want to keep the anaerobic rate down for as long as possible. There is a [rough](http://fitcoachjoe.com/wordpress/wp-content/uploads/2011/04/Heart+Rate+Zone.jpg) relation of heart rate (oxygen blood flow) and metabolic regime, for my age (31) is below ~150 bpm for aerobic exercise. You want to keep it below that range, or you will start to consume your precious glycogen anaerobically while your lactate acid builds up. I used a heart rate band for some runs, until I learn to recognize which levels of effort meant which heart rate, and then I was pretty good at keeping it around 150, which also meant around 10 km/h. See my heart rate progress on the marathon run:
 
-{% image mcm-bpm.png %}
+![](/images/mcm-bpm.png)
 
 It was actually quite quick to get there, just 250 m:
 
-{% image mcm-start.png %}
+![](/images/mcm-start.png)
 
 Unfortunately my phone battery died 2 miles before the end (...some call it progress...) so I don´t have the pace or bpm during the 15 seconds or so of the sprint. From previous times I think it would be around 25 km/h and closing in into 180 bpm or more when I stopped. I would have loved to see the recovery time back to the resting 60sh bpm or so (perhaps 10 minutes? no idea). From other runs I know I can go down from 170ish to 110 in one minute, but I presume the decay is proportional to the bpm, so from there to 60 perhaps another 5 minutes or more.
 
-My guess is that a key to run faster marathons is to train your body to run faster keeping it on the aerobic side. 
+My guess is that a key to run faster marathons is to train your body to run faster keeping it on the aerobic side.
 
 ###3. Nutrition
 
@@ -75,7 +75,7 @@ In particular I enjoyed the extra intake of quinoa, beets, nuts... I plan to con
 
 ###4. Motivation
 
-Probably the first lesson you learn when you train for a marathon is that *commitment* is a big part of it. The training will predate over your life. Forget about going out or drinking the night before a long run. The long run itself will make you wake up early on the weekends and will keep you busy at least half of that day alone. I was making 8 hours of actual running a week. You need to watch what you eat, not to get injured, what to wear, ... You friends will tell you you are obsessed with running. Turns out its addictive! My life during the last month or so was pretty much running, sleeping and [working](http://index.gain.org/). 
+Probably the first lesson you learn when you train for a marathon is that *commitment* is a big part of it. The training will predate over your life. Forget about going out or drinking the night before a long run. The long run itself will make you wake up early on the weekends and will keep you busy at least half of that day alone. I was making 8 hours of actual running a week. You need to watch what you eat, not to get injured, what to wear, ... You friends will tell you you are obsessed with running. Turns out its addictive! My life during the last month or so was pretty much running, sleeping and [working](http://index.gain.org/).
 
 You really need motivation specially on the first days. Running 40 minutes can get very long those early days. But as you train more and more, you start to enjoy and look forward that feeling of achievement and fitness at the end of the race. After a while, the running itself becomes the reward and, believe me, you will really enjoy running. You stop thinking about the time and the steps and you get lost in your thoughts, the music you hear, the nature around you.
 
@@ -83,7 +83,7 @@ You really need motivation specially on the first days. Running 40 minutes can g
 Try to find various sources of motivations. What really worked for me those early days was the music I was playing via Pandora, and then later [Spotify](http://www.spotify.com/) (btw this is my [running playlist](http://t.co/PAxTGBhd)). And of course the **mapping**. I was mapping every race with [RunKeeper](http://www.runkeeper.com), and knowing I was going to be able to monitor the track, the speed or the heart rate was a motivation on itself. I even made plans to make tracks of particular paths or shapes, like running the borders of the DC rhomboid. During the long runs I would post a live link so that friends or family could track it in real time. Knowing someone is following my run made me push harder. Getting those likes and comments in Facebook really helped to push through weak times.
 
 
-Since November 2011 that I started using RunKeeper, I've logged 1,440 km, roughly 718Km for this marathon training. I've written before on how to make a map in TileMill with [all your runs as a heatmap](http://brunosan.eu/2012/07/20/a-heatmap-for-all-your-runs-in-runkeeper/). I did it again, this time with the marathon itself in black, for contrast. 
+Since November 2011 that I started using RunKeeper, I've logged 1,440 km, roughly 718Km for this marathon training. I've written before on how to make a map in TileMill with [all your runs as a heatmap](http://brunosan.eu/2012/07/20/a-heatmap-for-all-your-runs-in-runkeeper/). I did it again, this time with the marathon itself in black, for contrast.
 
 Together with the same process I used for the heatmap, this is the result. Pan and zoom at will [[full screen here](http://a.tiles.mapbox.com/v3/brunosan.map-49c6q4ys.html#14.00/38.8895/-77.0409)]:
 
@@ -124,15 +124,15 @@ To convert the HTML table into workable data, I tried several ways, and ended up
 
 **Cleaning and geocoding**
 
-I then used [Google Refine](http://code.google.com/p/google-refine/) to clean the data. In particular I did some *Clustering* to fix misspelled Location names, like "Alexxandria". I also joined the "City" with "State" so that the geolocation would work better. 
+I then used [Google Refine](http://code.google.com/p/google-refine/) to clean the data. In particular I did some *Clustering* to fix misspelled Location names, like "Alexxandria". I also joined the "City" with "State" so that the geolocation would work better.
 
 One important step for later is the **Geocoding** of the "City, State" column. As mentioned on [this post](http://mapbox.com/geo-for-google-docs/), you can use [Yahoo API](http://developer.yahoo.com/geo/placefinder/) to request the (latitude,longitude) for any location. To geocode your locations with Google Refine, you need to make a new column based on the Location column using the *URL Fetch*, and use the YAHOO geocode Yahoo API:
 
-{% image new-column.png %}
+![](/images/new-column.png)
 
     http://where.yahooapis.com/geocode?q=" + value.replace(/\s+/, " ") + "&appid=[appID]
 
-The "replace" thing is to convert spaces into "%20" for the URL (like *New York,NY* into *New%20York,NY*). I minimized the milliseconds of throttling to 1 and still it took a good 15 minutes. 
+The "replace" thing is to convert spaces into "%20" for the URL (like *New York,NY* into *New%20York,NY*). I minimized the milliseconds of throttling to 1 and still it took a good 15 minutes.
 
 Then parse the extra column you just made to extract the (latitude,longitude) tuples from the XML:
 
@@ -157,7 +157,7 @@ To import the data in Python I used:
 
 With this I can get some insights on the Marathon:
 
-* There were 23517 finishers, 
+* There were 23517 finishers,
 * Runners came from 4274 different Locations.
 * 42,5% where women, 57,5% men.
 * The most common runner was a male, 38 years old, from Washington DC, finishing in ~4h24m
@@ -167,7 +167,7 @@ But let's break it down more. You can see my whole code to mine the data and mak
 
 **Histogram of participation by gender**
 
-This histogram shows the distribution of Ages, according to gender (mouse over for tooltips): 
+This histogram shows the distribution of Ages, according to gender (mouse over for tooltips):
 <a href="/images/histo_gender.png"><img src="/images/histo_gender.png" onmouseover="this.src='/images/histo_gender_2.png'" onmouseout="this.src='/images/histo_gender.png'" class="center"  width='75%'/></a>
 
 Remember this is *not* a random sample of population. These are all marathon finishers (A small subset of the population... 1%??). At any age, there is more men than women, except from 25-30. Perhaps women are more physically active then. After that women decline while male participation increases. I wonder if having your first kid is reflected here. I can imagine it's hard to train or run when you are pregnant or new mum. According to the statistics the [mean age for first kid in the USA](http://www.nationmaster.com/graph/hea_age_of_wom_at_fir_chi-health-age-women-first-childbirth) is 24, so it is plausible that effect shows here.
@@ -198,14 +198,14 @@ By the way, I am flabbergasted by the right side of the scatter, runners above 6
 **Pacing yourself**
 
 One can also plot the **Excess time**. This is the difference between twice the *half-marathon* time and the total time. If you keep a constant pace, this *Excess time* will be 0. If you [*hit the wall*](http://en.wikipedia.org/wiki/Hitting_the_wall) on the second half and need 1 hour more to finish, then your *Excess time* will be 1. I am plotting this against Age, to see how it depends on the age, and also with different colors for men and women:
-	
+
 <a href="/images/histo_Excess_time_gender.png"><img src="/images/histo_Excess_time_gender.png" onmouseover="this.src='/images/histo_Excess_time_gender-over.png'" onmouseout="this.src='/images/histo_Excess_time_gender.png'" class="center"  width='75%'/></a>
 
 As the figure shows, very few people are actually *faster* on the second half (means to the left of the vertical line above 0). Above 60 virtually everyone is slower on the second half.
 
 The graph is pretty much a packed vertical shape, but with some convergence on the top. Older runners seem to be able to keep their pace better, specially women.
 
-Again you can see a blue edge across all ages, mostly men that need more than one hour on the second half. I would say they "[hit the wall](http://en.wikipedia.org/wiki/Hitting_the_wall)" hard. In that sense, it seems men hit the wall more than women, specially young runners below 60. Combined with the previous graph, faster men are faster than faster women of the same age, but also more men end up hitting the wall. 
+Again you can see a blue edge across all ages, mostly men that need more than one hour on the second half. I would say they "[hit the wall](http://en.wikipedia.org/wiki/Hitting_the_wall)" hard. In that sense, it seems men hit the wall more than women, specially young runners below 60. Combined with the previous graph, faster men are faster than faster women of the same age, but also more men end up hitting the wall.
 
 
 **Mapping the clusters of runners**
@@ -234,7 +234,7 @@ To aggregate the data I use again Python, and this little code:
     Places_counts = Counter(Places)
     for r in runner:
      for P in Places_counts:
-	
+
 	 if r['Location']==P:  #runner is from that place
 		if P in Places_dic:
 		  #not the first time, add info to this location
@@ -272,7 +272,7 @@ and this is the result, pan and zoom at will ([Full Screen here](http://a.tiles.
 
 When I was talking with another marathoner about the draft of this post he said it would be interesting to see a scatter plot of how many people you pass by gender, or age. This involves not only your pace, but also which corral you chose (your expectation). We only have data for Bib numbers at Gun Time, ChipTime, and partial ChipTime splits for 5K,10K,15K..40K. Can we get the data we want?
 
-1. Ordering Bib numbers by "Gun Time" at any landmark (5K,10K, ..) gives you the order of arrival to that line mark, regardless of their position at the Start time. It´s just the time it took them to get to the landmark from the Gun Time. 
+1. Ordering Bib numbers by "Gun Time" at any landmark (5K,10K, ..) gives you the order of arrival to that line mark, regardless of their position at the Start time. It´s just the time it took them to get to the landmark from the Gun Time.
 2. Ordering Bib numbers by "Gun Time" minus Chip Time, gives you an estimate of the distance from the runner at the Gun Time and the Start Line. That is a rough estimate of the order at the start time.
 3. Hence the difference of 1 and 2 for each land mark gives you the *net* change. Using the landmark you can even check for which Bib numbers changed in between.
 
@@ -283,7 +283,7 @@ Helpers in python to get there:
          def count_sec(lista):
      	   return np.sum(np.array([np.int(a) for a in lista.split(':')])*[60*60,60,1])
 
-	
+
 * Get the rough order estimates with:
 
 

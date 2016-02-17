@@ -1,11 +1,11 @@
---- 
+---
 filename: _posts/blog/2012-03-04-one-year-at-gain.md
 category: blog
 layout: post
 status: publish
 published: true
 type: post
-tags: 
+tags:
 - Science
 title: One year at GAIN
 ---
@@ -34,5 +34,4 @@ In the last year:
 </ul>
 I am very thankful to the Institute for giving the opportunity to work on such an important topic and amazing people. I think we have lots to celebrate and be proud of. Motivation has been and is the main engine for this journey.
 
-{% vimeo 28950907 %}
-
+<iframe src="http://player.vimeo.com/video/28950907?portrait=0" width="#{@@width}" height="#{@@height}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

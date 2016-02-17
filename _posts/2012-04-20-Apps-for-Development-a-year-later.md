@@ -38,7 +38,8 @@ The competition also benefited the Bank in unexpected ways. Allowing unfettered 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr valign="top">
-<td valign="middle" bgcolor="#DCDCDC" width="272">{% youtube SFPwzBl-4lU %}</td>
+<td valign="middle" bgcolor="#DCDCDC" width="272">
+<iframe width="560" height="315" src="http://www.youtube.com/embed/SFPwzBl-4lU" frameborder="0"> </iframe></td>
 </tr>
 <tr valign="top">
 <td valign="middle" bgcolor="#DCDCDC" width="272"><span ="font-family:serif;font-size:small;">Finalist Bruno Sánchez shares his own story of the competition in this video.</span></td>
@@ -52,9 +53,3 @@ The reach of Apps for Development was striking. In the six months leading up to 
 With Apps for Development receiving such a tremendous response, the World Bank Institute’s <a href="http://wbi.worldbank.org/wbi/approach/innovation" target="_blank">Innovation Practice</a> is now developing a <a href="http://www.worldbank.org/challenge" target="_blank">World Bank Challenge platform </a>to institutionalize the process and to support a wide variety of competitions. Indeed, the <a href="http://intranet.worldbank.org/WBSITE/INTRANET/INTRANETHOME/0,,contentMDK:23061893~menuPK:64140059~pagePK:6426483~piPK:6402841~theSitePK:86048,00.html" target="_blank">Apps for Climate</a> competition was launched in December during the United Nations Climate Summit in Durban, South Africa. Surely, this is just the beginning.
 
 Contributed by the </em><a href="http://wbi.worldbank.org/wbi/content/open-innovation" target="_blank"><span ="color:#0000ff;font-family:serif;font-size:medium;"><em><span style="text-decoration:underline;">World Bank Institute's Open Innovation team</span></em></span></a><span style="font-family:serif;font-size:medium;"> </span>
-
-
-
-
-
-

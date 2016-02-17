@@ -1,9 +1,9 @@
 ---
 filename: _posts/blog/2014-04-15-Demoing-Google-glass-to-the-Spanish-president.md
 layout: post
-category: blog 
+category: blog
 title: Demoing the Google Glass to the Spanish president
-published: true 
+published: true
 tags:
 - science
 - technilogy
@@ -16,21 +16,22 @@ I demoed Google Glass to the spanish president, Mariano Rajoy. It was a funny an
 <!--more-->
 
 
-On January my President [Mariano Rajoy](http://en.wikipedia.org/wiki/Mariano_Rajoy) came to meet [Obama](http://www.whitehouse.gov/the-press-office/2014/01/13/remarks-president-obama-and-president-rajoy-spain-after-bilateral-meetin), and also made a reception at the Ambassador´s residence. I was invited. I have Glass, and I decided to bring them to the event, not wearing them, but on it´s pouch. 
+On January my President [Mariano Rajoy](http://en.wikipedia.org/wiki/Mariano_Rajoy) came to meet [Obama](http://www.whitehouse.gov/the-press-office/2014/01/13/remarks-president-obama-and-president-rajoy-spain-after-bilateral-meetin), and also made a reception at the Ambassador´s residence. I was invited. I have Glass, and I decided to bring them to the event, not wearing them, but on it´s pouch.
 
 Right after entering I asked someone to make us a picture, we started talking and it turned out that the person was the Head of the Intelligence of the President´s cabinet, Alfonso de Senillosa. We started talking about technology and I mentioned the Google Glass I had on its pouch. He was very keen to try them so I took them out. He enjoyed trying them and I told him I would be honored to demo the Glass to the president if he wanted. At the same time virtually everyone around us also wanted to try them so I spent the next 30 minutes demoing and talking about the Glass with all the invitees and all the national and international media gathered around.
 
 The President came and the official program started. Afterwards, Alfonso asked me to come over and he introduced me to the President, and that I had Glass. We spent the next 5 minutes or so chatting. He knew about Google Glass but had not tried it, so he was very eager to do so. I´m pretty sure the bodyguards were not that happy when I was touching the president´s head showing him how to swipe the timeline to see the pictures and video he had just made of me. Before continuing his way he asked me If I could make him a picture with the Glasses and he took his phone out, and gave it to me to take a picture with the Glasses.
 
-{% image 11965519213_e1a0021e71_o.jpg %}
-{% image 11940736065_99a840e76b_o.jpg %}
-{% image Screenshot-20-04-14-23-13.png %}
+![](/images/11965519213_e1a0021e71_o.jpg)
+![](/images/11940736065_99a840e76b_o.jpg)
+![](/images/Screenshot-20-04-14-23-13.png)
 
 ### The impact
 
 I had asked my date to take as many pictures as she could during the demo, and then I asked the president a picture with her:
 
-{% image 1526699_503242747733_1668996134_n.jpg %}
+![](/images/1526699_503242747733_1668996134_n.jpg)
+
 *Not bad for one of our first dates.*
 
 When media started to ask me about pictures I gave them the photos above. I uploaded them to my Facebook and went to bed.
@@ -39,14 +40,11 @@ Then national TV run the pictures, and the radio, and the newspapers, and the ni
 
 Who knew that bringing the Glass to that event would lead to so much fun... and impact... and a cartoon!
 
-{% image 1607115_503245876463_206236591_n.jpg %}
+![](/images/1607115_503245876463_206236591_n.jpg)
 
 
 <hr>
 Almost a year ago now I did the same with [Todd Park](http://en.wikipedia.org/wiki/Todd_Park), United States Chief Technology Officer, when I went to the White House, but that´s another story:
 
-{% image 487478_503051790413_1893471565_n.jpg %}
-{% image 971664_503051660673_1559716347_n.jpg %}
-
-
-
+![](/images/487478_503051790413_1893471565_n.jpg)
+![](/images/971664_503051660673_1559716347_n.jpg)

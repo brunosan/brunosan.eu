@@ -7,10 +7,10 @@ published: true
 tags:
 - idea
 - technology
-- app 
+- app
 ---
 
-{% image Battery-hub.png %}
+![](/images/Battery-hub.png)
 
 This is an idea for an app that keeps track of the battery levels across
 all your devices.
@@ -44,7 +44,7 @@ it for your commute next day.
 
 **The implementation**
 
-Unfortunately, the app needs to have a version for each OS (Win, OSX, iOS, Android). 
+Unfortunately, the app needs to have a version for each OS (Win, OSX, iOS, Android).
 May be you can get around it putting it on a website and use some
 Javascript magic
 to request the battery life. [This already exists, btw](http://www.smartjava.org/content/html5-access-battery-status-through-javascript). The problem is that then you need to use that page as
@@ -76,7 +76,7 @@ performance.
 
 **Monetize**
 
-You can monetize selling the app. I would pay for it. 
+You can monetize selling the app. I would pay for it.
 
 You can also show ads, or even trigger ads for new batteries or servicing options once the
 battery health for a particular device gets too low.
@@ -87,4 +87,3 @@ battery health for a particular device gets too low.
 and Low Battery by CJ Sorg, on Flickr"><img
 src="http://farm4.staticflickr.com/3143/2769855332_f774ef8530.jpg"
 width="480" height="320" alt="Aces and Low Battery"></a>
-
