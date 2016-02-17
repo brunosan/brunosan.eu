@@ -57,7 +57,9 @@ There was a time where only journalists would go to press releases, where only t
 At that time, you could also search on Twitter for all tweets with the word 'NASA'.  But that will only show endless noise of people you don´t know saying things you most probably don't care or just can't evaluate on time.
 
 At some point someone on the panel mentioned a report from the NRC about astrobiology. After just a minte or so, the NAS Press <a href="http://twitter.com/#!/NAPress/statuses/10414377417052160">tweeted </a>the <a href="http://www.nap.edu/catalog.php?record_id=11919">link </a>to that particular report, which offers a free pdf.
-{% tweet http://twitter.com/#!/NAPress/statuses/10414377417052160 %}
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The Limits of Organic Life in Planetary Systems - If you are watching <a href="https://twitter.com/hashtag/NASA?src=hash">#NASA</a> conference, this is the book just held up: http://bit.ly/dJquWd</p>&mdash; The Academies (@theNASEM) <a href="https://twitter.com/theNASEM/status/10414377417052160">December 2, 2010</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 After the video feed finished, I could still see the conversation going on in Twitter, and people (the ones I follow) where sending the links they found interesting, or replying to questions from other people.
 

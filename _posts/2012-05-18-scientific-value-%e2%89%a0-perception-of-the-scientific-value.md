@@ -25,7 +25,8 @@ Almost every single weather satellite in the recent years has had the same capab
 
 Here´s another example with the ISS and the Earth. You might not even remember the purpose of the ISS (or even that we had humans living there since years)  but you might remember (or you will) this video:
 
-{% youtube Ip2ZGND1I9Q %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Ip2ZGND1I9Q" frameborder="0"> </iframe>
+
 
 Another case, from my experience: My thesis took around 3 years, and 100 days of observations at a telescope. Probably less than 20 people understand it, and I hope it be a small contribution to advance solar physic. One day, at the telescope, I made a 20 seconds video, and then I took a few hours to prepare a simple video of it (here it is <a href="http://bsan.eu/LbfigS">http://bsan.eu/LbfigS</a> ). The <a href="https://plus.google.com/113118420661689340672">Astronomy Picture of the Day (APoD)</a> featured it 3 times, and literally millions of people has seen it. With that video, we can engage in so many concepts of Astronomy, Optics and Solar Physics. And so have told me teachers from literally all around the world when they asked me to use it on their classroom.
 

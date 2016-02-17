@@ -11,7 +11,7 @@ tags:
 
 I demoed Google Glass to the spanish president, Mariano Rajoy. It was a funny anecdote, and this is how it happened.
 
-{%  image 11941582216_b0fc4db9a6_b.jpg  %}
+![](/images/11941582216_b0fc4db9a6_b.jpg)
 
 <!--more-->
 

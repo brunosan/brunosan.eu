@@ -84,7 +84,9 @@ Note also that, since the corona is optically thin and due to the 3D nature of t
 
 This geometrical distortion is also responsible for the dimming of coronal holes towards the local limb. Coronal Hole appear darker when directly below the s/c and gradually seem to disappear towards the limb. Using the minimum value on the overlap region minimizes the problem but, in turn, creates a much more visible geocentric solar meridian. For easier visualization of this effect, we have added the locations of the STEREO s/c and the Earth. We also added a mark, on the individual images, the sub-s/c position of the respective s/c. This marker moves towards the limb in the images as the Sun coverages increases, until the marker disappear beyond the limb. when the s/c reach 90º separation.
 
-{% youtube EdY7f6Z7sks %}
+<iframe width="560" height="315" src="http://www.youtube.com/embed/EdY7f6Z7sks" frameborder="0"> </iframe>
+
+
 <h2><strong>Some Data Interpretation points</strong></h2>
 <ul>
 	<li>Using both dataset we achieve maximum solar coverage, and observation of both polar caps simultaneously.</li>
