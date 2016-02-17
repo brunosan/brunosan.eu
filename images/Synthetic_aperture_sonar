@@ -1,0 +1,445 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Synthetic aperture sonar - Wikipedia, the free encyclopedia</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="generator" content="MediaWiki 1.20wmf5" />
+<meta http-equiv="last-modified" content="Sun, 06 May 2012 01:58:07 +0000" />
+<meta name="last-modified-timestamp" content="1336269487" />
+<meta name="last-modified-range" content="0" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Synthetic_aperture_sonar&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Synthetic_aperture_sonar&amp;action=edit" />
+<link rel="apple-touch-icon" href="//en.wikipedia.org/apple-touch-icon.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.teahouse%7Cext.wikihiero%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">#mwe-lastmodified { display: none; }</style><meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" type="text/css" media="all" />
+<style type="text/css" media="all">a:lang(ar),a:lang(ckb),a:lang(fa),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+
+/* cache key: enwiki:resourceloader:filter:minify-css:7:d5a1bf6cbd05fc6cc2705e47f52062dc */</style>
+
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Synthetic_aperture_sonar","wgTitle":"Synthetic aperture sonar","wgCurRevisionId":490907969,"wgArticleId":1918397,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Sonar","Navy stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Synthetic_aperture_sonar","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgSearchNamespaces":[0],"wgVectorEnabledModules":{"collapsiblenav":true,"collapsibletabs":true,"editwarning":true,"expandablesearch":false,"footercleanup":false,"sectioneditlinks":false,"simplesearch":true,"experiments":true},"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"templateEditor":false,"templates":false,"preview":false,"previewDialog":false,"publish":false,"toc":false},"wgTrackingToken":"f8b569ee6c0a452a995706f5599f14d7","wgArticleFeedbackv5Permissions":{"oversighter":false,"moderator":false,"editor":false},"wikilove-recipient":"","wikilove-edittoken":"+\\","wikilove-anon":0,"mbEmailEnabled":true,"mbUserEmail":false,"mbIsEmailConfirmationPending":false,"wgPageTriageToolbarInfoHelpLink":"http://en.wikipedia.org/wiki/Wikipedia:New_pages_patrol#Patroller_checklists","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","Geo":{"city":"","country":""},"wgNoticeProject":"wikipedia","aftv5Whitelist":false});
+}</script><script type="text/javascript">if(window.mw){
+mw.loader.implement("user.options",function(){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"justify":0,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":false,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3
+,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"vector-simplesearch":1,"useeditwarning":1,"vector-collapsiblenav":1,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"wikilove-enabled":1,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"gadget-teahouse":1,"gadget-mySandbox":1});;},{},{});mw.loader.implement("user.tokens",function(){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: enwiki:resourceloader:filter:minify-js:7:15f947b8a5d6ceebd1f399c3a1526c80 */
+}</script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","last.modified"]);
+}</script>
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/skins-1.20wmf5/vector/csshover.min.htc")}</style><![endif]--></head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Synthetic_aperture_sonar skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<!-- content -->
+		<div id="content" class="mw-body">
+			<a id="top"></a>
+			<div id="mw-js-message" style="display:none;"></div>
+						<!-- sitenotice -->
+			<div id="siteNotice"><!-- centralNotice loads here --></div>
+			<!-- /sitenotice -->
+						<!-- firstHeading -->
+			<h1 id="firstHeading" class="firstHeading"><span dir="auto">Synthetic aperture sonar</span></h1>
+			<!-- /firstHeading -->
+			<!-- bodyContent -->
+			<div id="bodyContent">
+								<!-- tagline -->
+				<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+				<!-- /tagline -->
+								<!-- subtitle -->
+				<div id="contentSub"></div>
+				<!-- /subtitle -->
+																<!-- jumpto -->
+				<div id="jump-to-nav" class="mw-jump">
+					Jump to: <a href="#mw-head">navigation</a>,
+					<a href="#p-search">search</a>
+				</div>
+				<!-- /jumpto -->
+								<!-- bodycontent -->
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><b>Synthetic aperture sonar (SAS)</b> is a form of <a href="/wiki/Sonar" title="Sonar">sonar</a> in which sophisticated post-processing of sonar data are used in ways closely analogous to <a href="/wiki/Synthetic_aperture_radar" title="Synthetic aperture radar">synthetic aperture radar</a>. Synthetic aperture sonars combine a number of acoustic pings to form an image with much higher resolution than conventional sonars, typically 10 times higher. The principle of synthetic aperture sonar is to move a sonar along a line and illuminate the same spot on the sea floor with several pings. This produces a synthetic array equal to the distance traveled. By coherent reorganization of the data from all the pings, a synthetic aperture image is produced with improved along-track resolution. In contrast to conventional <a href="/wiki/Sidescan_sonar" title="Sidescan sonar" class="mw-redirect">side-scan</a> sonar, SAS processing provides range-independent along-track resolution. At maximum range the resolution can be magnitudes better than that of side-scan sonars.</p>
+<p>For further reading, the Open Access Article: <i>Introduction to Synthetic Aperture Sonar</i><sup id="cite_ref-0" class="reference"><a href="#cite_note-0"><span>[</span>1<span>]</span></a></sup> can be recommended as introduction for people familiar with Sonar Systems. For academics, the IEEE Journal of Oceanic Engineering article: <i>Synthetic Aperture Sonar, A Review of Current Status</i><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>2<span>]</span></a></sup> gives an overview of the history and an extensive list of references for the community achievements up to 2009.</p>
+<h2><span class="editsection">[<a href="/w/index.php?title=Synthetic_aperture_sonar&amp;action=edit&amp;section=1" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
+<ol class="references">
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text">Roy Edgar Hansen (2011), <i>Introduction to Synthetic Aperture Sonar</i>, Sonar Systems, N. Z. Kolev (Ed.), <a href="/wiki/Special:BookSources/9789533073453" class="internal mw-magiclink-isbn">ISBN 978-953-307-345-3</a>, InTech. Open access article, available from: <a rel="nofollow" class="external free" href="http://www.intechopen.com/articles/show/title/introduction-to-synthetic-aperture-sonar">http://www.intechopen.com/articles/show/title/introduction-to-synthetic-aperture-sonar</a>.</span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">M. P. Hayes and P. T. Gough, <i>Synthetic Aperture Sonar: A Review of Current Status</i>, IEEE J. Ocean. Eng., vol. 34, no. 3, pp. 207-224, July 2009. <a rel="nofollow" class="external text" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5191242">Access abstract.</a></span></li>
+</ol>
+<h2><span class="editsection">[<a href="/w/index.php?title=Synthetic_aperture_sonar&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a>]</span> <span class="mw-headline" id="See_also">See also</span></h2>
+<ul>
+<li><a href="/wiki/Beamforming" title="Beamforming">beamforming</a></li>
+<li><a href="/wiki/Phased_array" title="Phased array">phased array</a></li>
+<li><a href="/wiki/Side-scan_sonar" title="Side-scan sonar">side-scan sonar</a></li>
+<li><a href="/wiki/Sonar" title="Sonar">sonar</a></li>
+<li><a href="/wiki/Underwater_acoustics" title="Underwater acoustics">underwater acoustics</a></li>
+</ul>
+<h2><span class="editsection">[<a href="/w/index.php?title=Synthetic_aperture_sonar&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ixsea.com/en/geophysics/3/shadows.html">IXSEA - Shadows</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.km.kongsberg.com/ks/web/nokbg0240.nsf/AllWeb/90CBC5D82A8F2A6CC125721F003360C2?OpenDocument">Kongsberg - Hisas</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.appsig.com/products-technologies/by-category/hd-sonar">Raytheon Applied Signal Technology - HD Sonar</a></li>
+</ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0;;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;;">
+<tr>
+<th scope="col" style=";" class="navbox-title" colspan="3">
+<div class="noprint plainlinks hlist navbar mini" style="">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Hydroacoustics" title="Template:Hydroacoustics"><span title="View this template" style=";;background:none transparent;border:none;">v</span></a></li>
+<li class="nv-talk"><a href="/w/index.php?title=Template_talk:Hydroacoustics&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Hydroacoustics (page does not exist)"><span title="Discuss this template" style=";;background:none transparent;border:none;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Hydroacoustics&amp;action=edit"><span title="Edit this template" style=";;background:none transparent;border:none;">e</span></a></li>
+</ul>
+</div>
+<div class="" style="font-size:110%;"><a href="/wiki/Hydroacoustics" title="Hydroacoustics">Hydroacoustics</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Sonar" title="Sonar">Sonar</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_acoustics" title="Active acoustics" class="mw-redirect">Active acoustics</a></li>
+<li><a href="/wiki/Baffles_(submarine)" title="Baffles (submarine)">Baffles (submarine)</a></li>
+<li><a href="/wiki/Bistatic_sonar" title="Bistatic sonar">Bistatic sonar</a></li>
+<li><a href="/wiki/Echo_sounding" title="Echo sounding">Echo sounding</a></li>
+<li><a href="/wiki/Fessenden_oscillator" title="Fessenden oscillator">Fessenden oscillator</a></li>
+<li><a href="/wiki/GLORIA_sidescan_sonar" title="GLORIA sidescan sonar">GLORIA sidescan sonar</a></li>
+<li><a href="/wiki/Multibeam_echosounder" title="Multibeam echosounder">Multibeam echosounder</a></li>
+<li><a href="/wiki/Passive_acoustics" title="Passive acoustics">Passive acoustics</a></li>
+<li><a href="/wiki/Scientific_echosounder" title="Scientific echosounder">Scientific echosounder</a></li>
+<li><a href="/wiki/Side-scan_sonar" title="Side-scan sonar">Side-scan sonar</a></li>
+<li><a href="/wiki/Beamforming#Sonar_beamforming_requirements" title="Beamforming">Sonar beamforming</a></li>
+<li><a href="/wiki/Sonobuoy" title="Sonobuoy">Sonobuoy</a></li>
+<li><a href="/wiki/Surveillance_Towed_Array_Sensor_System" title="Surveillance Towed Array Sensor System">Surveillance Towed Array Sensor System</a></li>
+<li><strong class="selflink">Synthetic aperture sonar</strong></li>
+<li><a href="/wiki/Towed_array_sonar" title="Towed array sonar">Towed array sonar</a></li>
+<li><a href="/wiki/Upward_looking_sonar" title="Upward looking sonar">Upward looking sonar</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" style="width:0%;padding:0px 0px 0px 2px;" rowspan="7">
+<div><a href="/wiki/File:Akhumps_128_016_0_500c.gif" class="image"><img alt="Akhumps 128 016 0 500c.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Akhumps_128_016_0_500c.gif/140px-Akhumps_128_016_0_500c.gif" width="140" height="131" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">Ocean acoustics</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acoustic_network" title="Acoustic network">Acoustic network</a></li>
+<li><a href="/wiki/Acoustic_release" title="Acoustic release">Acoustic release</a></li>
+<li><a href="/wiki/Acoustic_Doppler_Current_Profiler" title="Acoustic Doppler Current Profiler">Acoustic Doppler Current Profiler</a></li>
+<li><a href="/wiki/Acoustic_Seabed_Classification" title="Acoustic Seabed Classification">Acoustic Seabed Classification</a></li>
+<li><a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">Acoustical oceanography</a></li>
+<li><a href="/wiki/Hydrophone" title="Hydrophone">Hydrophone</a></li>
+<li><a href="/wiki/Long_baseline_acoustic_positioning_system" title="Long baseline acoustic positioning system">Long baseline acoustic positioning system</a></li>
+<li><a href="/wiki/Ocean_acoustic_tomography" title="Ocean acoustic tomography">Ocean acoustic tomography</a></li>
+<li><a href="/wiki/Short_baseline_acoustic_positioning_system" title="Short baseline acoustic positioning system">Short baseline acoustic positioning system</a></li>
+<li><a href="/wiki/Sofar_bomb" title="Sofar bomb">Sofar bomb</a></li>
+<li><a href="/wiki/SOFAR_channel" title="SOFAR channel">SOFAR channel</a></li>
+<li><a href="/wiki/Sound_speed_gradient" title="Sound speed gradient">Sound speed gradient</a></li>
+<li><a href="/wiki/Sound_velocity_probe" title="Sound velocity probe">Sound velocity probe</a></li>
+<li><a href="/wiki/Ultra-short_baseline" title="Ultra-short baseline">Ultra-short baseline</a></li>
+<li><a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a></li>
+<li><a href="/wiki/Underwater_acoustic_communication" title="Underwater acoustic communication">Underwater acoustic communication</a></li>
+<li><a href="/wiki/Underwater_acoustic_positioning_system" title="Underwater acoustic positioning system">Underwater acoustic positioning system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;"><a href="/wiki/Acoustic_ecology" title="Acoustic ecology">Acoustic ecology</a></th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-odd hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acoustic_survey_in_fishing" title="Acoustic survey in fishing">Acoustic survey in fishing</a></li>
+<li><a href="/wiki/Acoustic_tag" title="Acoustic tag">Acoustic tag</a></li>
+<li><a href="/wiki/Animal_echolocation" title="Animal echolocation">Animal echolocation</a></li>
+<li><a href="/wiki/Beached_whale" title="Beached whale">Beached whale</a></li>
+<li><a href="/wiki/Fishfinder" title="Fishfinder">Fishfinder</a></li>
+<li><a href="/wiki/Fisheries_acoustics" title="Fisheries acoustics">Fisheries acoustics</a></li>
+<li><a href="/wiki/Hearing_range#Marine_mammals" title="Hearing range">Hearing range of marine mammals</a></li>
+<li><a href="/wiki/Marine_mammals_and_sonar" title="Marine mammals and sonar">Marine mammals and sonar</a></li>
+<li><a href="/wiki/Whale_song" title="Whale song" class="mw-redirect">Whale song</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style=";;">Related topics</th>
+<td style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;;;" class="navbox-list navbox-even hlist">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acoustic_signature" title="Acoustic signature">Acoustic signature</a></li>
+<li><a href="/wiki/Bioacoustics" title="Bioacoustics">Bioacoustics</a></li>
+<li><a href="/wiki/Biophony" title="Biophony">Biophony</a></li>
+<li><a href="/wiki/Ecoacoustics" title="Ecoacoustics">Ecoacoustics</a></li>
+<li><a href="/wiki/Geophysical_MASINT" title="Geophysical MASINT">Geophysical MASINT</a></li>
+<li><a href="/wiki/Hydrographic_survey" title="Hydrographic survey">Hydrographic survey</a></li>
+<li><a href="/wiki/Noise_map" title="Noise map">Noise map</a></li>
+<li><a href="/wiki/Soundscape" title="Soundscape">Soundscape</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p><br /></p>
+<table class="metadata plainlinks stub" style="background: transparent;">
+<tr>
+<td><a href="/wiki/File:Bark.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bark.svg/40px-Bark.svg.png" width="40" height="20" /></a></td>
+<td><i>This naval article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Synthetic_aperture_sonar&amp;action=edit">expanding it</a>.</i>
+<div class="noprint plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Navy-stub" title="Template:Navy-stub"><span title="View this template" style="">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Navy-stub" title="Template talk:Navy-stub"><span title="Discuss this template" style="">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Navy-stub&amp;action=edit"><span title="Edit this template" style="">e</span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 661/1000000
+Post-expand include size: 17563/2048000 bytes
+Template argument size: 6361/2048000 bytes
+Expensive parser function count: 0/500
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1918397-0!*!0!!*!4!* and timestamp 20120506015807 -->
+</div>				<!-- /bodycontent -->
+								<!-- printfooter -->
+				<div class="printfooter">
+				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Synthetic_aperture_sonar&amp;oldid=490907969">http://en.wikipedia.org/w/index.php?title=Synthetic_aperture_sonar&amp;oldid=490907969</a>"				</div>
+				<!-- /printfooter -->
+												<!-- catlinks -->
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Sonar" title="Category:Sonar">Sonar</a></li><li><a href="/wiki/Category:Navy_stubs" title="Category:Navy stubs">Navy stubs</a></li></ul></div></div>				<!-- /catlinks -->
+												<div class="visualClear"></div>
+				<!-- debughtml -->
+								<!-- /debughtml -->
+			</div>
+			<!-- /bodyContent -->
+		</div>
+		<!-- /content -->
+		<!-- header -->
+		<div id="mw-head" class="noprint">
+			
+<!-- 0 -->
+<div id="p-personal" class="">
+	<h5>Personal tools</h5>
+	<ul>
+		<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Synthetic+aperture+sonar&amp;type=signup">Create account</a></li>
+		<li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Synthetic+aperture+sonar" title="You are encouraged to log in; however, it is not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+<!-- /0 -->
+			<div id="left-navigation">
+				
+<!-- 0 -->
+<div id="p-namespaces" class="vectorTabs">
+	<h5>Namespaces</h5>
+	<ul>
+					<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Synthetic_aperture_sonar"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+					<li  id="ca-talk"><span><a href="/wiki/Talk:Synthetic_aperture_sonar"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-variants" class="vectorMenu emptyPortlet">
+	<h4>
+		</h4>
+	<h5><span>Variants</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+			</div>
+			<div id="right-navigation">
+				
+<!-- 0 -->
+<div id="p-views" class="vectorTabs">
+	<h5>Views</h5>
+	<ul>
+					<li id="ca-view" class="selected"><span><a href="/wiki/Synthetic_aperture_sonar" >Read</a></span></li>
+					<li id="ca-edit"><span><a href="/w/index.php?title=Synthetic_aperture_sonar&amp;action=edit"  title="You can edit this page. &#10;Please use the preview button before saving. [e]" accesskey="e">Edit</a></span></li>
+					<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Synthetic_aperture_sonar&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+			</ul>
+</div>
+
+<!-- /0 -->
+
+<!-- 1 -->
+<div id="p-cactions" class="vectorMenu emptyPortlet">
+	<h5><span>Actions</span><a href="#"></a></h5>
+	<div class="menu">
+		<ul>
+					</ul>
+	</div>
+</div>
+
+<!-- /1 -->
+
+<!-- 2 -->
+<div id="p-search">
+	<h5><label for="searchInput">Search</label></h5>
+	<form action="/w/index.php" id="searchform">
+				<div id="simpleSearch">
+						<input type="text" name="search" value="" title="Search Wikipedia [f]" accesskey="f" id="searchInput" />						<button type="submit" name="button" title="Search Wikipedia for this text" id="searchButton" width="12" height="13"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/vector/images/search-ltr.png?303-4" alt="Search" /></button>								<input type='hidden' name="title" value="Special:Search"/>
+		</div>
+	</form>
+</div>
+
+<!-- /2 -->
+			</div>
+		</div>
+		<!-- /header -->
+		<!-- panel -->
+			<div id="mw-panel" class="noprint">
+				<!-- logo -->
+					<div id="p-logo"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+				<!-- /logo -->
+				
+<!-- navigation -->
+<div class="portal" id='p-navigation'>
+	<h5>Navigation</h5>
+	<div class="body">
+		<ul>
+			<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+			<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+			<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+			<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+			<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+			<li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /navigation -->
+
+<!-- SEARCH -->
+
+<!-- /SEARCH -->
+
+<!-- interaction -->
+<div class="portal" id='p-interaction'>
+	<h5>Interaction</h5>
+	<div class="body">
+		<ul>
+			<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+			<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+			<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+			<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+			<li id="n-contact"><a href="/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact Wikipedia</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /interaction -->
+
+<!-- TOOLBOX -->
+<div class="portal" id='p-tb'>
+	<h5>Toolbox</h5>
+	<div class="body">
+		<ul>
+			<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Synthetic_aperture_sonar" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+			<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Synthetic_aperture_sonar" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+			<li id="t-upload"><a href="/wiki/Wikipedia:Upload" title="Upload files [u]" accesskey="u">Upload file</a></li>
+			<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+			<li id="t-permalink"><a href="/w/index.php?title=Synthetic_aperture_sonar&amp;oldid=490907969" title="Permanent link to this revision of the page">Permanent link</a></li>
+<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Synthetic_aperture_sonar&amp;id=490907969" title="Information on how to cite this page">Cite this page</a></li>		</ul>
+	</div>
+</div>
+
+<!-- /TOOLBOX -->
+
+<!-- coll-print_export -->
+<div class="portal" id='p-coll-print_export'>
+	<h5>Print/export</h5>
+	<div class="body">
+		<ul id="collectionPortletList"><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Synthetic+aperture+sonar" title="Create a book or page collection" rel="nofollow">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Synthetic+aperture+sonar&amp;oldid=490907969&amp;writer=rl" title="Download a PDF version of this wiki page" rel="nofollow">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Synthetic_aperture_sonar&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>	</div>
+</div>
+
+<!-- /coll-print_export -->
+
+<!-- LANGUAGES -->
+<div class="portal" id='p-lang'>
+	<h5>Languages</h5>
+	<div class="body">
+		<ul>
+			<li class="interwiki-no"><a href="//no.wikipedia.org/wiki/Syntetisk_apertur-sonar" title="Syntetisk apertur-sonar" lang="no" hreflang="no">‪norsk (bokmål)‬</a></li>
+		</ul>
+	</div>
+</div>
+
+<!-- /LANGUAGES -->
+			</div>
+		<!-- /panel -->
+		<!-- footer -->
+		<div id="footer">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 6 May 2012 at 01:58.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.
+See <a href="//wikimediafoundation.org/wiki/Terms_of_use">Terms of use</a> for details.<br/>
+Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.<br /></li><li class="noprint"><a class='internal' href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact us</a></li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Synthetic_aperture_sonar&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+					<li id="footer-copyrightico">
+						<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+					</li>
+					<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.20wmf5/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+					</li>
+				</ul>
+						<div style="clear:both"></div>
+		</div>
+		<!-- /footer -->
+		<script type="text/javascript">if(window.mw){
+mw.loader.state({"site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=skins.vector&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script type="text/javascript">if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready","mediawiki.legacy.mwsuggest","ext.gadget.teahouse","ext.vector.collapsibleNav","ext.vector.collapsibleTabs","ext.vector.editWarning","ext.vector.simpleSearch","ext.UserBuckets","ext.articleFeedback.startup","ext.articleFeedbackv5.startup","ext.markAsHelpful","ext.E3Experiments"], null, true);
+}</script>
+<script src="/w/index.php?title=Special:BannerController&amp;cache=/cn.js&amp;303-4" type="text/javascript"></script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*" type="text/javascript"></script>
+<script src="//geoiplookup.wikimedia.org/" type="text/javascript"></script><!-- Served by mw31 in 0.195 secs. -->
+	</body>
+</html>

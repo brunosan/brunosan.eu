@@ -1,0 +1,16 @@
+--- 
+filename: _posts/blog/2008-09-17-%c2%bfque-implica-hacer-una-tesis-doctoral.md
+category: blog
+layout: post
+status: publish
+meta: 
+  blogger_blog: brunosan.blogspot.com
+  blogger_author: "Bruno S\xC3\xA1nchez-Andrade Nu\xC3\xB1o"
+  blogger_84811d3284c06b3cad7acdc4a1b30d1c_permalink: "975441625126549793"
+published: true
+type: post
+tags: 
+- Science
+title: "\xC2\xBFQu\xC3\xA9 implica hacer una tesis doctoral?"
+---
+Recuerdo que alguien me hizo esa pregunta hace tiempo. En esta entrada voy a intentar poner una pequeña lista (no completa ni exacta) de lo que implicó hacer <a href="http://www.astro.physik.uni-goettingen.de/~bruno/thesis/Thesis-brunosan.zip">mi tesis doctoral</a>.<br /><br />Para hacer mi tesis se emplearon, una vez hecha la carrera de fisica y de ser aceptado en para hacer la tesis, del orden de:<br /><br />-3 años y 3 meses como doctorando.<br />-100 días en el Observatorio del Teide (con un coste operativo de un millón de pesetas/día )<br />-4 meses escribiendo y corrigiendo a tiempo completo.<br />-40.000 euros para mi sueldo.<br />-2.000 euros en conferencias.<br />-2 ordenadores, y un clúster de 20 CPU de vez en cuando.<br />-1 Tera de espacio en disco, sin contar backups.<br />-más 3 meses de procesado continuo de datos en 20 CPUs de 3Ghz cada una.<br /><br />La carpeta de la tesis en mi ordenador ocupa 850 megas, pero incluye copias de seguridad, datos, figuras y fotos. Sólo la charla de defensa de la tesis son 300 megas (tiene algunos vídeos).<br />El archivo del texto de la tesis está escrito con LaTeX, que es un sistema de procesado de textos particularmente bueno para dar formato a textos científicos. El archivo "thesis.tex" incluye muchos comandos que no salen en libro impreso, aún asi, las estadística muestra que se compone de:<br />-360174 caracteres en 62144 palabras, de 2 sílabas por palabra de media (es inglés, ellos no tienen palabras largas).<br />- 7599 frases, así que 8 palabras por frase, nada de frases largas. (ïndice de <a href="http://en.wikipedia.org/wiki/Flesch-Kincaid_Readability_Test">Flesch</a> de 51).<br />-6800 líneas (10 palabras or línea). Si una persona lee una línea en 3 segundos, tardaría sólo 5 horas en leerla entera.<br /><br />buscando un poco más de juego con esto de la estadísticas calculé el número de ocurrencias de cada palabra.<br />En Mac/Linux esto lo consigues con el comando:<br /><blockquote>tr -cs "[:alpha:]" "\n" &lt; thesis.tex | sort | uniq -c | sort -rn</blockquote> <br /><br />La palabras que más uso son the, of, and, in, to, ... cosa normal teniendo en cuenta que está escrita en inglés. Seleccionando algunas palabras interesantes queda:<br /><br /><a href="http://nasonurb.files.wordpress.com/2008/09/picture121.jpg"><img src="http://nasonurb.files.wordpress.com/2008/09/picture121.jpg?w=300" border="0" /></a><br /><br />Por el otro extremo, es curioso mirar la unicidad de las palabras, osea, cuántas palabras están sólo 1 vez, o cuántas están sólo 2 veces. Resulta que de las 62144 palabras, hay 1835 únicas, un 3%. Me puedo imaginar que ésta es una buena forma de mirar lo repetitiva que es una tesis.<br /><br /><a href="http://nasonurb.files.wordpress.com/2008/09/picture3.jpg"><img src="http://nasonurb.files.wordpress.com/2008/09/picture3.jpg?w=300" border="0" /></a>

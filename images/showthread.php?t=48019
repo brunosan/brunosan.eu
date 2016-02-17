@@ -1,0 +1,2588 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+<meta name="keywords" content="100k site hacked, programmer commits suicide!, x cart, xcart, x-cart, litecommerce, lite commerce" />
+<meta name="description" content="100k site hacked, programmer commits suicide! General Chat" />
+
+
+<!-- CSS Stylesheet -->
+<style type="text/css" id="vbulletin_css">
+<!--
+/* vBulletin CSS For Style 'X-Cart style' (styleid: 3) */
+body
+{
+	background: #ffffff;
+	color: #434959;
+	font: 11pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+a:link
+{
+	color: #434959;
+	text-decoration: underline;
+}
+a:visited
+{
+	color: #434959;
+	text-decoration: underline;
+}
+a:hover, a:active
+{
+	color: #502d33;
+	text-decoration: underline;
+}
+.page
+{
+	background: #ffffff;
+	color: #434957;
+	font-size: 13px;
+}
+.page a:link
+{
+	color: #434957;
+	text-decoration: underilne;
+}
+.page a:visited
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.page a:hover, .page a:active
+{
+	color: #434957;
+	text-decoration: underline;
+}
+td, th, p, li
+{
+	color: #434957;
+	font: 11pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tborder
+{
+	background: #fcfcfc;
+	color: #434d57;
+	font-size: 10pt;
+	border: 2px solid #e0dee1;
+	padding: 1px;
+}
+.tcat
+{
+	background: #797f8b  url(new_xcart_images/gradients/gradient_tcat.gif) repeat-x;
+	color: #ffffff;
+	font: bold 13px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tcat a:link
+{
+	color: #ffffff;
+	text-decoration: underline;
+}
+.tcat a:visited
+{
+	color: #ffffff;
+	text-decoration: underline;
+}
+.tcat a:hover, .tcat a:active
+{
+	color: #ffffff;
+	text-decoration: underline;
+}
+.thead
+{
+	background: #d9e0e8;
+	color: #434957;
+	font: bold 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.thead a:link
+{
+	color: #434957;
+	text-decoration: underilne;
+}
+.thead a:visited
+{
+	color: #434957;
+	text-decoration: underilne;
+}
+.thead a:hover, .thead a:active
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.tfoot
+{
+	background: #d9e0e8;
+	color: #434957;
+	font-size: 12px;
+}
+.tfoot a:link
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.tfoot a:visited
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.tfoot a:hover, .tfoot a:active
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.alt1, .alt1Active
+{
+	background: #fcfcfc;
+	color: #434957;
+	font-size: 12px;
+}
+.alt1 a:link, .alt1Active a:link
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.alt1 a:visited, .alt1Active a:visited
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.alt1 a:hover, .alt1 a:active, .alt1Active a:hover, .alt1Active a:active
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.alt2, .alt2Active
+{
+	background: #f2f5fa;
+	color: #434957;
+	font-size: 12px;
+}
+.alt2 a:link, .alt2Active a:link
+{
+	color: #434957;
+}
+.alt2 a:visited, .alt2Active a:visited
+{
+	color: #434957;
+}
+.alt2 a:hover, .alt2 a:active, .alt2Active a:hover, .alt2Active a:active
+{
+	color: #434957;
+}
+td.inlinemod
+{
+	background: #f2f5fa;
+	color: #434957;
+	font-size: 12px;
+}
+td.inlinemod a:link
+{
+	color: #434957;
+	text-decoration: underline;
+}
+td.inlinemod a:visited
+{
+	color: #434957;
+	text-decoration: underline;
+}
+td.inlinemod a:hover, td.inlinemod a:active
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.wysiwyg
+{
+	background: #fcfcfc;
+	color: #000000;
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+textarea, .bginput
+{
+	font: 13px sans-serif, verdana, geneva, lucida, 'lucida grande', arial, helvetica,;
+}
+.button
+{
+	background: #cad9ea;
+	color: #2e2e2e;
+	font: bold 12px tahoma, arial, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	border-left: 1px solid #3d3c3b;
+	border-right: 1px solid #000000;
+	border-top: 1px solid #3d3c3b;
+	border-bottom: 1px solid #000000;
+	cursor: hand;
+	margin-bottom: 1px;
+}
+select
+{
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+option, optgroup
+{
+	font-size: 12px;
+	font-family: verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.smallfont
+{
+	color: #000000;
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.time
+{
+	color: #434957;
+}
+.navbar
+{
+	color: #464242;
+	font: normal 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.navbar a:link
+{
+	color: #464242;
+	text-decoration: underline;
+}
+.navbar a:visited
+{
+	color: #464242;
+	text-decoration: underline;
+}
+.navbar a:hover, .navbar a:active
+{
+	color: #464242;
+	text-decoration: underline;
+}
+.highlight
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+.fjsel
+{
+	background: #3E5C92;
+	color: #E0E0F6;
+}
+.fjdpth0
+{
+	background: #F7F7F7;
+	color: #000000;
+}
+.panel
+{
+	background: #ffffff;
+	color: #000000;
+	padding: 10px;
+	border: 2px outset;
+}
+.panelsurround
+{
+	background: #ffffff;
+	color: #000000;
+}
+legend
+{
+	color: #2e2e2e;
+	font: 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.vbmenu_control
+{
+	background: #cad9ea;
+	color: #2e2e2e;
+	font: bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+	
+}
+.vbmenu_control a:link
+{
+	color: #434957;
+	text-decoration: none;
+}
+.vbmenu_control a:visited
+{
+	color: #434957;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active
+{
+	color: #434957;
+	text-decoration: underline;
+}
+.vbmenu_popup
+{
+	background: #fcfcfc;
+	color: #000000;
+	border: 1px solid #e0dee1;
+	padding: 1px;
+}
+.vbmenu_option
+{
+	background: #f2f5fa;
+	color: #464242;
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link
+{
+	background: #f2f5fa;
+	color: #464242;
+	text-decoration: underine;
+}
+.vbmenu_option a:visited
+{
+	background: #f2f5fa;
+	color: #464242;
+	text-decoration: underline;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active
+{
+	background: #f2f5fa;
+	color: #464242;
+	text-decoration: underline;
+}
+.vbmenu_hilite
+{
+	background: #f2f5fa;
+	color: #2e2e2e;
+	font: 12px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link
+{
+	background: #f2f5fa;
+	color: #2e2e2e;
+	text-decoration: underline;
+}
+.vbmenu_hilite a:visited
+{
+	background: #f2f5fa;
+	color: #2e2e2e;
+	text-decoration: underline;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active
+{
+	background: #f2f5fa;
+	color: #2e2e2e;
+	text-decoration: underline;
+}
+/* ***** styling for 'big' usernames on postbit etc. ***** */
+.bigusername {
+font-family: arial, verdana, sans-serif, geneva, lucida, 'lucida grande';
+font-size: 16px; 
+font-weight: bold;
+color: #27282c;
+}
+a.bigusername:link {
+font-family: arial, verdana, sans-serif, geneva, lucida, 'lucida grande';
+font-size: 16px; 
+font-weight: bold;
+color: #27282c;
+text-decoration: none;
+}
+a.bigusername:hover, a.bigusername:visited {
+text-decoration: underline;
+}
+/* ***** small padding on 'thead' elements ***** */
+td.thead, div.thead { padding: 4px; }
+
+/* ***** basic styles for multi-page nav elements */
+.pagenav a { text-decoration: none; }
+.pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { margin-bottom: 6px; }
+.fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
+
+/* ***** don't change the following ***** */
+form { display: inline; }
+label { cursor: default; }
+.normal { font-weight: normal; }
+.inlineimg { vertical-align: middle; }
+
+p {
+font-size: 13px;
+}
+.first_message {
+font-size: 12px;
+color: #000000;
+margin: 10px 0pt 15px; 
+}
+a.first_message, a.first_message:hover, a.first_message:visited {
+color: #364765;
+}
+a.menu_top:link, a.menu_top:hover, a.menu_top:visited {
+color: #7b7e8d;
+font-size: 12px;
+text-decoration: none;
+}
+td.thead3d {
+background: url(new_xcart_images/gradients/gradient_tcat.gif) repeat-x;
+color: #ffffff;
+font-size: 13px;
+font-weight: bold;
+text-align: center;
+white-space: nowrap;
+}
+a.footer_text {
+color: #364765;
+font-size: 14px;
+}
+a.footer_text:visited {
+color: #364765;
+}
+a.footer_text:hover {
+color: #364765;
+}
+.smallfont2 {
+color: #364765;
+font-size: 11px;
+}
+.smallfont_head {
+color: #364765;
+font-size: 11px;
+}
+td.nav_menu {
+white-space: nowrap;
+text-align: left;
+vertical-align : text-middle;
+}
+a.nav_link:link, a.nav_link:visited {
+font: bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial;
+color: #3b4b64;
+padding: 3px 6px 3px 6px;
+text-decoration: none;
+vertical-align : text-middle;
+}
+a.nav_link:hover {
+font: bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial;
+color: #3b4b64;
+text-decoration: underline;
+vertical-align : text-middle;
+}
+a.nav_link:active {
+font: bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial; 
+color: #3b4b64;
+text-decoration: none;
+vertical-align : text-middle;
+}
+a.forum_level1:link { 
+font: bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial; 
+color: #35475f;
+font-weight: bold;
+font-size: 12px;
+}
+a.forum_level1:visited { 
+font: bold 12px tahoma, verdana, geneva, lucida, 'lucida grande', arial; 
+color: #35475f;
+font-weight: bold;
+font-size: 12px;
+}
+a.forum_level2, a.forum_level2:visited { 
+color: #454857;
+font-weight: bold;
+font-size: 12px;
+}
+a.last_post:link, a.last_post:visited,a.last_post:active {
+color: #454857;
+}
+
+td.thead_popup{
+background-color: #d9e0e8;
+color: #434957;
+font-size: 12px;
+}
+li {
+color: #454857;
+font-size: 12px;
+}
+.main_header
+{
+    font-weight: bold;
+    font-size: 22px;
+    font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial;
+    text-decoration: none;
+    line-height: 120%;
+    color: #454857;
+}
+
+.small_header
+{
+    font-weight: normal;
+    font-size: 9px;
+    font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial;
+    text-decoration: none;
+    color: #7c8187;
+    padding-bottom:10px; 
+}
+
+.bit1
+{
+    background-color: #fcfcfc;
+    font-size: 12px;
+}
+
+.bit2
+{
+    background-color: #eef0f4;
+    font-size: 12px;
+}
+-->
+</style>
+
+<!-- / CSS Stylesheet -->
+
+<script type="text/javascript">
+<!--
+var SESSIONURL = "s=c844fd105c1df95fef40aef2f909e39b&";
+var IMGDIR_MISC = "new_xcart_images/misc";
+var vb_disable_ajax = parseInt("0", 10);
+// -->
+</script>
+
+<script type="text/javascript" src="clientscript/vbulletin_global.js?v=1145513873"></script>
+
+
+
+<LINK rel="SHORTCUT ICON" href="new_xcart_images/statusicon/xcart_favicon.ico">
+	<title>100k site hacked, programmer commits suicide! - X-Cart forums</title>
+</head>
+<body onload="">
+<!-- logo -->
+<a name="top"></a>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr valign="top"  height="17">
+<td>&nbsp;</td><td>&nbsp;</td>
+<td align="right" width="100%" valign="top">
+<!-- links to the forums -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding-top:5px;">
+<tr><td valign="top" height="24"></td>
+
+<td width="100%"><IMG src="new_xcart_images/misc/spacer.gif" width="1"  height="1" alt="" border="0"></td>
+
+<td bgcolor="#ffffff" width="24" align="right">
+<a href="http://www.twitter.com/x_cart" target="_blank"><img src="images/icons/twitter.png" alt="Follow us on Twitter" title="Follow us on Twitter" height="24" width="24" border="0"></a></td>
+
+<td bgcolor="#ffffff"><IMG src="new_xcart_images/misc/spacer.gif" width="12"  height="24" alt="" border="0"></td>
+
+<td bgcolor="#ffffff" width="24" align="right">
+<a href="http://www.facebook.com/xcart" target="_blank"><img src="images/icons/facebook.jpg" alt="X-Cart on Facebook" title="X-Cart on Facebook" height="24" width="24" border="0"></a></td>
+
+<td bgcolor="#ffffff"><IMG src="new_xcart_images/misc/spacer.gif" width="12"  height="24" alt="" border="0"></td>
+
+<td bgcolor="#ffffff" width="32" align="right">
+<a href="http://help.qtmsoft.com" target="_blank"><img src="images/icons/Mediawiki-logo.png" alt="Wiki" title="Wiki" height="24" width="32" border="0"></a></td>
+
+<td bgcolor="#ffffff"><IMG src="new_xcart_images/misc/spacer.gif" width="15"  height="24" alt="" border="0"></td>
+</tr>
+</table>
+<!-- end links to the forums -->
+</td></tr>
+<tr><td width="25px"><img src="new_xcart_images/misc/spacer.gif" alt="" border="0" height="1" width="25px"></td>
+<td colspan="2" class="small_header">Shopping cart software Solutions for online shops and malls</td></tr>
+<tr><td width="25px"><img src="new_xcart_images/misc/spacer.gif" alt="" border="0" height="1" width="25px"></td>
+<td><a href="http://forum.x-cart.com/"><img src="new_xcart_images/misc/xcart_forum_logo.gif" width="203" height="33" border="0"></a></td>
+<td align="right">
+<table border="0" cellpadding="0" cellspacing="0" style="margin-right: 15px">
+<tr>
+		
+</tr></table>
+</td>
+</tr>
+</table>
+<!-- content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px">
+
+
+
+<script type="text/javascript">
+<!--
+function log_out()
+{
+	ht = document.getElementsByTagName("html");
+	ht[0].style.filter = "progid:DXImageTransform.Microsoft.BasicImage(grayscale=1)";
+	if (confirm('Are you sure you want to log out?'))
+	{
+		return true;
+	}
+	else
+	{
+		ht[0].style.filter = "";
+		return false;
+	}
+}
+//-->
+</script>
+
+<!-- nav buttons bar -->
+	<table cellpadding="6" cellspacing="0" border="0" width="100%" style="border-top-width:0px; margin-top: 5px">
+	<tr align="left">            
+		
+		<td class="nav_menu" align="left" style="white-space: nowrap" nowrap><img src="new_xcart_images/misc/arrow_menu.gif" width="6" height="9" border="0"><a class="nav_link" href="faq.php?s=c844fd105c1df95fef40aef2f909e39b" accesskey="5">FAQ</a></td>
+
+<td class="nav_menu" align="left" style="white-space: nowrap" nowrap><img src="new_xcart_images/misc/arrow_menu.gif" width="6" height="9" border="0"><a class="nav_link" href="viewtopic.php?t=6489?s=c844fd105c1df95fef40aef2f909e39b">Forum rules </a></td>
+<!-- tash@rrf.ru - memberlist menu item -->
+
+<!-- end tash@rrf.ru -->	
+	<td class="nav_menu" align="left" style="white-space: nowrap" nowrap><img src="new_xcart_images/misc/arrow_menu.gif" width="6" height="9" border="0"><a class="nav_link" href="calendar.php?s=c844fd105c1df95fef40aef2f909e39b">Calendar</a></td>
+				
+			<td class="nav_menu" align="left" style="white-space: nowrap" nowrap><img src="new_xcart_images/misc/arrow_menu.gif" width="6" height="9" border="0"><a class="nav_link" href="forumdisplay.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=markread" rel="nofollow">Mark Forums Read</a></td>
+
+<!-- kai @ rrf.ru  - login link -->
+<td class="nav_menu" align="left" style="white-space: nowrap" nowrap><img src="new_xcart_images/misc/arrow_menu.gif" width="6" height="9" border="0"><a class="nav_link" href="http://www.x-cart.com/manuals.html">User manuals </a></td>
+
+
+<td class="nav_menu" align="left" style="white-space: nowrap" nowrap><img src="new_xcart_images/misc/arrow_menu.gif" width="6" height="9" border="0"><a  class="nav_link" href="login.php">Login</a></td>
+
+<!-- end -->
+						
+
+			
+
+ 		
+<td width="100%"></td>
+	</tr>
+</table>
+<!-- / nav buttons bar -->
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr height="1">    
+    <td width="100%"><IMG src="new_xcart_images/misc/mpixel.gif" width="100%" height="1" border="0"></td>
+</tr>
+</table>
+<br/>
+
+
+
+
+
+<!-- breadcrumb -->
+<table cellpadding="0" cellspacing="0" border="0" style="margin: 10px 0 10px 0" width="100%">
+
+
+</table>
+<!-- / breadcrumb, login, pm info -->
+
+
+
+<a name="poststop" id="poststop"></a>
+<!-- controls above postbits -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-bottom:3px">
+<tr valign="bottom"><td colspan="2"><div> <span class="main_header">100k site hacked, programmer commits suicide!</span></div></td></tr>
+<tr valign="bottom"><td height="20" colspan="2">&nbsp;</td></tr>
+<tr valign="bottom">
+	
+		<td class="smallfont"><a href="newreply.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newreply&amp;noquote=1&amp;p=260287" rel="nofollow"><img src="new_xcart_images/buttons/reply.gif" alt="Reply" border="0" /></a></td>
+	
+<!-- breadcrumb -->
+	<td style="padding:4px;background-color:#ffffff;" class="alt1" width="100%">
+		
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tr valign="bottom">
+				<td width=20>&nbsp;&nbsp;</td>
+		<td width="100%"><span class="navbar"><a href="index.php?s=c844fd105c1df95fef40aef2f909e39b" accesskey="1">X-Cart forums</a></span> 
+	<span class="navbar">&gt; <a href="forumdisplay.php?s=c844fd105c1df95fef40aef2f909e39b&amp;f=8">Community Center</a></span>
+
+
+	<span class="navbar">&gt; <a href="forumdisplay.php?s=c844fd105c1df95fef40aef2f909e39b&amp;f=29">General Chat</a></span>
+
+</td>
+			</tr>
+			</table>			
+		
+	</td>	
+<!-- / breadcrumb-->
+	
+</tr>
+</table>
+<!-- / controls above postbits -->
+
+<!-- toolbar -->
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center" style="border-bottom-width:0px">
+<tr>
+	<td class="tcat" width="100%">
+		<div class="smallfont">
+		
+		&nbsp;
+		</div>
+	</td>
+	<td class="vbmenu_control" id="threadtools" nowrap="nowrap">
+		<a href="#goto_threadtools">Thread Tools</a>
+		
+	</td>
+	
+	
+	
+	
+	
+	
+</tr>
+</table>
+<!-- / toolbar -->
+
+
+
+<!-- end content table -->
+
+		</div>	
+	</div>
+</div>
+
+<!-- / close content container -->
+<!-- / end content table -->
+
+
+
+<div id="posts"><!-- post #260287 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px">
+
+	<div id="edit260287" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->	
+
+<table class="tborder" id="post260287" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+
+	<td class="thead"  style="font-size: 12px">
+		<div class="normal" style="float:right; margin-bottom: 0">
+			&nbsp;
+			#<a href="showpost.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260287&amp;postcount=1" target="new" rel="nofollow" id="postcount260287" name="1"><strong>1</strong></a> &nbsp;
+			
+			
+			
+			
+		</div>
+		
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post260287" href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260287#post260287"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="Old" border="0" /></a>
+			
+				06-09-2009, 02:10 PM
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt1" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+                <td width="10">&nbsp;</td>
+			<td class="alt2"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226"><img src="customavatars/avatar226_2.gif" width="80" height="80" alt="handsonwebhosting's Avatar" border="0" /></a></td><td>&nbsp;</td>
+			<td nowrap="nowrap">
+			
+				<div id="postmenu_260287">
+					
+					<a class="bigusername" href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226">handsonwebhosting</a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="handsonwebhosting is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_260287", true); </script>
+					
+				</div>
+				
+				
+			</td>
+			<td width="100%">&nbsp;</td>
+                        <td nowrap align="right" valign="top" style="padding:2px">
+
+
+<div class="smallfont"><span><img src="new_xcart_images/ranks/NX4.gif" title="X-Man" border="0"><br><b>X-Man</b></span></div>
+
+</td> 
+<td width="20">&nbsp;&nbsp;</td>      
+			<td valign="top" nowrap="nowrap">
+				
+				<div class="smallfont">
+					<div>Join Date: Oct 2002</div>
+					<div>Location: Omaha, NE, USA</div>
+					
+					<div>
+						Posts: 2,102
+					</div>
+					
+					<div>    </div>
+				</div>
+				
+			</td>
+                        <td width="10">&nbsp;</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	<td class="alt1" id="td_post_260287">
+	<!-- message, attachments, sig -->
+	
+		
+        	<hr size="1" style="color: #c7cbce; margin-top: 0" />
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon9.gif" alt="Unhappy" border="0" />
+				<strong>100k site hacked, programmer commits suicide!</strong>
+			</div>
+         	        <hr size="1" style="color: #c7cbce;" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_260287">Well many of you may not know about the incident yet (for some reason it hasn't made the major news), but in the hosting world, we've been watching a horror story unfold.<br />
+<br />
+VAserv (<a href="http://www.vaserv.com" target="_blank">http://www.vaserv.com</a>) - a well established VPS hosting provider in the UK market had approx 100,000 websites hacked and deleted.  The hacker (according to reports) used an exploit in HyperVM, a hosting control panel, in order to gain access to more than 1800 VPS Accounts and run the command &quot;rm -rf&quot; - DELETE.<br />
+<br />
+There are mixed reports at the moment as to the nature of the attack.  The hacker has come forward on a number of forums and discussions to disclose what they had done, and the hack appears to run deeper than just an exploit.  They appear to have gained access to the hosting companies information, their passwords for servers, their billing system, customer information, customer credit card details and various other aspects of the company.<br />
+<br />
+While news reports are being thrown around about a &quot;Zero Day Exloit&quot; (basically means the vulnerability was found the same day the hacks were made), personally I believe there's more to the story:  <a href="http://www.theregister.co.uk/2009/06/08/webhost_attack/" target="_blank">http://www.theregister.co.uk/2009/06/08/webhost_attack/</a><br />
+<br />
+The owner/developer/programmer of HyperVM comitted suicide on Monday - <a href="http://www.theregister.co.uk/2009/06/09/lxlabs_funder_death/" target="_blank">http://www.theregister.co.uk/2009/06..._funder_death/</a><br />
+<br />
+So lets see if I have it right;<br />
+<br />
+Sunday Night, the VPS Provider is hacked and 100,000 websides deleted (oh, did I forget to mention that they don't have backups?)<br />
+Monday, the developer of the program (HyperVM), the same one the host uses, is found dead.<br />
+Tuesday, the person who did the hack comes forward to explain it WASNT a HyperVM exploit, it was a hosting company hack.<br />
+<br />
+I know programmers and developers and hosting companies work their tails off to keep everything running smoothly, and there's been any number of days when we all just want to give up and quit, but few take it to the level that Mr. Ligesh (age 32) did.<br />
+<br />
+So the lesson in all of this?  Did you make a backup?  If your host is making backups, what happens if your host is taken out of business, how will you survive?<br />
+<br />
+If you use HyperVM, or Lxadmin, or Kloxo (all developed by LxLabs), please make a backup.  There's many vulnerabilities, and without a lead programmer/owner it could be some time before there's a fix.<br />
+<br />
+Clients will be happy to know that Hands-on uses Virtuozzo as our VPS platform and is unaffected.  We also make backups for our customers, however you should be making a backup too.  I'd never wish a hack upon ANYONE and can only imagine what the guys at VAserv must be going through<br />
+<br />
+Interested in more than 1800 posts on this hosts events?  Check out <a href="http://www.webhostingtalk.com/showthread.php?t=867100" target="_blank">http://www.webhostingtalk.com/showthread.php?t=867100</a>.</div>
+		<!-- / message -->
+	
+		
+		
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				<b>Conor Treacy - Hands-on Web Hosting</b><br />
+<a href="http://www.handsonwebhosting.com" target="_blank"><font color="blue"><b>X-Cart, Drupal &amp; Wordpress Hosting</b></font></a> - Reliable Hosting, Managed VPS and Dedicated Servers - <b>US &amp; UK</b><br />
+<font color="red"><b>HOURLY site &amp; database backups on ALL accounts!</b></font> We are the <a href="http://xcarthosting.com" target="_blank"><font color="blue">ORIGINAL X-Cart Website Hosting</font></a> provider, specializing in X-Cart since 2000! <br />
+Slow sites hurt sales! Our servers are fast!<br />
+Switch to a host that offers Live Chat and cares about your business - We'll move your site for you too!<br />
+<b>Take 15% off <a href="http://www.handsonwebhosting.com/hosting/" target="_blank"><font color="blue">Any New Shared Hosting Account</font></a> - coupon: xcartforum</b>
+			</div>
+		<!-- / sig -->
+		
+		
+		
+	
+		<div align="right">
+			<!-- controls -->
+<!-- Start Post Thank You Hack -->
+ <a href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=post_thanks_add&amp;p=260287" id="post_thanks_button_260287" onclick="post_thanks_give_260287(); return false;"></a>
+<!-- End Post Thank You Hack -->
+			
+			
+			
+				<a href="newreply.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newreply&amp;p=260287" rel="nofollow"><img src="new_xcart_images/buttons/quote.gif" alt="Reply With Quote" border="0" /></a>
+			
+			
+			
+			<!-- / controls -->
+		</div>
+		
+	<!-- message, attachments, sig -->	
+	</td>
+</tr>
+<!-- Start Post Thank You Hack -->
+<tr><td>
+ <script type="text/javascript">
+<!--
+function post_thanks_give_260287()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260287)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_ajax&p=260287')
+	
+
+	
+	do_thanks_add = new vB_AJAX_Handler(true)
+	do_thanks_add.onreadystatechange(thanks_add_Done_260287)
+	do_thanks_add.send('showthread.php?do=post_thanks_add_ajax&p=260287')
+}
+function thanks_button_Done_260287()
+{
+	if (do_thanks_button.handler.readyState == 4 && do_thanks_button.handler.status == 200)
+	{
+		fetch_object('post_thanks_button_260287').innerHTML = do_thanks_button.handler.responseText
+	}
+}
+function thanks_add_Done_260287()
+{
+	if (do_thanks_add.handler.readyState == 4 && do_thanks_add.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260287').innerHTML = do_thanks_add.handler.responseText
+	}
+}
+function post_thanks_remove_all_260287()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260287)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260287')
+	
+
+	
+	do_thanks_remove_all = new vB_AJAX_Handler(true)
+	do_thanks_remove_all.onreadystatechange(thanks_remove_all_Done_260287)
+	do_thanks_remove_all.send('showthread.php?do=post_thanks_remove_all_ajax&p=260287')
+}
+function thanks_remove_all_Done_260287()
+{
+	if (do_thanks_remove_all.handler.readyState == 4 && do_thanks_remove_all.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260287').innerHTML = do_thanks_remove_all.handler.responseText
+	}
+}
+function post_thanks_remove_user_260287()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260287)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260287')
+	
+
+
+	do_thanks_remove_user = new vB_AJAX_Handler(true)
+	do_thanks_remove_user.onreadystatechange(thanks_remove_user_Done_260287)
+	do_thanks_remove_user.send('showthread.php?do=post_thanks_remove_user_ajax&p=260287')
+}
+function thanks_remove_user_Done_260287()
+{
+	if (do_thanks_remove_user.handler.readyState == 4 && do_thanks_remove_user.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260287').innerHTML = do_thanks_remove_user.handler.responseText
+	}
+}
+//-->
+</script>
+
+<div id="post_thanks_box_260287"></div>
+</td>
+</tr>
+<!-- End Post Thank You Hack -->
+</table>
+
+<!-- post 260287 popup menu -->
+<div class="vbmenu_popup" id="postmenu_260287_menu" style="display:none">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">handsonwebhosting</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226">View Public Profile</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newpm&amp;u=226" rel="nofollow">Send a private message to handsonwebhosting</a></td></tr>
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="http://www.handsonwebhosting.com">Visit handsonwebhosting's homepage!</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=finduser&amp;u=226" rel="nofollow">Find all posts by handsonwebhosting</a></td></tr>
+	
+	
+	</table>
+</div>
+<!-- / post 260287 popup menu -->
+
+
+
+
+
+	</div>
+	
+		</div>	
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #260287 --><!-- post #260289 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px">
+
+	<div id="edit260289" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->	
+
+<table class="tborder" id="post260289" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+
+	<td class="thead"  style="font-size: 12px">
+		<div class="normal" style="float:right; margin-bottom: 0">
+			&nbsp;
+			#<a href="showpost.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260289&amp;postcount=2" target="new" rel="nofollow" id="postcount260289" name="2"><strong>2</strong></a> &nbsp;
+			
+			
+			
+			
+		</div>
+		
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post260289" href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260289#post260289"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="Old" border="0" /></a>
+			
+				06-09-2009, 02:36 PM
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt1" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+                <td width="10">&nbsp;</td>
+			<td class="alt2"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=4792"><img src="customavatars/avatar4792_1.gif" width="80" height="66" alt="flyclothing's Avatar" border="0" /></a></td><td>&nbsp;</td>
+			<td nowrap="nowrap">
+			
+				<div id="postmenu_260289">
+					
+					<a class="bigusername" href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=4792">flyclothing</a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="flyclothing is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_260289", true); </script>
+					
+				</div>
+				
+				
+			</td>
+			<td width="100%">&nbsp;</td>
+                        <td nowrap align="right" valign="top" style="padding:2px">
+
+
+<div class="smallfont"><span><img src="new_xcart_images/ranks/NX5.gif" title="eXpert" border="0"><br><b>eXpert</b></span></div>
+
+</td> 
+<td width="20">&nbsp;&nbsp;</td>      
+			<td valign="top" nowrap="nowrap">
+				
+				<div class="smallfont">
+					<div>Join Date: Aug 2004</div>
+					<div>Location: Gilbert, AZ</div>
+					
+					<div>
+						Posts: 298
+					</div>
+					
+					<div>    </div>
+				</div>
+				
+			</td>
+                        <td width="10">&nbsp;</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	<td class="alt1" id="td_post_260289">
+	<!-- message, attachments, sig -->
+	
+		
+        	<hr size="1" style="color: #c7cbce; margin-top: 0" />
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				<strong>Re: 100k site hacked, programmer commits suicide!</strong>
+			</div>
+         	        <hr size="1" style="color: #c7cbce;" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_260289">Conor,<br />
+<br />
+I am sad to hear this happened and even more that the programmer took his life over it.  I am glad you can find a lesson in it for all and run a &quot;tight ship&quot; at your business!  Its much appreciated.</div>
+		<!-- / message -->
+	
+		
+		
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				Jonathan<br />
+Flyclothing, LLC<br />
+PO Box 1571<br />
+Gilbert, AZ 85299-1571<br />
+P 480.422.7350<br />
+F 888.359.2568<br />
+<a href="http://www.flyclothing.com" target="_blank">www.flyclothing.com</a> (X-Cart 4.4.5)<br />
+<a href="http://www.flysportsgear.com" target="_blank">www.flysportsgear.com</a> (X-Cart 4.2.3)
+			</div>
+		<!-- / sig -->
+		
+		
+		
+	
+		<div align="right">
+			<!-- controls -->
+<!-- Start Post Thank You Hack -->
+ <a href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=post_thanks_add&amp;p=260289" id="post_thanks_button_260289" onclick="post_thanks_give_260289(); return false;"></a>
+<!-- End Post Thank You Hack -->
+			
+			
+			
+				<a href="newreply.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newreply&amp;p=260289" rel="nofollow"><img src="new_xcart_images/buttons/quote.gif" alt="Reply With Quote" border="0" /></a>
+			
+			
+			
+			<!-- / controls -->
+		</div>
+		
+	<!-- message, attachments, sig -->	
+	</td>
+</tr>
+<!-- Start Post Thank You Hack -->
+<tr><td>
+ <script type="text/javascript">
+<!--
+function post_thanks_give_260289()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260289)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_ajax&p=260289')
+	
+
+	
+	do_thanks_add = new vB_AJAX_Handler(true)
+	do_thanks_add.onreadystatechange(thanks_add_Done_260289)
+	do_thanks_add.send('showthread.php?do=post_thanks_add_ajax&p=260289')
+}
+function thanks_button_Done_260289()
+{
+	if (do_thanks_button.handler.readyState == 4 && do_thanks_button.handler.status == 200)
+	{
+		fetch_object('post_thanks_button_260289').innerHTML = do_thanks_button.handler.responseText
+	}
+}
+function thanks_add_Done_260289()
+{
+	if (do_thanks_add.handler.readyState == 4 && do_thanks_add.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260289').innerHTML = do_thanks_add.handler.responseText
+	}
+}
+function post_thanks_remove_all_260289()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260289)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260289')
+	
+
+	
+	do_thanks_remove_all = new vB_AJAX_Handler(true)
+	do_thanks_remove_all.onreadystatechange(thanks_remove_all_Done_260289)
+	do_thanks_remove_all.send('showthread.php?do=post_thanks_remove_all_ajax&p=260289')
+}
+function thanks_remove_all_Done_260289()
+{
+	if (do_thanks_remove_all.handler.readyState == 4 && do_thanks_remove_all.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260289').innerHTML = do_thanks_remove_all.handler.responseText
+	}
+}
+function post_thanks_remove_user_260289()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260289)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260289')
+	
+
+
+	do_thanks_remove_user = new vB_AJAX_Handler(true)
+	do_thanks_remove_user.onreadystatechange(thanks_remove_user_Done_260289)
+	do_thanks_remove_user.send('showthread.php?do=post_thanks_remove_user_ajax&p=260289')
+}
+function thanks_remove_user_Done_260289()
+{
+	if (do_thanks_remove_user.handler.readyState == 4 && do_thanks_remove_user.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260289').innerHTML = do_thanks_remove_user.handler.responseText
+	}
+}
+//-->
+</script>
+
+<div id="post_thanks_box_260289"></div>
+</td>
+</tr>
+<!-- End Post Thank You Hack -->
+</table>
+
+<!-- post 260289 popup menu -->
+<div class="vbmenu_popup" id="postmenu_260289_menu" style="display:none">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">flyclothing</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=4792">View Public Profile</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newpm&amp;u=4792" rel="nofollow">Send a private message to flyclothing</a></td></tr>
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="http://www.flyclothing.com">Visit flyclothing's homepage!</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=finduser&amp;u=4792" rel="nofollow">Find all posts by flyclothing</a></td></tr>
+	
+	
+	</table>
+</div>
+<!-- / post 260289 popup menu -->
+
+
+
+
+
+	</div>
+	
+		</div>	
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #260289 --><!-- post #260296 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px">
+
+	<div id="edit260296" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->	
+
+<table class="tborder" id="post260296" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+
+	<td class="thead"  style="font-size: 12px">
+		<div class="normal" style="float:right; margin-bottom: 0">
+			&nbsp;
+			#<a href="showpost.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260296&amp;postcount=3" target="new" rel="nofollow" id="postcount260296" name="3"><strong>3</strong></a> &nbsp;
+			
+			
+			
+			
+		</div>
+		
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post260296" href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260296#post260296"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="Old" border="0" /></a>
+			
+				06-09-2009, 03:46 PM
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt1" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+                <td width="10">&nbsp;</td>
+			
+			<td nowrap="nowrap">
+			
+				<div id="postmenu_260296">
+					
+					<a class="bigusername" href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=3602">Emerson</a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="Emerson is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_260296", true); </script>
+					
+				</div>
+				
+				
+			</td>
+			<td width="100%">&nbsp;</td>
+                        <td nowrap align="right" valign="top" style="padding:2px">
+
+
+<div class="smallfont"><span><img src="new_xcart_images/ranks/NX4.gif" title="X-Man" border="0"><br><b>X-Man</b></span></div>
+
+</td> 
+<td width="20">&nbsp;&nbsp;</td>      
+			<td valign="top" nowrap="nowrap">
+				
+				<div class="smallfont">
+					<div>Join Date: Mar 2004</div>
+					<div>Location: Atlanta, GA</div>
+					
+					<div>
+						Posts: 2,005
+					</div>
+					
+					<div>    </div>
+				</div>
+				
+			</td>
+                        <td width="10">&nbsp;</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	<td class="alt1" id="td_post_260296">
+	<!-- message, attachments, sig -->
+	
+		
+        	<hr size="1" style="color: #c7cbce; margin-top: 0" />
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				<strong>Re: 100k site hacked, programmer commits suicide!</strong>
+			</div>
+         	        <hr size="1" style="color: #c7cbce;" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_260296">Yes I've been following this as well but if you take a peak at the developer's personal blog(<a href="http://www.ligesh.com" target="_blank">www.ligesh.com</a>) you will quickly see that there have been a lot of issues brewing in the background so IMHO he did not commit the unthinkable based solely on this one event. For someone to go to that extreme you know this has been coming for a while.</div>
+		<!-- / message -->
+	
+		
+		
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				<font size="1"><b><font color="black">Emerson </font></b><font color="black"><br />
+</font></font><font color="royalblue">&#9608; </font><font size="1"><b><font color="black"><a href="http://www.EWDHosting.com" target="_blank">www.EWDHosting.com</a>- Quality X-Cart Hosting</font></b><font color="black"><br />
+</font></font><font color="royalblue">&#9608;</font> <font size="1"><b><font color="black"><font color="seagreen">Recommended X-Cart Hosting Provider - </font></font><font color="black">US and UK servers</font></b><font color="black"><a href="https://www.e-onlinedata.com/emersonweb/" target="_blank"><br />
+</a></font></font><font color="royalblue">&#9608; </font><a href="http://www.cdgcommerce.com/internet-services.php?R=1854" target="_blank"><font size="1"><b><font color="black"><font color="darkred">Merchant accounts - FREE EVERYTHING!!!! (Almost)</font></font></b><font color="black"><font color="darkred"><br />
+</font></font></font></a><font color="royalblue">&#9608; </font><font size="1"><font color="royalblue"><b>Does your host backup your site? We do EVERY HOUR!!!</b></font></font><br />
+<font color="royalblue">&#9608;</font> <font color="black"><font size="1"><b>Shared Hosting | Managed VPS | Dedicated Servers</b></font></font>
+			</div>
+		<!-- / sig -->
+		
+		
+		
+	
+		<div align="right">
+			<!-- controls -->
+<!-- Start Post Thank You Hack -->
+ <a href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=post_thanks_add&amp;p=260296" id="post_thanks_button_260296" onclick="post_thanks_give_260296(); return false;"></a>
+<!-- End Post Thank You Hack -->
+			
+			
+			
+				<a href="newreply.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newreply&amp;p=260296" rel="nofollow"><img src="new_xcart_images/buttons/quote.gif" alt="Reply With Quote" border="0" /></a>
+			
+			
+			
+			<!-- / controls -->
+		</div>
+		
+	<!-- message, attachments, sig -->	
+	</td>
+</tr>
+<!-- Start Post Thank You Hack -->
+<tr><td>
+ <script type="text/javascript">
+<!--
+function post_thanks_give_260296()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260296)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_ajax&p=260296')
+	
+
+	
+	do_thanks_add = new vB_AJAX_Handler(true)
+	do_thanks_add.onreadystatechange(thanks_add_Done_260296)
+	do_thanks_add.send('showthread.php?do=post_thanks_add_ajax&p=260296')
+}
+function thanks_button_Done_260296()
+{
+	if (do_thanks_button.handler.readyState == 4 && do_thanks_button.handler.status == 200)
+	{
+		fetch_object('post_thanks_button_260296').innerHTML = do_thanks_button.handler.responseText
+	}
+}
+function thanks_add_Done_260296()
+{
+	if (do_thanks_add.handler.readyState == 4 && do_thanks_add.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260296').innerHTML = do_thanks_add.handler.responseText
+	}
+}
+function post_thanks_remove_all_260296()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260296)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260296')
+	
+
+	
+	do_thanks_remove_all = new vB_AJAX_Handler(true)
+	do_thanks_remove_all.onreadystatechange(thanks_remove_all_Done_260296)
+	do_thanks_remove_all.send('showthread.php?do=post_thanks_remove_all_ajax&p=260296')
+}
+function thanks_remove_all_Done_260296()
+{
+	if (do_thanks_remove_all.handler.readyState == 4 && do_thanks_remove_all.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260296').innerHTML = do_thanks_remove_all.handler.responseText
+	}
+}
+function post_thanks_remove_user_260296()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260296)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260296')
+	
+
+
+	do_thanks_remove_user = new vB_AJAX_Handler(true)
+	do_thanks_remove_user.onreadystatechange(thanks_remove_user_Done_260296)
+	do_thanks_remove_user.send('showthread.php?do=post_thanks_remove_user_ajax&p=260296')
+}
+function thanks_remove_user_Done_260296()
+{
+	if (do_thanks_remove_user.handler.readyState == 4 && do_thanks_remove_user.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260296').innerHTML = do_thanks_remove_user.handler.responseText
+	}
+}
+//-->
+</script>
+
+<div id="post_thanks_box_260296"></div>
+</td>
+</tr>
+<!-- End Post Thank You Hack -->
+</table>
+
+<!-- post 260296 popup menu -->
+<div class="vbmenu_popup" id="postmenu_260296_menu" style="display:none">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">Emerson</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=3602">View Public Profile</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newpm&amp;u=3602" rel="nofollow">Send a private message to Emerson</a></td></tr>
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="http://www.ewdhosting.com/">Visit Emerson's homepage!</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=finduser&amp;u=3602" rel="nofollow">Find all posts by Emerson</a></td></tr>
+	
+	
+	</table>
+</div>
+<!-- / post 260296 popup menu -->
+
+
+
+
+
+	</div>
+	
+		</div>	
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #260296 --><!-- post #260297 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px">
+
+	<div id="edit260297" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->	
+
+<table class="tborder" id="post260297" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+
+	<td class="thead"  style="font-size: 12px">
+		<div class="normal" style="float:right; margin-bottom: 0">
+			&nbsp;
+			#<a href="showpost.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260297&amp;postcount=4" target="new" rel="nofollow" id="postcount260297" name="4"><strong>4</strong></a> &nbsp;
+			
+			
+			
+			
+		</div>
+		
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post260297" href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260297#post260297"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="Old" border="0" /></a>
+			
+				06-09-2009, 03:48 PM
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt1" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+                <td width="10">&nbsp;</td>
+			<td class="alt2"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226"><img src="customavatars/avatar226_2.gif" width="80" height="80" alt="handsonwebhosting's Avatar" border="0" /></a></td><td>&nbsp;</td>
+			<td nowrap="nowrap">
+			
+				<div id="postmenu_260297">
+					
+					<a class="bigusername" href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226">handsonwebhosting</a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="handsonwebhosting is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_260297", true); </script>
+					
+				</div>
+				
+				
+			</td>
+			<td width="100%">&nbsp;</td>
+                        <td nowrap align="right" valign="top" style="padding:2px">
+
+
+<div class="smallfont"><span><img src="new_xcart_images/ranks/NX4.gif" title="X-Man" border="0"><br><b>X-Man</b></span></div>
+
+</td> 
+<td width="20">&nbsp;&nbsp;</td>      
+			<td valign="top" nowrap="nowrap">
+				
+				<div class="smallfont">
+					<div>Join Date: Oct 2002</div>
+					<div>Location: Omaha, NE, USA</div>
+					
+					<div>
+						Posts: 2,102
+					</div>
+					
+					<div>    </div>
+				</div>
+				
+			</td>
+                        <td width="10">&nbsp;</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	<td class="alt1" id="td_post_260297">
+	<!-- message, attachments, sig -->
+	
+		
+        	<hr size="1" style="color: #c7cbce; margin-top: 0" />
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				<strong>Re: 100k site hacked, programmer commits suicide!</strong>
+			</div>
+         	        <hr size="1" style="color: #c7cbce;" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_260297">It's just pretty unbelievable that the guy went out the way he did.  Reports say that he was upset about losing a contract on a programming job, and that after a night of heavy drinking his roommate awoke to found Mr. Ligesh dead.  So far the consensus seems to be that he hanged himself, but there's been no official statement that I've been able to find.<br />
+<br />
+I'm disapointed in WebHostinTalk's Forums in that every time the hacker comes in to explain that they did more than just use an exploit in the control panel and instead hacked the host (as they used only a handful of passwords on ALL their servers), the WHT admins delete the post within minutes.  Why would they cover up this information is beyond me.  If the host did indeed only use a handful of passwords for all their servers they've got serious problems on their hands.  We have a different password on EVERY server, not one is the same!<br />
+<br />
+I guess the truth will come out over time, it always does.  In the mean time, I feel bad for his family and friends (and co-workers) and those hosts that use the HyperVM software as they're left in the dark for a while.  I truely hope they are able to track details on the hacker and justice is served, but it seems this is rarely done these days <img src="images/smilies/icon_sad.gif" border="0" alt="" title="Sad" class="inlineimg" /><br />
+<br />
+I believe EWD also runs Virtuozzo on their servers and are not affected by this exploit but I've not been able to reach Emerson yet to verify this.</div>
+		<!-- / message -->
+	
+		
+		
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				<b>Conor Treacy - Hands-on Web Hosting</b><br />
+<a href="http://www.handsonwebhosting.com" target="_blank"><font color="blue"><b>X-Cart, Drupal &amp; Wordpress Hosting</b></font></a> - Reliable Hosting, Managed VPS and Dedicated Servers - <b>US &amp; UK</b><br />
+<font color="red"><b>HOURLY site &amp; database backups on ALL accounts!</b></font> We are the <a href="http://xcarthosting.com" target="_blank"><font color="blue">ORIGINAL X-Cart Website Hosting</font></a> provider, specializing in X-Cart since 2000! <br />
+Slow sites hurt sales! Our servers are fast!<br />
+Switch to a host that offers Live Chat and cares about your business - We'll move your site for you too!<br />
+<b>Take 15% off <a href="http://www.handsonwebhosting.com/hosting/" target="_blank"><font color="blue">Any New Shared Hosting Account</font></a> - coupon: xcartforum</b>
+			</div>
+		<!-- / sig -->
+		
+		
+		
+	
+		<div align="right">
+			<!-- controls -->
+<!-- Start Post Thank You Hack -->
+ <a href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=post_thanks_add&amp;p=260297" id="post_thanks_button_260297" onclick="post_thanks_give_260297(); return false;"></a>
+<!-- End Post Thank You Hack -->
+			
+			
+			
+				<a href="newreply.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newreply&amp;p=260297" rel="nofollow"><img src="new_xcart_images/buttons/quote.gif" alt="Reply With Quote" border="0" /></a>
+			
+			
+			
+			<!-- / controls -->
+		</div>
+		
+	<!-- message, attachments, sig -->	
+	</td>
+</tr>
+<!-- Start Post Thank You Hack -->
+<tr><td>
+ <script type="text/javascript">
+<!--
+function post_thanks_give_260297()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260297)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_ajax&p=260297')
+	
+
+	
+	do_thanks_add = new vB_AJAX_Handler(true)
+	do_thanks_add.onreadystatechange(thanks_add_Done_260297)
+	do_thanks_add.send('showthread.php?do=post_thanks_add_ajax&p=260297')
+}
+function thanks_button_Done_260297()
+{
+	if (do_thanks_button.handler.readyState == 4 && do_thanks_button.handler.status == 200)
+	{
+		fetch_object('post_thanks_button_260297').innerHTML = do_thanks_button.handler.responseText
+	}
+}
+function thanks_add_Done_260297()
+{
+	if (do_thanks_add.handler.readyState == 4 && do_thanks_add.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260297').innerHTML = do_thanks_add.handler.responseText
+	}
+}
+function post_thanks_remove_all_260297()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260297)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260297')
+	
+
+	
+	do_thanks_remove_all = new vB_AJAX_Handler(true)
+	do_thanks_remove_all.onreadystatechange(thanks_remove_all_Done_260297)
+	do_thanks_remove_all.send('showthread.php?do=post_thanks_remove_all_ajax&p=260297')
+}
+function thanks_remove_all_Done_260297()
+{
+	if (do_thanks_remove_all.handler.readyState == 4 && do_thanks_remove_all.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260297').innerHTML = do_thanks_remove_all.handler.responseText
+	}
+}
+function post_thanks_remove_user_260297()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260297)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260297')
+	
+
+
+	do_thanks_remove_user = new vB_AJAX_Handler(true)
+	do_thanks_remove_user.onreadystatechange(thanks_remove_user_Done_260297)
+	do_thanks_remove_user.send('showthread.php?do=post_thanks_remove_user_ajax&p=260297')
+}
+function thanks_remove_user_Done_260297()
+{
+	if (do_thanks_remove_user.handler.readyState == 4 && do_thanks_remove_user.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260297').innerHTML = do_thanks_remove_user.handler.responseText
+	}
+}
+//-->
+</script>
+
+<div id="post_thanks_box_260297"></div>
+</td>
+</tr>
+<!-- End Post Thank You Hack -->
+</table>
+
+<!-- post 260297 popup menu -->
+<div class="vbmenu_popup" id="postmenu_260297_menu" style="display:none">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">handsonwebhosting</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226">View Public Profile</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newpm&amp;u=226" rel="nofollow">Send a private message to handsonwebhosting</a></td></tr>
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="http://www.handsonwebhosting.com">Visit handsonwebhosting's homepage!</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=finduser&amp;u=226" rel="nofollow">Find all posts by handsonwebhosting</a></td></tr>
+	
+	
+	</table>
+</div>
+<!-- / post 260297 popup menu -->
+
+
+
+
+
+	</div>
+	
+		</div>	
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #260297 --><!-- post #260298 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px">
+
+	<div id="edit260298" style="padding:0px 0px 6px 0px">
+	<!-- this is not the last post shown on the page -->	
+
+<table class="tborder" id="post260298" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+
+	<td class="thead"  style="font-size: 12px">
+		<div class="normal" style="float:right; margin-bottom: 0">
+			&nbsp;
+			#<a href="showpost.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260298&amp;postcount=5" target="new" rel="nofollow" id="postcount260298" name="5"><strong>5</strong></a> &nbsp;
+			
+			
+			
+			
+		</div>
+		
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post260298" href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260298#post260298"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="Old" border="0" /></a>
+			
+				06-09-2009, 03:51 PM
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt1" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+                <td width="10">&nbsp;</td>
+			<td class="alt2"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226"><img src="customavatars/avatar226_2.gif" width="80" height="80" alt="handsonwebhosting's Avatar" border="0" /></a></td><td>&nbsp;</td>
+			<td nowrap="nowrap">
+			
+				<div id="postmenu_260298">
+					
+					<a class="bigusername" href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226">handsonwebhosting</a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="handsonwebhosting is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_260298", true); </script>
+					
+				</div>
+				
+				
+			</td>
+			<td width="100%">&nbsp;</td>
+                        <td nowrap align="right" valign="top" style="padding:2px">
+
+
+<div class="smallfont"><span><img src="new_xcart_images/ranks/NX4.gif" title="X-Man" border="0"><br><b>X-Man</b></span></div>
+
+</td> 
+<td width="20">&nbsp;&nbsp;</td>      
+			<td valign="top" nowrap="nowrap">
+				
+				<div class="smallfont">
+					<div>Join Date: Oct 2002</div>
+					<div>Location: Omaha, NE, USA</div>
+					
+					<div>
+						Posts: 2,102
+					</div>
+					
+					<div>    </div>
+				</div>
+				
+			</td>
+                        <td width="10">&nbsp;</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	<td class="alt1" id="td_post_260298">
+	<!-- message, attachments, sig -->
+	
+		
+        	<hr size="1" style="color: #c7cbce; margin-top: 0" />
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				<strong>Re: 100k site hacked, programmer commits suicide!</strong>
+			</div>
+         	        <hr size="1" style="color: #c7cbce;" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_260298">Speak of the devil <img src="images/smilies/icon_wink.gif" border="0" alt="" title="Wink" class="inlineimg" /><br />
+<br />
+Yeah, there's more to what was going on, but for an unstable person it doesn't take much to push them over the edge.  Seen it happen too many times unfortuantely <img src="images/smilies/icon_sad.gif" border="0" alt="" title="Sad" class="inlineimg" /><br />
+<br />
+Hopefully the hosting company gets back on their feet quickly (i know the process is still in progress), and they're able to get past this issue and move forward.  They have a lot of loyal supporters, but I'm sure there'll be churn out of this.</div>
+		<!-- / message -->
+	
+		
+		
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				<b>Conor Treacy - Hands-on Web Hosting</b><br />
+<a href="http://www.handsonwebhosting.com" target="_blank"><font color="blue"><b>X-Cart, Drupal &amp; Wordpress Hosting</b></font></a> - Reliable Hosting, Managed VPS and Dedicated Servers - <b>US &amp; UK</b><br />
+<font color="red"><b>HOURLY site &amp; database backups on ALL accounts!</b></font> We are the <a href="http://xcarthosting.com" target="_blank"><font color="blue">ORIGINAL X-Cart Website Hosting</font></a> provider, specializing in X-Cart since 2000! <br />
+Slow sites hurt sales! Our servers are fast!<br />
+Switch to a host that offers Live Chat and cares about your business - We'll move your site for you too!<br />
+<b>Take 15% off <a href="http://www.handsonwebhosting.com/hosting/" target="_blank"><font color="blue">Any New Shared Hosting Account</font></a> - coupon: xcartforum</b>
+			</div>
+		<!-- / sig -->
+		
+		
+		
+	
+		<div align="right">
+			<!-- controls -->
+<!-- Start Post Thank You Hack -->
+ <a href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=post_thanks_add&amp;p=260298" id="post_thanks_button_260298" onclick="post_thanks_give_260298(); return false;"></a>
+<!-- End Post Thank You Hack -->
+			
+			
+			
+				<a href="newreply.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newreply&amp;p=260298" rel="nofollow"><img src="new_xcart_images/buttons/quote.gif" alt="Reply With Quote" border="0" /></a>
+			
+			
+			
+			<!-- / controls -->
+		</div>
+		
+	<!-- message, attachments, sig -->	
+	</td>
+</tr>
+<!-- Start Post Thank You Hack -->
+<tr><td>
+ <script type="text/javascript">
+<!--
+function post_thanks_give_260298()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260298)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_ajax&p=260298')
+	
+
+	
+	do_thanks_add = new vB_AJAX_Handler(true)
+	do_thanks_add.onreadystatechange(thanks_add_Done_260298)
+	do_thanks_add.send('showthread.php?do=post_thanks_add_ajax&p=260298')
+}
+function thanks_button_Done_260298()
+{
+	if (do_thanks_button.handler.readyState == 4 && do_thanks_button.handler.status == 200)
+	{
+		fetch_object('post_thanks_button_260298').innerHTML = do_thanks_button.handler.responseText
+	}
+}
+function thanks_add_Done_260298()
+{
+	if (do_thanks_add.handler.readyState == 4 && do_thanks_add.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260298').innerHTML = do_thanks_add.handler.responseText
+	}
+}
+function post_thanks_remove_all_260298()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260298)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260298')
+	
+
+	
+	do_thanks_remove_all = new vB_AJAX_Handler(true)
+	do_thanks_remove_all.onreadystatechange(thanks_remove_all_Done_260298)
+	do_thanks_remove_all.send('showthread.php?do=post_thanks_remove_all_ajax&p=260298')
+}
+function thanks_remove_all_Done_260298()
+{
+	if (do_thanks_remove_all.handler.readyState == 4 && do_thanks_remove_all.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260298').innerHTML = do_thanks_remove_all.handler.responseText
+	}
+}
+function post_thanks_remove_user_260298()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260298)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260298')
+	
+
+
+	do_thanks_remove_user = new vB_AJAX_Handler(true)
+	do_thanks_remove_user.onreadystatechange(thanks_remove_user_Done_260298)
+	do_thanks_remove_user.send('showthread.php?do=post_thanks_remove_user_ajax&p=260298')
+}
+function thanks_remove_user_Done_260298()
+{
+	if (do_thanks_remove_user.handler.readyState == 4 && do_thanks_remove_user.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260298').innerHTML = do_thanks_remove_user.handler.responseText
+	}
+}
+//-->
+</script>
+
+<div id="post_thanks_box_260298"></div>
+</td>
+</tr>
+<!-- End Post Thank You Hack -->
+</table>
+
+<!-- post 260298 popup menu -->
+<div class="vbmenu_popup" id="postmenu_260298_menu" style="display:none">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">handsonwebhosting</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226">View Public Profile</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newpm&amp;u=226" rel="nofollow">Send a private message to handsonwebhosting</a></td></tr>
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="http://www.handsonwebhosting.com">Visit handsonwebhosting's homepage!</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=finduser&amp;u=226" rel="nofollow">Find all posts by handsonwebhosting</a></td></tr>
+	
+	
+	</table>
+</div>
+<!-- / post 260298 popup menu -->
+
+
+
+
+
+	</div>
+	
+		</div>	
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #260298 --><!-- post #260300 -->
+
+	<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px">
+
+	<div id="edit260300" style="padding:0px 0px 6px 0px">
+		
+
+<table class="tborder" id="post260300" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
+<tr>
+
+	<td class="thead"  style="font-size: 12px">
+		<div class="normal" style="float:right; margin-bottom: 0">
+			&nbsp;
+			#<a href="showpost.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260300&amp;postcount=6" target="new" rel="nofollow" id="postcount260300" name="6"><strong>6</strong></a> &nbsp;
+			
+			
+			
+			
+		</div>
+		
+		<div class="normal">
+			<!-- status icon and date -->
+			<a name="post260300" href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;p=260300#post260300"><img class="inlineimg" src="images/statusicon/post_old.gif" alt="Old" border="0" /></a>
+			
+				06-09-2009, 04:18 PM
+			
+			
+			<!-- / status icon and date -->
+		</div>
+	</td>
+</tr>
+<tr>
+	<td class="alt1" style="padding:0px">
+		<!-- user info -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%">
+		<tr>
+                <td width="10">&nbsp;</td>
+			<td class="alt2"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226"><img src="customavatars/avatar226_2.gif" width="80" height="80" alt="handsonwebhosting's Avatar" border="0" /></a></td><td>&nbsp;</td>
+			<td nowrap="nowrap">
+			
+				<div id="postmenu_260300">
+					
+					<a class="bigusername" href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226">handsonwebhosting</a>
+					<img class="inlineimg" src="images/statusicon/user_offline.gif" alt="handsonwebhosting is offline" border="0" />
+
+
+					<script type="text/javascript"> vbmenu_register("postmenu_260300", true); </script>
+					
+				</div>
+				
+				
+			</td>
+			<td width="100%">&nbsp;</td>
+                        <td nowrap align="right" valign="top" style="padding:2px">
+
+
+<div class="smallfont"><span><img src="new_xcart_images/ranks/NX4.gif" title="X-Man" border="0"><br><b>X-Man</b></span></div>
+
+</td> 
+<td width="20">&nbsp;&nbsp;</td>      
+			<td valign="top" nowrap="nowrap">
+				
+				<div class="smallfont">
+					<div>Join Date: Oct 2002</div>
+					<div>Location: Omaha, NE, USA</div>
+					
+					<div>
+						Posts: 2,102
+					</div>
+					
+					<div>    </div>
+				</div>
+				
+			</td>
+                        <td width="10">&nbsp;</td>
+		</tr>
+		</table>
+		<!-- / user info -->
+	</td>
+</tr>
+<tr>
+	<td class="alt1" id="td_post_260300">
+	<!-- message, attachments, sig -->
+	
+		
+        	<hr size="1" style="color: #c7cbce; margin-top: 0" />
+			<!-- icon and title -->
+			<div class="smallfont">
+				<img class="inlineimg" src="images/icons/icon1.gif" alt="Default" border="0" />
+				<strong>Re: 100k site hacked, programmer commits suicide!</strong>
+			</div>
+         	        <hr size="1" style="color: #c7cbce;" />
+			<!-- / icon and title -->
+		
+
+		<!-- message -->
+		<div id="post_message_260300">Talked to Emerson.  He's also running Virtuozzo over with him on his VPS Accounts - so all is good on his end too!</div>
+		<!-- / message -->
+	
+		
+		
+		
+		<!-- sig -->
+			<div>
+				__________________<br />
+				<b>Conor Treacy - Hands-on Web Hosting</b><br />
+<a href="http://www.handsonwebhosting.com" target="_blank"><font color="blue"><b>X-Cart, Drupal &amp; Wordpress Hosting</b></font></a> - Reliable Hosting, Managed VPS and Dedicated Servers - <b>US &amp; UK</b><br />
+<font color="red"><b>HOURLY site &amp; database backups on ALL accounts!</b></font> We are the <a href="http://xcarthosting.com" target="_blank"><font color="blue">ORIGINAL X-Cart Website Hosting</font></a> provider, specializing in X-Cart since 2000! <br />
+Slow sites hurt sales! Our servers are fast!<br />
+Switch to a host that offers Live Chat and cares about your business - We'll move your site for you too!<br />
+<b>Take 15% off <a href="http://www.handsonwebhosting.com/hosting/" target="_blank"><font color="blue">Any New Shared Hosting Account</font></a> - coupon: xcartforum</b>
+			</div>
+		<!-- / sig -->
+		
+		
+		
+	
+		<div align="right">
+			<!-- controls -->
+<!-- Start Post Thank You Hack -->
+ <a href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=post_thanks_add&amp;p=260300" id="post_thanks_button_260300" onclick="post_thanks_give_260300(); return false;"></a>
+<!-- End Post Thank You Hack -->
+			
+			
+			
+				<a href="newreply.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newreply&amp;p=260300" rel="nofollow"><img src="new_xcart_images/buttons/quote.gif" alt="Reply With Quote" border="0" /></a>
+			
+			
+			
+			<!-- / controls -->
+		</div>
+		
+	<!-- message, attachments, sig -->	
+	</td>
+</tr>
+<!-- Start Post Thank You Hack -->
+<tr><td>
+ <script type="text/javascript">
+<!--
+function post_thanks_give_260300()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260300)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_ajax&p=260300')
+	
+
+	
+	do_thanks_add = new vB_AJAX_Handler(true)
+	do_thanks_add.onreadystatechange(thanks_add_Done_260300)
+	do_thanks_add.send('showthread.php?do=post_thanks_add_ajax&p=260300')
+}
+function thanks_button_Done_260300()
+{
+	if (do_thanks_button.handler.readyState == 4 && do_thanks_button.handler.status == 200)
+	{
+		fetch_object('post_thanks_button_260300').innerHTML = do_thanks_button.handler.responseText
+	}
+}
+function thanks_add_Done_260300()
+{
+	if (do_thanks_add.handler.readyState == 4 && do_thanks_add.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260300').innerHTML = do_thanks_add.handler.responseText
+	}
+}
+function post_thanks_remove_all_260300()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260300)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260300')
+	
+
+	
+	do_thanks_remove_all = new vB_AJAX_Handler(true)
+	do_thanks_remove_all.onreadystatechange(thanks_remove_all_Done_260300)
+	do_thanks_remove_all.send('showthread.php?do=post_thanks_remove_all_ajax&p=260300')
+}
+function thanks_remove_all_Done_260300()
+{
+	if (do_thanks_remove_all.handler.readyState == 4 && do_thanks_remove_all.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260300').innerHTML = do_thanks_remove_all.handler.responseText
+	}
+}
+function post_thanks_remove_user_260300()
+{
+	do_thanks_button = new vB_AJAX_Handler(true)
+	do_thanks_button.onreadystatechange(thanks_button_Done_260300)
+	do_thanks_button.send('showthread.php?do=post_thanks_button_add_ajax&p=260300')
+	
+
+
+	do_thanks_remove_user = new vB_AJAX_Handler(true)
+	do_thanks_remove_user.onreadystatechange(thanks_remove_user_Done_260300)
+	do_thanks_remove_user.send('showthread.php?do=post_thanks_remove_user_ajax&p=260300')
+}
+function thanks_remove_user_Done_260300()
+{
+	if (do_thanks_remove_user.handler.readyState == 4 && do_thanks_remove_user.handler.status == 200)
+	{
+		fetch_object('post_thanks_box_260300').innerHTML = do_thanks_remove_user.handler.responseText
+	}
+}
+//-->
+</script>
+
+<div id="post_thanks_box_260300"></div>
+</td>
+</tr>
+<!-- End Post Thank You Hack -->
+</table>
+
+<!-- post 260300 popup menu -->
+<div class="vbmenu_popup" id="postmenu_260300_menu" style="display:none">
+	<table cellpadding="4" cellspacing="1" border="0">
+	<tr>
+		<td class="thead">handsonwebhosting</td>
+	</tr>
+	
+		<tr><td class="vbmenu_option"><a href="member.php?s=c844fd105c1df95fef40aef2f909e39b&amp;u=226">View Public Profile</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="private.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newpm&amp;u=226" rel="nofollow">Send a private message to handsonwebhosting</a></td></tr>
+	
+	
+	
+		<tr><td class="vbmenu_option"><a href="http://www.handsonwebhosting.com">Visit handsonwebhosting's homepage!</a></td></tr>
+	
+	
+		<tr><td class="vbmenu_option"><a href="search.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=finduser&amp;u=226" rel="nofollow">Find all posts by handsonwebhosting</a></td></tr>
+	
+	
+	</table>
+</div>
+<!-- / post 260300 popup menu -->
+
+
+
+
+
+	</div>
+	
+		</div>	
+	</div>
+</div>
+
+<!-- / close content container -->
+
+<!-- / post #260300 --><div id="lastpost"></div></div>
+
+<!-- start content table -->
+<!-- open content container -->
+
+<div align="center">
+	<div class="page" style="width:100%; text-align:left">
+		<div style="padding:0px 25px 0px 25px">
+
+<!-- / start content table -->
+
+<!-- controls below postbits -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr valign="top">
+	
+		<td class="smallfont"><a href="newreply.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=newreply&amp;noquote=1&amp;p=260300" rel="nofollow"><img src="new_xcart_images/buttons/reply.gif" alt="Reply" border="0" /></a></td>
+		
+<!-- breadcrumb -->
+	<td style="padding:4px" class="alt1" width="100%">
+		
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tr valign="bottom">
+				<td width=20>&nbsp;&nbsp;</td>
+		<td width="100%"><span class="navbar"><a href="index.php?s=c844fd105c1df95fef40aef2f909e39b" accesskey="1"><strong>X-Cart forums</strong></a></span> 
+	<span class="navbar">&gt; <a href="forumdisplay.php?s=c844fd105c1df95fef40aef2f909e39b&amp;f=8">Community Center</a></span>
+
+
+	<span class="navbar">&gt; <a href="forumdisplay.php?s=c844fd105c1df95fef40aef2f909e39b&amp;f=29">General Chat</a></span>
+
+</td>
+			</tr>
+			</table>			
+		
+	</td>	
+<!-- / breadcrumb-->
+	
+</tr>
+</table>
+<!-- / controls below postbits -->
+
+
+
+
+<br />
+
+<div class="smallfont" align="center">
+	<strong>&laquo;</strong>
+		<a href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;t=48019&amp;goto=nextoldest">Previous Thread</a>
+		|
+		<a href="showthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;t=48019&amp;goto=nextnewest">Next Thread</a>
+	<strong>&raquo;</strong>
+</div>
+
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- currently active users -->
+
+<!-- end currently active users -->
+
+
+<!-- controls for non-popup browsers -->
+
+
+<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center" style="border-top-width:0px">
+<tr>
+	<td class="thead" colspan="2">Thread Tools<a name="goto_threadtools"></a></td>
+	
+</tr>
+<tr valign="top">
+	<td class="alt1" colspan="2">
+	
+	<!-- thread tools -->
+	<div class="smallfont">
+		
+			<div><img class="inlineimg" src="new_xcart_images/buttons/printer.gif" alt="Show Printable Version" vspace="1" /> <a href="printthread.php?s=c844fd105c1df95fef40aef2f909e39b&amp;t=48019" accesskey="p" rel="nofollow">Show Printable Version</a></div>
+			<div><img class="inlineimg" src="new_xcart_images/buttons/sendtofriend.gif" alt="Email this Page" vspace="1" /> <a href="sendmessage.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=sendtofriend&amp;t=48019" rel="nofollow">Email this Page</a></div>
+		
+		
+		
+	</div>
+	<!-- / thread tools -->
+	
+	</td>
+	
+</tr>
+
+</table>
+<br />
+
+
+<!-- / controls for non-popup browsers -->
+
+
+<!-- forum rules and admin links -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
+<tr valign="bottom">
+	<td class="smallfont" align="left">
+		<table class="tborder" cellpadding="6" cellspacing="1" border="0" width="180">
+<thead>
+<tr>
+	<td class="thead">
+		<a style="float:right" href="#top" onclick="return toggle_collapse('forumrules')"><img id="collapseimg_forumrules" src="new_xcart_images/buttons/collapse_thead.gif" alt="" border="0" /></a>
+		Posting Rules
+	</td>
+</tr>
+</thead>
+<tbody id="collapseobj_forumrules" style="">
+<tr>
+	<td class="alt1" nowrap="nowrap"><div class="smallfont">
+		
+		<div>You <strong>may not</strong> post new threads</div>
+		<div>You <strong>may not</strong> post replies</div>
+		<div>You <strong>may not</strong> post attachments</div>
+		<div>You <strong>may not</strong> edit your posts</div>
+		<hr />
+		
+		<div><a href="misc.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=bbcode" target="_blank">vB code</a> is <strong>On</strong></div>
+		<div><a href="misc.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=showsmilies" target="_blank">Smilies</a> are <strong>On</strong></div>
+		<div><a href="misc.php?s=c844fd105c1df95fef40aef2f909e39b&amp;do=bbcode#imgcode" target="_blank">[IMG]</a> code is <strong>On</strong></div>
+		<div>HTML code is <strong>Off</strong></div>
+	</div></td>
+</tr>
+</tbody>
+</table>
+	</td>
+	<td class="smallfont" align="right">
+		<table cellpadding="0" cellspacing="0" border="0">
+		
+		<tr>
+			<td>
+			<div class="smallfont" style="text-align:left; white-space:nowrap">
+	<form action="forumdisplay.php" method="get">
+	<input type="hidden" name="s" value="c844fd105c1df95fef40aef2f909e39b" />
+	<input type="hidden" name="daysprune" value="" />
+	<strong>Forum Jump</strong><br />
+	<select name="f" onchange="this.form.submit();">
+		<optgroup label="Site Areas">
+			<option value="cp" >User Control Panel</option>
+			<option value="pm" >Private Messages</option>
+			<option value="subs" >Subscriptions</option>
+			<option value="wol" >Who's Online</option>
+			<option value="search" >Search Forums</option>
+			<option value="home" >Forums Home</option>
+		</optgroup>
+		<optgroup label="Forums">
+		<option value="7" class="fjdpth0" > Planning Your Project</option>
+<option value="30" class="fjdpth1" >&nbsp; &nbsp;  Forum F.A.Q.</option>
+<option value="34" class="fjdpth1" >&nbsp; &nbsp;  My Tasks and Plans</option>
+<option value="35" class="fjdpth1" >&nbsp; &nbsp;  Server Talk</option>
+<option value="36" class="fjdpth1" >&nbsp; &nbsp;  Marketing, Advertising & Search Engines Talk</option>
+<option value="48" class="fjdpth1" >&nbsp; &nbsp;  Considering using X-Cart for my project</option>
+<option value="8" class="fjdpth0" > Community Center</option>
+<option value="28" class="fjdpth1" >&nbsp; &nbsp;  News and Announcements</option>
+<option value="29" class="fjsel" selected="selected">&nbsp; &nbsp;  General Chat</option>
+<option value="21" class="fjdpth1" >&nbsp; &nbsp;  Member Websites</option>
+<option value="37" class="fjdpth1" >&nbsp; &nbsp;  Fraud Prevention</option>
+<option value="50" class="fjdpth0" > X-Payments issues &amp; questions</option>
+<option value="3" class="fjdpth0" > X-Cart Technical Issues</option>
+<option value="11" class="fjdpth1" >&nbsp; &nbsp;  Installation & Setup</option>
+<option value="24" class="fjdpth1" >&nbsp; &nbsp;  Shipping Issues</option>
+<option value="25" class="fjdpth1" >&nbsp; &nbsp;  Payment Issues</option>
+<option value="12" class="fjdpth1" >&nbsp; &nbsp;  Upgrading X-Cart</option>
+<option value="27" class="fjdpth1" >&nbsp; &nbsp;  X-Cart modules</option>
+<option value="31" class="fjdpth1" >&nbsp; &nbsp;  Bugs & Fixes</option>
+<option value="32" class="fjdpth1" >&nbsp; &nbsp;  Program Logic</option>
+<option value="26" class="fjdpth1" >&nbsp; &nbsp;  Miscellaneous</option>
+<option value="4" class="fjdpth0" > X-Cart Administrative Issues</option>
+<option value="14" class="fjdpth1" >&nbsp; &nbsp;  Product Management</option>
+<option value="15" class="fjdpth1" >&nbsp; &nbsp;  Order Management</option>
+<option value="16" class="fjdpth1" >&nbsp; &nbsp;  User Management</option>
+<option value="17" class="fjdpth1" >&nbsp; &nbsp;  Storefront Management</option>
+<option value="5" class="fjdpth0" > X-Cart Customization</option>
+<option value="49" class="fjdpth1" >&nbsp; &nbsp;  Storefront Design &amp; Template Editing in v 4.4.x</option>
+<option value="46" class="fjdpth1" >&nbsp; &nbsp;  Storefront Design &amp; Template Editing in v 4.2.x and 4.3.x</option>
+<option value="18" class="fjdpth1" >&nbsp; &nbsp;  Storefront Design &amp; Template Editing in v3.x, 4.0.x, 4.1.x</option>
+<option value="20" class="fjdpth1" >&nbsp; &nbsp;  Completed Custom Mods &amp; Templates</option>
+<option value="33" class="fjdpth1" >&nbsp; &nbsp;  Internationalization and Localization.</option>
+<option value="44" class="fjdpth1" >&nbsp; &nbsp;  Contributed translations</option>
+<option value="6" class="fjdpth0" > General</option>
+<option value="19" class="fjdpth1" >&nbsp; &nbsp;  Wish List</option>
+<option value="22" class="fjdpth1" >&nbsp; &nbsp;  Rants & Raves</option>
+<option value="43" class="fjdpth1" >&nbsp; &nbsp;  Professional Help Services - Offers</option>
+<option value="23" class="fjdpth1" >&nbsp; &nbsp;  Professional Help Services - Requests</option>
+<option value="13" class="fjdpth1" >&nbsp; &nbsp;  MySQL</option>
+<option value="45" class="fjdpth1" >&nbsp; &nbsp;  Third Party Add-Ons</option>
+
+		</optgroup>
+	</select><input type="submit" class="button" value="Go"  />
+	</form>
+</div>
+			</td>
+		</tr>		
+		</table>
+	</td>
+</tr>
+</table>
+<!-- /forum rules and admin links -->
+
+<br />
+
+
+
+<br />
+<div class="smallfont2" align="center">All times are GMT -8. The time now is <span class="time">11:23 PM</span>.</div>
+<br />
+
+
+		</div>	
+	</div>
+</div>
+
+<!-- / close content container -->
+<!-- /content area table -->
+
+<div class="smallfont" align="center">
+<!-- Do not remove  or your scheduled tasks will cease to function -->
+
+<!-- Do not remove  or your scheduled tasks will cease to function -->
+
+</div>
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-top: 2px solid #d9e0e8">
+<tr height="30" valign="middle">
+<td colspan="3" align="right">&nbsp;
+</td>
+<td width="10">&nbsp;</td>
+<tr><td colspan="4">
+<hr style="border-top: 1px solid #cccccc; width: 100%" size=1>
+</td>
+</tr>
+<tr height="30" valign="middle">
+<td width="10">&nbsp;</td>
+<td align="right">
+<div class="smallfont2" style="padding-bottom:5px;" >
+<!-- Do not remove this copyright notice -->
+X-Cart forums © 2001-2008 <a href="http://www.qtmsoft.com">Qualiteam business solutions</a>. Powered by vBulletin<br />Copyright &copy;2000 - 2012, Jelsoft Enterprises Ltd.
+<!-- Do not remove this copyright notice -->
+</div>
+</td>
+<td width="10">&nbsp;</td>
+</tr>
+</table>
+
+
+<script type="text/javascript">
+<!--
+	// Main vBulletin Javascript Initialization
+	vBulletin_init();
+//-->
+</script>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+// <!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// -->
+</script>
+
+<script type="text/javascript">
+// <!--
+try {
+var pageTracker = _gat._getTracker("UA-5826167-13");
+pageTracker._trackPageview();
+} catch(err) {}
+// -->
+</script> 
+<!-- / Google Analytics -->
+
+<!-- temp -->
+<div style="display:none">
+	<!-- thread rate -->
+	
+		
+	
+	<!-- / thread rate -->
+</div>
+
+</body>
+</html>

@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: brunosan.eu
 locale: en_US
-description: Describe your website here.
+description: Saepe cadendo.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -48,23 +48,23 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Bruno Sánchez-Andrade Nuño
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  email: brunosan"gmail.com
+  disqus-shortname: brunosan
+  twitter: brunosan
+  facebook: brunosan
+  github: brunosan
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: nasonurb
+  instagram: nasonurb
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-328064-15
     verify:
     ad-client:
     ad-slot:

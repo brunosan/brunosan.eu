@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" dir="ltr" lang="en">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" dir="ltr" lang="en">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" dir="ltr" lang="en">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html dir="ltr" lang="en">
+<!--<![endif]-->
+<head><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) { var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",mirage:{responsive:0,lazy:0},oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/aav=1499794953/"},atok:"bc390d4471d7f7aa6ca296233f36f5bd",zone:"brunosan.eu",rocket:"0",apps:{"ga_key":{"ua":"UA-328064-15","ga_bs":"2"}}}];var a=document.createElement("script"),b=document.getElementsByTagName("script")[0];a.async=!0;a.src="//ajax.cloudflare.com/cdn-cgi/nexp/aav=3029832572/cloudflare.min.js";b.parentNode.insertBefore(a,b);}}catch(e){};
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+window.__CF=window.__CF||{};window.__CF.AJS={"ga_key":{"ua":"UA-328064-15","ga_bs":"2"}};
+//]]>
+</script>
+<meta charset="UTF-8"/>
+<title>What the green &#8220;Maximize&#8221; button does in OSX does | </title>
+<link rel="profile" href="http://gmpg.org/xfn/11"/>
+<link rel="stylesheet" type="text/css" media="all" href="http://s1.wp.com/wp-content/themes/pub/twentyten/style.css?m=1339795534g"/>
+<link rel="pingback" href="/xmlrpc.php"/>
+<meta name="google-site-verification" content="bQUmYXXjTTwhDzVqGpwn1OCUwqiU-DM7IplmvN7XPEQ"/>
+<style type="text/css">#flickr_badge_source_txt{padding:0;font:11px Arial,Helvetica,Sans serif;color:#666666;}#flickr_badge_icon{display:block!important;margin:0!important;border:1px solid rgb(0,0,0)!important;}#flickr_icon_td{padding:0 5px 0 0!important;}.flickr_badge_image{text-align:center!important;}.flickr_badge_image img{border:1px solid black!important;}#flickr_badge_uber_wrapper{width:150px;}#flickr_www{display:block;text-align:center;padding:0 10px 0 10px!important;font:11px Arial,Helvetica,Sans serif!important;color:#3993ff!important;}#flickr_badge_uber_wrapper a:hover,#flickr_badge_uber_wrapper a:link,#flickr_badge_uber_wrapper a:active,#flickr_badge_uber_wrapper a:visited{text-decoration:none!important;background:inherit!important;color:#3993ff;}#flickr_badge_wrapper{background-color:#ffffff;border:solid 1px #000000}#flickr_badge_source{padding:0!important;font:11px Arial,Helvetica,Sans serif!important;color:#666666!important;}</style>
+<script src='http://r-login.wordpress.com/remote-login.php?action=js&amp;host=brunosan.eu&amp;id=8438084&amp;t=1341220646&amp;back=brunosan.eu%2F2012%2F02%2F09%2Fwhat-the-green-maximize-button-does-in-osx-does%2F' type="text/javascript"></script>
+<script type="text/javascript">
+		/* <![CDATA[ */
+			if ( 'function' === typeof WPRemoteLogin ) {
+				document.cookie = "wordpress_test_cookie=test; path=/";
+				if ( document.cookie.match( /(;|^)\s*wordpress_test_cookie\=/ ) ) {
+					WPRemoteLogin();
+				}
+			}
+		/* ]]> */
+		</script>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title=" &raquo; What the green &#8220;Maximize&#8221; button does in OSX&nbsp;does Comments Feed" href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/feed/"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s0.wp.com/_static/??/wp-content/mu-plugins/infinity/themes/pub/twentyten.css,/i/noticons/noticons.css,/wp-content/mu-plugins/post-flair/style.css,/wp-content/themes/h4/global.css?m=1340626589j' type='text/css' media='all'/>
+<script type='text/javascript' src='http://s1.wp.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-includes/js/comment-reply.js,/wp-includes/js/spin.js,/wp-includes/js/jquery/jquery.spin.js?m=1339788006j'></script>
+<link rel='stylesheet' id='all-css-0' href='http://s0.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1339644630g' type='text/css' media='all'/>
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='http://s0.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1307172283g&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://nasonurb.wordpress.com/xmlrpc.php?rsd"/>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://nasonurb.wordpress.com/wp-includes/wlwmanifest.xml"/>
+<link rel='prev' title='[Idea] Brainstorming for Apps for&nbsp;Climate' href='/2012/01/31/idea-brainstorming-for-apps-for-climate/'/>
+<link rel='next' title='Life is not&nbsp;just' href='/2012/02/16/2224/'/>
+<meta name="generator" content="WordPress.com"/>
+<link rel='canonical' href='/2012/02/09/what-the-green-maximize-button-does-in-osx-does/'/>
+<link rel='shortlink' href='http://wp.me/pzp88-zz'/>
+<link rel="alternate" type="application/json+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbrunosan.eu%2F2012%2F02%2F09%2Fwhat-the-green-maximize-button-does-in-osx-does%2F&amp;for=wpcom-auto-discovery"/><link rel="alternate" type="application/xml+oembed" href="http://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbrunosan.eu%2F2012%2F02%2F09%2Fwhat-the-green-maximize-button-does-in-osx-does%2F&amp;for=wpcom-auto-discovery"/><meta property="og:type" content="article"/>
+<meta property="og:title" content="What the green &#8220;Maximize&#8221; button does in OSX&nbsp;does"/>
+<meta property="og:url" content="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/"/>
+<meta property="og:description" content="The green &#8220;Maximize&#8221; button in Mac OSX is actually not what you thought it was. In Microsoft Windows it makes the window fill the screen&#8230; (and I don´t really know what it does wh..."/>
+<meta property="og:site_name" content=""/>
+<meta property="og:image" content="http://nasonurb.files.wordpress.com/2012/02/screen-shot-2012-02-09-at-10-35-33-am.png?w=300&amp;h=300"/>
+<meta property="twitter:image" content="http://nasonurb.files.wordpress.com/2012/02/screen-shot-2012-02-09-at-10-35-33-am.png"/>
+<meta property="twitter:card" content="photo"/>
+<meta property="twitter:creator:id" content="6637352"/>
+<link rel="shortcut icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311976024g" sizes="16x16 24x24 32x32 48x48"/>
+<link rel="icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311976024g" sizes="16x16 24x24 32x32 48x48"/>
+<link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1311618091g"/>
+<link rel='openid.server' href='http://nasonurb.wordpress.com/?openidserver=1'/>
+<link rel='openid.delegate' href='http://nasonurb.wordpress.com/'/>
+<link rel="search" type="application/opensearchdescription+xml" href="/osd.xml" title=""/>
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com"/>
+<meta name='geo.position' content='38.910000;-77.018000'/>
+<meta name='ICBM' content='38.910000, -77.018000'/>
+<meta name="application-name" content="WordPress.com"/><meta name="msapplication-window" content="width=device-width;height=device-height"/><meta name="msapplication-tooltip" content="Bruno Sánchez-Andrade Nuño, PhD"/><meta name="msapplication-task" content="name=Subscribe;action-uri=/feed/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico"/><style type="text/css" id="custom-background-css">body.custom-background{background-color:#000000;}</style>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-328064-15']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+<body class="single single-post postid-2205 single-format-standard custom-background single-author highlander-enabled highlander-light">
+<div id="wrapper" class="hfeed">
+<div id="header">
+<div id="masthead">
+<div id="branding" role="banner">
+<div id="site-title">
+<span>
+<a href="/" title="" rel="home"></a>
+</span>
+</div>
+<div id="site-description">Bruno Sánchez-Andrade Nuño, PhD</div>
+<a class="home-link" href="/" title="" rel="home">
+<img src="http://nasonurb.files.wordpress.com/2010/12/cropped-picture-31.jpg" width="940" height="198" alt=""/>
+</a>
+</div> 
+<div id="access" role="navigation">
+<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+<div class="menu"><ul><li><a href="/" title="Home">Home</a></li><li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li><li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li><li class="page_item page-item-27"><a href="/contact/">Contact</a></li><li class="page_item page-item-241"><a href="/about/">About</a><ul class='children'><li class="page_item page-item-73"><a href="/about/license/">License</a></li><li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li><li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li><li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a><ul class='children'><li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li><li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li></ul></li></ul></li></ul></div>
+</div> 
+</div> 
+</div> 
+<div id="main">
+<div id="container">
+<div id="content" role="main">
+<div id="nav-above" class="navigation">
+<div class="nav-previous"><a href="/2012/01/31/idea-brainstorming-for-apps-for-climate/" rel="prev"><span class="meta-nav">&larr;</span> [Idea] Brainstorming for Apps for&nbsp;Climate</a></div>
+<div class="nav-next"><a href="/2012/02/16/2224/" rel="next">Life is not&nbsp;just <span class="meta-nav">&rarr;</span></a></div>
+</div> 
+<div id="post-2205" class="post-2205 post type-post status-publish format-standard hentry category-mac">
+<h1 class="entry-title">What the green &#8220;Maximize&#8221; button does in OSX&nbsp;does</h1>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Posted on</span> <a href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/" title="2:00 pm" rel="bookmark"><span class="entry-date">February 9, 2012</span></a> <span class="by-author"><span class="sep">by</span> <span class="author vcard"><a class="url fn n" href="/author/nasonurb/" title="View all posts by brunosan" rel="author">brunosan</a></span> </span> </div> 
+<div class="entry-content">
+<p>The green &#8220;Maximize&#8221; button in Mac OSX is actually not what you thought it was.</p>
+<p><a href="http://nasonurb.files.wordpress.com/2012/02/screen-shot-2012-02-09-at-10-35-33-am.png"><img class="aligncenter size-full wp-image-2206" title="Screen Shot 2012-02-09 at 10.35.33 AM" src="http://nasonurb.files.wordpress.com/2012/02/screen-shot-2012-02-09-at-10-35-33-am.png?w=640" alt=""/></a>In Microsoft Windows it makes the window fill the screen&#8230; (and I don´t really know what it does when the window is already maximized). In Mac it switches the size of the window from &#8220;application default&#8221; to &#8220;user set&#8221;. Its name is &#8220;Zoom&#8221;, and you can also find it on the Window Menu.<span id="more-2205"></span></p>
+<p>It means that every app comes with a window size by default. If you resize it, it will come back to the default size if you click it. And if you click again it comes back to whatever size you set before.</p>
+<p>Makes sense? Handy if you make it a hot key and you need to swap windows a lot and only part of one window is needed at times.</p>
+<p><strong>The extra mile</strong>. The button only remembers the size, so it won´t move the window unless it needs to adjust the windows size. However, moving the window leaves the application default mode, so if you just move the window from the application default with resize, the green button will make nothing. And it will forget your previous -truly user defined- size. (&#8230;)</p>
+<p>Btw, <a href="https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/NSWindow_Class/Reference/Reference.html">officially</a> Apple defines it as:</p>
+<blockquote><p><strong>Zoom:</strong></p>
+<p>This action method toggles the size and location of the window between its standard state (provided by the application as the “best” size to display the window’s data) and its user state (a new size and location the user may have set by moving or resizing the window).</p></blockquote>
+<p>&nbsp;</p>
+<div id="geo-post-2205" class="geo geo-post" style="display: none">
+<span class="latitude">38.910000</span>
+<span class="longitude">-77.018000</span>
+</div><div id="jp-post-flair" class="sharedaddy sd-rating-enabled sd-like-enabled sd-sharing-enabled"><div class="sd-block sd-rating"><h3 class="sd-title">Rate this:</h3><div class="pd-rating" id="pd_rating_holder_355747_post_2205"></div></div><div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" class="share-twitter sd-button share-icon" href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/?share=twitter" title="Click to share on Twitter" id="sharing-twitter-2205"><span>Twitter</span></a></li><li class="share-facebook"><a rel="nofollow" class="share-facebook sd-button share-icon" href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/?share=facebook" title="Share on Facebook" id="sharing-facebook-2205"><span>Facebook</span></a></li><li class="share-google-plus-1"><div class="googleplus1_button"><g:plusone size="medium" callback="sharing_plusone" href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/"></g:plusone></div></li><li class="share-reddit"><a rel="nofollow" class="share-reddit sd-button share-icon" href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/?share=reddit" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-email"><a rel="nofollow" class="share-email sd-button share-icon" href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/?share=email" title="Click to email this to a friend"><span>Email</span></a></li><li class="share-end"></li></ul><div class="sharing-clear"></div></div></div><div class="wpl-likebox sd-block sd-like"><h3 class="sd-title">Like this:</h3><div class="sd-content"><div id="like-2205" class="wpl-button "><a href='/2012/02/09/what-the-green-maximize-button-does-in-osx-does/?like=1&amp;_wpnonce=bcd53df3d6' title='I like this.' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div class="wpl-count sd-like-count">Be the first to like this.</div></div></div></div> </div> 
+<div class="entry-utility">
+This entry was posted in <a href="/category/mac/" title="View all posts in Mac" rel="category tag">Mac</a>. Bookmark the <a href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/" title="Permalink to What the green &#8220;Maximize&#8221; button does in OSX&nbsp;does" rel="bookmark">permalink</a>. </div> 
+</div> 
+<div id="nav-below" class="navigation">
+<div class="nav-previous"><a href="/2012/01/31/idea-brainstorming-for-apps-for-climate/" rel="prev"><span class="meta-nav">&larr;</span> [Idea] Brainstorming for Apps for&nbsp;Climate</a></div>
+<div class="nav-next"><a href="/2012/02/16/2224/" rel="next">Life is not&nbsp;just <span class="meta-nav">&rarr;</span></a></div>
+</div> 
+<div id="comments">
+<h3 id="comments-title">One Response to <em>What the green &#8220;Maximize&#8221; button does in OSX&nbsp;does</em></h3>
+<ol class="commentlist">
+<li class="comment even thread-even depth-1 highlander-comment" id="li-comment-2118">
+<div id="comment-2118">
+<div class="comment-author vcard">
+<cite class="fn"><a href='http://zugaldia.net' rel='external nofollow' class='url'>Antonio</a></cite> <span class="says">says:</span> </div> 
+<div class="comment-meta commentmetadata"><a href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/#comment-2118">
+February 10, 2012 at 9:15 am</a> </div> 
+<div class="comment-body"><p>My problem with this button is that I don&#8217;t think you need it as much as the red (close) or yellow (minimize) buttons. You need this two in a daily basis, but do you really need to return to &#8220;app default&#8221; constantly? What you probably do is start the app with the recommended size and leave it there, or resize to your preference. And that&#8217;s it. Include the functionality if you wish, but not so prominently.</p>
+<p>And granted, putting it with a plus sign where Windows has a maximize button makes it confusing. In Windows, by the way, when you click in the maximize button when the window is already maximized it just returns to the previous size, whatever that was, app default or user defined.</p>
+<div class="pd-rating" id="pd_rating_holder_355750_comm_2118"></div></div>
+<div class="reply">
+<a class='comment-reply-link' href='/2012/02/09/what-the-green-maximize-button-does-in-osx-does/?replytocom=2118#respond' onclick='return addComment.moveForm("comment-2118", "2118", "respond", "2205")'>Reply</a> </div> 
+</div> 
+</li>
+</ol>
+<div id="respond">
+<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/2012/02/09/what-the-green-maximize-button-does-in-osx-does/#respond" style="display:none;">Cancel reply</a></small></h3>
+<form action="/wp-comments-post.php" method="post" id="commentform">
+<input type="hidden" name="hc_post_as" id="hc_post_as" value="guest"/>
+<div class="comment-form-field comment-textarea">
+<label for="comment">Enter your comment here...</label>
+<div id="comment-form-comment"><textarea id="comment" name="comment"></textarea></div>
+</div>
+<div id="comment-form-identity">
+<div id="comment-form-nascar">
+<p>Fill in your details below or click an icon to log in:</p>
+<ul>
+<li class="selected" style="display:none;">
+<a href="#comment-form-guest" id="postas-guest" title="Guest">
+<span></span>
+</a>
+</li>
+<li>
+<a href="#comment-form-load-service:WordPress.com" id="postas-wordpress" title="WordPress.com">
+<span></span>
+</a>
+</li>
+<li>
+<a href="#comment-form-load-service:Twitter" id="postas-twitter" title="Twitter">
+<span></span>
+</a>
+</li>
+<li>
+<a href="#comment-form-load-service:Facebook" id="postas-facebook" title="Facebook">
+<span></span>
+</a>
+</li>
+</ul>
+</div>
+<div id="comment-form-guest" class="comment-form-service selected">
+<div class="comment-form-padder">
+<div class="comment-form-avatar">
+<a href="https://gravatar.com/site/signup/" target="_blank"> <img src="http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&forcedefault=y&d=identicon" alt="Gravatar" width="25" class="no-grav"/>
+</a> </div>
+<div class="comment-form-fields">
+<div class="comment-form-field comment-form-email">
+<label for="email">Email <span class="nopublish">(Address never made public)</span></label>
+<div class="comment-form-input"><input id="email" name="email" type="text" value=""/></div>
+</div>
+<div class="comment-form-field comment-form-author">
+<label for="author">Name</label>
+<div class="comment-form-input"><input id="author" name="author" type="text" value=""/></div>
+</div>
+<div class="comment-form-field comment-form-url">
+<label for="url">Website</label>
+<div class="comment-form-input"><input id="url" name="url" type="text" value=""/></div>
+</div>
+</div>
+</div>
+</div>
+<div id="comment-form-wordpress" class="comment-form-service">
+<div class="comment-form-padder">
+<div class="comment-form-avatar">
+<img src="http://s2.wp.com/wp-content/mu-plugins/highlander-comments/images/wplogo.png?m=1289230950g" alt="WordPress.com Logo" width="25" class="no-grav"/>
+</div>
+<div class="comment-form-fields">
+<input type="hidden" name="wp_avatar" id="wordpress-avatar" class="comment-meta-wordpress" value=""/>
+<input type="hidden" name="wp_user_id" id="wordpress-user_id" class="comment-meta-wordpress" value=""/>
+<input type="hidden" name="wp_access_token" id="wordpress-access_token" class="comment-meta-wordpress" value=""/>
+<p class="comment-form-posting-as pa-wordpress"><strong></strong> You are commenting using your WordPress.com account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'wordpress' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+</div>
+</div>
+</div>
+<div id="comment-form-twitter" class="comment-form-service">
+<div class="comment-form-padder">
+<div class="comment-form-avatar">
+<img src="http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon" alt="Twitter picture" width="25" class="no-grav"/>
+</div>
+<div class="comment-form-fields">
+<input type="hidden" name="twitter_avatar" id="twitter-avatar" class="comment-meta-twitter" value=""/>
+<input type="hidden" name="twitter_user_id" id="twitter-user_id" class="comment-meta-twitter" value=""/>
+<input type="hidden" name="twitter_access_token" id="twitter-access_token" class="comment-meta-twitter" value=""/>
+<p class="comment-form-posting-as pa-twitter"><strong></strong> You are commenting using your Twitter account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'twitter' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+</div>
+</div>
+</div>
+<div id="comment-form-facebook" class="comment-form-service">
+<div class="comment-form-padder">
+<div class="comment-form-avatar">
+<img src="http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=identicon" alt="Facebook photo" width="25" class="no-grav"/>
+</div>
+<div class="comment-form-fields">
+<input type="hidden" name="fb_avatar" id="facebook-avatar" class="comment-meta-facebook" value=""/>
+<input type="hidden" name="fb_user_id" id="facebook-user_id" class="comment-meta-facebook" value=""/>
+<input type="hidden" name="fb_access_token" id="facebook-access_token" class="comment-meta-facebook" value=""/>
+<p class="comment-form-posting-as pa-facebook"><strong></strong> You are commenting using your Facebook account. <span class="comment-form-log-out">(&nbsp;<a href="javascript:HighlanderComments.doExternalLogout( 'facebook' );">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href="#" onclick="javascript:HighlanderComments.switchAccount();return false;">Change</a>&nbsp;)</span></p>
+</div>
+</div>
+</div>
+<div id="comment-form-load-service" class="comment-form-service">
+<div class="comment-form-posting-as-cancel"><a href="javascript:HighlanderComments.cancelExternalWindow();">Cancel</a></div>
+<p>Connecting to %s</p>
+</div>
+</div>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	var input = document.createElement( 'input' ),
+	    comment = jQuery( '#comment' );
+
+	if ( 'placeholder' in input ) {
+		comment.attr( 'placeholder', jQuery( '.comment-textarea label' ).remove().text() );
+	}
+
+	// Expando Mode: start small, then auto-resize on first click + text length
+	jQuery( '#comment-form-identity' ).hide();
+	jQuery( '#comment-form-subscribe' ).hide();
+	jQuery( '#commentform .form-submit' ).hide();
+
+	comment.css( { 'height':'10px' } ).one( 'focus', function() {
+		var timer = setInterval( HighlanderComments.resizeCallback, 10 )
+		jQuery( this ).animate( { 'height': HighlanderComments.initialHeight } ).delay( 100 ).queue( function(n) { clearInterval( timer ); HighlanderComments.resizeCallback(); n(); } );
+		jQuery( '#comment-form-identity' ).slideDown();
+		jQuery( '#comment-form-subscribe' ).slideDown();
+		jQuery( '#commentform .form-submit' ).slideDown();
+	});
+});
+</script>
+<div id="comment-form-subscribe">
+<p class="comment-subscription-form"><input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;" tabindex="6"/> <label class="subscribe-label" id="subscribe-label" for="subscribe">Notify me of follow-up comments via email.</label></p><p class="post-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto;" tabindex="7"/> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts via email.</label></p></div>
+<style type="text/css">#respond .comment-form-avatar{display:none!important;}#respond .comment-form-fields{margin-left:0!important;}</style>
+<p class="form-submit">
+<input name="submit" type="submit" id="comment-submit" value="Post Comment"/>
+<input type='hidden' name='comment_post_ID' value='2205' id='comment_post_ID'/>
+<input type='hidden' name='comment_parent' id='comment_parent' value='0'/>
+</p>
+<input type="hidden" name="genseq" value="1341220646"/>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d723e570d5"/></p><script type='text/javascript' src='http://s1.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/notes/underscore.js,/wp-content/mu-plugins/notes/backbone.js,/wp-content/mu-plugins/notes/mustache.js,/wp-content/mu-plugins/notes/notes-rest-common.js,/wp-content/mu-plugins/widgets/milestone/milestone.js,/wp-content/mu-plugins/akismet-2.5/form.js?m=1341003658j'></script>
+<p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="215"/></p> </form>
+</div> 
+<div style="clear: both"></div>
+</div> 
+</div> 
+</div> 
+<div id="primary" class="widget-area" role="complementary">
+<ul class="xoxo">
+<li id="text-2" class="widget-container widget_text"> <div class="textwidget"><a href="/about/">Scientist.</a>
+Advocate for a world where science, technology and society listen to each other.</div>
+</li><li id="twitter-3" class="widget-container widget_twitter"><h3 class="widget-title"><a href='http://twitter.com/brunosan'>My Twitter feed</a></h3><ul class='tweets'>
+<li>Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://espn.go.com/watchespn/player?id=496987#"> espn.go.com/watchespn/play…</a> <a href="http://twitter.com/brunosan/statuses/219512842490089477" class="timesince">13&nbsp;hours&nbsp;ago</a></li>
+<li>Spent the last 5 hours porting my <a href="http://Wordpress.com"> Wordpress.com</a> blog brunosan.eu into Jekyll. So much code cleaning still to do. Hope it´s worth! <a href="http://twitter.com/brunosan/statuses/219351571572596736" class="timesince">1&nbsp;day&nbsp;ago</a></li>
+<li>Remember to put your clocks back tonight. <a href="http://bsan.eu/LN1MRb"> bsan.eu/LN1MRb</a> <a href="http://twitter.com/brunosan/statuses/219182094629347329" class="timesince">1&nbsp;day&nbsp;ago</a></li>
+</ul>
+</li><li id="pages-3" class="widget-container widget_pages"><h3 class="widget-title">Sitemap</h3> <ul>
+<li class="page_item page-item-242"><a href="/">Home</a></li>
+<li class="page_item page-item-1278"><a href="/st-policy/">S&amp;T&nbsp;Policy</a></li>
+<li class="page_item page-item-36 current_page_parent"><a href="/blog/">Blog</a></li>
+<li class="page_item page-item-27"><a href="/contact/">Contact</a></li>
+<li class="page_item page-item-241"><a href="/about/">About</a>
+<ul class='children'>
+<li class="page_item page-item-73"><a href="/about/license/">License</a></li>
+<li class="page_item page-item-1272"><a href="/about/my-universe/">My&nbsp;Universe</a></li>
+<li class="page_item page-item-1014"><a href="/about/papercracy/">Papercracy</a></li>
+<li class="page_item page-item-5"><a href="/about/work/">Astrophysics</a>
+<ul class='children'>
+<li class="page_item page-item-58"><a href="/about/work/apod/">APOD</a></li>
+<li class="page_item page-item-98"><a href="/about/work/phd/">PhD</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li> <li id="top-clicks" class="widget-container widget_stats_topclicks"> <h3 class="widget-title">Top Clicks</h3> <ul><li><a href='https://docs.google.com/spreadsheet/ccc?key=0AtlF0LGs5PVVdFJ3Y19wNnIydnNtb05HSkgzUEFYbGc' target='_blank' rel='nofollow'>docs.google.com/spreadshe&#8230;</a></li><li><a href='https://docs.google.com/spreadsheet/viewform?formkey=dHFWZllkZWluU2ZEbFU0X0FZaFZJZHc6MQ&amp;entry_6=Dr.&amp;entry_0=Bruno&amp;entry_7=S%C3%A1nchez-Andrade%20Nu%C3%B1o&amp;entry_8=Global%20Adaptation%20Institute&amp;entry_9=Director%20for%20Science%20and%20Technology&amp;entry_5=t200w167' target='_blank' rel='nofollow'>docs.google.com/spreadshe&#8230;</a></li><li><a href='https://github.com/brunosan/Invitation-System' target='_blank' rel='nofollow'>github.com/brunosan/Invit&#8230;</a></li></ul> </li><li id="linkcat-2200" class="widget-container widget_links"><h3 class="widget-title">Links</h3>
+<ul class='xoxo blogroll'>
+<li><a href="http://www.flickr.com/photos/nasonurb/">Flickr Photostream (Photos)</a></li>
+<li><a href="http://www.kiva.org/lender/brunosan">Kiva lenders page</a></li>
+<li><a href="http://www.last.fm/user/brunosan">Last.fm profile</a></li>
+<li><a href="http://random.brunosan.eu">Random</a></li>
+<li><a href="http://setiathome.berkeley.edu/show_user.php?userid=8566397">Seti@Home profile</a></li>
+<li><a href="http://twitter.com/brunosan">Twitter profile</a></li>
+</ul>
+</li>
+<li id="text-3" class="widget-container widget_text"><h3 class="widget-title">Resumé</h3> <div class="textwidget"><a href="http://db.tt/AWB7zly"> Currículum Vitae </a></div>
+</li> <li id="blog-stats" class="widget-container widget_statscounter"> <h3 class="widget-title">Visitors</h3> <ul>
+<li>14,332 hits</li>
+</ul>
+</li><li id="text-4" class="widget-container widget_text"><h3 class="widget-title">License</h3> <div class="textwidget">You are free to use the content of this site (share, copy, print) and adapt it (even sell it if you want). However, you should cite the authorship of the orginial content.
+<p>
+Some restrictions apply, please read the <a rel="license" href="http://home.brunosan.eu/contact/license/">full License</a>.
+<p>
+<span><a rel="license" href="http://home.brunosan.eu/contact/license/"><img alt="Creative Commons License" width="88" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/es/88x31.png"/></a><br/></span></div>
+</li> <li id="flickr" class="widget-container widget_flickr"> <h3 class="widget-title">Flickr, selected pics</h3> 
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0" class="flickr-size-thumbnail"><tr><td><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<tr><td align='center'>
+<a href="http://www.flickr.com/photos/nasonurb/5345015984/in/set-72157623282148620/"><img alt="Forest" title="Forest" src="http://farm6.staticflickr.com/5125/5345015984_781abb1844_t.jpg" border="0"/></a><br/><br/><a href="http://www.flickr.com/photos/nasonurb/5273765591/in/set-72157623282148620/"><img alt="View from the meeting room" title="View from the meeting room" src="http://farm6.staticflickr.com/5009/5273765591_c2d630d9dc_t.jpg" border="0"/></a><br/><br/><a href="http://www.flickr.com/photos/nasonurb/5172323381/in/set-72157623282148620/"><img alt="THE Hause" title="THE Hause" src="http://farm5.staticflickr.com/4131/5172323381_4805591562_t.jpg" border="0"/></a><br/><br/><a href="http://www.flickr.com/photos/nasonurb/sets/72157623282148620">More Photos</a>
+</td></tr>
+</table>
+</td></tr></table>
+ 
+</li><li id="rss_links-3" class="widget-container widget_rss_links"><h3 class="widget-title">Subscribe</h3><p class="size-small"><a class="feed-image-link" href="/feed/" title="Subscribe to Posts"><img src="/i/rss/red-small.png" alt="RSS Feed"/></a>&nbsp;<a href="/feed/" title="Subscribe to Posts">RSS - Posts</a></p>
+</li><li id="tag_cloud" class="widget-container widget_tag_cloud"><h3 class="widget-title">Category cloud</h3><div style='overflow: hidden'><a href='/category/adaptation/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='adaptation (5)'>adaptation</a> <a href='/category/autonomo/' style='font-size: 100%; padding: 1px; margin: 1px;' title='autónomo (3)'>autónomo</a> <a href='/category/books/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='books (5)'>books</a> <a href='/category/climate/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='climate (8)'>climate</a> <a href='/category/espana/' style='font-size: 102.03488372093%; padding: 1px; margin: 1px;' title='españa (5)'>españa</a> <a href='/category/idea/' style='font-size: 105.08720930233%; padding: 1px; margin: 1px;' title='idea (8)'>idea</a> <a href='/category/mac/' style='font-size: 100%; padding: 1px; margin: 1px;' title='Mac (3)'>Mac</a> <a href='/category/outreach/' style='font-size: 139.68023255814%; padding: 1px; margin: 1px;' title='Outreach (42)'>Outreach</a> <a href='/category/politics/' style='font-size: 129.50581395349%; padding: 1px; margin: 1px;' title='politics (32)'>politics</a> <a href='/category/quotes/' style='font-size: 112.20930232558%; padding: 1px; margin: 1px;' title='quotes (15)'>quotes</a> <a href='/category/science/' style='font-size: 275%; padding: 1px; margin: 1px;' title='Science (175)'>Science</a> <a href='/category/technology/' style='font-size: 132.55813953488%; padding: 1px; margin: 1px;' title='technology (35)'>technology</a> </div></li> </ul>
+</div> 
+<div id="secondary" class="widget-area" role="complementary">
+<ul class="xoxo">
+<li id="meta-2" class="widget-container widget_meta"><h3 class="widget-title">Meta</h3> <ul>
+<li><a href="http://nasonurb.wordpress.com/wp-login.php?action=register">Register</a></li> <li><a href="http://nasonurb.wordpress.com/wp-login.php">Log in</a></li>
+<li><a href="/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="http://wordpress.com/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.com</a></li>
+</ul>
+</li> </ul>
+</div> 
+</div> 
+<div id="footer" role="contentinfo">
+<div id="colophon">
+<div id="footer-widget-area" role="complementary">
+<div id="first" class="widget-area">
+<ul class="xoxo">
+<li id="text-6" class="widget-container widget_text"> <div class="textwidget"><a rel="license" href="/contact/license/"><img class="aligncenter" style="border-width:0;" src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Creative Commons License" width="88" height="31"/></a>
+</div>
+</li> </ul>
+</div> 
+<div id="second" class="widget-area">
+<ul class="xoxo">
+<li id="text-8" class="widget-container widget_text"> <div class="textwidget">See <a rel="license" href="/contact/license/">Licensing </a> for details. </div>
+</li> </ul>
+</div> 
+<div id="third" class="widget-area">
+<ul class="xoxo">
+<li id="text-7" class="widget-container widget_text"> <div class="textwidget">Views expressed here <a rel="license" href="/contact/license/"> are my own.</a></div>
+</li> </ul>
+</div> 
+</div> 
+<div id="site-info">
+<a href="/" title="" rel="home">
+</a>
+</div> 
+<div id="site-generator">
+Theme: <a href="http://theme.wordpress.com/themes/twentyten/" title="Learn more about this theme">Twenty Ten</a> <a href="http://wordpress.com/?ref=footer" rel="generator">Blog at WordPress.com</a>.
+</div> 
+</div> 
+</div> 
+</div> 
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?aa&#038;ver=3.5-alpha'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1318621548g'></script>
+<script type="text/javascript">
+var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":",language.en,type.wpcom"};
+function wpcomQuantcastPixel( labels, options ) {
+	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };
+
+	labels  = labels  || '';
+	options = options || {};
+
+	if ( typeof labels != 'string' )
+		options = labels;
+
+	for ( i in defaults ) {
+		data[i] = defaults[i];
+	}
+
+	for ( i in options ) {
+		data[i] = options[i];
+	}
+
+	if ( data.labels ) {
+		data.labels += ',' + labels;
+	} else {
+		data.labels = labels;
+	}
+
+	_qevents.push( data );
+};
+(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })();
+_qevents.push( wpcomQuantcastData );
+</script>
+<noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=%2Clanguage.en%2Ctype.wpcom" height="1" width="1" alt=""/></div></noscript>
+<script type="text/javascript">
+	/* <![CDATA[ */
+	(function($){
+		$(document).on( 'ready post-load', function() {
+
+			// Remove the login box when clicking the page
+			$( document ).mousedown( function( e ) {
+				if ( null == $( e.target ).closest( '#wpl-mustlogin' ).get( 0 ) ) {
+					$( '#wpl-mustlogin' ).remove();
+				}
+			});
+
+			// Handle clicking the like button itself
+			$('.wpl-button > a.like').click( function(e) {
+				e.preventDefault();
+
+				var postid = $(this).parent().attr('id').split('like-')[1];
+				$.post( '/wp-admin/admin-ajax.php', {
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_like_click'
+				} );
+
+				var tenMins = new Date();
+				tenMins.setTime( tenMins.getTime() + 600000 );
+				document.cookie = 'wpl_rand=3b10387e1b; expires=' + tenMins.toGMTString() + '; domain=wordpress.com; path=/;';
+
+				$(this).parent().siblings('.wpl-count').after( '\
+					<div id="wpl-mustlogin"> \
+						<form action="https://nasonurb.wordpress.com/wp-login.php" method="post"> \
+							<p>Just one more step to like this:</p> \
+							<label><span>Username</span> <input type="text" name="log" id="user_login" class="input" value="" size="20" tabindex="80" /></label> \
+							<label><span>Password</span> <input type="password" name="pwd" id="user_pass" class="input" value="" size="20" tabindex="81" /></label> \
+							<input type="submit" name="wp-submit" id="wp-submit" class="button-primary" value="Log In" tabindex="82" /> \
+							<input type="hidden" name="postid" value="' + postid + '" /> \
+							<input type="hidden" name="redirect_to" value="/2012/02/09/what-the-green-maximize-button-does-in-osx-does?year=2012&monthnum=02&day=09&name=what-the-green-maximize-button-does-in-osx-does&like=1" /> \
+							<input type="hidden" name="wpl_rand" value="3b10387e1b" /> \
+							<p>Not a member yet? <a href="http://wordpress.com/signup/?ref=likebox" id="wpl-signup-link">Sign up with WordPress.com</a></p> \
+						</form> \
+					</div> \
+				');
+
+				$('#wpl-mustlogin').hide().slideDown('fast');
+			} );
+
+			$('#wpl-mustlogin input.input').live( 'focus', function() {
+				$(this).prev().hide();
+			}).live( 'blur', function() {
+				if ( $(this).val() == '' ) {
+					$(this).prev().show();
+				}
+			});
+
+			$('#wpl-mustlogin input#wp-submit').live( 'click', function(e) {
+				e.preventDefault();
+
+				$.post( '/wp-admin/admin-ajax.php', {
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_login_submit'
+				}, function() {
+					$('#wpl-mustlogin form').submit();
+				} );
+			});
+
+			$('#wpl-mustlogin a#wpl-signup-link').live( 'click', function(e) {
+				e.preventDefault();
+
+				var link = $(this).attr('href');
+
+				$.post( '/wp-admin/admin-ajax.php', {
+					'action': 'wpl_record_stat',
+					'stat_name': 'loggedout_signup_click'
+				}, function() {
+					location.href = link;
+				} );
+			});
+		})
+	})(jQuery);
+	/* ]]> */
+	</script>
+<script type="text/javascript">
+		WPCOM_sharing_counts = {'/2012/02/09/what-the-green-maximize-button-does-in-osx-does/':'2205'};
+	</script>
+<script>jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });</script> <div style="display:none">
+</div>
+<style type="text/css">.reblog-from img{margin:0 10px 0 0;vertical-align:middle;padding:0;border:0;}.reblogger-note img.avatar{float:left;padding:0;border:0;}.reblogger-note-content{margin:0 0 20px;}.reblog-post .wpcom-enhanced-excerpt-content{border-left:3px solid #eee;padding-left:15px;}.reblog-post ul.thumb-list{display:block;list-style:none;margin:2px 0;padding:0;clear:both;}.reblog-post ul.thumb-list li{display:inline;margin:0;padding:0 1px;border:0;}.reblog-post ul.thumb-list li a{margin:0;padding:0;border:0;}.reblog-post ul.thumb-list li img{margin:0;padding:0;border:0;}.reblog-post .wpcom-enhanced-excerpt{clear:both;}.reblog-post .wpcom-enhanced-excerpt address,.reblog-post .wpcom-enhanced-excerpt li,.reblog-post .wpcom-enhanced-excerpt h1,.reblog-post .wpcom-enhanced-excerpt h2,.reblog-post .wpcom-enhanced-excerpt h3,.reblog-post .wpcom-enhanced-excerpt h4,.reblog-post .wpcom-enhanced-excerpt h5,.reblog-post .wpcom-enhanced-excerpt h6,.reblog-post .wpcom-enhanced-excerpt p{font-size:100%!important;}.reblog-post .wpcom-enhanced-excerpt blockquote,.reblog-post .wpcom-enhanced-excerpt pre,.reblog-post .wpcom-enhanced-excerpt code,.reblog-post .wpcom-enhanced-excerpt q{font-size:98%!important;}</style><script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"http:\/\/nasonurb.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"http:\/\/nasonurb.wordpress.com\/wp-login.php?action=logout&_wpnonce=9b0f14a346","homeURL":"http:\/\/brunosan.eu\/","postID":"2205","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"","userIsLoggedIn":"","isJetpack":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/script.js?m=1340054924g'></script>
+<script type='text/javascript' charset='UTF-8' id='polldaddyRatings'><!--//--><![CDATA[//><!--
+PDRTJS_settings_355747_post_2205={"id":355747,"unique_id":"wp-post-2205","title":"What%20the%20green%20%26%238220%3BMaximize%26%238221%3B%20button%20does%20in%20OSX%20does","permalink":"http:\/\/brunosan.eu\/2012\/02\/09\/what-the-green-maximize-button-does-in-osx-does\/","item_id":"_post_2205"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_355747_post_2205 == 'undefined' ){PDRTJS_355747_post_2205 = new PDRTJS_RATING( PDRTJS_settings_355747_post_2205 );}}PDRTJS_settings_355750_comm_2118={"id":355750,"unique_id":"wp-comment-2118","title":"My%20problem%20with%20this%20button%20is%20that%20I%20don%26%23039%3Bt%20think%20you%20need%20it%20as%20much%20as%20the%20red%20%28close%29%20or%20yellow%20%28minimize%29%20buttons.%20You%20need%20this%20two%20in%20a%20daily%20basis%2C%20but%20do%20you%20really%20need%20to%20return%20to%20%26quot%3Bapp...","permalink":"http:\/\/brunosan.eu\/2012\/02\/09\/what-the-green-maximize-button-does-in-osx-does\/#comment-2118","item_id":"_comm_2118"}; if ( typeof PDRTJS_RATING !== 'undefined' ){if ( typeof PDRTJS_355750_comm_2118 == 'undefined' ){PDRTJS_355750_comm_2118 = new PDRTJS_RATING( PDRTJS_settings_355750_comm_2118 );}}
+//--><!]]></script><script type='text/javascript' charset='UTF-8' src='http://i.polldaddy.com/ratings/rating.js'></script><script type='text/javascript'><!--//--><![CDATA[//><!--
+(function($) { 
+	$('body').on( 'post-load', function(){
+		var ratings = $( 'div.pd-rating[data-settings]' );		
+		var script = "<script type='text/javascript' id='polldaddyDynamicRatings'>";
+		
+		if ( ratings ){
+			$.each( ratings, function() {
+				var rating = $( this ).data( 'settings' );
+				
+				if ( rating ) {	
+					script += "PDRTJS_settings_" + rating['id'] + rating['item_id'] + "=" + rating['settings'] + "; if ( typeof PDRTJS_RATING !== 'undefined' ){ if ( typeof PDRTJS_" + rating['id'] + rating['item_id'] + "=='undefined' ){PDRTJS_" + rating['id'] + rating['item_id'] + "= new PDRTJS_RATING( PDRTJS_settings_" + rating['id'] + rating['item_id'] + " );}}";
+				}			
+			});
+		};
+		
+		script += "</script>";
+$( '#polldaddyRatings' ).after( script );
+});
+})(jQuery);
+//--><!]]></script><script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/post-flair/sharing/sharing.js?m=1337969958g'></script>
+<script type="text/javascript" charset="utf-8">
+		jQuery(document).ready(function(){
+			jQuery( '.share-twitter' ).click(function(){
+				window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+		});
+		</script>
+<script type="text/javascript" charset="utf-8">
+		jQuery(document).ready(function(){
+			jQuery( '.share-facebook' ).click(function(){
+				window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+		});
+		</script>
+<script type="text/javascript" charset="utf-8">
+	function sharing_plusone( obj ) { 
+		jQuery.ajax( {
+			url: '/2012/02/09/what-the-green-maximize-button-does-in-osx-does/?share=google-plus-1',
+			type: 'POST',
+			data: obj
+		} );
+	}
+	</script>
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<div id="sharing_email" style="display: none;">
+<form action="" method="post">
+<label for="target_email">Send to Email Address</label>
+<input type="text" name="target_email" id="target_email" value=""/>
+<label for="source_name">Your Name</label>
+<input type="text" name="source_name" id="source_name" value=""/>
+<label for="source_email">Your Email Address</label>
+<input type="text" name="source_email" id="source_email" value=""/>
+<div class="recaptcha" id="sharing_recaptcha"></div>
+<img style="float: right; display: none" class="loading" src="http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g" alt="loading" width="16" height="16"/>
+<input type="submit" value="Send Email" class="sharing_send"/>
+<a href="#cancel" class="sharing_cancel">Cancel</a>
+<div class="errors errors-1" style="display: none;">
+Post was not sent - check your email addresses! </div>
+<div class="errors errors-2" style="display: none;">
+Email check failed, please try again </div>
+<div class="errors errors-3" style="display: none;">
+Sorry, your blog cannot share posts by email. </div>
+</form>
+</div>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js"></script><script type="text/javascript">try{COMSCORE.beacon({c1:2,c2:7518284});}catch(e){}</script><noscript><p class="robots-nocontent"><img src="http://b.scorecardresearch.com/p?cj=1c1=2&#038;c2=7518284" alt="" style="display:none" width="1" height="1"/></p></noscript><script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'8438084','v':'wpcom','user_id':'0','post':'2205','subd':'nasonurb'});
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGRVYVNrSFguN3FwSmQ5RGtNX3VQcj1yVzhiflM1THQtLGFdQ2toOXYlQjYrMC9LMGRJJjR6ajd1Lm9nQXNlX3B4KyUvbkZmakN3bE9ZeU9DRVNnOHliVWFWNTh2cHdwZC09TWElQkJ5X1srRnNQZndqdltiT2cxeCZLYiw2d2hfZmZwYVlkUzZpM1YxQ051d2FmMENaTmNkU0Qybm5oeCUrZEN4T0FRMzJZJkF4VTFMRHJGYnBQR1J3Wl9dbVs4aFVpcmNKYmNfY1tBU2FfSi55b0F2Z0t0SXNZcCtXVz9lPzFjV0NYT2ssdjRPX3x1Q10yT2taVi9w'});
+addLoadEvent(function(){linktracker_init('8438084',2205);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt=""/></noscript>
+<script type="text/javascript">try{zoomImgs();setInterval(zoomImgs,1000);}catch(e){}</script>
+</body>
+</html>
