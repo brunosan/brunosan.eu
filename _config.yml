@@ -9,7 +9,7 @@ url: http://brunosan.eu/
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   /:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
