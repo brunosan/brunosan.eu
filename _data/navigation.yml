@@ -3,5 +3,8 @@
 - title: Home
   url: /
 
-- title: About
+- title: Work
+  url: /work/
+
+- title: Contact
   url: /about/

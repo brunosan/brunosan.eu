@@ -6,6 +6,8 @@ description: Saepe cadendo.
 logo: site-logo.png
 search: true
 url: http://brunosan.eu/
+url: /
+
 
 # Jekyll configuration
 
@@ -18,6 +20,7 @@ sass:
 gems:
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-redirect-from
 
 kramdown:
   auto_ids: true

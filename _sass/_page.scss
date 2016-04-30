@@ -124,6 +124,17 @@ span + .entry-title {
 	}
 }
 
+
+.worklogo {
+	display: none;
+	@include media($large) {
+		display: block;
+		width: 150px;
+		margin-bottom: 10px;
+		@include clearfix;
+	}
+}
+
 /* author avatar (circular) */
 
 .bio-photo {
