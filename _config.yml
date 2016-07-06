@@ -5,8 +5,7 @@ locale: en_US
 description: Saepe cadendo.
 logo: site-logo.png
 search: true
-url: http://brunosan.eu/
-url: /
+url: http://brunosan.eu
 
 
 # Jekyll configuration
