@@ -39,7 +39,6 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Default extensions
 post_ext: md
-page_ext: md
 
 # Found in _templates/
 post_layout: post
