@@ -37,5 +37,6 @@ Quick tour of a few products we've shipped, and some talks I've given.
 
 * [**NASA Astronomy Picture of the Day**](http://apod.nasa.gov/apod/ap090405.html). We created, at the the time, the highest resolution images of the atmosphere and surface of the Sun. We used interferometric real-time correction plus post-facto speckle image reconstruction. The above movie and similar movies allows students and solar scientists to study how granules and sunspots evolve as well as how magnetic sunspot regions produce powerful solar flares. [*NASA APOD*](http://apod.nasa.gov/apod/ap090405.html)
 
-
-[Full CV](http://brunosan.github.com/cv)
+Full CV:
+<a href="https://www.linkedin.com/pub/bruno-sanchez-andrade-nu%C3%B1o/6/a8b/180" target="_blank">
+<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Bruno Sanchez-Andrade Nuño's profile on LinkedIn"></a>
