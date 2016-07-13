@@ -20,7 +20,7 @@ The swim leg was good. The water was incredibly warm. I do prefer to swim a bit 
 <img width="997" alt="screen shot 2016-07-12 at 5 48 59 pm" src="https://cloud.githubusercontent.com/assets/434029/16784883/f1af01f2-4858-11e6-9faa-752a45cae498.png">
 ![138176-151-015f](https://cloud.githubusercontent.com/assets/434029/16784919/228990da-4859-11e6-9023-b2563b7e59d6.jpg)
 
-Oddly the Sun was raising exactly over the swim exit, and a beautiful sight. T1 was fine, but I did hit a bump with my big toe running out of the water and almost fell down. I had to limp a bit hoping the pain would go away for the run. Every athlete is obsessed how quickly a small injury can screw your race...
+Oddly the Sun was raising exactly over the swim exit, which was a beautiful sight. T1 was fine, but I did hit a bump with my big toe running out of the water and almost fell down. I had to limp a bit hoping the pain would go away for the run. Every athlete is obsessed how quickly a small injury can screw your race...
 
 The Bike was pretty fast, flat and very beautiful across farmland. I was downing basically 1.5 bottles per hour. There seemed to be an accident involving several bikers (could not find outcome or reason) and we had to divert to a slower bike lane for a while. My little rant is that I saw upwards from 20 bottles on the road. Please make sure you bottle secures properly and don´t put normal bottles if they don´t. They will fall typically where speed is highest. My "trick" on the water station was to leave my bottle in the bike, unscrew the top and slid under the tri suit. On the station, take a Gatorade, remove the top and fill my bottle quickly with the new one. Discard the Gatorade, put back top and move on. 1 minute tops.
 
