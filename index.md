@@ -6,7 +6,7 @@ search_omit: false
 
 ![](/images/tv-stage.jpg)
 
-**Bruno Sánchez-Andrade Nuño, PhD** is the technical lead of the Big Data program at the World Bank Innovations Labs. The program accelerates our operations with better or new types of data; and advanced analytics to make of work more cost-efficient, faster and more transparent.
+**Bruno Sánchez-Andrade Nuño, PhD** is the technical lead of the Big Data program at the World Bank Innovations Labs. The program accelerates our operations with better or new types of data; and advanced analytics to make our work more cost-effective, faster and more transparent.
 
 Bruno, awarded [Young Global Leader](https://www.weforum.org/communities/forum-young-global-leaders) by the World Economic Forum, is committed to bring the value of Science and Technology in society at large. Specially interested in the use of technology and data to empower development, sustainability or crisis response.
 
