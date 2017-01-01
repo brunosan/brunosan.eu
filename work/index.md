@@ -3,6 +3,7 @@ layout: page
 excerpt: "Some products we've shipped, and programs we've built."
 ---
 
+![](/media/korea-bigdata.jpg)
 
 Quick tour of a few products we've shipped, and some talks I've given.
 
