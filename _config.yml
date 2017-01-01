@@ -1,74 +1,24 @@
-# Site wide configuration
+safe: false
+encoding: utf-8
+markdown: rdiscount
+highlighter: pygments
+permalink: /:year/:month/:day/:title/
+exclude: ["legacy-imports", "Rakefile", "README.md", "_template.md", "new.rb", "add-filenames-to-posts.sh"]
+multivews: true
 
-title: brunosan.eu
-locale: en_US
-description: Saepe cadendo.
-logo: site-logo.png
-search: true
-url: http://brunosan.eu
+author:    "Bruno Sánchez-Andrade Nuño - brunosan"
+description:    "Bridging the gaps between Science, Technology and Society."
+keywords: "science, technology, outreach, ciencia, tecnologia, divulgacion"
+root_desc:      "Brunosan"
 
 
-# Jekyll configuration
+pullrequesturl : "http://prose.io/#brunosan/brunosan.eu/edit/main/"
+rdiscount:
+  extensions:
+    - autolink      # greedily urlify links
+    - footnotes     # footnotes
+    - smart         # typographic substitutions with SmartyPants
 
-permalink:   /:year/:month/:day/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
+redirects: yes
 gems:
-  - jekyll-sitemap
-  - jekyll-gist
   - jekyll-redirect-from
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
-
-mathjax: true
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
-
-# Octopress
-
-# Default extensions
-post_ext: md
-
-# Found in _templates/
-post_layout: post
-page_layout: page
-
-# Format titles with titlecase?
-titlecase: true
-
-# comments in all posts
-comments: true
-
-# Site owner
-owner:
-  name: Bruno Sánchez-Andrade Nuño
-  avatar: bio-photo.jpg
-  email: brunosan@gmail.com
-  disqus-shortname: brunosan
-  twitter: brunosan
-  facebook: brunosan
-  github: brunosan
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: nasonurb
-  instagram: nasonurb
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics: UA-328064-15
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
