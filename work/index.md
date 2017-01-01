@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: page-notitle
 excerpt: "Some products we've shipped, and programs we've built."
+search_omit: false
 ---
 
 ![](/media/korea-bigdata.jpg)
