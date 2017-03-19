@@ -11,9 +11,9 @@ Quick tour of a few products we've shipped, and some talks I've given.
 
 ### Strategic Consultant
 
-* **Strategic advise to a Global Satellite Communications Operator** on the intersection of their new growth strategy and International Development needs and funding mechanisms.
+* **Strategic advice to a Global Satellite Communications Operator** on the intersection of their new growth strategy and International Development needs and funding mechanisms.
 
-* **Big Data Innovations for the UAE Statistical Innovation Authority** on filtering for relevance to their context and maximizing potential impact in improving government services.
+* **Strategic Big Data advice for the UAE Statistical Innovation Authority** filtering market trends for relevance to their context and maximizing potential impact in improving government services.
 
 * **Commodity operator with global trade** on latest technology innovation on multidimensional dataflow graphs to help optimize field operations, transport and factory processing on a least develop country context.
 
