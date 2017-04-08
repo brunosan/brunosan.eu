@@ -3,11 +3,10 @@ layout: page
 search_omit: false
 ---
 
+[![](/media/cnn-cover.jpg)](https://www.facebook.com/permalink.php?story_fbid=1868408400080946&id=1461488074106316&substory_index=0)
 
-![](/images/tv-stage.jpg)
 
-
-**Bruno Sánchez-Andrade Nuño, Ph.D.** is a strategic scientific advisor, and VP for Social Impact at Satellite operator Satellogic. Bruno is committed to bringing the value of Science and Technology in society at large, especially shifting the value of science away from mostly a body of facts and knowledge, and into very transferable skill-sets and tools to understand complexity, and make better decisions ([Impact Science](http://impact-science.brunosan.eu/) project).
+**Bruno Sánchez-Andrade Nuño, Ph.D.** is a strategic scientific advisor. VP for Social Impact at Satellite operator Satellogic. Bruno is committed to bringing the value of Science and Technology in society at large, especially shifting the value of science away from mostly a body of facts and knowledge, and into very transferable skill-sets and tools to understand complexity, and make better decisions ([Impact Science](http://impact-science.brunosan.eu/) project).
 
 Previously at the World Bank Innovations Lab (and the President's Office), their team led the technical work of Big Data across operations globally. Before the World Bank Bruno was Chief Scientist for the mapping company Mapbox during 10-fold early growth; where he worked building and leading the scientific technical support across the company, and in particular on the Satellite team.
 
