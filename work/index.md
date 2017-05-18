@@ -11,11 +11,12 @@ Quick tour of a few products we've shipped, and some talks I've given.
 
 ### Strategic Consultant
 
-* **Strategic advice to a Global Satellite Communications Operator** on the intersection of their new growth strategy and International Development needs and funding mechanisms.
+* **Strategic advice to a Global Satellite Communications Operator** on the intersection of their new growth strategy and International Development needs and funding mechanisms. Linking and assessing relevance with all the Sustainable Development Goals [SDGs, or Global Goals] and Targets.
 
-* **Strategic Big Data advice for the UAE Statistical Innovation Authority** filtering market trends for relevance to their context and maximizing potential impact in improving government services.
+* **Strategic advice for the UAE Statistical Innovation Authority** as member of the Advisory Board; helping to assess market trends. Our scope is to  localize the opportunities and challenges,  maximizing potential impact in improving government services.
 
-* **Commodity operator with global trade** on latest technology innovation on multidimensional dataflow graphs to help optimize field operations, transport and factory processing on a least develop country context.
+* **Logistics optimization of hazelnuts social for-profit enterprise in Bhutan**. Largest employer after the government, which is more than doubling the income of more than 10k farmers; while preventing soil degradation of fallow lands. Road conditions  in Bhutan offer a set of unique challenges, while the community reach and footprint of the company operations provide the necessary data inputs to create and optimize the collection of the produce. Development, and training, on the necessary data-science tools to feed, connect and optimize best routing to all farmers, and dispatch systems.
+
 
 ### World Bank Group -- Innovation Labs
 
