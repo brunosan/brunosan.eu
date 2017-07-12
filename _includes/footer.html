@@ -38,11 +38,12 @@
 
 
 	{% if site.owner.github %}
-	<a class="github-button" href="https://github.com/brunosan" data-style="mega" data-count-href="/brunosan/followers" data-count-api="/users/brunosan#followers" data-count-aria-label="# followers on GitHub" aria-label="Follow @brunosan on GitHub">Follow @brunosan</a>
+  <a class="github-button" href="https://github.com/brunosan" data-size="large" data-show-count="true" aria-label="Follow @brunosan on GitHub">@brunosan on GitHub</a>
 	</br>{% endif %}
 
 	{% if site.owner.twitter %}
-	<a href="https://twitter.com/{{ site.owner.twitter }}" class="twitter-follow-button" data-show-count="true" data-size="large">{{ site.owner.twitter }} on Twitter</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	<a href="https://twitter.com/{{ site.owner.twitter }}" class="twitter-follow-button" data-show-count="true" data-size="large">{{ site.owner.twitter }} on Twitter</a> 
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 	</br>{% endif %}
 
 	{% if site.owner.facebook %}
