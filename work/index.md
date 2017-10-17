@@ -6,10 +6,10 @@ search_omit: false
 
 ![](/media/korea-bigdata.jpg)
 
-Quick tour of a few products we've shipped, and some talks I've given.
-
 
 ### Strategic Consultant
+
+Transferability of Big Data, AI, Data Science tools and innovation into other domains. E.g.:
 
 * **Strategic advice to a Global Satellite Communications Operator** on the intersection of their new growth strategy and International Development needs and funding mechanisms. Linking and assessing relevance with all the Sustainable Development Goals [SDGs, or Global Goals] and Targets.
 
