@@ -58,7 +58,7 @@ Full CV:
 
 ## Talks and keynotes
 
-Linking related slides, article or blog if available.
+Linking related slides, video, or article if available.
 
 * November 2017. From  Dubai, for the Global Future Council on Space. [Space could be the final frontier for the world's digital divide](https://www.weforum.org/agenda/2017/10/space-satellites-digital-connectivity)
 * November 2017. From Barcelona, at the Symposium on Big Data and Rare Diseases: [Big Data y Enfermedades Raras](https://medium.com/@brunosan/big-data-y-enfermedades-raras-46b5e860dac0)
