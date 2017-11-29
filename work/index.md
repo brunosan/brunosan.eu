@@ -4,11 +4,13 @@ excerpt: "Some products we've shipped, and programs we've built."
 search_omit: false
 ---
 
-![](/media/korea-bigdata.jpg)
+<p align="center">
+<img width="50%"  src="/media/GFC2017s.jpg">
+</p>
 
 [Jump to latest keynotes and talks](#talks-and-keynotes)
 
-### Strategic Consultant
+### Impact Science
 
 Transferability of Big Data, AI, Data Science tools and innovation into other domains. E.g.:
 
