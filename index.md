@@ -6,7 +6,7 @@ search_omit: false
 
 **Bruno Sánchez-Andrade Nuño, Ph.D.** is a strategic scientific advisor, with professional experience in research, private sector, public sector and NGOs. Bruno is committed to bringing the value of "Impact Science" by promoting and practicing the skill-based value of scientists, versus the knowledge-based value. Science is more a set of tools than a body of knowledge.
 
-At Satellogic, as VP for Impact, their team designs, implements and promotes use of high-resolution high-cadence satellites images to contribute progress on the [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). From measuring poverty proxies, improve agricultural yields, or track environmental degradation or climate change impact.
+At Satellogic, as VP for Impact, their team designs, implements and promotes the use of high-resolution high-cadence satellites images to contribute progress on the [Sustainable Development Goals](https://en.wikipedia.org/wiki/Sustainable_Development_Goals). From measuring poverty proxies, improve agricultural yields, or track environmental degradation or climate change impact.
 
 Previously at the Innovations Lab (and the President's Office) of the World Bank, their team led the technical work of Big Data across operations globally. Before, Bruno was Chief Scientist for the mapping company Mapbox during 10-fold early growth; where he worked building and leading the scientific, technical support across the company, and in particular on the Satellite team.
 
