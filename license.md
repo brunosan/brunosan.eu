@@ -17,11 +17,7 @@ Certain pages may also contain comments from 3rd parties, that I don't necessari
 
 
 
-This licensing in no way suggests that I endorse you or your use of the work. Furthermore, I explicitly state the following ***exceptions***:
-
-* None of the original content of this website (to which this licensing applies) may be used to support the believe or faith on any religion of any kind nor [pseudo-sciences](http://en.wikipedia.org/wiki/Pseudoscience) nor [paranormal](http://en.wikipedia.org/wiki/Paranormal) topics.
-* If the cited material refer or show an identifiable person, using that image for commercial purposes may infringe that person's right of privacy, and separate permission should be obtained from the individual.
-
+This licensing in no way suggests that I endorse you or your use of the work. 
 
 If you need to obtain more information, please [contact
 me](mailto:brunosan@gmail.com?Subject=Licensing_for_brunosan.eu).
