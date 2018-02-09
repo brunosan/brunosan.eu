@@ -3,16 +3,16 @@ filename: _posts/blog/2012-07-20-a-heatmap-for-all-your-runs-in-runkeeper.md
 category: blog
 layout: post
 title: A heatmap for all your runs in RunKeeper
-published: true 
+published: true
 tags:
 - map
 - Technology
-- GIS 
+- GIS
 ---
 This is a map of 2 years running around Washington DC with
 [RunKeeper](http://www.runkeeper.com).
-<iframe width='100%' height='500' frameBorder='1px'
-src='http://a.tiles.mapbox.com/v3/brunosan.j36j5lp8.html#12/38.913/-77.046'></iframe>
+
+<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/brunosan.j36j5lp8.html?access_token=pk.eyJ1IjoiYnJ1bm9zYW4iLCJhIjoic3FUc1dJWSJ9.v0525WacYWcsHM1KtbZitg"></iframe>
 
   I always wanted to make a [heat]map with all my tracks. I finally got some time to play with
   [TileMill](http://www.tilemill.com) and [Mapbox](http://www.mapbox.com) to
@@ -88,7 +88,7 @@ lot. Here is the style I used:
   line-width:13;
   line-color:#0c7205;
   line-opacity:0.18;
-  line-smooth:0.6; 
+  line-smooth:0.6;
 }
 #tracks::glow {
   line-width:5;
@@ -108,7 +108,7 @@ in `track::glow`
 Note that I am not putting any base map. The reason is that I want to
 add one of the basemaps MapBox provides. More on this later. While
 styling you might want to add some background, you can do that
-activating the MapBox streets layer plugin (under settings) or adding 
+activating the MapBox streets layer plugin (under settings) or adding
 a quick style only while you play with the styling:
 
 {% highlight css %}
@@ -120,7 +120,7 @@ To activate the tooltip when you put the mouse over the track, you need
 to go to the "Templates" tab (the icon with the hand), then "Teaser".
 Use the drop-down menu to select the only layer ("tracks") as the source
 of data and, under Content write the text. In my case I just use the
-*name* column in the shapefiles: `{{{name}}}` 
+*name* column in the shapefiles: `{{{name}}}`
 
 
 ###Use Mapbox for hosting and base layer.###
@@ -129,7 +129,7 @@ Once styled, it´s very easy to host this layer online with MapBox. I´ll
 also use Mapbox to add a nice base map.
 
 To upload it, you need to authenticate with MapBox under Setting in
-TileMill. 
+TileMill.
 
 <img width="100%" src="/images/TileMill-settings.jpg">
 
