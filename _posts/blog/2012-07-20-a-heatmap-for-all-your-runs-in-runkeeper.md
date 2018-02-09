@@ -27,14 +27,14 @@ your own:
 4. Use Mapbox for hosting and base layer.
 
 
-###Get your data###
+### Get your data ###
 
   Click on "export data" [link](http://runkeeper.com/exportDataForm) under *Settings* page in RunKeeper. Select the dates, you might want all your data so just select a wide range. You´ll get the link on your email in a few minutes.
 
 
   <img src="/images/Runkeeper-export2.jpg" width="100%">
 
-###Import your tracks into TileMile###
+### Import your tracks into TileMile ###
 
 You need first to export the gpx tracks into a Shapefile. I got some
 [help](http://support.mapbox.com/discussions/tilemill/1331-gpx-to-sqlite) from the awesome people at Mapbox and it turns to be as simple as:
@@ -65,7 +65,7 @@ Then click on add layer, select the shapefile with the tracks, and click
 <img width="100%" src="/images/TileMill-addlayer.jpg" >
 
 
-###Style at will.###
+### Style at will. ###
 
 My idea here was to create a heatmap for the routes. The closest thing I
 could think in TileMill is to style the tracks with a wide and very
@@ -123,7 +123,7 @@ of data and, under Content write the text. In my case I just use the
 *name* column in the shapefiles: `{{{name}}}`
 
 
-###Use Mapbox for hosting and base layer.###
+### Use Mapbox for hosting and base layer. ###
 
 Once styled, it´s very easy to host this layer online with MapBox. I´ll
 also use Mapbox to add a nice base map.
