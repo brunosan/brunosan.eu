@@ -62,6 +62,8 @@ Full CV:
 
 Linking related slides, video, or article if available.
 
+* February 2018. [Ignite Madrid [Spanish]](http://ignitemad.es/)
+* December 2017. [Award, "Compromiso Asturias XXI", Honorary member of the Year [ Spanish]](https://youtu.be/yflmMHvzx-c?t=214)
 * November 2017. From  Dubai, for the Global Future Council on Space. [Space could be the final frontier for the world's digital divide](https://www.weforum.org/agenda/2017/10/space-satellites-digital-connectivity)
 * November 2017. From Barcelona, at the Symposium on Big Data and Rare Diseases: [Big Data y Enfermedades Raras](https://medium.com/@brunosan/big-data-y-enfermedades-raras-46b5e860dac0)
 * October 2017. From Madrid at South Summit, ["The Data Revolution"](https://www.youtube.com/watch?v=ozw8NsaRZ3I)
