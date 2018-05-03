@@ -62,7 +62,9 @@ Full CV:
 
 Linking related slides, video, or article if available.
 
-* February 2018. [Ignite Madrid [Spanish]](http://ignitemad.es/)
+* April 2018. [Noreña, Asturias Spain, "Pobreza mundial y la promesa de la revolución digital" [Spanish] ](https://docs.google.com/presentation/d/1kF4UPFX9murPttq5tUfhDyPJTNw06LGhhCKK92ie2UM/edit)
+* April 2018. [World Bank, Washington DC Spring meetings: Satellogic "Open Impact" program](https://docs.google.com/presentation/d/1ehorK1q2bElPByZ3XREs53G2RiJwLz-9akcGRGWDkD0/)
+* February 2018. [Ignite Madrid [Spanish]](https://www.youtube.com/watch?v=AaipS0YO2Is)
 * December 2017. [Award, "Compromiso Asturias XXI", Honorary member of the Year [ Spanish]](https://youtu.be/yflmMHvzx-c?t=214)
 * November 2017. From  Dubai, for the Global Future Council on Space. [Space could be the final frontier for the world's digital divide](https://www.weforum.org/agenda/2017/10/space-satellites-digital-connectivity)
 * November 2017. From Barcelona, at the Symposium on Big Data and Rare Diseases: [Big Data y Enfermedades Raras](https://medium.com/@brunosan/big-data-y-enfermedades-raras-46b5e860dac0)
