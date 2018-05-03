@@ -15,7 +15,7 @@ tags:
 
 One day, I will not be lucky, fit and crazy enough to do a triathlon. That
 day was not today. I did the [Nation´s
-triathlon](http://nationstri.com/) which is an Olympic
+triathlon](https://nationstri.com/) which is an Olympic
 tri: 1.5 km swimming, 40 Km on the bike and 10 Km running.
 
 <!--more-->
@@ -114,7 +114,7 @@ feeling absolutely amazing.
 ![](/images/tri-run.JPG)
 
 
-Turns out my estimate of 3 hours was way off. [My official time](http://nationstri.com/results-2013-results.html#/results:&AthleteSearch=397&Division=All:1378680178590) is 2 hours 34 minutes, an incredible
+Turns out my estimate of 3 hours was way off. [My official time](https://nationstri.com/results-2013-results.html#/results:&AthleteSearch=397&Division=All:1378680178590) is 2 hours 34 minutes, an incredible
 time to me. The swimming was just on par to my best trainings in the pool, the
 bike was the best of my legs, where I *averaged* 35 km/h on a mostly
 flat course. The run was 47 minutes, 7:35 minutes per mile (my record in 10K -only running-

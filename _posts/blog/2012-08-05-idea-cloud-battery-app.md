@@ -47,7 +47,7 @@ it for your commute next day.
 Unfortunately, the app needs to have a version for each OS (Win, OSX, iOS, Android).
 May be you can get around it putting it on a website and use some
 Javascript magic
-to request the battery life. [This already exists, btw](http://www.smartjava.org/content/html5-access-battery-status-through-javascript). The problem is that then you need to use that page as
+to request the battery life. [This already exists, btw](https://www.smartjava.org/content/html5-access-battery-status-through-javascript). The problem is that then you need to use that page as
 home...
 Also the feature to request the battery level to Bluetooth devices might
 not be possible depending on the model.
@@ -83,7 +83,7 @@ battery health for a particular device gets too low.
 
 
 *You don´t want a low battery when you get Aces, do you?*
-<a href="http://www.flickr.com/photos/cjsorg/2769855332/" title="Aces
+<a href="https://www.flickr.com/photos/cjsorg/2769855332/" title="Aces
 and Low Battery by CJ Sorg, on Flickr"><img
-src="http://farm4.staticflickr.com/3143/2769855332_f774ef8530.jpg"
+src="https://farm4.staticflickr.com/3143/2769855332_f774ef8530.jpg"
 width="480" height="320" alt="Aces and Low Battery"></a>

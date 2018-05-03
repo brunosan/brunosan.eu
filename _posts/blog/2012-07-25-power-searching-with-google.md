@@ -10,7 +10,7 @@ tags:
 
 Just got the certificate for my participation in [Power Searching
 with
-Google](http://www.google.com/insidesearch/landing/powersearching.html). (Free and online)
+Google](https://www.google.com/insidesearch/landing/powersearching.html). (Free and online)
 
 * Mid-class assessment score:  100%
 * Post-class assessment score:  100%
@@ -24,17 +24,17 @@ the errors, go back to the indicated lesson.
 
 <!--more-->
 The course material seems closed only to registered folks, but
-[Carolin](http://www.twitter.com/bumsonseats) compiled the
+[Carolin](https://www.twitter.com/bumsonseats) compiled the
 [links to all the
-videos](http://bumsonseats.wordpress.com/2012/07/20/power-searching-with-google-2/).
+videos](https://bumsonseats.wordpress.com/2012/07/20/power-searching-with-google-2/).
 
 
 They also did a Hangout. Just like the course, there is a very thin line
 between what you know and you want to skip, and what you don't know.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/dwlpViuIYgU" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dwlpViuIYgU" frameborder="0"> </iframe>
 
-Interesting how they agree, on the video,  that [Google Instant](http://www.google.com/insidesearch/features/instant/about.html) killed the *I'm feeling
+Interesting how they agree, on the video,  that [Google Instant](https://www.google.com/insidesearch/features/instant/about.html) killed the *I'm feeling
 lucky* button, and the only time it works is to click with an empty search
 term, which leads to the [Google
 Doodle](https://www.google.com/doodles/finder/2012/All%20doodles) page (...)

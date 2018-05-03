@@ -14,7 +14,7 @@ tags:
 (Notice: I was given this book for free with the condition of reviewing it on my
 blog.)
 [<img width="40%" src="/images/cyberwarfarecover.gif "
-class="center">](http://shop.oreilly.com/product/9780596802165.do)
+class="center">](https://shop.oreilly.com/product/9780596802165.do)
 
 
 This book is disappointing and I do not recommend it.
@@ -22,7 +22,7 @@ It seems an uncomprehensive recollection of examples with no real
 insights. His approach is shallow and naive (perhaps
 intentionally so). Yet, it provides interesting pointers to research
 elsewhere.
-The Wikipedia entry on [Cyberwarfare](http://en.wikipedia.org/wiki/Cyberwarfare) is far more relevant and
+The Wikipedia entry on [Cyberwarfare](https://en.wikipedia.org/wiki/Cyberwarfare) is far more relevant and
 updated. 
 
 <!--more-->
@@ -32,7 +32,7 @@ resembles an speculative conspiracy plot. This book is not technical,
 neither I would qualify it as a good policy brief. For a good policy
 overview for the USA I would recommend the (free) NAS report on 
 [Deterring
-Cyberattacks](http://www.nap.edu/catalog.php?record_id=12997).
+Cyberattacks](https://www.nap.edu/catalog.php?record_id=12997).
 
 
 Cyberwarfare moves in the forefront of technology. As technologies
@@ -79,7 +79,7 @@ comprehension.
 
 
 >Disclaimer: this blog post is part of [O’Reilly’s Blogger Review
->Program](http://oreilly.com/bloggers/)
+>Program](https://oreilly.com/bloggers/)
 >where you can get a free ebook or video to review in your blog or
 >website. This doesn’t mean I’ll be less impartial on the content of the
 >review.

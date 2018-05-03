@@ -5,8 +5,8 @@
 
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <!-- sb_home_grid.jsp -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -87,7 +87,7 @@
 
 
 
-<a href="http://www.standardbank.com/History.aspx"><img border="0" src="/portal/images/Standard Bank/StandardBank/static files/SouthAfrica_Header.jpg"/></a>
+<a href="https://www.standardbank.com/History.aspx"><img border="0" src="/portal/images/Standard Bank/StandardBank/static files/SouthAfrica_Header.jpg"/></a>
 
 
  
@@ -130,10 +130,10 @@
 <li class="topBarTab"><a href="/portal/site/standardbank/menuitem.de39772dc9e95ff17fb6a301087d8a0c/?vgnextoid=310d08f82045b210VgnVCM100000c509600aRCRD" class="topBar">Business</a></li>
 <li class="lb">&nbsp;</li>
 
-<li class="topBarTab"><a href="http://corporateandinvestment.standardbank.co.za/sa/" class="topBar">Corporate & Institutions</a></li>
+<li class="topBarTab"><a href="https://corporateandinvestment.standardbank.co.za/sa/" class="topBar">Corporate & Institutions</a></li>
 <li class="lb">&nbsp;</li>
 
-<li class="topBarTab"><a href="javascript:window.open('http://privateclients.standardbank.com/');void(0)" class="topBar">Private Clients</a></li>
+<li class="topBarTab"><a href="javascript:window.open('https://privateclients.standardbank.com/');void(0)" class="topBar">Private Clients</a></li>
 <li class="lb">&nbsp;</li>
 
 <li class="topBarTab"><a href="/portal/site/standardbank/menuitem.de39772dc9e95ff17fb6a301087d8a0c/?vgnextoid=d5a608f82045b210VgnVCM100000c509600aRCRD" class="topBar">About Us</a></li>
@@ -189,7 +189,7 @@
 </div>
 <div class="shortLinks right">
 	
-	<a href="javascript:window.open('http://locator.standardbank.co.za', '', 'width=800,height=720,status=no,location=no,scrollbars=yes,resizable=yes');void(0)" class="crum">Branch and ATM Locator</a>
+	<a href="javascript:window.open('https://locator.standardbank.co.za', '', 'width=800,height=720,status=no,location=no,scrollbars=yes,resizable=yes');void(0)" class="crum">Branch and ATM Locator</a>
 	
 	<span class="navPipe">|</span>
 	
@@ -336,7 +336,7 @@
 				
 				<a class="homepageQLpf" href="javascript:window.open('https://sbibonline.standardbank.co.za','','width=800,height=600,status=yes,location=yes,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');void(0)">Insurance Online</a><br />
 				
-				<a class="homepageQLpf" href="http://lifeinsurance.standardbank.co.za/">Life insurance</a><br />
+				<a class="homepageQLpf" href="https://lifeinsurance.standardbank.co.za/">Life insurance</a><br />
 				
 			</p>
 			<div class="contentLink"><a class="contentlink" href="/portal/site/standardbank/menuitem.61dd696097608f855b8985355c9006a0/?vgnextoid=c84908f82045b210VgnVCM100000c509600aRCRD"> More... </a></div>
@@ -350,7 +350,7 @@
 				
 				<a class="homepageQLpf" href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=0b7808f82045b210VgnVCM100000c509600aRCRD">Interest rates</a><br />
 				
-				<a class="homepageQLpf" href="javascript:window.open('http://ws15.standardbank.co.za/finSnapShot/GetforexServlet');void(0)">Foreign exchange rates</a><br />
+				<a class="homepageQLpf" href="javascript:window.open('https://ws15.standardbank.co.za/finSnapShot/GetforexServlet');void(0)">Foreign exchange rates</a><br />
 				
 				<a class="homepageQLpf" href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=182908f82045b210VgnVCM100000c509600aRCRD">Unit trust prices</a><br />
 				
@@ -364,7 +364,7 @@
 				
 				<a class="homepageQLpf" href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=b991f8bc8f35b210VgnVCM100000c509600aRCRD">Internet banking</a><br />
 				
-				<a class="homepageQLpf" href="http://www.standardbank.co.za/cellphonebanking">Cellphone banking</a><br />
+				<a class="homepageQLpf" href="https://www.standardbank.co.za/cellphonebanking">Cellphone banking</a><br />
 				
 				<a class="homepageQLpf" href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=03f4f8bc8f35b210VgnVCM100000c509600aRCRD">Telephone banking</a><br />
 				
@@ -386,7 +386,7 @@
 						
 
 
-<a href="javascript:window.open('http://www.standardbankarts.co.za/jazz/grahamstown-jazz-festival/about.aspx');void(0)"><img border="0" src="/standimg/Standard Bank/StandardBank/static files/Banners/Personal/Grahamstown Jazz phase4_430x135 NEW.jpg" alt="Carine Bonnefoy headlines Standard Bank Jazz Festival, Grahamstown" /></a>
+<a href="javascript:window.open('https://www.standardbankarts.co.za/jazz/grahamstown-jazz-festival/about.aspx');void(0)"><img border="0" src="/standimg/Standard Bank/StandardBank/static files/Banners/Personal/Grahamstown Jazz phase4_430x135 NEW.jpg" alt="Carine Bonnefoy headlines Standard Bank Jazz Festival, Grahamstown" /></a>
 
 					</div>
 					<div class="vPortLet left">
@@ -422,7 +422,7 @@
 					
 
 
-<a href="http://www.standardbank.co.za/savings"><img border="0" src="/standimg/Standard Bank/StandardBank/static files/Banners/Business/Savings_20Month_20225x155_29062012.gif" alt="Win during Savings Month" /></a>
+<a href="https://www.standardbank.co.za/savings"><img border="0" src="/standimg/Standard Bank/StandardBank/static files/Banners/Business/Savings_20Month_20225x155_29062012.gif" alt="Win during Savings Month" /></a>
 
 				</div>
 				<div class="h4Banner" style="width:230px; padding-bottom:20px;">
@@ -434,15 +434,15 @@
 		<div class="solution">Solutions for you</div>
 		<div class="solutionField">
 		
-			<a href="http://studentachiever.standardbank.co.za/youth/Career/Related-banking-products/Sum1">Youth</a><br />
+			<a href="https://studentachiever.standardbank.co.za/youth/Career/Related-banking-products/Sum1">Youth</a><br />
 		
-			<a href="http://www.standardbank.co.za/studentachiever">Student Achiever</a><br />
+			<a href="https://www.standardbank.co.za/studentachiever">Student Achiever</a><br />
 		
 			<a href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=8613b2e17e35b210VgnVCM100000c509600aRCRD">Graduate and professional banking</a><br />
 		
 			<a href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=948cc3bd5ff26310VgnVCM10000050ddb60aRCRD">Achiever Electronic</a><br />
 		
-			<a href="http://www.standardbank.co.za/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=9c44b2e17e35b210VgnVCM100000c509600aRCRD">Elite banking</a><br />
+			<a href="https://www.standardbank.co.za/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=9c44b2e17e35b210VgnVCM100000c509600aRCRD">Elite banking</a><br />
 		
 			<a href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=a4a4b2e17e35b210VgnVCM100000c509600aRCRD">Prestige banking</a><br />
 		
@@ -476,16 +476,16 @@
 						<option value="https://securities.standardbank.co.za/ost/">Online share trading
 						</option>
 						
-						<option value="http://www.businessonline.standard.co.za/">Business Online
+						<option value="https://www.businessonline.standard.co.za/">Business Online
 						</option>
 						
 						<option value="https://sbibonline.standardbank.co.za/">Insurance Online
 						</option>
 						
-						<option value="http://ws9.standardbank.co.za/forexWebsite/">FX rate portal
+						<option value="https://ws9.standardbank.co.za/forexWebsite/">FX rate portal
 						</option>
 						
-						<option value="http://corporateandinvestment.standardbank.co.za/standardfxtrader/">Standard FX Trader
+						<option value="https://corporateandinvestment.standardbank.co.za/standardfxtrader/">Standard FX Trader
 						</option>
 						
 						<option value="https://secure.stanlib.com/Oss.Web/Default.aspx">Stanlib Online
@@ -519,7 +519,7 @@
 			<div class="subHeader topicList">Tell me about</div>
 			<p class="contentBody">
 			
-			<a href="javascript:window.open('http://www.securitycentre.standardbank.co.za/','','width=800,height=600,status=yes,location=yes,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');void(0)" class="subHeader2">Fraud</a><br />
+			<a href="javascript:window.open('https://www.securitycentre.standardbank.co.za/','','width=800,height=600,status=yes,location=yes,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');void(0)" class="subHeader2">Fraud</a><br />
 			
 			<a href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=6cac08f82045b210VgnVCM100000c509600aRCRD" class="subHeader2">USA Patriot Act</a><br />
 			
@@ -529,15 +529,15 @@
 			
 			<a href="javascript:window.open('https://research.standardbank.com/','','width=800,height=600,status=yes,location=yes,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');void(0)" class="subHeader2">Economic Research</a><br />
 			
-			<a href="javascript:window.open('http://www.standardbank.com/Careers.aspx','','width=800,height=600,status=yes,location=yes,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');void(0)" class="subHeader2">Careers</a><br />
+			<a href="javascript:window.open('https://www.standardbank.com/Careers.aspx','','width=800,height=600,status=yes,location=yes,scrollbars=yes,resizable=yes,toolbar=yes,menubar=yes');void(0)" class="subHeader2">Careers</a><br />
 			
-			<a href="http://www.standardbank.co.za/site/Code_Banking/COBP Final_2012_2.html" class="subHeader2">Code of Banking Practice</a><br />
+			<a href="https://www.standardbank.co.za/site/Code_Banking/COBP Final_2012_2.html" class="subHeader2">Code of Banking Practice</a><br />
 			
-			<a href="http://www.standardbank.com/Ethics.aspx" class="subHeader2">Code of Ethics</a><br />
+			<a href="https://www.standardbank.com/Ethics.aspx" class="subHeader2">Code of Ethics</a><br />
 			
 			<a href="/portal/site/standardbank/menuitem.de435aa54d374eb6fcb695665c9006a0/?vgnextoid=bd76ddfb33ebe210VgnVCM10000050ddb60aRCRD" class="subHeader2">Consumer Protection Act</a><br />
 			
-			<a href="http://www.standardbank.co.za/pdfs/generic/Conflicts%20of%20Interest%20-%20FAIS.pdf" class="subHeader2">The FAIS Conflicts of Interest Policy</a><br />
+			<a href="https://www.standardbank.co.za/pdfs/generic/Conflicts%20of%20Interest%20-%20FAIS.pdf" class="subHeader2">The FAIS Conflicts of Interest Policy</a><br />
 			
 			</p>
 		</div>
@@ -549,7 +549,7 @@
 		</div>
 	
 		<div class="portlet">
-			<div class="newsHeader"><a href="http://www.standardbank.com/Article.aspx?id=-175&src="  target="_blank">Real banking value for our customers</a></div>
+			<div class="newsHeader"><a href="https://www.standardbank.com/Article.aspx?id=-175&src="  target="_blank">Real banking value for our customers</a></div>
 				<p>Standard Bank South Africa has significantly reduced prices across personal current accounts.</p>
 		</div>
 	
@@ -652,7 +652,7 @@
 	
 	<a  class="footertext" href="/vgn-ext-templating/v/index.jsp?vgnextoid=4958166c8045b210VgnVCM100000c509600aRCRD">Site specs</a> |
 	
-	<a target="FooterWindow" class="footertext" href="http://www.securitycentre.standardbank.co.za/">Security centre</a> |
+	<a target="FooterWindow" class="footertext" href="https://www.securitycentre.standardbank.co.za/">Security centre</a> |
 	
 	<a  class="footertext" href="/vgn-ext-templating/v/index.jsp?vgnextoid=defb08f82045b210VgnVCM100000c509600aRCRD">PAIA</a> |
 	
@@ -664,16 +664,16 @@
 </div>
 <div class="right">
 	<span class="movingForward right">&nbsp;</span>
-	<a href="http://www.youtube.com/standardbankgroup" target="_blank" class="right">
+	<a href="https://www.youtube.com/standardbankgroup" target="_blank" class="right">
 		<span class="uTubeIcon">&nbsp;</span>
 	</a> 
-	<a href="http://www.blog.standardbank.com" target="_blank" class="right">
+	<a href="https://www.blog.standardbank.com" target="_blank" class="right">
 		<span class="blogIcon">&nbsp;</span>
 	</a> 
-	<a href="http://twitter.com/standardbankgrp" target="_blank" class="right">
+	<a href="https://twitter.com/standardbankgrp" target="_blank" class="right">
 		<span class="twitterIcon">&nbsp;</span>
 	</a> 
-	<a href="http://www.facebook.com/pages/Standard-Bank/114225512312" target="_blank" class="right">
+	<a href="https://www.facebook.com/pages/Standard-Bank/114225512312" target="_blank" class="right">
 		<span class="faceBookIcon">&nbsp;</span>
 	</a> 
 </div>
@@ -731,7 +731,7 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script type="text/javascript" language="JavaScript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script>
-<noscript><img src="http://accstandardbank.112.2o7.net/b/ss/accstandardbankdev/1/H.24.4--NS/0?[AQB]&cdp=3&[AQE]" height="1" width="1" border="0" alt="" /></noscript>
+<noscript><img src="https://accstandardbank.112.2o7.net/b/ss/accstandardbankdev/1/H.24.4--NS/0?[AQB]&cdp=3&[AQE]" height="1" width="1" border="0" alt="" /></noscript>
 
 
 

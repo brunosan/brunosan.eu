@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
@@ -39,21 +39,21 @@ var page={};var onCondition=function(D,C,A,B){D=D;A=A?Math.min(A,5):5;B=B||100;i
 <meta content="Sign up for Twitter to follow Bruno Sánchez-A Nuño (@brunosan). Science works regardless of what people think, but it´s better when they do." name="description" />
 <meta content="brunosan" name="page-user-screen_name" />
     <title id="page_title">Bruno Sánchez-A Nuño (@brunosan) on Twitter</title>
-    <link href="http://a0.twimg.com/a/1340997209/images/twitter_57.png" rel="apple-touch-icon" />
-<link href="/oexchange.xrd" rel="http://oexchange.org/spec/0.8/rel/related-target" type="application/xrd+xml" />
-<link href="http://a0.twimg.com/a/1340997209/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://a0.twimg.com/a/1340997209/images/twitter_57.png" rel="apple-touch-icon" />
+<link href="/oexchange.xrd" rel="https://oexchange.org/spec/0.8/rel/related-target" type="application/xrd+xml" />
+<link href="https://a0.twimg.com/a/1340997209/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 <link href="https://twitter.com/brunosan" rel="canonical" />
-    <link rel="alternate" href="http://twitter.com/statuses/user_timeline/6637352.rss" title="brunosan's Tweets" type="application/rss+xml" />
-    <link rel="alternate" href="http://twitter.com/favorites/6637352.rss" title="brunosan's Favorites" type="application/rss+xml" />
+    <link rel="alternate" href="https://twitter.com/statuses/user_timeline/6637352.rss" title="brunosan's Tweets" type="application/rss+xml" />
+    <link rel="alternate" href="https://twitter.com/favorites/6637352.rss" title="brunosan's Favorites" type="application/rss+xml" />
   
     
-    <link href="http://a0.twimg.com/a/1340997209/stylesheets/twitter.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
-<link href="http://a0.twimg.com/a/1340997209/stylesheets/geo.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
-<link href="http://a0.twimg.com/a/1340997209/stylesheets/buttons_new.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
+    <link href="https://a0.twimg.com/a/1340997209/stylesheets/twitter.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://a0.twimg.com/a/1340997209/stylesheets/geo.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://a0.twimg.com/a/1340997209/stylesheets/buttons_new.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
     <style type="text/css">
       
         body {
-  background: #9AE4E8 url('http://a0.twimg.com/images/themes/theme1/bg.png') fixed no-repeat;
+  background: #9AE4E8 url('https://a0.twimg.com/images/themes/theme1/bg.png') fixed no-repeat;
 
 }
 
@@ -157,19 +157,19 @@ ul.sidebar-list li a:hover,
 }
 
 ul.sidebar-menu li.loading a {
-  background: #F4FFA6 url('http://a0.twimg.com/a/1340997209/images/spinner.gif') no-repeat 171px 0.5em !important;
+  background: #F4FFA6 url('https://a0.twimg.com/a/1340997209/images/spinner.gif') no-repeat 171px 0.5em !important;
 }
 
 #side .collapsible h2.sidebar-title {
-  background: transparent url('http://a0.twimg.com/a/1340997209/images/toggle_up_dark.png') no-repeat center right !important;
+  background: transparent url('https://a0.twimg.com/a/1340997209/images/toggle_up_dark.png') no-repeat center right !important;
 }
 
 #side .collapsible.collapsed h2.sidebar-title {
-  background: transparent url('http://a0.twimg.com/a/1340997209/images/toggle_down_dark.png') no-repeat center right !important;
+  background: transparent url('https://a0.twimg.com/a/1340997209/images/toggle_down_dark.png') no-repeat center right !important;
 }
 
 #side ul.lists-links li a em {
-  background: url('http://a0.twimg.com/a/1340997209/images/arrow_right_dark.png') no-repeat left top;
+  background: url('https://a0.twimg.com/a/1340997209/images/arrow_right_dark.png') no-repeat left top;
 }
 
 #side span.pipe {
@@ -192,7 +192,7 @@ a.edit-list {
       
       
     </style>
-      <link href="http://a0.twimg.com/a/1340997209/stylesheets/following.css?1340729677" media="screen, projection" rel="stylesheet" type="text/css" />
+      <link href="https://a0.twimg.com/a/1340997209/stylesheets/following.css?1340729677" media="screen, projection" rel="stylesheet" type="text/css" />
 
   </head>
 
@@ -208,7 +208,7 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
     <div id="dim-screen"></div>
     <ul id="accessibility" class="offscreen">
   <li><a href="#content" accesskey="0">Skip past navigation</a></li>
-  <li>On a mobile phone? Check out <a href="http://m.twitter.com/">m.twitter.com</a>!</li>
+  <li>On a mobile phone? Check out <a href="https://m.twitter.com/">m.twitter.com</a>!</li>
   <li><a href="#footer" accesskey="2">Skip to navigation</a></li>
     <li><a href="#signin">Skip to sign in form</a></li>
 </ul>
@@ -219,11 +219,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
     
 
     <div id="container" class="subpage">
-            <span id="loader" style="display:none"><img alt="Loader" src="http://a0.twimg.com/a/1340997209/images/loader.gif" /></span>
+            <span id="loader" style="display:none"><img alt="Loader" src="https://a0.twimg.com/a/1340997209/images/loader.gif" /></span>
       
         <div class="clearfix" id="header">
-  <a href="http://twitter.com/" title="Twitter / Home" accesskey="1" id="logo">
-          <img alt="Twitter.com" src="http://a0.twimg.com/a/1340997209/images/twitter_logo_header.png" />    
+  <a href="https://twitter.com/" title="Twitter / Home" accesskey="1" id="logo">
+          <img alt="Twitter.com" src="https://a0.twimg.com/a/1340997209/images/twitter_logo_header.png" />    
   </a>
             <form method="post" id="sign_out_form" action="/sessions/destroy" style="display:none;">
         <input name="authenticity_token" value="d4386c2c0bd251fb06898ea1966644e3f2c0497b" type="hidden"/>
@@ -448,7 +448,7 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
   <div class="profile-user">
     <div id="user_6637352" class="user ">
       <h2 class="thumb clearfix">
-        <a href="/account/profile_image/brunosan?hreflang=en"><img alt="" border="0" height="73" id="profile-image" src="http://a0.twimg.com/profile_images/1767025542/27746_502295471083_239200025_5189_5328357_n_bigger.jpeg" valign="middle" width="73" /></a>
+        <a href="/account/profile_image/brunosan?hreflang=en"><img alt="" border="0" height="73" id="profile-image" src="https://a0.twimg.com/profile_images/1767025542/27746_502295471083_239200025_5189_5328357_n_bigger.jpeg" valign="middle" width="73" /></a>
         <div class="screen-name">brunosan</div>
       </h2>
     </div>
@@ -468,12 +468,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="http://t.co/cIlY0GBg" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">espn.go.com/watchespn/play…</a></span>
+                  <span class="entry-content">Hilarity. You can call any play of the Spain match with this feed 8 seconds ahead of the tv. <a href="https://t.co/cIlY0GBg" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">espn.go.com/watchespn/play…</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/219512842490089477">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/219512842490089477">
     <span class="published timestamp" data="{time:'Sun Jul 01 19:28:34 +0000 2012'}">about 7 hours ago</span></a>
-  <span>via <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
+  <span>via <a href="https://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
     
   </span>
 
@@ -485,12 +485,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Spent the last 5 hours porting my <a href="http://t.co/mWhJZRch" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">Wordpress.com</a> blog brunosan.eu into Jekyll. So much code cleaning still to do. Hope it´s worth!</span>
+                  <span class="entry-content">Spent the last 5 hours porting my <a href="https://t.co/mWhJZRch" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">Wordpress.com</a> blog brunosan.eu into Jekyll. So much code cleaning still to do. Hope it´s worth!</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/219351571572596736">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/219351571572596736">
     <span class="published timestamp" data="{time:'Sun Jul 01 08:47:44 +0000 2012'}">about 18 hours ago</span></a>
-  <span>via <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
+  <span>via <a href="https://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
     
   </span>
 
@@ -505,11 +505,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
                   <span class="entry-content">@<a class="tweet-url username" href="/zugaldia" rel="nofollow">zugaldia</a> I know the feeling. buy it and watch it via browser… crazy, but it works.</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/219182410686922752">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/219182410686922752">
     <span class="published timestamp" data="{time:'Sat Jun 30 21:35:33 +0000 2012'}">2:35 PM Jun 30th</span></a>
-  <span>via <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
+  <span>via <a href="https://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
     
-  <a href="http://twitter.com/zugaldia/status/219180651595825152">in reply to zugaldia</a></span>
+  <a href="https://twitter.com/zugaldia/status/219180651595825152">in reply to zugaldia</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -519,12 +519,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Remember to put your clocks back tonight. <a href="http://t.co/SlNnUrdQ" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">bsan.eu/LN1MRb</a></span>
+                  <span class="entry-content">Remember to put your clocks back tonight. <a href="https://t.co/SlNnUrdQ" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">bsan.eu/LN1MRb</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/219182094629347329">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/219182094629347329">
     <span class="published timestamp" data="{time:'Sat Jun 30 21:34:18 +0000 2012'}">2:34 PM Jun 30th</span></a>
-  <span>via <a href="http://bufferapp.com" rel="nofollow">Buffer</a></span>
+  <span>via <a href="https://bufferapp.com" rel="nofollow">Buffer</a></span>
     
   </span>
 
@@ -539,11 +539,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
                   <span class="entry-content">@<a class="tweet-url username" href="/wonderchook" rel="nofollow">wonderchook</a> a 1 billion $ dance. Some things are priceless :)</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/219089640353824768">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/219089640353824768">
     <span class="published timestamp" data="{time:'Sat Jun 30 15:26:55 +0000 2012'}">8:26 AM Jun 30th</span></a>
-  <span>via <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
+  <span>via <a href="https://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
     
-  <a href="http://twitter.com/wonderchook/status/219088919889846272">in reply to wonderchook</a></span>
+  <a href="https://twitter.com/wonderchook/status/219088919889846272">in reply to wonderchook</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -555,11 +555,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
     <span class="status-content">
                   <span class="entry-content">A 1 billion $ company down for the same storm I danced under last night. Life is ironic.</span>
           </span>
-    <span class="meta entry-meta" data='{"place_id":"01fbe706f872cb32","latlng":[38.92186639,-77.04477338],"avatar_url":"http:\/\/a0.twimg.com\/profile_images\/1767025542\/27746_502295471083_239200025_5189_5328357_n_mini.jpeg"}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/219086081855987713">
+    <span class="meta entry-meta" data='{"place_id":"01fbe706f872cb32","latlng":[38.92186639,-77.04477338],"avatar_url":"https:\/\/a0.twimg.com\/profile_images\/1767025542\/27746_502295471083_239200025_5189_5328357_n_mini.jpeg"}'>
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/219086081855987713">
     <span class="published timestamp" data="{time:'Sat Jun 30 15:12:46 +0000 2012'}">8:12 AM Jun 30th</span></a>
-  <span>via <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
-  from <a href="http://maps.google.com/maps?q=38.92186639,-77.04477338" class="geocoded_google_link" target="_blank">Washington, DC&nbsp;<span class='geo-pin'>&nbsp;</span></a>  
+  <span>via <a href="https://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
+  from <a href="https://maps.google.com/maps?q=38.92186639,-77.04477338" class="geocoded_google_link" target="_blank">Washington, DC&nbsp;<span class='geo-pin'>&nbsp;</span></a>  
   </span>
 
         <ul class="meta-data clearfix">
@@ -570,14 +570,14 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">@<a class="tweet-url username" href="/fwdmedia" rel="nofollow">fwdmedia</a> @<a class="tweet-url username" href="/zugaldia" rel="nofollow">zugaldia</a> a killer app would be passive voice recognition + <a href="http://t.co/MVW7PGIP" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">hypothes.is</a> let´s call it BSD, D for &quot;detector&quot; :)</span>
+                  <span class="entry-content">@<a class="tweet-url username" href="/fwdmedia" rel="nofollow">fwdmedia</a> @<a class="tweet-url username" href="/zugaldia" rel="nofollow">zugaldia</a> a killer app would be passive voice recognition + <a href="https://t.co/MVW7PGIP" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">hypothes.is</a> let´s call it BSD, D for &quot;detector&quot; :)</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/219068783019565056">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/219068783019565056">
     <span class="published timestamp" data="{time:'Sat Jun 30 14:04:02 +0000 2012'}">7:04 AM Jun 30th</span></a>
-  <span>via <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
+  <span>via <a href="https://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
     
-  <a href="http://twitter.com/fwdmedia/status/219062083168382976">in reply to fwdmedia</a></span>
+  <a href="https://twitter.com/fwdmedia/status/219062083168382976">in reply to fwdmedia</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -587,12 +587,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Beatiful. RT @<a class="tweet-url username" href="/NASA" rel="nofollow">NASA</a>: <a href="/search?q=%23ISS" title="#ISS" class="tweet-url hashtag" rel="nofollow">#ISS</a> @<a class="tweet-url username" href="/astro_Pettit" rel="nofollow">astro_Pettit</a> shares a poem about his imminent return to Earth.  <a href="http://t.co/h6MSRaCe" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">go.nasa.gov/L8ghij</a></span>
+                  <span class="entry-content">Beatiful. RT @<a class="tweet-url username" href="/NASA" rel="nofollow">NASA</a>: <a href="/search?q=%23ISS" title="#ISS" class="tweet-url hashtag" rel="nofollow">#ISS</a> @<a class="tweet-url username" href="/astro_Pettit" rel="nofollow">astro_Pettit</a> shares a poem about his imminent return to Earth.  <a href="https://t.co/h6MSRaCe" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">go.nasa.gov/L8ghij</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/218805226491215873">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/218805226491215873">
     <span class="published timestamp" data="{time:'Fri Jun 29 20:36:45 +0000 2012'}">1:36 PM Jun 29th</span></a>
-  <span>via <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
+  <span>via <a href="https://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
     
   </span>
 
@@ -604,12 +604,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">.@<a class="tweet-url username" href="/techatstate" rel="nofollow">techatstate</a> just sent the ugliest email, ever. You surely did not intend this. :/ <a href="http://t.co/omFj4uYY" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">twitter.com/brunosan/statu…</a></span>
+                  <span class="entry-content">.@<a class="tweet-url username" href="/techatstate" rel="nofollow">techatstate</a> just sent the ugliest email, ever. You surely did not intend this. :/ <a href="https://t.co/omFj4uYY" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">twitter.com/brunosan/statu…</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/218726304374198272">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/218726304374198272">
     <span class="published timestamp" data="{time:'Fri Jun 29 15:23:09 +0000 2012'}">8:23 AM Jun 29th</span></a>
-  <span>via <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
+  <span>via <a href="https://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
     
   </span>
 
@@ -621,12 +621,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content"><a href="/search?q=%23c4cnewseum" title="#c4cnewseum" class="tweet-url hashtag" rel="nofollow">#c4cnewseum</a> This Juliani is a master. A kenian rap concert to an audience sitting down. Keep it up!  <a href="http://t.co/ZigktRy0" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">instagr.am/p/McDxJRQB6w/</a></span>
+                  <span class="entry-content"><a href="/search?q=%23c4cnewseum" title="#c4cnewseum" class="tweet-url hashtag" rel="nofollow">#c4cnewseum</a> This Juliani is a master. A kenian rap concert to an audience sitting down. Keep it up!  <a href="https://t.co/ZigktRy0" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">instagr.am/p/McDxJRQB6w/</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/218508438295158784">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/218508438295158784">
     <span class="published timestamp" data="{time:'Fri Jun 29 00:57:26 +0000 2012'}">5:57 PM Jun 28th</span></a>
-  <span>via <a href="http://instagr.am" rel="nofollow">Instagram</a></span>
+  <span>via <a href="https://instagr.am" rel="nofollow">Instagram</a></span>
     
   </span>
 
@@ -641,9 +641,9 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
                   <span class="entry-content"><a href="/search?q=%23c4cnewseum" title="#c4cnewseum" class="tweet-url hashtag" rel="nofollow">#c4cnewseum</a> We don't live as sustainable as we can practically can. Information is not the only thing we need.</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/218503339762135040">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/218503339762135040">
     <span class="published timestamp" data="{time:'Fri Jun 29 00:37:10 +0000 2012'}">5:37 PM Jun 28th</span></a>
-  <span>via <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
+  <span>via <a href="https://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
     
   </span>
 
@@ -655,12 +655,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">I predicted and described Google Now 2 years ago. Suprised it took so long. :/ <a href="http://t.co/srYUymbo" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">brunosan.eu/2010/11/27/ide…</a></span>
+                  <span class="entry-content">I predicted and described Google Now 2 years ago. Suprised it took so long. :/ <a href="https://t.co/srYUymbo" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">brunosan.eu/2010/11/27/ide…</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/218337191556952064">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/218337191556952064">
     <span class="published timestamp" data="{time:'Thu Jun 28 13:36:57 +0000 2012'}">6:36 AM Jun 28th</span></a>
-  <span>via <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
+  <span>via <a href="https://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
     
   </span>
 
@@ -675,11 +675,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
                   <span class="entry-content">@<a class="tweet-url username" href="/zugaldia" rel="nofollow">zugaldia</a> lo siento por @<a class="tweet-url username" href="/Swiftkey" rel="nofollow">Swiftkey</a> pero ya era hora. Ídem con facetime</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/218047555303522304">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/218047555303522304">
     <span class="published timestamp" data="{time:'Wed Jun 27 18:26:02 +0000 2012'}">11:26 AM Jun 27th</span></a>
-  <span>via <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
+  <span>via <a href="https://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
     
-  <a href="http://twitter.com/zugaldia/status/218023729752588288">in reply to zugaldia</a></span>
+  <a href="https://twitter.com/zugaldia/status/218023729752588288">in reply to zugaldia</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -689,12 +689,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Today we're presenting the GAIN Index at @<a class="tweet-url username" href="/usaid" rel="nofollow">usaid</a>. <a href="http://t.co/na2TiuNU" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">instagr.am/p/MYwE5IQB7K/</a></span>
+                  <span class="entry-content">Today we're presenting the GAIN Index at @<a class="tweet-url username" href="/usaid" rel="nofollow">usaid</a>. <a href="https://t.co/na2TiuNU" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">instagr.am/p/MYwE5IQB7K/</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/218042830688485376">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/218042830688485376">
     <span class="published timestamp" data="{time:'Wed Jun 27 18:07:16 +0000 2012'}">11:07 AM Jun 27th</span></a>
-  <span>via <a href="http://instagr.am" rel="nofollow">Instagram</a></span>
+  <span>via <a href="https://instagr.am" rel="nofollow">Instagram</a></span>
     
   </span>
 
@@ -706,12 +706,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">NASA James Hansen: &quot;Why I must speak out about climate change&quot; <a href="/search?q=%23TED" title="#TED" class="tweet-url hashtag" rel="nofollow">#TED</a> <a href="http://t.co/o5CTVPkf" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">bsan.eu/LyYAqh</a></span>
+                  <span class="entry-content">NASA James Hansen: &quot;Why I must speak out about climate change&quot; <a href="/search?q=%23TED" title="#TED" class="tweet-url hashtag" rel="nofollow">#TED</a> <a href="https://t.co/o5CTVPkf" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">bsan.eu/LyYAqh</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/218010722410577920">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/218010722410577920">
     <span class="published timestamp" data="{time:'Wed Jun 27 15:59:41 +0000 2012'}">8:59 AM Jun 27th</span></a>
-  <span>via <a href="http://bufferapp.com" rel="nofollow">Buffer</a></span>
+  <span>via <a href="https://bufferapp.com" rel="nofollow">Buffer</a></span>
     
   </span>
 
@@ -724,11 +724,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
       <span class="status-body">
               <span class="big-retweet-icon" title="Retweets from people you follow appear in your timeline."></span>
-                    <strong><a href="http://twitter.com/krmaher" class="tweet-url screen-name">krmaher</a></strong>
+                    <strong><a href="https://twitter.com/krmaher" class="tweet-url screen-name">krmaher</a></strong>
         
-                  <span class="entry-content">Rio+20: The longest suicide note in history. <a href="http://t.co/16gFj9fc" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">rendezvous.blogs.nytimes.com/2012/06/24/u-n…</a> And how much did that multilateral failure cost us?</span>
+                  <span class="entry-content">Rio+20: The longest suicide note in history. <a href="https://t.co/16gFj9fc" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">rendezvous.blogs.nytimes.com/2012/06/24/u-n…</a> And how much did that multilateral failure cost us?</span>
             <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/krmaher/status/216874989704585216">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/krmaher/status/216874989704585216">
     <span class="published timestamp" data="{time:'Sun Jun 24 12:46:41 +0000 2012'}">5:46 AM Jun 24th</span></a>
   <span>via web</span>
     
@@ -746,12 +746,12 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">The Newsroom: &quot;What makes America the greatest country in the world&quot;. &quot;It´s not&quot;.  <a href="http://t.co/ewplXBN5" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">bsan.eu/LyG6Iq</a></span>
+                  <span class="entry-content">The Newsroom: &quot;What makes America the greatest country in the world&quot;. &quot;It´s not&quot;.  <a href="https://t.co/ewplXBN5" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">bsan.eu/LyG6Iq</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/217966288549588994">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/217966288549588994">
     <span class="published timestamp" data="{time:'Wed Jun 27 13:03:07 +0000 2012'}">6:03 AM Jun 27th</span></a>
-  <span>via <a href="http://bufferapp.com" rel="nofollow">Buffer</a></span>
+  <span>via <a href="https://bufferapp.com" rel="nofollow">Buffer</a></span>
     
   </span>
 
@@ -766,11 +766,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
                   <span class="entry-content">@<a class="tweet-url username" href="/reizv0LL" rel="nofollow">reizv0LL</a> Gracias! Careful what you wish, you might get it ;) Just be curious and follow your passion wherever it leads. That´s what I do.</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/217777354779537408">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/217777354779537408">
     <span class="published timestamp" data="{time:'Wed Jun 27 00:32:22 +0000 2012'}">5:32 PM Jun 26th</span></a>
-  <span>via <a href="http://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
+  <span>via <a href="https://www.tweetdeck.com" rel="nofollow">TweetDeck</a></span>
     
-  <a href="http://twitter.com/reizv0LL/status/217758547038056449">in reply to reizv0LL</a></span>
+  <a href="https://twitter.com/reizv0LL/status/217758547038056449">in reply to reizv0LL</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -783,11 +783,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
                   <span class="entry-content">@<a class="tweet-url username" href="/reizv0LL" rel="nofollow">reizv0LL</a> :) used to do astrophysics, now climate change adaptation, with policy ties. I just love science and getting people to use it. Why</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/217671092842676225">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/217671092842676225">
     <span class="published timestamp" data="{time:'Tue Jun 26 17:30:07 +0000 2012'}">10:30 AM Jun 26th</span></a>
-  <span>via <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
+  <span>via <a href="https://twitter.com/download/android" rel="nofollow">Twitter for Android</a></span>
     
-  <a href="http://twitter.com/reizv0LL/status/217647461823557634">in reply to reizv0LL</a></span>
+  <a href="https://twitter.com/reizv0LL/status/217647461823557634">in reply to reizv0LL</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -797,13 +797,13 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Rio+20. Where the &quot;side events&quot; are the main event <a href="http://t.co/5pfdJeEg" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">wp.me/pzp88-DM</a></span>
+                  <span class="entry-content">Rio+20. Where the &quot;side events&quot; are the main event <a href="https://t.co/5pfdJeEg" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">wp.me/pzp88-DM</a></span>
           </span>
-    <span class="meta entry-meta" data='{"place_id":"01fbe706f872cb32","latlng":[38.910000,-77.018000],"avatar_url":"http:\/\/a0.twimg.com\/profile_images\/1767025542\/27746_502295471083_239200025_5189_5328357_n_mini.jpeg"}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/brunosan/status/217647162266370050">
+    <span class="meta entry-meta" data='{"place_id":"01fbe706f872cb32","latlng":[38.910000,-77.018000],"avatar_url":"https:\/\/a0.twimg.com\/profile_images\/1767025542\/27746_502295471083_239200025_5189_5328357_n_mini.jpeg"}'>
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/brunosan/status/217647162266370050">
     <span class="published timestamp" data="{time:'Tue Jun 26 15:55:01 +0000 2012'}">8:55 AM Jun 26th</span></a>
-  <span>via <a href="http://publicize.wp.com/" rel="nofollow">WordPress.com</a></span>
-  from <a href="http://maps.google.com/maps?q=38.910000,-77.018000" class="geocoded_google_link" target="_blank">Washington, DC&nbsp;<span class='geo-pin'>&nbsp;</span></a>  
+  <span>via <a href="https://publicize.wp.com/" rel="nofollow">WordPress.com</a></span>
+  from <a href="https://maps.google.com/maps?q=38.910000,-77.018000" class="geocoded_google_link" target="_blank">Washington, DC&nbsp;<span class='geo-pin'>&nbsp;</span></a>  
   </span>
 
         <ul class="meta-data clearfix">
@@ -838,7 +838,7 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
       
         <li><span class="label">Name</span> <span class="fn">Bruno Sánchez-A Nuño</span></li>
                   <li><span class="label">Location</span> <span class="adr">Washington DC</span></li>
-                          <li><span class="label">Web</span> <a href="http://www.brunosan.eu" class="url" rel="me nofollow" target="_blank">http://www.brunos...</a></li>
+                          <li><span class="label">Web</span> <a href="https://www.brunosan.eu" class="url" rel="me nofollow" target="_blank">https://www.brunos...</a></li>
                           <li id="bio"><span class="label">Bio</span> <span class="bio">Science works regardless of what people think, but it´s better when they do.</span></li>
               
     </ul>
@@ -885,7 +885,7 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 
   <ul id="primary_nav" class="sidebar-menu">
     <li id="profile_tab"><a href="/brunosan" accesskey="u"><span id="update_count" class="stat_count">3,725</span><span>Tweets</span></a></li>
-    <li id="profile_favorites_tab"><a href="http://twitter.com/brunosan/favorites" accesskey="f"><span>Favorites</span></a></li>
+    <li id="profile_favorites_tab"><a href="https://twitter.com/brunosan/favorites" accesskey="f"><span>Favorites</span></a></li>
   </ul>
 
 
@@ -896,14 +896,14 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
       <h2 class="sidebar-title"><span>Lists</span></h2>
       
         <ul class="sidebar-menu lists-links">
-          <li><a href="/brunosan/usa" class="list_62977600" data="&#123;&quot;dispatch_action&quot;:&quot;list&quot;,&quot;name&quot;:&quot;USA&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@brunosan\/usa&quot;,&quot;description&quot;:&quot;A filtered list of the people I follow - See the shuffle here http:\/\/goo.gl\/uWVNx&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;brunosan&quot;,&quot;slug&quot;:&quot;usa&quot;,&quot;member_count&quot;:83,&quot;created_at&quot;:&quot;Fri Jan 13 15:02:14 +0000 2012&quot;,&quot;uri&quot;:&quot;\/brunosan\/usa&quot;,&quot;subscriber_count&quot;:4,&quot;id&quot;:62977600,&quot;id_str&quot;:&quot;62977600&quot;&#125;" title="@brunosan/USA"><span>@brunosan/<wbr/><b>usa</b></span></a></li>
-<li><a href="/brunosan/spain" class="list_62977460" data="&#123;&quot;dispatch_action&quot;:&quot;list&quot;,&quot;name&quot;:&quot;Spain&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@brunosan\/spain&quot;,&quot;description&quot;:&quot;A filtered list of the people I follow - See the shuffle here http:\/\/goo.gl\/E2H2Q&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;brunosan&quot;,&quot;slug&quot;:&quot;spain&quot;,&quot;member_count&quot;:23,&quot;created_at&quot;:&quot;Fri Jan 13 15:00:34 +0000 2012&quot;,&quot;uri&quot;:&quot;\/brunosan\/spain&quot;,&quot;subscriber_count&quot;:0,&quot;id&quot;:62977460,&quot;id_str&quot;:&quot;62977460&quot;&#125;" title="@brunosan/Spain"><span>@brunosan/<wbr/><b>spain</b></span></a></li>
-<li><a href="/brunosan/conversationlist" class="list_62977322" data="&#123;&quot;dispatch_action&quot;:&quot;list&quot;,&quot;name&quot;:&quot;conversationlist&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@brunosan\/conversationlist&quot;,&quot;description&quot;:&quot;Dynamic list rebuilt daily @ http:\/\/conversationlist.com of the people you are talking to &amp; about.&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;brunosan&quot;,&quot;slug&quot;:&quot;conversationlist&quot;,&quot;member_count&quot;:23,&quot;created_at&quot;:&quot;Fri Jan 13 14:58:26 +0000 2012&quot;,&quot;uri&quot;:&quot;\/brunosan\/conversationlist&quot;,&quot;subscriber_count&quot;:0,&quot;id&quot;:62977322,&quot;id_str&quot;:&quot;62977322&quot;&#125;" title="@brunosan/conversationlist"><span>@brunosan/<wbr/><b>conversationlist</b></span></a></li>
+          <li><a href="/brunosan/usa" class="list_62977600" data="&#123;&quot;dispatch_action&quot;:&quot;list&quot;,&quot;name&quot;:&quot;USA&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@brunosan\/usa&quot;,&quot;description&quot;:&quot;A filtered list of the people I follow - See the shuffle here https:\/\/goo.gl\/uWVNx&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;brunosan&quot;,&quot;slug&quot;:&quot;usa&quot;,&quot;member_count&quot;:83,&quot;created_at&quot;:&quot;Fri Jan 13 15:02:14 +0000 2012&quot;,&quot;uri&quot;:&quot;\/brunosan\/usa&quot;,&quot;subscriber_count&quot;:4,&quot;id&quot;:62977600,&quot;id_str&quot;:&quot;62977600&quot;&#125;" title="@brunosan/USA"><span>@brunosan/<wbr/><b>usa</b></span></a></li>
+<li><a href="/brunosan/spain" class="list_62977460" data="&#123;&quot;dispatch_action&quot;:&quot;list&quot;,&quot;name&quot;:&quot;Spain&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@brunosan\/spain&quot;,&quot;description&quot;:&quot;A filtered list of the people I follow - See the shuffle here https:\/\/goo.gl\/E2H2Q&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;brunosan&quot;,&quot;slug&quot;:&quot;spain&quot;,&quot;member_count&quot;:23,&quot;created_at&quot;:&quot;Fri Jan 13 15:00:34 +0000 2012&quot;,&quot;uri&quot;:&quot;\/brunosan\/spain&quot;,&quot;subscriber_count&quot;:0,&quot;id&quot;:62977460,&quot;id_str&quot;:&quot;62977460&quot;&#125;" title="@brunosan/Spain"><span>@brunosan/<wbr/><b>spain</b></span></a></li>
+<li><a href="/brunosan/conversationlist" class="list_62977322" data="&#123;&quot;dispatch_action&quot;:&quot;list&quot;,&quot;name&quot;:&quot;conversationlist&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@brunosan\/conversationlist&quot;,&quot;description&quot;:&quot;Dynamic list rebuilt daily @ https:\/\/conversationlist.com of the people you are talking to &amp; about.&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;brunosan&quot;,&quot;slug&quot;:&quot;conversationlist&quot;,&quot;member_count&quot;:23,&quot;created_at&quot;:&quot;Fri Jan 13 14:58:26 +0000 2012&quot;,&quot;uri&quot;:&quot;\/brunosan\/conversationlist&quot;,&quot;subscriber_count&quot;:0,&quot;id&quot;:62977322,&quot;id_str&quot;:&quot;62977322&quot;&#125;" title="@brunosan/conversationlist"><span>@brunosan/<wbr/><b>conversationlist</b></span></a></li>
 <li><a href="/brunosan/friends" class="list_49518390" data="&#123;&quot;dispatch_action&quot;:&quot;list&quot;,&quot;name&quot;:&quot;Friends&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@brunosan\/friends&quot;,&quot;description&quot;:&quot;&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;brunosan&quot;,&quot;slug&quot;:&quot;friends&quot;,&quot;member_count&quot;:59,&quot;created_at&quot;:&quot;Thu Jul 07 19:00:39 +0000 2011&quot;,&quot;uri&quot;:&quot;\/brunosan\/friends&quot;,&quot;subscriber_count&quot;:0,&quot;id&quot;:49518390,&quot;id_str&quot;:&quot;49518390&quot;&#125;" title="@brunosan/Friends"><span>@brunosan/<wbr/><b>friends</b></span></a></li>
 <li><a href="/brunosan/mirzayan-2010-fall" class="list_33131399" data="&#123;&quot;dispatch_action&quot;:&quot;list&quot;,&quot;name&quot;:&quot;Mirzayan 2010 Fall&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@brunosan\/mirzayan-2010-fall&quot;,&quot;description&quot;:&quot;&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;user&quot;:&quot;brunosan&quot;,&quot;slug&quot;:&quot;mirzayan-2010-fall&quot;,&quot;member_count&quot;:4,&quot;created_at&quot;:&quot;Thu Jan 06 23:17:52 +0000 2011&quot;,&quot;uri&quot;:&quot;\/brunosan\/mirzayan-2010-fall&quot;,&quot;subscriber_count&quot;:0,&quot;id&quot;:33131399,&quot;id_str&quot;:&quot;33131399&quot;&#125;" title="@brunosan/Mirzayan 2010 Fall"><span>@brunosan/<wbr/><b>mirzayan-2010-fall</b></span></a></li>
         </ul>
         <p class="sidebar-menu sidebar-menu-actions">
-          <span class="view-all"><a href="http://twitter.com/brunosan/lists">View all</a></span>
+          <span class="view-all"><a href="https://twitter.com/brunosan/lists">View all</a></span>
         </p>
           </div>
       
@@ -918,147 +918,147 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
   <div id="following_list">
     
   <span class="vcard">
-    <a href="/dcvegandrinks" class="url" hreflang="en" rel="contact" title="DC Vegan Drinks"><img alt="DC Vegan Drinks" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1812745203/Screen_Shot_2012-02-08_at_6.33.41_AM_mini.png" width="24" /></a>  </span>
+    <a href="/dcvegandrinks" class="url" hreflang="en" rel="contact" title="DC Vegan Drinks"><img alt="DC Vegan Drinks" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1812745203/Screen_Shot_2012-02-08_at_6.33.41_AM_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/CHedegaardEU" class="url" hreflang="en" rel="contact" title="Connie Hedegaard"><img alt="Connie Hedegaard" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1278258518/New_Bitmap_Image_mini.JPG" width="24" /></a>  </span>
+    <a href="/CHedegaardEU" class="url" hreflang="en" rel="contact" title="Connie Hedegaard"><img alt="Connie Hedegaard" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1278258518/New_Bitmap_Image_mini.JPG" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Permacyclists" class="url" hreflang="en" rel="contact" title="Dave and Anna"><img alt="Dave and Anna" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1395111550/IMG_6847-1_mini.JPG" width="24" /></a>  </span>
+    <a href="/Permacyclists" class="url" hreflang="en" rel="contact" title="Dave and Anna"><img alt="Dave and Anna" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1395111550/IMG_6847-1_mini.JPG" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/mjguemes" class="url" hreflang="es" rel="contact" title="Maria Jesús Güemes"><img alt="Maria Jesús Güemes" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2010110100/MJGtwitter_mini.jpg" width="24" /></a>  </span>
+    <a href="/mjguemes" class="url" hreflang="es" rel="contact" title="Maria Jesús Güemes"><img alt="Maria Jesús Güemes" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2010110100/MJGtwitter_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/marianorajoy" class="url" hreflang="es" rel="contact" title="Mariano Rajoy Brey"><img alt="Mariano Rajoy Brey" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1649446008/twitter_original_mini.jpg" width="24" /></a>  </span>
+    <a href="/marianorajoy" class="url" hreflang="es" rel="contact" title="Mariano Rajoy Brey"><img alt="Mariano Rajoy Brey" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1649446008/twitter_original_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/fominbid" class="url" hreflang="en" rel="contact" title="FOMIN"><img alt="FOMIN" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1875304627/fomin-positivo-castellano_mini.gif" width="24" /></a>  </span>
+    <a href="/fominbid" class="url" hreflang="en" rel="contact" title="FOMIN"><img alt="FOMIN" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1875304627/fomin-positivo-castellano_mini.gif" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/masaenfurecida" class="url" hreflang="es" rel="contact" title="masaenfurecida"><img alt="masaenfurecida" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1241169267/draft_lens11890871module108646531photo_1_1278085261Angry_Mob_Playset_McPhee_mini.jpg" width="24" /></a>  </span>
+    <a href="/masaenfurecida" class="url" hreflang="es" rel="contact" title="masaenfurecida"><img alt="masaenfurecida" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1241169267/draft_lens11890871module108646531photo_1_1278085261Angry_Mob_Playset_McPhee_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/jordievole" class="url" hreflang="en" rel="contact" title="Jordi Évole"><img alt="Jordi Évole" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/48941222/twitter_mini.gif" width="24" /></a>  </span>
+    <a href="/jordievole" class="url" hreflang="en" rel="contact" title="Jordi Évole"><img alt="Jordi Évole" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/48941222/twitter_mini.gif" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/wonderchook" class="url" hreflang="en" rel="contact" title="Kate Chapman"><img alt="Kate Chapman" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1766149963/kate_profile_mini.png" width="24" /></a>  </span>
+    <a href="/wonderchook" class="url" hreflang="en" rel="contact" title="Kate Chapman"><img alt="Kate Chapman" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1766149963/kate_profile_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/350" class="url" hreflang="en" rel="contact" title="350 dot org"><img alt="350 dot org" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2330922652/veedqyrh2scs0n09grs5_mini.jpeg" width="24" /></a>  </span>
+    <a href="/350" class="url" hreflang="en" rel="contact" title="350 dot org"><img alt="350 dot org" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2330922652/veedqyrh2scs0n09grs5_mini.jpeg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/sondaechoes" class="url" hreflang="es" rel="contact" title="Proyecto ECHOES"><img alt="Proyecto ECHOES" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1900673344/logo_mini.jpg" width="24" /></a>  </span>
+    <a href="/sondaechoes" class="url" hreflang="es" rel="contact" title="Proyecto ECHOES"><img alt="Proyecto ECHOES" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1900673344/logo_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/DrStuClark" class="url" hreflang="en" rel="contact" title="Stuart Clark"><img alt="Stuart Clark" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1213869501/Stu2011_small_mini.jpg" width="24" /></a>  </span>
+    <a href="/DrStuClark" class="url" hreflang="en" rel="contact" title="Stuart Clark"><img alt="Stuart Clark" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1213869501/Stu2011_small_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Eva_G_Nunho" class="url" hreflang="es" rel="contact" title="Eva G Nuño"><img alt="Eva G Nuño" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2278422092/ssr9eulnyt87x61ymc1a_mini.jpeg" width="24" /></a>  </span>
+    <a href="/Eva_G_Nunho" class="url" hreflang="es" rel="contact" title="Eva G Nuño"><img alt="Eva G Nuño" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2278422092/ssr9eulnyt87x61ymc1a_mini.jpeg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/15MpaRato" class="url" hreflang="es" rel="contact" title="15MpaRato"><img alt="15MpaRato" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2218702676/rato_alcatraz_mini.jpg" width="24" /></a>  </span>
+    <a href="/15MpaRato" class="url" hreflang="es" rel="contact" title="15MpaRato"><img alt="15MpaRato" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2218702676/rato_alcatraz_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/BASD2012" class="url" hreflang="en" rel="contact" title="BASD 2012"><img alt="BASD 2012" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1666303642/BASD_symbol_mini.jpg" width="24" /></a>  </span>
+    <a href="/BASD2012" class="url" hreflang="en" rel="contact" title="BASD 2012"><img alt="BASD 2012" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1666303642/BASD_symbol_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/opensignalmaps" class="url" hreflang="en" rel="contact" title="OpenSignalMaps"><img alt="OpenSignalMaps" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1380181785/icon-large_reasonably_small_mini.jpg" width="24" /></a>  </span>
+    <a href="/opensignalmaps" class="url" hreflang="en" rel="contact" title="OpenSignalMaps"><img alt="OpenSignalMaps" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1380181785/icon-large_reasonably_small_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/EU_ScienceChief" class="url" hreflang="en" rel="contact" title="Anne Glover"><img alt="Anne Glover" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2259809902/image_mini.jpg" width="24" /></a>  </span>
+    <a href="/EU_ScienceChief" class="url" hreflang="en" rel="contact" title="Anne Glover"><img alt="Anne Glover" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2259809902/image_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/guillerdorron" class="url" hreflang="en" rel="contact" title="Guillermo Dorronsoro"><img alt="Guillermo Dorronsoro" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2291759027/cmm2olf4nx5r1x9sf9sr_mini.jpeg" width="24" /></a>  </span>
+    <a href="/guillerdorron" class="url" hreflang="en" rel="contact" title="Guillermo Dorronsoro"><img alt="Guillermo Dorronsoro" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2291759027/cmm2olf4nx5r1x9sf9sr_mini.jpeg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/workfu" class="url" hreflang="en" rel="contact" title="WorkFu"><img alt="WorkFu" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1704291995/twitter-icon_mini.png" width="24" /></a>  </span>
+    <a href="/workfu" class="url" hreflang="en" rel="contact" title="WorkFu"><img alt="WorkFu" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1704291995/twitter-icon_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/materia_ciencia" class="url" hreflang="es" rel="contact" title="Materia"><img alt="Materia" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2248693848/minilogo_barras_mini.png" width="24" /></a>  </span>
+    <a href="/materia_ciencia" class="url" hreflang="es" rel="contact" title="Materia"><img alt="Materia" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2248693848/minilogo_barras_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/MarkWiseSays" class="url" hreflang="en" rel="contact" title="Quantum Mechanics"><img alt="Quantum Mechanics" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1246039435/MWise_mini.jpg" width="24" /></a>  </span>
+    <a href="/MarkWiseSays" class="url" hreflang="en" rel="contact" title="Quantum Mechanics"><img alt="Quantum Mechanics" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1246039435/MWise_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/27bslash6" class="url" hreflang="en" rel="contact" title="David Thorne"><img alt="David Thorne" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/697034782/photo_david_mini.gif" width="24" /></a>  </span>
+    <a href="/27bslash6" class="url" hreflang="en" rel="contact" title="David Thorne"><img alt="David Thorne" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/697034782/photo_david_mini.gif" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/marisamillerw" class="url" hreflang="en" rel="contact" title="Marisa MillerWolfson"><img alt="Marisa MillerWolfson" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1238540478/kitchen_super_c-u_4_twitter_mini.jpg" width="24" /></a>  </span>
+    <a href="/marisamillerw" class="url" hreflang="en" rel="contact" title="Marisa MillerWolfson"><img alt="Marisa MillerWolfson" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1238540478/kitchen_super_c-u_4_twitter_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/dcvegan" class="url" hreflang="en" rel="contact" title="DC*Vegan!"><img alt="DC*Vegan!" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1474832008/dcvegan_mini.png" width="24" /></a>  </span>
+    <a href="/dcvegan" class="url" hreflang="en" rel="contact" title="DC*Vegan!"><img alt="DC*Vegan!" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1474832008/dcvegan_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Factor__CO2" class="url" hreflang="es" rel="contact" title="Factor CO2"><img alt="Factor CO2" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1542225226/Logo_modificado_mini.jpg" width="24" /></a>  </span>
+    <a href="/Factor__CO2" class="url" hreflang="es" rel="contact" title="Factor CO2"><img alt="Factor CO2" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1542225226/Logo_modificado_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Pedr0the" class="url" hreflang="es" rel="contact" title="Pedro García"><img alt="Pedro García" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2171285062/baldomeroespartero_mini.jpg" width="24" /></a>  </span>
+    <a href="/Pedr0the" class="url" hreflang="es" rel="contact" title="Pedro García"><img alt="Pedro García" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2171285062/baldomeroespartero_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/asun24htve" class="url" hreflang="es" rel="contact" title="asun"><img alt="asun" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1247121513/C24hLiveOff_mini.png" width="24" /></a>  </span>
+    <a href="/asun24htve" class="url" hreflang="es" rel="contact" title="asun"><img alt="asun" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1247121513/C24hLiveOff_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/aulastronomia" class="url" hreflang="es" rel="contact" title="Aula de Astronomía"><img alt="Aula de Astronomía" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1692653925/Logoada_mini.jpg" width="24" /></a>  </span>
+    <a href="/aulastronomia" class="url" hreflang="es" rel="contact" title="Aula de Astronomía"><img alt="Aula de Astronomía" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1692653925/Logoada_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/ActuallyNPH" class="url" hreflang="en" rel="contact" title="Neil Patrick Harris"><img alt="Neil Patrick Harris" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1491037748/IMG_0026_2_mini.jpg" width="24" /></a>  </span>
+    <a href="/ActuallyNPH" class="url" hreflang="en" rel="contact" title="Neil Patrick Harris"><img alt="Neil Patrick Harris" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1491037748/IMG_0026_2_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/hmason" class="url" hreflang="en" rel="contact" title="Hilary Mason"><img alt="Hilary Mason" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1290564266/me_square_mini.jpg" width="24" /></a>  </span>
+    <a href="/hmason" class="url" hreflang="en" rel="contact" title="Hilary Mason"><img alt="Hilary Mason" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1290564266/me_square_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/anapastor_tve" class="url" hreflang="es" rel="contact" title="Ana Pastor"><img alt="Ana Pastor" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2292119662/image_mini.jpg" width="24" /></a>  </span>
+    <a href="/anapastor_tve" class="url" hreflang="es" rel="contact" title="Ana Pastor"><img alt="Ana Pastor" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2292119662/image_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/momentodefama" class="url" hreflang="en" rel="contact" title="Momento de Fama"><img alt="Momento de Fama" class="photo fn" height="24" src="http://a0.twimg.com/sticky/default_profile_images/default_profile_2_mini.png" width="24" /></a>  </span>
+    <a href="/momentodefama" class="url" hreflang="en" rel="contact" title="Momento de Fama"><img alt="Momento de Fama" class="photo fn" height="24" src="https://a0.twimg.com/sticky/default_profile_images/default_profile_2_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/neilfantom" class="url" hreflang="en" rel="contact" title="Neil Fantom"><img alt="Neil Fantom" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1619743595/Neil_Twit__1_of_1__mini.jpg" width="24" /></a>  </span>
+    <a href="/neilfantom" class="url" hreflang="en" rel="contact" title="Neil Fantom"><img alt="Neil Fantom" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1619743595/Neil_Twit__1_of_1__mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/elonmusk" class="url" hreflang="en" rel="contact" title="Elon Musk"><img alt="Elon Musk" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2245391038/image_mini.jpg" width="24" /></a>  </span>
+    <a href="/elonmusk" class="url" hreflang="en" rel="contact" title="Elon Musk"><img alt="Elon Musk" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2245391038/image_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/alandete" class="url" hreflang="en" rel="contact" title="David Alandete"><img alt="David Alandete" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1669682035/P1000754_-_Version_2_mini.jpg" width="24" /></a>  </span>
+    <a href="/alandete" class="url" hreflang="en" rel="contact" title="David Alandete"><img alt="David Alandete" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1669682035/P1000754_-_Version_2_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/younghahn" class="url" hreflang="en" rel="contact" title="Young Hahn"><img alt="Young Hahn" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/96302376/twitter_mini.jpg" width="24" /></a>  </span>
+    <a href="/younghahn" class="url" hreflang="en" rel="contact" title="Young Hahn"><img alt="Young Hahn" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/96302376/twitter_mini.jpg" width="24" /></a>  </span>
 
 
   </div>
@@ -1100,8 +1100,8 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
           <li class="first">&copy; 2012 Twitter</li>
           <li><a href="/about">About Us</a></li>
           <li><a href="/about/contact">Contact</a></li>
-          <li><a href="http://blog.twitter.com">Blog</a></li>
-          <li><a href="http://status.twitter.com">Status</a></li>
+          <li><a href="https://blog.twitter.com">Blog</a></li>
+          <li><a href="https://status.twitter.com">Status</a></li>
                       <li><a href="/about/resources">Resources</a></li>
                     <li><a href="//dev.twitter.com/">API</a></li>
                       <li><a href="//business.twitter.com/index_en.html">Business</a></li>
@@ -1119,20 +1119,20 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
     
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.0/jquery.min.js" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/twitter.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/lib/jquery.tipsy.min.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/twitter.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/lib/jquery.tipsy.min.js?1340729676" type="text/javascript"></script>
 <script type='text/javascript' src='//www.google.com/jsapi'></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/lib/gears_init.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/lib/mustache.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/geov1.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/api.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/lib/gears_init.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/lib/mustache.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/geov1.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/api.js?1340729676" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 $.cookie('tz_offset_sec', (-1 * (new Date()).getTimezoneOffset())*60);
 //]]>
 </script>
-  <script src="http://a0.twimg.com/a/1340997209/javascripts/lib/mustache.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/dismissable.js?1340729676" type="text/javascript"></script>
+  <script src="https://a0.twimg.com/a/1340997209/javascripts/lib/mustache.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/dismissable.js?1340729676" type="text/javascript"></script>
   
 
 <script type="text/javascript">
@@ -1178,7 +1178,7 @@ $.cookie('tz_offset_sec', (-1 * (new Date()).getTimezoneOffset())*60);
         <!-- BEGIN google analytics -->
 
   <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
   </script>
 

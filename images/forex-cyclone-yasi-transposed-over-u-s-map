@@ -1,7 +1,7 @@
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://opengraphprotocol.org/schema/'>
+   "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:fb='https://www.facebook.com/2008/fbml' xmlns:og='https://opengraphprotocol.org/schema/'>
   <head>
   <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -28,12 +28,12 @@
 	<![endif]-->
 	
 	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
 	<script type="text/javascript" src="/js/htmlticker.js"></script>
 	
     <script type="text/javascript" src="/min/g=min.js"></script>
 	    <!-- PUT THIS TAG IN THE head SECTION -->
-			<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+			<script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js">
 			</script>
 			<script type="text/javascript">
 	  			GS_googleAddAdSenseService("ca-pub-2125045427558917");
@@ -53,8 +53,8 @@
 		  });
 		  </script>
 		<!-- End jquery Tabs -->
-		<link rel="alternate" type="application/rss+xml" title="ForexTV News" href="http://www.forextv.com/rss/forex-news.rss" />
-		<link rel="alternate" type="application/rss+xml" title="ForexTV Video" href="http://www.forextv.com/rss/forex-video.rss" />
+		<link rel="alternate" type="application/rss+xml" title="ForexTV News" href="https://www.forextv.com/rss/forex-news.rss" />
+		<link rel="alternate" type="application/rss+xml" title="ForexTV Video" href="https://www.forextv.com/rss/forex-video.rss" />
 		    
 	<!--
 		<script type="text/javascript"> 
@@ -65,7 +65,7 @@
 		    var ie55 = (navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) == 4 && navigator.appVersion.indexOf("MSIE 5.5") != -1);
 		    var ie6 = (navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) == 4 && navigator.appVersion.indexOf("MSIE 6.0") != -1);
 		    
-		    // We just won't show it for IE5.5 and IE6. Go away. I'm really tempted to write "document.location= 'http://www.getfirefox.com';" here.
+		    // We just won't show it for IE5.5 and IE6. Go away. I'm really tempted to write "document.location= 'https://www.getfirefox.com';" here.
 		    if (ie55 || ie6) {this.remove(); return true;}
 		  
 		    // New - you don't have to specify options!
@@ -336,7 +336,7 @@
         <div class="span-6 header-logonew">
         	<a href="/"><img alt="ForexTV Logo" src="/images/logo-white-250.png" /></a>        	<br/>
         	<div style="margin:0px 0 0 0;text-align:right;"> 
-        	<a target="_blank" href="http://www.facebook.com/ForexTVLive"><img alt="Follow us on Facebook" src="/images/facebook.png" /></a>        	<a target="_blank" href="http://twitter.com/ForexTVConnect"><img alt="Follow us on Twitter" src="/images/twitter.png" /></a>        	</div>
+        	<a target="_blank" href="https://www.facebook.com/ForexTVLive"><img alt="Follow us on Facebook" src="/images/facebook.png" /></a>        	<a target="_blank" href="https://twitter.com/ForexTVConnect"><img alt="Follow us on Twitter" src="/images/twitter.png" /></a>        	</div>
         </div>
         <div class="span-15">
         	<div class="advertisement">
@@ -352,7 +352,7 @@
             <div class="span-27">
           <ul id="menu1">
           	<li><a href="/">Home</a></li>
-          	<!--<li><a href="http://www.forextvmanagement.com">Forex Trading</a></li>-->
+          	<!--<li><a href="https://www.forextvmanagement.com">Forex Trading</a></li>-->
             <li><a href="/Rates/USD">Rates</a></li>
             <li><a href="/ProSticks/Forex-Charts">Charts</a></li>
             <!--<li><a href="/">Homepage</a></li>-->
@@ -361,7 +361,7 @@
             <li><a class="current" href="/forex-news-archive">News</a></li>
             <li><a href="/Forex-Education/Forex-101">Education</a></li>
             <li><a href="/Forex-Resources/index">Resources</a></li>
-            <li><a href="http://forextvconnect.com" target="_blank">ForexTV Connect</a></li>
+            <li><a href="https://forextvconnect.com" target="_blank">ForexTV Connect</a></li>
             <li><a href="/MarketVision/SignIn">MarketVision</a></li>
             
         
@@ -426,7 +426,7 @@
 			         
                         							
 												<div id="myhtmlticker" class="tickerstyle">
-													<a href="http://www.ibtrade.com/sub_platform.htm"><img alt="FXWirePrp" src="/images/FXWP_small.png" /></a><span class="wp_date">Headlines </span>
+													<a href="https://www.ibtrade.com/sub_platform.htm"><img alt="FXWirePrp" src="/images/FXWP_small.png" /></a><span class="wp_date">Headlines </span>
 													<div class="outermessagediv">
 																				  
 	                                                  
@@ -504,7 +504,7 @@
 	<div class="span-show float-left">
 		<div class="Tools-Show">
 			<div class="Share-Show">
-				<div><div style="margin:0px 0 0 0;float:left;"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" layout="button_count" show_faces="false" width="100" action="recommend" font="arial"></fb:like></div><div style="margin:0px 0 0 0;float:left;"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" data-count="horizontal" data-via="ForexTVConnect">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div style="padding:0;margin:0;float:left;"><g:plusone size="medium"></g:plusone></div><div style="margin:0px 0 0 0;float:left;"><script src="http://platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/Share" data-url="http://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" data-counter="right"></script></div></div>			</div>
+				<div><div style="margin:0px 0 0 0;float:left;"><script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="https://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" layout="button_count" show_faces="false" width="100" action="recommend" font="arial"></fb:like></div><div style="margin:0px 0 0 0;float:left;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" data-count="horizontal" data-via="ForexTVConnect">Tweet</a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div><div style="padding:0;margin:0;float:left;"><g:plusone size="medium"></g:plusone></div><div style="margin:0px 0 0 0;float:left;"><script src="https://platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/Share" data-url="https://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" data-counter="right"></script></div></div>			</div>
 		</div>
 		<div class="indent10 News-Story">
 		
@@ -512,13 +512,13 @@
 			
 			<p class="Date_Show">
 				<strong>
-				<a target="_blank" href="http://www.kathylien.com">Kathy Lien</a> 
+				<a target="_blank" href="https://www.kathylien.com">Kathy Lien</a> 
 				 </strong>&nbsp;&nbsp;|&nbsp;&nbsp;February 2 2011 8:57 EST				          
             </p>
 			
 			
 	<p class="Show-Body">		        		
-			<p>Cyclone Yasi, a category 5 storm is expected to make landfall in Australia at midnight local time.  The damage could be significant especially when you consider how large this cyclone is. My buddy at Barclays shared this map with me to give you a size of the cyclone.  This satellite image shows the cyclone transposed over the map of the U.S.  If the damage is significant, it could take the Australian dollar back below parity. </p><p><a href="http://www.kathylien.com/site/wp-content/uploads/2011/02/cycloneyasi.jpg"><img src="http://www.kathylien.com/site/wp-content/uploads/2011/02/cycloneyasi.jpg" alt="" title="cycloneyasi" width="500" height="281" class="alignnone size-full wp-image-3554" /></a></p>	</p>
+			<p>Cyclone Yasi, a category 5 storm is expected to make landfall in Australia at midnight local time.  The damage could be significant especially when you consider how large this cyclone is. My buddy at Barclays shared this map with me to give you a size of the cyclone.  This satellite image shows the cyclone transposed over the map of the U.S.  If the damage is significant, it could take the Australian dollar back below parity. </p><p><a href="https://www.kathylien.com/site/wp-content/uploads/2011/02/cycloneyasi.jpg"><img src="https://www.kathylien.com/site/wp-content/uploads/2011/02/cycloneyasi.jpg" alt="" title="cycloneyasi" width="500" height="281" class="alignnone size-full wp-image-3554" /></a></p>	</p>
 			<hr class="space"/>
 			<hr class="space"/>
 			<div class="shownewstiles">
@@ -548,7 +548,7 @@
 			<hr class="space"/>
 			<div class="Tools-Show-Bottom">
 				<div class="Share-Show">
-					<div><div style="margin:0px 0 0 0;float:left;"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" layout="button_count" show_faces="false" width="100" action="recommend" font="arial"></fb:like></div><div style="margin:0px 0 0 0;float:left;"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" data-count="horizontal" data-via="ForexTVConnect">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div style="padding:0;margin:0;float:left;"><g:plusone size="medium"></g:plusone></div><div style="margin:0px 0 0 0;float:left;"><script src="http://platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/Share" data-url="http://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" data-counter="right"></script></div></div>				</div>
+					<div><div style="margin:0px 0 0 0;float:left;"><script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="https://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" layout="button_count" show_faces="false" width="100" action="recommend" font="arial"></fb:like></div><div style="margin:0px 0 0 0;float:left;"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" data-count="horizontal" data-via="ForexTVConnect">Tweet</a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script></div><div style="padding:0;margin:0;float:left;"><g:plusone size="medium"></g:plusone></div><div style="margin:0px 0 0 0;float:left;"><script src="https://platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/Share" data-url="https://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" data-counter="right"></script></div></div>				</div>
 			</div>
 			<hr class="space"/>
 			<hr class="space"/>
@@ -560,19 +560,19 @@
 <hr class="space"></hr>
 
 <div id="fb-root"></div>
-	<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:comments href="http://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" num_posts="15" width="680"></fb:comments>			</div>
+	<script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:comments href="https://www.forextv.com/forex-news-story/forex-cyclone-yasi-transposed-over-u-s-map" num_posts="15" width="680"></fb:comments>			</div>
 			
 			<div class="Related-Header-Show"><a name="about">About Kathy Lien</a> </div>
 			<div class="Show-About">
 				
 				<div class="Related-News">
 					<div class="float-left span-4">
-						<p><a target="_blank" href="http://www.kathylien.com"><img width="120" height="120" border="1" alt="Users Image" src="/uploads/profile/3c67f83ef3aa78af21119ccad7df85005bf58f61.png" /></a>						</p>
+						<p><a target="_blank" href="https://www.kathylien.com"><img width="120" height="120" border="1" alt="Users Image" src="/uploads/profile/3c67f83ef3aa78af21119ccad7df85005bf58f61.png" /></a>						</p>
 					</div>
 					<div class="float-left span-12">
 									<p><b>Company</b> : www.kathylien.com</p>
 									<p><b>Website</b> : 
-									<a target="_blank" href="http://www.kathylien.com">http://www.kathylien.com</a>									</p>
+									<a target="_blank" href="https://www.kathylien.com">https://www.kathylien.com</a>									</p>
 									
 									<p><b>About</b> :</p><p> Kathy Lien is an Internationally Published Author and the Director of Currency Research of FX360.com and GFT. Her trading books include the following:<br />
 <br />
@@ -647,7 +647,7 @@ Many people have asked how Kathy has managed to achieve so much at such a young 
 				//-->
 				</script>
 				<script type="text/javascript"
-				src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 				</script>
 	
 			</div>
@@ -905,11 +905,11 @@ Many people have asked how Kathy has managed to achieve so much at such a young 
 			
 			</div>
 			<div class="float-left" style="padding: 8px 0 0 8px; width:10%; background: #fff;" >
-					<a href="http://www.fxwirepro.com"><img alt="FXWirePrp" src="/images/FXWP_small.png" /></a><span class="wp_date">Headlines </span>
+					<a href="https://www.fxwirepro.com"><img alt="FXWirePrp" src="/images/FXWP_small.png" /></a><span class="wp_date">Headlines </span>
 			</div>
 		</div>
 			<div style="padding: 0px 0 0 0;">
-				<script src="http://cs-quotes.iitech.dk/INSTANCEMANAGEMENTSERVER/EmbedComponent.ashx?InstanceId=2395" type="text/javascript" charset="utf-8"></script>
+				<script src="https://cs-quotes.iitech.dk/INSTANCEMANAGEMENTSERVER/EmbedComponent.ashx?InstanceId=2395" type="text/javascript" charset="utf-8"></script>
 				
 				<div id="csp_component2395" style='text-align:center;width:100%;overflow:hidden;'>
 				<div id="csp_container2395" style='width:100%;height:29px;'>
@@ -921,7 +921,7 @@ Many people have asked how Kathy has managed to achieve so much at such a young 
              
 				              <div class="span-9 float-left">
 								    	<div class="vid-img">
-								    		<a href="/forex-news-video/u-s-stocks-end-up-but-down-for-the-quarter"><img alt="U.S. Stocks End Up, But Down For The Quarter" width="90" height="70" src="http://i.ytimg.com/vi/ijNnWmlh3mE/1.jpg" /></a>								    	</div>
+								    		<a href="/forex-news-video/u-s-stocks-end-up-but-down-for-the-quarter"><img alt="U.S. Stocks End Up, But Down For The Quarter" width="90" height="70" src="https://i.ytimg.com/vi/ijNnWmlh3mE/1.jpg" /></a>								    	</div>
 								    	<div>
 								    		<span class="Titles"><a href="/forex-news-video/u-s-stocks-end-up-but-down-for-the-quarter">U.S. Stocks End Up, But Down For The Quarter</a></span><img alt="Video Available" src="/images/icon-video.png" />								    		
 								    	</div>
@@ -933,7 +933,7 @@ Many people have asked how Kathy has managed to achieve so much at such a young 
              
 				              <div class="span-9 float-left">
 								    	<div class="vid-img">
-								    		<a href="/forex-news-video/european-union-summit-rallies-global-markets"><img alt="European Union Summit Rallies Global Markets" width="90" height="70" src="http://i.ytimg.com/vi/QmQxy21SV78/1.jpg" /></a>								    	</div>
+								    		<a href="/forex-news-video/european-union-summit-rallies-global-markets"><img alt="European Union Summit Rallies Global Markets" width="90" height="70" src="https://i.ytimg.com/vi/QmQxy21SV78/1.jpg" /></a>								    	</div>
 								    	<div>
 								    		<span class="Titles"><a href="/forex-news-video/european-union-summit-rallies-global-markets">European Union Summit Rallies Global Markets</a></span><img alt="Video Available" src="/images/icon-video.png" />								    		
 								    	</div>
@@ -945,7 +945,7 @@ Many people have asked how Kathy has managed to achieve so much at such a young 
              
 				              <div class="span-9 float-left">
 								    	<div class="vid-img">
-								    		<a href="/forex-news-video/supreme-court-upholds-obamacare-mandate"><img alt="Supreme Court Upholds Obamacare Mandate" width="90" height="70" src="http://i.ytimg.com/vi/_6fN0GLGHVI/1.jpg" /></a>								    	</div>
+								    		<a href="/forex-news-video/supreme-court-upholds-obamacare-mandate"><img alt="Supreme Court Upholds Obamacare Mandate" width="90" height="70" src="https://i.ytimg.com/vi/_6fN0GLGHVI/1.jpg" /></a>								    	</div>
 								    	<div>
 								    		<span class="Titles"><a href="/forex-news-video/supreme-court-upholds-obamacare-mandate">Supreme Court Upholds Obamacare Mandate</a></span><img alt="Video Available" src="/images/icon-video.png" />								    		
 								    	</div>
@@ -957,7 +957,7 @@ Many people have asked how Kathy has managed to achieve so much at such a young 
              
 				              <div class="span-9 float-left">
 								    	<div class="vid-img">
-								    		<a href="/forex-news-video/supreme-court-upholds-obamacare-mandate-1"><img alt="Supreme Court Upholds Obamacare Mandate" width="90" height="70" src="http://i.ytimg.com/vi/_6fN0GLGHVI/1.jpg" /></a>								    	</div>
+								    		<a href="/forex-news-video/supreme-court-upholds-obamacare-mandate-1"><img alt="Supreme Court Upholds Obamacare Mandate" width="90" height="70" src="https://i.ytimg.com/vi/_6fN0GLGHVI/1.jpg" /></a>								    	</div>
 								    	<div>
 								    		<span class="Titles"><a href="/forex-news-video/supreme-court-upholds-obamacare-mandate-1">Supreme Court Upholds Obamacare Mandate</a></span><img alt="Video Available" src="/images/icon-video.png" />								    		
 								    	</div>
@@ -973,7 +973,7 @@ Many people have asked how Kathy has managed to achieve so much at such a young 
     <script type="text/javascript">
     
              </script>
-	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
 	</script>
 	<script type="text/javascript">
 	_uacct = "UA-335051-1";
@@ -990,7 +990,7 @@ Many people have asked how Kathy has managed to achieve so much at such a young 
 	    e.setAttribute('language', 'javascript');
 	    e.setAttribute('type', 'text/javascript');
 	    e.setAttribute('src',
-	       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+	       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "https://static.chartbeat.com/") +
 	       "js/chartbeat.js");
 	    document.body.appendChild(e);
 	  }
@@ -1009,11 +1009,11 @@ var sc_security="163c3881";
 </script>
 
 <script type="text/javascript"
-src="http://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div
+src="https://www.statcounter.com/counter/counter_xhtml.js"></script><noscript><div
 class="statcounter"><a title="website statistics"
-class="statcounter" href="http://statcounter.com/"><img
+class="statcounter" href="https://statcounter.com/"><img
 class="statcounter"
-src="http://c.statcounter.com/7191888/0/163c3881/1/"
+src="https://c.statcounter.com/7191888/0/163c3881/1/"
 alt="website statistics" /></a></div></noscript>
 <!-- End of StatCounter Code -->
   </body>

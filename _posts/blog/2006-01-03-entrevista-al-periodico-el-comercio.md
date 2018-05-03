@@ -11,14 +11,14 @@ tags:
 - Science
 title: "Entrevista al peri\xC3\xB3dico \"El comercio\""
 ---
-El 3 de enero de 2006 el periódico "El Comerico" publicó una entrevista en su versión impresa y digital. Aquí pongo un [enlace a la versión digital](http://www.elcomerciodigital.com/pg060103/prensa/noticias/Sociedad/200601/03/GIJ-SOC-139.html).
+El 3 de enero de 2006 el periódico "El Comerico" publicó una entrevista en su versión impresa y digital. Aquí pongo un [enlace a la versión digital](https://www.elcomerciodigital.com/pg060103/prensa/noticias/Sociedad/200601/03/GIJ-SOC-139.html).
 
 <p>&nbsp;</p>
 
-<p style="text-align:center;"><a href="http://www.elcomerciodigital.com/pg060103/prensa/noticias/Sociedad/200601/03/GIJ-SOC-139.html"><img class="aligncenter size-full wp-image-681" title="inicioEL COMERCIO DIGITAL | SOCIEDAD Y CULTURA - El Sol en sus manos (20091106)" src="http://nasonurb.files.wordpress.com/2009/11/inicioel-comercio-digital-sociedad-y-cultura-el-sol-en-sus-manos-20091106.png" alt="inicioEL COMERCIO DIGITAL | SOCIEDAD Y CULTURA - El Sol en sus manos (20091106)" width="344" height="223" /></a></p>
+<p style="text-align:center;"><a href="https://www.elcomerciodigital.com/pg060103/prensa/noticias/Sociedad/200601/03/GIJ-SOC-139.html"><img class="aligncenter size-full wp-image-681" title="inicioEL COMERCIO DIGITAL | SOCIEDAD Y CULTURA - El Sol en sus manos (20091106)" src="https://nasonurb.files.wordpress.com/2009/11/inicioel-comercio-digital-sociedad-y-cultura-el-sol-en-sus-manos-20091106.png" alt="inicioEL COMERCIO DIGITAL | SOCIEDAD Y CULTURA - El Sol en sus manos (20091106)" width="344" height="223" /></a></p>
 
 
-##[El Sol en sus manos](http://www.elcomerciodigital.com/pg060103/prensa/noticias/Sociedad/200601/03/GIJ-SOC-139.html)##
+##[El Sol en sus manos](https://www.elcomerciodigital.com/pg060103/prensa/noticias/Sociedad/200601/03/GIJ-SOC-139.html)##
 Un asturiano de 24 años, único español que investiga el Sistema Solar en el prestigioso instituto alemán Max Planck
 
 *L. A. R./GIJÓN*

@@ -27,4 +27,4 @@ title: "Correlation \xE2\x8A\x82 Causation"
 <pre>In evaluating facts, we must be careful not to 
 improperly deduce causation from correlation.</pre>
 <p style="text-align:right;">Carl Sagan</p>
-<p style="text-align:right;"><a href="http://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469"><em>The demon haunted world</em></a></p>
+<p style="text-align:right;"><a href="https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469"><em>The demon haunted world</em></a></p>

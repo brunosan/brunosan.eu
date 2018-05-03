@@ -28,7 +28,7 @@
 // Modified: 20 May 1999, Freeland, LMSAL - add subrange buttons and function
 // Modified: 23 Aug 1999, William Thompson, GSFC - make button text black
 // Modified: 24 Oct 2006, Ignacio Ugarte, NRL - added slider. 
-// 			  slider102.zip NEEDED. DOWNLOAD FROM http://webfx.eae.net/dhtml/slider/slider.html
+// 			  slider102.zip NEEDED. DOWNLOAD FROM https://webfx.eae.net/dhtml/slider/slider.html
 //			  Need to point range.js, timer.js, slider.js and luna.css to the right path.
 // Modified: 07 Jan 2010, Ignacio Ugarte, NRL - fixed bug on slider response to STEP and START. 
 // Modified: June 2010, Bruno Sannchez, NRL - Select a sub-range to load only a subset of the URL.
@@ -125,7 +125,7 @@ You can also acces this same tool on 3 differents channels: <a href="../284/movi
 
 <HR>
 <p>
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a>. You are free (and encouraged) to Share it (copy, distribute and transmit the work) and Remix it (adapt the work to your needs). However you should attribute our work with a mention to this website or contact.
+<a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a>. You are free (and encouraged) to Share it (copy, distribute and transmit the work) and Remix it (adapt the work to your needs). However you should attribute our work with a mention to this website or contact.
 Mapping technique available on request or Solarsoft. Javascript coding attribution available in this page sourcecode.
 <p>
 

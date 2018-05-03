@@ -177,7 +177,7 @@ function populateResultsString(count) {
 
 
 /**
- * Gets query string parameter - taken from http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript
+ * Gets query string parameter - taken from https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript
  * @param {String} name 
  * @return {String} parameter value
  */

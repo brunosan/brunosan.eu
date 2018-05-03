@@ -22,7 +22,7 @@ tags:
 title: Perception Test
 ---
 We all have made test where you have several items and we have to choose one that doesn´t fit. So, which one would you choose on this image? Why?
-<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="http://nasonurb.files.wordpress.com/2010/02/7685_0880.gif"><img src="http://nasonurb.files.wordpress.com/2010/02/7685_0880.gif?w=300" border="0" alt="" width="400" height="66" /></a></div>
+<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="https://nasonurb.files.wordpress.com/2010/02/7685_0880.gif"><img src="https://nasonurb.files.wordpress.com/2010/02/7685_0880.gif?w=300" border="0" alt="" width="400" height="66" /></a></div>
 Good luck :)
 Don´t be too fast. Results of this test showed that people trying to be "smart" tend to answer fast... and fail.
 

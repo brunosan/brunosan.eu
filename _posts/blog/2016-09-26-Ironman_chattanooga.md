@@ -7,15 +7,15 @@ published: true
 
 Sometimes you win, and sometimes you fight, till there’s just nothing left but pure will… _iron will_. That’s what my Ironman felt like.
 
-I completed Ironman Chattanooga, in [15h20m](http://www.ironman.com/triathlon/events/americas/ironman/chattanooga/results/?rd=20160925&race=chattanooga&bidid=211&detail=1#axzz4LU4wOiK5) (roughly 2h over goal time). I trained specifically for this for almost a year (doing roughly 80% of my coached 6 days a week program), I planned and rehearsed, I gave up so much social life, so many Friday nights, so many weekends training, so many before-sunrise bike rides… All for this day, for this race where so many things can wreck the careful balance of endurance, nutrition, hydration and mind. Almost certainly that balance will be broken, and you’ll need to work it out. I have zero regrets, and I’m super proud of finishing; but if you are thinking about doing an Ironman, be mindful of that.
+I completed Ironman Chattanooga, in [15h20m](https://www.ironman.com/triathlon/events/americas/ironman/chattanooga/results/?rd=20160925&race=chattanooga&bidid=211&detail=1#axzz4LU4wOiK5) (roughly 2h over goal time). I trained specifically for this for almost a year (doing roughly 80% of my coached 6 days a week program), I planned and rehearsed, I gave up so much social life, so many Friday nights, so many weekends training, so many before-sunrise bike rides… All for this day, for this race where so many things can wreck the careful balance of endurance, nutrition, hydration and mind. Almost certainly that balance will be broken, and you’ll need to work it out. I have zero regrets, and I’m super proud of finishing; but if you are thinking about doing an Ironman, be mindful of that.
 
-The heat was the killer. Record 97℉ (36℃) for the course. 40% of the 2716 bib athletes [didn’t finish](http://www.ironman.com/triathlon/events/americas/ironman/chattanooga/results.aspx?p=83&ps=80#axzz4LU4wOiK5), [twice](http://www.coachcox.co.uk/2016/09/26/ironman-chattanooga-2016-results-kona-qualification-analysis/) the rate of previous year, [200 were treated at medical tents and nine were hospitalized](http://www.wrcbtv.com/story/33211944/more-than-600-treated-at-ironman-event-majority-for-heat-illnesses).
+The heat was the killer. Record 97℉ (36℃) for the course. 40% of the 2716 bib athletes [didn’t finish](https://www.ironman.com/triathlon/events/americas/ironman/chattanooga/results.aspx?p=83&ps=80#axzz4LU4wOiK5), [twice](https://www.coachcox.co.uk/2016/09/26/ironman-chattanooga-2016-results-kona-qualification-analysis/) the rate of previous year, [200 were treated at medical tents and nine were hospitalized](https://www.wrcbtv.com/story/33211944/more-than-600-treated-at-ironman-event-majority-for-heat-illnesses).
 
 
 ![](https://cdn-images-1.medium.com/max/800/1*4pP2OWukigCC_fIa1A82-g.png)
 
 
-<figcaption class="imageCaption">Distribution of times. Histogram in %. 2015 left vs 2016 right. Mode time 3h longer. [Analysis by CoachCox](http://www.coachcox.co.uk/2016/09/26/ironman-chattanooga-2016-results-kona-qualification-analysis/)</figcaption>
+<figcaption class="imageCaption">Distribution of times. Histogram in %. 2015 left vs 2016 right. Mode time 3h longer. [Analysis by CoachCox](https://www.coachcox.co.uk/2016/09/26/ironman-chattanooga-2016-results-kona-qualification-analysis/)</figcaption>
 
 
 My coach told me since day one that the name of the game is _keeping heart rate (HR) low_, yet that was my biggest mistake. My advice?, your watch should only have one screen, HR graph with time. A mistake that probably cost me 2h.
@@ -26,7 +26,7 @@ The heat messed my plans by increasing my HR into a zone I wouldn’t be able to
 ![](https://cdn-images-1.medium.com/max/800/1*_SzQCfoMa_Fd81LoPrevSg.png)
 
 
-<figcaption class="imageCaption">Partial Heart Rate profile (watch ran out of battery at 12h). [Suunto MovesCount](http://www.movescount.com/moves/move124792340).</figcaption>
+<figcaption class="imageCaption">Partial Heart Rate profile (watch ran out of battery at 12h). [Suunto MovesCount](https://www.movescount.com/moves/move124792340).</figcaption>
 
 
 Race day means waking up at 3:30am to get a breakfast I can digest before the start. 4:30am at transition checking that the bike and gear is all set, and by 5:30am I took the shuttle to the swim start. Nothing else to do but wait on a growing 2500-athlete line under the stars and building up excitement. 7:30am the cannon shot and very quickly you walk down, see the massive river… and jump from the pier. All the training for this moment that starts now.

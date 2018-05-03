@@ -39,7 +39,7 @@ Almost immediately my newsfeed changed completely. I started to see updates from
 <figcaption class="imageCaption">Screenshot of my newsfeed. I still can’t believe how different the [online] world feels.</figcaption>
 
 
-Now image [1h session](http://www.businessinsider.com/how-much-time-do-people-spend-on-facebook-per-day-2016-4) of this every single day. Add to the mix the “[confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias)” nature of our opinion-making (we outweigh what we agree and dismiss what we don’t) you start to see the problem. Every day you are bombarded with nudges to cluster into one extreme, both because you are attracted _towards_ it, and also pushed _against_ the other side.
+Now image [1h session](https://www.businessinsider.com/how-much-time-do-people-spend-on-facebook-per-day-2016-4) of this every single day. Add to the mix the “[confirmation bias](https://en.wikipedia.org/wiki/Confirmation_bias)” nature of our opinion-making (we outweigh what we agree and dismiss what we don’t) you start to see the problem. Every day you are bombarded with nudges to cluster into one extreme, both because you are attracted _towards_ it, and also pushed _against_ the other side.
 
 After a week seeing this I also realized there’s no middle ground. There is no neutral position. There’s no outside of the silo. The mix of my direct friend shares pro-Clinton and the pro-Trump articles is not neutral; it’s schizophrenic. Opposites don’t cancel out in here. Indeed “neutral” articles are not that appealing to click.
 

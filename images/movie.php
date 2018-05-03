@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Eyes on the Skies - Movie</title>
@@ -34,15 +34,15 @@ body {
               
               <p align="left" class="main"><strong> Watch the movie chapters</strong> (click on the images below to select one of the various formats are available):<br />
                 <br />
-                <a href="http://www.spacetelescope.org/videos/html/eyes_skies_ch1_final.html" target="_blank"><img src="images/movie_chapter01.jpg" width="270" height="150" border="0" class="thinborder" /></a><a href="http://www.spacetelescope.org/videos/html/eyes_skies_ch2_final.html" target="_blank"> <img src="images/movie_chapter02.jpg" width="270" height="150" border="0" class="thinborder" /></a><br />
-                <a href="http://www.spacetelescope.org/videos/html/eyes_skies_ch3_final.html" target="_blank"><img src="images/movie_chapter03.jpg" width="270" height="150" border="0" class="thinborder" /></a><a href="http://www.spacetelescope.org/videos/html/eyes_skies_ch4_final.html" target="_self"> <img src="images/movie_chapter04.jpg" width="270" height="150" border="0" class="thinborder" /></a><br />
-                  <a href="http://www.spacetelescope.org/videos/html/eyes_skies_ch5_final.html" target="_blank"><img src="images/movie_chapter05.jpg" width="270" height="150" border="0" class="thinborder" /></a><a href="http://www.spacetelescope.org/videos/html/eyes_skies_ch6_final.html" target="_blank"> <img src="images/movie_chapter06.jpg" width="270" height="150" border="0" class="thinborder" /></a><a href="http://www.spacetelescope.org/videos/html/eyes_skies_ch7_final.html"><img src="images/movie_chapter07.jpg" width="270" height="150" border="0" class="thinborder" /> </a><a href="http://www.spacetelescope.org/videos/html/eyes_skies_trailer.html"><img src="images/movie_trailer.jpg" width="270" height="150" border="0" class="thinborder"/></a></a><br />
+                <a href="https://www.spacetelescope.org/videos/html/eyes_skies_ch1_final.html" target="_blank"><img src="images/movie_chapter01.jpg" width="270" height="150" border="0" class="thinborder" /></a><a href="https://www.spacetelescope.org/videos/html/eyes_skies_ch2_final.html" target="_blank"> <img src="images/movie_chapter02.jpg" width="270" height="150" border="0" class="thinborder" /></a><br />
+                <a href="https://www.spacetelescope.org/videos/html/eyes_skies_ch3_final.html" target="_blank"><img src="images/movie_chapter03.jpg" width="270" height="150" border="0" class="thinborder" /></a><a href="https://www.spacetelescope.org/videos/html/eyes_skies_ch4_final.html" target="_self"> <img src="images/movie_chapter04.jpg" width="270" height="150" border="0" class="thinborder" /></a><br />
+                  <a href="https://www.spacetelescope.org/videos/html/eyes_skies_ch5_final.html" target="_blank"><img src="images/movie_chapter05.jpg" width="270" height="150" border="0" class="thinborder" /></a><a href="https://www.spacetelescope.org/videos/html/eyes_skies_ch6_final.html" target="_blank"> <img src="images/movie_chapter06.jpg" width="270" height="150" border="0" class="thinborder" /></a><a href="https://www.spacetelescope.org/videos/html/eyes_skies_ch7_final.html"><img src="images/movie_chapter07.jpg" width="270" height="150" border="0" class="thinborder" /> </a><a href="https://www.spacetelescope.org/videos/html/eyes_skies_trailer.html"><img src="images/movie_trailer.jpg" width="270" height="150" border="0" class="thinborder"/></a></a><br />
               </p> 
               <br />
               <hr>
   <p align="left" class="main"><strong>The Movie Poster</strong></p>
-  <p align="center" class="main"><a href="http://www.spacetelescope.org/extras/posters/eyes_skies/"><img src="http://www.spacetelescope.org/static/archives/posters/medium/eyes_skies.jpg" alt="" border="0" /></a></a><br />
-    <a href="http://www.spacetelescope.org/extras/posters/eyes_skies/">Download it in high-resolution from spacetelescope.org</a></p>
+  <p align="center" class="main"><a href="https://www.spacetelescope.org/extras/posters/eyes_skies/"><img src="https://www.spacetelescope.org/static/archives/posters/medium/eyes_skies.jpg" alt="" border="0" /></a></a><br />
+    <a href="https://www.spacetelescope.org/extras/posters/eyes_skies/">Download it in high-resolution from spacetelescope.org</a></p>
   <p align="center" class="main">&nbsp;</p>
   <p align="left" class="main"><strong><a name="credits" id="credits"></a>Movie Credits</strong></p>
   <p align="left" class="main"><strong>Direction  &amp; Executive Producer</strong><br />
@@ -214,10 +214,10 @@ body {
   <p class="main"><strong>KANNADA&nbsp;</strong> <br />
     Jawaharlal Nehru Planetarium, Bangalore, India<br />
     Acknowledgements : T G Sreenidhi  </p>
-  <pre class="main"><strong>РУССКИЙ <br /></strong>Mikhail Loktionov &quot;DrMichael&quot;<br /><a href="http://www.nebulacast.com">www.nebulacast.com</a>
+  <pre class="main"><strong>РУССКИЙ <br /></strong>Mikhail Loktionov &quot;DrMichael&quot;<br /><a href="https://www.nebulacast.com">www.nebulacast.com</a>
   </pre>
   <p class="main"><strong>ROMÂNĂ</strong> <br />
-    Emil Turcu - University of  Suceava, Romania (<a href="http://www.usv.ro/">www.usv.ro</a>)<br />
+    Emil Turcu - University of  Suceava, Romania (<a href="https://www.usv.ro/">www.usv.ro</a>)<br />
     Mirel Birlan </p>
   <p class="main"><strong>PHASA THAI<br />
   </strong>Translator : Nibondh  Saibejra, F.R.S. Thailand<br />
@@ -238,7 +238,7 @@ body {
     Kaz Sekiguchi</p>
   <p class="main"><strong>Português</strong> <br />
     Batista Jacques</p>
-  <pre class="main"><strong>РУССКИЙ <br /></strong>Mikhail Loktionov &quot;DrMichael&quot;<br /><a href="http://www.nebulacast.com">www.nebulacast.com</a></pre>
+  <pre class="main"><strong>РУССКИЙ <br /></strong>Mikhail Loktionov &quot;DrMichael&quot;<br /><a href="https://www.nebulacast.com">www.nebulacast.com</a></pre>
   <p align="left" class="main"><strong>Contributing  photographers</strong><br />
     Jean-Charles  Cuillandre<br />
     Babak  Tafreshi/The World At Night<br />
@@ -375,8 +375,8 @@ body {
               
               
               <td class="transparent" width="333" valign="top"><div align="left">
-<a href="http://www.spacetelescope.org/updates/html/update0914.html"><img src="images/medea.jpg" align="left" hspace="10" vspace="5" border="0"/></a>
-<p class="main"> The <em>Eyes on the Skies</em> is a movie produced as standard DVD and  Blu-ray format,   freely available for TV broadcasters and for public events carried out  by educators, science centres, planetariums, amateur astronomers etc. (send your email, postal  address plus a justification to <a href="mailto:jwestner@eso.org">us</a> ). It explores the many facets of the telescope — the historical development,  the scientific importance, the technological breakthroughs, and also  the people behind this ground-breaking invention, their triumphs and  failures. It is presented by <em>Dr. J,</em> aka Dr. Joe Liske, a professional astronomer from the <a href="http://www.eso.org/" target="_blank">European Southern Observatory</a> and host  of the <em>Hubblecast</em> video podcast. The  DVD runs for 60 minutes and contains subtitles in several languages. <br />
+<a href="https://www.spacetelescope.org/updates/html/update0914.html"><img src="images/medea.jpg" align="left" hspace="10" vspace="5" border="0"/></a>
+<p class="main"> The <em>Eyes on the Skies</em> is a movie produced as standard DVD and  Blu-ray format,   freely available for TV broadcasters and for public events carried out  by educators, science centres, planetariums, amateur astronomers etc. (send your email, postal  address plus a justification to <a href="mailto:jwestner@eso.org">us</a> ). It explores the many facets of the telescope — the historical development,  the scientific importance, the technological breakthroughs, and also  the people behind this ground-breaking invention, their triumphs and  failures. It is presented by <em>Dr. J,</em> aka Dr. Joe Liske, a professional astronomer from the <a href="https://www.eso.org/" target="_blank">European Southern Observatory</a> and host  of the <em>Hubblecast</em> video podcast. The  DVD runs for 60 minutes and contains subtitles in several languages. <br />
  The movie may be used by TV stations for broadcast <i>for free</i>, but only if the full movie is shown including the major part of the credits. Parts of the Eyes on the Skies movie may be shown in connection with features on the International Year of Astronomy, but only if the Eyes on the Skies movie or book are mentioned visibly or audibly.
                   <br />
                   <br />
@@ -384,10 +384,10 @@ body {
 <ul>
                   <li class="main">Produced in FullHD 1080p, also available as standard DVD and Blu-ray format<br />
                     <br />
-                      <a href="http://en.wikipedia.org/wiki/Blu-ray" target="_blank"><img src="images/logo_bluray.png" width="108" height="57" border="0" /></a><br>
+                      <a href="https://en.wikipedia.org/wiki/Blu-ray" target="_blank"><img src="images/logo_bluray.png" width="108" height="57" border="0" /></a><br>
                   <br>
 </li>
-                  <li class="main">This is an official movie for the <a href="http://www.astronomy2009.org" target="_blank">International Year of Astronomy 2009</a> and the <a href="http://www.iau.org/" target="_blank">International Astronomical Union</a><br>  
+                  <li class="main">This is an official movie for the <a href="https://www.astronomy2009.org" target="_blank">International Year of Astronomy 2009</a> and the <a href="https://www.iau.org/" target="_blank">International Astronomical Union</a><br>  
                     <br>
                   </li>
                   <li class="main">	60 minutes running time, with narrated text, comments from experts, and one program host  <br>
@@ -396,7 +396,7 @@ body {
                   <li class="main">	Visual elements: animations, computer simulations, science results, time-lapse footage from observatories<br>
                     <br>
                   </li>
-                  <li class="main">Soundtrack by <a href="http://www.movetwo.de/" target="_blank">movetwo</a><br>
+                  <li class="main">Soundtrack by <a href="https://www.movetwo.de/" target="_blank">movetwo</a><br>
                     <br>
                   </li>
                   <li class="main"> Produced by ESA/Hubble (the same team as behind the widely distributed  movie “Hubble — 15 Years of Discovery)
@@ -468,7 +468,7 @@ body {
   <p class="main"><br />
     <strong>Subtitles<br />
 </strong>    Subtitles    in different lanaguages can be found on:<br />
-    <a href="http://www.eso.org/~lchriste/trans/eyes/subtitles">http://www.eso.org/~lchriste/trans/eyes/subtitles</a>    <br />
+    <a href="https://www.eso.org/~lchriste/trans/eyes/subtitles">https://www.eso.org/~lchriste/trans/eyes/subtitles</a>    <br />
     <br />
     If you are interested in translating them into another language and   having it included in the next edition of the DVD, please use the   English .txt files provided on the link above as an example. Save your   the individual files in plain text format using UTF-8 encoding (for   instance in Microsoft Word with save as -&gt; text -&gt; UTF-8). Please use   the same formatting, keep the timecodes and don't change the number of   lines. Then <a href="mailto:rshida@eso.org">send the files to us</a> and we will reply as soon as we can. </p>
   <p class="main"><strong>Script <br />
@@ -478,7 +478,7 @@ body {
     Download high-resolution images containing scenes from the movie <a href="stillsforpress.php">on this link</a><br />
   </p>
   <p class="main"><strong>Buy it on the Hubble Shop</strong><br />
-  <a href="http://www.spacetelescope.org/hubbleshop/webshop/webshop.php?show=sales&amp;section=cdroms">http://www.spacetelescope.org/hubbleshop/webshop/webshop.php?show=sales&section=cdroms</a><br />
+  <a href="https://www.spacetelescope.org/hubbleshop/webshop/webshop.php?show=sales&amp;section=cdroms">https://www.spacetelescope.org/hubbleshop/webshop/webshop.php?show=sales&section=cdroms</a><br />
   </p>
   <p class="main"><br />
   </p>
@@ -490,7 +490,7 @@ body {
   <p align="left" class="main"><strong>Screenings</strong></p>
   <ul>
     <li  class="main">24–28 October 2011, International Festival of Popular Science and Educational Films &quot;World of Knowledge&quot;, St.-Petersburg, Russia.</li>
-    <li  class="main">7–10 September 2011, <a href="http://www.aaruush.net/index.php">AARUUSH'11</a>, SRM University, Chennai, India.</li>
+    <li  class="main">7–10 September 2011, <a href="https://www.aaruush.net/index.php">AARUUSH'11</a>, SRM University, Chennai, India.</li>
     <li  class="main"> 2 April 2011, Washington State Science &amp; Engineering Fair, Bremerton, Washington, USA.</li>
   </ul>
   <p align="left" class="main">Send updates to <a href="mailto:rshida@eso.org">rshida@eso.org</a><br />

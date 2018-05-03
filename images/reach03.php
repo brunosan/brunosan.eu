@@ -64,7 +64,7 @@
 <style type="text/css">
 
 /*Credits: Dynamic Drive CSS Library */
-/*URL: http://www.dynamicdrive.com/style/ */
+/*URL: https://www.dynamicdrive.com/style/ */
 
 .suckerdiv ul{
 margin: 0;
@@ -127,7 +127,7 @@ background: url(images/arrow-list.gif) no-repeat center right;
 <script type="text/javascript">
 
 //SuckerTree Vertical Menu 1.1 (Nov 8th, 06)
-//By Dynamic Drive: http://www.dynamicdrive.com/style/
+//By Dynamic Drive: https://www.dynamicdrive.com/style/
 
 var menuids=["suckertree1"] //Enter id(s) of SuckerTree UL menus, separated by commas
 
@@ -164,19 +164,19 @@ window.attachEvent("onload", buildsubmenus)
 
 <div class="suckerdiv">
 <ul id="suckertree1">
-<li><a href="http://www.southernscience.co.za/astronomystars/index.php">Home</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/meet.php">Meet the stars</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/speak.php">Speak from your heart</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/reach.php">Reach out</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/media.php">Work with the media</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/attention.php">Grab attention</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/story.php">Write a story</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/star.php">Star on radio and TV</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/pics.php">Show great pictures</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/blog.php">Blog, tweet and podcast</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/read.php">Read these</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/click.php">Click here</a></li>
-<li><a href="http://www.southernscience.co.za/astronomystars/contact.php">Contact</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/index.php">Home</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/meet.php">Meet the stars</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/speak.php">Speak from your heart</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/reach.php">Reach out</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/media.php">Work with the media</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/attention.php">Grab attention</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/story.php">Write a story</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/star.php">Star on radio and TV</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/pics.php">Show great pictures</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/blog.php">Blog, tweet and podcast</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/read.php">Read these</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/click.php">Click here</a></li>
+<li><a href="https://www.southernscience.co.za/astronomystars/contact.php">Contact</a></li>
 </div>	
 	</td>
 </tr>
@@ -221,7 +221,7 @@ window.attachEvent("onload", buildsubmenus)
 <p class="header">Taurus, beware of UFOs!
 
 
-<p class="author"><a href="http://www.brunosan.eu">Dr Bruno Sánchez-Andrade Nuño</a><br>College of Science, George Mason University, VA
+<p class="author"><a href="https://www.brunosan.eu">Dr Bruno Sï¿½nchez-Andrade Nuï¿½o</a><br>College of Science, George Mason University, VA
 
 
 
@@ -305,7 +305,7 @@ lines: Black holes, constellations, what is a star, how big is the universe,
 	
 	<table border="0" cellpadding="4" cellspacing="2" bgcolor="#1b3d7c">
 <tr>
-	<td class="footer">Astronomy Stars &copy; <a href="http://www.southernscience.co.za" class="footlink">Southern Science</a> 2009</td>
+	<td class="footer">Astronomy Stars &copy; <a href="https://www.southernscience.co.za" class="footlink">Southern Science</a> 2009</td>
 </tr>
 </table>
 

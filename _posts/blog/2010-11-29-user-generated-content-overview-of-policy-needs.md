@@ -5,7 +5,7 @@ layout: post
 status: publish
 meta: 
   geo_accuracy: "0"
-  tagazine-media: a:7:{s:7:"primary";s:57:"http://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg";s:6:"images";a:1:{s:57:"http://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg";a:6:{s:8:"file_url";s:57:"http://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg";s:5:"width";s:3:"828";s:6:"height";s:3:"399";s:4:"type";s:5:"image";s:4:"area";s:6:"330372";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2010-12-23 17:50:03";}
+  tagazine-media: a:7:{s:7:"primary";s:57:"https://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg";s:6:"images";a:1:{s:57:"https://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg";a:6:{s:8:"file_url";s:57:"https://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg";s:5:"width";s:3:"828";s:6:"height";s:3:"399";s:4:"type";s:5:"image";s:4:"area";s:6:"330372";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2010-12-23 17:50:03";}
   geo_public: "1"
   geo_address: 425 P St NW, Washington, DC 20001, USA
   geo_longitude: "-77.018000"
@@ -30,11 +30,11 @@ tags:
 title: User-Generated Content. Overview of policy needs
 ---
 <div>
-<p id="internal-source-marker_0.25862609688192606"><a href="http://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg"><img class="aligncenter size-medium wp-image-1057" title="UGC group" src="http://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg" alt="" width="80%" /></a></p>
+<p id="internal-source-marker_0.25862609688192606"><a href="https://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg"><img class="aligncenter size-medium wp-image-1057" title="UGC group" src="https://nasonurb.files.wordpress.com/2010/11/ugc-group.jpg" alt="" width="80%" /></a></p>
 
 <blockquote>-Background and authorship info-
 
-Part of the <a href="http://home.brunosan.eu/2010/07/02/science-technology-policy-fellow/">Mirzayan fellowship</a> was to propose topics on wich to write a policy paper. This is the topic I submitted and 10 other fellows joined. This is the result of 2 weeks of work. Some of the authors requested their authorship to remain internal to NAS. Therefore, I am not including names besides mine. Also you will note many similarities with my individual brief, in wich I concentrated into the subtopic of <a href="http://home.brunosan.eu/2010/10/28/crowdsourcing-development/">Crowdsourcing development</a>.
+Part of the <a href="https://home.brunosan.eu/2010/07/02/science-technology-policy-fellow/">Mirzayan fellowship</a> was to propose topics on wich to write a policy paper. This is the topic I submitted and 10 other fellows joined. This is the result of 2 weeks of work. Some of the authors requested their authorship to remain internal to NAS. Therefore, I am not including names besides mine. Also you will note many similarities with my individual brief, in wich I concentrated into the subtopic of <a href="https://home.brunosan.eu/2010/10/28/crowdsourcing-development/">Crowdsourcing development</a>.
 
 <!--more--></blockquote>
 <h4>Defining the Issue</h4>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
@@ -18,8 +18,8 @@
 	<title>Photographs by Jari Luomanen</title>
 	
 <! -- Compressed style sheets and scripts -->
-<script type='text/javascript' src='http://images3.kuvat.fi/kuvatv3_29/arch/v3-1341121112.pack-en.js'></script>
-<link type='text/css' rel='stylesheet' href='http://images3.kuvat.fi/kuvatv3_29/arch/v3-1341121112.pack.css' />
+<script type='text/javascript' src='https://images3.kuvat.fi/kuvatv3_29/arch/v3-1341121112.pack-en.js'></script>
+<link type='text/css' rel='stylesheet' href='https://images3.kuvat.fi/kuvatv3_29/arch/v3-1341121112.pack.css' />
 </head>
 <body id="Photosite" class="kuvatfi Dark folderstory Desktop  Notlogged Font2 Headercolor0 Highlightcolor0 Background0  Foldereffect0 Folderborder0 Thumbborder0 Lang_EN AdminLang_EN  homeactivated ">
 
@@ -50,7 +50,7 @@
 			<div id="usermenu" style="display:none;">
 				<ul>
 					<li id="servicesupport" onclick="openOverlay('report');"><span></span></li> 
-					<li id="developersblog" onclick="document.location.href='http://dev.kuvat.fi/blog/';"><span></span></li>
+					<li id="developersblog" onclick="document.location.href='https://dev.kuvat.fi/blog/';"><span></span></li>
 					<li id="servicelogout" onclick='logout();'><span></span></li>
 				</ul>
 			</div>
@@ -114,7 +114,7 @@
 				<div style='display:none;' class="downloadthisview flink"><span  class="icon" id='fsdl'></span></div>
 				<div style='display:none;' class="viewstatistics flink"><span class="icon"><span class="viewcount"></span> <span id='fsvi'></span></span></div>
 			</div>
-			<div class="copyright"><div align="center"><b>© Jari Luomanen. Please note that unauthorised use of any materials on this site is forbidden  : :  Muistathan, että materiaalin luvaton käyttö on kielletty</b></div>
+			<div class="copyright"><div align="center"><b>ï¿½ Jari Luomanen. Please note that unauthorised use of any materials on this site is forbidden  : :  Muistathan, ettï¿½ materiaalin luvaton kï¿½yttï¿½ on kielletty</b></div>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -123,7 +123,7 @@
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')   '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www')   '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -140,7 +140,7 @@
  var _gaq = _gaq || [];
  (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script></html>
@@ -150,7 +150,7 @@
  var _gaq = _gaq || [];
  (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
   
@@ -165,7 +165,7 @@ if (currentPath.indexOf("_=_")>0) 	{currentPath=currentPath.replace("_=_",""); }
 var currentHash = ""; //ie -9 support
 
 /*window.onerror = function (msg, url, line) {
-//	alert("Virhe: "  + msg + "\nRivi: " + line + "\n\nVälitä tässä mainitut tiedot tuki@kuvat.fi ongelman selvittämiseksi");
+//	alert("Virhe: "  + msg + "\nRivi: " + line + "\n\nVï¿½litï¿½ tï¿½ssï¿½ mainitut tiedot tuki@kuvat.fi ongelman selvittï¿½miseksi");
 	url = encodeURIComponent(document.location.href);
 // 	document.location.href="/kuvat/?errorlog=crash&msg=" + encodeURIComponent(msg) + "&line=" + encodeURIComponent(line) + "&url=" + url;
     var tmpImage = new Image();
@@ -207,7 +207,7 @@ document.getElementById("dynForm").submit();
     }
     
   }
-} else {
+}ï¿½else {
     if (document.location.hash.length>1 && !(document.location.hash.indexOf("_=_")>0))
     {
 			
@@ -248,7 +248,7 @@ document.getElementById("dynForm").submit();
    {
 	 $('body').addClass('retina');
    	}
-   	// estettään ajax stop
+   	// estettï¿½ï¿½n ajax stop
    $(document).keypress(function(e) {
    if(e.keyCode == 27) {
      e.preventDefault();
@@ -494,11 +494,11 @@ var currentCart =[];
 var currentCartId = 0;
 
 		
-var staturl= "http://217.149.59.39/?user=jari-pic-fi";
+var staturl= "https://217.149.59.39/?user=jari-pic-fi";
 var timer = [];
 var lockFileList=false;
 
-var sessionVisited = []; // kävijälaskurin
+var sessionVisited = []; // kï¿½vijï¿½laskurin
 var slidetimer;
 var windowscroll = 0;
 
@@ -509,7 +509,7 @@ var idleAllow=false;
 var  isIdle=false;
 var idleTolerance=0;
 
-var siteurl = "http://jari.pic.fi";
+var siteurl = "https://jari.pic.fi";
 var sitedomain = "jari.pic.fi";
 
 var scrollerposition=0;
@@ -570,7 +570,7 @@ config['settings']['rootlevelupload']=true;
 config['settings']['community_share'] =1;
 config['settings']['send_cart_to_admin'] = false;
 config['settings']['allow_cart_zip'] = false;
-config['settings']['allowscaleddownload'] = false;												
+config['settings']['allowscaleddownload']ï¿½= false;												
 config['settings']['allow_photo_order'] = false;
 config['settings']['blogsecurity'] = 2;
 config['settings']['homesecurity'] = 0;
@@ -636,15 +636,15 @@ var hideDropTimer;
 var imgX; var imgY;  // current kuvan kokojutuja
 var showloginhelper=false;
 var loginwarn = false; 
-var homepageborderalign;  // mikä tää o?
-var imagetab= 1; // 0 = tech   1 = comments (default-näkyäm sivupalkis)
+var homepageborderalign;  // mikï¿½ tï¿½ï¿½ o?
+var imagetab= 1; // 0 = tech   1 = comments (default-nï¿½kyï¿½m sivupalkis)
 var helperdialog;
 var currentSize;
 var webfonts=false;
 var mediumSize;	
 var nextGalleryItem;
 var prevGalleryItem;		
-var currentItemId;  // kuvanäkymän tämänhetkinen
+var currentItemId;  // kuvanï¿½kymï¿½n tï¿½mï¿½nhetkinen
 var friendAcl=  [];
 var highlight_folder = "";
 var modulelist=0;
@@ -652,7 +652,7 @@ var friendList;
 var sidebarVisible=false;
 var lastuploadedname;
 var allowimageoverlay=true;
-var currentLocation = ""; // tallettaa tämänhetkisen urlin (muyös blog/home etc)
+var currentLocation = ""; // tallettaa tï¿½mï¿½nhetkisen urlin (muyï¿½s blog/home etc)
 var folderdata = {};
 var folderlist;
 var subfolders = {};
@@ -675,7 +675,7 @@ var initialView=true;
 
 if (lite)
 {
-//  $.getScript('http://s.atemda.com/Admeta.js');
+//  $.getScript('https://s.atemda.com/Admeta.js');
   var ADM_PL = {};
 }
 
@@ -694,7 +694,7 @@ $('#servicesupport span').html(TXT['MENU SUPPORT']);
 $('#developersblog span').html(TXT['MENU DEVBLOG']);
 $('#servicelogout span').html(TXT['MENU LOGOUT']);
 $('#searchsubmitid').html(TXT['MENU SEARCH']);
-$('#servicelogin span').html(TXT['Kirjaudu sisään']);
+$('#servicelogin span').html(TXT['Kirjaudu sisï¿½ï¿½n']);
 $('#sitefooter .sharemenu h3').html(TXT['I SHARETHISPAGE']);
 $('#fsfb').html(TXT['I Facebookissa']);
 $('#fstw').html(TXT['I Twitterissa']);

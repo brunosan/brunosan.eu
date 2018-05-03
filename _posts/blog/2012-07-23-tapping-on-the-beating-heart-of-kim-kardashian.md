@@ -11,8 +11,8 @@ tags:
 ---
 
 That was the title of my first [Data Science DC
-Meetup](http://www.meetup.com/Data-Science-DC/events/70123182/). [Mike
-Dewar](http://www.twitter.com/mikedewar), from bitly,
+Meetup](https://www.meetup.com/Data-Science-DC/events/70123182/). [Mike
+Dewar](https://www.twitter.com/mikedewar), from bitly,
 [presented](https://github.com/mikedewar/beatingheart) his work on tracking attention. The
 background hypothesis is that attention leads to revenue, and he wants
 to measure attention at any given time by means of click rates. With bily he has access to **all** clicks on
@@ -49,7 +49,7 @@ And for each click the meta data, with all these variables:
 "p": "new",
 "hh": "bit.ly",
 "r": "direct",
-"u": "http://www.padmalakshmi.com/po...",
+"u": "https://www.padmalakshmi.com/po...",
 "t": 1341021591,
 "hc": 1340637617,
 "cy": "Seattle",
@@ -71,7 +71,7 @@ BTW, they even provide a public feed with click events for all .gov .mil
 shortlinks (with anonymized data). To see the live stream of clicks run this
 on the terminal:
 
-    curl http://developer.usa.gov/1usagov
+    curl https://developer.usa.gov/1usagov
 
 ###Back to Kim Kardashian###
 
@@ -109,7 +109,7 @@ would not go below the standard deviation of the time deltas.
 
 ![](/images/gaus-kim.png)
 
-This when Mike takes out the [gamma function](http://en.wikipedia.org/wiki/Gamma_distribution). The best property is that
+This when Mike takes out the [gamma function](https://en.wikipedia.org/wiki/Gamma_distribution). The best property is that
 it only spreads in one direction, but it is also nice that one of the
 two free parameters can be linked to the lag/resolution of the system.
 
@@ -122,12 +122,12 @@ results. Good enough for the real part.
 ###The beating heart
 
 So, what happens when Kim writes a blog post about having [10 million
-likes](http://www.celebuzz.com/2012-07-10/kim-kardashian-thanks-to-all-10-million-of-you/)? She gets a burst of 2 clicks per seconds, which decay quite fast. Using the approach above we can get an *attention function* for that event, for each shortlink and the clicks people do on those links.
+likes](https://www.celebuzz.com/2012-07-10/kim-kardashian-thanks-to-all-10-million-of-you/)? She gets a burst of 2 clicks per seconds, which decay quite fast. Using the approach above we can get an *attention function* for that event, for each shortlink and the clicks people do on those links.
 
 
 ![](/images/kim_attention.png)
 
-What about the Cookie moster [video](http://www.youtube.com/watch?v=-qTIGg3I5y8)? 4
+What about the Cookie moster [video](https://www.youtube.com/watch?v=-qTIGg3I5y8)? 4
 times less attention.
 
 
@@ -190,7 +190,7 @@ I could not help it but wonder if one could find a parameter space where the
 ergodic principles applies. This would be great since it removes the
 dependence with time.
 
-Basically the [ergodic hypothesis](http://en.wikipedia.org/wiki/Ergodic_theory)
+Basically the [ergodic hypothesis](https://en.wikipedia.org/wiki/Ergodic_theory)
  aims to relate the time average to the space average. For example
 the average of throwing 100 dices, is the same as the average of
 throwing once dice 100 times.

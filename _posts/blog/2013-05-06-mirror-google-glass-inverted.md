@@ -14,7 +14,7 @@ tags:
 
 
 These past days I have had the chance to play for the first time with the Google Glass
-from [Silica Labs](http://www.silicalabs.com). This post is not about the
+from [Silica Labs](https://www.silicalabs.com). This post is not about the
 experience, you can find about that online. What drove my interest is
 the hardware, in particular the eyepiece. If Google Glass is to become
 popularized, the eyepiece needs to be as small and invisible as possible.
@@ -71,7 +71,7 @@ I believe there must be better options, smaller and less visible when you
 wear them. Perhaps:
 
 * A single non-flat semi-transparent mirror instead of the flat one. This what we use on a special type of telescopes. They
-are called asymmetrical or *[off-axis](http://en.wikipedia.org/wiki/Reflecting_telescope#Off-axis_designs)*. They come with their own set of
+are called asymmetrical or *[off-axis](https://en.wikipedia.org/wiki/Reflecting_telescope#Off-axis_designs)*. They come with their own set of
 problems (like chromatic aberrations), but in such a small light path I
 would still argue to try it, with some combination of software to
 correct these problems. Still, that option would probably introduce strange field aberrations on
@@ -85,7 +85,7 @@ of your normal view.
 ###Ideas for Apps for the Google Glass
 
 After using them for a weekend, talking about them with colleagues at
-[Silica Labs](http://www.silicalabs.com), and wear them at various
+[Silica Labs](https://www.silicalabs.com), and wear them at various
 situations, I got a few ideas for apps:
 
 * *Climb app*. Save videos and pictures of your climbs. At any climbing

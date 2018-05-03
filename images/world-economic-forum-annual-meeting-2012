@@ -1,12 +1,12 @@
 
 <!DOCTYPE html>
-<html lang="en" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<html lang="en" dir="ltr" xmlns:og="https://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
 <meta charset="utf-8">
 <title>World Economic Forum Annual Meeting 2012 | World Economic Forum - World Economic Forum Annual Meeting 2012</title>
 
 <meta property="og:title" content="World Economic Forum Annual Meeting 2012"/>
-<meta property="og:image" content="http://www.weforum.org/sites/all/themes/wef-960/images/main-template/logo-wef.jpg"/>
+<meta property="og:image" content="https://www.weforum.org/sites/all/themes/wef-960/images/main-template/logo-wef.jpg"/>
 <meta property="og:site_name" content="World Economic Forum Annual Meeting 2012 | World Economic Forum"/>
 
 <!--[if IE]><script type="text/javascript" src="/sites/all/themes/wef-960/scripts/ie-html5.js"></script><![endif]-->
@@ -52,7 +52,7 @@ DD_belatedPNG.fix('.dwl-doc , #wef-logo, #overlay_promo_logo, .png, .arrow-toolt
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -81,7 +81,7 @@ DD_belatedPNG.fix('.dwl-doc , #wef-logo, #overlay_promo_logo, .png, .arrow-toolt
       </div>
     </form>
   </div>
-  <a href="http://chinese.weforum.org/" id="chineselink">中文</a>
+  <a href="https://chinese.weforum.org/" id="chineselink">中文</a>
     <!-- end login region -->
   <div id="container" class="container-12 clear-block">
     <header id="header" class="region grid-12 clear-block">
@@ -119,7 +119,7 @@ DD_belatedPNG.fix('.dwl-doc , #wef-logo, #overlay_promo_logo, .png, .arrow-toolt
 
 			      <div id="share_panel_ct">
         <div id="fb_button">
-          <iframe src="http://www.facebook.com/plugins/like.php?app_id=133388540076210&amp;href=http%3A%2F%2Fwef.ch%2F4TJ&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>
+          <iframe src="https://www.facebook.com/plugins/like.php?app_id=133388540076210&amp;href=http%3A%2F%2Fwef.ch%2F4TJ&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>
         </div>
         <div id="plusone">
           <g:plusone size="small" count="false" href="http%3A%2F%2Fwef.ch%2F4TJ"></g:plusone>
@@ -133,9 +133,9 @@ DD_belatedPNG.fix('.dwl-doc , #wef-logo, #overlay_promo_logo, .png, .arrow-toolt
 	          <input type="text" value="http%3A%2F%2Fwef.ch%2F4TJ" />
 	        </div>
 					</li>
-           <li class="linkedin_share"><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwef.ch%2F4TJ" title="Linkedin">Linkedin</a></li>
+           <li class="linkedin_share"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwef.ch%2F4TJ" title="Linkedin">Linkedin</a></li>
            <li class="twitter_share"><a href="https://twitter.com/intent/tweet?status=World+Economic+Forum+http%3A%2F%2Fwef.ch%2F4TJ" title="Twitter">Twitter</a></li>
-           <li class="facebook_share"><a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwef.ch%2F4TJ" title="Facebook">Facebook</a></li>
+           <li class="facebook_share"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwef.ch%2F4TJ" title="Facebook">Facebook</a></li>
         </ul>
         <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
         </div>
@@ -172,10 +172,10 @@ DD_belatedPNG.fix('.dwl-doc , #wef-logo, #overlay_promo_logo, .png, .arrow-toolt
         <div class="grid-8 blue">
                 <h1 class="bigger dark"> World Economic Forum Annual Meeting 2012 </h1>
         
-        <div style="font-size: 12px;"><p><strong>Davos-Klosters, Switzerland 25-29 January<br /></strong><em>The Great Transformation: Shaping New Models</em></p><p><font size="2">The World Economic Forum Annual Meeting in Davos has wrapped up. It has been as ever, a cornucopia of intellectual fare, with some 260 sessions on everything from the Secrets of the Universe to Fixing Capitalism, and a cast of the world's intellectual, business, arts, cultural and social giants. It has been a week of superlatives, the most participants, sessions, snow, media coverage... you name a record and we have broken it.&nbsp;</font><br /><br /><font size="2">In short, The outlook, after a week of intense discussion, is of a troubled world pressed for solutions across a number of fronts, but with optimism provided by human ingenuity and progress. </font><font size="2">Rather than attempt to summarise or curate, we direct you to the full library of content, videos, summaries, tweets, quotes, blog posts and highlights. Enjoy.</font></p><p><font size="2"><a href="http://forumblog.org/event/annual-meeting-2012/" target="_blank">Read the flow of our Annual Meeting on Forum:Blog</a><br /><a href="/events/world-economic-forum-annual-meeting-2012?idvideo=99977">Watch videos of the event</a></font></p></div>        <div class="clr"></div>
+        <div style="font-size: 12px;"><p><strong>Davos-Klosters, Switzerland 25-29 January<br /></strong><em>The Great Transformation: Shaping New Models</em></p><p><font size="2">The World Economic Forum Annual Meeting in Davos has wrapped up. It has been as ever, a cornucopia of intellectual fare, with some 260 sessions on everything from the Secrets of the Universe to Fixing Capitalism, and a cast of the world's intellectual, business, arts, cultural and social giants. It has been a week of superlatives, the most participants, sessions, snow, media coverage... you name a record and we have broken it.&nbsp;</font><br /><br /><font size="2">In short, The outlook, after a week of intense discussion, is of a troubled world pressed for solutions across a number of fronts, but with optimism provided by human ingenuity and progress. </font><font size="2">Rather than attempt to summarise or curate, we direct you to the full library of content, videos, summaries, tweets, quotes, blog posts and highlights. Enjoy.</font></p><p><font size="2"><a href="https://forumblog.org/event/annual-meeting-2012/" target="_blank">Read the flow of our Annual Meeting on Forum:Blog</a><br /><a href="/events/world-economic-forum-annual-meeting-2012?idvideo=99977">Watch videos of the event</a></font></p></div>        <div class="clr"></div>
                       <div class="block block-www_events" id="block-www_events-live_debate">
           <h2 class="title">Knowledge. Captured. The Annual Meeting in Video</h2>
-        <div class="content"><a href="/events/world-economic-forum-annual-meeting-2012?idvideo=99977" border="0"><img src="http://www3.weforum.org/podcast/am2012vidgraphic/vid-page-pic.jpg"></a></div>
+        <div class="content"><a href="/events/world-economic-forum-annual-meeting-2012?idvideo=99977" border="0"><img src="https://www3.weforum.org/podcast/am2012vidgraphic/vid-page-pic.jpg"></a></div>
  </div>
                 <p class="bloc-txt"><div class="content-html-editor"> <p><strong><br /></strong></p> </div></p>
               <h2>More event content</h2>
@@ -482,7 +482,7 @@ DD_belatedPNG.fix('.dwl-doc , #wef-logo, #overlay_promo_logo, .png, .arrow-toolt
     
       
   <div class="views-field-body">
-                <div class="field-content"><span class="field-content"><a href="/videos/davos-2012-great-transformation-shaping-new-models" class="imagefield imagefield-nodelink imagefield-field_imagefile"><img  class="imagefield imagefield-field_imagefile" width="1274" height="716" alt="" src="/sites/default/files/photos/Screen%20Shot%202012-03-20%20at%209.42.50%20AM.png?1332342147" /></a></span><div class="field-content"> <p>Over 2600 leaders from 100 countries addressed some of the world's greatest challenges at the Annual Meeting 2012 in Davos-Klosters. Discover the insights gained on the overall theme of The Great Transformation, Shaping New Models.</p><p><a href="http://reports.weforum.org/davos-2012/" target="_blank"><img src="/sites/default/files/am12-report-reader.jpg" alt="Annual Meeting 2012 - Read the Annual Meeting 2012 Report online here" title="Annual Meeting 2012 - Read the Annual Meeting 2012 Report online here" width="380" height="80" /></a></p> </div></div>
+                <div class="field-content"><span class="field-content"><a href="/videos/davos-2012-great-transformation-shaping-new-models" class="imagefield imagefield-nodelink imagefield-field_imagefile"><img  class="imagefield imagefield-field_imagefile" width="1274" height="716" alt="" src="/sites/default/files/photos/Screen%20Shot%202012-03-20%20at%209.42.50%20AM.png?1332342147" /></a></span><div class="field-content"> <p>Over 2600 leaders from 100 countries addressed some of the world's greatest challenges at the Annual Meeting 2012 in Davos-Klosters. Discover the insights gained on the overall theme of The Great Transformation, Shaping New Models.</p><p><a href="https://reports.weforum.org/davos-2012/" target="_blank"><img src="/sites/default/files/am12-report-reader.jpg" alt="Annual Meeting 2012 - Read the Annual Meeting 2012 Report online here" title="Annual Meeting 2012 - Read the Annual Meeting 2012 Report online here" width="380" height="80" /></a></p> </div></div>
   </div>
     
       
@@ -607,7 +607,7 @@ Forum’s Members, Partners and communities to improving the state of the world.
     
       
   <div class="views-field-body">
-                <div class="field-content"><span class="field-content"><a href="/content/sunday-highlights" class="imagefield imagefield-nodelink imagefield-field_imagefile"><img  class="imagefield imagefield-field_imagefile" width="333" height="500" alt="" src="/sites/default/files/photos/http___www3.weforum.org_docs_AM12_WEF_AM12_Quotes_29.01.jpg?1327844188" /></a></span><div class="field-content"> <p>Read the <a href="http://www3.weforum.org/docs/AM12/WEF_AM12_Quotes_29.01.2012.pdf" target="_blank">best quotes from sessions</a> on Sunday 29 January at the Annual Meeting 2012 held in Davos-Klosters, Switzerland.</p> </div></div>
+                <div class="field-content"><span class="field-content"><a href="/content/sunday-highlights" class="imagefield imagefield-nodelink imagefield-field_imagefile"><img  class="imagefield imagefield-field_imagefile" width="333" height="500" alt="" src="/sites/default/files/photos/http___www3.weforum.org_docs_AM12_WEF_AM12_Quotes_29.01.jpg?1327844188" /></a></span><div class="field-content"> <p>Read the <a href="https://www3.weforum.org/docs/AM12/WEF_AM12_Quotes_29.01.2012.pdf" target="_blank">best quotes from sessions</a> on Sunday 29 January at the Annual Meeting 2012 held in Davos-Klosters, Switzerland.</p> </div></div>
   </div>
     
       
@@ -696,7 +696,7 @@ Forum’s Members, Partners and communities to improving the state of the world.
   <div class="views-field-body">
                 <div class="field-content"><span class="field-content"></span><div class="field-content"><p>Participants of the Annual Meeting 2012 share their "Davos Moment"</p>
 
-<iframe width="460" height="264" src="http://www.youtube.com/embed/videoseries?list=PL51A658FFDC1DCF33&amp;hl=en_US" frameborder="0" allowfullscreen></iframe></div></div>
+<iframe width="460" height="264" src="https://www.youtube.com/embed/videoseries?list=PL51A658FFDC1DCF33&amp;hl=en_US" frameborder="0" allowfullscreen></iframe></div></div>
   </div>
     
       
@@ -1035,7 +1035,7 @@ is discussed in technical terms, deleveraging and so...</p></div></div>
       <div id="events-future-regional-briefing" class="module-blocs">
             <h2>Knowledge Concierge</h2>
     <div id="briefings">
-        <p><a href="http://www.knowledgeconcierge.com/davos12" target="_blank">Fast Facts and Knowledge Concierge prepared by PwC for the World Economic Forum</a>&nbsp;</p>    </div>
+        <p><a href="https://www.knowledgeconcierge.com/davos12" target="_blank">Fast Facts and Knowledge Concierge prepared by PwC for the World Economic Forum</a>&nbsp;</p>    </div>
       </div>
 
       <div id="events-useful-information">
@@ -1043,7 +1043,7 @@ is discussed in technical terms, deleveraging and so...</p></div></div>
 	<h2>Useful Information </h2>
 	
 	<div class="txt-item btm-line">
-		<ul class="arrow-list"><li class="title-item"><a href="http://www3.weforum.org/docs/AM12/WEF_AM12_ExecutiveSummary.pdf" title="Executive Summary">Executive Summary</a></li><li class="title-item"><a href="http://www3.weforum.org/docs/AM12/WEF_AM12_ProgrammeGlance.pdf" title="Programme at a Glance">Programme at a Glance</a></li><li class="title-item"><a href="http://www3.weforum.org/docs/AM12/WEF_AM12_ProgrammeWeb.pdf" title="Full Programme">Full Programme</a></li><li class="title-item"><a href="http://www3.weforum.org/docs/AM12/WEF_AM12_GreenerDavosInitiative.pdf" title="Greener Davos Initiative">Greener Davos Initiative</a></li><li class="title-item"><a href="http://www.openforumdavos.ch/" title="Open Forum Davos 2012">Open Forum Davos 2012</a></li><li class="title-item"><a href="/press" title="Press Kit">Press Kit</a></li><li class="title-item"><a href="http://www.flickr.com/photos/worldeconomicforum/sets/72157628022903406/" title="Annual Meeting Photos on Flickr">Annual Meeting Photos on Flickr</a></li></ul>	</div>
+		<ul class="arrow-list"><li class="title-item"><a href="https://www3.weforum.org/docs/AM12/WEF_AM12_ExecutiveSummary.pdf" title="Executive Summary">Executive Summary</a></li><li class="title-item"><a href="https://www3.weforum.org/docs/AM12/WEF_AM12_ProgrammeGlance.pdf" title="Programme at a Glance">Programme at a Glance</a></li><li class="title-item"><a href="https://www3.weforum.org/docs/AM12/WEF_AM12_ProgrammeWeb.pdf" title="Full Programme">Full Programme</a></li><li class="title-item"><a href="https://www3.weforum.org/docs/AM12/WEF_AM12_GreenerDavosInitiative.pdf" title="Greener Davos Initiative">Greener Davos Initiative</a></li><li class="title-item"><a href="https://www.openforumdavos.ch/" title="Open Forum Davos 2012">Open Forum Davos 2012</a></li><li class="title-item"><a href="/press" title="Press Kit">Press Kit</a></li><li class="title-item"><a href="https://www.flickr.com/photos/worldeconomicforum/sets/72157628022903406/" title="Annual Meeting Photos on Flickr">Annual Meeting Photos on Flickr</a></li></ul>	</div>
       </div>
       <!--<div id="events-live-past-future-events" class="module-blocs"></div>-->
 
@@ -1097,63 +1097,63 @@ is discussed in technical terms, deleveraging and so...</p></div></div>
         <h2>Media Coverage</h2>
                 <ul class="arrow-list">
                             <li class="title-item">
-                    <a target="_blank" href="http://forumblog.org/2012/01/davos-2012-beating-the-burnout/"  title="Beating the Burnout - Forum:Blog">
+                    <a target="_blank" href="https://forumblog.org/2012/01/davos-2012-beating-the-burnout/"  title="Beating the Burnout - Forum:Blog">
                         Beating the Burnout - Forum:Blog                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.huffingtonpost.com/dominic-waughray/green-business-at-davos_b_1212885.html"  title="Greener Davos on the Huffington Post">
+                    <a target="_blank" href="https://www.huffingtonpost.com/dominic-waughray/green-business-at-davos_b_1212885.html"  title="Greener Davos on the Huffington Post">
                         Greener Davos on the Huffington Post                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.bloomberg.com/davos"  title="Annual Meeting coverage from Bloomberg">
+                    <a target="_blank" href="https://www.bloomberg.com/davos"  title="Annual Meeting coverage from Bloomberg">
                         Annual Meeting coverage from Bloomberg                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://davos.cnbc.com"  title="Annual Meeting coverage from CNBC">
+                    <a target="_blank" href="https://davos.cnbc.com"  title="Annual Meeting coverage from CNBC">
                         Annual Meeting coverage from CNBC                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://edition.cnn.com/SPECIALS/davos/"  title="Annual Meeting Coverage from CNN">
+                    <a target="_blank" href="https://edition.cnn.com/SPECIALS/davos/"  title="Annual Meeting Coverage from CNN">
                         Annual Meeting Coverage from CNN                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.reuters.com/subjects/davos"  title="Annual Meeting Coverage from Reuters">
+                    <a target="_blank" href="https://www.reuters.com/subjects/davos"  title="Annual Meeting Coverage from Reuters">
                         Annual Meeting Coverage from Reuters                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.ft.com/intl/indepth/davos"  title="Annual Meeting Coverage from The Financial Times">
+                    <a target="_blank" href="https://www.ft.com/intl/indepth/davos"  title="Annual Meeting Coverage from The Financial Times">
                         Annual Meeting Coverage from The Financial Times                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.bbc.co.uk/news/business-16670712"  title="Q&amp;A: World Economic Forum Davos 2012 - BBC">
+                    <a target="_blank" href="https://www.bbc.co.uk/news/business-16670712"  title="Q&amp;A: World Economic Forum Davos 2012 - BBC">
                         Q&A: World Economic Forum Davos 2012 - BBC                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.bbc.co.uk/news/business-12232883"  title="Ten things you didn't know about Davos - BBC">
+                    <a target="_blank" href="https://www.bbc.co.uk/news/business-12232883"  title="Ten things you didn't know about Davos - BBC">
                         Ten things you didn't know about Davos - BBC                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.guardian.co.uk/business/2012/jan/22/davos-world-economic-forum-guide"  title="Davos guide - Guardian.co.uk">
+                    <a target="_blank" href="https://www.guardian.co.uk/business/2012/jan/22/davos-world-economic-forum-guide"  title="Davos guide - Guardian.co.uk">
                         Davos guide - Guardian.co.uk                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.nytimes.com/aponline/2012/01/24/business/AP-EU-Davos-Forum.html"  title="An Interview with Klaus Schwab by AP on the New York Times">
+                    <a target="_blank" href="https://www.nytimes.com/aponline/2012/01/24/business/AP-EU-Davos-Forum.html"  title="An Interview with Klaus Schwab by AP on the New York Times">
                         An Interview with Klaus Schwab by AP on the New York Times                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.efinancialnews.com/story/2012-01-25/world-economic-forum-expects-record-number-of-female-executives-at-davos-in-second-year-of-quota"  title="Record number of female executives expected at Davos - Dow Jones">
+                    <a target="_blank" href="https://www.efinancialnews.com/story/2012-01-25/world-economic-forum-expects-record-number-of-female-executives-at-davos-in-second-year-of-quota"  title="Record number of female executives expected at Davos - Dow Jones">
                         Record number of female executives expected at Davos - Dow Jones                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.ftd.de/politik/international/:interview-mit-davos-chef-schwab-das-kapitalistische-system-passt-nicht-mehr-in-die-welt/60159130.html"  title="&quot;Das kapitalistische System passt nicht mehr in die Welt&quot; - Financial Times Deutschland">
+                    <a target="_blank" href="https://www.ftd.de/politik/international/:interview-mit-davos-chef-schwab-das-kapitalistische-system-passt-nicht-mehr-in-die-welt/60159130.html"  title="&quot;Das kapitalistische System passt nicht mehr in die Welt&quot; - Financial Times Deutschland">
                         "Das kapitalistische System passt nicht mehr in die Welt" - Financial Times Deutschland                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.telegraph.co.uk/finance/financetopics/davos/9040843/Davos-2012-Gates-calls-on-G20-not-to-ignore-the-hungry.html"  title="Davos 2012: Gates calls on G20 not to ignore the hungry - The Telegraph">
+                    <a target="_blank" href="https://www.telegraph.co.uk/finance/financetopics/davos/9040843/Davos-2012-Gates-calls-on-G20-not-to-ignore-the-hungry.html"  title="Davos 2012: Gates calls on G20 not to ignore the hungry - The Telegraph">
                         Davos 2012: Gates calls on G20 not to ignore the hungry - The Telegraph                    </a>
                 </li>
                             <li class="title-item">
-                    <a target="_blank" href="http://www.huffingtonpost.com/perry-yeatman/workplace-wellness-the-se_b_1232397.html"  title="Workplace Wellness: Secret Ingredient to Fighting NCDs Based on Report Released at Davos - Perry Yeatman on Huffington Post">
+                    <a target="_blank" href="https://www.huffingtonpost.com/perry-yeatman/workplace-wellness-the-se_b_1232397.html"  title="Workplace Wellness: Secret Ingredient to Fighting NCDs Based on Report Released at Davos - Perry Yeatman on Huffington Post">
                         Workplace Wellness: Secret Ingredient to Fighting NCDs Based on Report Released at Davos - Perry Yeatman on Huffington Post                    </a>
                 </li>
                     </ul>
@@ -1182,7 +1182,7 @@ is discussed in technical terms, deleveraging and so...</p></div></div>
   <li><a href="/community/global-growth-companies" title="Global Growth Companies">Global Growth Companies</a></li>
   <li><a href="/community/risk-response-network" title="Risk Response Network">Risk Response Network</a></li>
   <li><a href="/community/technology-pioneers" title="Technology Pioneers">Technology Pioneers</a></li>
-  <li><a href="http://www.schwabfound.org" target="_blank" title="Schwab Foundation">Schwab Foundation</a></li>
+  <li><a href="https://www.schwabfound.org" target="_blank" title="Schwab Foundation">Schwab Foundation</a></li>
   <li><a href="/community/forum-young-global-leaders" title="Young Global Leaders">Young Global Leaders</a></li>
   <li><a href="/community/global-agenda-councils" title="Global Agenda Councils">Global Agenda Councils</a></li>
   <li><a href="/women-leaders-and-gender-parity" title="Women Leaders and Gender Parity">Women Leaders and Gender Parity</a></li>
@@ -1223,7 +1223,7 @@ is discussed in technical terms, deleveraging and so...</p></div></div>
 <li class="leaf menu-mlid-240238"><a href="/contact-us-form" title="Contact Us">Contact Us</a></li>
 <li class="leaf menu-mlid-218552"><a href="/faq" title="FAQs">FAQs</a></li>
 <li class="leaf menu-mlid-423143"><a href="/world-economic-forum-usa" title="World Economic Forum USA">World Economic Forum USA</a></li>
-<li class="leaf menu-mlid-423145"><a href="http://chinese.weforum.org/" title="中文">中文</a></li>
+<li class="leaf menu-mlid-423145"><a href="https://chinese.weforum.org/" title="中文">中文</a></li>
 <li class="leaf last menu-mlid-446228"><a href="/privacy-terms-use" title="Privacy &amp; Terms of Use">Privacy &amp; Terms of Use</a></li>
 </ul></div>
 </div>
@@ -1263,21 +1263,21 @@ is discussed in technical terms, deleveraging and so...</p></div></div>
 
       <div class="block block-block" id="block-block-3">
           <h2 class="title">Find us on:</h2>
-        <div class="content"> <ul class="social-links"><li><a href="http://www.forumblog.org/" title="Forum Blog" class="ico-forumblog tooltip-top">Forum:Blog</a></li>
-<li><a href="http://forumblog.org/podcasts/" title="Forum:Podcasts" class="ico-podcasts tooltip-top">Forum:Podcasts</a></li>
-<li><a href="http://twitter.com/davos" title="Twitter@davos" class="ico-twitter tooltip-top">Twitter@davos</a></li><li><a href="http://www.facebook.com/worldeconomicforum" title="Facebook" class="ico-facebook tooltip-top">Facebook</a></li><li><a href="http://www.youtube.com/worldeconomicforum" title="Youtube" class="ico-youtube tooltip-top">YouTube</a></li><li><a href="http://www.flickr.com/worldeconomicforum" title="Flickr" class="ico-flickr tooltip-top">Flickr</a></li><li><a href="http://www.scribd.com/worldeconomicforum/" title="Scribd" class="ico-scribd tooltip-top">Scribd</a></li></ul><!-- end social-links --> </div>
+        <div class="content"> <ul class="social-links"><li><a href="https://www.forumblog.org/" title="Forum Blog" class="ico-forumblog tooltip-top">Forum:Blog</a></li>
+<li><a href="https://forumblog.org/podcasts/" title="Forum:Podcasts" class="ico-podcasts tooltip-top">Forum:Podcasts</a></li>
+<li><a href="https://twitter.com/davos" title="Twitter@davos" class="ico-twitter tooltip-top">Twitter@davos</a></li><li><a href="https://www.facebook.com/worldeconomicforum" title="Facebook" class="ico-facebook tooltip-top">Facebook</a></li><li><a href="https://www.youtube.com/worldeconomicforum" title="Youtube" class="ico-youtube tooltip-top">YouTube</a></li><li><a href="https://www.flickr.com/worldeconomicforum" title="Flickr" class="ico-flickr tooltip-top">Flickr</a></li><li><a href="https://www.scribd.com/worldeconomicforum/" title="Scribd" class="ico-scribd tooltip-top">Scribd</a></li></ul><!-- end social-links --> </div>
  </div>
 
         <div class="mobileApps">
         <h2>Mobile apps</h2>
-        <a href="http://itunes.apple.com/app/world-economic-forum-official/id413141767?mt=8" target="_blank">
+        <a href="https://itunes.apple.com/app/world-economic-forum-official/id413141767?mt=8" target="_blank">
 
 
   <img src="/sites/all/themes/wef-960/images/appStore.gif" />
 
 
         </a>
-        <a href="http://market.android.com/details?id=com.mobileroadie.app_685" target="_blank"><img src="/sites/all/themes/wef-960/images/androidMarket.gif" /></a>
+        <a href="https://market.android.com/details?id=com.mobileroadie.app_685" target="_blank"><img src="/sites/all/themes/wef-960/images/androidMarket.gif" /></a>
       </div>
   </div>
 
@@ -1306,7 +1306,7 @@ jQuery.extend(Drupal.settings, {"googleCSE":{"language":"en"}});
 </script>
  
         <script type="text/javascript">
- var wtl_loc = document.URL.indexOf('https:')==0?'https://a248.e.akamai.net/v/248/2120/1d/download.akamai.com/crs/lgsitewise.js':'http://crs.akamai.com/crs/lgsitewise.js';
+ var wtl_loc = document.URL.indexOf('https:')==0?'https://a248.e.akamai.net/v/248/2120/1d/download.akamai.com/crs/lgsitewise.js':'https://crs.akamai.com/crs/lgsitewise.js';
  document.write("<SCR" + "IPT Language = 'JavaScript' SRC = '" + wtl_loc + "'></SCR" + "IPT>");
 
  </script>
@@ -1337,7 +1337,7 @@ jQuery.extend(Drupal.settings, {"googleCSE":{"language":"en"}});
 </script>
 
 <noscript>
-<img width="1" height="1" src="http://statse.webtrendslive.com/S144700/button6.asp?tagver=6&amp;si=144700&amp;offset=100&amp;fw=1&amp;js=No&amp;" />
+<img width="1" height="1" src="https://statse.webtrendslive.com/S144700/button6.asp?tagver=6&amp;si=144700&amp;offset=100&amp;fw=1&amp;js=No&amp;" />
 </noscript>
 
 <script type="text/javascript">
@@ -1350,7 +1350,7 @@ jQuery.extend(Drupal.settings, {"googleCSE":{"language":"en"}});
   };
   function _loadUserVoice() {
     var s = document.createElement('script');
-    s.src = ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js";
+    s.src = ("https:" == document.location.protocol ? "https://" : "https://") + "cdn.uservoice.com/javascripts/widgets/tab.js";
     document.getElementsByTagName('head')[0].appendChild(s);
   }
   _loadSuper = window.onload;
@@ -1360,7 +1360,7 @@ jQuery.extend(Drupal.settings, {"googleCSE":{"language":"en"}});
   var uvOptions = {};
   (function() {
     var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/pEGlTe0kBeRHqkcjvPKiA.js';
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'https://') + 'widget.uservoice.com/pEGlTe0kBeRHqkcjvPKiA.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
   })();
 

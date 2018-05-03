@@ -25,7 +25,7 @@
 <div id="headerWrap">
 	<div id="header">
 		<div id="headerLeft">
-			<a href="http://www.ewb-usa.org/"><img src="/themes/ewb/common/images/header-logo.png" class="pngFix" /></a>
+			<a href="https://www.ewb-usa.org/"><img src="/themes/ewb/common/images/header-logo.png" class="pngFix" /></a>
 		</div>
 		<div id="headerRight">
 		
@@ -34,7 +34,7 @@
       URL's to use for Testing Only
       
       Test Login URL :
-      	https://secure.asce.org/PTSTASCEWebsite/Secure/SignIn/SignIn.aspx?ASCEURL=http://www.ewb-usa.org/theme/asce/login.php
+      	https://secure.asce.org/PTSTASCEWebsite/Secure/SignIn/SignIn.aspx?ASCEURL=https://www.ewb-usa.org/theme/asce/login.php
       
       Test Profile URL: https://secure.asce.org/PTSTASCEWebsite/OnlineProfile/MemberOnlineProfile.aspx?b=ewb-usa
       
@@ -44,7 +44,7 @@
       URL's for Production (LIVE) access
       
       Production Login URL: 
-      	https://secure.asce.org/ASCEWebsite/Secure/SignIn/SignIn.aspx?ASCEURL=http://www.ewb-usa.org/theme/asce/login.php
+      	https://secure.asce.org/ASCEWebsite/Secure/SignIn/SignIn.aspx?ASCEURL=https://www.ewb-usa.org/theme/asce/login.php
       NOTE:  The ASCEURL parameter can be used for any EWB page requiring login.
       
       Production Profile URL: https://secure.asce.org/ASCEWebsite/OnlineProfile/MemberOnlineProfile.aspx?b=ewb-usa
@@ -55,7 +55,7 @@
   
   		-->		
 
-		  			<a href="javascript:switch_language('sp');">Espanol</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://secure.asce.org/ASCEWebsite/Secure/SignIn/SignIn.aspx?ASCEURL=http://asce.ewb-usa.org/login">sign in</a>
+		  			<a href="javascript:switch_language('sp');">Espanol</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://secure.asce.org/ASCEWebsite/Secure/SignIn/SignIn.aspx?ASCEURL=https://asce.ewb-usa.org/login">sign in</a>
 						<div id="donateNowButton">
 				<a href="/get-involved/membership"><img src="/themes/ewb/common/images/buttons/join-now.png" class="pngFix" /></a>
 			</div>
@@ -109,9 +109,9 @@
     <div class="copy">
       <h4 class="title">WHAT WE DO!</h4>
       <p>
-      The EWB-USA San Francisco Professional Chapter & UW-Madison Student Chapter have partnered with the <a href="http://www.ewb-usa.org/projects/locate-project/project_334" target="_blank">community of Cathor</a> to build a health clinic.<br />
+      The EWB-USA San Francisco Professional Chapter & UW-Madison Student Chapter have partnered with the <a href="https://www.ewb-usa.org/projects/locate-project/project_334" target="_blank">community of Cathor</a> to build a health clinic.<br />
 <br />
-EWB-USA chapters and projects are making a difference in the lives of communities around the world.  Learn more about the work we’re doing by clicking <a href="http://www.ewb-usa.org/projects/locate-project/project_334" target="_blank">here.</a><br />
+EWB-USA chapters and projects are making a difference in the lives of communities around the world.  Learn more about the work we’re doing by clicking <a href="https://www.ewb-usa.org/projects/locate-project/project_334" target="_blank">here.</a><br />
 <br />
 <br />
 
@@ -126,7 +126,7 @@ EWB-USA chapters and projects are making a difference in the lives of communitie
       <p>
       <b/>Our MISSION</b> -- EWB-USA supports community-driven development programs worldwide by collaborating with local partners to design and implement sustainable engineering projects, while creating transformative experiences and responsible leaders.<br />
 <br />
-The EWB-USA UMCP Student Chapter is building a bridge with the <a href="http://www.ewb-usa.org/projects/locate-project/project_7142" target="_blank">community of Addis Alem</a> to battle severe isolation from resources during rainy seasons.<br />
+The EWB-USA UMCP Student Chapter is building a bridge with the <a href="https://www.ewb-usa.org/projects/locate-project/project_7142" target="_blank">community of Addis Alem</a> to battle severe isolation from resources during rainy seasons.<br />
 
 			</p>  
     </div>
@@ -139,7 +139,7 @@ The EWB-USA UMCP Student Chapter is building a bridge with the <a href="http://w
       <p>
       <b/>A WATER STORY</b><br />
 <br />
-With the generous support of donors like you and the EWB-USA Yale Student chapter, the <a href="http://www.ewb-usa.org/projects/locate-project/project_2291" target="_blank">community of Kikoo</a> now has access to clean drinking water. <br />
+With the generous support of donors like you and the EWB-USA Yale Student chapter, the <a href="https://www.ewb-usa.org/projects/locate-project/project_2291" target="_blank">community of Kikoo</a> now has access to clean drinking water. <br />
 <br />
 <b><a href="https://ssl.charityweb.net/ewbusa/ " target="_blank">Donate today!</a></b>
 			</p>  
@@ -155,7 +155,7 @@ With the generous support of donors like you and the EWB-USA Yale Student chapte
 <br />
 Whether you're an EWB-USA member, a supporter or a fan, we want to hear from you!<br />
 <br />
-Visit <a href="http://www.ewb-usa.org/the-story" target="_blank">ewb-usa.org/the-story</a> and tell us your story today!
+Visit <a href="https://www.ewb-usa.org/the-story" target="_blank">ewb-usa.org/the-story</a> and tell us your story today!
 			</p>  
     </div>
     <img src="/backstage-prop/565/290/-/946c26c0f8b328ce4495dc8cfa88eed4/.jpg" alt="SHARE YOUR UNTOLD STORY" class="cardImage" />
@@ -165,7 +165,7 @@ Visit <a href="http://www.ewb-usa.org/the-story" target="_blank">ewb-usa.org/the
   </div>
   <!-- Help support SlideDeck! Place this noscript tag on your page when you deploy a SlideDeck to provide a link back! -->
   <noscript>
-  <p>Powered By <a href="http://www.slidedeck.com" title="Visit SlideDeck.com">SlideDeck</a></p>
+  <p>Powered By <a href="https://www.slidedeck.com" title="Visit SlideDeck.com">SlideDeck</a></p>
   </noscript>
 	
 
@@ -267,23 +267,23 @@ View the latest press releases <a href="/news-and-media/press-releases">here</a>
 
       Engineers Without Borders USA&nbsp;&nbsp;|&nbsp;&nbsp;4665 Nautilus Court, Ste 300, Boulder, CO 80301
       &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-      <a href="http://www.embroidme-waukesha.com/engineers-without-borders.htm" target="_blank">webstore</a>
+      <a href="https://www.embroidme-waukesha.com/engineers-without-borders.htm" target="_blank">webstore</a>
       &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="http://www.ewb-usa.org/sitemap">sitemap</a>
+      <a href="https://www.ewb-usa.org/sitemap">sitemap</a>
       &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="http://www.ewb-usa.org/about-ewb-usa/contact-us">contact us</a>
+      <a href="https://www.ewb-usa.org/about-ewb-usa/contact-us">contact us</a>
       &nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="http://www.ewb-usa.org/news-and-media">news & media</a>
+      <a href="https://www.ewb-usa.org/news-and-media">news & media</a>
 		</div>
 
     <div id="footerRight">
-      <a href="http://www.youtube.com/ewbusa" target="_blank"><img class="pngFix" src="/themes/ewb/common/images/buttons/youtube.png" alt="YouTube" title="YouTube" /></a>
+      <a href="https://www.youtube.com/ewbusa" target="_blank"><img class="pngFix" src="/themes/ewb/common/images/buttons/youtube.png" alt="YouTube" title="YouTube" /></a>
       &nbsp;
-      <a href="http://www.facebook.com/ewbusa" target="_blank"><img class="pngFix" src="/themes/ewb/common/images/buttons/facebook.png" alt="Facebook" title="Facebook" /></a>
+      <a href="https://www.facebook.com/ewbusa" target="_blank"><img class="pngFix" src="/themes/ewb/common/images/buttons/facebook.png" alt="Facebook" title="Facebook" /></a>
       &nbsp;
-      <a href="http://twitter.com/#!/ewbusa" target="_blank"><img class="pngFix" src="/themes/ewb/common/images/buttons/twitter.png" alt="Twitter" title="Twitter" /></a>
+      <a href="https://twitter.com/#!/ewbusa" target="_blank"><img class="pngFix" src="/themes/ewb/common/images/buttons/twitter.png" alt="Twitter" title="Twitter" /></a>
       &nbsp;
-      <a href="http://www.linkedin.com/groups/Engineers-Without-Borders-USA-45905" target="_blank"><img class="pngFix" src="/themes/ewb/common/images/buttons/linkedin.png" alt="Linked In" title="Twitter" /></a>			</div>
+      <a href="https://www.linkedin.com/groups/Engineers-Without-Borders-USA-45905" target="_blank"><img class="pngFix" src="/themes/ewb/common/images/buttons/linkedin.png" alt="Linked In" title="Twitter" /></a>			</div>
     </div>
 
   <img src="/themes/ewb/common/images/footer-bottomer.jpg" style="display:block;" />
@@ -303,7 +303,7 @@ View the latest press releases <a href="/news-and-media/press-releases">here</a>
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -314,7 +314,7 @@ View the latest press releases <a href="/news-and-media/press-releases">here</a>
 
 
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/libraries/jquery-1.6.2.min.js"><\/script>')</script>
 <script defer src="/themes/ewb/web/plugins.js"></script>
 

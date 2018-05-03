@@ -11,7 +11,7 @@ title: Case Study for an Invitation System using Google Apps Script.
 ---
 <a href="/images/screen-shot-2012-05-18-at-5-38-35-pm.png"><img class="aligncenter size-full wp-image-2417" title="Screen Shot 2012-05-18 at 5.38.35 PM" src="/images/screen-shot-2012-05-18-at-5-38-35-pm.png" width="100%"/></a></p>
 
-Earlier this month my NGO (<a href="http://gain.org">GAIN</a>) had its <a href="http://gain.org/annual-meeting-2012">annual meeting</a>. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.</p>
+Earlier this month my NGO (<a href="https://gain.org">GAIN</a>) had its <a href="https://gain.org/annual-meeting-2012">annual meeting</a>. Around 200 participants, which includes several presidents, CEOs, ambassadors and representatives of the World Bank, OAS, and more than 100 companies. The invitation list to the reception had more than 1.000 names.</p>
 <p style="text-align:justify;">I built the Invitation system almost from scratch using <a href="https://developers.google.com/apps-script/">Google Apps Script</a> (GAS), and I want to share the experience. The decision to engage on this was partly becasue I had the chance to participate on a free and open event about GAS for developers at the Google Washington DC offices (<a href="https://plus.google.com/111752662319997528493/posts/bq7NrttcWAb">thank you</a>!).</p>
 My goal was to follow these premises:
 

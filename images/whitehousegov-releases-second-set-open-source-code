@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
 <html 
-     xmlns="http://www.w3.org/1999/xhtml" 
-     xmlns:dc="http://purl.org/dc/elements/1.1/" 
-     xmlns:ctag="http://commontag.org/ns#" 
+     xmlns="https://www.w3.org/1999/xhtml" 
+     xmlns:dc="https://purl.org/dc/elements/1.1/" 
+     xmlns:ctag="https://commontag.org/ns#" 
           lang="en" 
      dir="ltr"
-     prefix="og: http://ogp.me/ns#"
+     prefix="og: https://ogp.me/ns#"
      version="XHTML+RDFa 1.0" >
 
 <head>
@@ -19,12 +19,12 @@
 <script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 <script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js"></script>
 <meta property="og:description" content="Friday morning at the Tech@State event at the State Department, the White House&#039;s New Media Director Macon Phillips announced the White House’s second code release to the open source community that powers the Drupal content management system." />
-<meta property="og:url" content="http://www.whitehouse.gov/blog/2011/02/11/whitehousegov-releases-second-set-open-source-code" />
+<meta property="og:url" content="https://www.whitehouse.gov/blog/2011/02/11/whitehousegov-releases-second-set-open-source-code" />
 <link rel="shortcut icon" href="/sites/default/themes/whitehouse/favicon.ico" type="image/x-icon" />
 <meta name="keywords" content="President,Barack Obama,White House,United States of America,44th President,White House history,President Obama,Barck,Barek,Barak,Barrack,Barrak,Obma,Barack,Technology" />
 <meta property="fb:admins" content="100000095507875" />
-<meta property="og:image" content="http://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
-<link rel="canonical" href="http://www.whitehouse.gov/blog/2011/02/11/whitehousegov-releases-second-set-open-source-code" />
+<meta property="og:image" content="https://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
+<link rel="canonical" href="https://www.whitehouse.gov/blog/2011/02/11/whitehousegov-releases-second-set-open-source-code" />
   <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css_injector_13.css?Z" />
 <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css_injector_301.css?Z" />
 <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_b5be501d59219ecf493bd6a1ccf24ec5_3.css" />
@@ -41,7 +41,7 @@
   <script type="text/javascript" src="/sites/default/files/advagg_js/js_bb4f3666b6a820d075f759f44278a277_6.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"http:\/\/wh.gov\/xr8","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"http:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"https:\/\/wh.gov\/xr8","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"https:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."}});
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -228,13 +228,13 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                             </ul>
                                       <div id="nav-issues-feature" class="topnav-feature">
                 <div class="cp_tile ">  <div id="block-nodeblock-43315" class="clear-block block block-nodeblock ">
-  <div class="content"><p class="menu-feature-title"><a href="http://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
+  <div class="content"><p class="menu-feature-title"><a href="https://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
 <p>Helping responsible homeowners</p>
-<p><a href="http://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
+<p><a href="https://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
 <hr />
-<p class="menu-feature-title"><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
+<p class="menu-feature-title"><a href="https://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
 <p>See how your federal tax dollars are spent</p>
-<p><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
+<p><a href="https://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
 </div>
 </div>
 </div>              </div>
@@ -261,7 +261,7 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                   <a href="/administration/jill-biden">Dr. Jill Biden</a>                                </li>
                               <li>
                   <a href="/administration/cabinet">The Cabinet</a>                                  <ul class="topnav-dd-inner-sub">
-                                      <li><a href="http://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
+                                      <li><a href="https://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -344,7 +344,7 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                   <a href="/about/tours-and-events">Tours &amp; Events</a>                                  <ul class="topnav-dd-inner-sub">
                                       <li><a href="/eastereggroll">2012 Easter Egg Roll</a></li>
                                       <li><a href="/eastereggroll">2011 Easter Egg Roll</a></li>
-                                      <li><a href="http://www.whitehouse.gov/holidays">Holidays 2011</a></li>
+                                      <li><a href="https://www.whitehouse.gov/holidays">Holidays 2011</a></li>
                                       <li><a href="/about/tours_and_events/garden">Kitchen Garden Tours</a></li>
                                     </ul>
                                 </li>
@@ -388,7 +388,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
       <div id='emergency'>  <div id="block-nodeblock-161695" class="clear-block block block-nodeblock ">
   <div class="content"><style type="text/css">
 a.health-takeover{
-  background: url(http://www.whitehouse.gov/sites/default/files/healthcare/emergency_takeover_background.jpg) left top no-repeat;
+  background: url(https://www.whitehouse.gov/sites/default/files/healthcare/emergency_takeover_background.jpg) left top no-repeat;
   width: 976px;
   height: 100px;
   display: block;
@@ -403,7 +403,7 @@ a.health-takeover{
   display: inline-block;
 }
 .changes{
-background: url(http://www.whitehouse.gov/sites/default/files/healthcare/take_over_wh_arrow.png) no-repeat 100% 50%;
+background: url(https://www.whitehouse.gov/sites/default/files/healthcare/take_over_wh_arrow.png) no-repeat 100% 50%;
 color: white;
 float: right;
 font-family: arial, sans-serif;
@@ -427,7 +427,7 @@ text-decoration: underline;
     <div id="subhead-wrapper">
   	<div id="breadcrumb"><div class="breadcrumb"><a href="/">Home</a> • The White House Blog</div></div><!--/#subhead-->
       <div id="sub-search">
-                  <form action="http://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
+                  <form action="https://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
 <div><input type="hidden" name="affiliate" id="edit-affiliate-id" value="wh"  />
 <div class="form-item clearfix" id="edit-text-field-wrapper">
  <input type="text" maxlength="128" name="query" id="edit-text-field" size="15" value="" title="Enter the terms you wish to search for." class="form-text search-field" />
@@ -521,22 +521,22 @@ $('.view-display-id-block_5').addClass('clearfix');
   
   <ul class="entry-list clearfix">
           <li><div id="blog-top-stories-queue">
-<a href="/blog/2012/06/28/supreme-court-upholds-president-obamas-health-care-reform"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/20120628-potus.jpg" alt="Supreme Court Upholds President Obama&amp;amp;#039;s Health Care Reform" title="Supreme Court Upholds President Obama&amp;amp;#039;s Health Care Reform"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
+<a href="/blog/2012/06/28/supreme-court-upholds-president-obamas-health-care-reform"><img src="https://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/20120628-potus.jpg" alt="Supreme Court Upholds President Obama&amp;amp;#039;s Health Care Reform" title="Supreme Court Upholds President Obama&amp;amp;#039;s Health Care Reform"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
 <div id="blog-top-stories-queue-title"><a href="/blog/2012/06/28/supreme-court-upholds-president-obamas-health-care-reform">Supreme Court Upholds President Obama&#039;s Health Care Reform</a></div>
 </div>
 </li>
           <li><div id="blog-top-stories-queue">
-<a href="/blog/2012/03/19/breaking-it-down-health-care-law-and-seniors"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/helen.jpg" alt="Breaking It Down: The Health Care Law and Seniors" title="Breaking It Down: The Health Care Law and Seniors"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
+<a href="/blog/2012/03/19/breaking-it-down-health-care-law-and-seniors"><img src="https://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/helen.jpg" alt="Breaking It Down: The Health Care Law and Seniors" title="Breaking It Down: The Health Care Law and Seniors"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
 <div id="blog-top-stories-queue-title"><a href="/blog/2012/03/19/breaking-it-down-health-care-law-and-seniors">Breaking It Down: The Health Care Law and Seniors</a></div>
 </div>
 </li>
           <li><div id="blog-top-stories-queue">
-<a href="/blog/2012/03/20/vanessacare-health-coverage-without-lifetime-limits"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/vanessa_hero.jpg" alt="VanessaCare: Health Coverage Without Lifetime Limits" title="VanessaCare: Health Coverage Without Lifetime Limits"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
+<a href="/blog/2012/03/20/vanessacare-health-coverage-without-lifetime-limits"><img src="https://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/vanessa_hero.jpg" alt="VanessaCare: Health Coverage Without Lifetime Limits" title="VanessaCare: Health Coverage Without Lifetime Limits"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
 <div id="blog-top-stories-queue-title"><a href="/blog/2012/03/20/vanessacare-health-coverage-without-lifetime-limits">VanessaCare: Health Coverage Without Lifetime Limits</a></div>
 </div>
 </li>
           <li><div id="blog-top-stories-queue">
-<a href="/blog/2012/03/21/breaking-it-down-health-law-and-young-adults"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/steven_hero.jpg" alt="Breaking it Down: The Health Law and Young Adults" title="Breaking it Down: The Health Law and Young Adults"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
+<a href="/blog/2012/03/21/breaking-it-down-health-law-and-young-adults"><img src="https://www.whitehouse.gov/sites/default/files/imagecache/blog_featured_content/imagecache/embedded_img_full/image/image_file/steven_hero.jpg" alt="Breaking it Down: The Health Law and Young Adults" title="Breaking it Down: The Health Law and Young Adults"  class="imagecache imagecache-blog_featured_content" width="197" height="131" /></a>
 <div id="blog-top-stories-queue-title"><a href="/blog/2012/03/21/breaking-it-down-health-law-and-young-adults">Breaking it Down: The Health Law and Young Adults</a></div>
 </div>
 </li>
@@ -567,9 +567,9 @@ $('.view-display-id-block_5').addClass('clearfix');
     <div class="content-inner">
 
       <p>
-	Friday morning&nbsp;at the <a href="http://www.state.gov/statecraft/tech/opensource/index.htm">Tech@State event at the State Department</a>, the White House&#39;s New Media Director Macon Phillips announced the White House&rsquo;s second code release&nbsp;to the&nbsp;open source <a href="http://drupal.org">community that powers the&nbsp;Drupal content management system</a>.</p>
+	Friday morning&nbsp;at the <a href="https://www.state.gov/statecraft/tech/opensource/index.htm">Tech@State event at the State Department</a>, the White House&#39;s New Media Director Macon Phillips announced the White House&rsquo;s second code release&nbsp;to the&nbsp;open source <a href="https://drupal.org">community that powers the&nbsp;Drupal content management system</a>.</p>
 <div>
-	Last April, we released <a href="http://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">f</a><a href="http://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">our modules for the Drupal community</a>, which focused on the scalability, communication, and accessibility of our site.</div>
+	Last April, we released <a href="https://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">f</a><a href="https://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">our modules for the Drupal community</a>, which focused on the scalability, communication, and accessibility of our site.</div>
 <div>
 	&nbsp;</div>
 <div>
@@ -577,7 +577,7 @@ $('.view-display-id-block_5').addClass('clearfix');
 <div>
 	&nbsp;</div>
 <div>
-	For the code originating from within the White House, we wanted to improve the&nbsp;functionality offered by&nbsp;a&nbsp;popular file manager,&nbsp;<a href="http://drupal.org/project/imce">IMCE</a>, so we developed a module called <a href="http://drupal.org/project/imce_tools">IMCE tools</a>, which has three major functions:</div>
+	For the code originating from within the White House, we wanted to improve the&nbsp;functionality offered by&nbsp;a&nbsp;popular file manager,&nbsp;<a href="https://drupal.org/project/imce">IMCE</a>, so we developed a module called <a href="https://drupal.org/project/imce_tools">IMCE tools</a>, which has three major functions:</div>
 <div>
 	&nbsp;</div>
 <div>
@@ -593,7 +593,7 @@ $('.view-display-id-block_5').addClass('clearfix');
 <div>
 	&nbsp;</div>
 <div>
-	We also recognize that there are really good projects already embedded in the Drupal community and reached out to help support their development. &nbsp;Several of these are used in the collaboration software suite, <a href="http://drupal.org/project/openatrium">Open Atrium</a>: <a href="http://drupal.org/project/features">Features</a>, <a href="http://drupal.org/project/spaces">Spaces</a>, <a href="http://drupal.org/project/boxes">Boxes</a>, <a href="http://drupal.org/project/context">Context</a>, <a href="http://drupal.org/project/strongarm">StrongArm</a>, and <a href="http://drupal.org/project/admin">Admin</a>. &nbsp;We also supported the development of an auto-tagging module, <a href="http://drupal.org/project/opencalais">Calais</a>, a bulk file uploading utility, <a href="http://drupal.org/project/imce_swfupload">IMCE SWFupload</a>,&nbsp;as well as the module that powers our shortened <a href="http://wh.gov">wh.gov</a> domain, <a href="http://drupal.org/project/shorturl">shortURL</a>.</div>
+	We also recognize that there are really good projects already embedded in the Drupal community and reached out to help support their development. &nbsp;Several of these are used in the collaboration software suite, <a href="https://drupal.org/project/openatrium">Open Atrium</a>: <a href="https://drupal.org/project/features">Features</a>, <a href="https://drupal.org/project/spaces">Spaces</a>, <a href="https://drupal.org/project/boxes">Boxes</a>, <a href="https://drupal.org/project/context">Context</a>, <a href="https://drupal.org/project/strongarm">StrongArm</a>, and <a href="https://drupal.org/project/admin">Admin</a>. &nbsp;We also supported the development of an auto-tagging module, <a href="https://drupal.org/project/opencalais">Calais</a>, a bulk file uploading utility, <a href="https://drupal.org/project/imce_swfupload">IMCE SWFupload</a>,&nbsp;as well as the module that powers our shortened <a href="https://wh.gov">wh.gov</a> domain, <a href="https://drupal.org/project/shorturl">shortURL</a>.</div>
 
       
       
@@ -672,24 +672,24 @@ margin-top:20px;
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
     <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-obama-views-fire-damage-firefighters?jsraw=1&height=680&width=690');">
-<img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_large/image/image_file/02-_jsl3309.jpg" alt="President Obama Views Fire Damage with Firefighters" title="President Obama Views Fire Damage with Firefighters"  id="potd-block-img1" width="161" height="99" /></a>
+<img src="https://www.whitehouse.gov/sites/default/files/imagecache/potd_block_large/image/image_file/02-_jsl3309.jpg" alt="President Obama Views Fire Damage with Firefighters" title="President Obama Views Fire Damage with Firefighters"  id="potd-block-img1" width="161" height="99" /></a>
   </div>
   <div class="views-row views-row-2 views-row-even">
     <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-obama-talks-phone-solicitor-general-donald-verrilli?jsraw=1&height=680&width=690');">
-<div style="float: right; width: 78px;"><img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_small/image/image_file/p062812ps-0234.jpg" alt="President Obama Talks on the Phone with Solicitor General Donald Verrilli" title="President Obama Talks on the Phone with Solicitor General Donald Verrilli"  id="potd-block-img2" width="76" height="48" /></a>
+<div style="float: right; width: 78px;"><img src="https://www.whitehouse.gov/sites/default/files/imagecache/potd_block_small/image/image_file/p062812ps-0234.jpg" alt="President Obama Talks on the Phone with Solicitor General Donald Verrilli" title="President Obama Talks on the Phone with Solicitor General Donald Verrilli"  id="potd-block-img2" width="76" height="48" /></a>
   </div>
   <div class="views-row views-row-3 views-row-odd">
     <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-barack-obama-talks-senior-advisors-phone-call-president-fra?jsraw=1&height=680&width=690');">
-<img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_small/image/image_file/p062712ps-0091a.jpg" alt="President Barack Obama Talks With Senior Advisors Before A Phone Call With President François Hollande Of France" title="President Barack Obama Talks With Senior Advisors Before A Phone Call With President François Hollande Of France"  id="potd-block-img3" width="76" height="48" /></div>
+<img src="https://www.whitehouse.gov/sites/default/files/imagecache/potd_block_small/image/image_file/p062712ps-0091a.jpg" alt="President Barack Obama Talks With Senior Advisors Before A Phone Call With President François Hollande Of France" title="President Barack Obama Talks With Senior Advisors Before A Phone Call With President François Hollande Of France"  id="potd-block-img3" width="76" height="48" /></div>
 </a>
   </div>
   <div class="views-row views-row-4 views-row-even">
     <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-obama-talks-children-lenora-academy?jsraw=1&height=680&width=690');">
-<img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_medium/image/image_file/_jsl7279.jpg" alt="President Obama Talks To Children From Lenora Academy" title="President Obama Talks To Children From Lenora Academy"  id="potd-block-img4" width="119" height="77" /></a>
+<img src="https://www.whitehouse.gov/sites/default/files/imagecache/potd_block_medium/image/image_file/_jsl7279.jpg" alt="President Obama Talks To Children From Lenora Academy" title="President Obama Talks To Children From Lenora Academy"  id="potd-block-img4" width="119" height="77" /></a>
   </div>
   <div class="views-row views-row-5 views-row-odd views-row-last">
     <a href="javascript:tb_show('','/photos-and-video/photo/2012/06/president-obama-eats-sundae-unh-dairy-bar?jsraw=1&height=680&width=690');">
-<img src="http://www.whitehouse.gov/sites/default/files/imagecache/potd_block_medium/image/image_file/_jsl6857.jpg" alt="President Obama Eats A Sundae At The UNH Dairy Bar" title="President Obama Eats A Sundae At The UNH Dairy Bar"  id="potd-block-img5" width="119" height="77" /></a>
+<img src="https://www.whitehouse.gov/sites/default/files/imagecache/potd_block_medium/image/image_file/_jsl6857.jpg" alt="President Obama Eats A Sundae At The UNH Dairy Bar" title="President Obama Eats A Sundae At The UNH Dairy Bar"  id="potd-block-img5" width="119" height="77" /></a>
   </div>
     </div>
   </div>
@@ -740,19 +740,19 @@ function writeMonthOptions()
 <form id="blog-changer" action="" method="post">
     <select id="blog-jump-nav" name="blog-nav">
         <option>Other White House Blogs</option>
-        <option value="http://www.whitehouse.gov/blog">The White House Blog</option>
-        <option value="http://www.whitehouse.gov/strongmiddleclass/blog">Middle Class Task Force</option>
-        <option value="http://www.whitehouse.gov/administration/eop/cea/blog">Council of Economic Advisers</option>
-        <option value="http://www.whitehouse.gov/administration/eop/ceq/blog">Council on Environmental Quality</option>
-        <option value="http://www.whitehouse.gov/administration/eop/cwg/blog">Council on Women and Girls</option>
-        <option value="http://whitehouse.gov/omb/blog">Office of Management and Budget</option>
-        <option value="http://www.whitehouse.gov/administration/eop/ope/blog">Office of Public Engagement</option>
-        <option value="http://www.whitehouse.gov/administration/eop/ostp/blog">Office of Science &amp; Tech Policy</option>
-        <option value="http://www.whitehouse.gov/administration/eop/oua/blog">Office of Urban Affairs</option>
-        <option value="http://whitehouse.gov/open/blog"> Open Government</option>
-        <option value="http://www.whitehouse.gov/administration/eop/ofbnp/blog">Faith and Neighborhood Partnerships</option>
-        <option value="http://www.ustr.gov/about-us/press-office/blog">US Trade Representative</option>
-        <option value="http://ofsubstance.gov">Office National Drug Control Policy</option>
+        <option value="https://www.whitehouse.gov/blog">The White House Blog</option>
+        <option value="https://www.whitehouse.gov/strongmiddleclass/blog">Middle Class Task Force</option>
+        <option value="https://www.whitehouse.gov/administration/eop/cea/blog">Council of Economic Advisers</option>
+        <option value="https://www.whitehouse.gov/administration/eop/ceq/blog">Council on Environmental Quality</option>
+        <option value="https://www.whitehouse.gov/administration/eop/cwg/blog">Council on Women and Girls</option>
+        <option value="https://whitehouse.gov/omb/blog">Office of Management and Budget</option>
+        <option value="https://www.whitehouse.gov/administration/eop/ope/blog">Office of Public Engagement</option>
+        <option value="https://www.whitehouse.gov/administration/eop/ostp/blog">Office of Science &amp; Tech Policy</option>
+        <option value="https://www.whitehouse.gov/administration/eop/oua/blog">Office of Urban Affairs</option>
+        <option value="https://whitehouse.gov/open/blog"> Open Government</option>
+        <option value="https://www.whitehouse.gov/administration/eop/ofbnp/blog">Faith and Neighborhood Partnerships</option>
+        <option value="https://www.ustr.gov/about-us/press-office/blog">US Trade Representative</option>
+        <option value="https://ofsubstance.gov">Office National Drug Control Policy</option>
     </select>
     <input type="submit" value="Go" id="blog-submit" />
 </form></div>
@@ -902,7 +902,7 @@ function writeMonthOptions()
                           	<li class="last"><a href="/contact/submit-questions-and-comments/old2">Contact</a></li>
                   	</ul>
         	<ul>
-                                	<li><a href="http://usa.gov">USA.gov</a></li>
+                                	<li><a href="https://usa.gov">USA.gov</a></li>
                           	<li><a href="/rss">Subscribe to RSS Feeds</a></li>
                           	<li class="last"><a href="https://app2.whitehouse.gov/ppo/">Apply for a Job</a></li>
                   	</ul>

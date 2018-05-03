@@ -1,6 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
 <html lang="en">
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# slideshare: http://ogp.me/ns/fb/slideshare#">
+<head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# slideshare: https://ogp.me/ns/fb/slideshare#">
 <meta charset="utf-8" />
 <!--
 __________.__SlideShare_______               __
@@ -21,11 +21,11 @@ __________.__SlideShare_______               __
 <!-- SL:end:notranslate -->
 
 <link rel="stylesheet" type="text/css" media="all" href="//public.slidesharecdn.com/bigboot/css/ss-core.css?2597d439" />
-<meta name="robots" content="index" /><link href="http://public.slidesharecdn.com/slideview/styles/combined.css?8c12fbaa" rel="stylesheet" type="text/css" media="all" />
+<meta name="robots" content="index" /><link href="https://public.slidesharecdn.com/slideview/styles/combined.css?8c12fbaa" rel="stylesheet" type="text/css" media="all" />
 <!--<link rel="stylesheet" media="all and (min-width: 748px) and (max-width: 977px)" href="grid-748.css">
 <link rel="stylesheet" media="all and (min-width: 0px) and (max-width: 747px)" href="grid-300.css">-->
 <script id="page-json" type="text/javascript"><!--
-var slideshare_object = {"voting_widget_host":"/","pvt":0,"gam_cat_name":"technology","relative_static_origin_server":"//public.slidesharecdn.com/","dev":false,"facebook_app_id":2490221586,"comments":{"ajaxurl":"http://www.slideshare.net/~/slideshow/comments/4116301.json","template":null,"update_url":"http://www.slideshare.net/comment/update","slideview_template":"\u003Cli\u003E\n                    \u003Ca href=\"#\" title=\"Commenter Title\" class=\"notranslate commenter h-commenter j-author-photo\" rel=\"nofollow\"\u003E\n                        \u003Cimg class=\"nickname\" src=\"/images/user-48x48.png\" height=\"48\" alt=\"Full Name\" original=\"/images/user-48x48.png\" width=\"48\" /\u003E\n                        \u003Cstrong class=\"h-username j-username notranslate\"\u003EFull Name\u003C/strong\u003E\u003Cspan class=\"bioStub notranslate\"\u003E\u003Cspan class=\"h-commenter-role\"\u003E\u003C/span\u003E\u003Cspan class=\"h-commenter-org\"\u003E\u003C/span\u003E\u003C/span\u003E\n                    \u003C/a\u003E\n                    \u003Cspan class=\"commentText h-comment-text notranslate\"\u003E\n                        Comment goes here. \n                    \u003C/span\u003E\n                    \u003Cspan class=\"commentMeta h-comment-meta\"\u003E\n                      \u003Cspan class=\"commentTimestamp h-timestamp\"\u003E12 hours ago\u003C/span\u003E\n                      \u003Cspan class=\"commentActions h-comment-actions hide\"\u003E\n                        \u003Cbutton class=\"j-reply btn btn-mini\"\u003EReply\u003C/button\u003E\n                        \u003Cbutton class=\"action-edit btn btn-mini\"\u003Eedit\u003C/button\u003E\n                        \u003Cbutton class=\"action-delete btn btn-mini\"\u003Edelete\u003C/button\u003E\n                        \u003Cbutton class=\"action-spam btn btn-mini\"\u003Espam\u003C/button\u003E\n                        \u003Ca href=\"#\" class=\"action-block\" rel=\"nofollow\"\u003Eblock\u003C/a\u003E\n                      \u003C/span\u003E\n                    \u003C/span\u003E\n                    \u003Cdiv class=\"alertMessage blockMessage warning\" id=\"confirmDialog\"\u003E\n                        \u003Cspan class=\"title\"\u003EAre you sure you want to\u003C/span\u003E\n                        \u003Cbutton class=\"btn btn-mini\" id=\"yes\"\u003EYes\u003C/button\u003E\n                        \u003Cbutton class=\"btn btn-mini\" id=\"no\"\u003ENo\u003C/button\u003E\n                    \u003C/div\u003E\n                \u003C/li\u003E","total_count":0,"destroy_url":"http://www.slideshare.net/comment/destroy","spam_url":"http://www.slideshare.net/comment/mark_spam","unsubscribe_url":"http://www.slideshare.net/comment/unsubscribe/4116301","captcha_url":"http://s3.amazonaws.com/ss-captchas/","create_url":"http://www.slideshare.net/comment/create"},"user":{"su":null,"can_remove_contact":null,"member_type":"non-member","is_opengraph_user":false,"organization":null,"occupation":null,"login":"guest","pro":null,"email":"guest","fb_access_token":null,"loggedin":null,"fb_userid":null,"opengraph_permissions":{},"photo_url":null,"owner":false,"user_group":null,"name":null,"id":null,"commenter":false},"show_ads":{"player_ad":"\u003Cdiv class=\"playerAd h-player-banner lostchild noAdForLead\"\u003E\n  \u003Ca href=\"#\" class=\"removeAd closeThis\" title=\"Remove this advertisement\"\u003E\u0026times;\u003C/a\u003E\n  \u003Cdiv class=\"h-mid-banner-content\"\u003E\u003Cscript type=\"text/javascript\"\u003E \nGA_googleFillSlot(\"slideview_player_leaderboard\"); \n\u003C/script\u003E\u003C/div\u003E\n\u003C/div\u003E\n","comments_favorites_ad":"\u003Cdiv class=\"commentsFavoritesAd lostchild\"\u003E\n  \u003Cdiv class=\"commentsFavoritesAdDiv\"\u003E\u003Cscript type=\"text/javascript\"\u003E GA_googleFillSlot(\"slideview_comments_favorites_728_90\"); \r\n\u003C/script\u003E\u003C/div\u003E\n\u003C/div\u003E\n"},"stats":{"url":"http://www.slideshare.net/~/slideshow/stats/4116301.json"},"category":{"featured":0},"contacts":{"delete_url":"http://www.slideshare.net/contact/delete?contactee=25577828\u0026frm_source=slideview","create_url":"http://www.slideshare.net/contact/create?contactee=CONTACTEE\u0026frm_source=slideview"},"favorites":{"delete_url":"http://www.slideshare.net/favorite/delete","update_url":"http://www.slideshare.net/favorite/update/FAVID","top_tags":["crisis mapping","disaster mapping","gis","humanitarian mapping","remote sensing"],"tag_href":"/tag/TAGNAME","create_url":"http://www.slideshare.net/favorite/create"},"version_no":"1274015413","totalSlides":19,"_auth_token_name":"authenticity_token","userimage_placeholder":"//public.slidesharecdn.com/images/user-48x48.png","key":false,"flagging":{"update_url":"http://www.slideshare.net/main/flag?slideshow_id=4116301","flagged_value":null},"default_tab":".svMoreAuthor","slideshow":{"type":"presentation","title":"Presentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026 the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.","for_experiment":false,"iframe_code":"\u003Cdiv style=\"width:{width}px\" id=\"__ss_4116301\"\u003E \u003Cstrong style=\"display:block;margin:12px 0 4px\"\u003E\u003Ca href=\"http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010\" title=\"Presentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.\" target=\"_blank\"\u003EPresentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.\u003C/a\u003E\u003C/strong\u003E \u003Ciframe src=\"{iframe_url}\" width=\"{width}\" height=\"{height}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC;border-width:1px 1px 0\" allowfullscreen\u003E\u003C/iframe\u003E \u003Cdiv style=\"padding:5px 0 12px\"\u003E View more \u003Ca href=\"http://www.slideshare.net/\" target=\"_blank\"\u003Epresentations\u003C/a\u003E from \u003Ca href=\"http://www.slideshare.net/guest959fda32\" target=\"_blank\"\u003Eguest959fda32\u003C/a\u003E \u003C/div\u003E \u003C/div\u003E","view_action_state":"unpublished","user_name":"guest959fda32","is_author_premium":false,"allow_embeds":true,"is_audio":false,"total_slides":19,"iframe_url":"http://www.slideshare.net/slideshow/embed_code/4116301","form_is_blocking":false,"form_after_slide_number":null,"wp_code":"[slideshare id=4116301\u0026doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01]","embed_sizes":{"presets":{"preset4":{"displaySize":{"height":53,"width":70},"size":{"height":497,"width":595}},"preset1":{"displaySize":{"height":30,"width":40},"size":{"height":284,"width":340}},"preset2":{"displaySize":{"height":38,"width":50},"size":{"height":355,"width":425}},"preset3":{"displaySize":{"height":45,"width":60},"size":{"height":426,"width":510}}},"config":{"defaultPreset":"preset2"}},"embed_code":"\u003Cdiv style=\"width:{width}px\" id=\"__ss_4116301\"\u003E \u003Cstrong style=\"display:block;margin:12px 0 4px\"\u003E\u003Ca href=\"http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010\" title=\"Presentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.\" target=\"_blank\"\u003EPresentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.\u003C/a\u003E\u003C/strong\u003E \u003Cobject id=\"__sse4116301\" width=\"{width}\" height=\"{height}\"\u003E \u003Cparam name=\"movie\" value=\"http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01{rel}{startSlide}\u0026stripped_title=presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010\u0026userName=guest959fda32\" /\u003E \u003Cparam name=\"allowFullScreen\" value=\"true\"/\u003E \u003Cparam name=\"allowScriptAccess\" value=\"always\"/\u003E \u003Cparam name=\"wmode\" value=\"transparent\"/\u003E \u003Cembed name=\"__sse4116301\" src=\"http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01{rel}{startSlide}\u0026stripped_title=presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010\u0026userName=guest959fda32\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" wmode=\"transparent\" width=\"{width}\" height=\"{height}\"\u003E\u003C/embed\u003E \u003C/object\u003E \u003Cdiv style=\"padding:5px 0 12px\"\u003E View more \u003Ca href=\"http://www.slideshare.net/\" target=\"_blank\"\u003Epresentations\u003C/a\u003E from \u003Ca href=\"http://www.slideshare.net/guest959fda32\" target=\"_blank\"\u003Eguest959fda32\u003C/a\u003E \u003C/div\u003E \u003C/div\u003E","show_related_content":"1","id":"4116301","ss_url":"http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010","fullscreen_bg_color":"White","user_login":"guest959fda32"},"_auth_token":"cVfQf05mA3YAJx+TmSqE0b5Pli/y159tQET/9h9fs6g=","groups":{"post_url":"http://www.slideshare.net/community/send_to_community"},"activities":{"favorites":{"count":0,"total":0,"url":"http://www.slideshare.net/~/slideshow/favorites_list/4116301.json"},"community":{"count":0,"total":0,"url":"http://www.slideshare.net/~/slideshow/community_list/4116301.json"}},"stripped_title":"presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010","show_branding":1,"preview":"no","startSlide":1,"embeds_count":1,"fb_app_name":"slideshare","asset_id":"35423","sharing_more":{"url":"http://www.slideshare.net/~/slideshow/sharing_more/4116301.html"},"downloads":{"allow":true,"sp_isdwnl":true},"presentationId":4116301,"useHttp":1,"topnav":{"get_url":"/top_nav","update_url":"http://www.slideshare.net/language/update_language"},"player":{"version":9,"color":"#FFFFFF","url":"http://static.slidesharecdn.com/swf/ssplayer2.swf"},"doc":"presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01","slideshow_placeholder":"//public.slidesharecdn.com/images/thumbnail.png","cached_template_url":"//public.slidesharecdn.com/get_cacheable_template"};
+var slideshare_object = {"voting_widget_host":"/","pvt":0,"gam_cat_name":"technology","relative_static_origin_server":"//public.slidesharecdn.com/","dev":false,"facebook_app_id":2490221586,"comments":{"ajaxurl":"https://www.slideshare.net/~/slideshow/comments/4116301.json","template":null,"update_url":"https://www.slideshare.net/comment/update","slideview_template":"\u003Cli\u003E\n                    \u003Ca href=\"#\" title=\"Commenter Title\" class=\"notranslate commenter h-commenter j-author-photo\" rel=\"nofollow\"\u003E\n                        \u003Cimg class=\"nickname\" src=\"/images/user-48x48.png\" height=\"48\" alt=\"Full Name\" original=\"/images/user-48x48.png\" width=\"48\" /\u003E\n                        \u003Cstrong class=\"h-username j-username notranslate\"\u003EFull Name\u003C/strong\u003E\u003Cspan class=\"bioStub notranslate\"\u003E\u003Cspan class=\"h-commenter-role\"\u003E\u003C/span\u003E\u003Cspan class=\"h-commenter-org\"\u003E\u003C/span\u003E\u003C/span\u003E\n                    \u003C/a\u003E\n                    \u003Cspan class=\"commentText h-comment-text notranslate\"\u003E\n                        Comment goes here. \n                    \u003C/span\u003E\n                    \u003Cspan class=\"commentMeta h-comment-meta\"\u003E\n                      \u003Cspan class=\"commentTimestamp h-timestamp\"\u003E12 hours ago\u003C/span\u003E\n                      \u003Cspan class=\"commentActions h-comment-actions hide\"\u003E\n                        \u003Cbutton class=\"j-reply btn btn-mini\"\u003EReply\u003C/button\u003E\n                        \u003Cbutton class=\"action-edit btn btn-mini\"\u003Eedit\u003C/button\u003E\n                        \u003Cbutton class=\"action-delete btn btn-mini\"\u003Edelete\u003C/button\u003E\n                        \u003Cbutton class=\"action-spam btn btn-mini\"\u003Espam\u003C/button\u003E\n                        \u003Ca href=\"#\" class=\"action-block\" rel=\"nofollow\"\u003Eblock\u003C/a\u003E\n                      \u003C/span\u003E\n                    \u003C/span\u003E\n                    \u003Cdiv class=\"alertMessage blockMessage warning\" id=\"confirmDialog\"\u003E\n                        \u003Cspan class=\"title\"\u003EAre you sure you want to\u003C/span\u003E\n                        \u003Cbutton class=\"btn btn-mini\" id=\"yes\"\u003EYes\u003C/button\u003E\n                        \u003Cbutton class=\"btn btn-mini\" id=\"no\"\u003ENo\u003C/button\u003E\n                    \u003C/div\u003E\n                \u003C/li\u003E","total_count":0,"destroy_url":"https://www.slideshare.net/comment/destroy","spam_url":"https://www.slideshare.net/comment/mark_spam","unsubscribe_url":"https://www.slideshare.net/comment/unsubscribe/4116301","captcha_url":"https://s3.amazonaws.com/ss-captchas/","create_url":"https://www.slideshare.net/comment/create"},"user":{"su":null,"can_remove_contact":null,"member_type":"non-member","is_opengraph_user":false,"organization":null,"occupation":null,"login":"guest","pro":null,"email":"guest","fb_access_token":null,"loggedin":null,"fb_userid":null,"opengraph_permissions":{},"photo_url":null,"owner":false,"user_group":null,"name":null,"id":null,"commenter":false},"show_ads":{"player_ad":"\u003Cdiv class=\"playerAd h-player-banner lostchild noAdForLead\"\u003E\n  \u003Ca href=\"#\" class=\"removeAd closeThis\" title=\"Remove this advertisement\"\u003E\u0026times;\u003C/a\u003E\n  \u003Cdiv class=\"h-mid-banner-content\"\u003E\u003Cscript type=\"text/javascript\"\u003E \nGA_googleFillSlot(\"slideview_player_leaderboard\"); \n\u003C/script\u003E\u003C/div\u003E\n\u003C/div\u003E\n","comments_favorites_ad":"\u003Cdiv class=\"commentsFavoritesAd lostchild\"\u003E\n  \u003Cdiv class=\"commentsFavoritesAdDiv\"\u003E\u003Cscript type=\"text/javascript\"\u003E GA_googleFillSlot(\"slideview_comments_favorites_728_90\"); \r\n\u003C/script\u003E\u003C/div\u003E\n\u003C/div\u003E\n"},"stats":{"url":"https://www.slideshare.net/~/slideshow/stats/4116301.json"},"category":{"featured":0},"contacts":{"delete_url":"https://www.slideshare.net/contact/delete?contactee=25577828\u0026frm_source=slideview","create_url":"https://www.slideshare.net/contact/create?contactee=CONTACTEE\u0026frm_source=slideview"},"favorites":{"delete_url":"https://www.slideshare.net/favorite/delete","update_url":"https://www.slideshare.net/favorite/update/FAVID","top_tags":["crisis mapping","disaster mapping","gis","humanitarian mapping","remote sensing"],"tag_href":"/tag/TAGNAME","create_url":"https://www.slideshare.net/favorite/create"},"version_no":"1274015413","totalSlides":19,"_auth_token_name":"authenticity_token","userimage_placeholder":"//public.slidesharecdn.com/images/user-48x48.png","key":false,"flagging":{"update_url":"https://www.slideshare.net/main/flag?slideshow_id=4116301","flagged_value":null},"default_tab":".svMoreAuthor","slideshow":{"type":"presentation","title":"Presentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026 the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.","for_experiment":false,"iframe_code":"\u003Cdiv style=\"width:{width}px\" id=\"__ss_4116301\"\u003E \u003Cstrong style=\"display:block;margin:12px 0 4px\"\u003E\u003Ca href=\"https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010\" title=\"Presentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.\" target=\"_blank\"\u003EPresentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.\u003C/a\u003E\u003C/strong\u003E \u003Ciframe src=\"{iframe_url}\" width=\"{width}\" height=\"{height}\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC;border-width:1px 1px 0\" allowfullscreen\u003E\u003C/iframe\u003E \u003Cdiv style=\"padding:5px 0 12px\"\u003E View more \u003Ca href=\"https://www.slideshare.net/\" target=\"_blank\"\u003Epresentations\u003C/a\u003E from \u003Ca href=\"https://www.slideshare.net/guest959fda32\" target=\"_blank\"\u003Eguest959fda32\u003C/a\u003E \u003C/div\u003E \u003C/div\u003E","view_action_state":"unpublished","user_name":"guest959fda32","is_author_premium":false,"allow_embeds":true,"is_audio":false,"total_slides":19,"iframe_url":"https://www.slideshare.net/slideshow/embed_code/4116301","form_is_blocking":false,"form_after_slide_number":null,"wp_code":"[slideshare id=4116301\u0026doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01]","embed_sizes":{"presets":{"preset4":{"displaySize":{"height":53,"width":70},"size":{"height":497,"width":595}},"preset1":{"displaySize":{"height":30,"width":40},"size":{"height":284,"width":340}},"preset2":{"displaySize":{"height":38,"width":50},"size":{"height":355,"width":425}},"preset3":{"displaySize":{"height":45,"width":60},"size":{"height":426,"width":510}}},"config":{"defaultPreset":"preset2"}},"embed_code":"\u003Cdiv style=\"width:{width}px\" id=\"__ss_4116301\"\u003E \u003Cstrong style=\"display:block;margin:12px 0 4px\"\u003E\u003Ca href=\"https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010\" title=\"Presentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.\" target=\"_blank\"\u003EPresentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project \u0026amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and JRC Damage Assessment Wworkshop - Geneva, 26,27-April 2010.\u003C/a\u003E\u003C/strong\u003E \u003Cobject id=\"__sse4116301\" width=\"{width}\" height=\"{height}\"\u003E \u003Cparam name=\"movie\" value=\"https://static.slidesharecdn.com/swf/ssplayer2.swf?doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01{rel}{startSlide}\u0026stripped_title=presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010\u0026userName=guest959fda32\" /\u003E \u003Cparam name=\"allowFullScreen\" value=\"true\"/\u003E \u003Cparam name=\"allowScriptAccess\" value=\"always\"/\u003E \u003Cparam name=\"wmode\" value=\"transparent\"/\u003E \u003Cembed name=\"__sse4116301\" src=\"https://static.slidesharecdn.com/swf/ssplayer2.swf?doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01{rel}{startSlide}\u0026stripped_title=presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010\u0026userName=guest959fda32\" type=\"application/x-shockwave-flash\" allowscriptaccess=\"always\" allowfullscreen=\"true\" wmode=\"transparent\" width=\"{width}\" height=\"{height}\"\u003E\u003C/embed\u003E \u003C/object\u003E \u003Cdiv style=\"padding:5px 0 12px\"\u003E View more \u003Ca href=\"https://www.slideshare.net/\" target=\"_blank\"\u003Epresentations\u003C/a\u003E from \u003Ca href=\"https://www.slideshare.net/guest959fda32\" target=\"_blank\"\u003Eguest959fda32\u003C/a\u003E \u003C/div\u003E \u003C/div\u003E","show_related_content":"1","id":"4116301","ss_url":"https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010","fullscreen_bg_color":"White","user_login":"guest959fda32"},"_auth_token":"cVfQf05mA3YAJx+TmSqE0b5Pli/y159tQET/9h9fs6g=","groups":{"post_url":"https://www.slideshare.net/community/send_to_community"},"activities":{"favorites":{"count":0,"total":0,"url":"https://www.slideshare.net/~/slideshow/favorites_list/4116301.json"},"community":{"count":0,"total":0,"url":"https://www.slideshare.net/~/slideshow/community_list/4116301.json"}},"stripped_title":"presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010","show_branding":1,"preview":"no","startSlide":1,"embeds_count":1,"fb_app_name":"slideshare","asset_id":"35423","sharing_more":{"url":"https://www.slideshare.net/~/slideshow/sharing_more/4116301.html"},"downloads":{"allow":true,"sp_isdwnl":true},"presentationId":4116301,"useHttp":1,"topnav":{"get_url":"/top_nav","update_url":"https://www.slideshare.net/language/update_language"},"player":{"version":9,"color":"#FFFFFF","url":"https://static.slidesharecdn.com/swf/ssplayer2.swf"},"doc":"presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01","slideshow_placeholder":"//public.slidesharecdn.com/images/thumbnail.png","cached_template_url":"//public.slidesharecdn.com/get_cacheable_template"};
 //--></script><script src="//public.slidesharecdn.com/slideview/scripts/combined_init.js?7e72fd43" id="load_combined"></script>
 <script>SS_stubborn_js_loader('//public.slidesharecdn.com/slideview/scripts/combined.js?42b523c3')</script>
 <script id="page-load" type="text/javascript">
@@ -57,26 +57,26 @@ slideshare_object.deploy_environment = 'production';
 
 <!--[if lt IE 9]><script src="//public.slidesharecdn.com/javascripts/plugins/html5.js"></script><![endif]-->
 <link href="//public.slidesharecdn.com/images/favicon.ico" rel="Shortcut Icon" />
-<link href="http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" rel="canonical" />
+<link href="https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" rel="canonical" />
 <link href="/rss/latest" title="RSS" rel="alternate" type="application/rss+xml" />
 <link href="/search/opensearch.xml" title="SlideShare Search" rel="search" type="application/opensearchdescription+xml" />
-<link href="http://www.slideshare.net/api/oembed/2?format=json&amp;url=http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" title="Slideshow oEmbed Profile" rel="alternate" type="application/json+oembed" />
-<link href="http://www.slideshare.net/api/oembed/2?format=xml&amp;url=http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" title="Slideshow oEmbed Profile" rel="alternate" type="text/xml+oembed" />
+<link href="https://www.slideshare.net/api/oembed/2?format=json&amp;url=https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" title="Slideshow oEmbed Profile" rel="alternate" type="application/json+oembed" />
+<link href="https://www.slideshare.net/api/oembed/2?format=xml&amp;url=https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" title="Slideshow oEmbed Profile" rel="alternate" type="text/xml+oembed" />
 <!-- fb open graph meta tags -->
 <meta name="fb_app_id" property="fb:app_id" class="fb_og_meta" content="2490221586" />
 <meta name="og_type" property="og:type" class="fb_og_meta" content="slideshare:presentation" />
-<meta name="og_url" property="og:url" class="fb_og_meta" content="http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" />
-<meta name="og_image" property="og:image" class="fb_og_meta" content="http://cdn.slidesharecdn.com/presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01-thumbnail-2?1274015413" />
+<meta name="og_url" property="og:url" class="fb_og_meta" content="https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" />
+<meta name="og_image" property="og:image" class="fb_og_meta" content="https://cdn.slidesharecdn.com/presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01-thumbnail-2?1274015413" />
 <!-- SL:start:notranslate -->
 <meta name="og_title" property="og:title" class="fb_og_meta" content="Presentation of Work done in Haiti following 12-Jan Earthquake by t..." />
 <meta name="og_description" property="og:description" class="fb_og_meta" content="Presentation of Work done in Haiti following 12-Jan Earthquake by the OpenStreetMap (OSM) Project &amp; the Humanitarian OSM Team (HOT) at the UNOSAT WorldBank and " />
 <!-- SL:end:notranslate -->
 <meta name="slideshow_published_time" property="slideshare:published" class="fb_og_meta" content="2010-05-16T07:54:41-05:00" />
 <meta name="slideshow_tag" property="slideshare:tag" class="fb_og_meta" content="disaster mapping, remote sensing, humanitarian mapping, crisis mapping, gis" />
-<meta name="slideshow_author" property="slideshare:author" class="fb_og_meta" content="http://www.slideshare.net/guest959fda32" />
+<meta name="slideshow_author" property="slideshare:author" class="fb_og_meta" content="https://www.slideshare.net/guest959fda32" />
 <meta name="slideshow_view_count" property="slideshare:view_count" class="fb_og_meta" content="1227" />
 <meta name="slideshow_favorites_count" property="slideshare:favorites_count" class="fb_og_meta" content="0" />
-<meta name="og_video" property="og:video" class="fb_og_meta" content="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01&amp;stripped_title=presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010&amp;hostedIn=fb_feed" />
+<meta name="og_video" property="og:video" class="fb_og_meta" content="https://static.slidesharecdn.com/swf/ssplayer2.swf?doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01&amp;stripped_title=presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010&amp;hostedIn=fb_feed" />
 <meta name="og_video_secure_url" property="og:video:secure_url" class="fb_og_meta" content="https://static.slidesharecdn.com/swf/ssplayer2.swf?doc=presentation-unosat-wb-jrc-damage-assessment-workshopht10osm-hot-100516075444-phpapp01&amp;stripped_title=presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010&amp;hostedIn=fb_feed" />
 <meta name="og_video_type" property="og:video:type" class="fb_og_meta" content="application/x-shockwave-flash" />
 <meta name="og_video_width" property="og:video:width" class="fb_og_meta" content="425" />
@@ -289,7 +289,7 @@ slideshare_object.deploy_environment = 'production';
 </div>
 <div id="fb-root"></div>
 <div class="admanager-section"><script type="text/javascript">
-document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://" : "http://") + "partner.googleadservices.com/gampad/google_service.js' %3E%3C/script%3E"));
+document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://" : "https://") + "partner.googleadservices.com/gampad/google_service.js' %3E%3C/script%3E"));
 </script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-5203428669823392");
@@ -363,7 +363,7 @@ GA_googleFillSlot("slideview_top_728_90");
 <a href="#" title="Remove from favorites" class="removeFav delete j-tooltip" rel="nofollow">&times;</a>
 </li>
 
-<li class="action-download" style=""><a href="/signup?from=download&from_source=http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010/download&download_id=4116301-8446e4209d3e08535a7e94c0420cf36e95d16314-slideshow" title="Download this presentation" class="sprite iconDownload j-tooltip" rel="nofollow">Download</a></li>
+<li class="action-download" style=""><a href="/signup?from=download&from_source=https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010/download&download_id=4116301-8446e4209d3e08535a7e94c0420cf36e95d16314-slideshow" title="Download this presentation" class="sprite iconDownload j-tooltip" rel="nofollow">Download</a></li>
 <li class="action-embed h-action-embed"><a href="#" title="Embed this presentation" class="sprite iconEmbed j-tooltip" rel="nofollow">Embed</a></li>
 
 <li class="hide h-private-notice last"><span title="Private Content" class="iconPrivate">Private Content</span></li>
@@ -432,13 +432,13 @@ Start from slide number
 </a>
 </span>
 <span class="wp input-append">
-<label>Shortcode for WordPress.com blogs <a href="http://help.slideshare.com/entries/20117147-can-i-embed-slideshare-presentations-in-wordpress-blogs-or-which-embed-code-should-i-use-for-my-word" rel="nofollow" target="_blank">?</a></label>
+<label>Shortcode for WordPress.com blogs <a href="https://help.slideshare.com/entries/20117147-can-i-embed-slideshare-presentations-in-wordpress-blogs-or-which-embed-code-should-i-use-for-my-word" rel="nofollow" target="_blank">?</a></label>
 <input name="embed-code" class="text quiet h-wpembedcode" readonly="readonly" id="embedCodeWP" type="text" value="" />
 <button class="button" id="j-wp-copier">Copy
 <span class="success hint" id="j-wp-msg" style="display:none"></span>
 </button></span>
 <span class="oldEmbed input-append">
-<label>Old embed code <a href="http://help.slideshare.com/entries/58889-what-embed-code-should-i-use-on-slideshare" class="small" target="_blank">?</a></label>
+<label>Old embed code <a href="https://help.slideshare.com/entries/58889-what-embed-code-should-i-use-on-slideshare" class="small" target="_blank">?</a></label>
 <input name="embed-code" class="text quiet h-iframeembedcode" readonly="readonly" id="embed-code" type="text" value="embed code" />
 <button class="button" id="j-embed-copier">Copy</button>
 <span class="success hint" id="j-embed-msg" style="display:none"></span>
@@ -473,7 +473,7 @@ Login to your email and click the link to download the file directly.
 </ul>
 <ul class="socialActions public-only">
 <li>
-<a data-via="slideshare" href="https://twitter.com/share" data-url="http://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" class="twitter-share-button" rel="nofollow" data-text="Check out this presentation : Presentation of Work done in Haiti following...">Tweet</a>
+<a data-via="slideshare" href="https://twitter.com/share" data-url="https://www.slideshare.net/guest959fda32/presentation-of-work-done-in-haiti-following-12jan-earthquake-by-the-openstreetmap-osm-project-the-humanitarian-osm-team-hot-at-the-unosat-worldbank-and-jrc-damage-assessment-wworkshop-geneva-2627april-2010" class="twitter-share-button" rel="nofollow" data-text="Check out this presentation : Presentation of Work done in Haiti following...">Tweet</a>
 <div class="g-plusone" data-size="Medium"></div>
 <script data-counter="right" type="IN/Share"></script>
 </li>
@@ -488,7 +488,7 @@ Login to your email and click the link to download the file directly.
 Loading&hellip;
 </p>
 <p id="noflash">
-Flash Player 9 (or above) is needed to view presentations. <br />We have detected that you do not have it on your computer. To install it, go <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" title="Install Adobe Flash Player" rel="nofollow">here</a>.
+Flash Player 9 (or above) is needed to view presentations. <br />We have detected that you do not have it on your computer. To install it, go <a href="https://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" title="Install Adobe Flash Player" rel="nofollow">here</a>.
 </p>
 
 </div>
@@ -510,12 +510,12 @@ slideshare_object.configurePlayerAd('player_ad');
       document.getElementById('placeholder').style.display = 'none';
       document.getElementById('noflash').style.display = 'block';
     } else {
-      if(slideshare_object.player.url.match(/^http:\/\/s3.amazonaws.com\/ppt-download\//)){
+      if(slideshare_object.player.url.match(/^https:\/\/s3.amazonaws.com\/ppt-download\//)){
         html = '<embed width="598" height="481" quality="high" bgcolor="#FFFFFF" name="player" id="player"\
                 src="'+slideshare_object.player.url+'" type="application/pdf"/>';
         if (jQuery.browser.msie && ((jQuery.browser.version * 1) < 7)) {
           jQuery('#noflash').hide();
-          jQuery('#svPlayerId').css('background', 'url(http://public.slidesharecdn.com/images/loading.gif) no-repeat center');
+          jQuery('#svPlayerId').css('background', 'url(https://public.slidesharecdn.com/images/loading.gif) no-repeat center');
           jQuery(document).ready(function() { $(ele).html(html); });
         } else {
           $(ele).html(html);
@@ -557,14 +557,14 @@ slideshare_object.configurePlayerAd('player_ad');
         so.addParam("allowFullScreen", 'true');
         if (jQuery.browser.msie && ((jQuery.browser.version * 1) < 7)) {
           jQuery('#noflash').hide();
-          jQuery('#svPlayerId').css('background', 'url(http://public.slidesharecdn.com/images/loading.gif) no-repeat center');
+          jQuery('#svPlayerId').css('background', 'url(https://public.slidesharecdn.com/images/loading.gif) no-repeat center');
           jQuery(document).ready(function() { so.write(ele); });
         } else {
           so.write(ele);
         }
       }
-      if(slideshare_object.player.url.match(/^http:\/\/s3.amazonaws.com\/ppt-download\//)){
-        $(ele).prepend("<div style='margin-left:10px; margin-right: 10px; padding-top:5px;'>This presentation is best viewed in Safari on Apple computers. Due to the file size, please be patient while it loads.<br />This is an Adobe&reg; Acrobat&reg; 9 PDF Portfolio. If you are unable to view this, please download Adobe Acrobat 9 Reader here <a href='http://ad.doubleclick.net/clk;216811595;39562291;o?http://get.adobe.com/reader/?sdid=EVMYF' >http://get.adobe.com/reader</a></div>");
+      if(slideshare_object.player.url.match(/^https:\/\/s3.amazonaws.com\/ppt-download\//)){
+        $(ele).prepend("<div style='margin-left:10px; margin-right: 10px; padding-top:5px;'>This presentation is best viewed in Safari on Apple computers. Due to the file size, please be patient while it loads.<br />This is an Adobe&reg; Acrobat&reg; 9 PDF Portfolio. If you are unable to view this, please download Adobe Acrobat 9 Reader here <a href='https://ad.doubleclick.net/clk;216811595;39562291;o?https://get.adobe.com/reader/?sdid=EVMYF' >https://get.adobe.com/reader</a></div>");
         window.setInterval("$('#svPlayerId div').remove()",20000);
       }
     }
@@ -817,7 +817,7 @@ slideshare_object.configurePlayerAd('player_ad');
 </div><!-- Flag ends here-->
 <!-- Other issues similar to flagging begins here -->
 <div>
-<a href="http://www.slideshare.net/terms#dmca" rel="nofollow">File a copyright complaint</a>
+<a href="https://www.slideshare.net/terms#dmca" rel="nofollow">File a copyright complaint</a>
 </div>
 <!-- End other issues -->
 <!-- SuperUser actions being here-->
@@ -829,7 +829,7 @@ slideshare_object.configurePlayerAd('player_ad');
 <table class="notranslate embedDetails">
 <tbody>
 <tr>
-<td class="url h-url">http://www.slideshare.net</td>
+<td class="url h-url">https://www.slideshare.net</td>
 <td class="count h-views">10</td>
 </tr>
 </tbody>
@@ -1022,7 +1022,7 @@ Haiti damage assessment: ITHACA &amp; UNOSAT vectors…
                       OSM so the notes can be viewed in an
                       editing environment.
 
-                      http://walking-papers.org
+                      https://walking-papers.org
  </li><li>Direct measurements: Questionnaires.
 Based on OSM Humanitarian Data Model (HDM) and
 humanitarian data models (Ex UNSDIT)
@@ -1236,14 +1236,14 @@ Thinking and Design
 - technical improvements to OSM and OSGeo in response to field requirements
 (offline support, verification, format adaptors, multi-master sync..)
  </li><li>* WikiProject Haiti
-http://wiki.openstreetmap.org/wiki/WikiProject_Haiti
+https://wiki.openstreetmap.org/wiki/WikiProject_Haiti
 
 * Strategy &amp; proposal
-http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Haiti
+https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Haiti
 _Strategy_And_Proposal
 
 * Humanitarian OpenStreetMap Team
-http://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team
+https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team
 
 * Contacts
 nicolas.chavent@gmail.com
@@ -1272,10 +1272,10 @@ GA_googleFillSlot("slideview_below_transcript");
 <!-- .social-links -->
 <div class="social-links">
 <ul>
-<li><a href="http://slidesha.re/SlideShareOnLinkedIn" class="iconLinkedInFooter" rel="nofollow">Connect on LinkedIn</a></li>
-<li><a href="http://twitter.com/SlideShare" class="iconTwitterFooter" rel="nofollow">Follow us on Twitter</a></li>
-<li><a href="http://www.facebook.com/slideshare" class="iconFacebookFooter" rel="nofollow">Find us on Facebook</a></li>
-<li><a href="http://plus.google.com/107202479304826454162" class="iconGooglePlusFooter" rel="nofollow">Find us on Google+</a></li>
+<li><a href="https://slidesha.re/SlideShareOnLinkedIn" class="iconLinkedInFooter" rel="nofollow">Connect on LinkedIn</a></li>
+<li><a href="https://twitter.com/SlideShare" class="iconTwitterFooter" rel="nofollow">Follow us on Twitter</a></li>
+<li><a href="https://www.facebook.com/slideshare" class="iconFacebookFooter" rel="nofollow">Find us on Facebook</a></li>
+<li><a href="https://plus.google.com/107202479304826454162" class="iconGooglePlusFooter" rel="nofollow">Find us on Google+</a></li>
 </ul>
 </div>
 <!-- /.social-links -->
@@ -1286,11 +1286,11 @@ GA_googleFillSlot("slideview_below_transcript");
 <li><strong>Learn About Us</strong></li>
 <li><a href="/about" title="About us">About</a></li>
 <li><a href="/about/workatslideshare" title="Careers">Careers</a></li>
-<li><a href="http://blog.slideshare.net" title="Our Blog">Our Blog</a></li>
+<li><a href="https://blog.slideshare.net" title="Our Blog">Our Blog</a></li>
 <li><a href="/about/press" title="Press" rel="nofollow">Press</a></li>
 <li><a href="/about/contactus" title="Contact us" rel="nofollow">Contact us</a></li>
 
-<li><a href="http://help.slideshare.com/home" title="Get Help" rel="nofollow" id="j-helpLink">Help &amp; Support</a></li>
+<li><a href="https://help.slideshare.com/home" title="Get Help" rel="nofollow" id="j-helpLink">Help &amp; Support</a></li>
 
 </ul>
 </div><!-- .fColumn -->
@@ -1309,23 +1309,23 @@ GA_googleFillSlot("slideview_below_transcript");
 <li><strong>Pro &amp; more</strong></li>
 <li><a href="/business/premium/plans?cmp_src=footer" title="Go PRO">Go PRO <sup>New</sup></a></li>
 <li><a href="/contact_sales" title="Business Solutions" rel="nofollow">Business Solutions</a></li>
-<li><a href="http://premium.slideshare.net/advertise" title="Advertise" rel="nofollow" target="_blank">Advertise on SlideShare</a></li>
-<li><a href="http://www.slideshare.net/mobile" title="SlideShare Mobile" rel="nofollow">SlideShare on mobile</a></li>
+<li><a href="https://premium.slideshare.net/advertise" title="Advertise" rel="nofollow" target="_blank">Advertise on SlideShare</a></li>
+<li><a href="https://www.slideshare.net/mobile" title="SlideShare Mobile" rel="nofollow">SlideShare on mobile</a></li>
 </ul>
 </div><!-- .fColumn -->
 <div class="fColumn last">
 <ul class="linksList">
 <li><strong>Developers &amp; API</strong></li>
 <li><a href="/developers" rel="nofollow">Developers Section</a></li>
-<li><a href="http://groups.google.com/group/slideshare-developers?lnk=srg" rel="nofollow">Developers Group</a></li>
-<li><a href="http://engineering.slideshare.com" title="Engineering Blog">Engineering Blog</a></li>
-<li><a href="http://www.slideshare.net/widgets/blogbadge" title="Widgets for your blog">Blog Widgets</a></li>
+<li><a href="https://groups.google.com/group/slideshare-developers?lnk=srg" rel="nofollow">Developers Group</a></li>
+<li><a href="https://engineering.slideshare.com" title="Engineering Blog">Engineering Blog</a></li>
+<li><a href="https://www.slideshare.net/widgets/blogbadge" title="Widgets for your blog">Blog Widgets</a></li>
 </ul>
 </div><!-- .fColumn -->
 </div><!-- .links -->
 <div class="copyright">
 <p>&copy; 2012 SlideShare Inc. All rights reserved.</p>
-<a href="http://www.slideshare.net/rss/latest" class="rssFooter" rel="nofollow">RSS Feed</a>
+<a href="https://www.slideshare.net/rss/latest" class="rssFooter" rel="nofollow">RSS Feed</a>
 </div>
 <li class="expandedOverlay action-addfav-new public-only" style="display:none">
 <form method="post" action="/search/slideshow" accept-charset="utf-8">

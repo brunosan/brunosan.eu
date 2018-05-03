@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/Resources.dwt" codeOutsideHTMLIsLocked="false" -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/Resources.dwt" codeOutsideHTMLIsLocked="false" -->
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script language="javascript" src="../common_elements/js/matching_columns.js" type="text/javascript"></script>
@@ -30,9 +30,9 @@ li#ch31 a {color:#f89829;}
 <div id="containertop">
 	<div id="LHtopnav">
     <h4 class="hide">Links to UN bodies</h4>
-		<ul>﻿<li><a name="top"></a><a href="http://www.un.org/english"><img id="icon" src="../common_elements/images/icon_un.gif" alt="United Nations" name="icon" align="absmiddle" /></a> <a href="http://www.un.org/english">Home</a>  |  </li>
-		  <li><a href="http://www.un.org/esa/desa/"><acronym title="UN Department of Economic and Social Affairs">DESA</acronym></a>  |  </li>  
-		  <li><a href="http://www.un.org/esa/index.html">UN Economic and Social Development</a></li></ul>
+		<ul>﻿<li><a name="top"></a><a href="https://www.un.org/english"><img id="icon" src="../common_elements/images/icon_un.gif" alt="United Nations" name="icon" align="absmiddle" /></a> <a href="https://www.un.org/english">Home</a>  |  </li>
+		  <li><a href="https://www.un.org/esa/desa/"><acronym title="UN Department of Economic and Social Affairs">DESA</acronym></a>  |  </li>  
+		  <li><a href="https://www.un.org/esa/index.html">UN Economic and Social Development</a></li></ul>
 	</div>  <!-- end div LHtopnav -->
     <div id="RHtopnav">
     <h4 class="hide">Links to site map</h4>    
@@ -71,7 +71,7 @@ li#ch31 a {color:#f89829;}
 				<h4 class="hide">Secondary Links</h4>
 				<ul>
                                         <li id="databases"><a class="subnav" href="../resources/res_databases.shtml">Databases </a></li>
-                    <li id="calendar"><a class="subnav" href="http://esango.un.org/event/dsd.html?page=calendarList&year=2010">Calendar </a></li>
+                    <li id="calendar"><a class="subnav" href="https://esango.un.org/event/dsd.html?page=calendarList&year=2010">Calendar </a></li>
 					<li id="documents"><a class="subnav" href="../resources/res_docukeyconf.shtml">Documents </a>
                     <ul class="subnav2">
                         <li><a id="docukeyconf" class="subnav2" href="../resources/res_docukeyconf.shtml">:: Key Conferences </a></li> 
@@ -123,8 +123,8 @@ li#ch31 a {color:#f89829;}
         <li id="secii"><a href="res_agenda21_09.shtml">Sec II</a></li>
         <li id="seciii"><a href="res_agenda21_23.shtml">Sec III</a></li>
         <li id="seciv"><a href="res_agenda21_33.shtml">Sec IV</a></li>
-        <li><a href="http://www.un.org/documents/ga/conf151/aconf15126-1annex1.htm" target="_blank">Rio Declaration</a></li>
-        <li><a href="http://www.un.org/documents/ga/conf151/aconf15126-3annex3.htm" target="_blank">Forest Principles</a></li>
+        <li><a href="https://www.un.org/documents/ga/conf151/aconf15126-1annex1.htm" target="_blank">Rio Declaration</a></li>
+        <li><a href="https://www.un.org/documents/ga/conf151/aconf15126-3annex3.htm" target="_blank">Forest Principles</a></li>
 		<li><a href="https://unp.un.org/details.aspx?entry=E93020&title=Agenda+21:+Earth+Summit+-+The+United+Nations+Programme+of+Action+from+Rio" target="_blank">Order</a></li>
 	</ul>
 	</div>
@@ -371,10 +371,10 @@ Chapter 31</h3>
 	</div> <!-- end containerwhite div -->
 <!-- ********************** legal section -->
     <div id="legal">
-    <p>﻿<a href="http://www.un.org/copyright.htm">Copyright &copy; United Nations 2009</a> |  <a href="http://www.un.org/terms.htm">Terms of Use</a> | <a href="http://www.un.org/privacy.htm">Privacy Notice</a>
-    <br /><a target="_blank" href="http://esa.un.org/common/isu/contactUs.do?toCode=81&amp;subject=Division+for+Sustainable+Development&amp;subjectEdit=true">Comments and suggestions</a>
+    <p>﻿<a href="https://www.un.org/copyright.htm">Copyright &copy; United Nations 2009</a> |  <a href="https://www.un.org/terms.htm">Terms of Use</a> | <a href="https://www.un.org/privacy.htm">Privacy Notice</a>
+    <br /><a target="_blank" href="https://esa.un.org/common/isu/contactUs.do?toCode=81&amp;subject=Division+for+Sustainable+Development&amp;subjectEdit=true">Comments and suggestions</a>
 	<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">

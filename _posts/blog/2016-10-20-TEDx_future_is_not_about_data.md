@@ -42,7 +42,7 @@ This is Derhi. It’s a little village in India. If you were there, you would se
 
 ![](https://cdn-images-1.medium.com/max/800/0*aP4X6VnhNyLaqbyj.)
 
-<figcaption class="imageCaption">India at night. [nightlights.io](http://nightlights.io)</figcaption>
+<figcaption class="imageCaption">India at night. [nightlights.io](https://nightlights.io)</figcaption>
 
 
 The point is that if you are able to ask the questions of how much light there is in every village every night, we can understand not only were there is light or not, but also when there are blackouts. Furthermore, because these satellites have been doing this for the last 15 years we can also know how effective we were doing this in the past, and how and where we can implement the programs moving forward that best use our resources. So that kids can do their homework after sunset with artificial lights.
@@ -81,13 +81,13 @@ If you live in the province that is colored green it means that you are going to
 <figcaption class="imageCaption">Ever stuck in traffic? Those taxis are reporting how to make it better. [Flickr: Manila]</figcaption>
 
 
-The third example I want to share with you is traffic. How many of you have been stuck in traffic in the city? Probably everyone. In developing countries is worse not only because the roads are not prepared for the number of cars we see, but also maintenance is an issue. Trip cables, traffic lights, signals are not properly maintained. In practice what happens is that you have traffic agents taking calls all the time from colleagues writing reports of what the traffic is and what is the traffic loads, And there are literally pages and pages with this information. We can do better than this. In this case, [the idea is](http://opentraffic.io/) to leverage these apps you can call on your phone to call for a taxi. Because every driver in the city has the app running, and is sending the location of all the cars on the fleet, every few seconds. If you put that in a in a map you have a live picture of the phones moving slowly across the city. You get the information of the traffic, and how much time they stop on the intersection, or the traffic light. You can now know how to tweak those traffic lights in response to the life information of traffic. All without having to build more infrastructure.
+The third example I want to share with you is traffic. How many of you have been stuck in traffic in the city? Probably everyone. In developing countries is worse not only because the roads are not prepared for the number of cars we see, but also maintenance is an issue. Trip cables, traffic lights, signals are not properly maintained. In practice what happens is that you have traffic agents taking calls all the time from colleagues writing reports of what the traffic is and what is the traffic loads, And there are literally pages and pages with this information. We can do better than this. In this case, [the idea is](https://opentraffic.io/) to leverage these apps you can call on your phone to call for a taxi. Because every driver in the city has the app running, and is sending the location of all the cars on the fleet, every few seconds. If you put that in a in a map you have a live picture of the phones moving slowly across the city. You get the information of the traffic, and how much time they stop on the intersection, or the traffic light. You can now know how to tweak those traffic lights in response to the life information of traffic. All without having to build more infrastructure.
 
 
 ![](https://cdn-images-1.medium.com/max/800/1*PUuRBYYc7NzZxjlH0YOJUg.png)
 
 
-<figcaption class="imageCaption">Using taxis as traffic sensors [[OpenTraffic](http://opentraffic.io/)]</figcaption>
+<figcaption class="imageCaption">Using taxis as traffic sensors [[OpenTraffic](https://opentraffic.io/)]</figcaption>
 
 
 That’s why I think the future is not about data; but about absorbing complexity. We’ve never had as much data as we have today. It’s growing exponentially, most of the data we have today has been generated the last two years. We have never had as many people looking at that data. The opportunity to make data-driven decisions is unprecedented.

@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <title>D'Hondt method - Wikipedia, the free encyclopedia</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -344,15 +344,15 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <h2><span class="editsection">[<a href="/w/index.php?title=D%27Hondt_method&amp;action=edit&amp;section=4" title="Edit section: References">edit</a>]</span> <span class="mw-headline" id="References">References</span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <ol class="references">
-<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation book">Pukelsheim, Friedrich (2007). <a rel="nofollow" class="external text" href="http://www.essex.ac.uk/ecpr/events/generalconference/pisa/papers/PP996.pdf">"Seat bias formulas in proportional representation systems"</a>. <i>4th ecpr General Conference</i><span class="printonly">. <a rel="nofollow" class="external free" href="http://www.essex.ac.uk/ecpr/events/generalconference/pisa/papers/PP996.pdf">http://www.essex.ac.uk/ecpr/events/generalconference/pisa/papers/PP996.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Seat+bias+formulas+in+proportional+representation+systems&amp;rft.atitle=4th+ecpr+General+Conference&amp;rft.aulast=Pukelsheim&amp;rft.aufirst=Friedrich&amp;rft.au=Pukelsheim%2C%26%2332%3BFriedrich&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.essex.ac.uk%2Fecpr%2Fevents%2Fgeneralconference%2Fpisa%2Fpapers%2FPP996.pdf&amp;rfr_id=info:sid/en.wikipedia.org:D%27Hondt_method"><span style="display: none;">&#160;</span></span></span></li>
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Aurel Croissant and Daniel J. Pojar, Jr., <a rel="nofollow" class="external text" href="http://www.ccc.nps.navy.mil/si/2005/Jun/croissantJun05.asp">Quo Vadis Thailand? Thai Politics after the 2005 Parliamentary Election</a>, Strategic Insights, Volume IV, Issue 6 (June 2005)</span></li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Oikeusministeriö. Suhteellisuuden parantaminen eduskuntavaaleissa. <a rel="nofollow" class="external free" href="http://www.om.fi/uploads/p0yt86h0difo.pdf">http://www.om.fi/uploads/p0yt86h0difo.pdf</a></span></li>
+<li id="cite_note-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-0">^</a></b></span> <span class="reference-text"><span class="citation book">Pukelsheim, Friedrich (2007). <a rel="nofollow" class="external text" href="https://www.essex.ac.uk/ecpr/events/generalconference/pisa/papers/PP996.pdf">"Seat bias formulas in proportional representation systems"</a>. <i>4th ecpr General Conference</i><span class="printonly">. <a rel="nofollow" class="external free" href="https://www.essex.ac.uk/ecpr/events/generalconference/pisa/papers/PP996.pdf">https://www.essex.ac.uk/ecpr/events/generalconference/pisa/papers/PP996.pdf</a></span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Seat+bias+formulas+in+proportional+representation+systems&amp;rft.atitle=4th+ecpr+General+Conference&amp;rft.aulast=Pukelsheim&amp;rft.aufirst=Friedrich&amp;rft.au=Pukelsheim%2C%26%2332%3BFriedrich&amp;rft.date=2007&amp;rft_id=http%3A%2F%2Fwww.essex.ac.uk%2Fecpr%2Fevents%2Fgeneralconference%2Fpisa%2Fpapers%2FPP996.pdf&amp;rfr_id=info:sid/en.wikipedia.org:D%27Hondt_method"><span style="display: none;">&#160;</span></span></span></li>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Aurel Croissant and Daniel J. Pojar, Jr., <a rel="nofollow" class="external text" href="https://www.ccc.nps.navy.mil/si/2005/Jun/croissantJun05.asp">Quo Vadis Thailand? Thai Politics after the 2005 Parliamentary Election</a>, Strategic Insights, Volume IV, Issue 6 (June 2005)</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Oikeusministeriö. Suhteellisuuden parantaminen eduskuntavaaleissa. <a rel="nofollow" class="external free" href="https://www.om.fi/uploads/p0yt86h0difo.pdf">https://www.om.fi/uploads/p0yt86h0difo.pdf</a></span></li>
 </ol>
 </div>
 <h2><span class="editsection">[<a href="/w/index.php?title=D%27Hondt_method&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
 <ul>
-<li><a rel="nofollow" class="external text" href="http://icon.cat/util/elections">Simulator Election calculus simulator based on the modified D'Hondt system</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.moonwise.co.uk/dhondt.php">Calculations using the pure d'Hondt method</a></li>
+<li><a rel="nofollow" class="external text" href="https://icon.cat/util/elections">Simulator Election calculus simulator based on the modified D'Hondt system</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.moonwise.co.uk/dhondt.php">Calculations using the pure d'Hondt method</a></li>
 </ul>
 
 
@@ -369,7 +369,7 @@ Expensive parser function count: 1/500
 </div>				<!-- /bodycontent -->
 								<!-- printfooter -->
 				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=D%27Hondt_method&amp;oldid=499733786">http://en.wikipedia.org/w/index.php?title=D%27Hondt_method&amp;oldid=499733786</a>"				</div>
+				Retrieved from "<a href="https://en.wikipedia.org/w/index.php?title=D%27Hondt_method&amp;oldid=499733786">https://en.wikipedia.org/w/index.php?title=D%27Hondt_method&amp;oldid=499733786</a>"				</div>
 				<!-- /printfooter -->
 												<!-- catlinks -->
 				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Party-list_PR" title="Category:Party-list PR">Party-list PR</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2010" title="Category:Articles needing additional references from July 2010">Articles needing additional references from July 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>				<!-- /catlinks -->
@@ -579,7 +579,7 @@ Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundati
 											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
 											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
 											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=D%27Hondt_method&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
+											<li id="footer-places-mobileview"><a href="https://en.m.wikipedia.org/w/index.php?title=D%27Hondt_method&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
 									</ul>
 										<ul id="footer-icons" class="noprint">
 					<li id="footer-copyrightico">

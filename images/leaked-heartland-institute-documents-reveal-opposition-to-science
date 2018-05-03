@@ -35,10 +35,10 @@ function pageload_done( $, console, maybe ){
 
 
 
-    <link rel="image_src" href="http://a.fsdn.com/sd/topics/education_64.png">
+    <link rel="image_src" href="https://a.fsdn.com/sd/topics/education_64.png">
 
 
-    <link rel="canonical" href="http://news.slashdot.org/story/12/02/15/1515208/leaked-heartland-institute-documents-reveal-opposition-to-science">
+    <link rel="canonical" href="https://news.slashdot.org/story/12/02/15/1515208/leaked-heartland-institute-documents-reveal-opposition-to-science">
 
 
 <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/ie8-classic.css?release_20120612" ><![endif]-->
@@ -102,7 +102,7 @@ $('#more-experiment a').
 </script>
 <!--[if lt IE 9]><script src="//a.fsdn.com/sd/html5.js"></script><![endif]--><link rel="top"       title="News for nerds, stuff that matters" href="//slashdot.org/" >
 <link rel="search"    title="Search Slashdot" href="//news.slashdot.org/search.pl">
-<link rel="alternate" title="Slashdot RSS" href="http://rss.slashdot.org/Slashdot/slashdot" type="application/rss+xml">
+<link rel="alternate" title="Slashdot RSS" href="https://rss.slashdot.org/Slashdot/slashdot" type="application/rss+xml">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <!-- DoubleClick Random Number -->
 <script type="text/javascript">
@@ -142,7 +142,7 @@ var _gaq = _gaq || [];
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -167,9 +167,9 @@ var _gaq = _gaq || [];
 	//<![CDATA[
 
 		var hint   = 'news,education,slashdot,news';
-		var parent = 'http://news.slashdot.org/news/12/02/15/1515208.shtml';
+		var parent = 'https://news.slashdot.org/news/12/02/15/1515208.shtml';
 
-	document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ostg.slashdot/education_p1_leader;pg=article;sid=12/02/15/1515208;topic=news;logged_in=0;tile='+dfp_tile+';sz=728x90;tpc=education;tpc=slashdot;tpc=news;u=20120215_leaked-heartland-institute-documents-reveal-opposition-to-science_education;ord='+dfp_ord+'?"><\/script>');
+	document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/ostg.slashdot/education_p1_leader;pg=article;sid=12/02/15/1515208;topic=news;logged_in=0;tile='+dfp_tile+';sz=728x90;tpc=education;tpc=slashdot;tpc=news;u=20120215_leaked-heartland-institute-documents-reveal-opposition-to-science_education;ord='+dfp_ord+'?"><\/script>');
 		dfp_tile++;
 	//]]>
 	</script>
@@ -185,10 +185,10 @@ var _gaq = _gaq || [];
 	<script type="text/javascript">
 	//<![CDATA[
 		ord=Math.random()*10000000000000000;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=' + ord + '?"><\/script>');
+		document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=' + ord + '?"><\/script>');
 	//]]>
 	</script>
-	<noscript><a href="http://ad.doubleclick.net/jump/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=123456789?" border="0" alt="" /></a></noscript>
+	<noscript><a href="https://ad.doubleclick.net/jump/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=123456789?" border="0" alt="" /></a></noscript>
 	<!-- end ad tag -->
 	</div>
 
@@ -404,7 +404,7 @@ var _gaq = _gaq || [];
                 <input type="hidden" name="op" value="claim_openid">
                 <input type="hidden" name="openid_login" value="1">
                 <label for="openid_url" class="openid_url">
-                <input type="text" name="openid_url" value="http://" size="32" maxlength="255">
+                <input type="text" name="openid_url" value="https://" size="32" maxlength="255">
                 </label><br>
                 <input type="submit" value="Log in with OpenID" class="button fno" style="width:230px;">
                 </fieldset></form>
@@ -1046,7 +1046,7 @@ $TAG_MENU.menu({
 	
 	
 		
-			<a href="http://unknownlamer.org/" rel="nofollow">Unknown Lamer</a>
+			<a href="https://unknownlamer.org/" rel="nofollow">Unknown Lamer</a>
 		
 	
 	
@@ -1067,9 +1067,9 @@ $TAG_MENU.menu({
 
 
 			<div id="text-29308171" class="p">
-			New submitter <a href="mailto:bheerssen@gmail.com" rel="nofollow">bheerssen</a> writes with an excerpt from an article by The Bad Astronomer: <i>"The Heartland Institute &mdash; a self-described 'think tank' that actually serves in part as a way for climate change denialism to get funded &mdash; has a potentially embarrassing situation on their hands. Someone going by the handle 'Heartland Insider' has <a href="http://blogs.discovermagazine.com/badastronomy/2012/02/15/breaking-news-a-look-behind-the-curtain-of-the-heartland-institutes-climate-change-spin/">anonymously released quite a few of what are claimed to be internal documents</a> from Heartland, revealing the Institute's strategies, funds, and much more."</i>
+			New submitter <a href="mailto:bheerssen@gmail.com" rel="nofollow">bheerssen</a> writes with an excerpt from an article by The Bad Astronomer: <i>"The Heartland Institute &mdash; a self-described 'think tank' that actually serves in part as a way for climate change denialism to get funded &mdash; has a potentially embarrassing situation on their hands. Someone going by the handle 'Heartland Insider' has <a href="https://blogs.discovermagazine.com/badastronomy/2012/02/15/breaking-news-a-look-behind-the-curtain-of-the-heartland-institutes-climate-change-spin/">anonymously released quite a few of what are claimed to be internal documents</a> from Heartland, revealing the Institute's strategies, funds, and much more."</i>
 
-At least one site <a href="http://www.desmogblog.com/heartland-insider-exposes-institute-s-budget-and-strategy">has the documents in question</a>.</div>
+At least one site <a href="https://www.desmogblog.com/heartland-insider-exposes-institute-s-budget-and-strategy">has the documents in question</a>.</div>
 			
 
 		
@@ -1095,7 +1095,7 @@ At least one site <a href="http://www.desmogblog.com/heartland-insider-exposes-i
 
 	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Leaked%20Heartland%20Institute%20Documents%20Reveal%20Opposition%20To%20Science%20%40slashdot%20http%3A%2F%2Fnews.slashdot.org%2Fstory%2F12%2F02%2F15%2F1515208%2F" target="_blank">twitter</a>
 	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=//news.slashdot.org/story/12/02/15/1515208/leaked-heartland-institute-documents-reveal-opposition-to-science" target="_blank">facebook</a>
-    <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/story/12/02/15/1515208/leaked-heartland-institute-documents-reveal-opposition-to-science" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+    <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/story/12/02/15/1515208/leaked-heartland-institute-documents-reveal-opposition-to-science" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 						
@@ -1185,9 +1185,9 @@ At least one site <a href="http://www.desmogblog.com/heartland-insider-exposes-i
 	//<![CDATA[
 
 		var hint   = 'news,education,slashdot,news';
-		var parent = 'http://news.slashdot.org/news/12/02/15/1515208.shtml';
+		var parent = 'https://news.slashdot.org/news/12/02/15/1515208.shtml';
 
-	document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ostg.slashdot/education_p83_medrec;pg=article;sid=12/02/15/1515208;topic=news;logged_in=0;tile='+dfp_tile+';sz=300x250,300x600;tpc=education;tpc=slashdot;tpc=news;u=20120215_leaked-heartland-institute-documents-reveal-opposition-to-science_education;ord='+dfp_ord+'?"><\/script>');
+	document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/ostg.slashdot/education_p83_medrec;pg=article;sid=12/02/15/1515208;topic=news;logged_in=0;tile='+dfp_tile+';sz=300x250,300x600;tpc=education;tpc=slashdot;tpc=news;u=20120215_leaked-heartland-institute-documents-reveal-opposition-to-science_education;ord='+dfp_ord+'?"><\/script>');
 		dfp_tile++;
 	//]]>
 	</script>
@@ -1365,7 +1365,7 @@ At least one site <a href="http://www.desmogblog.com/heartland-insider-exposes-i
                 <input type="hidden" name="op" value="claim_openid">
                 <input type="hidden" name="openid_login" value="1">
                 <label for="openid_url" class="openid_url">
-                <input type="text" name="openid_url" value="http://" size="32" maxlength="255">
+                <input type="text" name="openid_url" value="https://" size="32" maxlength="255">
                 </label><br>
                 <input type="submit" value="Log in with OpenID" class="button fno" style="width:230px;">
                 </fieldset></form>
@@ -1488,9 +1488,9 @@ D2.more_comments_num(515);
 	<div class="commentSub" id="comment_sub_39045213">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Relevant portion of one of the documents%20by%20elrous0%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045213" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045213" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045213" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Relevant portion of one of the documents%20by%20elrous0%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045213" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045213" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045213" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1529,9 +1529,9 @@ D2.more_comments_num(515);
 	<div class="commentSub" id="comment_sub_39045253">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045213" onclick="return D2.selectParent(39045213)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Anonymous Coward%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045253" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045253" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045253" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Anonymous Coward%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045253" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045253" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045253" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1570,9 +1570,9 @@ D2.more_comments_num(515);
 	<div class="commentSub" id="comment_sub_39045273">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045253" onclick="return D2.selectParent(39045253)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Saintwolf%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045273" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045273" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045273" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Saintwolf%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045273" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045273" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045273" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1611,9 +1611,9 @@ D2.more_comments_num(515);
 	<div class="commentSub" id="comment_sub_39045947">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045273" onclick="return D2.selectParent(39045273)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Captain Hook%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045947" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045947" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045947" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Captain Hook%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045947" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045947" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045947" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1654,9 +1654,9 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 	<div class="commentSub" id="comment_sub_39045393">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045213" onclick="return D2.selectParent(39045213)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Best to Exercise Caution at This Point%20by%20eldavojohn%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045393" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045393" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045393" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Best to Exercise Caution at This Point%20by%20eldavojohn%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045393" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045393" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045393" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1695,9 +1695,9 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 	<div class="commentSub" id="comment_sub_39046087">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045393" onclick="return D2.selectParent(39045393)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Best to Exercise Caution at This Point%20by%20NeutronCowboy%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046087" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046087" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046087" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Best to Exercise Caution at This Point%20by%20NeutronCowboy%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046087" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046087" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046087" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1730,15 +1730,15 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39046765">The $90,000 going to Anthony Watts is money well spent, <a href="http://tamino.wordpress.com/2011/05/09/favorite-denier-tricks-or-how-to-hide-the-incline/" title="wordpress.com">considering</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/12/10/oh-pleeze/)" title="wordpress.com">the</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/10/23/fake-skeptic-criticism-of-decadal-variations-in-the-global-atmospheric-land-temperatures/" title="wordpress.com">sheer</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/05/14/fake-forcing/" title="wordpress.com">volume</a> [wordpress.com] <a href="http://tamino.wordpress.com/2012/01/09/steps/" title="wordpress.com">of</a> [wordpress.com] <a href="http://tamino.wordpress.com/2010/09/28/vindication/" title="wordpress.com">easily</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/11/20/tisdale-fumbles-pielke-cheers/" title="wordpress.com">debunked</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/09/21/fruit-loops/" title="wordpress.com">anti</a> [wordpress.com]-<a href="http://tamino.wordpress.com/2011/06/14/chaos/" title="wordpress.com">science</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/02/12/maybe-were-getting-through/" title="wordpress.com">nonsense</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/05/09/ice-out/" title="wordpress.com">that</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/06/02/frankly-not/" title="wordpress.com">gets</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/09/01/arctic-sea-ice-death-spiral-continues/" title="wordpress.com">posted</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/04/18/cherries-jubilee/" title="wordpress.com">over</a> [wordpress.com] <a href="http://tamino.wordpress.com/2011/08/06/bag-of-hammers-ii/" title="wordpress.com">there.</a> [wordpress.com]</div>
+		<div id="comment_body_39046765">The $90,000 going to Anthony Watts is money well spent, <a href="https://tamino.wordpress.com/2011/05/09/favorite-denier-tricks-or-how-to-hide-the-incline/" title="wordpress.com">considering</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/12/10/oh-pleeze/)" title="wordpress.com">the</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/10/23/fake-skeptic-criticism-of-decadal-variations-in-the-global-atmospheric-land-temperatures/" title="wordpress.com">sheer</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/05/14/fake-forcing/" title="wordpress.com">volume</a> [wordpress.com] <a href="https://tamino.wordpress.com/2012/01/09/steps/" title="wordpress.com">of</a> [wordpress.com] <a href="https://tamino.wordpress.com/2010/09/28/vindication/" title="wordpress.com">easily</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/11/20/tisdale-fumbles-pielke-cheers/" title="wordpress.com">debunked</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/09/21/fruit-loops/" title="wordpress.com">anti</a> [wordpress.com]-<a href="https://tamino.wordpress.com/2011/06/14/chaos/" title="wordpress.com">science</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/02/12/maybe-were-getting-through/" title="wordpress.com">nonsense</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/05/09/ice-out/" title="wordpress.com">that</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/06/02/frankly-not/" title="wordpress.com">gets</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/09/01/arctic-sea-ice-death-spiral-continues/" title="wordpress.com">posted</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/04/18/cherries-jubilee/" title="wordpress.com">over</a> [wordpress.com] <a href="https://tamino.wordpress.com/2011/08/06/bag-of-hammers-ii/" title="wordpress.com">there.</a> [wordpress.com]</div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39046765">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045213" onclick="return D2.selectParent(39045213)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Layzej%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046765" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046765" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046765" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Layzej%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046765" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046765" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046765" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1788,9 +1788,9 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 	<div class="commentSub" id="comment_sub_39045401">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045353" onclick="return D2.selectParent(39045353)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Anonymous Coward%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045401" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045401" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045401" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Anonymous Coward%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045401" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045401" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045401" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1900,9 +1900,9 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 	<div class="commentSub" id="comment_sub_39045471">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045353" onclick="return D2.selectParent(39045353)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Volante3192%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045471" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045471" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045471" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Volante3192%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045471" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045471" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045471" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1941,9 +1941,9 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 	<div class="commentSub" id="comment_sub_39045951">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045471" onclick="return D2.selectParent(39045471)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20MightyMartian%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045951" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045951" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045951" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20MightyMartian%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045951" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045951" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045951" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1993,9 +1993,9 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 	<div class="commentSub" id="comment_sub_39046541">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045859" onclick="return D2.selectParent(39045859)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046541" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046541" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046541" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046541" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046541" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046541" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2036,7 +2036,7 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39048515"><p><div class="quote"><p>You do realize that you employed absolutely nothing but ad hominem in your post, right?</p></div><p>I realize that you're accusing me of that. It's not true though.</p><p><div class="quote"><p>Who are we not supposed to take seriously again?</p></div><p>Was that disguised attempt at <a href="http://en.wikipedia.org/wiki/Ad_hominem" title="wikipedia.org">ad hominem</a> [wikipedia.org] I see? Be careful of the hypocrisy there.</p></div>
+		<div id="comment_body_39048515"><p><div class="quote"><p>You do realize that you employed absolutely nothing but ad hominem in your post, right?</p></div><p>I realize that you're accusing me of that. It's not true though.</p><p><div class="quote"><p>Who are we not supposed to take seriously again?</p></div><p>Was that disguised attempt at <a href="https://en.wikipedia.org/wiki/Ad_hominem" title="wikipedia.org">ad hominem</a> [wikipedia.org] I see? Be careful of the hypocrisy there.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39048515">
@@ -2087,9 +2087,9 @@ I'm just pleading for people to exercise caution.  I think that the best approac
 	<div class="commentSub" id="comment_sub_39048553">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39048285" onclick="return D2.selectParent(39048285)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20forkfail%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048553" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048553" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048553" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20forkfail%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048553" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048553" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048553" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2284,7 +2284,7 @@ I think the real problem here is that AGW is an economic argument presented as a
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39047425"><p>I hate doing other people's work for them...</p><p><a href="http://arstechnica.com/science/news/2011/10/climate-skeptics-perform-independent-analysis-finally-convinced-earth-is-getting-warmer.ars" title="arstechnica.com">http://arstechnica.com/science/news/2011/10/climate-skeptics-perform-independent-analysis-finally-convinced-earth-is-getting-warmer.ars</a> [arstechnica.com]</p></div>
+		<div id="comment_body_39047425"><p>I hate doing other people's work for them...</p><p><a href="https://arstechnica.com/science/news/2011/10/climate-skeptics-perform-independent-analysis-finally-convinced-earth-is-getting-warmer.ars" title="arstechnica.com">https://arstechnica.com/science/news/2011/10/climate-skeptics-perform-independent-analysis-finally-convinced-earth-is-getting-warmer.ars</a> [arstechnica.com]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39047425">
@@ -2323,9 +2323,9 @@ I think the real problem here is that AGW is an economic argument presented as a
 	<div class="commentSub" id="comment_sub_39046919">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045353" onclick="return D2.selectParent(39045353)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20TubeSteak%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046919" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046919" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046919" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20TubeSteak%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046919" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046919" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046919" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2371,9 +2371,9 @@ For more information, read "Merchants of Doubt" and dig up referenced documents 
 	<div class="commentSub" id="comment_sub_39048289">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045353" onclick="return D2.selectParent(39045353)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20microbox%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048289" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048289" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048289" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20microbox%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048289" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048289" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048289" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2423,9 +2423,9 @@ For more information, read "Merchants of Doubt" and dig up referenced documents 
 	<div class="commentSub" id="comment_sub_39045433">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045349" onclick="return D2.selectParent(39045349)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20eternaldoctorwho%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045433" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045433" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045433" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20eternaldoctorwho%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045433" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045433" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045433" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2455,7 +2455,7 @@ For more information, read "Merchants of Doubt" and dig up referenced documents 
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39045715"><p><a href="http://en.wikipedia.org/wiki/Film_at_11" title="wikipedia.org">Context</a> [wikipedia.org] <a href="http://catb.org/~esr/jargon/html/F/film-at-11.html" title="catb.org">matters</a> [catb.org] people.</p><p>That's why just knowing the words and grammer isn't sufficient when learning a language.</p></div>
+		<div id="comment_body_39045715"><p><a href="https://en.wikipedia.org/wiki/Film_at_11" title="wikipedia.org">Context</a> [wikipedia.org] <a href="https://catb.org/~esr/jargon/html/F/film-at-11.html" title="catb.org">matters</a> [catb.org] people.</p><p>That's why just knowing the words and grammer isn't sufficient when learning a language.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39045715">
@@ -2554,7 +2554,7 @@ For more information, read "Merchants of Doubt" and dig up referenced documents 
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~unity100">unity100 <span class="uid">(970058)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39045643">		
 		on Wednesday February 15, @12:34PM (<span class="ind"></span><a href="//news.slashdot.org/comments.pl?sid=2673121&amp;cid=39045643">#39045643</a>)
-		<small><a href="http://marks.sketweb.com/" title="http://marks.sketweb.com/" class="user_homepage_display">Homepage</a>
+		<small><a href="https://marks.sketweb.com/" title="https://marks.sketweb.com/" class="user_homepage_display">Homepage</a>
 <a href="//slashdot.org/~unity100/journal/" title="Wednesday April 21 2010, @08:32PM" class="user_journal_display">Journal</a> </small>
 </span>
 		</div>
@@ -2566,9 +2566,9 @@ For more information, read "Merchants of Doubt" and dig up referenced documents 
 	<div class="commentSub" id="comment_sub_39045643">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045349" onclick="return D2.selectParent(39045349)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=dont try to fucking rationalize this.%20by%20unity100%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045643" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045643" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045643" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=dont try to fucking rationalize this.%20by%20unity100%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045643" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045643" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045643" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2607,9 +2607,9 @@ For more information, read "Merchants of Doubt" and dig up referenced documents 
 	<div class="commentSub" id="comment_sub_39046177">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045643" onclick="return D2.selectParent(39045643)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:dont try to fucking rationalize this.%20by%20JWW%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046177" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046177" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046177" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:dont try to fucking rationalize this.%20by%20JWW%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046177" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046177" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046177" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2705,9 +2705,9 @@ I bet if global warming screws up your grand-children's lives, you will still bl
 	<div class="commentSub" id="comment_sub_39048719">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046955" onclick="return D2.selectParent(39046955)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:dont try to fucking rationalize this.%20by%20microbox%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048719" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048719" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39048719" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:dont try to fucking rationalize this.%20by%20microbox%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048719" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048719" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39048719" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2735,7 +2735,7 @@ I bet if global warming screws up your grand-children's lives, you will still bl
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~crawling_chaos">crawling_chaos <span class="uid">(23007)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39045761">		
 		on Wednesday February 15, @12:44PM (<span class="ind"></span><a href="//news.slashdot.org/comments.pl?sid=2673121&amp;cid=39045761">#39045761</a>)
-		<small><a href="http://localhost/" title="http://localhost/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://localhost/" title="https://localhost/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -2752,9 +2752,9 @@ I think the real problem is that if humans are causing global warming, it is fea
 	<div class="commentSub" id="comment_sub_39045761">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045349" onclick="return D2.selectParent(39045349)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20crawling_chaos%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045761" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045761" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045761" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20crawling_chaos%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045761" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045761" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045761" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2782,7 +2782,7 @@ I think the real problem is that if humans are causing global warming, it is fea
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~DavidTC">DavidTC <span class="uid">(10147)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39046453">		 &lt;<a href="mailto:slas45dxsvadiv.vadiv%40+n+e+v+erbox.com">slas45dxsvadiv.vadiv@ n e v erbox.com</a>&gt;
 		on Wednesday February 15, @01:31PM (<span class="ind"></span><a href="//news.slashdot.org/comments.pl?sid=2673121&amp;cid=39046453">#39046453</a>)
-		<small><a href="http://davecheatham.com/" title="http://davecheatham.com/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://davecheatham.com/" title="https://davecheatham.com/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -2798,9 +2798,9 @@ The problem is, of course, that 'libertarian' and 'the right' only coincide when
 	<div class="commentSub" id="comment_sub_39046453">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045761" onclick="return D2.selectParent(39045761)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20DavidTC%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046453" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046453" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046453" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20DavidTC%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046453" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046453" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046453" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2880,9 +2880,9 @@ The problem is, of course, that 'libertarian' and 'the right' only coincide when
 	<div class="commentSub" id="comment_sub_39046037">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045349" onclick="return D2.selectParent(39045349)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Dr_Barnowl%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046037" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046037" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046037" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20Dr_Barnowl%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046037" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046037" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046037" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2932,9 +2932,9 @@ The problem is, of course, that 'libertarian' and 'the right' only coincide when
 	<div class="commentSub" id="comment_sub_39045963">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045711" onclick="return D2.selectParent(39045711)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20elrous0%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045963" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045963" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045963" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20elrous0%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045963" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045963" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045963" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3014,9 +3014,9 @@ The problem is, of course, that 'libertarian' and 'the right' only coincide when
 	<div class="commentSub" id="comment_sub_39045461">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045325" onclick="return D2.selectParent(39045325)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20NeutronCowboy%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045461" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045461" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045461" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20NeutronCowboy%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045461" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045461" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045461" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3074,7 +3074,7 @@ The problem is, of course, that 'libertarian' and 'the right' only coincide when
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~dougmc">dougmc <span class="uid">(70836)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39045903">		 &lt;<a href="mailto:dougmc%2Bslashdot%40frenzied.us">dougmc+slashdot@frenzied.us</a>&gt;
 		on Wednesday February 15, @12:52PM (<span class="ind"></span><a href="//news.slashdot.org/comments.pl?sid=2673121&amp;cid=39045903">#39045903</a>)
-		<small><a href="http://mclarenhome.com/~dougmc/" title="http://mclarenhome.com/~dougmc/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://mclarenhome.com/~dougmc/" title="https://mclarenhome.com/~dougmc/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -3085,9 +3085,9 @@ The problem is, of course, that 'libertarian' and 'the right' only coincide when
 	<div class="commentSub" id="comment_sub_39045903">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045461" onclick="return D2.selectParent(39045461)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20dougmc%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045903" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045903" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045903" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20dougmc%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045903" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045903" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045903" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3117,7 +3117,7 @@ The problem is, of course, that 'libertarian' and 'the right' only coincide when
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39046581"><p>So... you would say you actually DON'T stand with child pornographers?</p><p><a href="http://news.slashdot.org/story/12/02/14/1832205/against-online-surveillance-you-must-be-for-child-porn-says-legislator" title="slashdot.org">http://news.slashdot.org/story/12/02/14/1832205/against-online-surveillance-you-must-be-for-child-porn-says-legislator</a> [slashdot.org]</p></div>
+		<div id="comment_body_39046581"><p>So... you would say you actually DON'T stand with child pornographers?</p><p><a href="https://news.slashdot.org/story/12/02/14/1832205/against-online-surveillance-you-must-be-for-child-porn-says-legislator" title="slashdot.org">https://news.slashdot.org/story/12/02/14/1832205/against-online-surveillance-you-must-be-for-child-porn-says-legislator</a> [slashdot.org]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39046581">
@@ -3175,12 +3175,12 @@ The problem is, of course, that 'libertarian' and 'the right' only coincide when
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Mister+Whirly">Mister Whirly <span class="uid">(964219)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39046573">		
 		on Wednesday February 15, @01:39PM (<span class="ind"></span><a href="//news.slashdot.org/comments.pl?sid=2673121&amp;cid=39046573">#39046573</a>)
-		<small><a href="http://localhost/" title="http://localhost/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://localhost/" title="https://localhost/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39046573">I wonder if the Hearland is going to revise it's <a href="http://heartland.org/policy-documents/climategate-opportunity-stop-and-think" title="heartland.org">position</a> [heartland.org]on the release of the so called "Climategate" emails.<br> <br>
+		<div id="comment_body_39046573">I wonder if the Hearland is going to revise it's <a href="https://heartland.org/policy-documents/climategate-opportunity-stop-and-think" title="heartland.org">position</a> [heartland.org]on the release of the so called "Climategate" emails.<br> <br>
 "The release of these documents creates an opportunity for reporters, academics, politicians, and others who relied on the IPCC to form their opinions about global warming to stop and reconsider their position. The experts they trusted and quoted in the past have been caught red-handed plotting to conceal data, hide temperature trends that contradict their predictions, and keep critics from appearing in peer-reviewed journals. This is new and real evidence that they should examine and then comment on publicly."<br> <br>
 I must have missed the link where they correct this and admit the entire Climategate "controversy" was proven false, and that no deliberate manipulation of data was actually found. I am sure they are still working on that release...</div>
 	</div>
@@ -3188,9 +3188,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39046573">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045461" onclick="return D2.selectParent(39045461)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20Mister Whirly%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046573" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046573" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046573" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20Mister Whirly%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046573" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046573" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046573" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3256,15 +3256,15 @@ I must have missed the link where they correct this and admit the entire Climate
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39051017"><p>If you go here:  <a href="http://www.realclimate.org/index.php/data-sources/" title="realclimate.org">Data Sources</a> [realclimate.org]</p><p>You will find a link to <a href="http://www.meteo.psu.edu/~mann/shared/research/MANNETAL98/" title="psu.edu">Mann et al (1998/1999)</a> [psu.edu] which has the data and code that Michael Mann and his coauthors used in the original "Hockey Stick" graph.  If you want the original raw data I think you'll have to go to the original papers that Mann got his data from.</p></div>
+		<div id="comment_body_39051017"><p>If you go here:  <a href="https://www.realclimate.org/index.php/data-sources/" title="realclimate.org">Data Sources</a> [realclimate.org]</p><p>You will find a link to <a href="https://www.meteo.psu.edu/~mann/shared/research/MANNETAL98/" title="psu.edu">Mann et al (1998/1999)</a> [psu.edu] which has the data and code that Michael Mann and his coauthors used in the original "Hockey Stick" graph.  If you want the original raw data I think you'll have to go to the original papers that Mann got his data from.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39051017">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39048635" onclick="return D2.selectParent(39048635)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20riverat1%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39051017" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39051017" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39051017" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20riverat1%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39051017" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39051017" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39051017" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3303,9 +3303,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39045683">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045325" onclick="return D2.selectParent(39045325)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045683" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045683" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045683" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045683" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045683" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045683" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3344,9 +3344,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39045913">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045683" onclick="return D2.selectParent(39045683)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20Moryath%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045913" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045913" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045913" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20Moryath%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045913" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045913" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045913" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3385,9 +3385,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39047029">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045913" onclick="return D2.selectParent(39045913)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20TubeSteak%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047029" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047029" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047029" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20TubeSteak%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047029" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047029" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047029" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3420,15 +3420,15 @@ I must have missed the link where they correct this and admit the entire Climate
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39047423"><p><a href="http://video.google.com/videoplay?docid=522784499045867811" title="google.com">Fred Singer was actually one of those same people denying that smoking caused cancer.</a> [google.com]</p><p><b>It's the same asshole liars.</b></p></div>
+		<div id="comment_body_39047423"><p><a href="https://video.google.com/videoplay?docid=522784499045867811" title="google.com">Fred Singer was actually one of those same people denying that smoking caused cancer.</a> [google.com]</p><p><b>It's the same asshole liars.</b></p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39047423">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045913" onclick="return D2.selectParent(39045913)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20epiphani%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047423" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047423" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047423" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20epiphani%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047423" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047423" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047423" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3467,9 +3467,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39046061">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045683" onclick="return D2.selectParent(39045683)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046061" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046061" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046061" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046061" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046061" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046061" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3519,9 +3519,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39046609">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046381" onclick="return D2.selectParent(39046381)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046609" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046609" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046609" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046609" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046609" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046609" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3571,9 +3571,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39046823">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046727" onclick="return D2.selectParent(39046727)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046823" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046823" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046823" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046823" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046823" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046823" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3617,15 +3617,15 @@ I must have missed the link where they correct this and admit the entire Climate
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39050401"><p>Which, like most things you read on the Heartland Institute funded WattUpWithThat blog, isn't true.</p><p><a href="http://www.columbia.edu/~jeh1/mailings/2012/20120130_CowardsPart2.pdf" title="columbia.edu">http://www.columbia.edu/~jeh1/mailings/2012/20120130_CowardsPart2.pdf</a> [columbia.edu]</p></div>
+		<div id="comment_body_39050401"><p>Which, like most things you read on the Heartland Institute funded WattUpWithThat blog, isn't true.</p><p><a href="https://www.columbia.edu/~jeh1/mailings/2012/20120130_CowardsPart2.pdf" title="columbia.edu">https://www.columbia.edu/~jeh1/mailings/2012/20120130_CowardsPart2.pdf</a> [columbia.edu]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39050401">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39050013" onclick="return D2.selectParent(39050013)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39050401" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39050401" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39050401" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39050401" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39050401" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39050401" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3716,9 +3716,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39047303">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046881" onclick="return D2.selectParent(39046881)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20forkfail%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047303" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047303" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047303" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20forkfail%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047303" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047303" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047303" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3811,15 +3811,15 @@ I must have missed the link where they correct this and admit the entire Climate
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39046783"><p>Cirby on the leaked Heartland Institute documents:</p><p><div class="quote"><p>The big argument about this being a "smoking gun" is one sentence, where someone typed "dissuading teachers from teaching science" instead of "dissuading teachers from teaching this lousy excuse for a science?"<br>Pretty weak stuff, overall.</p></div><p>Cirby in 2009 about the leaked CRU documents:</p><p><div class="quote"><p>It's even better - the source cited in the story above is the CRU (funny how "University of East Anglia" started being the source when everyone found out that CRU was more than a bit corrupt) - the same people who just got busted with all of that leaked data and incriminating emails just this week.</p></div><p> <a href="http://slashdot.org/comments.pl?sid=1453158&amp;cid=30193346" title="slashdot.org">http://slashdot.org/comments.pl?sid=1453158&amp;cid=30193346</a> [slashdot.org]</p><p>Hypocrite.</p></div>
+		<div id="comment_body_39046783"><p>Cirby on the leaked Heartland Institute documents:</p><p><div class="quote"><p>The big argument about this being a "smoking gun" is one sentence, where someone typed "dissuading teachers from teaching science" instead of "dissuading teachers from teaching this lousy excuse for a science?"<br>Pretty weak stuff, overall.</p></div><p>Cirby in 2009 about the leaked CRU documents:</p><p><div class="quote"><p>It's even better - the source cited in the story above is the CRU (funny how "University of East Anglia" started being the source when everyone found out that CRU was more than a bit corrupt) - the same people who just got busted with all of that leaked data and incriminating emails just this week.</p></div><p> <a href="https://slashdot.org/comments.pl?sid=1453158&amp;cid=30193346" title="slashdot.org">https://slashdot.org/comments.pl?sid=1453158&amp;cid=30193346</a> [slashdot.org]</p><p>Hypocrite.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39046783">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045325" onclick="return D2.selectParent(39045325)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046783" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046783" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046783" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046783" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046783" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046783" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3869,9 +3869,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39045569">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045465" onclick="return D2.selectParent(39045465)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20MightyMartian%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045569" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045569" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045569" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20MightyMartian%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045569" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045569" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045569" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3910,9 +3910,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39045681">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045569" onclick="return D2.selectParent(39045569)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20UnknowingFool%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045681" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045681" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045681" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20UnknowingFool%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045681" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045681" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045681" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3951,9 +3951,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39046543">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045569" onclick="return D2.selectParent(39045569)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20RenderSeven%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046543" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046543" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046543" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20RenderSeven%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046543" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046543" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046543" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3992,9 +3992,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39046671">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046543" onclick="return D2.selectParent(39046543)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20MightyMartian%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046671" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046671" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046671" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20MightyMartian%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046671" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046671" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046671" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4033,9 +4033,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39047371">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046671" onclick="return D2.selectParent(39046671)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20RenderSeven%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047371" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047371" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047371" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20RenderSeven%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047371" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047371" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047371" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4085,9 +4085,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39046477">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046261" onclick="return D2.selectParent(39046261)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20Moryath%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046477" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046477" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046477" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20Moryath%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046477" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046477" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046477" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4131,15 +4131,15 @@ I must have missed the link where they correct this and admit the entire Climate
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39047015"><p>Knock yourself out buddy:</p><p><a href="http://www.realclimate.org/index.php/data-sources/" title="realclimate.org">http://www.realclimate.org/index.php/data-sources/</a> [realclimate.org]</p></div>
+		<div id="comment_body_39047015"><p>Knock yourself out buddy:</p><p><a href="https://www.realclimate.org/index.php/data-sources/" title="realclimate.org">https://www.realclimate.org/index.php/data-sources/</a> [realclimate.org]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39047015">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046835" onclick="return D2.selectParent(39046835)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20GameboyRMH%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047015" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047015" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047015" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20GameboyRMH%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047015" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047015" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047015" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4172,15 +4172,15 @@ I must have missed the link where they correct this and admit the entire Climate
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39047063"><p>Oh, and just in case you want to save yourself the effort of re-reproducing the effort:</p><p><a href="http://www.csmonitor.com/Environment/2011/1021/Climate-study-funded-in-part-by-conservative-group-confirms-global-warming" title="csmonitor.com">http://www.csmonitor.com/Environment/2011/1021/Climate-study-funded-in-part-by-conservative-group-confirms-global-warming</a> [csmonitor.com]</p></div>
+		<div id="comment_body_39047063"><p>Oh, and just in case you want to save yourself the effort of re-reproducing the effort:</p><p><a href="https://www.csmonitor.com/Environment/2011/1021/Climate-study-funded-in-part-by-conservative-group-confirms-global-warming" title="csmonitor.com">https://www.csmonitor.com/Environment/2011/1021/Climate-study-funded-in-part-by-conservative-group-confirms-global-warming</a> [csmonitor.com]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39047063">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39046835" onclick="return D2.selectParent(39046835)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20GameboyRMH%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047063" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047063" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047063" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20GameboyRMH%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047063" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047063" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047063" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4260,9 +4260,9 @@ I must have missed the link where they correct this and admit the entire Climate
 	<div class="commentSub" id="comment_sub_39049339">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39048661" onclick="return D2.selectParent(39048661)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20F34nor%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39049339" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39049339" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39049339" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:So...%20by%20F34nor%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39049339" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39049339" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39049339" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4301,7 +4301,7 @@ I must have missed the link where they correct this and admit the entire Climate
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~hvm2hvm">hvm2hvm <span class="uid">(1208954)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39045489">		
 		on Wednesday February 15, @12:24PM (<span class="ind"></span><a href="//news.slashdot.org/comments.pl?sid=2673121&amp;cid=39045489">#39045489</a>)
-		<small><a href="http://hasveme.no-ip.org/" title="http://hasveme.no-ip.org/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://hasveme.no-ip.org/" title="https://hasveme.no-ip.org/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -4316,9 +4316,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045489">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045345" onclick="return D2.selectParent(39045345)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20hvm2hvm%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045489" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045489" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045489" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20hvm2hvm%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045489" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045489" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045489" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4357,9 +4357,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39046721">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045489" onclick="return D2.selectParent(39045489)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20MozeeToby%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046721" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046721" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046721" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20MozeeToby%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046721" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046721" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046721" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4480,9 +4480,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39047691">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39047103" onclick="return D2.selectParent(39047103)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047691" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047691" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39047691" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047691" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047691" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39047691" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4515,15 +4515,15 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39046157">Did you ever consider that the reason national science bodies don't fund anti-global warming research is the same reason that they don't fund the <a href="http://en.wikipedia.org/wiki/Flat_Earth_Society" title="wikipedia.org">Flat Earth Society?</a> [wikipedia.org] When every National Institute of Science in the industrialised world agrees that global warming is happening, and that human activity is the main driver, with 98% of climate scientists in agreement, why the heck would a science institute waste its  limited funding on Flat Earth research?</div>
+		<div id="comment_body_39046157">Did you ever consider that the reason national science bodies don't fund anti-global warming research is the same reason that they don't fund the <a href="https://en.wikipedia.org/wiki/Flat_Earth_Society" title="wikipedia.org">Flat Earth Society?</a> [wikipedia.org] When every National Institute of Science in the industrialised world agrees that global warming is happening, and that human activity is the main driver, with 98% of climate scientists in agreement, why the heck would a science institute waste its  limited funding on Flat Earth research?</div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39046157">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045595" onclick="return D2.selectParent(39045595)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20chrb%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046157" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046157" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046157" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Relevant portion of one of the documents%20by%20chrb%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046157" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046157" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046157" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4592,9 +4592,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045271">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Cue the deniers...%20by%20betterunixthanunix%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045271" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045271" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045271" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Cue the deniers...%20by%20betterunixthanunix%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045271" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045271" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045271" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4633,9 +4633,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045343">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045271" onclick="return D2.selectParent(39045271)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Cue the deniers...%20by%20Anonymous Coward%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045343" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045343" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045343" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Cue the deniers...%20by%20Anonymous Coward%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045343" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045343" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045343" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4704,9 +4704,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045967">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045271" onclick="return D2.selectParent(39045271)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Cue the deniers...%20by%20BasilBrush%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045967" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045967" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045967" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Cue the deniers...%20by%20BasilBrush%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045967" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045967" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045967" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4745,9 +4745,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045383">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Confirmation of what we already knew...%20by%20AngryDeuce%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045383" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045383" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045383" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Confirmation of what we already knew...%20by%20AngryDeuce%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045383" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045383" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045383" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4780,15 +4780,15 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39045521"><p>"Still, like I said, it's nice to see what we've all already suspected confirmed in writing. These guys are in the same league as Big Tobacco with their bullshit."</p><p>Same league?  They're on the same *team*!</p><p>"Heartland also continues to collect money from Philip Morris parent company Altria as well as from the tobacco giant Reynolds American, while maintaining ongoing advocacy against policies related to smoking and health."<br><a href="http://www.desmogblog.com/heartland-insider-exposes-institute-s-budget-and-strategy" title="desmogblog.com">http://www.desmogblog.com/heartland-insider-exposes-institute-s-budget-and-strategy</a> [desmogblog.com]</p></div>
+		<div id="comment_body_39045521"><p>"Still, like I said, it's nice to see what we've all already suspected confirmed in writing. These guys are in the same league as Big Tobacco with their bullshit."</p><p>Same league?  They're on the same *team*!</p><p>"Heartland also continues to collect money from Philip Morris parent company Altria as well as from the tobacco giant Reynolds American, while maintaining ongoing advocacy against policies related to smoking and health."<br><a href="https://www.desmogblog.com/heartland-insider-exposes-institute-s-budget-and-strategy" title="desmogblog.com">https://www.desmogblog.com/heartland-insider-exposes-institute-s-budget-and-strategy</a> [desmogblog.com]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39045521">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045383" onclick="return D2.selectParent(39045383)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Confirmation of what we already knew...%20by%20goodmanj%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045521" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045521" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045521" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Confirmation of what we already knew...%20by%20goodmanj%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045521" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045521" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045521" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4827,9 +4827,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045765">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045521" onclick="return D2.selectParent(39045521)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Confirmation of what we already knew...%20by%20KhabaLox%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045765" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045765" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045765" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Confirmation of what we already knew...%20by%20KhabaLox%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045765" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045765" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045765" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4859,7 +4859,7 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39046101"><p><div class="quote"><p>These guys are in the same league as Big Tobacco with their bullshit.</p></div><p>These guys were actually <a href="http://en.wikipedia.org/wiki/The_Heartland_Institute#Smoking" title="wikipedia.org"> <b>in</b> league with Big Tobacco</a> [wikipedia.org] to distribute their bullshit (questioning the link between second hand smoking and ill health for Philip Morris).</p></div>
+		<div id="comment_body_39046101"><p><div class="quote"><p>These guys are in the same league as Big Tobacco with their bullshit.</p></div><p>These guys were actually <a href="https://en.wikipedia.org/wiki/The_Heartland_Institute#Smoking" title="wikipedia.org"> <b>in</b> league with Big Tobacco</a> [wikipedia.org] to distribute their bullshit (questioning the link between second hand smoking and ill health for Philip Morris).</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39046101">
@@ -4887,7 +4887,7 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Greyfox">Greyfox <span class="uid">(87712)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39045435">		
 		on Wednesday February 15, @12:20PM (<span class="ind"></span><a href="//news.slashdot.org/comments.pl?sid=2673121&amp;cid=39045435">#39045435</a>)
-		<small><a href="http://64.81.98.2/" title="http://64.81.98.2/" class="user_homepage_display">Homepage</a>
+		<small><a href="https://64.81.98.2/" title="https://64.81.98.2/" class="user_homepage_display">Homepage</a>
 <a href="//slashdot.org/~Greyfox/journal/" title="Monday November 15 2010, @02:52PM" class="user_journal_display">Journal</a> </small>
 </span>
 		</div>
@@ -4899,9 +4899,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045435">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=An Ignorant Population Is More Easily Controlled%20by%20Greyfox%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045435" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045435" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045435" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=An Ignorant Population Is More Easily Controlled%20by%20Greyfox%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045435" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045435" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045435" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4964,15 +4964,15 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39045467"><p>I used to butt heads with <a href="http://heartland.org/jim-lakely" title="heartland.org">Jim Lakely</a> [heartland.org] on a small, multi-author politically slanted <a href="http://www.infinitemonkeysblog.com/" title="infinitemonkeysblog.com">blog</a> [infinitemonkeysblog.com] he contributed to.  I was friends with him briefly on FB, but I couldn't take his near constant right-wing/libertarian rantings.  By all accounts he's an intelligent guy, but he has some of the craziest ideas.  He's a really good fit for that organization.  When he got that job, the action at the blog dried up, which was unfortunate.  I had a lot of fun debating there, as one of only about 3 active left-leaners.</p></div>
+		<div id="comment_body_39045467"><p>I used to butt heads with <a href="https://heartland.org/jim-lakely" title="heartland.org">Jim Lakely</a> [heartland.org] on a small, multi-author politically slanted <a href="https://www.infinitemonkeysblog.com/" title="infinitemonkeysblog.com">blog</a> [infinitemonkeysblog.com] he contributed to.  I was friends with him briefly on FB, but I couldn't take his near constant right-wing/libertarian rantings.  By all accounts he's an intelligent guy, but he has some of the craziest ideas.  He's a really good fit for that organization.  When he got that job, the action at the blog dried up, which was unfortunate.  I had a lot of fun debating there, as one of only about 3 active left-leaners.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39045467">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=I know one of these guys%20by%20KhabaLox%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045467" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045467" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045467" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=I know one of these guys%20by%20KhabaLox%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045467" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045467" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045467" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5011,9 +5011,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045689">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045467" onclick="return D2.selectParent(39045467)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:I know one of these guys%20by%20KhabaLox%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045689" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045689" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045689" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:I know one of these guys%20by%20KhabaLox%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045689" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045689" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045689" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5052,9 +5052,9 @@ The fact that everyone knows this doesn't mean we should just look away. On the 
 	<div class="commentSub" id="comment_sub_39045677">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text="Climategate"%20by%20KhabaLox%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045677" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045677" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045677" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text="Climategate"%20by%20KhabaLox%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045677" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045677" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045677" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5125,9 +5125,9 @@ So regardless of religion, at some point (or at what point does) the doctrine ha
 	<div class="commentSub" id="comment_sub_39045823">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Isn't this Anti-american?%20by%20ciderbrew%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045823" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045823" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045823" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Isn't this Anti-american?%20by%20ciderbrew%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045823" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045823" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045823" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5166,9 +5166,9 @@ So regardless of religion, at some point (or at what point does) the doctrine ha
 	<div class="commentSub" id="comment_sub_39045829">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=I dunno why so many are AGW%20by%20DontBlameCanada%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045829" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045829" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045829" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=I dunno why so many are AGW%20by%20DontBlameCanada%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045829" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045829" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045829" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5207,9 +5207,9 @@ So regardless of religion, at some point (or at what point does) the doctrine ha
 	<div class="commentSub" id="comment_sub_39045889">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Once again, the Koch Bros manning the funnel%20by%20sl4shd0rk%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045889" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045889" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045889" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Once again, the Koch Bros manning the funnel%20by%20sl4shd0rk%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045889" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045889" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045889" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5248,9 +5248,9 @@ So regardless of religion, at some point (or at what point does) the doctrine ha
 	<div class="commentSub" id="comment_sub_39045897">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=An opportunity for IT....%20by%20couchslug%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045897" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045897" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045897" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=An opportunity for IT....%20by%20couchslug%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045897" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045897" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045897" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5289,9 +5289,9 @@ So regardless of religion, at some point (or at what point does) the doctrine ha
 	<div class="commentSub" id="comment_sub_39045945">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Leaked Heartland Documents%20by%20Anonymous Coward%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045945" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045945" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045945" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Leaked Heartland Documents%20by%20Anonymous Coward%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045945" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045945" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045945" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5330,9 +5330,9 @@ So regardless of religion, at some point (or at what point does) the doctrine ha
 	<div class="commentSub" id="comment_sub_39046323">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Key climate-related takeaways%20by%20AdamHaun%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046323" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046323" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046323" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Key climate-related takeaways%20by%20AdamHaun%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046323" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046323" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046323" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5399,7 +5399,7 @@ So regardless of religion, at some point (or at what point does) the doctrine ha
 
 These individuals are a clear and present danger to the national security of the United States of America and they need to be dealt with within that defining  context and no other. It is directly because of their actions that steps needed to preserve our civilization against catastrophic climate change have not been taken despite the fact they're well within our ability:
 </p><p>
-<a href="http://cmi.princeton.edu/wedges/" title="princeton.edu">http://cmi.princeton.edu/wedges/</a> [princeton.edu]
+<a href="https://cmi.princeton.edu/wedges/" title="princeton.edu">https://cmi.princeton.edu/wedges/</a> [princeton.edu]
 </p><p>
 I understand that many reading this will not see advocating for provably suicidal policies and conspiring to influence society to take suicidal steps as  a crime. To them I say- the definition of what is criminal does and must change because criminals adapt and change. The means they have to effect their ends change  and the scope of devastation they can effect enlarges. The purpose of a system of laws is to protect society against the self chosen behaviour of criminals, <i>whatever that behaviour may be.</i> Criminals should not expect that they can evade justice by gaming the law.   </p><p>
 It's criminals themselves who force society's and and decide what laws will come to exist. In a free society that seeks to protect the greatest freedom for each individual and which values liberty, the rule of law is by nature reactionary. But that cannot mean that society will permit criminals to  leverage  that permissive attitude into an act of world wide homicide. </p><p>
@@ -5428,9 +5428,9 @@ Before Nuremberg the concept of  Crimes Agains</p></div><div id="comment_shrunk_
 	<div class="commentSub" id="comment_sub_39046471">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=This is terrorism%20by%20WOOFYGOOFY%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046471" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046471" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39046471" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=This is terrorism%20by%20WOOFYGOOFY%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046471" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046471" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39046471" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5481,9 +5481,9 @@ Before Nuremberg the concept of  Crimes Agains</p></div><div id="comment_shrunk_
 	<div class="commentSub" id="comment_sub_39045307">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045239" onclick="return D2.selectParent(39045239)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Pay no attention%20by%20DynamoJoe%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045307" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045307" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045307" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Pay no attention%20by%20DynamoJoe%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045307" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045307" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045307" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5522,9 +5522,9 @@ Before Nuremberg the concept of  Crimes Agains</p></div><div id="comment_shrunk_
 	<div class="commentSub" id="comment_sub_39045377">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045307" onclick="return D2.selectParent(39045307)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Pay no attention%20by%20elrous0%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045377" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045377" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045377" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Pay no attention%20by%20elrous0%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045377" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045377" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045377" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5657,9 +5657,9 @@ No, there is more in the article. E.g.: <i>This influential audience has usually
 	<div class="commentSub" id="comment_sub_39045865">
 <span class="ind"></span><a class="btn link" href="//news.slashdot.org/comments.pl?sid=2673121&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39045545" onclick="return D2.selectParent(39045545)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Confirmation?%20by%20accessbob%20%40slashdot%20http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045865" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045865" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://news.slashdot.org/comments.pl?sid=2673121%26cid=39045865" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Confirmation?%20by%20accessbob%20%40slashdot%20https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045865" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045865" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://news.slashdot.org/comments.pl?sid=2673121%26cid=39045865" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5945,7 +5945,7 @@ apply_updates_when(		'at-end', true);
         </ul>
 	</nav>
 </footer>
-	<section class="bq"><blockquote class="msg grid_24" cite="http://slashdot.org"><p>First study the enemy.  Seek weakness.
+	<section class="bq"><blockquote class="msg grid_24" cite="https://slashdot.org"><p>First study the enemy.  Seek weakness.
 		-- Romulan Commander, "Balance of Terror", stardate 1709.2</p><span class="slant"></span></blockquote></section>
 <footer id="ft" class="grid_24">
 		<nav class="grid_10" role="footer">
@@ -5953,10 +5953,10 @@ apply_updates_when(		'at-end', true);
 			<li><a href="//slashdot.org/faq">FAQ</a></li>
 			<li><a href="//slashdot.org/archive.pl">Story Archive</a></li>
 			<li><a href="//slashdot.org/hof.shtml">Hall of Fame</a></li>
-			<li><a href="http://geek.net/advertising">Advertising</a></li>
-			<li><a href="http://geek.net/terms.php">Terms</a></li>
-			<li><a href="http://geek.net/privacy-statement">Privacy</a></li>
-			<li><a href="http://geek.net/opt-out-choices">Cookies/Opt Out</li>
+			<li><a href="https://geek.net/advertising">Advertising</a></li>
+			<li><a href="https://geek.net/terms.php">Terms</a></li>
+			<li><a href="https://geek.net/privacy-statement">Privacy</a></li>
+			<li><a href="https://geek.net/opt-out-choices">Cookies/Opt Out</li>
 			<li><a href="//slashdot.org/faq/slashmeta.shtml">About</a></li>
 
 			<li>
@@ -5965,11 +5965,11 @@ apply_updates_when(		'at-end', true);
 					If you have problems or questions with Slashdot, email us at <a href="mailto:feedback at this domain"><em>feedback</em> at <em>this domain</em></a>.
 			    </span>
 			</li>
-         <li><a href="http://slashdot.jp">Slashdot Japan</a></li>
+         <li><a href="https://slashdot.jp">Slashdot Japan</a></li>
 		    </ul>
 		</nav>
                 
-		<div class="grid_14 tright tm">Trademarks property of their respective owners. Comments owned by the poster. <span class="nobr">&copy; 2012 All Rights Reserved. <a href="http://geek.net" title="The Mother Ship">Geeknet, Inc.</a></span></div>
+		<div class="grid_14 tright tm">Trademarks property of their respective owners. Comments owned by the poster. <span class="nobr">&copy; 2012 All Rights Reserved. <a href="https://geek.net" title="The Mother Ship">Geeknet, Inc.</a></span></div>
 </footer>
 
  
@@ -5995,7 +5995,7 @@ COMSCORE.beacon({
   c15:""
 });
 </script>
-<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2"></noscript>
+<noscript><img src="https://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2"></noscript>
 <script id="after-content" type="text/javascript">
 (function( $, fn, console ){
 	$ && fn && $(function(){ fn($, console); });

@@ -28,8 +28,8 @@ Today she sent me the end result. This is how she closes the study. I cannot agr
 <blockquote>Both the Educator and Scientist expressed their concerns about the education system, which traditionally does not encourage creative thinking or enhancement of practical skills. They believe that creativity needs to be present not only in the schooling stage but also at work and this is only possible if the environment supports creativity.</blockquote>
 <!--more-->
 
-Her full report is <a href="http://nasonurb.files.wordpress.com/2010/12/perception-of-creativiy.pdf">here</a>.
+Her full report is <a href="https://nasonurb.files.wordpress.com/2010/12/perception-of-creativiy.pdf">here</a>.
 
-This seems a perfect excuse to include this video from <a href="http://en.wikipedia.org/wiki/Ken_Robinson_(British_author)">Ken robinson</a>, and beautifully animated by <a href="http://www.thersa.org/">RSA</a>. The talk is about the extremely closely related topic of changing the paradigm of education to bolster creativity.
+This seems a perfect excuse to include this video from <a href="https://en.wikipedia.org/wiki/Ken_Robinson_(British_author)">Ken robinson</a>, and beautifully animated by <a href="https://www.thersa.org/">RSA</a>. The talk is about the extremely closely related topic of changing the paradigm of education to bolster creativity.
 
-http://www.youtube.com/watch?v=zDZFcDGpL4U
+https://www.youtube.com/watch?v=zDZFcDGpL4U

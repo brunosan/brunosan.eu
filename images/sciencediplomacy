@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
 <html 
-     xmlns="http://www.w3.org/1999/xhtml" 
-     xmlns:dc="http://purl.org/dc/elements/1.1/" 
-     xmlns:ctag="http://commontag.org/ns#" 
+     xmlns="https://www.w3.org/1999/xhtml" 
+     xmlns:dc="https://purl.org/dc/elements/1.1/" 
+     xmlns:ctag="https://commontag.org/ns#" 
           lang="en" 
      dir="ltr"
-     prefix="og: http://ogp.me/ns#"
+     prefix="og: https://ogp.me/ns#"
      version="XHTML+RDFa 1.0" >
 
 <head>
@@ -21,8 +21,8 @@
 <link rel="shortcut icon" href="/sites/default/themes/whitehouse/favicon.ico" type="image/x-icon" />
 <meta name="keywords" content="President,Barack Obama,White House,United States of America,44th President,White House history,President Obama,Barck,Barek,Barak,Barrack,Barrak,Obma,Barack" />
 <meta property="fb:admins" content="100000095507875" />
-<meta property="og:image" content="http://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
-<link rel="canonical" href="http://www.whitehouse.gov/administration/eop/ostp/sciencediplomacy" />
+<meta property="og:image" content="https://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
+<link rel="canonical" href="https://www.whitehouse.gov/administration/eop/ostp/sciencediplomacy" />
   <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css_injector_13.css?Z" />
 <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_1cc21e0584d09da85df16e4bb41401a8_3.css" />
 <link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/advagg_css/css_c95568c523ce75320a9733bf64492f9c_21.css" />
@@ -38,7 +38,7 @@
   <script type="text/javascript" src="/sites/default/files/advagg_js/js_41956453d36d46aeeac6e977b160aec3_6.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"http:\/\/wh.gov\/3PB","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"http:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."},"og":{"group_context":{"nid":"7967","title":"Office of Science and Technology Policy","type":"microsite"}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"https:\/\/wh.gov\/3PB","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"https:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."},"og":{"group_context":{"nid":"7967","title":"Office of Science and Technology Policy","type":"microsite"}}});
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -225,13 +225,13 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                             </ul>
                                       <div id="nav-issues-feature" class="topnav-feature">
                 <div class="cp_tile ">  <div id="block-nodeblock-43315" class="clear-block block block-nodeblock ">
-  <div class="content"><p class="menu-feature-title"><a href="http://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
+  <div class="content"><p class="menu-feature-title"><a href="https://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
 <p>Helping responsible homeowners</p>
-<p><a href="http://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
+<p><a href="https://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
 <hr />
-<p class="menu-feature-title"><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
+<p class="menu-feature-title"><a href="https://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
 <p>See how your federal tax dollars are spent</p>
-<p><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
+<p><a href="https://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
 </div>
 </div>
 </div>              </div>
@@ -258,7 +258,7 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                   <a href="/administration/jill-biden">Dr. Jill Biden</a>                                </li>
                               <li>
                   <a href="/administration/cabinet">The Cabinet</a>                                  <ul class="topnav-dd-inner-sub">
-                                      <li><a href="http://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
+                                      <li><a href="https://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -341,7 +341,7 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                   <a href="/about/tours-and-events">Tours &amp; Events</a>                                  <ul class="topnav-dd-inner-sub">
                                       <li><a href="/eastereggroll">2012 Easter Egg Roll</a></li>
                                       <li><a href="/eastereggroll">2011 Easter Egg Roll</a></li>
-                                      <li><a href="http://www.whitehouse.gov/holidays">Holidays 2011</a></li>
+                                      <li><a href="https://www.whitehouse.gov/holidays">Holidays 2011</a></li>
                                       <li><a href="/about/tours_and_events/garden">Kitchen Garden Tours</a></li>
                                     </ul>
                                 </li>
@@ -401,7 +401,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
     <div id="breadcrumb">
   	  <a href="/">Home</a> • <a href="/administration">The Administration</a> • Office of Science and Technology Policy  	</div><!--/breadcrumb-->
     <div id="sub-search">
-              <form action="http://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
+              <form action="https://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
 <div><input type="hidden" name="affiliate" id="edit-affiliate-id" value="wh"  />
 <div class="form-item clearfix" id="edit-text-field-wrapper">
  <input type="text" maxlength="128" name="query" id="edit-text-field" size="15" value="" title="Enter the terms you wish to search for." class="form-text search-field" />
@@ -511,7 +511,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
 <div class="embed">
 	
 <div class="clearfix" id="small-node-embed-image-detail">
-  <img src="http://www.whitehouse.gov/sites/default/files/imagecache/embedded_img_small/image/image_file/3595510012_476bf139fe_o.jpg" alt="President Obama in Cairo" title="President Obama in Cairo"  class="imagecache imagecache-embedded_img_small" width="430" height="287" />  <p>
+  <img src="https://www.whitehouse.gov/sites/default/files/imagecache/embedded_img_small/image/image_file/3595510012_476bf139fe_o.jpg" alt="President Obama in Cairo" title="President Obama in Cairo"  class="imagecache imagecache-embedded_img_small" width="430" height="287" />  <p>
     President Barack Obama speaks at Cairo University in Cairo, June 4, 2009. In his speech, President Obama called for a 'new beginning between the United States and Muslims', declaring that 'this cycle of suspicion and discord must end'. (Official White House Photo by Chuck Kennedy)
 
           June 4, 2009.    
@@ -522,7 +522,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
 </div>
 </div>
 <p>
-	Following the <a href="http://www.whitehouse.gov/video/President-Obama-Speaks-to-the-Muslim-World-from-Cairo-Egypt">President&rsquo;s &ldquo;call to partnership&rdquo; with the Muslim world in Cairo last June</a>, the United States began a series of activities to enhance science and technology collaboration around the globe, from Morocco to Malaysia.&nbsp;The program has drawn praise from foreign officials and dignitaries, academics, and researchers, for delivering on the President&rsquo;s promise to engage with the Muslim world in meaningful ways, to meet the grand challenges we share today. For more information, visit <a href="http://www.america.gov" target="_blank">America.gov</a>.</p>
+	Following the <a href="https://www.whitehouse.gov/video/President-Obama-Speaks-to-the-Muslim-World-from-Cairo-Egypt">President&rsquo;s &ldquo;call to partnership&rdquo; with the Muslim world in Cairo last June</a>, the United States began a series of activities to enhance science and technology collaboration around the globe, from Morocco to Malaysia.&nbsp;The program has drawn praise from foreign officials and dignitaries, academics, and researchers, for delivering on the President&rsquo;s promise to engage with the Muslim world in meaningful ways, to meet the grand challenges we share today. For more information, visit <a href="https://www.america.gov" target="_blank">America.gov</a>.</p>
 <hr />
 <p>
 	&nbsp;</p>
@@ -542,41 +542,41 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
 <li>
 		<a href="/sites/default/files/microsites/ostp/gsd-aug2011.pdf" target="_blank">August 2011</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/newsletter_74.pdf" target="_blank">July 2011</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/newsletter_74.pdf" target="_blank">July 2011</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/march-2011.pdf" target="_blank">March 2011</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/march-2011.pdf" target="_blank">March 2011</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/February-2011.pdf" target="_blank">February 2011</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/February-2011.pdf" target="_blank">February 2011</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/Newsletter-56.pdf" target="_blank">December 20, 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/Newsletter-56.pdf" target="_blank">December 20, 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/Loggerhead_Dec_2010.pdf" target="_blank">December 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/Loggerhead_Dec_2010.pdf" target="_blank">December 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-11-02-2010.pdf" target="_blank">November 2, 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-11-02-2010.pdf" target="_blank">November 2, 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-10-1-2010.pdf" target="_blank">September 24-October 1, 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-10-1-2010.pdf" target="_blank">September 24-October 1, 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-august-2010.pdf" target="_blank">August 1-14,&nbsp;2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-august-2010.pdf" target="_blank">August 1-14,&nbsp;2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-july-august-2010.pdf" target="_blank">July-August 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-july-august-2010.pdf" target="_blank">July-August 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/Loggerhead_4th_edition.pdf" target="_blank">July 2010</a>&nbsp;(pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/Loggerhead_4th_edition.pdf" target="_blank">July 2010</a>&nbsp;(pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-6-30.pdf" target="_blank">June 17-July 1,&nbsp;2010</a>&nbsp;(pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-6-30.pdf" target="_blank">June 17-July 1,&nbsp;2010</a>&nbsp;(pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-6-2.pdf" target="_blank">June 2-14, 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-6-2.pdf" target="_blank">June 2-14, 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-5-6.pdf" target="_blank">May-June 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/esth-5-6.pdf" target="_blank">May-June 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/05-30-2010.pdf" target="_blank">May 30, 2010</a>&nbsp;(pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/05-30-2010.pdf" target="_blank">May 30, 2010</a>&nbsp;(pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/Newsletter%2029.pdf" target="_blank">May 10, 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/Newsletter%2029.pdf" target="_blank">May 10, 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/04292010-newsletter.pdf" target="_blank">April 29, 2010</a> (pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/04292010-newsletter.pdf" target="_blank">April 29, 2010</a> (pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/Newsletter%2027.pdf" target="_blank">April 26, 2010</a>&nbsp;(pdf)</li>
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/Newsletter%2027.pdf" target="_blank">April 26, 2010</a>&nbsp;(pdf)</li>
 <li>
-		<a href="http://edit.whitehouse.gov/sites/default/files/microsites/ostp/Newsletter%2026.pdf" target="_blank">April 19, 2010</a>&nbsp;(pdf)&nbsp;<br />
+		<a href="https://edit.whitehouse.gov/sites/default/files/microsites/ostp/Newsletter%2026.pdf" target="_blank">April 19, 2010</a>&nbsp;(pdf)&nbsp;<br />
 		&nbsp;</li>
 </ul>
 <p>
@@ -589,7 +589,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
 <li>
 		<a href="/blog/2010/06/08/cairo-anniversary">Conference Marks One-Year of Work Following President Obama&#39;s Speech</a></li>
 <li>
-		<a href="http://www.nationalacademies.org/morenews/20100608b.html" target="_blank">Visit the National Academies website to listen to the meeting</a></li>
+		<a href="https://www.nationalacademies.org/morenews/20100608b.html" target="_blank">Visit the National Academies website to listen to the meeting</a></li>
 </ul>
 <p>
 	<strong>Related Blog Post</strong></p>
@@ -752,7 +752,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
                           	<li class="last"><a href="/contact/submit-questions-and-comments/old2">Contact</a></li>
                   	</ul>
         	<ul>
-                                	<li><a href="http://usa.gov">USA.gov</a></li>
+                                	<li><a href="https://usa.gov">USA.gov</a></li>
                           	<li><a href="/rss">Subscribe to RSS Feeds</a></li>
                           	<li class="last"><a href="https://app2.whitehouse.gov/ppo/">Apply for a Job</a></li>
                   	</ul>

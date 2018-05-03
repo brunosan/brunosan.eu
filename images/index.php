@@ -1,7 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
 <HTML>
 <HEAD>
-  <TITLE>Centro de Astrofísica</TITLE>
+  <TITLE>Centro de Astrofï¿œsica</TITLE>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15">
 
   <link rel="stylesheet" type="text/css" href="body_blue.css">
@@ -45,8 +45,8 @@
 	</p><p>
 	And this is where you come in!
 	</p><p class='pheight30'>
-	<em><b>Dawn of the IYA2009</b></em> is a global, Sun observation campaign, proposed by <a href='http://www.astro.up.pt'>Centro de Astrofísica da Universidade do Porto</a> (CAUP) 
-and the IYA2009's <a href='http://www.astronomy2009.org/organisation/structure/taskgroups/solarphysics/'>Solar Physics Group</a> (SPG), which seeks not only to be the global teaser for the <a href='http://www.astronomy2009.org/'>IYA2009</a> (a first calling card), but also to show to a larger, global public, what our star is all about. 
+	<em><b>Dawn of the IYA2009</b></em> is a global, Sun observation campaign, proposed by <a href='https://www.astro.up.pt'>Centro de Astrofï¿œsica da Universidade do Porto</a> (CAUP) 
+and the IYA2009's <a href='https://www.astronomy2009.org/organisation/structure/taskgroups/solarphysics/'>Solar Physics Group</a> (SPG), which seeks not only to be the global teaser for the <a href='https://www.astronomy2009.org/'>IYA2009</a> (a first calling card), but also to show to a larger, global public, what our star is all about. 
 	</p><p class='pheight30'>
 	For this activity we propose that, starting at local noon, 1st of January 2009, everyone with means to (safely) observe the Sun, gather outside science centers, town halls, shopping centers or simply your own street, and present the Sun and the IYA2009 to the world. 
 	</p><p class='pheight30'>
@@ -58,18 +58,18 @@ and the IYA2009's <a href='http://www.astronomy2009.org/organisation/structure/t
 	</p>
 
 	For further information, please contact:<br>
-	<a href='http://www.astro.up.pt/caup/index.php?WID=114&CID=1&ID=42&Lang=pt'>Ricardo Cardoso Reis</a><br>
-	<a href='http://www.astro.up.pt/divulgacao/index.php?Lang=uk'>Outreach Unit</a><br>
-	<a href='http://www.astronomy2009.org/organisation/structure/taskgroups/solarphysics/'>IYA2009 Solar Physics Group</a>
+	<a href='https://www.astro.up.pt/caup/index.php?WID=114&CID=1&ID=42&Lang=pt'>Ricardo Cardoso Reis</a><br>
+	<a href='https://www.astro.up.pt/divulgacao/index.php?Lang=uk'>Outreach Unit</a><br>
+	<a href='https://www.astronomy2009.org/organisation/structure/taskgroups/solarphysics/'>IYA2009 Solar Physics Group</a>
 
 
 	<p></p>	<p></p><p></p>
 	<table style='padding-top: 10px;'><tr><td width='260'><font size='1' color='#404040'>Organization</font></td><td valign='bottom' width='200' align='right'><font size='1' color='#404040'>Supported by</font></td></table>	
 	<table width='800' align='left' border="0" cellspacing="0" cellpadding="0" style='padding-left:5px;padding-top:8px;padding-bottom:5px;padding-right:5px;background-color: #262626;'>
 		<tr>
-			<td style='vertical-align: bottom;background-color: #262626;;' width='390'><a href='http://www.astro.up.pt/' title='CAUP'><img src='LogoCAUP.png' alt='CAUP' border='0'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://www.astronomy2009.org/' title='IYA2009'><img src='iya_logo_uk.jpg' alt='IYA2009' border='0'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://www.astronomy2009.org/organisation/structure/taskgroups/solarphysics/' title='SOLAR PHYSICS'><img src='SPG_small.jpg' alt='SOLAR PHYSICS' border='0'></a></td>
+			<td style='vertical-align: bottom;background-color: #262626;;' width='390'><a href='https://www.astro.up.pt/' title='CAUP'><img src='LogoCAUP.png' alt='CAUP' border='0'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.astronomy2009.org/' title='IYA2009'><img src='iya_logo_uk.jpg' alt='IYA2009' border='0'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.astronomy2009.org/organisation/structure/taskgroups/solarphysics/' title='SOLAR PHYSICS'><img src='SPG_small.jpg' alt='SOLAR PHYSICS' border='0'></a></td>
 			<td style='vertical-align: top;margin-top:1px;margin-bottom:4px; border-right: 1px solid #000000;width:1px;' ></td>
-			<td style='vertical-align: bottom;background-color: #262626;' width='400'>&nbsp; <a href='http://www.helas-eu.org/' title='HELAS'><img src='hellas.jpg' alt='HELAS' border='0'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='http://galileotelescope.com'><img src='galileo_logo_rdblk_new.jpg' border='0'></a></td>							
+			<td style='vertical-align: bottom;background-color: #262626;' width='400'>&nbsp; <a href='https://www.helas-eu.org/' title='HELAS'><img src='hellas.jpg' alt='HELAS' border='0'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://galileotelescope.com'><img src='galileo_logo_rdblk_new.jpg' border='0'></a></td>							
 		</tr>		
 	</table>
 	

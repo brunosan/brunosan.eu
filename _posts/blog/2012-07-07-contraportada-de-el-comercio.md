@@ -7,13 +7,13 @@ status: publish
 tags:
 - 
 ---
-<a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html"><img class="aligncenter size-full wp-image-2484" title="Screen Shot 2012-07-07 at 10.44.04" src="/images/contraportadaelcomercio.png" alt="" width="640" height="212" /></a>
+<a href="https://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html"><img class="aligncenter size-full wp-image-2484" title="Screen Shot 2012-07-07 at 10.44.04" src="/images/contraportadaelcomercio.png" alt="" width="640" height="212" /></a>
 
-Hoy Salgo en la <a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html">contraportada del Periódico asturiano El Comercio</a>. Hace unos días una periodísta, Marifé Antuña, me contacto al ver una reposición de "Asturianos en el Mundo" donde salgo y me preguntó si podía entrevistarme.
+Hoy Salgo en la <a href="https://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html">contraportada del Periódico asturiano El Comercio</a>. Hace unos días una periodísta, Marifé Antuña, me contacto al ver una reposición de "Asturianos en el Mundo" donde salgo y me preguntó si podía entrevistarme.
 
-Hubiera aceptado sea cual fuere el periódico, pero además éste es <a href="http://es.wikipedia.org/wiki/El_Comercio_(Espa%C3%B1a)">uno de los grandes medios de mi región</a>. Encantado estoy.
+Hubiera aceptado sea cual fuere el periódico, pero además éste es <a href="https://es.wikipedia.org/wiki/El_Comercio_(Espa%C3%B1a)">uno de los grandes medios de mi región</a>. Encantado estoy.
 
-No tengo imagen de la versión papel, pero aquí está el <a href="http://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html">enlace a la versión digital</a>. La entrevista completa está a continuación.
+No tengo imagen de la versión papel, pero aquí está el <a href="https://www.elcomercio.es/v/20120707/gente/asturias-morrina-frustracion-20120707.html">enlace a la versión digital</a>. La entrevista completa está a continuación.
 
 <!--more-->
 

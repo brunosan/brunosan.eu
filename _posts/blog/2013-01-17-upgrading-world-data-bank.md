@@ -11,9 +11,9 @@ tags:
 ---
 
 
-The [Open Data Catalog at the World Bank](http://data.worldbank.org/) is a fantastic resource. I´ve
+The [Open Data Catalog at the World Bank](https://data.worldbank.org/) is a fantastic resource. I´ve
 used it many, many times. Specially while developing the [GAIN
-Index](http://index.gain.org). I´m sure I´ve spent hours on that domain. It´s astonishing the amount of information
+Index](https://index.gain.org). I´m sure I´ve spent hours on that domain. It´s astonishing the amount of information
 they´ve gathered on a consistent way.
 
 Our Gain Index indeed uses, and references, roughly 80% of it´s
@@ -23,7 +23,7 @@ for a particular country. As humbling as that is, it´s odd that our page
 gets visits to see the components, not the aggregation we do for our
 purposes. It´s like buying a book for the Bibliography.
 
-Last Thursday the data team posted a [call for input](http://blogs.worldbank.org/opendata/the-future-of-the-open-data-catalog). They are upgrading the
+Last Thursday the data team posted a [call for input](https://blogs.worldbank.org/opendata/the-future-of-the-open-data-catalog). They are upgrading the
 Catalog to be "more technologically capable, but also more user friendly, readable and
 understandable". On their summary of the proposition they highlight: Search, Federation,
 user friendliness, better metadata, and scalable.
@@ -175,7 +175,7 @@ specially to provide degree of uncertanty.
 
 ###Open the Source###
 
-Just like the White House [releases](http://www.whitehouse.gov/developers)
+Just like the White House [releases](https://www.whitehouse.gov/developers)
  much of the web tools they developed,
 the World Banks could do that. Even more, more than releasing, engaging
 in a conversation with the community e.g. [using github](https://github.com/WhiteHouse): aggregating forks, issues, pull
@@ -189,7 +189,7 @@ could be done, no only to improve the portal and consumption of data, but
 also to spread best uses and help others catch up on their online
 resources.
 
-Back in April 2010, the former President of the World Bank, Robert Zoellick, [said](http://blogs.worldbank.org/opendata/open-data-at-the-world-bank-2-years-old-today):
+Back in April 2010, the former President of the World Bank, Robert Zoellick, [said](https://blogs.worldbank.org/opendata/open-data-at-the-world-bank-2-years-old-today):
 
     "It's important to make the data and knowledge of the World Bank
     available to everyone. Statistics tell the story of people in developing

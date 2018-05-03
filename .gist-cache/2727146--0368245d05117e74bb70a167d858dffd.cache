@@ -1,5 +1,5 @@
 var message = "<HTML><BODY>"
-    + '<img align="middle" width="150px" src="http://gain.org/images/gainlogo.png"><br>'
+    + '<img align="middle" width="150px" src="https://gain.org/images/gainlogo.png"><br>'
     + "<br><p align='left'> April "+Utilities.formatDate(new Date(), 'GMT', 'd, yyyy')+"</p>"
     + "<br><p>Dear " + row.prefix + " " + row.lastName + ", <p> "
     + '<P>It is an honor to invite you to ...REST OF EMAIL'

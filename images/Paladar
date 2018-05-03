@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html lang="en" dir="ltr" class="client-nojs" xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" class="client-nojs" xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <title>Paladar - Wikipedia, the free encyclopedia</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -91,17 +91,17 @@ mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.
 <h2><span class="editsection">[<a href="/w/index.php?title=Paladar&amp;action=edit&amp;section=4" title="Edit section: Notes and references">edit</a>]</span> <span class="mw-headline" id="Notes_and_references">Notes and references</span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <ol class="references">
-<li id="cite_note-test1-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-test1_0-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gacetaoficial.cu/codedicante.php">Gaceta Oficial Extraordinaria Especial No. 12/2010</a>, a category endorsed by the Ministry of Labour and Social Security of the Republic of Cuba in its Resolution 32/2010, which refers to people who operate small private businesses in Cuba.</span></li>
-<li id="cite_note-test2-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-test2_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.juventudrebelde.cu/cuba/2011-04-16/desterrar-definitivamente-la-mentalidad-de-la-inercia/">Juventud Rebelde article</a>, part of a series of articles about it that came out in Cuban media.</span></li>
-<li id="cite_note-test3-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-test3_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.cubadebate.cu/noticias/2011/05/27/cuba-autoriza-mas-capacidad-a-los-paladares-y-estimula-la-contratacion-de-empleados/">Cuba Debate article</a></span></li>
-<li id="cite_note-test4-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-test4_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.laguarida.com">Official Website of La Guarida</a></span></li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.frommers.com/destinations/havana/D51573.html">"La Guarida", <i>Frommer's</i></a></span></li>
+<li id="cite_note-test1-0"><span class="mw-cite-backlink"><b><a href="#cite_ref-test1_0-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gacetaoficial.cu/codedicante.php">Gaceta Oficial Extraordinaria Especial No. 12/2010</a>, a category endorsed by the Ministry of Labour and Social Security of the Republic of Cuba in its Resolution 32/2010, which refers to people who operate small private businesses in Cuba.</span></li>
+<li id="cite_note-test2-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-test2_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.juventudrebelde.cu/cuba/2011-04-16/desterrar-definitivamente-la-mentalidad-de-la-inercia/">Juventud Rebelde article</a>, part of a series of articles about it that came out in Cuban media.</span></li>
+<li id="cite_note-test3-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-test3_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.cubadebate.cu/noticias/2011/05/27/cuba-autoriza-mas-capacidad-a-los-paladares-y-estimula-la-contratacion-de-empleados/">Cuba Debate article</a></span></li>
+<li id="cite_note-test4-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-test4_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.laguarida.com">Official Website of La Guarida</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.frommers.com/destinations/havana/D51573.html">"La Guarida", <i>Frommer's</i></a></span></li>
 </ol>
 </div>
 <h2><span class="editsection">[<a href="/w/index.php?title=Paladar&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a>]</span> <span class="mw-headline" id="External_links">External links</span></h2>
 <ul>
-<li>[Official Site AlaMesa <a rel="nofollow" class="external free" href="http://www.alamesacuba.com">http://www.alamesacuba.com</a>] Directory of Restaurants in Cuba.</li>
-<li><a rel="nofollow" class="external autonumber" href="http://www.losviajeros.com/foros.php?t=4139">[1]</a> Forum of Paladares in Los Viajeros</li>
+<li>[Official Site AlaMesa <a rel="nofollow" class="external free" href="https://www.alamesacuba.com">https://www.alamesacuba.com</a>] Directory of Restaurants in Cuba.</li>
+<li><a rel="nofollow" class="external autonumber" href="https://www.losviajeros.com/foros.php?t=4139">[1]</a> Forum of Paladares in Los Viajeros</li>
 </ul>
 
 
@@ -118,7 +118,7 @@ Expensive parser function count: 0/500
 </div>				<!-- /bodycontent -->
 								<!-- printfooter -->
 				<div class="printfooter">
-				Retrieved from "<a href="http://en.wikipedia.org/w/index.php?title=Paladar&amp;oldid=498869066">http://en.wikipedia.org/w/index.php?title=Paladar&amp;oldid=498869066</a>"				</div>
+				Retrieved from "<a href="https://en.wikipedia.org/w/index.php?title=Paladar&amp;oldid=498869066">https://en.wikipedia.org/w/index.php?title=Paladar&amp;oldid=498869066</a>"				</div>
 				<!-- /printfooter -->
 												<!-- catlinks -->
 				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Cuban_culture" title="Category:Cuban culture">Cuban culture</a></li><li><a href="/wiki/Category:Companies_of_Cuba" title="Category:Companies of Cuba">Companies of Cuba</a></li><li><a href="/wiki/Category:Cuban_cuisine" title="Category:Cuban cuisine">Cuban cuisine</a></li><li><a href="/wiki/Category:Tourism_in_Cuba" title="Category:Tourism in Cuba">Tourism in Cuba</a></li><li><a href="/wiki/Category:Restaurants_by_type" title="Category:Restaurants by type">Restaurants by type</a></li></ul></div></div>				<!-- /catlinks -->
@@ -293,7 +293,7 @@ Wikipedia&reg; is a registered trademark of the <a href="//www.wikimediafoundati
 											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
 											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
 											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
-											<li id="footer-places-mobileview"><a href="http://en.m.wikipedia.org/w/index.php?title=Paladar&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
+											<li id="footer-places-mobileview"><a href="https://en.m.wikipedia.org/w/index.php?title=Paladar&amp;mobileaction=toggle_view_mobile" class="noprint">Mobile view</a></li>
 									</ul>
 										<ul id="footer-icons" class="noprint">
 					<li id="footer-copyrightico">

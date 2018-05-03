@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
 <html 
-     xmlns="http://www.w3.org/1999/xhtml" 
-     xmlns:dc="http://purl.org/dc/elements/1.1/" 
-     xmlns:ctag="http://commontag.org/ns#" 
+     xmlns="https://www.w3.org/1999/xhtml" 
+     xmlns:dc="https://purl.org/dc/elements/1.1/" 
+     xmlns:ctag="https://commontag.org/ns#" 
           lang="en" 
      dir="ltr"
-     prefix="og: http://ogp.me/ns#"
+     prefix="og: https://ogp.me/ns#"
      version="XHTML+RDFa 1.0" >
 
 <head>
@@ -21,8 +21,8 @@
 <link rel="shortcut icon" href="/sites/default/themes/whitehouse/favicon.ico" type="image/x-icon" />
 <meta name="keywords" content="President,Barack Obama,White House,United States of America,44th President,White House history,President Obama,Barck,Barek,Barak,Barrack,Barrak,Obma,Barack" />
 <meta property="fb:admins" content="100000095507875" />
-<meta property="og:image" content="http://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
-<link rel="canonical" href="http://www.whitehouse.gov/administration/eop/ostp" />
+<meta property="og:image" content="https://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
+<link rel="canonical" href="https://www.whitehouse.gov/administration/eop/ostp" />
   <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css_injector_13.css?Z" />
 <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_3e20d43c7a48470aa79fa2bf83d521bf_3.css" />
 <link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/advagg_css/css_c95568c523ce75320a9733bf64492f9c_21.css" />
@@ -38,7 +38,7 @@
   <script type="text/javascript" src="/sites/default/files/advagg_js/js_bb4f3666b6a820d075f759f44278a277_6.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"http:\/\/wh.gov\/lUT","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"http:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."},"og":{"group_context":{"nid":"7967","title":"Office of Science and Technology Policy","type":"microsite"}}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"https:\/\/wh.gov\/lUT","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"https:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."},"og":{"group_context":{"nid":"7967","title":"Office of Science and Technology Policy","type":"microsite"}}});
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -225,13 +225,13 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                             </ul>
                                       <div id="nav-issues-feature" class="topnav-feature">
                 <div class="cp_tile ">  <div id="block-nodeblock-43315" class="clear-block block block-nodeblock ">
-  <div class="content"><p class="menu-feature-title"><a href="http://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
+  <div class="content"><p class="menu-feature-title"><a href="https://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
 <p>Helping responsible homeowners</p>
-<p><a href="http://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
+<p><a href="https://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
 <hr />
-<p class="menu-feature-title"><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
+<p class="menu-feature-title"><a href="https://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
 <p>See how your federal tax dollars are spent</p>
-<p><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
+<p><a href="https://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
 </div>
 </div>
 </div>              </div>
@@ -258,7 +258,7 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                   <a href="/administration/jill-biden">Dr. Jill Biden</a>                                </li>
                               <li>
                   <a href="/administration/cabinet">The Cabinet</a>                                  <ul class="topnav-dd-inner-sub">
-                                      <li><a href="http://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
+                                      <li><a href="https://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -341,7 +341,7 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                   <a href="/about/tours-and-events">Tours &amp; Events</a>                                  <ul class="topnav-dd-inner-sub">
                                       <li><a href="/eastereggroll">2012 Easter Egg Roll</a></li>
                                       <li><a href="/eastereggroll">2011 Easter Egg Roll</a></li>
-                                      <li><a href="http://www.whitehouse.gov/holidays">Holidays 2011</a></li>
+                                      <li><a href="https://www.whitehouse.gov/holidays">Holidays 2011</a></li>
                                       <li><a href="/about/tours_and_events/garden">Kitchen Garden Tours</a></li>
                                     </ul>
                                 </li>
@@ -401,7 +401,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
     <div id="breadcrumb">
   	  <a href="/">Home</a> • <a href="/administration">The Administration</a> • Office of Science and Technology Policy  	</div><!--/breadcrumb-->
     <div id="sub-search">
-              <form action="http://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
+              <form action="https://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
 <div><input type="hidden" name="affiliate" id="edit-affiliate-id" value="wh"  />
 <div class="form-item clearfix" id="edit-text-field-wrapper">
  <input type="text" maxlength="128" name="query" id="edit-text-field" size="15" value="" title="Enter the terms you wish to search for." class="form-text search-field" />
@@ -474,7 +474,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
 	        </div><!--/#ms-callout-->
     
     <div id="ms-media-wrapper">
-                      <img src="http://www.whitehouse.gov/sites/default/files/imagecache/microsite_landingpage/image/image_file/P110410PS-0444-ostpweb.jpg" alt="President Barack Obama walks along the Colonnade with John Holdren, Nov. 4, 2010. (Official White House Photo by Pete Souza)" title="President Barack Obama walks along the Colonnade with John Holdren, Nov. 4, 2010. (Official White House Photo by Pete Souza)"  class="imagecache imagecache-microsite_landingpage" width="456" height="281" />            <div class="ms-caption"></div><!--/caption-->    
+                      <img src="https://www.whitehouse.gov/sites/default/files/imagecache/microsite_landingpage/image/image_file/P110410PS-0444-ostpweb.jpg" alt="President Barack Obama walks along the Colonnade with John Holdren, Nov. 4, 2010. (Official White House Photo by Pete Souza)" title="President Barack Obama walks along the Colonnade with John Holdren, Nov. 4, 2010. (Official White House Photo by Pete Souza)"  class="imagecache imagecache-microsite_landingpage" width="456" height="281" />            <div class="ms-caption"></div><!--/caption-->    
     </div><!--/#ms-media wrapper-->
   
   </div><!--/#ms detail-->
@@ -556,19 +556,19 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
 <h2 class="title">US IGNITE</h2>
 <p>On June 14, 2012, the President signed an Executive Order to make broadband construction along Federal roadways and properties up to 90 percent cheaper and more efficient.  Additionally, the White House announced that nearly 100 partners—including cities, national research institutions, and industry supporters—have formed a new public-private partnership called “US Ignite.” The US Ignite Partnership will create a new wave of services that take advantage of state-of-the-art broadband networks running up to 100 times faster than today’s Internet.  </p>
 <ul>
-<li><a href="http://www.whitehouse.gov/the-press-office/2012/06/14/executive-order-accelerating-broadband-infrastructure-deployment">Read the Executive Order...</a></li>
-<li><a href="http://www.whitehouse.gov/blog/2012/06/13/making-broadband-construction-faster-and-cheaper">Read the blog...</a></li>
+<li><a href="https://www.whitehouse.gov/the-press-office/2012/06/14/executive-order-accelerating-broadband-infrastructure-deployment">Read the Executive Order...</a></li>
+<li><a href="https://www.whitehouse.gov/blog/2012/06/13/making-broadband-construction-faster-and-cheaper">Read the blog...</a></li>
 </ul>
 <p><Br /><Br /></p>
 <h2 class="title">PRIZES TO SPUR INNOVATION</h2>
 <p>On April 10, 2012, OSTP released a comprehensive report detailing the use of prizes and competitions by agencies to spur innovation and solve grand challenges. Those efforts have expanded in recent months under the America COMPETES Reauthorization Act of 2010, which granted all Federal agencies authority to conduct prize competitions to spur innovation, solve tough problems, and advance their core missions.</p>
 <ul>
-<li><a href="http://www.whitehouse.gov/blog/2012/04/10/identifying-steps-forward-use-prizes-spur-innovation">Read the blog...</a></li>
-<li><a href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/competes_report_on_prizes_final.pdf" target="_blank">Read the report...</a> (pdf)</li>
+<li><a href="https://www.whitehouse.gov/blog/2012/04/10/identifying-steps-forward-use-prizes-spur-innovation">Read the blog...</a></li>
+<li><a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/competes_report_on_prizes_final.pdf" target="_blank">Read the report...</a> (pdf)</li>
 </ul>
 <p><Br /><Br /></p>
 <h2 class="title">BIG DATA</h2>
-<p>The Administration announced a “Big Data” research and development initiative March 29, 2012. An archived webcast is available <a href="http://www.nsf.gov/news/news_videos.jsp?cntn_id=123607&amp;media_id=72174&amp;org=NSF">here</a>.</p>
+<p>The Administration announced a “Big Data” research and development initiative March 29, 2012. An archived webcast is available <a href="https://www.nsf.gov/news/news_videos.jsp?cntn_id=123607&amp;media_id=72174&amp;org=NSF">here</a>.</p>
 <ul>
 <li><a href="/sites/default/files/microsites/ostp/big_data_fact_sheet_final.pdf" target="_blank">Big Data Fact Sheet</a> (pdf)</li>
 <li><a href="/sites/default/files/microsites/ostp/big_data_press_release_final_2.pdf" target="_blank">Big Data Press Release</a> (pdf)</li>
@@ -577,18 +577,18 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
 <h2 class="title">2013 R&amp;D BUDGET</h2>
 </p><p><strong>February 13, 2012 --</strong> OSTP is pleased to release the following information on the science, technology, innovation, and STEM (science, technology, engineering, and math) education components of the President's FY 2013 Budget:</p>
 <ul>
-<li><a href="http://www.tvworldwide.com/events/aaas/120213/">Webcast of Budget Briefing</a></li>
+<li><a href="https://www.tvworldwide.com/events/aaas/120213/">Webcast of Budget Briefing</a></li>
 <li>
 		<a href="/sites/default/files/microsites/ostp/fy2013rd_press_release.pdf" target="_blank">Press Release</a>&nbsp;(pdf)</li>
 </ul>
 <div class="more-link"><a href="/administration/eop/ostp/rdbudgets">MORE INFORMATION</a></div>
 <p><Br /><Br /></p>
 <h2 class="title">WHITE HOUSE SCIENCE FAIR</h2>
-<p><a href="http://www.whitehouse.gov/blog/2012/02/07/president-obama-launches-marshmallow-cannon" target="_blank"><img src=" /sites/default/files/microsites/ostp/wh-sci-fair-marshmallow.jpg" /></a><br />
+<p><a href="https://www.whitehouse.gov/blog/2012/02/07/president-obama-launches-marshmallow-cannon" target="_blank"><img src=" /sites/default/files/microsites/ostp/wh-sci-fair-marshmallow.jpg" /></a><br />
 On February 7th, 2012, President Obama hosted the second White House Science Fair celebrating the student winners of a broad range of science, technology, engineering and math (STEM) competitions from across the country. The President announced key steps the Administration and its partners are taking to help more students excel in math and science, and earn degrees in these subjects.</p>
 <ul>
-<li><a href="http://www.whitehouse.gov/blog/2012/02/07/president-obama-hosts-white-house-science-fair">President Obama Hosts the White House Science Fair</a></li>
-<li><a href="http://www.whitehouse.gov/blog/2012/02/07/white-house-science-fair-recognizing-importance-scientists-engineers-and-inventors<br />
+<li><a href="https://www.whitehouse.gov/blog/2012/02/07/president-obama-hosts-white-house-science-fair">President Obama Hosts the White House Science Fair</a></li>
+<li><a href="https://www.whitehouse.gov/blog/2012/02/07/white-house-science-fair-recognizing-importance-scientists-engineers-and-inventors<br />
 ">Bill Nye: Recognizing the Importance of Scientists, Engineers, and Inventors</a></li>
 <li><a href="/the-press-office/2012/02/06/background-exhibits-students-and-competitions-white-house-science-fair">Background on the Exhibits, Students and Competitions at the White House Science Fair</a></li>
 </ul>
@@ -601,9 +601,9 @@ On February 7th, 2012, President Obama hosted the second White House Science Fai
 <h2 class="title">PRESSROOM</h2>
 <p>	<strong>May 2, 2012 - </strong><a href="/sites/default/files/microsites/ostp/green_button_release_2012_05_02.pdf" target="_blank">New Industry Commitments to Give Over 3 Million New Households and Businesses Tools to Shrink Their Energy Bills</a> (pdf)</p>
 <p>
-	<strong>April 26, 2012 - </strong><a href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/bioeconomy_press_release_0.pdf" target="_blank">National Bioeconomy Blueprint</a> (pdf)</p>
+	<strong>April 26, 2012 - </strong><a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/bioeconomy_press_release_0.pdf" target="_blank">National Bioeconomy Blueprint</a> (pdf)</p>
 <p>
-	<strong>April 10, 2012 - </strong><a href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/competes_report_on_prizes_final.pdf" target="_blank">Implementation of Federal Prize Authority: Progress Report</a>&nbsp;(pdf)</p>
+	<strong>April 10, 2012 - </strong><a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/competes_report_on_prizes_final.pdf" target="_blank">Implementation of Federal Prize Authority: Progress Report</a>&nbsp;(pdf)</p>
 <p>
 	<strong>March 29, 2012 - </strong><a href="/sites/default/files/microsites/ostp/big_data_fact_sheet_final.pdf" target="_blank">Big Data Fact Sheet</a> (pdf)</p>
 <p>
@@ -613,8 +613,8 @@ On February 7th, 2012, President Obama hosted the second White House Science Fai
 <p>
 	<strong>March 22, 2012 - </strong><a href="/administration/eop/ostp/pressroom/03222012">New Industry Commitments to Give 15 Million Households Tools to Shrink Their Energy Bills</a></p>
 <p>
-	<strong>February 29, 2012 - </strong><a href="http://appropriations.house.gov/UploadedFiles/02.29.12_CJS_-_OSTP_-_John_Holdren_-_Testimony.pdf" target="_blank">Statement of Dr. John P. Holdren to the Subcommittee on Commerce, Justice, Science, and Related Agencies Committee on Appropriations U.S. House of Representatives on Research and Development in&nbsp;the President&#39;s Fiscal Year 2013 Budget</a> (pdf)</p>
-<p>	<strong>February 17, 2012 - </strong><a href="http://science.house.gov/sites/republicans.science.house.gov/files/documents/hearings/HHRG-112-SY-WState-JHoldren-20120217.pdf" target="_blank">Statement of Dr. John P. Holdren to the Committee on Science, Space and Technology, U.S. House of Representatives, on Research and Development in the President&#39;s Fiscal Year 2013 Budget</a> (pdf)</p>
+	<strong>February 29, 2012 - </strong><a href="https://appropriations.house.gov/UploadedFiles/02.29.12_CJS_-_OSTP_-_John_Holdren_-_Testimony.pdf" target="_blank">Statement of Dr. John P. Holdren to the Subcommittee on Commerce, Justice, Science, and Related Agencies Committee on Appropriations U.S. House of Representatives on Research and Development in&nbsp;the President&#39;s Fiscal Year 2013 Budget</a> (pdf)</p>
+<p>	<strong>February 17, 2012 - </strong><a href="https://science.house.gov/sites/republicans.science.house.gov/files/documents/hearings/HHRG-112-SY-WState-JHoldren-20120217.pdf" target="_blank">Statement of Dr. John P. Holdren to the Committee on Science, Space and Technology, U.S. House of Representatives, on Research and Development in the President&#39;s Fiscal Year 2013 Budget</a> (pdf)</p>
 <p>
 	<strong>February 13, 2012 - </strong><a href="/sites/default/files/microsites/ostp/fy2013rd_press_release.pdf">Innovation for America&rsquo;s Economy, America&rsquo;s Energy, and American Skills: The FY 2013 Science and Technology R&amp;D Budget</a> (pdf)</p>
 <p>
@@ -631,7 +631,7 @@ On February 7th, 2012, President Obama hosted the second White House Science Fai
 </div>
 </div>
   <div id="block-nodeblock-26573" class="clear-block block block-nodeblock ">
-  <div class="content"><a href="http://www.whitehouse.gov/administration/eop/ostp/scientificintegrity"><img src="/sites/default/files/tout/tout_image/tout_integrity.jpg" alt="Scientific Integrity" title="" width="272" height="150" /></a></div>
+  <div class="content"><a href="https://www.whitehouse.gov/administration/eop/ostp/scientificintegrity"><img src="/sites/default/files/tout/tout_image/tout_integrity.jpg" alt="Scientific Integrity" title="" width="272" height="150" /></a></div>
 </div>
   <div id="block-nodeblock-5325" class="clear-block block block-nodeblock ">
   <div class="content"><div class="divide-fade"></div>
@@ -649,7 +649,7 @@ margin-top: 10px !important;
 </div>
 </div>
   <div id="block-nodeblock-8600" class="clear-block block block-nodeblock ">
-  <div class="content"><a href="http://twitter.com/whitehouseostp"><img src="/sites/default/files/tout/tout_image/twitter_tout_v2_0.jpg" alt="Follow us on Twitter" title="" width="272" height="62" /></a></div>
+  <div class="content"><a href="https://twitter.com/whitehouseostp"><img src="/sites/default/files/tout/tout_image/twitter_tout_v2_0.jpg" alt="Follow us on Twitter" title="" width="272" height="62" /></a></div>
 </div>
 </div></div><!--/col 3-->
   			
@@ -803,7 +803,7 @@ margin-top: 10px !important;
                           	<li class="last"><a href="/contact/submit-questions-and-comments/old2">Contact</a></li>
                   	</ul>
         	<ul>
-                                	<li><a href="http://usa.gov">USA.gov</a></li>
+                                	<li><a href="https://usa.gov">USA.gov</a></li>
                           	<li><a href="/rss">Subscribe to RSS Feeds</a></li>
                           	<li class="last"><a href="https://app2.whitehouse.gov/ppo/">Apply for a Job</a></li>
                   	</ul>

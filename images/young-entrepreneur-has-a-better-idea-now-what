@@ -6,23 +6,23 @@
 <!--dontvalidate-->
 <meta name="date" content="Tue, 23 Aug 2011 08:30:00 -0400" />
 <!--/dontvalidate-->
-<link rel="canonical" href="http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what" />
+<link rel="canonical" href="https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what" />
 <!--dontvalidate-->
 <link rel="publisher" href="https://plus.google.com/114687971156212828314" />
 <!--/dontvalidate-->
-<meta name="description" content="Meredith Perry, 22, is the founder of uBeam, a startup centered around her invention — a wireless recharging system for laptops, smartphones and other devices. She's hiring, meeting with investors and dealing with companies interested in her innovation. But she faces crucial decisions, and the success of her startup is riding on them." /><link rel="alternate" type="application/rss+xml" title="Technology" href="/rss/rss.php?id=1019" /><meta property="og:title" content="Young Entrepreneur Has A Better Idea. Now What? : NPR" /><meta property="og:url" content="http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what" /><meta property="og:type" content="article" /><meta property="og:description" content="Meredith Perry, 22, is the founder of uBeam, a startup centered around her invention — a wireless recharging system for laptops, smartphones and other devices. She's hiring, meeting with investors and dealing with companies interested in her innovation. But she faces crucial decisions, and the success of her startup is riding on them." /><meta property="og:image" content="http://media.npr.org/assets/img/2011/08/22/perry.jpg?t=1314035955&amp;s=2" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/newsStory-blessed1-5b3801b909e205884cc80dde48023deb41f30122.css" /><link type="text/css" rel="stylesheet" media="screen, print" href="http://s.npr.org/templates/css/generated/fingerprint/newsStory-14f06cf35225f5f3a7d395050b00c57f0f0566bb.css" /><link type="text/css" rel="stylesheet" media="print" href="http://www.npr.org/templates/css/news/print_story.css" /><script type="text/javascript" src="http://s.npr.org/templates/javascript/generated/fingerprint/newsStory-5d0334b2b9f4cfde282244b9d00fdb6b80bd5669.js">
+<meta name="description" content="Meredith Perry, 22, is the founder of uBeam, a startup centered around her invention — a wireless recharging system for laptops, smartphones and other devices. She's hiring, meeting with investors and dealing with companies interested in her innovation. But she faces crucial decisions, and the success of her startup is riding on them." /><link rel="alternate" type="application/rss+xml" title="Technology" href="/rss/rss.php?id=1019" /><meta property="og:title" content="Young Entrepreneur Has A Better Idea. Now What? : NPR" /><meta property="og:url" content="https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what" /><meta property="og:type" content="article" /><meta property="og:description" content="Meredith Perry, 22, is the founder of uBeam, a startup centered around her invention — a wireless recharging system for laptops, smartphones and other devices. She's hiring, meeting with investors and dealing with companies interested in her innovation. But she faces crucial decisions, and the success of her startup is riding on them." /><meta property="og:image" content="https://media.npr.org/assets/img/2011/08/22/perry.jpg?t=1314035955&amp;s=2" /><meta property="og:site_name" content="NPR.org" /><meta property="fb:app_id" content="138837436154588" /><link type="text/css" rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/css/generated/fingerprint/newsStory-blessed1-5b3801b909e205884cc80dde48023deb41f30122.css" /><link type="text/css" rel="stylesheet" media="screen, print" href="https://s.npr.org/templates/css/generated/fingerprint/newsStory-14f06cf35225f5f3a7d395050b00c57f0f0566bb.css" /><link type="text/css" rel="stylesheet" media="print" href="https://www.npr.org/templates/css/news/print_story.css" /><script type="text/javascript" src="https://s.npr.org/templates/javascript/generated/fingerprint/newsStory-5d0334b2b9f4cfde282244b9d00fdb6b80bd5669.js">
    </script>
 <script>
    AddNamespace('NPR.serverVars'); jQuery.extend(NPR.serverVars,{"storyId":"139854129","serverType":"prod"});
 </script>
-<script type="text/javascript" src="http://community.npr.org/ver1.0/Direct/DirectProxy">
+<script type="text/javascript" src="https://community.npr.org/ver1.0/Direct/DirectProxy">
    </script>
-<script type="text/javascript" src="http://community.npr.org/ver1.0/Direct/FacebookProxy">
+<script type="text/javascript" src="https://community.npr.org/ver1.0/Direct/FacebookProxy">
    </script>
 <script type="text/javascript">
    document.domain="npr.org";
 AddNamespace("NPR.community");
-NPR.community.sitelifeServerURL = "http://community.npr.org/ver1.0/Direct/Process";
+NPR.community.sitelifeServerURL = "https://community.npr.org/ver1.0/Direct/Process";
 </script>
         <!-- DFP TARGET -->
         <script type="text/javascript">
@@ -31,7 +31,7 @@ NPR.community.sitelifeServerURL = "http://community.npr.org/ver1.0/Direct/Proces
             DFP.tile = 0;
             DFP.ord = Number(window.ord) || Math.floor(Math.random() * 1E10);
 
-            DFP.target = 'http://ad.doubleclick.net/adj/n6735.NPR/news_technology;program=morning_edition;theme=1019;storyid=139854129';
+            DFP.target = 'https://ad.doubleclick.net/adj/n6735.NPR/news_technology;program=morning_edition;theme=1019;storyid=139854129';
         // -->
         </script>
 
@@ -69,7 +69,7 @@ NPR.community.sitelifeServerURL = "http://community.npr.org/ver1.0/Direct/Proces
     	        AddNamespace("NPR.pageInfo");
     	        try{
       	        (function(){
-      	          var info = {"sessionScope":2,"pageScope":3,"breadcrumbs":["News","Technology"],"primaryTopic":1019,"orgId":"1","topics":[1019,3,1060,1057,1049,1006,1002,1001],"programId":3,"pageTypeId":1,"internalCampaign":null,"campaignSource":null,"campaignName":null,"aggregations":[1019,3,1060,1057,1049,1006,1002,1001],"aggregationsText":["Technology","Morning Edition","Commentary","Opinion","Digital Life","Business","Home Page Top Stories","News"],"aggExtras":["23Aug2011","Yuki+Noguchi"],"byline":["Yuki Noguchi"],"chartbeatAccount":"18888","webHost":"http:\/\/www.npr.org"}
+      	          var info = {"sessionScope":2,"pageScope":3,"breadcrumbs":["News","Technology"],"primaryTopic":1019,"orgId":"1","topics":[1019,3,1060,1057,1049,1006,1002,1001],"programId":3,"pageTypeId":1,"internalCampaign":null,"campaignSource":null,"campaignName":null,"aggregations":[1019,3,1060,1057,1049,1006,1002,1001],"aggregationsText":["Technology","Morning Edition","Commentary","Opinion","Digital Life","Business","Home Page Top Stories","News"],"aggExtras":["23Aug2011","Yuki+Noguchi"],"byline":["Yuki Noguchi"],"chartbeatAccount":"18888","webHost":"https:\/\/www.npr.org"}
       	          
       	          NPR.pageInfo = $.extend(NPR.pageInfo, info);
       	        })();
@@ -119,7 +119,7 @@ function getDateStr()
 			<div class="donate"><a href="/stations/donate/index.php?ps=st273"></a></div>		
 	    	<p id="loginPElm">
 				<!--<a href="/stations/donate/?ps=sttn" class="donate">Donate</a> | -->
-				<a href="http://shop.npr.org/?utm_source=topnav&amp;utm_medium=topnav&amp;utm_campaign=topnav" class="shop">NPR Shop</a> | 
+				<a href="https://shop.npr.org/?utm_source=topnav&amp;utm_medium=topnav&amp;utm_campaign=topnav" class="shop">NPR Shop</a> | 
 				<a href="/templates/community/" class="comm">NPR Social Media</a> | 
 				<a href="/templates/reg/login.php">Login</a> | 
 				<a href="/templates/reg" class="reg">Register</a>
@@ -129,7 +129,7 @@ function getDateStr()
 	</div>
 
     <div class="headercontent">
-        <a href="/"><img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" width="138" height="46" alt="NPR" /></a>
+        <a href="/"><img src="https://media.npr.org/chrome/news/nprlogo_138x46.gif" width="138" height="46" alt="NPR" /></a>
 
         <div id="stationLocalizationWrap" class="supportwrap">
             <div class="support">
@@ -203,18 +203,18 @@ function getDateStr()
                 <li><a href="/programs/morning-edition/">Morning Edition</a></li>
                 <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
                 <li><a href="/programs/fresh-air/">Fresh Air</a></li>
-                <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
-                <li><a href="http://www.onthemedia.org">On The Media</a></li>
-                <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                <li><a href="https://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                <li><a href="https://www.onthemedia.org">On The Media</a></li>
+                <li><a href="https://www.onpointradio.org/">On Point</a></li>
 				<li><a href="/programs/talk-of-the-nation/">Talk of the Nation</a></li>
             </ul>
             <ul class="right">
-				<li><a href="http://sciencefriday.com/">Talk of the Nation Science Friday</a></li>
+				<li><a href="https://sciencefriday.com/">Talk of the Nation Science Friday</a></li>
 				<li><a href="/programs/tell-me-more/">Tell Me More</a></li>
                 <li><a href="/programs/weekend-edition-saturday/">Weekend Edition Saturday</a></li>
                 <li><a href="/programs/weekend-edition-sunday/">Weekend Edition Sunday</a></li>
                 <li class="hdr">Also heard on NPR stations:</li>
-                <li class="other"><a href="http://marketplace.publicradio.org">Marketplace <span>APM</span></a></li>
+                <li class="other"><a href="https://marketplace.publicradio.org">Marketplace <span>APM</span></a></li>
             </ul>
         </div>
 
@@ -222,14 +222,14 @@ function getDateStr()
             <h3>arts &amp; life</h3>
             <ul>
                 <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
-                <li><a href="http://www.cartalk.com">Car Talk</a></li>
-				<li><a href="http://www.radiolab.org">Radiolab</a></li>
-				<li><a href="http://snapjudgment.org">Snap Judgment</a></li>
+                <li><a href="https://www.cartalk.com">Car Talk</a></li>
+				<li><a href="https://www.radiolab.org">Radiolab</a></li>
+				<li><a href="https://snapjudgment.org">Snap Judgment</a></li>
 				<li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
                 <li><a href="/programs/wait-wait-dont-tell-me/">Wait Wait...Don't Tell Me!</a></li>
                 <li class="hdr">Also heard on NPR stations:</li>
-                <li class="other"><a href="http://www.thisamericanlife.org">This American Life <span>PRI</span></a></li>
-                <li class="other"><a href="http://prairiehome.publicradio.org">A Prairie Home Companion <span>APM</span></a></li>
+                <li class="other"><a href="https://www.thisamericanlife.org">This American Life <span>PRI</span></a></li>
+                <li class="other"><a href="https://prairiehome.publicradio.org">A Prairie Home Companion <span>APM</span></a></li>
             </ul>
         </div>
 
@@ -238,14 +238,14 @@ function getDateStr()
             <ul class="left">
                 <li><a href="/programs/all-songs-considered/">All Songs Considered</a></li>
                 <li><a href="/series/alt-latino/">Alt.Latino</a></li>
-				<li><a href="http://www.fromthetop.org/">From The Top</a></li>             
+				<li><a href="https://www.fromthetop.org/">From The Top</a></li>             
                 <li><a href="/programs/jazzset/">JazzSet</a></li>
                 <li><a href="/programs/piano-jazz/">Marian McPartland's Piano Jazz</a></li>
 				<li><a href="/series/mountain-stage/">Mountain Stage</a></li>
             </ul>
             <ul class="right">
                 <li><a href="/series/4703895/song-of-the-day">Song of the Day</a></li>
-				<li><a href="http://www.thistleradio.com/">The Thistle &amp; Shamrock</a></li>
+				<li><a href="https://www.thistleradio.com/">The Thistle &amp; Shamrock</a></li>
                 <li><a href="/programs/world-cafe/">World Cafe</a></li>
             </ul>
         </div>
@@ -323,26 +323,26 @@ function getDateStr()
                         <div id="content">
                               <div id="storybody">
                                     <ul class="breadcrumb">
-                                          <li><a href="http://www.npr.org/sections/news/">News</a> <span class="arrow">&gt;</span></li>
+                                          <li><a href="https://www.npr.org/sections/news/">News</a> <span class="arrow">&gt;</span></li>
                      
-                     <li class="last"><a href="http://www.npr.org/sections/technology/">Technology</a></li>
+                     <li class="last"><a href="https://www.npr.org/sections/technology/">Technology</a></li>
                      
                   </ul>
                   <input type="hidden" id="title139854129" value="Young Entrepreneur Has A Better Idea. Now What?"></input>
-                  <input type="hidden" id="modelShortUrl139854129" value="http://n.pr/pVe2PR"></input>
-                  <input type="hidden" id="modelFullUrl139854129" value="http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what"></input>
+                  <input type="hidden" id="modelShortUrl139854129" value="https://n.pr/pVe2PR"></input>
+                  <input type="hidden" id="modelFullUrl139854129" value="https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what"></input>
                   <div class="storytoolswrap">
                                           <ul class="storytools">
                                                 <li class="twitterTool"><a class="retweetStory story139854129 twitter" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnTwitter(139854129);">Twitter<span class="twitterCount"> (126)</span></a></li>
                         <li class="facebookLi fbStory139854129"><a class="facebook fbStory139854129" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(139854129);">Facebook<span class="facebookCount"> (977)</span></a></li>
                         <li class="shareStoryTool"><a href="javascript:void(0);" class="share">Share</a><div class="sharepop">
       <ul>
-            <li><a href="http://www.stumbleupon.com/submit?url=http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F" class="stumble" target="_blank">Stumble Upon</a></li>
-      <li><a class="reddit" title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F" target="_blank">Reddit</a></li>
-      <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.npr.org%2F2011%2F08%2F23%2F139854129%2Fyoung-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F&amp;summary=Meredith+Perry%2C+22%2C+is+the+founder+of+uBeam%2C+a+startup+centered+around+her+invention+%E2%80%94+a+wireless+recharging+system+for+laptops%2C+smartphones+and+other+devices.+She%27s+hiring%2C+meeting+with+investors+and+dealing+with+companies+interested+in+her+innovation.+But+she+faces+crucial+decisions%2C+and+the+success+of+her+startup+is+riding+on+them." class="linkedin" target="_blank">Linkedin</a></li>
-      <li><a href="http://digg.com/submit?url=http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F&amp;bodytext=Meredith+Perry%2C+22%2C+is+the+founder+of+uBeam%2C+a+startup+centered+around+her+invention+%E2%80%94+a+wireless+recharging+system+for+laptops%2C+smartphones+and+other+devices.+She%27s+hiring%2C+meeting+with+investors+and+dealing+with+companies+interested+in+her+innovation.+But+she+faces+crucial+decisions%2C+and+the+success+of+her+startup+is+riding+on+them.&amp;media=MEDIA" class="digg" target="_blank">Digg</a></li>
+            <li><a href="https://www.stumbleupon.com/submit?url=https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F" class="stumble" target="_blank">Stumble Upon</a></li>
+      <li><a class="reddit" title="Post this story to reddit" href="https://reddit.com/submit?url=https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F" target="_blank">Reddit</a></li>
+      <li><a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.npr.org%2F2011%2F08%2F23%2F139854129%2Fyoung-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F&amp;summary=Meredith+Perry%2C+22%2C+is+the+founder+of+uBeam%2C+a+startup+centered+around+her+invention+%E2%80%94+a+wireless+recharging+system+for+laptops%2C+smartphones+and+other+devices.+She%27s+hiring%2C+meeting+with+investors+and+dealing+with+companies+interested+in+her+innovation.+But+she+faces+crucial+decisions%2C+and+the+success+of+her+startup+is+riding+on+them." class="linkedin" target="_blank">Linkedin</a></li>
+      <li><a href="https://digg.com/submit?url=https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F&amp;bodytext=Meredith+Perry%2C+22%2C+is+the+founder+of+uBeam%2C+a+startup+centered+around+her+invention+%E2%80%94+a+wireless+recharging+system+for+laptops%2C+smartphones+and+other+devices.+She%27s+hiring%2C+meeting+with+investors+and+dealing+with+companies+interested+in+her+innovation.+But+she+faces+crucial+decisions%2C+and+the+success+of+her+startup+is+riding+on+them.&amp;media=MEDIA" class="digg" target="_blank">Digg</a></li>
    </ul>
-   <p class="footer"><a href="http://help.npr.org/npr/consumer/kbdetail.asp?kbid=46">What is this?</a></p>
+   <p class="footer"><a href="https://help.npr.org/npr/consumer/kbdetail.asp?kbid=46">What is this?</a></p>
 </div>
 <div class="shareselected">
       <a href="javascript:;">Share</a>
@@ -363,7 +363,7 @@ function getDateStr()
                                           <h1>Young Entrepreneur Has A Better Idea. Now What?</h1>
                      <div id="storybyline" class=" linkLocation">
                                                 <div class="bucketwrap byline" id="res139854576">
-                                                      <p class="byline">by <a rel="author" href="http://www.npr.org/people/96022165/yuki-noguchi"><span>Yuki Noguchi</span></a></p>
+                                                      <p class="byline">by <a rel="author" href="https://www.npr.org/people/96022165/yuki-noguchi"><span>Yuki Noguchi</span></a></p>
                         </div>
                         
 <!-- END CLASS="BUCKETWRAP BYLINE" ID="RES139854576" PREVIEWTITLE="BYLINES" -->
@@ -382,7 +382,7 @@ function getDateStr()
 <!-- END CLASS="LISTENICON" -->
                         <div id="avcontent139870246" class="avcontent listen">
                                                       <span id="mediaTimeTotal139870246" class="media-time-total"><span id="mediaTimeCurrent139870246" class="media-time-current"></span></span>                           <h3><a href="javascript:NPR.Player.openPlayer(139854129, 139870246, null, NPR.Player.Action.PLAY_NOW, NPR.Player.Type.STORY, '0')">Listen to the Story</a></h3>
-                           <p class="byline"><a class="program" href="http://www.npr.org/programs/morning-edition/">Morning Edition</a></p>                           <div class="duration">
+                           <p class="byline"><a class="program" href="https://www.npr.org/programs/morning-edition/">Morning Edition</a></p>                           <div class="duration">
                                                             <span id="durationCurrent139870246" class="current"></span>                              <span class="total">[4 min 36 sec]</span>
                            </div>
                         </div>
@@ -390,7 +390,7 @@ function getDateStr()
 <!-- END ID="AVCONTENT139870246" CLASS="AVCONTENT LISTEN" -->
                         <ul class="audiotools">
                                                       <li><a class="add" href="javascript:NPR.Player.openPlayer(139854129, 139870246, null, NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.STORY, '0')"><span>Add to Playlist</span></a></li>
-                           <li><a class="download" href="http://pd.npr.org/anon.npr-mp3/npr/me/2011/08/20110823_me_18.mp3?dl=1"><span>Download</span></a></li>
+                           <li><a class="download" href="https://pd.npr.org/anon.npr-mp3/npr/me/2011/08/20110823_me_18.mp3?dl=1"><span>Download</span></a></li>
                            <li><a class="trans" href="/templates/transcript/transcript.php?storyId=139854129"><span>Transcript</span></a></li>
                         </ul>
                         <div class="spacer">
@@ -404,7 +404,7 @@ function getDateStr()
 <!-- END ID="STORYSPAN02" CLASS="STORYLOCATION LINKLOCATION" -->
                   <div id="storytext" class="storylocation linkLocation">
                                           <div id="res139854139" class="bucketwrap photo300">
-                                                <img src="http://media.npr.org/assets/img/2011/08/22/perry.jpg?t=1314035955&amp;s=2" width="300" class="img300" title="Meredith Perry demonstrates her invention at All Things Digital, an annual tech conference." alt="Meredith Perry demonstrates her invention at All Things Digital, an annual tech conference." />                        <div class="captionwrap">
+                                                <img src="https://media.npr.org/assets/img/2011/08/22/perry.jpg?t=1314035955&amp;s=2" width="300" class="img300" title="Meredith Perry demonstrates her invention at All Things Digital, an annual tech conference." alt="Meredith Perry demonstrates her invention at All Things Digital, an annual tech conference." />                        <div class="captionwrap">
                                                        <span class="creditwrap"><span class="credit">Asa Mathat</span>/<span class="rightsnotice">AllThingsD</span></span>                           <p>Meredith Perry demonstrates her invention at All Things Digital, an annual tech conference.</p>
                         </div>
                         
@@ -429,7 +429,7 @@ function getDateStr()
                                                 <h3 class="conheader">Related NPR Stories</h3>
                         <div id="res139873526" class="bucketwrap internallink simple">
                                                       <div class="simple">
-                                                            <a href="http://www.npr.org/2011/08/23/139798265/advocates-urge-easier-visa-policies-to-boost-startups?ps=rs"> Advocates Urge Easier Visa Policies To Boost Startups</a>                                                             <span class="date">Aug. 23, 2011</span>
+                                                            <a href="https://www.npr.org/2011/08/23/139798265/advocates-urge-easier-visa-policies-to-boost-startups?ps=rs"> Advocates Urge Easier Visa Policies To Boost Startups</a>                                                             <span class="date">Aug. 23, 2011</span>
                            </div>
                            
 <!-- END CLASS="SIMPLE" -->
@@ -438,7 +438,7 @@ function getDateStr()
 <!-- END ID="RES139873526" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
                         <div id="res139860958" class="bucketwrap internallink simple">
                                                       <div class="simple">
-                                                            <a href="http://www.npr.org/blogs/alltechconsidered/2009/10/solar_power_turns_out_that_yes.html?ps=rs"> Solar Power: Turns Out That Yes, You Can Take It With You</a>                                                             <span class="date">Oct. 5, 2009</span>
+                                                            <a href="https://www.npr.org/blogs/alltechconsidered/2009/10/solar_power_turns_out_that_yes.html?ps=rs"> Solar Power: Turns Out That Yes, You Can Take It With You</a>                                                             <span class="date">Oct. 5, 2009</span>
                            </div>
                            
 <!-- END CLASS="SIMPLE" -->
@@ -447,7 +447,7 @@ function getDateStr()
 <!-- END ID="RES139860958" CLASS="BUCKETWRAP INTERNALLINK SIMPLE" -->
                         <div id="res139860961" class="bucketwrap internallink simple">
                                                       <div class="simple">
-                                                            <a href="http://www.npr.org/templates/story/story.php?storyId=10856955&amp;ps=rs"> MIT Researchers Transmit Wireless Electricity</a>                                                             <span class="date">June 8, 2007</span>
+                                                            <a href="https://www.npr.org/templates/story/story.php?storyId=10856955&amp;ps=rs"> MIT Researchers Transmit Wireless Electricity</a>                                                             <span class="date">June 8, 2007</span>
                            </div>
                            
 <!-- END CLASS="SIMPLE" -->
@@ -472,12 +472,12 @@ function getDateStr()
                      <li class="facebookLi fbStory139854129"><a class="facebook fbStory139854129" href="javascript:void(0);" onclick="javascript:NPR.socialMedia.shareOnFacebook(139854129);">Facebook<span class="facebookCount"> (977)</span></a></li>
                      <li class="shareStoryTool"><a href="javascript:void(0);" class="share">Share</a><div class="sharepop">
       <ul>
-            <li><a href="http://www.stumbleupon.com/submit?url=http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F" class="stumble" target="_blank">Stumble Upon</a></li>
-      <li><a class="reddit" title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F" target="_blank">Reddit</a></li>
-      <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.npr.org%2F2011%2F08%2F23%2F139854129%2Fyoung-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F&amp;summary=Meredith+Perry%2C+22%2C+is+the+founder+of+uBeam%2C+a+startup+centered+around+her+invention+%E2%80%94+a+wireless+recharging+system+for+laptops%2C+smartphones+and+other+devices.+She%27s+hiring%2C+meeting+with+investors+and+dealing+with+companies+interested+in+her+innovation.+But+she+faces+crucial+decisions%2C+and+the+success+of+her+startup+is+riding+on+them." class="linkedin" target="_blank">Linkedin</a></li>
-      <li><a href="http://digg.com/submit?url=http://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F&amp;bodytext=Meredith+Perry%2C+22%2C+is+the+founder+of+uBeam%2C+a+startup+centered+around+her+invention+%E2%80%94+a+wireless+recharging+system+for+laptops%2C+smartphones+and+other+devices.+She%27s+hiring%2C+meeting+with+investors+and+dealing+with+companies+interested+in+her+innovation.+But+she+faces+crucial+decisions%2C+and+the+success+of+her+startup+is+riding+on+them.&amp;media=MEDIA" class="digg" target="_blank">Digg</a></li>
+            <li><a href="https://www.stumbleupon.com/submit?url=https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F" class="stumble" target="_blank">Stumble Upon</a></li>
+      <li><a class="reddit" title="Post this story to reddit" href="https://reddit.com/submit?url=https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F" target="_blank">Reddit</a></li>
+      <li><a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.npr.org%2F2011%2F08%2F23%2F139854129%2Fyoung-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F&amp;summary=Meredith+Perry%2C+22%2C+is+the+founder+of+uBeam%2C+a+startup+centered+around+her+invention+%E2%80%94+a+wireless+recharging+system+for+laptops%2C+smartphones+and+other+devices.+She%27s+hiring%2C+meeting+with+investors+and+dealing+with+companies+interested+in+her+innovation.+But+she+faces+crucial+decisions%2C+and+the+success+of+her+startup+is+riding+on+them." class="linkedin" target="_blank">Linkedin</a></li>
+      <li><a href="https://digg.com/submit?url=https://www.npr.org/2011/08/23/139854129/young-entrepreneur-has-a-better-idea-now-what&amp;title=Young+Entrepreneur+Has+A+Better+Idea.+Now+What%3F&amp;bodytext=Meredith+Perry%2C+22%2C+is+the+founder+of+uBeam%2C+a+startup+centered+around+her+invention+%E2%80%94+a+wireless+recharging+system+for+laptops%2C+smartphones+and+other+devices.+She%27s+hiring%2C+meeting+with+investors+and+dealing+with+companies+interested+in+her+innovation.+But+she+faces+crucial+decisions%2C+and+the+success+of+her+startup+is+riding+on+them.&amp;media=MEDIA" class="digg" target="_blank">Digg</a></li>
    </ul>
-   <p class="footer"><a href="http://help.npr.org/npr/consumer/kbdetail.asp?kbid=46">What is this?</a></p>
+   <p class="footer"><a href="https://help.npr.org/npr/consumer/kbdetail.asp?kbid=46">What is this?</a></p>
 </div>
 <div class="shareselected">
       <a href="javascript:;">Share</a>
@@ -496,7 +496,7 @@ function getDateStr()
                </div>
                <div id="storybottom" class="linkLocation">
                                     <div class="colwrap">
-                                          <h3 class="hed"><a href="http://www.npr.org/sections/technology/">More Technology</a></h3>
+                                          <h3 class="hed"><a href="https://www.npr.org/sections/technology/">More Technology</a></h3>
                      <div class="divider2col">
                                                 <div class="right">
                                                       <div class="feed">
@@ -509,8 +509,8 @@ function getDateStr()
 <!-- END CLASS="FEEDHDRS" -->
 </h4>
                                  <ul>
-                                                                        <li><span class="title">Technology</span><a href="javascript: void(0);" class="podicon"></a><a href="http://www.npr.org/rss/rss.php?id=1019" class="rssicon"></a><div class="podbox" style="display:none;">
-      <p>Subscribe to <span>Technology</span> podcast via:</p>   <p><a href="itpc://www.npr.org/templates/rss/podlayer.php?id=1019" class="subitunes"><img src="http://media.npr.org/images/podcasts/ui/icon_itunes.gif" width="72" height="28" alt="iTunes" /></a><a href="zune://subscribe/?Technology=http://www.npr.org/templates/rss/podlayer.php?id=1019" class="subzune"><img src="http://media.npr.org/images/podcasts/ui/icon_zune.gif" width="56" height="28" alt="Zune" /></a></p>   <p class="divider">Or use this URL:</p>   <p><a class="podurllink" href="http://www.npr.org/templates/rss/podlayer.php?id=1019"><img src="http://media.npr.org/images/podcasts/ui/icon_pod.gif" width="21" height="21" alt="This podcast" /></a><input type="text" class="podurl" value="http://www.npr.org/templates/rss/podlayer.php?id=1019"></input>
+                                                                        <li><span class="title">Technology</span><a href="javascript: void(0);" class="podicon"></a><a href="https://www.npr.org/rss/rss.php?id=1019" class="rssicon"></a><div class="podbox" style="display:none;">
+      <p>Subscribe to <span>Technology</span> podcast via:</p>   <p><a href="itpc://www.npr.org/templates/rss/podlayer.php?id=1019" class="subitunes"><img src="https://media.npr.org/images/podcasts/ui/icon_itunes.gif" width="72" height="28" alt="iTunes" /></a><a href="zune://subscribe/?Technology=https://www.npr.org/templates/rss/podlayer.php?id=1019" class="subzune"><img src="https://media.npr.org/images/podcasts/ui/icon_zune.gif" width="56" height="28" alt="Zune" /></a></p>   <p class="divider">Or use this URL:</p>   <p><a class="podurllink" href="https://www.npr.org/templates/rss/podlayer.php?id=1019"><img src="https://media.npr.org/images/podcasts/ui/icon_pod.gif" width="21" height="21" alt="This podcast" /></a><input type="text" class="podurl" value="https://www.npr.org/templates/rss/podlayer.php?id=1019"></input>
 </p>   <p class="closethis"><a href="#">close</a></p>   <div class="spacer">
       &nbsp;
    </div>
@@ -521,7 +521,7 @@ function getDateStr()
    &nbsp;
 </div>
 </li>
-                                    <li><span class="title">Morning Edition</span><span class="blankpod">&ndash;</span><a href="http://www.npr.org/rss/rss.php?id=3" class="rssicon"></a><div class="spacer">
+                                    <li><span class="title">Morning Edition</span><span class="blankpod">&ndash;</span><a href="https://www.npr.org/rss/rss.php?id=3" class="rssicon"></a><div class="spacer">
    &nbsp;
 </div>
 </li>
@@ -547,20 +547,20 @@ function getDateStr()
                                                       
   <div class="more_stories">
 <div class="bucket"><div class="bucketblock">
-<h4><a href="http://www.npr.org/sections/technology/">Business</a></h4>
-<h3><a href="http://www.npr.org/2012/07/02/156096934/samsungs-galaxy-s3-sets-a-marker-for-the-iphone">Samsung's Galaxy S3 Sets A Marker For iPhones</a></h3>
+<h4><a href="https://www.npr.org/sections/technology/">Business</a></h4>
+<h3><a href="https://www.npr.org/2012/07/02/156096934/samsungs-galaxy-s3-sets-a-marker-for-the-iphone">Samsung's Galaxy S3 Sets A Marker For iPhones</a></h3>
 <p>Apple and Samsung's smartphones have been going head to head, and the competition could get rougher.</p>
 </div></div>
 <div class="bucket img">
-<a href="http://www.npr.org/blogs/krulwich/2012/06/30/155990446/robot-with-super-powers-plays-rock-paper-scissors"><img src="http://media.npr.org/assets/img/2012/06/29/robotrock_sq.jpg?t=1340989927&amp;s=11" alt="It looks like the robot is playing fair, but that's an illusion. It already knows."></a><div class="bucketblock">
-<h4><a href="http://www.npr.org/sections/technology/">Krulwich Wonders...</a></h4>
-<h3><a href="http://www.npr.org/blogs/krulwich/2012/06/30/155990446/robot-with-super-powers-plays-rock-paper-scissors">Robot With Super Powers Plays Rock, Paper Scissors </a></h3>
+<a href="https://www.npr.org/blogs/krulwich/2012/06/30/155990446/robot-with-super-powers-plays-rock-paper-scissors"><img src="https://media.npr.org/assets/img/2012/06/29/robotrock_sq.jpg?t=1340989927&amp;s=11" alt="It looks like the robot is playing fair, but that's an illusion. It already knows."></a><div class="bucketblock">
+<h4><a href="https://www.npr.org/sections/technology/">Krulwich Wonders...</a></h4>
+<h3><a href="https://www.npr.org/blogs/krulwich/2012/06/30/155990446/robot-with-super-powers-plays-rock-paper-scissors">Robot With Super Powers Plays Rock, Paper Scissors </a></h3>
 <p>It looks like the robot is playing fair, but that's an illusion. It already knows.</p>
 </div>
 </div>
 <div class="bucket"><div class="bucketblock">
-<h4><a href="http://www.npr.org/sections/technology/">History</a></h4>
-<h3><a href="http://www.npr.org/2012/06/29/155992718/npr-alan-turing-turns-100">NPR: Alan Turing turns 100</a></h3>
+<h4><a href="https://www.npr.org/sections/technology/">History</a></h4>
+<h3><a href="https://www.npr.org/2012/06/29/155992718/npr-alan-turing-turns-100">NPR: Alan Turing turns 100</a></h3>
 <p>A look at the man who helped create the modern world--and was promptly forgotten by it.</p>
 </div></div>
 </div>
@@ -630,13 +630,13 @@ function getDateStr()
                               <div id="res111016924" class="bucketwrap apiquery branded_headlines">
                                     
   <div class="brand_headlines brand102920358">
-<a href="http://www.npr.org/blogs/alltechconsidered/" class="photowrap twocol">All Tech Considered Headlines: All Tech Considered</a><div class="bucketblock">
+<a href="https://www.npr.org/blogs/alltechconsidered/" class="photowrap twocol">All Tech Considered Headlines: All Tech Considered</a><div class="bucketblock">
 <ul class="brand">
-<li><a href="http://www.npr.org/blogs/alltechconsidered/2012/07/01/156077787/too-hot-no-cooler-time-to-honor-the-steve-jobs-of-a-c">Too Hot? No Cooler Time To Honor The Steve Jobs of A.C.</a></li>
-<li><a href="http://www.npr.org/blogs/alltechconsidered/2012/06/25/155735322/facebook-changed-your-primary-email-address-but-says-it-warned-you">Facebook Changed Your Primary Email Address, But Says It Warned You</a></li>
-<li><a href="http://www.npr.org/blogs/alltechconsidered/2012/06/26/155585035/9-powerful-moments-in-the-day-of-a-viral-web-editor-at-buzzfeed">9 Powerful Moments In The Day Of A Viral Web Editor At BuzzFeed</a></li>
+<li><a href="https://www.npr.org/blogs/alltechconsidered/2012/07/01/156077787/too-hot-no-cooler-time-to-honor-the-steve-jobs-of-a-c">Too Hot? No Cooler Time To Honor The Steve Jobs of A.C.</a></li>
+<li><a href="https://www.npr.org/blogs/alltechconsidered/2012/06/25/155735322/facebook-changed-your-primary-email-address-but-says-it-warned-you">Facebook Changed Your Primary Email Address, But Says It Warned You</a></li>
+<li><a href="https://www.npr.org/blogs/alltechconsidered/2012/06/26/155585035/9-powerful-moments-in-the-day-of-a-viral-web-editor-at-buzzfeed">9 Powerful Moments In The Day Of A Viral Web Editor At BuzzFeed</a></li>
 </ul>
-<p class="more"><a href="http://www.npr.org/blogs/alltechconsidered/">
+<p class="more"><a href="https://www.npr.org/blogs/alltechconsidered/">
 						more
 					</a></p>
 </div>
@@ -667,7 +667,7 @@ function getDateStr()
 <!-- END UNDERWRITING -->
                   
 <!-- ADD LANGUAGE -->
-                  <p class="left">NPR thanks our sponsors</p> <p class="right"><a href="http://www.npr.org/about/place/corpsupport/">Become an NPR Sponsor </a></p>
+                  <p class="left">NPR thanks our sponsors</p> <p class="right"><a href="https://www.npr.org/about/place/corpsupport/">Become an NPR Sponsor </a></p>
                   
 <!-- END LANGUAGE -->
                </div>
@@ -690,10 +690,10 @@ function getDateStr()
                         <li><a onclick="setClass('mostpopular','bucketwrap viewcomm');" class="tabcomm" href="javascript:void(0);">Commented</a></li>
                      </ul>
                      <ol class="line">
-      <li><a href="http://www.npr.org/2012/07/02/155994840/is-the-hunt-for-the-god-particle-finally-over?ps=cprs">Is The Hunt For The 'God Particle' Finally Over?</a></li>
-   <li><a href="http://www.npr.org/2012/07/02/155994840/is-the-hunt-for-the-god-particle-finally-over?ps=cprs">Is The Hunt For The 'God Particle' Finally Over?</a></li>
-   <li><a href="http://www.npr.org/blogs/health/2012/07/02/155979681/organ-donation-has-consequences-some-donors-arent-prepared-for?ps=cprs">Organ Donation Has Consequences Some Donors Aren't Prepared For</a></li>
-   <li><a href="http://www.npr.org/2012/07/01/156067222/hong-kong-speaks-truth-to-new-man-in-power?ps=cprs">Anger Grows In Hong Kong Over China, New Leader   </a></li>
+      <li><a href="https://www.npr.org/2012/07/02/155994840/is-the-hunt-for-the-god-particle-finally-over?ps=cprs">Is The Hunt For The 'God Particle' Finally Over?</a></li>
+   <li><a href="https://www.npr.org/2012/07/02/155994840/is-the-hunt-for-the-god-particle-finally-over?ps=cprs">Is The Hunt For The 'God Particle' Finally Over?</a></li>
+   <li><a href="https://www.npr.org/blogs/health/2012/07/02/155979681/organ-donation-has-consequences-some-donors-arent-prepared-for?ps=cprs">Organ Donation Has Consequences Some Donors Aren't Prepared For</a></li>
+   <li><a href="https://www.npr.org/2012/07/01/156067222/hong-kong-speaks-truth-to-new-man-in-power?ps=cprs">Anger Grows In Hong Kong Over China, New Leader   </a></li>
 </ol>
                   </div>
                   
@@ -709,7 +709,7 @@ function getDateStr()
             
 <!-- END ID="PLUCKDISCOVERYBUCKET" -->
             <div id="googledonatead">
-                              <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+                              <script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js">
 </script>
 <script type="text/javascript">
 AddNamespace("NPR.google");
@@ -772,12 +772,12 @@ NPR.google.adsEnabled = true;
                               <div id="res129559783" class="bucketwrap apiquery branded_headlines">
                                     
   <div class="brand_headlines brand5500502">
-<a href="http://www.npr.org/blogs/krulwich/" class="photowrap twocol">Krulwich Wonders...: NPR Science Correspondent Robert Krulwich demystifies dense and difficult science.</a><div class="bucketblock">
+<a href="https://www.npr.org/blogs/krulwich/" class="photowrap twocol">Krulwich Wonders...: NPR Science Correspondent Robert Krulwich demystifies dense and difficult science.</a><div class="bucketblock">
 <ul class="brand">
-<li><a href="http://www.npr.org/blogs/krulwich/2012/06/30/155990446/robot-with-super-powers-plays-rock-paper-scissors">Robot With Super Powers Plays Rock, Paper Scissors </a></li>
-<li><a href="http://www.npr.org/blogs/krulwich/2012/06/27/155862376/phantom-finger-points-to-secrets-in-the-human-brain">Phantom Finger Points To Secrets In The Human Brain</a></li>
+<li><a href="https://www.npr.org/blogs/krulwich/2012/06/30/155990446/robot-with-super-powers-plays-rock-paper-scissors">Robot With Super Powers Plays Rock, Paper Scissors </a></li>
+<li><a href="https://www.npr.org/blogs/krulwich/2012/06/27/155862376/phantom-finger-points-to-secrets-in-the-human-brain">Phantom Finger Points To Secrets In The Human Brain</a></li>
 </ul>
-<p class="more"><a href="http://www.npr.org/blogs/krulwich/">
+<p class="more"><a href="https://www.npr.org/blogs/krulwich/">
 						more
 					</a></p>
 </div>
@@ -790,7 +790,7 @@ NPR.google.adsEnabled = true;
                                     <div class="promo_default">
 	<h3><a href="/podcast/">podcast</a></h3>
 	<div class="bucket img90">			
-		<a href="/rss/podcast/podcast_detail.php?siteId=4819382"><img src="http://media.npr.org/images/podcasts/img90/npr_technology_90.jpg" alt="NPR Technology Podcast" class="pod" /></a>
+		<a href="/rss/podcast/podcast_detail.php?siteId=4819382"><img src="https://media.npr.org/images/podcasts/img90/npr_technology_90.jpg" alt="NPR Technology Podcast" class="pod" /></a>
 		<div class="bucketblock">
 			<h3><a href="/rss/podcast/podcast_detail.php?siteId=4819382">NPR Technology Podcast</a></h3>
 			<p>Perspectives on digital culture, research news, gadgets, the tech industry and more.</p>
@@ -810,15 +810,15 @@ NPR.google.adsEnabled = true;
                               <div id="res111016937" class="bucketwrap apiquery apnews">
                                     
   <div class="ap">
-<h3><a href="http://www.npr.org/templates/story/story.php?storyId=600006">Technology Headlines</a></h3>
+<h3><a href="https://www.npr.org/templates/story/story.php?storyId=600006">Technology Headlines</a></h3>
 <h4>From the Associated Press</h4>
 <div class="bucket">
 <ul class="line">
-<li><a href="http://www.npr.org/templates/story/story.php?storyId=156092547">China Court: Apple Pays $60M To Settle IPad Case</a></li>
-<li><a href="http://www.npr.org/templates/story/story.php?storyId=156045675">Eastern US Storm Hobbles Netflix And Instagram</a></li>
-<li><a href="http://www.npr.org/templates/story/story.php?storyId=156047493">Woman Behind 'Centipede' Recalls Game Icon's Birth</a></li>
+<li><a href="https://www.npr.org/templates/story/story.php?storyId=156092547">China Court: Apple Pays $60M To Settle IPad Case</a></li>
+<li><a href="https://www.npr.org/templates/story/story.php?storyId=156045675">Eastern US Storm Hobbles Netflix And Instagram</a></li>
+<li><a href="https://www.npr.org/templates/story/story.php?storyId=156047493">Woman Behind 'Centipede' Recalls Game Icon's Birth</a></li>
 </ul>
-<p><a href="http://www.npr.org/templates/story/story.php?storyId=600006" class="more">View More</a><span class="date">Last updated: 
+<p><a href="https://www.npr.org/templates/story/story.php?storyId=600006" class="more">View More</a><span class="date">Last updated: 
 			11:53 pm
 			ET</span></p>
 </div>
@@ -831,7 +831,7 @@ NPR.google.adsEnabled = true;
             
 <!-- END ID="THEMECONTENT03" CLASS="THEMELOCATION LINKLOCATION" -->
             <div id="globalcontentbottom">
-                              <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">AddNamespace("NPR.google");</script><script type="text/javascript">    <!--    if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {	        GS_googleAddAdSenseService("ca-pub-6667715786680641");	        GS_googleEnableAllServices();	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--     if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {    	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_a");	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_b");	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_c");	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--       if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {    	        GA_googleFetchAds();	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--        try {            GA_googleFillSlot("npr_ros_300x138_a");    }catch(e){    }    // --></script><script type="text/javascript">    <!--       try {            GA_googleFillSlot("npr_ros_300x138_b");    }catch(e){    }    // --></script><script type="text/javascript">NPR.google.adsEnabled = true;</script>
+                              <script type="text/javascript" src="https://partner.googleadservices.com/gampad/google_service.js"></script><script type="text/javascript">AddNamespace("NPR.google");</script><script type="text/javascript">    <!--    if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {	        GS_googleAddAdSenseService("ca-pub-6667715786680641");	        GS_googleEnableAllServices();	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--     if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {    	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_a");	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_b");	        GA_googleAddSlot("ca-pub-6667715786680641", "npr_ros_300x138_c");	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--       if(NPR.google.adsEnabled == null || NPR.google.adsEnabled == false)    {	    try {    	        GA_googleFetchAds();	    }catch(e){	    }    }    // --></script><script type="text/javascript">    <!--        try {            GA_googleFillSlot("npr_ros_300x138_a");    }catch(e){    }    // --></script><script type="text/javascript">    <!--       try {            GA_googleFillSlot("npr_ros_300x138_b");    }catch(e){    }    // --></script><script type="text/javascript">NPR.google.adsEnabled = true;</script>
             </div>
             
 <!-- END ID="GLOBALCONTENTBOTTOM" -->
@@ -921,12 +921,12 @@ NPR.google.adsEnabled = true;
                     <li><a href="/programs/all-things-considered/">All Things Considered</a></li>
                     <li><a href="/programs/ask-me-another/">Ask Me Another</a></li>
                		<li><a href="/series/153299281/cabinet-of-wonders">Cabinet of Wonders</a></li>
-                    <li><a href="http://www.cartalk.com">Car Talk</a></li>
-                    <li><a href="http://thedianerehmshow.org">The Diane Rehm Show</a></li>
+                    <li><a href="https://www.cartalk.com">Car Talk</a></li>
+                    <li><a href="https://thedianerehmshow.org">The Diane Rehm Show</a></li>
                     <li><a href="/programs/fresh-air/">Fresh Air</a></li>
                     <li><a href="/programs/morning-edition/">Morning Edition</a></li>
-                    <li><a href="http://www.onthemedia.org">On The Media</a></li>
-                    <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                    <li><a href="https://www.onthemedia.org">On The Media</a></li>
+                    <li><a href="https://www.onpointradio.org/">On Point</a></li>
                     <li><a href="/programs/talk-of-the-nation/">Talk of the Nation</a></li>
                     <li><a href="/programs/ted-radio-hour/">TED Radio Hour</a></li>
                     <li><a href="/programs/tell-me-more/">Tell Me More</a></li>
@@ -955,7 +955,7 @@ NPR.google.adsEnabled = true;
 					<li><a href="/sections/analysis/">Analysis</a></li>
 					<li><a href="/sections/commentary/">Commentary</a></li>
 					<li><a href="/ombudsman/">NPR Ombudsman</a></li>
-					<li><a href="http://stateimpact.npr.org/">StateImpact</a></li>
+					<li><a href="https://stateimpact.npr.org/">StateImpact</a></li>
 				</ul>				
 				<h4><a href="/about/">about</a></h4>	
 				<ul>
@@ -963,7 +963,7 @@ NPR.google.adsEnabled = true;
 					<li><a href="/about/support/">Support and Sponsor</a></li>
 					<li><a href="/about/press/">Press Room</a></li>
 					<li><a href="/about/careers/">Careers</a></li>
-					<li><a href="http://shop.npr.org">NPR Shop</a></li>
+					<li><a href="https://shop.npr.org">NPR Shop</a></li>
 					<li><a href="/contact/">Contact Us</a></li>
 				</ul>
             </div>
@@ -981,11 +981,11 @@ NPR.google.adsEnabled = true;
         <li><a href="/about/privacypolicy.html">Privacy Policy</a></li>
         <li><a href="/about/permissioninfo.html">Permissions</a></li>
         <li><a href="/corrections/">Corrections</a></li>
-        <li><a href="http://thin.npr.org">Text-Only Site</a></li>
+        <li><a href="https://thin.npr.org">Text-Only Site</a></li>
         <li class="help"><a href="/help/">Help</a></li>
         <li class="contact"><a href="/contact/">Contact Us</a></li>
         <li class="donate"><a href="/stations/donate/?ps=stbn">Donate</a></li>
-        <li class="pbs">Our partner in public broadcasting <a href="http://www.pbs.org"><img src="http://media.npr.org/chrome/news/pbs_logo.gif" alt="pbs" /></a></li>
+        <li class="pbs">Our partner in public broadcasting <a href="https://www.pbs.org"><img src="https://media.npr.org/chrome/news/pbs_logo.gif" alt="pbs" /></a></li>
     </ul>
 
 </div>

@@ -13,4 +13,4 @@ tags:
 - Science
 title: Ateo practicante
 ---
-Éste es el tipo de cosas que me hacen más y más intransigente con los creyentes.<br />Intento no poner cosas en inglés, pero este video simplemente me toca la moral.No porque sea particularmente especial, es sólo una grabación de una situación a la que cada vez me enfrento con más frecuencia.<br /><br />[youtube=http://www.youtube.com/watch?v=2FARDDcdFaQ&amp;hl=en&amp;fs=1]
+Éste es el tipo de cosas que me hacen más y más intransigente con los creyentes.<br />Intento no poner cosas en inglés, pero este video simplemente me toca la moral.No porque sea particularmente especial, es sólo una grabación de una situación a la que cada vez me enfrento con más frecuencia.<br /><br />[youtube=https://www.youtube.com/watch?v=2FARDDcdFaQ&amp;hl=en&amp;fs=1]

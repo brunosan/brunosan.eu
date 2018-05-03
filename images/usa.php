@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 <title>SpaceX - Why the US Can Beat China: The Facts About SpaceX Costs</title>
@@ -76,7 +76,7 @@ function calcHeight()
 					
 					
 					<a href="javascript:;"><img src="/assets/img/dragon-orbit-thumb.jpg" width="150" height="105" border="0"  onclick="MM_openBrWindow('/assets/img/dragon-orbit.jpg','','width=640,height=360')" /></a>
-				  <a href="http://spacexlaunch.zenfolio.com/"  target="_blank" class="button">Photo Gallery</a>
+				  <a href="https://spacexlaunch.zenfolio.com/"  target="_blank" class="button">Photo Gallery</a>
 					
 					
 				    <!-- <a href="javascript:;"><img src="/assets/img/f9-liftoff-thumb.jpg" width="150" height="105" border="0"  onclick="MM_openBrWindow('/galleryimages/f9-liftoff.jpg','','width=640,height=480')" /></a>
@@ -86,7 +86,7 @@ function calcHeight()
 			</td>
 			<td id="main">
 				<div id="flashTout">
-  <form id="email_form" method="post" action="http://builder.campaigner.com/app/campaigner/services/optinlist/processoptinrequest.jsp?oilb=86612725&builderType=classic" target="_blank">
+  <form id="email_form" method="post" action="https://builder.campaigner.com/app/campaigner/services/optinlist/processoptinrequest.jsp?oilb=86612725&builderType=classic" target="_blank">
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	  <tr>
 		<td><img src="assets/img/toutRocket_tl.jpg" alt="Space Exploration Technologies" width="500" height="37" /></td>
@@ -114,13 +114,13 @@ function calcHeight()
 					
 					<p>So when I started SpaceX, it was not surprising when people said we wouldn&#8217;t succeed. But now that we&#8217;ve successfully proven Falcon 1, Falcon 9 and Dragon, there&#8217;s been a steady stream of misinformation and doubt expressed about SpaceX&#8217;s actual launch costs and prices.</p>
  
-					<p><a href="http://www.aviationweek.com/aw/generic/story.jsp?id=news/asd/2011/04/15/11.xml&channel=space" target="_blank">As noted last month by a Chinese government official</a>, SpaceX currently has the best launch prices in the world and they don&#8217;t believe they can beat them. This is a clear case of American innovation trumping lower overseas labor rates.</p>  
+					<p><a href="https://www.aviationweek.com/aw/generic/story.jsp?id=news/asd/2011/04/15/11.xml&channel=space" target="_blank">As noted last month by a Chinese government official</a>, SpaceX currently has the best launch prices in the world and they don&#8217;t believe they can beat them. This is a clear case of American innovation trumping lower overseas labor rates.</p>  
 					
 					<p>I recognize that our prices shatter the historical cost models of government-led developments, but these prices are not arbitrary, premised on capturing a dominant share of the market, or &#8220;teaser&#8221; rates meant to lure in an eager market only to be increased later. These prices are based on known costs and a demonstrated track record, and they exemplify the potential of America's commercial space industry.</p>
  
 					<p>Here are the facts:</p>
  
-					<p><strong>The price of a standard flight on a Falcon 9 rocket is $54 million.</strong> We are the only launch company that publicly posts this information on our website (<a href="http://www.spacex.com/" target="_blank">www.spacex.com</a>). We have signed many legally binding contracts with both government and commercial customers for this price (or less).  Because SpaceX is so vertically integrated, we know and can control the overwhelming majority of our costs.  This is why I am so confident that our performance will increase and our prices will decline over time, as is the case  with every other technology.</p>
+					<p><strong>The price of a standard flight on a Falcon 9 rocket is $54 million.</strong> We are the only launch company that publicly posts this information on our website (<a href="https://www.spacex.com/" target="_blank">www.spacex.com</a>). We have signed many legally binding contracts with both government and commercial customers for this price (or less).  Because SpaceX is so vertically integrated, we know and can control the overwhelming majority of our costs.  This is why I am so confident that our performance will increase and our prices will decline over time, as is the case  with every other technology.</p>
  
 					<p><strong>The average price of a full-up NASA Dragon cargo mission to the International Space Station is $133 million including inflation</strong>, or roughly $115m in today&#8217;s dollars, and we have a firm, fixed price contract with NASA for 12 missions. This price includes the costs of the Falcon 9 launch, the Dragon spacecraft, all operations, maintenance and overhead, and all of the work required to integrate with the Space Station. If there are cost overruns, SpaceX will cover the difference.  (This concept may be foreign to some traditional government space contractors that seem to believe that cost overruns should be the responsibility of the taxpayer.)</p> 
  
@@ -155,7 +155,7 @@ function calcHeight()
 					
 					<br />
 					
-					<p><a href="http://www.spacex.com/updates_archive.php">&lt; Archived Updates</a></p>
+					<p><a href="https://www.spacex.com/updates_archive.php">&lt; Archived Updates</a></p>
 					
 					<br />
 					<br />
@@ -164,7 +164,7 @@ function calcHeight()
 
 <!-- 2011.07.26 update / support@visionaireworldwide.com -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">

@@ -26,15 +26,15 @@ tags:
 - vimeo
 title: Exactly one year ago
 ---
-[vimeo http://vimeo.com/9182869 w=600]
+[vimeo https://vimeo.com/9182869 w=600]
 
 <!--more-->
 
-What you see here is the world response to the <a href="http://en.wikipedia.org/wiki/2010_Haiti_earthquake">earthquake</a> humanitarian crisis in Haiti.
+What you see here is the world response to the <a href="https://en.wikipedia.org/wiki/2010_Haiti_earthquake">earthquake</a> humanitarian crisis in Haiti.
 
-What you see here, each flash, is someone, somewhere in the world, going into <a href="http://www.OpenStreetMap.org">OpenStreetMap.org</a>, looking at aerial/satellites images, identifying features and adding them to the free map.
+What you see here, each flash, is someone, somewhere in the world, going into <a href="https://www.OpenStreetMap.org">OpenStreetMap.org</a>, looking at aerial/satellites images, identifying features and adding them to the free map.
 
-If you want to learn, <a href="http://screenr.com/KO1">here</a> I screencasted one of my edits back then as part of the <a href="http://wiki.crisiscommons.org/index.php?title=Haiti/2010_Earthquake">Crisis Camp</a>.
+If you want to learn, <a href="https://screenr.com/KO1">here</a> I screencasted one of my edits back then as part of the <a href="https://wiki.crisiscommons.org/index.php?title=Haiti/2010_Earthquake">Crisis Camp</a>.
 
 After just 12 hours, and over the following days a large number of additions to the map are made with many roads (green primary, red secondary) added.  Also many other features were added such as the blue glowing refugee camps that emerge.
 
@@ -42,4 +42,4 @@ A lot of these edits were made possible by a number of satellite and aerial imag
 
 This, fellow reader, is one of the most beautiful examples of crowdsourced crisis response that I know. And if you like this video, you will love this other one, which the same idea, but all edits of the world in osm.org, nice work <a href="https://itoworld.com">ito!</a>
 
-[vimeo http://vimeo.com/2598878 w=600]
+[vimeo https://vimeo.com/2598878 w=600]

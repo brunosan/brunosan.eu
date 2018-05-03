@@ -35,10 +35,10 @@ function pageload_done( $, console, maybe ){
 
 
 
-    <link rel="image_src" href="http://a.fsdn.com/sd/topics/nasa_64.png">
+    <link rel="image_src" href="https://a.fsdn.com/sd/topics/nasa_64.png">
 
 
-    <link rel="canonical" href="http://science.slashdot.org/story/12/04/12/176200/ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change">
+    <link rel="canonical" href="https://science.slashdot.org/story/12/04/12/176200/ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change">
 
 
 <!--[if IE 8]><link rel="stylesheet" type="text/css" media="screen, projection" href="//a.fsdn.com/sd/ie8-classic.css?release_20120612" ><![endif]-->
@@ -102,7 +102,7 @@ $('#more-experiment a').
 </script>
 <!--[if lt IE 9]><script src="//a.fsdn.com/sd/html5.js"></script><![endif]--><link rel="top"       title="News for nerds, stuff that matters" href="//slashdot.org/" >
 <link rel="search"    title="Search Slashdot" href="//science.slashdot.org/search.pl">
-<link rel="alternate" title="Slashdot RSS" href="http://rss.slashdot.org/Slashdot/slashdotScience" type="application/rss+xml">
+<link rel="alternate" title="Slashdot RSS" href="https://rss.slashdot.org/Slashdot/slashdotScience" type="application/rss+xml">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <!-- DoubleClick Random Number -->
 <script type="text/javascript">
@@ -142,7 +142,7 @@ var _gaq = _gaq || [];
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
@@ -167,9 +167,9 @@ var _gaq = _gaq || [];
 	//<![CDATA[
 
 		var hint   = 'science,government,nasa,slashdot,earth,science,yro,news';
-		var parent = 'http://science.slashdot.org/science/12/04/12/176200.shtml';
+		var parent = 'https://science.slashdot.org/science/12/04/12/176200.shtml';
 
-	document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ostg.slashdot/science_p1_leader;pg=article;sid=12/04/12/176200;topic=science;logged_in=0;tile='+dfp_tile+';sz=728x90;tpc=government;tpc=nasa;tpc=slashdot;tpc=earth;tpc=science;tpc=yro;tpc=news;u=20120412_ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change_nasa;ord='+dfp_ord+'?"><\/script>');
+	document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/ostg.slashdot/science_p1_leader;pg=article;sid=12/04/12/176200;topic=science;logged_in=0;tile='+dfp_tile+';sz=728x90;tpc=government;tpc=nasa;tpc=slashdot;tpc=earth;tpc=science;tpc=yro;tpc=news;u=20120412_ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change_nasa;ord='+dfp_ord+'?"><\/script>');
 		dfp_tile++;
 	//]]>
 	</script>
@@ -185,10 +185,10 @@ var _gaq = _gaq || [];
 	<script type="text/javascript">
 	//<![CDATA[
 		ord=Math.random()*10000000000000000;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=' + ord + '?"><\/script>');
+		document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=' + ord + '?"><\/script>');
 	//]]>
 	</script>
-	<noscript><a href="http://ad.doubleclick.net/jump/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=123456789?" border="0" alt="" /></a></noscript>
+	<noscript><a href="https://ad.doubleclick.net/jump/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=123456789?" target="_blank" ><img src="https://ad.doubleclick.net/ad/ostg.slashdot/sd_hub_icon;tile=1;sz=200x90;ord=123456789?" border="0" alt="" /></a></noscript>
 	<!-- end ad tag -->
 	</div>
 
@@ -404,7 +404,7 @@ var _gaq = _gaq || [];
                 <input type="hidden" name="op" value="claim_openid">
                 <input type="hidden" name="openid_login" value="1">
                 <label for="openid_url" class="openid_url">
-                <input type="text" name="openid_url" value="http://" size="32" maxlength="255">
+                <input type="text" name="openid_url" value="https://" size="32" maxlength="255">
                 </label><br>
                 <input type="submit" value="Log in with OpenID" class="button fno" style="width:230px;">
                 </fieldset></form>
@@ -1058,7 +1058,7 @@ $TAG_MENU.menu({
 	
 	
 		
-			<a href="http://www.monkey.org/~timothy/" rel="nofollow">timothy</a>
+			<a href="https://www.monkey.org/~timothy/" rel="nofollow">timothy</a>
 		
 	
 	
@@ -1079,7 +1079,7 @@ $TAG_MENU.menu({
 
 
 			<div id="text-31583683" class="p">
-			grumpyman writes <i>"A coalition of 49 ex-NASA employees, including seven Apollo astronauts, have <a href="http://news.nationalpost.com/2012/04/11/nasa-climate-change/">accused the U.S. space agency of sullying its reputation</a> by taking the 'extreme position' of concluding that carbon dioxide is a major cause of climate change.  Is the claim in this letter opinion or fact?"</i></div>
+			grumpyman writes <i>"A coalition of 49 ex-NASA employees, including seven Apollo astronauts, have <a href="https://news.nationalpost.com/2012/04/11/nasa-climate-change/">accused the U.S. space agency of sullying its reputation</a> by taking the 'extreme position' of concluding that carbon dioxide is a major cause of climate change.  Is the claim in this letter opinion or fact?"</i></div>
 			
 
 		
@@ -1105,7 +1105,7 @@ $TAG_MENU.menu({
 
 	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Ex-NASA%20Employees%20Accuse%20Agency%20of%20'Extreme%20Position'%20On%20Climate%20Change%20%40slashdot%20http%3A%2F%2Fscience.slashdot.org%2Fstory%2F12%2F04%2F12%2F176200%2F" target="_blank">twitter</a>
 	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=//science.slashdot.org/story/12/04/12/176200/ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change" target="_blank">facebook</a>
-    <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/story/12/04/12/176200/ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+    <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/story/12/04/12/176200/ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 						
@@ -1195,9 +1195,9 @@ $TAG_MENU.menu({
 	//<![CDATA[
 
 		var hint   = 'science,government,nasa,slashdot,earth,science,yro,news';
-		var parent = 'http://science.slashdot.org/science/12/04/12/176200.shtml';
+		var parent = 'https://science.slashdot.org/science/12/04/12/176200.shtml';
 
-	document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/ostg.slashdot/science_p83_medrec;pg=article;sid=12/04/12/176200;topic=science;logged_in=0;tile='+dfp_tile+';sz=300x250,300x600;tpc=government;tpc=nasa;tpc=slashdot;tpc=earth;tpc=science;tpc=yro;tpc=news;u=20120412_ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change_nasa;ord='+dfp_ord+'?"><\/script>');
+	document.write('<script type="text/javascript" src="https://ad.doubleclick.net/adj/ostg.slashdot/science_p83_medrec;pg=article;sid=12/04/12/176200;topic=science;logged_in=0;tile='+dfp_tile+';sz=300x250,300x600;tpc=government;tpc=nasa;tpc=slashdot;tpc=earth;tpc=science;tpc=yro;tpc=news;u=20120412_ex-nasa-employees-accuse-agency-of-extreme-position-on-climate-change_nasa;ord='+dfp_ord+'?"><\/script>');
 		dfp_tile++;
 	//]]>
 	</script>
@@ -1375,7 +1375,7 @@ $TAG_MENU.menu({
                 <input type="hidden" name="op" value="claim_openid">
                 <input type="hidden" name="openid_login" value="1">
                 <label for="openid_url" class="openid_url">
-                <input type="text" name="openid_url" value="http://" size="32" maxlength="255">
+                <input type="text" name="openid_url" value="https://" size="32" maxlength="255">
                 </label><br>
                 <input type="submit" value="Log in with OpenID" class="button fno" style="width:230px;">
                 </fieldset></form>
@@ -1498,9 +1498,9 @@ D2.more_comments_num(516);
 	<div class="commentSub" id="comment_sub_39661131">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Hey guys, STFU and build a rocket, would you?%20by%20crazyjj%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661131" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661131" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661131" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Hey guys, STFU and build a rocket, would you?%20by%20crazyjj%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661131" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661131" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661131" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1539,9 +1539,9 @@ D2.more_comments_num(516);
 	<div class="commentSub" id="comment_sub_39661315">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661131" onclick="return D2.selectParent(39661131)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20TubeSteak%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661315" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661315" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661315" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20TubeSteak%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661315" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661315" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661315" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1580,9 +1580,9 @@ D2.more_comments_num(516);
 	<div class="commentSub" id="comment_sub_39661495">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661315" onclick="return D2.selectParent(39661315)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20RoccamOccam%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661495" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661495" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661495" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20RoccamOccam%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661495" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661495" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661495" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1621,9 +1621,9 @@ D2.more_comments_num(516);
 	<div class="commentSub" id="comment_sub_39662485">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661495" onclick="return D2.selectParent(39661495)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Ihmhi%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662485" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662485" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662485" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Ihmhi%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662485" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662485" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662485" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1662,9 +1662,9 @@ D2.more_comments_num(516);
 	<div class="commentSub" id="comment_sub_39664503">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662485" onclick="return D2.selectParent(39662485)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Talderas%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664503" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664503" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664503" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Talderas%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664503" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664503" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664503" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1692,7 +1692,7 @@ D2.more_comments_num(516);
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~s_p_oneil">s_p_oneil <span class="uid">(795792)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39664635">		
 		on Thursday April 12, @04:36PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39664635">#39664635</a>)
-		<small><a href="http://sponeil.net/" title="http://sponeil.net/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://sponeil.net/" title="https://sponeil.net/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -1703,9 +1703,9 @@ D2.more_comments_num(516);
 	<div class="commentSub" id="comment_sub_39664635">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662485" onclick="return D2.selectParent(39662485)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20s_p_oneil%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664635" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664635" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664635" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20s_p_oneil%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664635" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664635" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664635" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1744,9 +1744,9 @@ D2.more_comments_num(516);
 	<div class="commentSub" id="comment_sub_39665337">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662485" onclick="return D2.selectParent(39662485)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20GodfatherofSoul%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39665337" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39665337" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39665337" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20GodfatherofSoul%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39665337" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39665337" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39665337" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1779,15 +1779,15 @@ D2.more_comments_num(516);
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39662537"><p>I definitely think it's a valid criticism that NASA has it's priorities wrong. However, it should be noted that the above comment if from an interview with Al Jazeera - it seems clear to me that Mr. Bolden was tailoring these remarks to the Al Jazeera audience. Again, it's fine to argue that this is wrong regardless, but context does matter. Judge for yourself:</p><p><a href="http://www.aljazeera.com/programmes/talktojazeera/2010/07/201071122234471970.html" title="aljazeera.com">http://www.aljazeera.com/programmes/talktojazeera/2010/07/201071122234471970.html</a> [aljazeera.com]</p></div>
+		<div id="comment_body_39662537"><p>I definitely think it's a valid criticism that NASA has it's priorities wrong. However, it should be noted that the above comment if from an interview with Al Jazeera - it seems clear to me that Mr. Bolden was tailoring these remarks to the Al Jazeera audience. Again, it's fine to argue that this is wrong regardless, but context does matter. Judge for yourself:</p><p><a href="https://www.aljazeera.com/programmes/talktojazeera/2010/07/201071122234471970.html" title="aljazeera.com">https://www.aljazeera.com/programmes/talktojazeera/2010/07/201071122234471970.html</a> [aljazeera.com]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39662537">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661495" onclick="return D2.selectParent(39661495)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20SashaMan%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662537" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662537" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662537" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20SashaMan%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662537" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662537" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662537" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1828,9 +1828,9 @@ Anybody who still recites this incident as anything more than a gaffe induced by
 	<div class="commentSub" id="comment_sub_39666323">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662537" onclick="return D2.selectParent(39662537)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20timeOday%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666323" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666323" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666323" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20timeOday%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666323" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666323" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666323" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -1962,9 +1962,9 @@ Anybody who still recites this incident as anything more than a gaffe induced by
 	<div class="commentSub" id="comment_sub_39662887">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662447" onclick="return D2.selectParent(39662447)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Anonymous Coward%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662887" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662887" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662887" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Anonymous Coward%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662887" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662887" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662887" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2003,9 +2003,9 @@ Anybody who still recites this incident as anything more than a gaffe induced by
 	<div class="commentSub" id="comment_sub_39666631">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662887" onclick="return D2.selectParent(39662887)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20StillNeedMoreCoffee%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666631" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666631" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666631" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20StillNeedMoreCoffee%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666631" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666631" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666631" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2105,9 +2105,9 @@ It does if they are stupid enough - remember, 2+2=5 for large values of 2!</p></
 	<div class="commentSub" id="comment_sub_39663809">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39663305" onclick="return D2.selectParent(39663305)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Anne Thwacks%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663809" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663809" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663809" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Anne Thwacks%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663809" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663809" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663809" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2165,7 +2165,7 @@ It does if they are stupid enough - remember, 2+2=5 for large values of 2!</p></
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~hey!">hey! <span class="uid">(33014)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39662927">		
 		on Thursday April 12, @03:14PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39662927">#39662927</a>)
-		<small><a href="http://kamthaka.blogspot.com/" title="http://kamthaka.blogspot.com/" class="user_homepage_display">Homepage</a>
+		<small><a href="https://kamthaka.blogspot.com/" title="https://kamthaka.blogspot.com/" class="user_homepage_display">Homepage</a>
 <a href="//slashdot.org/~hey!/journal/" title="Wednesday March 30 2005, @04:18PM" class="user_journal_display">Journal</a> </small>
 </span>
 		</div>
@@ -2177,9 +2177,9 @@ It does if they are stupid enough - remember, 2+2=5 for large values of 2!</p></
 	<div class="commentSub" id="comment_sub_39662927">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662339" onclick="return D2.selectParent(39662339)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20hey!%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662927" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662927" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662927" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20hey!%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662927" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662927" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662927" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2209,7 +2209,7 @@ It does if they are stupid enough - remember, 2+2=5 for large values of 2!</p></
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39661797"><p><div class="quote"><p><div class="quote"><p>Yeah, it's great that this is somehow your big issue now. But would it pain you all too much to get together and maybe concentrate on making the U.S. a country capable of putting a man into space again?</p></div><p>Space is only half of NASA's mission.</p></div><p>The other half is <a href="http://www.informationweek.com/news/government/info-management/229201060" title="informationweek.com">"outreach to the Muslim world"</a> [informationweek.com]. Priorities, man, priorities.</p></div>
+		<div id="comment_body_39661797"><p><div class="quote"><p><div class="quote"><p>Yeah, it's great that this is somehow your big issue now. But would it pain you all too much to get together and maybe concentrate on making the U.S. a country capable of putting a man into space again?</p></div><p>Space is only half of NASA's mission.</p></div><p>The other half is <a href="https://www.informationweek.com/news/government/info-management/229201060" title="informationweek.com">"outreach to the Muslim world"</a> [informationweek.com]. Priorities, man, priorities.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39661797">
@@ -2248,9 +2248,9 @@ It does if they are stupid enough - remember, 2+2=5 for large values of 2!</p></
 	<div class="commentSub" id="comment_sub_39664727">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661797" onclick="return D2.selectParent(39661797)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20shutdown -p now%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664727" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664727" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664727" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20shutdown -p now%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664727" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664727" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664727" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2371,9 +2371,9 @@ It does if they are stupid enough - remember, 2+2=5 for large values of 2!</p></
 	<div class="commentSub" id="comment_sub_39662097">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661817" onclick="return D2.selectParent(39661817)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20WindBourne%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662097" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662097" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662097" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20WindBourne%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662097" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662097" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662097" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2412,9 +2412,9 @@ It does if they are stupid enough - remember, 2+2=5 for large values of 2!</p></
 	<div class="commentSub" id="comment_sub_39661343">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661131" onclick="return D2.selectParent(39661131)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Anonymous Coward%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661343" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661343" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661343" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Anonymous Coward%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661343" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661343" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661343" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2455,9 +2455,9 @@ Ah lobbyists, is there anything they won't say...</div>
 	<div class="commentSub" id="comment_sub_39661657">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661343" onclick="return D2.selectParent(39661343)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20oh_my_080980980%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661657" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661657" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661657" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20oh_my_080980980%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661657" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661657" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661657" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2490,15 +2490,15 @@ Ah lobbyists, is there anything they won't say...</div>
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39661793"><p><div class="quote"><p>They would but 49 members of the engeniering branch, with no climate experience, quit and now work for a non-profit with ties in to the coal industry. Oh they also wote the letter in question for the article.</p></div><p>False, unless you have a different source from TFA. The letter was <i>organized</i> by someone from that non-profit. There is no indication whatsoever that all or the majority of the individuals who signed it are otherwise affiliated with that organization (Plants Need C02). Also, only most of them had engineering backgrounds, not all (one of them at least was a meteorologist). <a href="http://plantsneedco2.org/default.aspx?act=Newsletter.aspx&amp;category=In+The+News&amp;newsletterid=53&amp;menugroup=Home" title="plantsneedco2.org">Link</a> [plantsneedco2.org] to fill text and signatories.</p><p>Spreading falsehoods is not the way to invalidate climate change deniers. </p></div>
+		<div id="comment_body_39661793"><p><div class="quote"><p>They would but 49 members of the engeniering branch, with no climate experience, quit and now work for a non-profit with ties in to the coal industry. Oh they also wote the letter in question for the article.</p></div><p>False, unless you have a different source from TFA. The letter was <i>organized</i> by someone from that non-profit. There is no indication whatsoever that all or the majority of the individuals who signed it are otherwise affiliated with that organization (Plants Need C02). Also, only most of them had engineering backgrounds, not all (one of them at least was a meteorologist). <a href="https://plantsneedco2.org/default.aspx?act=Newsletter.aspx&amp;category=In+The+News&amp;newsletterid=53&amp;menugroup=Home" title="plantsneedco2.org">Link</a> [plantsneedco2.org] to fill text and signatories.</p><p>Spreading falsehoods is not the way to invalidate climate change deniers. </p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39661793">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661343" onclick="return D2.selectParent(39661343)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Baloroth%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661793" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661793" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661793" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Baloroth%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661793" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661793" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661793" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2567,7 +2567,7 @@ Ah lobbyists, is there anything they won't say...</div>
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~ColdWetDog">ColdWetDog <span class="uid">(752185)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39661923">		
 		on Thursday April 12, @02:25PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39661923">#39661923</a>)
-		<small><a href="http://www.lostrange.com/index.htm" title="http://www.lostrange.com/index.htm" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
+		<small><a href="https://www.lostrange.com/index.htm" title="https://www.lostrange.com/index.htm" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -2578,9 +2578,9 @@ Ah lobbyists, is there anything they won't say...</div>
 	<div class="commentSub" id="comment_sub_39661923">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661631" onclick="return D2.selectParent(39661631)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20ColdWetDog%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661923" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661923" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661923" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20ColdWetDog%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661923" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661923" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661923" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2619,9 +2619,9 @@ Ah lobbyists, is there anything they won't say...</div>
 	<div class="commentSub" id="comment_sub_39664543">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661923" onclick="return D2.selectParent(39661923)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Here's why restricting CO2 is all wrong.%20by%20mosb1000%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664543" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664543" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664543" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Here's why restricting CO2 is all wrong.%20by%20mosb1000%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664543" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664543" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664543" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2701,9 +2701,9 @@ Ah lobbyists, is there anything they won't say...</div>
 	<div class="commentSub" id="comment_sub_39664993">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662399" onclick="return D2.selectParent(39662399)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Not True Yet%20by%20turkeyfish%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664993" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664993" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664993" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Not True Yet%20by%20turkeyfish%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664993" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664993" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664993" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2731,7 +2731,7 @@ Ah lobbyists, is there anything they won't say...</div>
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Raul654">Raul654 <span class="uid">(453029)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39661933">		
 		on Thursday April 12, @02:26PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39661933">#39661933</a>)
-		<small><a href="http://en.wikipedia.org/wiki/User:Raul654" title="http://en.wikipedia.org/wiki/User:Raul654" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
+		<small><a href="https://en.wikipedia.org/wiki/User:Raul654" title="https://en.wikipedia.org/wiki/User:Raul654" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -2742,9 +2742,9 @@ Ah lobbyists, is there anything they won't say...</div>
 	<div class="commentSub" id="comment_sub_39661933">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661631" onclick="return D2.selectParent(39661631)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Raul654%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661933" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661933" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661933" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Raul654%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661933" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661933" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661933" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2778,15 +2778,15 @@ Ah lobbyists, is there anything they won't say...</div>
 	</div>
 	<div class="commentBody">
 		<div id="comment_body_39663243"><blockquote><div><p>Carbon dioxide might not be the worst greenhouse gas, but (A) we release orders of magnitude more of it than any other green house gas. You could eliminate every methane emitter on earth and not make a dent in global warming because well over 90% of it comes from the CO2 we release.</p></div></blockquote><p>
-Actually, <a href="http://en.wikipedia.org/wiki/Greenhouse_gas#Impact_of_a_given_gas_on_the_overall_greenhouse_effect" title="wikipedia.org">water vapor</a> [wikipedia.org] is the most common and (cumulatively) most potent greenhouse gas and is given off in roughly the same quantity as CO2 by most combustion and cellular respiration.  CO2 is a distant second, not 90%.  The difference is that water vapor has a fairly dynamic and self-regulating cycle where excess quantities of it fall out of the sky as rain.  CO2 kinda just sits there until plants can extract it from the air.</p></div>
+Actually, <a href="https://en.wikipedia.org/wiki/Greenhouse_gas#Impact_of_a_given_gas_on_the_overall_greenhouse_effect" title="wikipedia.org">water vapor</a> [wikipedia.org] is the most common and (cumulatively) most potent greenhouse gas and is given off in roughly the same quantity as CO2 by most combustion and cellular respiration.  CO2 is a distant second, not 90%.  The difference is that water vapor has a fairly dynamic and self-regulating cycle where excess quantities of it fall out of the sky as rain.  CO2 kinda just sits there until plants can extract it from the air.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39663243">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661933" onclick="return D2.selectParent(39661933)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Solandri%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663243" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663243" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663243" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Solandri%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663243" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663243" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663243" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2825,7 +2825,7 @@ Actually, <a href="http://en.wikipedia.org/wiki/Greenhouse_gas#Impact_of_a_given
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Remus+Shepherd">Remus Shepherd <span class="uid">(32833)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39662807">		 &lt;<a href="mailto:remus%40panix.com">remus@panix.com</a>&gt;
 		on Thursday April 12, @03:07PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39662807">#39662807</a>)
-		<small><a href="http://www.genocideman.com/" title="http://www.genocideman.com/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://www.genocideman.com/" title="https://www.genocideman.com/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -2836,9 +2836,9 @@ Actually, <a href="http://en.wikipedia.org/wiki/Greenhouse_gas#Impact_of_a_given
 	<div class="commentSub" id="comment_sub_39662807">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662379" onclick="return D2.selectParent(39662379)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Remus Shepherd%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662807" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662807" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662807" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, STFU and build a rocket, would you?%20by%20Remus Shepherd%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662807" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662807" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662807" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -2991,7 +2991,7 @@ Actually, <a href="http://en.wikipedia.org/wiki/Greenhouse_gas#Impact_of_a_given
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39662129"><p>I think SpaceX has that covered.<br><a href="http://www.spacex.com/updates.php" title="spacex.com">http://www.spacex.com/updates.php</a> [spacex.com]</p></div>
+		<div id="comment_body_39662129"><p>I think SpaceX has that covered.<br><a href="https://www.spacex.com/updates.php" title="spacex.com">https://www.spacex.com/updates.php</a> [spacex.com]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39662129">
@@ -3031,9 +3031,9 @@ And, from TFA:</p><p><div class="quote"><p>The 49-person letter was organized by
 	<div class="commentSub" id="comment_sub_39662337">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661131" onclick="return D2.selectParent(39661131)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Hey guys, do your jobs and and analyse the data%20by%201u3hr%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662337" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662337" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662337" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Hey guys, do your jobs and and analyse the data%20by%201u3hr%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662337" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662337" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662337" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3061,7 +3061,7 @@ And, from TFA:</p><p><div class="quote"><p>The 49-person letter was organized by
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~jnaujok">jnaujok <span class="uid">(804613)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39666119">		
 		on Thursday April 12, @06:02PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39666119">#39666119</a>)
-		<small><a href="http://naujok.com/jeff" title="http://naujok.com/jeff" class="user_homepage_display">Homepage</a>
+		<small><a href="https://naujok.com/jeff" title="https://naujok.com/jeff" class="user_homepage_display">Homepage</a>
 <a href="//slashdot.org/~jnaujok/journal/" title="Friday February 05 2010, @06:45PM" class="user_journal_display">Journal</a> </small>
 </span>
 		</div>
@@ -3073,9 +3073,9 @@ And, from TFA:</p><p><div class="quote"><p>The 49-person letter was organized by
 	<div class="commentSub" id="comment_sub_39666119">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662337" onclick="return D2.selectParent(39662337)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, do your jobs and and analyse the data%20by%20jnaujok%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666119" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666119" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666119" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Hey guys, do your jobs and and analyse the data%20by%20jnaujok%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666119" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666119" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666119" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3108,7 +3108,7 @@ And, from TFA:</p><p><div class="quote"><p>The 49-person letter was organized by
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39661137"><p><div class="quote"><p>Is the claim in this letter opinion or fact?</p></div><p>Well, from the <a href="http://plantsneedco2.org/default.aspx?act=Newsletter.aspx&amp;category=In+The+News&amp;newsletterid=53&amp;menugroup=Home" title="plantsneedco2.org">letter itself</a> [plantsneedco2.org]:</p><p><div class="quote"><p>March 28, 2012<br>
+		<div id="comment_body_39661137"><p><div class="quote"><p>Is the claim in this letter opinion or fact?</p></div><p>Well, from the <a href="https://plantsneedco2.org/default.aspx?act=Newsletter.aspx&amp;category=In+The+News&amp;newsletterid=53&amp;menugroup=Home" title="plantsneedco2.org">letter itself</a> [plantsneedco2.org]:</p><p><div class="quote"><p>March 28, 2012<br>
 The Honorable Charles Bolden, Jr.<br>
 NASA Administrator<br>
 NASA Headquarters<br>
@@ -3139,9 +3139,9 @@ Ref: Letter to NASA Administrator Charles Bolden, dated 3-26-12, regarding a req
 	<div class="commentSub" id="comment_sub_39661137">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=If It Is Fact ...%20by%20eldavojohn%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661137" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661137" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661137" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=If It Is Fact ...%20by%20eldavojohn%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661137" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661137" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661137" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3169,7 +3169,7 @@ Ref: Letter to NASA Administrator Charles Bolden, dated 3-26-12, regarding a req
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Rei">Rei <span class="uid">(128717)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39661223">		
 		on Thursday April 12, @01:55PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39661223">#39661223</a>)
-		<small><a href="http://www.cursor.org/" title="http://www.cursor.org/" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
+		<small><a href="https://www.cursor.org/" title="https://www.cursor.org/" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -3180,9 +3180,9 @@ Ref: Letter to NASA Administrator Charles Bolden, dated 3-26-12, regarding a req
 	<div class="commentSub" id="comment_sub_39661223">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661137" onclick="return D2.selectParent(39661137)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Rei%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661223" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661223" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661223" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Rei%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661223" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661223" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661223" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3251,20 +3251,20 @@ Ref: Letter to NASA Administrator Charles Bolden, dated 3-26-12, regarding a req
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Raul654">Raul654 <span class="uid">(453029)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39661719">		
 		on Thursday April 12, @02:16PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39661719">#39661719</a>)
-		<small><a href="http://en.wikipedia.org/wiki/User:Raul654" title="http://en.wikipedia.org/wiki/User:Raul654" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
+		<small><a href="https://en.wikipedia.org/wiki/User:Raul654" title="https://en.wikipedia.org/wiki/User:Raul654" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
 </span>
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39661719"><p>"Funny how the chicken little's so easily dismiss all the climate scientists that disagree with the claim that the sky is falling and demonize anyone who attempts to point them out."</p><p>What's funny how all those alleged "climate scientists" cited in this letter have yet to publish a single paper that contradicts the consensus view that global warming is real and man-made:   "That hypothesis was tested by analyzing 928 abstracts, published in refereed scientific journals between 1993 and 2003, and listed in the ISI database with the keywords &ldquo;climate change... Of all the papers, 75% fell into the first three categories, either explicitly or implicitly accepting the consensus view; 25% dealt with methods or paleoclimate, taking no position on current anthropogenic climate change. Remarkably, none of the papers disagreed with the consensus position." -- <a href="http://www.sciencemag.org/content/306/5702/1686.full" title="sciencemag.org" rel="nofollow">http://www.sciencemag.org/content/306/5702/1686.full</a> [sciencemag.org]</p></div>
+		<div id="comment_body_39661719"><p>"Funny how the chicken little's so easily dismiss all the climate scientists that disagree with the claim that the sky is falling and demonize anyone who attempts to point them out."</p><p>What's funny how all those alleged "climate scientists" cited in this letter have yet to publish a single paper that contradicts the consensus view that global warming is real and man-made:   "That hypothesis was tested by analyzing 928 abstracts, published in refereed scientific journals between 1993 and 2003, and listed in the ISI database with the keywords &ldquo;climate change... Of all the papers, 75% fell into the first three categories, either explicitly or implicitly accepting the consensus view; 25% dealt with methods or paleoclimate, taking no position on current anthropogenic climate change. Remarkably, none of the papers disagreed with the consensus position." -- <a href="https://www.sciencemag.org/content/306/5702/1686.full" title="sciencemag.org" rel="nofollow">https://www.sciencemag.org/content/306/5702/1686.full</a> [sciencemag.org]</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39661719">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661357" onclick="return D2.selectParent(39661357)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Raul654%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661719" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661719" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661719" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Raul654%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661719" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661719" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661719" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3303,9 +3303,9 @@ Ref: Letter to NASA Administrator Charles Bolden, dated 3-26-12, regarding a req
 	<div class="commentSub" id="comment_sub_39661889">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661719" onclick="return D2.selectParent(39661719)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20TheCarp%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661889" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661889" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661889" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20TheCarp%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661889" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661889" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661889" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3333,7 +3333,7 @@ Ref: Letter to NASA Administrator Charles Bolden, dated 3-26-12, regarding a req
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Raul654">Raul654 <span class="uid">(453029)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39662075">		
 		on Thursday April 12, @02:32PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39662075">#39662075</a>)
-		<small><a href="http://en.wikipedia.org/wiki/User:Raul654" title="http://en.wikipedia.org/wiki/User:Raul654" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://en.wikipedia.org/wiki/User:Raul654" title="https://en.wikipedia.org/wiki/User:Raul654" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -3344,9 +3344,9 @@ Ref: Letter to NASA Administrator Charles Bolden, dated 3-26-12, regarding a req
 	<div class="commentSub" id="comment_sub_39662075">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661889" onclick="return D2.selectParent(39661889)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Raul654%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662075" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662075" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662075" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Raul654%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662075" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662075" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662075" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3447,9 +3447,9 @@ In this case, you're correct in that it seems the arguments and evidence for a w
 	<div class="commentSub" id="comment_sub_39662107">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661889" onclick="return D2.selectParent(39661889)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Mindcontrolled%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662107" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662107" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662107" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Mindcontrolled%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662107" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662107" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662107" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3488,9 +3488,9 @@ In this case, you're correct in that it seems the arguments and evidence for a w
 	<div class="commentSub" id="comment_sub_39662247">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661889" onclick="return D2.selectParent(39661889)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20steveg%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662247" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662247" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662247" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20steveg%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662247" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662247" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662247" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3529,9 +3529,9 @@ In this case, you're correct in that it seems the arguments and evidence for a w
 	<div class="commentSub" id="comment_sub_39662277">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661889" onclick="return D2.selectParent(39661889)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20NeutronCowboy%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662277" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662277" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662277" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20NeutronCowboy%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662277" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662277" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662277" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3572,9 +3572,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39666095">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662277" onclick="return D2.selectParent(39662277)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Dr. Spork%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666095" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666095" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666095" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Dr. Spork%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666095" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666095" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666095" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3655,9 +3655,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39662533">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661837" onclick="return D2.selectParent(39661837)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%201u3hr%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662533" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662533" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662533" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%201u3hr%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662533" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662533" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662533" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3707,9 +3707,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39663677">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39663215" onclick="return D2.selectParent(39663215)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20jeff4747%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663677" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663677" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39663677" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20jeff4747%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663677" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663677" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39663677" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3778,9 +3778,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39664967">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39664619" onclick="return D2.selectParent(39664619)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20jeff4747%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664967" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664967" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664967" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20jeff4747%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664967" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664967" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664967" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3819,9 +3819,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39665745">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39664967" onclick="return D2.selectParent(39664967)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20BlueStrat%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39665745" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39665745" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39665745" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20BlueStrat%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39665745" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39665745" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39665745" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -3854,15 +3854,15 @@ That's how physicists and engineers can become know-it-alls about things which a
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39666277"><p>You're also forgetting Exxon Mobil made $19 billion in profits in 2009 - that's profits, not revenue. But not only did it DODGE ALL TAXES, it actually received a $156 million rebate from the IRS, according to its SEC filings. (<a href="http://sanders.senate.gov/graphics/exxon-sec.doc" title="senate.gov">source</a> [senate.gov])</p><p>So please, if you want to rage about Solyndra and you don't first rage about this, it will be obvious to all that you're full of shit. </p><p>Solyndra was a government investment that didn't pan out. Given the number of such investements that our government makes, it's kind of impressive that Solyndra is the only one to really go wrong. For example, the government made money on its loan guarantees to carmakes, while also keeping them from drowning and firing everyone.</p></div>
+		<div id="comment_body_39666277"><p>You're also forgetting Exxon Mobil made $19 billion in profits in 2009 - that's profits, not revenue. But not only did it DODGE ALL TAXES, it actually received a $156 million rebate from the IRS, according to its SEC filings. (<a href="https://sanders.senate.gov/graphics/exxon-sec.doc" title="senate.gov">source</a> [senate.gov])</p><p>So please, if you want to rage about Solyndra and you don't first rage about this, it will be obvious to all that you're full of shit. </p><p>Solyndra was a government investment that didn't pan out. Given the number of such investements that our government makes, it's kind of impressive that Solyndra is the only one to really go wrong. For example, the government made money on its loan guarantees to carmakes, while also keeping them from drowning and firing everyone.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39666277">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39665745" onclick="return D2.selectParent(39665745)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Dr. Spork%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666277" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666277" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666277" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Dr. Spork%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666277" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666277" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666277" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4002,20 +4002,20 @@ That's how physicists and engineers can become know-it-alls about things which a
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~Rei">Rei <span class="uid">(128717)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39662313">		
 		on Thursday April 12, @02:43PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39662313">#39662313</a>)
-		<small><a href="http://www.cursor.org/" title="http://www.cursor.org/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://www.cursor.org/" title="https://www.cursor.org/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39662313"><p><a href="http://tigger.uic.edu/~pdoran/012009_Doran_final.pdf" title="uic.edu">97-98% of active, publishing climatologists accept the consensus position.</a> [uic.edu]  And that's what matters.</p><p>What sort of idiot would claim that you only need a background in STEM to be a climate expert?  Climate science is an incredibly complex field, with certain subsets (such as dendrochronology) being about as nuanced as they come.  You could understand, for example, the summaries of the papers with only a STEM background, but you're certainly in no position to critique the research itself.</p></div>
+		<div id="comment_body_39662313"><p><a href="https://tigger.uic.edu/~pdoran/012009_Doran_final.pdf" title="uic.edu">97-98% of active, publishing climatologists accept the consensus position.</a> [uic.edu]  And that's what matters.</p><p>What sort of idiot would claim that you only need a background in STEM to be a climate expert?  Climate science is an incredibly complex field, with certain subsets (such as dendrochronology) being about as nuanced as they come.  You could understand, for example, the summaries of the papers with only a STEM background, but you're certainly in no position to critique the research itself.</p></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39662313">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661939" onclick="return D2.selectParent(39661939)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Rei%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662313" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662313" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662313" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20Rei%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662313" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662313" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662313" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4160,15 +4160,15 @@ That's how physicists and engineers can become know-it-alls about things which a
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39661711">Just for reference, the disputed and now <a href="http://www.universetoday.com/94468/1981-climate-change-predictions-were-eerily-accurate/" title="universetoday.com">famous</a> [universetoday.com] <a href="http://en.wikipedia.org/wiki/James_Hansen" title="wikipedia.org">Hansen</a> [wikipedia.org] climate study (NASA/GISS) from 1981 that exactly predicts CO2 effects on the mean temperature today.</div>
+		<div id="comment_body_39661711">Just for reference, the disputed and now <a href="https://www.universetoday.com/94468/1981-climate-change-predictions-were-eerily-accurate/" title="universetoday.com">famous</a> [universetoday.com] <a href="https://en.wikipedia.org/wiki/James_Hansen" title="wikipedia.org">Hansen</a> [wikipedia.org] climate study (NASA/GISS) from 1981 that exactly predicts CO2 effects on the mean temperature today.</div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39661711">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661137" onclick="return D2.selectParent(39661137)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20muon-catalyzed%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661711" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661711" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661711" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20muon-catalyzed%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661711" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661711" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661711" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4207,9 +4207,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39661715">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661137" onclick="return D2.selectParent(39661137)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20i kan reed%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661715" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661715" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661715" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20i kan reed%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661715" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661715" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661715" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4248,9 +4248,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39662005">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661137" onclick="return D2.selectParent(39661137)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20demachina%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662005" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662005" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662005" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:If It Is Fact ...%20by%20demachina%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662005" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662005" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662005" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4289,9 +4289,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39662055">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661137" onclick="return D2.selectParent(39661137)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=JSC can suck it%20by%20Overzeetop%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662055" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662055" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662055" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=JSC can suck it%20by%20Overzeetop%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662055" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662055" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662055" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4382,9 +4382,9 @@ That's how physicists and engineers can become know-it-alls about things which a
 	<div class="commentSub" id="comment_sub_39662859">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661865" onclick="return D2.selectParent(39661865)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Specious use of percentages%20by%20DanielRavenNest%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662859" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662859" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662859" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Specious use of percentages%20by%20DanielRavenNest%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662859" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662859" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662859" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4554,7 +4554,7 @@ Those two facts seem to put them at the forefront of scientific research into th
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39661221">Follow this part of the article:<p><div class="quote"><p>The 49-person letter was organized by Leighton Steward, chairman of Plants Need CO2, a non-profit with ties to the coal industry.</p></div><p>To <a href="http://plantsneedco2.org/default.aspx" title="plantsneedco2.org" rel="nofollow">this site</a> [plantsneedco2.org] and promptly commit suicide?  From that site:</p><p><div class="quote"><p>Earth and its inhabitants need more, not less, CO2.<br>
+		<div id="comment_body_39661221">Follow this part of the article:<p><div class="quote"><p>The 49-person letter was organized by Leighton Steward, chairman of Plants Need CO2, a non-profit with ties to the coal industry.</p></div><p>To <a href="https://plantsneedco2.org/default.aspx" title="plantsneedco2.org" rel="nofollow">this site</a> [plantsneedco2.org] and promptly commit suicide?  From that site:</p><p><div class="quote"><p>Earth and its inhabitants need more, not less, CO2.<br>
 More CO2 means:<br> <br>
 
     More Plant Growth<br>
@@ -4568,9 +4568,9 @@ CO2 is Earth's greatest airborne fertilizer.  Without it - No Life On Earth!</p>
 	<div class="commentSub" id="comment_sub_39661221">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Did Anyone Else%20by%20eldavojohn%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661221" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661221" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661221" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Did Anyone Else%20by%20eldavojohn%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661221" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661221" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661221" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4609,9 +4609,9 @@ CO2 is Earth's greatest airborne fertilizer.  Without it - No Life On Earth!</p>
 	<div class="commentSub" id="comment_sub_39661231">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=The reason%20by%20Anonymous Coward%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661231" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661231" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661231" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=The reason%20by%20Anonymous Coward%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661231" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661231" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661231" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4650,9 +4650,9 @@ CO2 is Earth's greatest airborne fertilizer.  Without it - No Life On Earth!</p>
 	<div class="commentSub" id="comment_sub_39661295">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=I like NASA's response%20by%20sandytaru%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661295" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661295" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661295" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=I like NASA's response%20by%20sandytaru%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661295" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661295" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661295" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4691,9 +4691,9 @@ CO2 is Earth's greatest airborne fertilizer.  Without it - No Life On Earth!</p>
 	<div class="commentSub" id="comment_sub_39661443">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Breaking news!%20by%20GameboyRMH%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661443" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661443" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661443" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Breaking news!%20by%20GameboyRMH%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661443" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661443" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661443" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4762,9 +4762,9 @@ CO2 is Earth's greatest airborne fertilizer.  Without it - No Life On Earth!</p>
 	<div class="commentSub" id="comment_sub_39661531">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Maybe a bit far...%20by%20Troyusrex%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661531" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661531" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661531" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Maybe a bit far...%20by%20Troyusrex%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661531" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661531" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661531" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4810,9 +4810,9 @@ The point is not that people are mistaken, or inclined to be sceptical, but rath
 	<div class="commentSub" id="comment_sub_39666619">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39661531" onclick="return D2.selectParent(39661531)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Maybe a bit far...%20by%20KeensMustard%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666619" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666619" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39666619" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:Maybe a bit far...%20by%20KeensMustard%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666619" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666619" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39666619" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4851,9 +4851,9 @@ The point is not that people are mistaken, or inclined to be sceptical, but rath
 	<div class="commentSub" id="comment_sub_39661621">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Do any of them know what they're talking about?%20by%20wilson_c%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661621" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661621" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661621" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Do any of them know what they're talking about?%20by%20wilson_c%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661621" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661621" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661621" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4922,7 +4922,7 @@ The point is not that people are mistaken, or inclined to be sceptical, but rath
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~dlapine">dlapine <span class="uid">(131282)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39661689">		 &lt;<a href="mailto:(ude.cuiu.ascn)+(ta)+(enipald)">(ude.cuiu.ascn) (ta) (enipald)</a>&gt;
 		on Thursday April 12, @02:15PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39661689">#39661689</a>)
-		<small><a href="http://slashdot.org/" title="http://slashdot.org/" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
+		<small><a href="https://slashdot.org/" title="https://slashdot.org/" class="user_homepage_display" rel="nofollow">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -4933,9 +4933,9 @@ The point is not that people are mistaken, or inclined to be sceptical, but rath
 	<div class="commentSub" id="comment_sub_39661689">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Ex-NASA employees%20by%20dlapine%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661689" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661689" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661689" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Ex-NASA employees%20by%20dlapine%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661689" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661689" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661689" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -4974,9 +4974,9 @@ The point is not that people are mistaken, or inclined to be sceptical, but rath
 	<div class="commentSub" id="comment_sub_39661701">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Not convincing%20by%20HarrySquatter%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661701" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661701" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661701" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Not convincing%20by%20HarrySquatter%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661701" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661701" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661701" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5018,9 +5018,9 @@ If I question the carbon model in global warming theory, people claim it's unsci
 	<div class="commentSub" id="comment_sub_39661911">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Burn the heretic!%20by%20Petron%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661911" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661911" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39661911" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Burn the heretic!%20by%20Petron%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661911" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661911" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39661911" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5059,9 +5059,9 @@ If I question the carbon model in global warming theory, people claim it's unsci
 	<div class="commentSub" id="comment_sub_39662101">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=counter argument is deceptive%20by%20superwiz%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662101" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662101" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662101" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=counter argument is deceptive%20by%20superwiz%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662101" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662101" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662101" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5130,9 +5130,9 @@ If I question the carbon model in global warming theory, people claim it's unsci
 	<div class="commentSub" id="comment_sub_39664345">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662101" onclick="return D2.selectParent(39662101)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:counter argument is deceptive%20by%20NeutronCowboy%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664345" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664345" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39664345" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:counter argument is deceptive%20by%20NeutronCowboy%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664345" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664345" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39664345" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5220,7 +5220,7 @@ If I question the carbon model in global warming theory, people claim it's unsci
 			<span class="by"><span class="byby">by </span><a href="//slashdot.org/~starfishsystems">starfishsystems <span class="uid">(834319)</span></a></span><span class="writes" style="display:none"> writes:</span> 
 			<span class="otherdetails" id="comment_otherdetails_39662109">		
 		on Thursday April 12, @02:33PM (<span class="ind"></span><a href="//science.slashdot.org/comments.pl?sid=2782855&amp;cid=39662109">#39662109</a>)
-		<small><a href="http://www.starfishsystems.ca/" title="http://www.starfishsystems.ca/" class="user_homepage_display">Homepage</a> </small>
+		<small><a href="https://www.starfishsystems.ca/" title="https://www.starfishsystems.ca/" class="user_homepage_display">Homepage</a> </small>
 </span>
 		</div>
 	</div>
@@ -5239,9 +5239,9 @@ Now, a group of people want to disagree with NASA on this issue, that's fine.  W
 	<div class="commentSub" id="comment_sub_39662109">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Politics or science%20by%20starfishsystems%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662109" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662109" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662109" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Politics or science%20by%20starfishsystems%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662109" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662109" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662109" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5280,9 +5280,9 @@ Now, a group of people want to disagree with NASA on this issue, that's fine.  W
 	<div class="commentSub" id="comment_sub_39662377">
 <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Lame, obvious appeal-to-authority%20by%20benjfowler%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662377" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662377" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662377" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Lame, obvious appeal-to-authority%20by%20benjfowler%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662377" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662377" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662377" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5375,7 +5375,7 @@ Now, a group of people want to disagree with NASA on this issue, that's fine.  W
 		</div>
 	</div>
 	<div class="commentBody">
-		<div id="comment_body_39664781">Um....you have that 100% <a href="http://en.wikipedia.org/wiki/Scientific_method" title="wikipedia.org">backwards</a> [wikipedia.org].<blockquote><div><p>The chief characteristic which distinguishes a scientific method of inquiry from other methods of acquiring knowledge is that scientists seek to let reality speak for itself, and contradict their theories about it when those theories are incorrect,[4] i. e., falsifiability.</p></div></blockquote></div>
+		<div id="comment_body_39664781">Um....you have that 100% <a href="https://en.wikipedia.org/wiki/Scientific_method" title="wikipedia.org">backwards</a> [wikipedia.org].<blockquote><div><p>The chief characteristic which distinguishes a scientific method of inquiry from other methods of acquiring knowledge is that scientists seek to let reality speak for itself, and contradict their theories about it when those theories are incorrect,[4] i. e., falsifiability.</p></div></blockquote></div>
 	</div>
 
 	<div class="commentSub" id="comment_sub_39664781">
@@ -5427,9 +5427,9 @@ Fossil fuel people are all for keeping the status quo.  The rest of would like t
 	<div class="commentSub" id="comment_sub_39662117">
 <span class="ind"></span><a class="btn link" href="//science.slashdot.org/comments.pl?sid=2782855&amp;threshold=1&amp;commentsort=0&amp;mode=thread&amp;cid=39662013" onclick="return D2.selectParent(39662013)">Parent</a> <a href="#" class="comment_share_toggle btn link">Share</a>
 <div class="comment_share sharethis-0 hide"><span class="au"></span>
-	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:seems pretty logical to affect what you can....%20by%20oh_my_080980980%20%40slashdot%20http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662117" target="_blank">twitter</a>
-	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662117" target="_blank">facebook</a>
-        <a class="g" href="http://plus.google.com/share?url=http://science.slashdot.org/comments.pl?sid=2782855%26cid=39662117" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
+	<a class="t slashpop" href="https://twitter.com/intent/tweet?text=Re:seems pretty logical to affect what you can....%20by%20oh_my_080980980%20%40slashdot%20https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662117" target="_blank">twitter</a>
+	<a class="f slashpop" href="https://www.facebook.com/sharer/sharer.php?u=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662117" target="_blank">facebook</a>
+        <a class="g" href="https://plus.google.com/share?url=https://science.slashdot.org/comments.pl?sid=2782855%26cid=39662117" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/></a>
 
 
 </div>
@@ -5809,7 +5809,7 @@ apply_updates_when(		'at-end', true);
         </ul>
 	</nav>
 </footer>
-	<section class="bq"><blockquote class="msg grid_24" cite="http://slashdot.org"><p>First study the enemy.  Seek weakness.
+	<section class="bq"><blockquote class="msg grid_24" cite="https://slashdot.org"><p>First study the enemy.  Seek weakness.
 		-- Romulan Commander, "Balance of Terror", stardate 1709.2</p><span class="slant"></span></blockquote></section>
 <footer id="ft" class="grid_24">
 		<nav class="grid_10" role="footer">
@@ -5817,10 +5817,10 @@ apply_updates_when(		'at-end', true);
 			<li><a href="//slashdot.org/faq">FAQ</a></li>
 			<li><a href="//slashdot.org/archive.pl">Story Archive</a></li>
 			<li><a href="//slashdot.org/hof.shtml">Hall of Fame</a></li>
-			<li><a href="http://geek.net/advertising">Advertising</a></li>
-			<li><a href="http://geek.net/terms.php">Terms</a></li>
-			<li><a href="http://geek.net/privacy-statement">Privacy</a></li>
-			<li><a href="http://geek.net/opt-out-choices">Cookies/Opt Out</li>
+			<li><a href="https://geek.net/advertising">Advertising</a></li>
+			<li><a href="https://geek.net/terms.php">Terms</a></li>
+			<li><a href="https://geek.net/privacy-statement">Privacy</a></li>
+			<li><a href="https://geek.net/opt-out-choices">Cookies/Opt Out</li>
 			<li><a href="//slashdot.org/faq/slashmeta.shtml">About</a></li>
 
 			<li>
@@ -5829,11 +5829,11 @@ apply_updates_when(		'at-end', true);
 					If you have problems or questions with Slashdot, email us at <a href="mailto:feedback at this domain"><em>feedback</em> at <em>this domain</em></a>.
 			    </span>
 			</li>
-         <li><a href="http://slashdot.jp">Slashdot Japan</a></li>
+         <li><a href="https://slashdot.jp">Slashdot Japan</a></li>
 		    </ul>
 		</nav>
                 
-		<div class="grid_14 tright tm">Trademarks property of their respective owners. Comments owned by the poster. <span class="nobr">&copy; 2012 All Rights Reserved. <a href="http://geek.net" title="The Mother Ship">Geeknet, Inc.</a></span></div>
+		<div class="grid_14 tright tm">Trademarks property of their respective owners. Comments owned by the poster. <span class="nobr">&copy; 2012 All Rights Reserved. <a href="https://geek.net" title="The Mother Ship">Geeknet, Inc.</a></span></div>
 </footer>
 
  
@@ -5859,7 +5859,7 @@ COMSCORE.beacon({
   c15:""
 });
 </script>
-<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2"></noscript>
+<noscript><img src="https://b.scorecardresearch.com/p?c1=2&amp;c2=6035546&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="comScore2"></noscript>
 <script id="after-content" type="text/javascript">
 (function( $, fn, console ){
 	$ && fn && $(function(){ fn($, console); });

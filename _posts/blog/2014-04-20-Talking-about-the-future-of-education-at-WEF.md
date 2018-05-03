@@ -17,7 +17,7 @@ I was invited to talk the World Economic Forum in Panama earlier this month. It 
 
 
 
-[The session](http://www.weforum.org/sessions/summary/educating-tomorrow/) was translated into several languages and broadcasted live on Internet.<!--more--> Here´s the link to the video:
+[The session](https://www.weforum.org/sessions/summary/educating-tomorrow/) was translated into several languages and broadcasted live on Internet.<!--more--> Here´s the link to the video:
 
 <iframe src="https://new.livestream.com/accounts/1909571/events/2867685/videos/46938547/player?autoPlay=false&amp;mute=false&amp;width=&amp;height=" width="100%" height="300px" frameborder="0" scrolling="no"></iframe>
 
@@ -28,4 +28,4 @@ The gist of my intervention was that:
 * It is very important to raise the public perception of Science and Tech; via Outreach, and via (local) role models.
 * Science (and Tech) are not silos, they are skills that permeate all across multiple applications, areas and sectors. Easing horizontal mobility would catalyze it´s impact. E.g. Moving from academia to the  private sector.
 
-You can read more about the session, the video and Twitter chatter on [this link](http://www.weforum.org/sessions/summary/educating-tomorrow/)
+You can read more about the session, the video and Twitter chatter on [this link](https://www.weforum.org/sessions/summary/educating-tomorrow/)

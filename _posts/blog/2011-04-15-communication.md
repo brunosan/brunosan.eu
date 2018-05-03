@@ -23,4 +23,4 @@ title: Communication
 ---
 <pre>I meant what I said, and I said what I thought, 
 but it doesn't mean you understood what I wanted.</pre>
-<p style="text-align:right;"><a href="http://twitter.com/#!/brunosan/status/58321141776924672">random</a></p>
+<p style="text-align:right;"><a href="https://twitter.com/#!/brunosan/status/58321141776924672">random</a></p>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE html 
    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+   "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
 
 
 <head>
@@ -1740,12 +1740,12 @@
 <div id="contenido-pie">
 		<div class="instituciones">
 			<ul>
-				<li><a href="http://www.ign.es" title="Gobierno de España - Ministerio de Fomento"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo-fomento.gif" alt="Gobierno de España - Ministerio de Fomento" /></a></li>
-				<li><a href="http://www.mineco.es" title="Gobierno de España - Ministerio de Economía y Competitividad"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo_MINECO.jpg" alt="Gobierno de España - Ministerio de Economía y competitividad" /></a></li>
+				<li><a href="https://www.ign.es" title="Gobierno de España - Ministerio de Fomento"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo-fomento.gif" alt="Gobierno de España - Ministerio de Fomento" /></a></li>
+				<li><a href="https://www.mineco.es" title="Gobierno de España - Ministerio de Economía y Competitividad"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo_MINECO.jpg" alt="Gobierno de España - Ministerio de Economía y competitividad" /></a></li>
 				
-				<li><a href="http://www.csic.es" title="CSIC - Consejo Superior de Investigaciones Científicas"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo-csic.gif" alt="CSIC - Consejo Superior de Investigaciones Científicas" /></a></li>
-				<li><a href="http://www.gtc.iac.es" title="GRANTECAN - Gran Telescopio Canarias"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo-grantecan.gif" alt="GRANTECAN - Gran Telescopio Canarias" /></a></li>
-				<li><a href="http://www.iac.es" title="IAC - Instituto de Astrofísica de Canarias"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo-iac.gif" alt="IAC - Instituto de Astrofísica de Canarias" /></a></li>
+				<li><a href="https://www.csic.es" title="CSIC - Consejo Superior de Investigaciones Científicas"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo-csic.gif" alt="CSIC - Consejo Superior de Investigaciones Científicas" /></a></li>
+				<li><a href="https://www.gtc.iac.es" title="GRANTECAN - Gran Telescopio Canarias"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo-grantecan.gif" alt="GRANTECAN - Gran Telescopio Canarias" /></a></li>
+				<li><a href="https://www.iac.es" title="IAC - Instituto de Astrofísica de Canarias"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo-iac.gif" alt="IAC - Instituto de Astrofísica de Canarias" /></a></li>
 			</ul>
 			
 		</div>
@@ -1757,7 +1757,7 @@
 						<li><a href="/opencms/opencms/accesibilidad.html" title="Accesibilidad. Tecla de acceso='5'" accesskey="5">Accesibilidad</a></li>
 						<li><a href="/opencms/opencms/index.jsp" title="Inicio. Tecla de acceso='1'" accesskey="1">Inicio</a></li>
 						<li class="logo-mci">
-							<a href="http://www.mineco.es" title="Gobierno de España - Ministerio de Economía y Competitividad"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo_MINECO.jpg" alt="Gobierno de España - Ministerio de Economía y Competitividad" /></a>
+							<a href="https://www.mineco.es" title="Gobierno de España - Ministerio de Economía y Competitividad"><img src="/opencms/export/system/modules/com.opencms.cic/resources/imagenes/logo_MINECO.jpg" alt="Gobierno de España - Ministerio de Economía y Competitividad" /></a>
 							<span class="resaltado">La RIA</span> está financiada por la <span class="resaltado">Secretaría de Estado de Investigación, Desarrollo e Innovación (SEIDI) del 
 Ministerio de Economía y Competitividad (MINECO).</span>
 						</li>
@@ -1766,9 +1766,9 @@ Ministerio de Economía y Competitividad (MINECO).</span>
 			</div>
 			<div class="menu-validacion">
 				<ul>
-					<li class="menu-validacion"><a href="http://validator.w3.org/check?uri=referer" title="XHTML 1.0 Válido">XHTML 1.0 Válido</a></li>
-					<li class="menu-validacion"><a href="http://jigsaw.w3.org/css-validator/check/referer" title="CSS2 Válido">CSS2 Válido</a></li>
-					<li class="menu-validacion"><a href="http://www.tawdis.net/taw3/cms/es" title="WAI AA">WAI AA</a></li>
+					<li class="menu-validacion"><a href="https://validator.w3.org/check?uri=referer" title="XHTML 1.0 Válido">XHTML 1.0 Válido</a></li>
+					<li class="menu-validacion"><a href="https://jigsaw.w3.org/css-validator/check/referer" title="CSS2 Válido">CSS2 Válido</a></li>
+					<li class="menu-validacion"><a href="https://www.tawdis.net/taw3/cms/es" title="WAI AA">WAI AA</a></li>
 				</ul>
 			</div>
 		</div>

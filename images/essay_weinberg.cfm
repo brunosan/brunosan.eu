@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" >
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" >
 <head>
 <TITLE>A Designer Universe?</TITLE>
 <META NAME='author' CONTENT='Anton Skorucak'>
@@ -32,7 +32,7 @@ google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 <BR>
 
@@ -45,7 +45,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 			<li><a href="/Directories/Index.cfm" >Directories</a></li>			
 	        <li><a href="/Community/JobBoard.cfm" >Job Board</a></li>
 			<li><a href="/Education/AskExperts/Index.cfm" >Ask The Experts</a></li>	        
-			<li><a href="http://www.xump.com">Science Supplies</a></li>
+			<li><a href="https://www.xump.com">Science Supplies</a></li>
 			<li><a href="/Fun/EinsteinCards/Index.cfm" >eGreetings</a></li>
 			<li><a href="/Fun/Index.cfm" >Fun</a></li>
 			<li><a href="/SiteInfo/Index.cfm" >About Us</a></li>
@@ -760,7 +760,7 @@ I have been asked to comment on whether the universe shows signs of having been 
 					<!-- Column 2 start -->
 <h1>Search</h1>
 <div id="cse-search-form" style="width: 100%;">Loading</div>
-<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script src="https://www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript"> 
   google.load('search', '1');
   google.setOnLoadCallback(function() {
@@ -768,11 +768,11 @@ I have been asked to comment on whether the universe shows signs of having been 
     customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
     var options = new google.search.DrawOptions();
     options.setAutoComplete(true);
-    options.enableSearchboxOnly("http://www.physlink.com/SearchResults.cfm");
+    options.enableSearchboxOnly("https://www.physlink.com/SearchResults.cfm");
     customSearchControl.draw('cse-search-form', options);
   }, true);
 </script>
-<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+<link rel="stylesheet" href="https://www.google.com/cse/style/look/default.css" type="text/css" />
 <style type="text/css">
   input.gsc-input {
     border-color: #BCCDF0;
@@ -794,7 +794,7 @@ google_ad_height = 600;
 //-->
 </script>
 <script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 <BR>
 
@@ -808,13 +808,13 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 					<!-- Column 3 start -->
 
 <h1>Sponsors</h1>			
-<a href="http://dornsife.usc.edu/physics/home/" target="_blank"><img src="/Images/Sponsor-USC.gif"  height="60" width="180" alt="USC University of Southern California Dornsife College Physics and Astronomy Department" border="0"/>	</a>					
-<a href="http://www.physics.mcmaster.ca/" target="_blank"><img src="/Images/Sponsor-McMaster.gif" height="60" width="180" alt="McMaster University Physics and Astronomy Department" border="0" />			</a>
+<a href="https://dornsife.usc.edu/physics/home/" target="_blank"><img src="/Images/Sponsor-USC.gif"  height="60" width="180" alt="USC University of Southern California Dornsife College Physics and Astronomy Department" border="0"/>	</a>					
+<a href="https://www.physics.mcmaster.ca/" target="_blank"><img src="/Images/Sponsor-McMaster.gif" height="60" width="180" alt="McMaster University Physics and Astronomy Department" border="0" />			</a>
 					
 <h1>Science Quote</h1>
 
 	
-'A hundred times every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving…'<br><br><A HREF='http://en.wikipedia.org/wiki/Albert_Einstein' TARGET='_blank'><B>Albert Einstein</B></A><BR>(<I>1879-1955</I>)
+'A hundred times every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving…'<br><br><A HREF='https://en.wikipedia.org/wiki/Albert_Einstein' TARGET='_blank'><B>Albert Einstein</B></A><BR>(<I>1879-1955</I>)
 
 
 
@@ -826,9 +826,9 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 	
 
 
-<p><A HREF='http://www.xump.com/science/Neon-Pin-Art.cfm'><IMG SRC='//www.xump.com/Images/Products/Neon-Pin-Art-150A.jpg' ALT='Image of Neon Pin Art. Click on this image for more info.' BORDER='0' height="150" width="150"></A>
+<p><A HREF='https://www.xump.com/science/Neon-Pin-Art.cfm'><IMG SRC='//www.xump.com/Images/Products/Neon-Pin-Art-150A.jpg' ALT='Image of Neon Pin Art. Click on this image for more info.' BORDER='0' height="150" width="150"></A>
 
-<A HREF='http://www.xump.com/science/Neon-Pin-Art.cfm'><B>Neon Pin Art</B></A><BR>
+<A HREF='https://www.xump.com/science/Neon-Pin-Art.cfm'><B>Neon Pin Art</B></A><BR>
 
 Regular Price: <FONT face='Verdana, Arial, Helvetica, sans-serif'><S>$19.99</S></FONT><BR>
 <FONT color="#CC0000"><B>Today's Price: $12.00</B></FONT></B><BR>
@@ -849,25 +849,25 @@ This fun neon pin art features blacklight sensitive pins! Buy it now! Deal ends 
 Here are our physics &amp; astronomy bestsellers:<BR>
 
 
-<a href="http://www.xump.com/science/SolarRadiometer.cfm" target="_blank"><FONT size="-2">Solar Radiometer</FONT></a><BR>
+<a href="https://www.xump.com/science/SolarRadiometer.cfm" target="_blank"><FONT size="-2">Solar Radiometer</FONT></a><BR>
 
-<a href="http://www.xump.com/science/GalileoThermometer-12inch.cfm" target="_blank"><FONT size="-2">12 inch Galileo Thermometer</FONT></a><BR>
+<a href="https://www.xump.com/science/GalileoThermometer-12inch.cfm" target="_blank"><FONT size="-2">12 inch Galileo Thermometer</FONT></a><BR>
 
-<a href="http://www.xump.com/science/Wood-Grain-Newtons-Cradle.cfm" target="_blank"><FONT size="-2">Wood Grain Newtons Cradle</FONT></a><BR>
+<a href="https://www.xump.com/science/Wood-Grain-Newtons-Cradle.cfm" target="_blank"><FONT size="-2">Wood Grain Newtons Cradle</FONT></a><BR>
 
-<a href="http://www.xump.com/science/Deluxe-Water-Rocket-Set.cfm" target="_blank"><FONT size="-2">Deluxe Water Rocket Set</FONT></a><BR>
+<a href="https://www.xump.com/science/Deluxe-Water-Rocket-Set.cfm" target="_blank"><FONT size="-2">Deluxe Water Rocket Set</FONT></a><BR>
 
-<a href="http://www.xump.com/science/Periscope.cfm" target="_blank"><FONT size="-2">Periscope</FONT></a><BR>
+<a href="https://www.xump.com/science/Periscope.cfm" target="_blank"><FONT size="-2">Periscope</FONT></a><BR>
 
-<a href="http://www.xump.com/science/TopSecretTop.cfm" target="_blank"><FONT size="-2">Top Secret - Spinning Top</FONT></a><BR>
+<a href="https://www.xump.com/science/TopSecretTop.cfm" target="_blank"><FONT size="-2">Top Secret - Spinning Top</FONT></a><BR>
 
-<a href="http://www.xump.com/science/SpaceWonderGyroscope.cfm" target="_blank"><FONT size="-2">Space Wonder Gyroscope</FONT></a><BR>
+<a href="https://www.xump.com/science/SpaceWonderGyroscope.cfm" target="_blank"><FONT size="-2">Space Wonder Gyroscope</FONT></a><BR>
 
-<a href="http://www.xump.com/science/DiscoveryPack.cfm" target="_blank"><FONT size="-2">Discovery Pack</FONT></a><BR>
+<a href="https://www.xump.com/science/DiscoveryPack.cfm" target="_blank"><FONT size="-2">Discovery Pack</FONT></a><BR>
 
-<a href="http://www.xump.com/science/CricketAmberKit.cfm" target="_blank"><FONT size="-2">Cricket, Locust, Beetle and Crab</FONT></a><BR>
+<a href="https://www.xump.com/science/CricketAmberKit.cfm" target="_blank"><FONT size="-2">Cricket, Locust, Beetle and Crab</FONT></a><BR>
 
-<a href="http://www.xump.com/science/Solar-Rover-Kit.cfm" target="_blank"><FONT size="-2">Solar Rover Kit</FONT></a><BR>
+<a href="https://www.xump.com/science/Solar-Rover-Kit.cfm" target="_blank"><FONT size="-2">Solar Rover Kit</FONT></a><BR>
 
 </p>
 	
@@ -889,7 +889,7 @@ Here are our physics &amp; astronomy bestsellers:<BR>
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 

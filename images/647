@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -66,7 +66,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 					<div id="stripinside">
             
 			        <div id="headstripleft">
-					<p><a href="http://worldbank.org">The World Bank</a> - Working for a world free of poverty </p>
+					<p><a href="https://worldbank.org">The World Bank</a> - Working for a world free of poverty </p>
                   </div> <!-- /headstripleft -->
         
               </div> <!-- /stripinside -->
@@ -76,7 +76,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 
 <div id="headerx" class = "en_logo">
 
-<a href="http://blogs.worldbank.org" id="ielogo" target="_self"><span id="iespan">url</span></a>	
+<a href="https://blogs.worldbank.org" id="ielogo" target="_self"><span id="iespan">url</span></a>	
 
 
 	<div id="top">
@@ -141,7 +141,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 
   
   <div class="content">
-    <div class="b_nav_div"><select class="b_navigate" onchange="window.location.href=this.value"><option value="">All Blogs</option><option value="http://menablog.worldbank.org">Arab Voices and Views: Middle East and North Africa</option><option value="http://blogs.worldbank.org/africacan/">Africa Can end poverty</option><option value="http://blogs.worldbank.org/allaboutfinance/">All About Finance</option><option value="http://blogs.worldbank.org/conflict/">Conflict and Development</option><option value="http://blogs.worldbank.org/impactevaluations/">Development Impact</option><option value="http://blogs.worldbank.org/climatechange/">Development in a Changing Climate</option><option value="http://blogs.worldbank.org/dmblog/">Development Marketplace</option><option value="http://blogs.worldbank.org/eastasiapacific/">East Asia & Pacific on the rise</option><option value="http://blogs.worldbank.org/education/">Education for Global Development</option><option value="http://blogs.worldbank.org/edutech/">EduTech - ICT & Education</option><option value="http://blogs.worldbank.org/endpovertyinsouthasia/">End Poverty in South Asia</option><option value="http://blogs.worldbank.org/governance/">Governance for Development</option><option value="http://blogs.worldbank.org/growth/">Growth & Crisis</option><option value="http://blogs.worldbank.org/ic4d/">Information and Communications for Development</option><option value="http://blogs.worldbank.org/insidetheweb/">Inside the Web</option><option value="http://blogs.worldbank.org/health/">Investing in Health</option><option value="http://blogs.worldbank.org/latinamerica/">Latin America</option><option value="http://blogs.worldbank.org/developmenttalk/">Let's Talk Development</option><option value="http://blogs.worldbank.org/nasikiliza/">nasikiliza</option><option value="http://blogs.worldbank.org/opendata/">Open Data</option><option value="http://blogs.worldbank.org/peoplemove/">People Move</option><option value="http://blogs.worldbank.org/publicsphere/">People, Spaces, Deliberation</option><option value="http://blogs.worldbank.org/miga/">Political Risk and Emerging Markets</option><option value="http://blogs.worldbank.org/psd/">Private Sector Development</option><option value="http://blogs.worldbank.org/prospects/">Prospects for Development</option><option value="http://blogs.worldbank.org/sustainablecities/">Sustainable Cities</option><option value="http://blogs.worldbank.org/energy/">Sustainable Energy to End Poverty</option><option value="http://blogs.worldbank.org/water/">The Water Blog</option><option value="http://blogs.worldbank.org/transport/">Transport for Development</option><option value="http://blogs.worldbank.org/voices/">World Bank Voices</option><option value="http://youthink.worldbank.org/blog">Youthink! Blog</option></select></div>  </div>
+    <div class="b_nav_div"><select class="b_navigate" onchange="window.location.href=this.value"><option value="">All Blogs</option><option value="https://menablog.worldbank.org">Arab Voices and Views: Middle East and North Africa</option><option value="https://blogs.worldbank.org/africacan/">Africa Can end poverty</option><option value="https://blogs.worldbank.org/allaboutfinance/">All About Finance</option><option value="https://blogs.worldbank.org/conflict/">Conflict and Development</option><option value="https://blogs.worldbank.org/impactevaluations/">Development Impact</option><option value="https://blogs.worldbank.org/climatechange/">Development in a Changing Climate</option><option value="https://blogs.worldbank.org/dmblog/">Development Marketplace</option><option value="https://blogs.worldbank.org/eastasiapacific/">East Asia & Pacific on the rise</option><option value="https://blogs.worldbank.org/education/">Education for Global Development</option><option value="https://blogs.worldbank.org/edutech/">EduTech - ICT & Education</option><option value="https://blogs.worldbank.org/endpovertyinsouthasia/">End Poverty in South Asia</option><option value="https://blogs.worldbank.org/governance/">Governance for Development</option><option value="https://blogs.worldbank.org/growth/">Growth & Crisis</option><option value="https://blogs.worldbank.org/ic4d/">Information and Communications for Development</option><option value="https://blogs.worldbank.org/insidetheweb/">Inside the Web</option><option value="https://blogs.worldbank.org/health/">Investing in Health</option><option value="https://blogs.worldbank.org/latinamerica/">Latin America</option><option value="https://blogs.worldbank.org/developmenttalk/">Let's Talk Development</option><option value="https://blogs.worldbank.org/nasikiliza/">nasikiliza</option><option value="https://blogs.worldbank.org/opendata/">Open Data</option><option value="https://blogs.worldbank.org/peoplemove/">People Move</option><option value="https://blogs.worldbank.org/publicsphere/">People, Spaces, Deliberation</option><option value="https://blogs.worldbank.org/miga/">Political Risk and Emerging Markets</option><option value="https://blogs.worldbank.org/psd/">Private Sector Development</option><option value="https://blogs.worldbank.org/prospects/">Prospects for Development</option><option value="https://blogs.worldbank.org/sustainablecities/">Sustainable Cities</option><option value="https://blogs.worldbank.org/energy/">Sustainable Energy to End Poverty</option><option value="https://blogs.worldbank.org/water/">The Water Blog</option><option value="https://blogs.worldbank.org/transport/">Transport for Development</option><option value="https://blogs.worldbank.org/voices/">World Bank Voices</option><option value="https://youthink.worldbank.org/blog">Youthink! Blog</option></select></div>  </div>
 
   
 </div></div> <!-- /block-inner, /block -->
@@ -228,7 +228,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 
   
   <div class="content">
-    <p><a href="http://blogs.worldbank.org/education/category/tags/whats-new-0"><img height="130" alt="" width="285" src="/files/education/sub2b_whatsnew(1).jpg" /></a></p>
+    <p><a href="https://blogs.worldbank.org/education/category/tags/whats-new-0"><img height="130" alt="" width="285" src="/files/education/sub2b_whatsnew(1).jpg" /></a></p>
   </div>
 
   
@@ -240,7 +240,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 
   
   <div class="content">
-    <p><a href="http://blogs.worldbank.org/education/category/tags/is-we-learning-0"><img height="130" alt="" width="285" src="/files/education/sub1a_iswelearning.jpg" /></a></p>
+    <p><a href="https://blogs.worldbank.org/education/category/tags/is-we-learning-0"><img height="130" alt="" width="285" src="/files/education/sub1a_iswelearning.jpg" /></a></p>
   </div>
 
   
@@ -252,7 +252,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 
   
   <div class="content">
-    <p><a target="_blank" href="http://www.worldbank.org/education"><img height="130" alt="" width="285" src="/files/education/sub3_educationwebsite(2).jpg" /></a></p>
+    <p><a target="_blank" href="https://www.worldbank.org/education"><img height="130" alt="" width="285" src="/files/education/sub3_educationwebsite(2).jpg" /></a></p>
   </div>
 
   
@@ -297,7 +297,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
   </div>
   
   <div class="views-field-field-statisticlearnmoreurl-url">
-                <span class="field-content"><a href="http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION/0,,contentMDK:20298916~menuPK:617572~pagePK:148956~piPK:216618~theSitePK:282386~isCURL:Y~isCURL:Y,00.html" target="_blank" class="statisticlearnmoreurllink">Find out more »</a></span>
+                <span class="field-content"><a href="https://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION/0,,contentMDK:20298916~menuPK:617572~pagePK:148956~piPK:216618~theSitePK:282386~isCURL:Y~isCURL:Y,00.html" target="_blank" class="statisticlearnmoreurllink">Find out more »</a></span>
   </div>
   </div>
     </div>
@@ -620,10 +620,10 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
     
 
 
-	<div class="content"><p></p><P><A href="http://siteresources.worldbank.org/EXTEDSTATS/Resources/3232763-1314192505774/StatPlanet.html"><IMG style="WIDTH: 490px; HEIGHT: 254px" alt="" src="https://blogs.worldbank.org/education/files/education/edstats.jpg" align=absMiddle /></a></p><br />
-<P>Want to watch the expansion of schooling in Sub-Saharan Africa over the past three decades? Or chart the difference in growth of educational attainment between South Korea and Mexico? Maybe you just want to easily compare with one click whether a bar or line graph better communicates your data. Now you can! EdStats, the World Bank's free database for global education&nbsp;statistics,&nbsp;has launched <A href="http://siteresources.worldbank.org/EXTEDSTATS/Resources/3232763-1314192505774/StatPlanet.html">EdStats StatPlanet</a>&nbsp;-- an exciting new data visualization and mapping dashboard for exploring country, regional and global performance on 19 key education indicators through interactive, animated world maps, charts and tables.</p><br />
-<P>The StatPlanet platform was&nbsp;developed by developed Frank van Cappelle and was&nbsp;the 1st place winner of the World Bank's&nbsp;<A href="http://appsfordevelopment.challengepost.com/">Apps for Development</a> competition, which was launched as part of the Bank’s <A href="http://data.worldbank.org/">Open Data Initiative</a>, an effort that unlocks the Bank’s knowledge and development data for researchers, activists, students, and development practitioners across the globe. The application has been loaded with EdStats' most up-to-date global education education statistics.</p><br />
-<P>EdStats' use of&nbsp;<A href="http://siteresources.worldbank.org/EXTEDSTATS/Resources/3232763-1314192505774/StatPlanet.html">StatPlanet</a> helps bring World Bank education data into the modern age with colorful, user-friendly navigation and "pop up" bubbles that display information as you scroll. With a time-lapse "play" button and a Google maps-like functionality that allows you to zoom, grab and highlight,&nbsp;it just&nbsp;might be the most fun you have with data this year.</p><br />
+	<div class="content"><p></p><P><A href="https://siteresources.worldbank.org/EXTEDSTATS/Resources/3232763-1314192505774/StatPlanet.html"><IMG style="WIDTH: 490px; HEIGHT: 254px" alt="" src="https://blogs.worldbank.org/education/files/education/edstats.jpg" align=absMiddle /></a></p><br />
+<P>Want to watch the expansion of schooling in Sub-Saharan Africa over the past three decades? Or chart the difference in growth of educational attainment between South Korea and Mexico? Maybe you just want to easily compare with one click whether a bar or line graph better communicates your data. Now you can! EdStats, the World Bank's free database for global education&nbsp;statistics,&nbsp;has launched <A href="https://siteresources.worldbank.org/EXTEDSTATS/Resources/3232763-1314192505774/StatPlanet.html">EdStats StatPlanet</a>&nbsp;-- an exciting new data visualization and mapping dashboard for exploring country, regional and global performance on 19 key education indicators through interactive, animated world maps, charts and tables.</p><br />
+<P>The StatPlanet platform was&nbsp;developed by developed Frank van Cappelle and was&nbsp;the 1st place winner of the World Bank's&nbsp;<A href="https://appsfordevelopment.challengepost.com/">Apps for Development</a> competition, which was launched as part of the Bank’s <A href="https://data.worldbank.org/">Open Data Initiative</a>, an effort that unlocks the Bank’s knowledge and development data for researchers, activists, students, and development practitioners across the globe. The application has been loaded with EdStats' most up-to-date global education education statistics.</p><br />
+<P>EdStats' use of&nbsp;<A href="https://siteresources.worldbank.org/EXTEDSTATS/Resources/3232763-1314192505774/StatPlanet.html">StatPlanet</a> helps bring World Bank education data into the modern age with colorful, user-friendly navigation and "pop up" bubbles that display information as you scroll. With a time-lapse "play" button and a Google maps-like functionality that allows you to zoom, grab and highlight,&nbsp;it just&nbsp;might be the most fun you have with data this year.</p><br />
 <P>Visit today to see education data displayed in interactive new ways, on a variety of indicators that measure educational access, attainment, equity, expenditure and quality, including:</p><br />
 <UL><br />
 <LI>time-lapse maps</li><br />
@@ -631,7 +631,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 <LI>bar charts</li><br />
 <LI>time series graphs</li><br />
 <LI>bubble charts</li></ul><br />
-<P>Check out <A href="http://siteresources.worldbank.org/EXTEDSTATS/Resources/3232763-1314192505774/StatPlanet.html">EdStats Planet </a>for yourself and please continue to <A href="http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION/EXTDATASTATISTICS/EXTEDSTATS/0,,contentMDK:21236322~pagePK:64168445~piPK:64168309~theSitePK:3232764,00.html">send us</a> any comments or suggestions you have. Visit the <A href="http://www.worldbank.org/education/edstats">EdStats</a>&nbsp;website for more on education data and statistics, including our newest release, <A href="http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION/0,,contentMDK:22956713~menuPK:282391~pagePK:64020865~piPK:51164185~theSitePK:282386,00.html">Assessing Sector Performance and Inequality in Education</a>,&nbsp;a guidebook to the World Bank's free ADePT data analysis software.</p>
+<P>Check out <A href="https://siteresources.worldbank.org/EXTEDSTATS/Resources/3232763-1314192505774/StatPlanet.html">EdStats Planet </a>for yourself and please continue to <A href="https://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION/EXTDATASTATISTICS/EXTEDSTATS/0,,contentMDK:21236322~pagePK:64168445~piPK:64168309~theSitePK:3232764,00.html">send us</a> any comments or suggestions you have. Visit the <A href="https://www.worldbank.org/education/edstats">EdStats</a>&nbsp;website for more on education data and statistics, including our newest release, <A href="https://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTEDUCATION/0,,contentMDK:22956713~menuPK:282391~pagePK:64020865~piPK:51164185~theSitePK:282386,00.html">Assessing Sector Performance and Inequality in Education</a>,&nbsp;a guidebook to the World Bank's free ADePT data analysis software.</p>
 </div>
   <div id="rmore2"><span class="readmore-fill"></span></div>
 
@@ -639,7 +639,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 	<div id="linksbox">
 			<div class="terms terms-inline"><ul class="links inline"><li class="blog_usernames_blog first"><a href="/education/blogs/christine-horansky" title="Read Christine Horansky&#039;s latest blog entries.">Christine Horansky&#039;s blog</a></li>
 <li class="print_html"><a href="/education/print/647" title="Display a printer-friendly version of this page." class="print-page" onclick="window.open(this.href); return false" rel="nofollow"><img src="/education/sites/all/modules/print/icons/print_icon.gif" alt="Printer-friendly version" title="Printer-friendly version" width="16" height="16" class="print-icon print-icon-margin" />Printer-friendly version</a></li>
-<li class="simpleshare last active"><a href="http://blogs.worldbank.org/education/edstats-statplanet" title="Opening Education Data: EdStats Unveils StatPlanet, an Interactive Mapping Tool from Apps Contest Winner" class="simpleshare active">Share</a></li>
+<li class="simpleshare last active"><a href="https://blogs.worldbank.org/education/edstats-statplanet" title="Opening Education Data: EdStats Unveils StatPlanet, an Interactive Mapping Tool from Apps Contest Winner" class="simpleshare active">Share</a></li>
 </ul> <br />
 								
 					Tags: <ul class="links inline"><li class="taxonomy_term_399 first"><a href="/education/category/tags/ed-stats" rel="tag" title="">ed stats</a></li>
@@ -662,7 +662,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
   
 
   <div class="submitted">
-    Submitted by <a href="http://www.gse.harvard.edu/directory/faculty/faculty-detail/?fc=442&amp;flt=h&amp;sub=all" rel="nofollow">Haiyan Hua</a>  on Fri, 2012-02-17 11:38.  </div>
+    Submitted by <a href="https://www.gse.harvard.edu/directory/faculty/faculty-detail/?fc=442&amp;flt=h&amp;sub=all" rel="nofollow">Haiyan Hua</a>  on Fri, 2012-02-17 11:38.  </div>
 
   <div class="content">
     <p>Hello Frank,</p>
@@ -839,31 +839,31 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
   <div class="views-field-field-blockcontent-value">
                 <div class="field-content"><p></p><P>World Bank blogs:</p><br />
 <UL><br />
-<LI><A href="http://blogs.worldbank.org/edutech/">EduTech</a></li><br />
-<LI><A href="http://blogs.worldbank.org/africacan/category/topics/education">Africa Can... End Poverty</a></li><br />
-<LI><A href="http://blogs.worldbank.org/developmenttalk/">Let's Talk Development</a></li><br />
-<LI><A href="http://blogs.worldbank.org/governance/category/topics/education">Governance for Development</a></li><br />
-<LI><A href="http://psdblog.worldbank.org/psdblog/education/">Private Sector Development</a></li><br />
-<LI><A href="http://youthink.worldbank.org/blog">Youthink!</a></li></ul><br />
+<LI><A href="https://blogs.worldbank.org/edutech/">EduTech</a></li><br />
+<LI><A href="https://blogs.worldbank.org/africacan/category/topics/education">Africa Can... End Poverty</a></li><br />
+<LI><A href="https://blogs.worldbank.org/developmenttalk/">Let's Talk Development</a></li><br />
+<LI><A href="https://blogs.worldbank.org/governance/category/topics/education">Governance for Development</a></li><br />
+<LI><A href="https://psdblog.worldbank.org/psdblog/education/">Private Sector Development</a></li><br />
+<LI><A href="https://youthink.worldbank.org/blog">Youthink!</a></li></ul><br />
 <P>External blogs:</p><br />
 <UL><br />
-<LI><A href="http://aidwatchers.com/">Aid Watch</a></li><br />
-<LI><A href="http://www.brookings.edu/topics/education.aspx">Brookings Institution</a></li><br />
-<LI><A href="http://www.cgdev.org/section/opinions/blogs">Center for Global Development</a>&nbsp;</li><br />
-<LI><A href="http://www.col.org/blog/_layouts/listfeed.aspx?List={DF4FB45F-CE28-45BB-8096-706F6503F936}">Commonwealth of Learning</a></li><br />
-<LI><A href="http://www.educationforallblog.org/">Education for All - Fast Track Initiative</a></li><br />
-<LI><A href="http://www.edweek.org/ew/section/blogs/index.html">EdWeek</a></li><br />
-<LI><A href="http://harvardedcast.libsyn.com/rss">Harvard EdCast</a></li><br />
-<LI><A href="http://www.insidehighered.com/blogs/the_world_view">Inside Higher Ed</a></li><br />
-<LI><A href="http://blogs.iadb.org/education">Inter-American Development Bank</a></li><br />
+<LI><A href="https://aidwatchers.com/">Aid Watch</a></li><br />
+<LI><A href="https://www.brookings.edu/topics/education.aspx">Brookings Institution</a></li><br />
+<LI><A href="https://www.cgdev.org/section/opinions/blogs">Center for Global Development</a>&nbsp;</li><br />
+<LI><A href="https://www.col.org/blog/_layouts/listfeed.aspx?List={DF4FB45F-CE28-45BB-8096-706F6503F936}">Commonwealth of Learning</a></li><br />
+<LI><A href="https://www.educationforallblog.org/">Education for All - Fast Track Initiative</a></li><br />
+<LI><A href="https://www.edweek.org/ew/section/blogs/index.html">EdWeek</a></li><br />
+<LI><A href="https://harvardedcast.libsyn.com/rss">Harvard EdCast</a></li><br />
+<LI><A href="https://www.insidehighered.com/blogs/the_world_view">Inside Higher Ed</a></li><br />
+<LI><A href="https://blogs.iadb.org/education">Inter-American Development Bank</a></li><br />
 <LI><A href="https://community.oecd.org/community/educationtoday;jsessionid=6FA7D37164013658763EED7DB848E037?view=blog">OECD's Education Today</a></li><br />
-<LI><A href="http://www.one.org/blog/category/education">ONE Campaign</a></li><br />
-<LI><A href="http://prealblog.blogspot.com/">PREAL (Inter-American Dialogue)</a></li><br />
-<LI><A href="http://www.growthcommissionblog.org/">The Growth Commission</a></li><br />
-<LI><A href="http://blogs.dfid.gov.uk/?s=education">U.K. Department for International Development </a></li><br />
-<LI><A href="http://blog.usaid.gov/tag/education/">USAID IMPACTblog</a></li><br />
-<LI><A href="http://efareport.wordpress.com/">UNESCO Global Monitoring Report</a></li><br />
-<LI><A href="http://fieldnotes.unicefusa.org/mt/mt-search.cgi?blog_id=1&amp;tag=education&amp;limit=20">UNICEF Field Notes</a></li></ul></div>
+<LI><A href="https://www.one.org/blog/category/education">ONE Campaign</a></li><br />
+<LI><A href="https://prealblog.blogspot.com/">PREAL (Inter-American Dialogue)</a></li><br />
+<LI><A href="https://www.growthcommissionblog.org/">The Growth Commission</a></li><br />
+<LI><A href="https://blogs.dfid.gov.uk/?s=education">U.K. Department for International Development </a></li><br />
+<LI><A href="https://blog.usaid.gov/tag/education/">USAID IMPACTblog</a></li><br />
+<LI><A href="https://efareport.wordpress.com/">UNESCO Global Monitoring Report</a></li><br />
+<LI><A href="https://fieldnotes.unicefusa.org/mt/mt-search.cgi?blog_id=1&amp;tag=education&amp;limit=20">UNICEF Field Notes</a></li></ul></div>
   </div>
   </div>
     </div>
@@ -893,10 +893,10 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 
   
   <div class="content">
-    <ul class="menu"><li class="leaf first"><a href="http://www.worldbank.org" title="Copyright © 2012 - The World Bank Group">Copyright © 2012 - The World Bank Group</a></li>
+    <ul class="menu"><li class="leaf first"><a href="https://www.worldbank.org" title="Copyright © 2012 - The World Bank Group">Copyright © 2012 - The World Bank Group</a></li>
 <li class="leaf"><a href="/education/" title="Home">Home</a></li>
 <li class="leaf"><a href="/education/disclaimer" title="Disclaimer">Disclaimer</a></li>
-<li class="leaf last"><a href="http://go.worldbank.org/OS6V7NIUD0" title="Legal">Legal</a></li>
+<li class="leaf last"><a href="https://go.worldbank.org/OS6V7NIUD0" title="Legal">Legal</a></li>
 </ul>  </div>
 
   
@@ -905,9 +905,9 @@ jQuery.extend(Drupal.settings, { "basePath": "/education/", "views": { "ajax_pat
 
 
     
-    <!-- SiteCatalyst code version: G.6. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
+    <!-- SiteCatalyst code version: G.6. Copyright 1997-2004 Omniture, Inc. More info available at https://www.omniture.com -->
 
-<script language="JavaScript" src="http://siteresources.worldbank.org/scripts/s_nonISP_common.js"></script>
+<script language="JavaScript" src="https://siteresources.worldbank.org/scripts/s_nonISP_common.js"></script>
 <script language="JavaScript">
 <!--
 var s_pageName="Opening Education Data: EdStats Unveils StatPlanet, an Interactive Mapping Tool from Apps Contest Winner"; 
@@ -932,7 +932,7 @@ var s_account="wbnispblogsext,wbglobalext";
 -->
 </script>
 
-<script language="JavaScript" src="http://siteresources.worldbank.org/scripts/s_code_remote.js"></script>
+<script language="JavaScript" src="https://siteresources.worldbank.org/scripts/s_code_remote.js"></script>
 <!-- End SiteCatalyst code version: G.9. -->
 
 

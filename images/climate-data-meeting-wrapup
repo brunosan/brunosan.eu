@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
   <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   
@@ -11,7 +11,7 @@
  /* ]]> */
 </script>
 
-<link rel="canonical" href="http://data.worldbank.org/news/climate-data-meeting-wrapup" />
+<link rel="canonical" href="https://data.worldbank.org/news/climate-data-meeting-wrapup" />
 <link rel="shortcut icon" href="/profiles/datafinder/themes/datum/favicon.ico" type="image/x-icon" />
 
     <link type="text/css" rel="stylesheet" media="all" href="/profiles/datafinder/modules/contrib/codefilter/codefilter.css?e" />
@@ -29,13 +29,13 @@
   <div id='root'>
 
   <div id='network'><div class='limiter clear-block'>
-    <a href="http://www.worldbank.org" class="network-name">The World Bank</a>    <ul class="links network-language-links"><li class="en first"><a href="http://www.worldbank.org" class="active">English</a></li>
-<li class="es"><a href="http://www.bancomundial.org">Español</a></li>
-<li class="fr"><a href="http://www.banquemondiale.org">Français</a></li>
-<li class="ru"><a href="http://www.worldbank.org/russian">Pусский</a></li>
-<li class="ar"><a href="http://www.albankaldawli.org">عربي</a></li>
-<li class="cn"><a href="http://www.worldbank.org.cn/Chinese">中文</a></li>
-<li class="more last"><a href="http://web.worldbank.org/WBSITE/EXTERNAL/0,,contentMDK:20130470~pagePK:50016803~piPK:50016805~theSitePK:13,00.html">View more</a></li>
+    <a href="https://www.worldbank.org" class="network-name">The World Bank</a>    <ul class="links network-language-links"><li class="en first"><a href="https://www.worldbank.org" class="active">English</a></li>
+<li class="es"><a href="https://www.bancomundial.org">Español</a></li>
+<li class="fr"><a href="https://www.banquemondiale.org">Français</a></li>
+<li class="ru"><a href="https://www.worldbank.org/russian">Pусский</a></li>
+<li class="ar"><a href="https://www.albankaldawli.org">عربي</a></li>
+<li class="cn"><a href="https://www.worldbank.org.cn/Chinese">中文</a></li>
+<li class="more last"><a href="https://web.worldbank.org/WBSITE/EXTERNAL/0,,contentMDK:20130470~pagePK:50016803~piPK:50016805~theSitePK:13,00.html">View more</a></li>
 </ul>    
               <div class='network-search'><form action="/news/climate-data-meeting-wrapup"  accept-charset="UTF-8" method="post" id="wbbase-search-form" autocomplete="off">
 <div><div  class=" form-item" id="edit-search-wrapper"><input type="text" maxlength="128" name="search" id="edit-search" value="" class="form-text fluid" /></div><input type="submit" name="op" id="edit-submit-1" value="Go"  class="form-submit" />
@@ -46,33 +46,33 @@
 </div>
     
     <div class='navigation clear-block'>
-      <a href="http://www.worldbank.org" class="network-home">The World Bank</a>      <ul class="links network-links"><li class="about first"><a href="http://www.worldbank.org/about">About</a></li>
-<li class="data"><a href="http://data.worldbank.org/" class="active">Data</a></li>
-<li class="research"><a href="http://econ.worldbank.org">Research</a></li>
-<li class="learning"><a href="http://www.worldbank.org/wbi">Learning</a></li>
-<li class="news"><a href="http://www.worldbank.org/news">News</a></li>
-<li class="projects"><a href="http://www.worldbank.org/projects">Projects &amp; Operations</a></li>
-<li class="publications last"><a href="http://www.worldbank.org/reference">Publications</a></li>
-</ul>      <ul class="links network-special-links"><li class="countries first"><a href="http://www.worldbank.org/countries">Countries</a></li>
-<li class="topics last"><a href="http://www.worldbank.org/topics">Topics</a></li>
+      <a href="https://www.worldbank.org" class="network-home">The World Bank</a>      <ul class="links network-links"><li class="about first"><a href="https://www.worldbank.org/about">About</a></li>
+<li class="data"><a href="https://data.worldbank.org/" class="active">Data</a></li>
+<li class="research"><a href="https://econ.worldbank.org">Research</a></li>
+<li class="learning"><a href="https://www.worldbank.org/wbi">Learning</a></li>
+<li class="news"><a href="https://www.worldbank.org/news">News</a></li>
+<li class="projects"><a href="https://www.worldbank.org/projects">Projects &amp; Operations</a></li>
+<li class="publications last"><a href="https://www.worldbank.org/reference">Publications</a></li>
+</ul>      <ul class="links network-special-links"><li class="countries first"><a href="https://www.worldbank.org/countries">Countries</a></li>
+<li class="topics last"><a href="https://www.worldbank.org/topics">Topics</a></li>
 </ul>    </div>
   </div></div>
 
   <div id='local'><div class='limiter clear-block'>
-    <div class='site-name'><a href="http://data.worldbank.org/">Data</a></div>
+    <div class='site-name'><a href="https://data.worldbank.org/">Data</a></div>
   </div></div>
 
   <div id='navigation'><div class='limiter clear-block'>
-    <ul class="links primary-links"><li class="country first"><a href="http://data.worldbank.org/country">By Country</a></li>
-<li class="topic"><a href="http://data.worldbank.org/topic">By Topic</a></li>
-<li class="indicator"><a href="http://data.worldbank.org/indicator">Indicators</a></li>
-<li class="data-catalog"><a href="http://data.worldbank.org/data-catalog">Data Catalog</a></li>
-<li class="http:--microdata-worldbank-org"><a href="http://microdata.worldbank.org" title="">Microdata</a></li>
-<li class="http:--blogs-worldbank-org-opendata last"><a href="http://blogs.worldbank.org/opendata" title="">Blog</a></li>
-</ul>    <ul class="links secondary-links"><li class="news first"><a href="http://data.worldbank.org/news">News</a></li>
-<li class="pages-8"><a href="http://data.worldbank.org/about" title="">About</a></li>
-<li class="pages-9"><a href="http://data.worldbank.org/developers">For Developers</a></li>
-<li class="pages-7 last"><a href="http://data.worldbank.org/products">Products</a></li>
+    <ul class="links primary-links"><li class="country first"><a href="https://data.worldbank.org/country">By Country</a></li>
+<li class="topic"><a href="https://data.worldbank.org/topic">By Topic</a></li>
+<li class="indicator"><a href="https://data.worldbank.org/indicator">Indicators</a></li>
+<li class="data-catalog"><a href="https://data.worldbank.org/data-catalog">Data Catalog</a></li>
+<li class="https:--microdata-worldbank-org"><a href="https://microdata.worldbank.org" title="">Microdata</a></li>
+<li class="https:--blogs-worldbank-org-opendata last"><a href="https://blogs.worldbank.org/opendata" title="">Blog</a></li>
+</ul>    <ul class="links secondary-links"><li class="news first"><a href="https://data.worldbank.org/news">News</a></li>
+<li class="pages-8"><a href="https://data.worldbank.org/about" title="">About</a></li>
+<li class="pages-9"><a href="https://data.worldbank.org/developers">For Developers</a></li>
+<li class="pages-7 last"><a href="https://data.worldbank.org/products">Products</a></li>
 </ul>  </div></div>
 
 
@@ -80,12 +80,12 @@
   <div id='nav-header'><div class='limiter'><div class='extra clear-block'>
           <div class='languages clear-block'>
         <label>This page in </label>
-        <ul class="links language-links"><li class="en first last active"><a href="http://data.worldbank.org/news/climate-data-meeting-wrapup" class="active active">English</a></li>
+        <ul class="links language-links"><li class="en first last active"><a href="https://data.worldbank.org/news/climate-data-meeting-wrapup" class="active active">English</a></li>
 </ul>      </div>
     
     
     <div class="title-context-links-area clear-block">
-              <div class='context-links clear-block'><ul class="links"><li class="simpleshare_link first last active"><a href="http://data.worldbank.org/news/climate-data-meeting-wrapup" class="simpleshare active">Share</a></li>
+              <div class='context-links clear-block'><ul class="links"><li class="simpleshare_link first last active"><a href="https://data.worldbank.org/news/climate-data-meeting-wrapup" class="simpleshare active">Share</a></li>
 </ul></div>
                     <h1 class='page-title '>
                     Climate Data Meeting Wrapup        </h1>
@@ -114,25 +114,25 @@
 
 <p>We are now compiling the transcript and comments for a summary post which we hope to have available within a few days.  In the meantime, here are links to the presentations and websites that were referred to by the speakers.  We’ve also included a few photos of the event. You can also read this <a href="/2012/01/31/idea-brainstorming-for-apps-for-climate">excellent summary from Bruno Sánchez-Andrade Nuño</a>, complete with <a href="/2012/01/31/idea-brainstorming-for-apps-for-climate">9+ ideas for apps</a>.</p>
 
-<p><strong>Remember:</strong>  the <a href="http://bit.ly/appsforclimatehelpdesk">Expert Help Desk live chat</a> will be <strong>Tuesday, February 14th</strong> from 9am-12pm.  World Bank climate and data experts will be online to answer questions about specific data sets, the competition, and using the API.  We’ll be set up to field questions in English, Spanish, French, Portuguese, and Arabic.  Answers will be given in real time, and the complete transcript will be available immediately after the event.  You can also <a href="http://bit.ly/appsforclimatehelpdesk#qwrap">post questions in advance</a>.</p>
+<p><strong>Remember:</strong>  the <a href="https://bit.ly/appsforclimatehelpdesk">Expert Help Desk live chat</a> will be <strong>Tuesday, February 14th</strong> from 9am-12pm.  World Bank climate and data experts will be online to answer questions about specific data sets, the competition, and using the API.  We’ll be set up to field questions in English, Spanish, French, Portuguese, and Arabic.  Answers will be given in real time, and the complete transcript will be available immediately after the event.  You can also <a href="https://bit.ly/appsforclimatehelpdesk#qwrap">post questions in advance</a>.</p>
 
-<p>And be sure to follow the conversation on Twitter at <a href="http://twitter.com/#!/search/%23apps4climate">#apps4climate</a> and <a href="http://twitter.com/#!/search/%23wbclimatemtg">#wbclimatemtg</a>.</p>
+<p>And be sure to follow the conversation on Twitter at <a href="https://twitter.com/#!/search/%23apps4climate">#apps4climate</a> and <a href="https://twitter.com/#!/search/%23wbclimatemtg">#wbclimatemtg</a>.</p>
 
 <h2>Climate Data and Competition Websites</h2>
 
 <ul>
-<li><a href="http://climateknowledgeportal.worldbank.org">World Bank Climate Change Knowledge Portal</a></li>
+<li><a href="https://climateknowledgeportal.worldbank.org">World Bank Climate Change Knowledge Portal</a></li>
 <li><a href="/climate-change">World Bank Open Data Resources For Climate Change</a></li>
 <li><a href="https://wbchallenge.imaginatik.com/wbchallengeblog2.nsf/posts/USAA-8P5R7J">Other Open Climate Data Resources</a></li>
-<li><a href="http://worldbank.org/appsforclimate">Apps For Climate</a> and <a href="/developers/apps-competitions/apps-for-climate-resources">Apps For Climate Resources</a></li>
-<li><a href="http://appsfordevelopment.challengepost.com">Apps For Development</a> (for a look at applications submitted to our last competition)</li>
+<li><a href="https://worldbank.org/appsforclimate">Apps For Climate</a> and <a href="/developers/apps-competitions/apps-for-climate-resources">Apps For Climate Resources</a></li>
+<li><a href="https://appsfordevelopment.challengepost.com">Apps For Development</a> (for a look at applications submitted to our last competition)</li>
 </ul>
 
 <h2>Presentations</h2>
 
 <ul>
 <li><a href="/sites/default/files/apps-for-climate-jan-31.ppt">Overview: Apps For Climate</a> (Tim Herzog, World Bank)</li>
-<li><a href="http://dl.dropbox.com/u/479174/wb-climate.pdf">Building Apps With Open Data</a> (Alex Barth, Development Seed)</li>
+<li><a href="https://dl.dropbox.com/u/479174/wb-climate.pdf">Building Apps With Open Data</a> (Alex Barth, Development Seed)</li>
 </ul>
 
 <h2>Event Photos</h2>
@@ -158,7 +158,7 @@ Breakout Groups
 </div>
 </div>    </div>
   
-      <div class='node-links clear-block'><ul class="links inline"><li class="print first last active"><a href="http://data.worldbank.org/news/climate-data-meeting-wrapup?print" class="active">Print</a></li>
+      <div class='node-links clear-block'><ul class="links inline"><li class="print first last active"><a href="https://data.worldbank.org/news/climate-data-meeting-wrapup?print" class="active">Print</a></li>
 </ul></div>
   </div>
 
@@ -182,7 +182,7 @@ Breakout Groups
       <div class="view-content">
       <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
   <div class="views-field-title" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/news/sub-saharan-africa-data-on-debt-service-to-exports-ratios">Data on debt service to exports ratios show promise for Sub-Saharan Africa</a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/news/sub-saharan-africa-data-on-debt-service-to-exports-ratios">Data on debt service to exports ratios show promise for Sub-Saharan Africa</a></span></span>
   </div>
   
   <div class="views-field-created" >
@@ -191,7 +191,7 @@ Breakout Groups
 </li>
           <li class="views-row views-row-2 views-row-even">  
   <div class="views-field-title" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/news/little-green-data-book-2012">Little Green Data Book 2012</a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/news/little-green-data-book-2012">Little Green Data Book 2012</a></span></span>
   </div>
   
   <div class="views-field-created" >
@@ -200,7 +200,7 @@ Breakout Groups
 </li>
           <li class="views-row views-row-3 views-row-odd">  
   <div class="views-field-title" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/news/over-99-percent-of-maternal-deaths-occur-in-developing-countries">Over 99 percent of maternal deaths occur in developing countries</a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/news/over-99-percent-of-maternal-deaths-occur-in-developing-countries">Over 99 percent of maternal deaths occur in developing countries</a></span></span>
   </div>
   
   <div class="views-field-created" >
@@ -209,7 +209,7 @@ Breakout Groups
 </li>
           <li class="views-row views-row-4 views-row-even">  
   <div class="views-field-title" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/news/world-banks-corporate-scorecard-launched">The first electronic version of the World Bank Corporate Scorecard is launched</a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/news/world-banks-corporate-scorecard-launched">The first electronic version of the World Bank Corporate Scorecard is launched</a></span></span>
   </div>
   
   <div class="views-field-created" >
@@ -218,7 +218,7 @@ Breakout Groups
 </li>
           <li class="views-row views-row-5 views-row-odd views-row-last">  
   <div class="views-field-title" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/news/world-development-indicators-2012-now-available">World Development Indicators 2012 now available</a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/news/world-development-indicators-2012-now-available">World Development Indicators 2012 now available</a></span></span>
   </div>
   
   <div class="views-field-created" >
@@ -259,14 +259,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/agriculture-and-rural-development">Agriculture &amp; Rural Development  </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/agriculture-and-rural-development">Agriculture &amp; Rural Development  </a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/health">Health </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/health">Health </a></span></span>
   </div>
 </div>
           </td>
@@ -275,14 +275,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/aid-effectiveness">Aid Effectiveness </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/aid-effectiveness">Aid Effectiveness </a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/infrastructure">Infrastructure </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/infrastructure">Infrastructure </a></span></span>
   </div>
 </div>
           </td>
@@ -291,14 +291,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/climate-change">Climate Change</a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/climate-change">Climate Change</a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/labor-and-social-protection">Labor &amp; Social Protection </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/labor-and-social-protection">Labor &amp; Social Protection </a></span></span>
   </div>
 </div>
           </td>
@@ -307,14 +307,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/economic-policy-and-external-debt">Economic Policy &amp;  External Debt </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/economic-policy-and-external-debt">Economic Policy &amp;  External Debt </a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/poverty">Poverty </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/poverty">Poverty </a></span></span>
   </div>
 </div>
           </td>
@@ -323,14 +323,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/education">Education </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/education">Education </a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/private-sector">Private Sector</a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/private-sector">Private Sector</a></span></span>
   </div>
 </div>
           </td>
@@ -339,14 +339,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/energy-and-mining">Energy &amp; Mining </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/energy-and-mining">Energy &amp; Mining </a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/public-sector">Public Sector </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/public-sector">Public Sector </a></span></span>
   </div>
 </div>
           </td>
@@ -355,14 +355,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/environment">Environment </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/environment">Environment </a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/science-and-technology">Science &amp; Technology </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/science-and-technology">Science &amp; Technology </a></span></span>
   </div>
 </div>
           </td>
@@ -371,14 +371,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/financial-sector">Financial Sector </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/financial-sector">Financial Sector </a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/social-development">Social Development </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/social-development">Social Development </a></span></span>
   </div>
 </div>
           </td>
@@ -387,14 +387,14 @@ Breakout Groups
                   <td class="col-1">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/gender">Gender</a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/gender">Gender</a></span></span>
   </div>
 </div>
           </td>
                   <td class="col-2">
             <div class='grid-item'>  
   <div class="views-field-value" >
-                <span class="field-content"><span class="field-content"><a href="http://data.worldbank.org/topic/urban-development">Urban Development </a></span></span>
+                <span class="field-content"><span class="field-content"><a href="https://data.worldbank.org/topic/urban-development">Urban Development </a></span></span>
   </div>
 </div>
           </td>
@@ -421,27 +421,27 @@ Breakout Groups
 <input type="hidden" name="form_id" id="edit-wbboxes-goto-form" value="wbboxes_goto_form"  />
 
 </div></form>
-<div class='intro-text'>The <a href="http://data.worldbank.org/data-catalog">Data Catalog</a> provides download access to over 2,000 <a href="http://data.worldbank.org/indicator">indicators</a> from World Bank data sets.</div><div class='more-link'><a href="http://data.worldbank.org/indicator">View more</a><a href="http://data.worldbank.org/summary-terms-of-use" class="legal">Terms of use</a><a href="http://data.worldbank.org/email-subscription" class="email">Sign up for email updates</a></div>  </div>
+<div class='intro-text'>The <a href="https://data.worldbank.org/data-catalog">Data Catalog</a> provides download access to over 2,000 <a href="https://data.worldbank.org/indicator">indicators</a> from World Bank data sets.</div><div class='more-link'><a href="https://data.worldbank.org/indicator">View more</a><a href="https://data.worldbank.org/summary-terms-of-use" class="legal">Terms of use</a><a href="https://data.worldbank.org/email-subscription" class="email">Sign up for email updates</a></div>  </div>
 </div>
     </div></div>
   
   <div id='network-breadcrumb'><div class='limiter clear-block'>
-    <span class='breadcrumb-link'><a class='breadcrumb-link-home'>You are here</a></span><span class='breadcrumb-link breadcrumb-first'><a href="http://data.worldbank.org/">Data</a></span><span class='breadcrumb-link '><a href="http://data.worldbank.org/news">News</a></span><span class='breadcrumb-link breadcrumb-last'><a href="http://data.worldbank.org/news/climate-data-meeting-wrapup" class="active">Climate Data Meeting Wrapup</a></span>      </div></div>
+    <span class='breadcrumb-link'><a class='breadcrumb-link-home'>You are here</a></span><span class='breadcrumb-link breadcrumb-first'><a href="https://data.worldbank.org/">Data</a></span><span class='breadcrumb-link '><a href="https://data.worldbank.org/news">News</a></span><span class='breadcrumb-link breadcrumb-last'><a href="https://data.worldbank.org/news/climate-data-meeting-wrapup" class="active">Climate Data Meeting Wrapup</a></span>      </div></div>
 
   <div id='network-footer'><div class='limiter clear-block'>
-    <a href="http://www.worldbank.org" class="network-name">The World Bank</a>    <div class='network-footer-nav'>
-      <ul class="links network-footer-links"><li class="sitemap first"><a href="http://www.worldbank.org/sitemap">Site Map</a></li>
-<li class="index"><a href="http://www.worldbank.org/siteindex">Index</a></li>
-<li class="faq"><a href="http://www.worldbank.org/help">FAQs</a></li>
-<li class="contact"><a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/0,,contentMDK:20041066~menuPK:34582~pagePK:43912~piPK:44037~theSitePK:29708,00.html">Contact Us</a></li>
-<li class="search"><a href="http://www.worldbank.org/search.htm">Search</a></li>
-<li class="api"><a href="http://developer.worldbank.org">API</a></li>
-<li class="rss last"><a href="http://www.worldbank.org/rss">RSS</a></li>
-</ul>      <div class='network-footer-legal'>&copy; 2012 <a href="http://www.worldbankgroup.org">The World Bank Group</a>, All Rights Reserved. <a href="http://web.worldbank.org/WBSITE/EXTERNAL/0,,contentMDK:20146401~pagePK:50016803~piPK:50016805~theSitePK:13,00.html">Legal</a>.</div>
+    <a href="https://www.worldbank.org" class="network-name">The World Bank</a>    <div class='network-footer-nav'>
+      <ul class="links network-footer-links"><li class="sitemap first"><a href="https://www.worldbank.org/sitemap">Site Map</a></li>
+<li class="index"><a href="https://www.worldbank.org/siteindex">Index</a></li>
+<li class="faq"><a href="https://www.worldbank.org/help">FAQs</a></li>
+<li class="contact"><a href="https://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/0,,contentMDK:20041066~menuPK:34582~pagePK:43912~piPK:44037~theSitePK:29708,00.html">Contact Us</a></li>
+<li class="search"><a href="https://www.worldbank.org/search.htm">Search</a></li>
+<li class="api"><a href="https://developer.worldbank.org">API</a></li>
+<li class="rss last"><a href="https://www.worldbank.org/rss">RSS</a></li>
+</ul>      <div class='network-footer-legal'>&copy; 2012 <a href="https://www.worldbankgroup.org">The World Bank Group</a>, All Rights Reserved. <a href="https://web.worldbank.org/WBSITE/EXTERNAL/0,,contentMDK:20146401~pagePK:50016803~piPK:50016805~theSitePK:13,00.html">Legal</a>.</div>
     </div>
     <div class='network-footer-hotline'>
-      <a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html">Fraud &amp; Corruption Hotline</a><br/>
-      <a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html">1-800-831-0463</a>    </div>
+      <a href="https://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html">Fraud &amp; Corruption Hotline</a><br/>
+      <a href="https://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html">1-800-831-0463</a>    </div>
   </div></div>
 
   <div class='ender'></div>
@@ -460,7 +460,7 @@ $().ready(function() {
   })
 //--><!]]>
 </script>
-  <!-- SiteCatalyst code version: G.6. Copyright 1997-2004 Omniture, Inc. More info available at http://www.omniture.com -->
+  <!-- SiteCatalyst code version: G.6. Copyright 1997-2004 Omniture, Inc. More info available at https://www.omniture.com -->
 <script language="JavaScript" src="/profiles/datafinder/modules/features/datafinder_omniture/WebStatsUtil.js"></script>
 <script language="JavaScript">
 <!--

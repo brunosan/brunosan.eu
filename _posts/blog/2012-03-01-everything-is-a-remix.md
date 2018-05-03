@@ -12,7 +12,7 @@ meta:
   geo_address: 425 P St NW, Washington, DC 20001, USA
   geo_longitude: "-77.018000"
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1334503690";}
-  _wpas_mess: Everything is a remix http://wp.me/pzp88-B2
+  _wpas_mess: Everything is a remix https://wp.me/pzp88-B2
   geo_latitude: "38.910000"
   jabber_published: "1330914154"
   _edit_last: "4180497"
@@ -22,7 +22,7 @@ tags:
 - Science
 title: Everything is a remix
 ---
-[vimeo=http://vimeo.com/36881035]
+[vimeo=https://vimeo.com/36881035]
 <blockquote>&nbsp;
 
 For almost our entire history ideas were free. [...] But the growing dominance of the market economy, where the products of our intellectual labors are bought and sold, produced an unfortunate side-effect [...] Original creations can’t compete with the price of copies.
@@ -31,4 +31,4 @@ For almost our entire history ideas were free. [...] But the growing dominance o
 
 We believe that ideas are property and we’re excessively territorial when we feel that property belongs to us. Our laws then indulge this bias with ever-broadening protections and massive rewards.</blockquote>
 <blockquote>We live in an age with daunting problems. We need the best ideas possible, we need them now, we need them to spread fast.</blockquote>
-Full transcript <a href="http://www.everythingisaremix.info/everything-is-a-remix-part-4-transcript/">here</a>.
+Full transcript <a href="https://www.everythingisaremix.info/everything-is-a-remix-part-4-transcript/">here</a>.

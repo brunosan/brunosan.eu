@@ -22,7 +22,7 @@ tags:
 - technology
 title: "Nuestra generaci\xC3\xB3n, tiempo de cambios exponenciales."
 ---
-[youtube=http://www.youtube.com/watch?v=jpEnFwiqdx8&amp;hl=de&amp;fs=1#t=0m15s]
+[youtube=https://www.youtube.com/watch?v=jpEnFwiqdx8&amp;hl=de&amp;fs=1#t=0m15s]
 
 Dudo que haya visto un video más <span style="font-weight:bold;">inspiracional</span> que éste.
 Vivimos tiempos exponenciales, dice el video. Es un bonito logo pero requiere un poco de matemáticas para entender lo que significa. Más o menos, que el ritmo de cambio es proporcional al tiempo que pasa.

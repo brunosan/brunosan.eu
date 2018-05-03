@@ -21,8 +21,8 @@ tags:
 - Science
 title: Nancy Grace Roman
 ---
-<div style="text-align:center;padding:3px;"><a title="photo sharing" href="http://www.flickr.com/photos/nasonurb/3577311902/"><img class="aligncenter" src="http://farm4.static.flickr.com/3554/3577311902_317c482a45.jpg" alt="" width="300" height="225" /></a>
-<span style="font-size:.8em;margin-top:0;"><a href="http://www.flickr.com/photos/nasonurb/3577311902/">Nancy Grace Roman</a>, originally uploaded by <a href="http://www.flickr.com/people/nasonurb/">brunosan</a>.</span></div>
+<div style="text-align:center;padding:3px;"><a title="photo sharing" href="https://www.flickr.com/photos/nasonurb/3577311902/"><img class="aligncenter" src="https://farm4.static.flickr.com/3554/3577311902_317c482a45.jpg" alt="" width="300" height="225" /></a>
+<span style="font-size:.8em;margin-top:0;"><a href="https://www.flickr.com/photos/nasonurb/3577311902/">Nancy Grace Roman</a>, originally uploaded by <a href="https://www.flickr.com/people/nasonurb/">brunosan</a>.</span></div>
 Last week I went to listen a talk by Nancy Grace Roman. She was one of the first woman doing (astronomical) research. She also worked at NRL, where I work now, and then to NASA, where she was part of many missions, including Hubble.
 
 It was just amazing. Listening to a person that could be your grandmother talking about things you just learnt (paralax, relativity, cosmic rays, ....) Alucinante.

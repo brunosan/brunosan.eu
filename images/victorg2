@@ -1,18 +1,18 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
 		    <title>victorg2 - Gravatar Profile</title>
 		<link rel="shortcut icon" href="/favicon.ico" />
 	<link rel="shortcut icon" href="/favicon.ico" />    
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 	<meta http-equiv="Content-Language" content="en" />
-	<link href="http://s.gravatar.com/css/style.css?54" type="text/css" rel="stylesheet" media="screen" />
-	<link href="http://s.gravatar.com/css/jquery.Jcrop.css?54" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://s.gravatar.com/css/style.css?54" type="text/css" rel="stylesheet" media="screen" />
+	<link href="https://s.gravatar.com/css/jquery.Jcrop.css?54" type="text/css" rel="stylesheet" media="screen" />
 	<script type="text/javascript" src="https://wordpress.com/remote-login.php?action=js&amp;id=1886259&amp;host=en.gravatar.com&amp;back=en.gravatar.com%2Fvictorg2&amp;t=1341220385"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/jquery.js?54"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/jquery.Jcrop.js?54"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/application.js?54"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/jcarousel/lib/jquery.jcarousel.pack.js?54"></script>
+<script type="text/javascript" src="https://s.gravatar.com/js/jquery.js?54"></script>
+<script type="text/javascript" src="https://s.gravatar.com/js/jquery.Jcrop.js?54"></script>
+<script type="text/javascript" src="https://s.gravatar.com/js/application.js?54"></script>
+<script type="text/javascript" src="https://s.gravatar.com/js/jcarousel/lib/jquery.jcarousel.pack.js?54"></script>
 <script type="text/javascript">
 					if ( "function" === typeof WPRemoteLogin ) {
 						document.cookie = "gravatar-test=test; path=/";
@@ -23,15 +23,15 @@
 				</script>
 <link rel="stylesheet" type="text/css" href="/js/jcarousel/lib/jquery.jcarousel.css" />
 <link rel="stylesheet" type="text/css" href="/js/jcarousel/skins/tango/skin.css" />	<link href="/css/services.css?54" type="text/css" rel="stylesheet" media="screen" />
-	<link rel="profile" href="http://microformats.org/profile/hcard" />
-	<link rel="alternate" type="text/directory" title="vCard" href="http://en.gravatar.com/victorg2.vcf" />
-	<link rel="alternate" type="text/javascript" title="JSON" href="http://en.gravatar.com/victorg2.json" />
-	<link rel="alternate" type="text/xml" title="XML" href="http://en.gravatar.com/victorg2.xml" />
-	<link rel="alternate" type="text/php" title="Serialized PHP" href="http://en.gravatar.com/victorg2.php" />
-	<link rel="alternate" type="image/png" title="QR Code" href="http://en.gravatar.com/victorg2.qr" />
+	<link rel="profile" href="https://microformats.org/profile/hcard" />
+	<link rel="alternate" type="text/directory" title="vCard" href="https://en.gravatar.com/victorg2.vcf" />
+	<link rel="alternate" type="text/javascript" title="JSON" href="https://en.gravatar.com/victorg2.json" />
+	<link rel="alternate" type="text/xml" title="XML" href="https://en.gravatar.com/victorg2.xml" />
+	<link rel="alternate" type="text/php" title="Serialized PHP" href="https://en.gravatar.com/victorg2.php" />
+	<link rel="alternate" type="image/png" title="QR Code" href="https://en.gravatar.com/victorg2.qr" />
 	<script type="text/javascript" src="/js/jquery.scrollTo-1.4.2-min.js"></script>
 	<script type="text/javascript" src="/js/jquery.hotkeys-0.7.9.js"></script>
-	<link rel="canonical" href="http://gravatar.com/victorg2" />	<script type="text/javascript" src="/js/webtoolkit.base64.js"></script>
+	<link rel="canonical" href="https://gravatar.com/victorg2" />	<script type="text/javascript" src="/js/webtoolkit.base64.js"></script>
 		<!--[if lt IE 7.]>
 		<script defer type="text/javascript" src="/js/pngfix.js"></script>
 		<script defer type="text/javascript" src="/js/old-ie-hacks.js"></script>
@@ -60,8 +60,8 @@
 			<li><a href="/">About Gravatar</a></li>
 			<li><a href="/site/contact-us/">Get Help</a></li>
 			<li><a href="/site/implement/">Developer Resources</a></li>
-			<li><a href="http://blog.gravatar.com/">Read Our Blog</a></li>
-			<li><a href="http://automattic.com/privacy/">Privacy Policy</a></li>
+			<li><a href="https://blog.gravatar.com/">Read Our Blog</a></li>
+			<li><a href="https://automattic.com/privacy/">Privacy Policy</a></li>
 			<li><a href="/site/terms-of-service/">Terms of Service</a></li>
 		</ul>
 	</li>
@@ -93,7 +93,7 @@ jQuery(document).ready(function(){
 					<div id="gallery">
 						<span class="gallery-paperclip"></span>
 						<div class="gallery-main">
-						<a href="#photo-0">							<img src="http://0.gravatar.com/avatar/90ea1e99234c3f72e856c5e5d5db53d2?size=420" id="center-stage" alt="Photo" class="photo" />
+						<a href="#photo-0">							<img src="https://0.gravatar.com/avatar/90ea1e99234c3f72e856c5e5d5db53d2?size=420" id="center-stage" alt="Photo" class="photo" />
 						</a>						</div>
 
 													<div class="no-gallery-browser">&nbsp;</div>
@@ -110,8 +110,8 @@ jQuery(document).ready(function(){
 													<a id="report-abuse" href="#report-abuse">Report Abuse</a>
 											</div>
 
-					Link to this profile: <a href="http://gravatar.com/victorg2">http://gravatar.com/victorg2</a><br/>
-					For developers: <a href="http://en.gravatar.com/victorg2.json">JSON</a> &middot; <a href="http://en.gravatar.com/victorg2.xml">XML</a> &middot; <a href="http://en.gravatar.com/victorg2.php">PHP</a> &middot; <a href="http://en.gravatar.com/victorg2.vcf">VCF</a> &middot; <a href="http://en.gravatar.com/victorg2.qr">QR</a>
+					Link to this profile: <a href="https://gravatar.com/victorg2">https://gravatar.com/victorg2</a><br/>
+					For developers: <a href="https://en.gravatar.com/victorg2.json">JSON</a> &middot; <a href="https://en.gravatar.com/victorg2.xml">XML</a> &middot; <a href="https://en.gravatar.com/victorg2.php">PHP</a> &middot; <a href="https://en.gravatar.com/victorg2.vcf">VCF</a> &middot; <a href="https://en.gravatar.com/victorg2.qr">QR</a>
 				</div>
 			</div>
 
@@ -169,11 +169,11 @@ jQuery(document).ready(function(){
 		<div class="middle">
 			<ul id="footer-nav">
 				<li><a href="/site/implement/">Developers</a></li>
-				<li><a href="http://automattic.com/privacy/">Privacy Policy</a></li>
+				<li><a href="https://automattic.com/privacy/">Privacy Policy</a></li>
 				<li><a href="/">About</a></li>
 				<li><a href="/site/translations/">Languages</a></li>
 			</ul>
-			<a href='http://automattic.com' id="automattic_joint" style='text-decoration: none'>An <span>Automattic</span> Creation</a>
+			<a href='https://automattic.com' id="automattic_joint" style='text-decoration: none'>An <span>Automattic</span> Creation</a>
 		</div>
 	</div>
 	<span class="clear"></span>
@@ -185,7 +185,7 @@ jQuery(document).ready(function(){
 	</div>
  </div>
   <script type="text/javascript">
-   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
  </script>
  <script type="text/javascript">
@@ -194,7 +194,7 @@ jQuery(document).ready(function(){
    pageTracker._trackPageview();
 </script>
 <script type="text/javascript">_qoptions={qacct:'p-18-mFEk4J448M',labels:'type.gravatar.profile'};</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript><p><img class="robots-nocontent" src="http://pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=type.gravatar.profile" style="display:none" height="1" width="1" alt="" /></p></noscript>
+<script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
+<noscript><p><img class="robots-nocontent" src="https://pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=type.gravatar.profile" style="display:none" height="1" width="1" alt="" /></p></noscript>
 </body>
 </html>

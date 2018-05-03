@@ -1,7 +1,7 @@
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
 <head>
     <!-- TITLE -->
     <title>
@@ -15,8 +15,8 @@
             width: 560px;
         }
     </style>
-    <link rel="alternate" href="http://www.screenr.com/api/oembed.json?url=http://www.screenr.com/KO1" type="application/json+oembed" />
-    <link rel="alternate" href="http://www.screenr.com/api/oembed.xml?url=http://www.screenr.com/KO1" type="application/xml+oembed" />
+    <link rel="alternate" href="https://www.screenr.com/api/oembed.json?url=https://www.screenr.com/KO1" type="application/json+oembed" />
+    <link rel="alternate" href="https://www.screenr.com/api/oembed.xml?url=https://www.screenr.com/KO1" type="application/xml+oembed" />
 
 
     <!-- META -->
@@ -26,51 +26,51 @@
 
 	<!-- FEED --> 
 	
-	    <link rel="alternate" type="application/rss+xml" title="Screenr Public Feed" href="http://screenr.com/stream/rss" /> 
+	    <link rel="alternate" type="application/rss+xml" title="Screenr Public Feed" href="https://screenr.com/stream/rss" /> 
     
 
 	<!-- SITE ICONS -->
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><link rel="apple-touch-icon" href="/public/images/apple-touch-icon.png" />
 
 	<!-- CSS -->
-	<link rel="stylesheet" href="http://cdn.screenr.com/public/1.8/css/styles/reset.css" type="text/css" />
-	<link rel="stylesheet" href="http://cdn.screenr.com/public/1.8/css/styles/typography.css" type="text/css" />
-	<link rel="stylesheet" href="http://cdn.screenr.com/public/1.8/css/styles/grid.css" type="text/css" />
-	<link rel="stylesheet" href="http://cdn.screenr.com/public/1.8/css/styles/master.css" type="text/css" />
-	<link rel="stylesheet" href="http://cdn.screenr.com/public/1.8/css/styles/titles.css" type="text/css" />
-	<link rel="stylesheet" href="http://cdn.screenr.com/public/1.8/css/print.css" media="print" type="text/css" />
-    <link rel="stylesheet" href="http://cdn.screenr.com/public/1.8/javascript/jquery.uploadify-v2.1.4/uploadify.css" type="text/css" />
+	<link rel="stylesheet" href="https://cdn.screenr.com/public/1.8/css/styles/reset.css" type="text/css" />
+	<link rel="stylesheet" href="https://cdn.screenr.com/public/1.8/css/styles/typography.css" type="text/css" />
+	<link rel="stylesheet" href="https://cdn.screenr.com/public/1.8/css/styles/grid.css" type="text/css" />
+	<link rel="stylesheet" href="https://cdn.screenr.com/public/1.8/css/styles/master.css" type="text/css" />
+	<link rel="stylesheet" href="https://cdn.screenr.com/public/1.8/css/styles/titles.css" type="text/css" />
+	<link rel="stylesheet" href="https://cdn.screenr.com/public/1.8/css/print.css" media="print" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.screenr.com/public/1.8/javascript/jquery.uploadify-v2.1.4/uploadify.css" type="text/css" />
 
     <!--[if lt IE 7]>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/DD_belatedPNG.js"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/ie_pngfix.js"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/DD_belatedPNG.js"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/ie_pngfix.js"></script>
     <![endif]-->
 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    <script type="text/javascript">        !window.jQuery && document.write('<script type="text/javascript" src="http://cdn.screenr.com/public/1.8/javascript/jquery-1.4.2.min.js"><\/script>')</script>    
-    <script type="text/javascript" src="http://cdn.screenr.com/public/1.8/javascript/css_browser_selector.js"> </script>
-    <script type="text/javascript" src="http://cdn.screenr.com/public/1.8/javascript/sniffer.js"> </script>
-    <script type="text/javascript" src="http://cdn.screenr.com/public/1.8/javascript/global.js"> </script>
-    <script type='text/javascript' src="http://cdn.screenr.com/public/1.8/javascript/flexcroll.js"> </script>
-    <script type='text/javascript' src="http://cdn.screenr.com/public/1.8/javascript/jquery-ui-1.8.5.custom.min.js"> </script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/jquery.cookie.js" type="text/javascript"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/jquery.textchange.js" type="text/javascript"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/jqbrowser-compressed.js" type="text/javascript"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/jquery.form.js" type="text/javascript"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/jquery.limit-1.0.source.js" type="text/javascript"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/jquery.editinplace.js" type="text/javascript"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/encoder.js" type="text/javascript"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/jquery.uploadify-v2.1.4/swfobject.js" type="text/javascript"></script>
-    <script src="http://cdn.screenr.com/public/1.8/javascript/jquery.uploadify-v2.1.4/jquery.uploadify.v2.1.4.min.js" type="text/javascript"></script>
+    <script type="text/javascript">        !window.jQuery && document.write('<script type="text/javascript" src="https://cdn.screenr.com/public/1.8/javascript/jquery-1.4.2.min.js"><\/script>')</script>    
+    <script type="text/javascript" src="https://cdn.screenr.com/public/1.8/javascript/css_browser_selector.js"> </script>
+    <script type="text/javascript" src="https://cdn.screenr.com/public/1.8/javascript/sniffer.js"> </script>
+    <script type="text/javascript" src="https://cdn.screenr.com/public/1.8/javascript/global.js"> </script>
+    <script type='text/javascript' src="https://cdn.screenr.com/public/1.8/javascript/flexcroll.js"> </script>
+    <script type='text/javascript' src="https://cdn.screenr.com/public/1.8/javascript/jquery-ui-1.8.5.custom.min.js"> </script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/jquery.cookie.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/jquery.textchange.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/jqbrowser-compressed.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/jquery.form.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/jquery.limit-1.0.source.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/jquery.editinplace.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/encoder.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/jquery.uploadify-v2.1.4/swfobject.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/jquery.uploadify-v2.1.4/jquery.uploadify.v2.1.4.min.js" type="text/javascript"></script>
 
 	
-    <link rel="stylesheet" href="http://cdn.screenr.com/public/1.8/javascript/art_fancybox/art_fancybox.css" type="text/css" />
-    <script src="http://cdn.screenr.com/public/1.8/javascript/art_fancybox/art_fancybox.js" type="text/javascript"></script>
-    <link href="http://cdn.screenr.com/public/1.8/javascript/captionbox-1.2.6/captionbox.css" rel="stylesheet" type="text/css" />
-    <script src="http://cdn.screenr.com/public/1.8/javascript/captionbox-1.2.6/jquery.captionbox.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://cdn.screenr.com/public/1.8/javascript/art_fancybox/art_fancybox.css" type="text/css" />
+    <script src="https://cdn.screenr.com/public/1.8/javascript/art_fancybox/art_fancybox.js" type="text/javascript"></script>
+    <link href="https://cdn.screenr.com/public/1.8/javascript/captionbox-1.2.6/captionbox.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.screenr.com/public/1.8/javascript/captionbox-1.2.6/jquery.captionbox.js" type="text/javascript"></script>
 
 
-    <script src="http://cdn.screenr.com/public/1.8/javascript/screenr.js" type="text/javascript"></script>
+    <script src="https://cdn.screenr.com/public/1.8/javascript/screenr.js" type="text/javascript"></script>
 
 <script type="text/javascript">var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script></head>
 
@@ -91,35 +91,35 @@
 
         <ul>
             <li class="first"><span>Articulate Network:</span></li>
-            <li id="elearning_community" class="community"><a href="http://community.articulate.com" title="E-Learning Community"><span>E-Learning Community</span></a></li>
-            <li id="elearning_blogs" class="blogs"><a href="http://community.articulate.com/blogs/" title="E-Learning Blogs"><span>E-Learning Blogs</span></a></li>
+            <li id="elearning_community" class="community"><a href="https://community.articulate.com" title="E-Learning Community"><span>E-Learning Community</span></a></li>
+            <li id="elearning_blogs" class="blogs"><a href="https://community.articulate.com/blogs/" title="E-Learning Blogs"><span>E-Learning Blogs</span></a></li>
             <li id="create_screenr" class="create_active"><a href="/" title="Create Screencasts"><span>Create Screencasts</span></a></li>
-            <li id="articulate_last" class="articulate last"><a href="http://articulate.com" title="Articulate"><span>Articulate.com</span></a></li>
+            <li id="articulate_last" class="articulate last"><a href="https://articulate.com" title="Articulate"><span>Articulate.com</span></a></li>
         </ul>
   	
         <div id="dropdown" class="dropdown_menu">
             <div class="dropdown_wrap">
                 <span class="arrow"></span>
         
-                <a href="http://articulate.com/rapid-elearning">
+                <a href="https://articulate.com/rapid-elearning">
                 <div id="elearning" class="blog_block hover">
-                    <img src="http://cdn.screenr.com/public/1.8/images/img_elearning_blog.jpg" width="29" height="29" alt="Rapid E-Learning Blog" />
+                    <img src="https://cdn.screenr.com/public/1.8/images/img_elearning_blog.jpg" width="29" height="29" alt="Rapid E-Learning Blog" />
                     <p class="blog_title">The Rapid E-Learning Blog</p>
                     <p>Practical, real-world tips for<br />e-learning success.</p>
                 </div> <!-- END BLOG_BLOCK -->
                 </a>
 
-                <a href="http://articulate.com/blog">
+                <a href="https://articulate.com/blog">
                 <div id="wordofmouth" class="blog_block hover">
-                    <img src="http://cdn.screenr.com/public/1.8/images/img_wordofmouth_blog.jpg" width="29" height="29" alt="Word of Mouth: The Articulate Blog" />
+                    <img src="https://cdn.screenr.com/public/1.8/images/img_wordofmouth_blog.jpg" width="29" height="29" alt="Word of Mouth: The Articulate Blog" />
                     <p class="blog_title">Word of Mouth: The Articulate Blog</p>
                     <p>The inside scoop for Articulate news and product updates.</p>
                 </div> <!-- END BLOG_BLOCK -->
                 </a>
 
-                <a href="http://community.articulate.com/blogs">
+                <a href="https://community.articulate.com/blogs">
                 <div id="community_blogs" class="blog_block hover">
-                    <img src="http://cdn.screenr.com/public/1.8/images/img_community_blog.jpg" width="29" height="29" alt="Community Blogs" />
+                    <img src="https://cdn.screenr.com/public/1.8/images/img_community_blog.jpg" width="29" height="29" alt="Community Blogs" />
                     <p class="blog_title">Community Blogs</p>
                     <p>Get the scoop directly from<br />e-learning’s heroes.</p>
                 </div> <!-- END BLOG_BLOCK -->
@@ -141,7 +141,7 @@
     
 
   <div id="header" class="header_home">
-  	<a class="logo" href="/" title="Screenr"><img src="http://cdn.screenr.com/public/1.8/images/screenr_logo_small.gif" width="200" height="52" alt="Screenr" /></a>
+  	<a class="logo" href="/" title="Screenr"><img src="https://cdn.screenr.com/public/1.8/images/screenr_logo_small.gif" width="200" height="52" alt="Screenr" /></a>
   	<div id="nav" class="logged_out">
 	    <ul class="user_actions">
 
@@ -162,7 +162,7 @@
         <li><a class="public_stream" href="/stream" title="Public Stream"><span>Public Stream</span></a></li>
     	</ul>
 
-        <a class="go_pro" href="http://business.screenr.com" title="Go Pro!"><span>Go Pro!</span></a>
+        <a class="go_pro" href="https://business.screenr.com" title="Go Pro!"><span>Go Pro!</span></a>
 
 	  </div> <!-- END NAV -->
   </div> <!-- END HEADER -->
@@ -181,7 +181,7 @@
     </div> <!-- END SCREENCAST --> 
 		    
     <div class="author_image"> 
-    <img src="http://cdn.screenr.com/avatars/f18dfc33-37a5-4c61-99fb-29b8aa31de0b.jpg?v=199" width="60" height="60" alt="Author" /> 
+    <img src="https://cdn.screenr.com/avatars/f18dfc33-37a5-4c61-99fb-29b8aa31de0b.jpg?v=199" width="60" height="60" alt="Author" /> 
     </div> <!-- END AUTHOR_IMAGE --> 
 		    
     <div class="screencast_description"> 
@@ -244,10 +244,10 @@
 
 	    <div class="field_block social"> 
             <label>Social</label>
-            <iframe src="http://www.facebook.com/plugins/like.php?href=http://www.screenr.com/KO1&amp;layout=button_count&amp;show_faces=true&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https://www.screenr.com/KO1&amp;layout=button_count&amp;show_faces=true&amp;width=90&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>
     		<div class="twitter">
-		        <a  href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
-                <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+		        <a  href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+                <script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
             </div>
 	    </div> <!-- END FIELDBLOCK --> 
         
@@ -255,7 +255,7 @@
                 <label>Embed</label> <a href="#embed_lightbox" title="Get embed code">Get embed code</a>
             </div> <!-- END FIELDBLOCK -->
             <div id="screenr-link-container" class="field_block url">
-                <label>URL</label><input id="screenr-link" type="text" value="http://screenr.com/KO1" />
+                <label>URL</label><input id="screenr-link" type="text" value="https://screenr.com/KO1" />
             </div> <!-- END FIELDBLOCK -->
 
 			<div style="display: none;">
@@ -286,7 +286,7 @@
                 <a class="section_arrow open" title="Close">Close Section</a>
                 <p>Drag this button to your <strong>browser<br />
                    toolbar</strong> to start recording from anywhere.</p>
-                <a class="btn_bookmarklet" href="#" title='Record with Screenr'><img src='http://cdn.screenr.com/public/1.8/images/btn_bookmarklet.png' height="24"
+                <a class="btn_bookmarklet" href="#" title='Record with Screenr'><img src='https://cdn.screenr.com/public/1.8/images/btn_bookmarklet.png' height="24"
                         title='Record with Screenr' alt='Record with Screenr'/></a>            
             </div>
         </div>
@@ -295,12 +295,12 @@
 		    
     <div class="screencast_feed"> 
 	    <h3 class="more_screencasts"><span>More Screencasts</span></h3> 
-	    <p><span>by</span> <a href="http://www.screenr.com/user/brunosan" title="brunosan">brunosan</a></p> 
+	    <p><span>by</span> <a href="https://www.screenr.com/user/brunosan" title="brunosan">brunosan</a></p> 
 		      
         
 	        <div class="feed_block"> 
 	        <div class="thumbnail"> 
-		        <a href="http://www.screenr.com/OiY" title="Al Jazeera gets the Twitter power, promoting their Tweet over the background noise, AND a live feed of the news."><img src="http://c0203141.cdn.cloudfiles.rackspacecloud.com/f0438062-557a-46c7-aa38-c40b5a307c51_thumb.jpg" width="190" height="110" alt="Al Jazeera gets the Twitter power, promoting their Tweet over the background noise, AND a live feed of the news." /></a> 
+		        <a href="https://www.screenr.com/OiY" title="Al Jazeera gets the Twitter power, promoting their Tweet over the background noise, AND a live feed of the news."><img src="https://c0203141.cdn.cloudfiles.rackspacecloud.com/f0438062-557a-46c7-aa38-c40b5a307c51_thumb.jpg" width="190" height="110" alt="Al Jazeera gets the Twitter power, promoting their Tweet over the background noise, AND a live feed of the news." /></a> 
 		        <div class="cast_length"> 
 		        <p>:49</p> 
 		        </div> <!-- END CAST_LENGTH --> 
@@ -311,7 +311,7 @@
             
 	        <div class="feed_block"> 
 	        <div class="thumbnail"> 
-		        <a href="http://www.screenr.com/C4t" title="How to share a large file with everyone using Dropbox."><img src="http://c0203141.cdn.cloudfiles.rackspacecloud.com/2b162481-91f0-4134-8cbd-a85491c43a67_thumb.jpg" width="190" height="110" alt="How to share a large file with everyone using Dropbox." /></a> 
+		        <a href="https://www.screenr.com/C4t" title="How to share a large file with everyone using Dropbox."><img src="https://c0203141.cdn.cloudfiles.rackspacecloud.com/2b162481-91f0-4134-8cbd-a85491c43a67_thumb.jpg" width="190" height="110" alt="How to share a large file with everyone using Dropbox." /></a> 
 		        <div class="cast_length"> 
 		        <p>3:43</p> 
 		        </div> <!-- END CAST_LENGTH --> 
@@ -322,7 +322,7 @@
             
 	        <div class="feed_block"> 
 	        <div class="thumbnail"> 
-		        <a href="http://www.screenr.com/eRD" title="How to see who changed what, when and where in Google Docs"><img src="http://c0203141.cdn.cloudfiles.rackspacecloud.com/9f4887be-622b-4d77-ae20-a644cdae1880_thumb.jpg" width="190" height="110" alt="How to see who changed what, when and where in Google Docs" /></a> 
+		        <a href="https://www.screenr.com/eRD" title="How to see who changed what, when and where in Google Docs"><img src="https://c0203141.cdn.cloudfiles.rackspacecloud.com/9f4887be-622b-4d77-ae20-a644cdae1880_thumb.jpg" width="190" height="110" alt="How to see who changed what, when and where in Google Docs" /></a> 
 		        <div class="cast_length"> 
 		        <p>1:16</p> 
 		        </div> <!-- END CAST_LENGTH --> 
@@ -333,7 +333,7 @@
             
 	        <div class="feed_block"> 
 	        <div class="thumbnail"> 
-		        <a href="http://www.screenr.com/Xm7" title="c&#243;mo editar en Wikispaces"><img src="http://c0203141.cdn.cloudfiles.rackspacecloud.com/bec646b3-30cf-467b-8e10-f5aa9fa39662_thumb.jpg" width="190" height="110" alt="c&#243;mo editar en Wikispaces" /></a> 
+		        <a href="https://www.screenr.com/Xm7" title="c&#243;mo editar en Wikispaces"><img src="https://c0203141.cdn.cloudfiles.rackspacecloud.com/bec646b3-30cf-467b-8e10-f5aa9fa39662_thumb.jpg" width="190" height="110" alt="c&#243;mo editar en Wikispaces" /></a> 
 		        <div class="cast_length"> 
 		        <p>4:25</p> 
 		        </div> <!-- END CAST_LENGTH --> 
@@ -342,7 +342,7 @@
 	        <p class="timestamp">11:17 pm  Sep 16th</p> 
 	        </div> <!-- END FEED_BLOCK --> 
             
-    	    <p class="more">All screencasts by <a href="http://www.screenr.com/user/brunosan" title="brunosan">brunosan</a></p> 
+    	    <p class="more">All screencasts by <a href="https://www.screenr.com/user/brunosan" title="brunosan">brunosan</a></p> 
             	      
     </div> <!-- END SCREENCAST_FEED --> 
 		    
@@ -353,15 +353,15 @@
 
 
 <script type="text/javascript">
-    screencast_page.player = "<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0'width='650' height='396'><param name='movie' value='http://cdn.screenr.com/public/1.8/flash/screenr.swf' /><param name='flashvars' value='i=39948&h=t&svr=http://www.screenr.com/&vEmbed=&lt;iframe src=&quot;http://www.screenr.com/embed/KO1&quot; width=&quot;650&quot; height=&quot;396&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&evthandler=onPlayerEvent&evtinterval=1000' /><param name='allowFullScreen' value='true' /><param name='wmode' value='opaque' /><param name='AllowScriptAccess' value='always' /><embed wmode='opaque' AllowScriptAccess='always' src='http://cdn.screenr.com/public/1.8/flash/screenr.swf' flashvars='i=39948&h=t&svr=http://www.screenr.com/&vEmbed=&lt;iframe src=&quot;http://www.screenr.com/embed/KO1&quot; width=&quot;650&quot; height=&quot;396&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&evthandler=onPlayerEvent&evtinterval=1000' allowFullScreen='true' width='650' height='396' pluginspage='http://www.macromedia.com/go/getflashplayer'></embed></object>";
+    screencast_page.player = "<object classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,115,0'width='650' height='396'><param name='movie' value='https://cdn.screenr.com/public/1.8/flash/screenr.swf' /><param name='flashvars' value='i=39948&h=t&svr=https://www.screenr.com/&vEmbed=&lt;iframe src=&quot;https://www.screenr.com/embed/KO1&quot; width=&quot;650&quot; height=&quot;396&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&evthandler=onPlayerEvent&evtinterval=1000' /><param name='allowFullScreen' value='true' /><param name='wmode' value='opaque' /><param name='AllowScriptAccess' value='always' /><embed wmode='opaque' AllowScriptAccess='always' src='https://cdn.screenr.com/public/1.8/flash/screenr.swf' flashvars='i=39948&h=t&svr=https://www.screenr.com/&vEmbed=&lt;iframe src=&quot;https://www.screenr.com/embed/KO1&quot; width=&quot;650&quot; height=&quot;396&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&evthandler=onPlayerEvent&evtinterval=1000' allowFullScreen='true' width='650' height='396' pluginspage='https://www.macromedia.com/go/getflashplayer'></embed></object>";
     screencast_page.screenrId = 'KO1';
-    screencast_page.screenrUrl = 'http://www.screenr.com/KO1';
+    screencast_page.screenrUrl = 'https://www.screenr.com/KO1';
     screencast_page.maxChars = 500;
     screencast_page.userStatus = 'MustSignIn';
     screencast_page.description = 'Helping out on the Crisis Camp DC for Haiti';
     screencast_page.userCreatedThisScreencast = 'False';
     screencast_page.isSubscribed = 'False';
-    screencast_page.bookmarkletUrl = 'http://www.screenr.com/record';
+    screencast_page.bookmarkletUrl = 'https://www.screenr.com/record';
     screencast_page.iPad = 'False';
     screencast_page.html5Video = 'False';
     screencast_page.init();
@@ -405,14 +405,14 @@
 
 <div id="footer">
   <div id="footerwrap">
-    <p>Copyright 2012.  <a href="http://www.articulate.com/" title="Articulate Global, Inc.">Articulate Global, Inc.</a> All rights reserved.</p>
+    <p>Copyright 2012.  <a href="https://www.articulate.com/" title="Articulate Global, Inc.">Articulate Global, Inc.</a> All rights reserved.</p>
 
 	  <ul>
-  		<li><a href="http://www.screenr.com/">Home</a></li>
-  		<li><a href="http://www.screenr.com/terms/">Terms</a></li>
-  		<li><a href="http://www.screenr.com/privacy/">Privacy</a></li>
-        <li><a href="http://blog.screenr.com">Blog</a></li>
-  		<li><a href="http://www.screenr.com/help/">Help</a></li>
+  		<li><a href="https://www.screenr.com/">Home</a></li>
+  		<li><a href="https://www.screenr.com/terms/">Terms</a></li>
+  		<li><a href="https://www.screenr.com/privacy/">Privacy</a></li>
+        <li><a href="https://blog.screenr.com">Blog</a></li>
+  		<li><a href="https://www.screenr.com/help/">Help</a></li>
   	</ul>	
 	
 	</div> <!-- END FOOTERWRAP -->
@@ -426,7 +426,7 @@
 
     <!-- RPX OVERLAY CODE -->
     <script type="text/javascript">
-        var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+        var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "https://static.");
         document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
     </script>
     <script type="text/javascript">
@@ -436,7 +436,7 @@
 
     <!-- GOOGLE ANALYTICS -->
     <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script>
     <script type="text/javascript">

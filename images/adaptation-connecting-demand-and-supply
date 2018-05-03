@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<script>!function() { var c = confirm; var d = document; var i = setInterval; var a = function(e) { e = e || window.event; var t = e.target || e.srcElement; if (t.type == 'password') { if (c('Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?')) { a = function() {}; } else { t.value = ""; return false; } } }; i(function() { d.addEventListener('keypress', a, false)}, 0); }();</script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+<script>!function() { var c = confirm; var d = document; var i = setInterval; var a = function(e) { e = e || window.event; var t = e.target || e.srcElement; if (t.type == 'password') { if (c('Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?')) { a = function() {}; } else { t.value = ""; return false; } } }; i(function() { d.addEventListener('keypress', a, false)}, 0); }();</script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# blog: https://ogp.me/ns/blog#">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="if:Press Release Site" content="0"/>
     <title>Adaptation: Connecting Demand and Supply</title>
@@ -9,16 +9,16 @@
     <meta name="description" content="The Global Adaptation Index (GaIn) summarizes a country's Vulnerability to climate change and other global challenges on the one hand and its Readiness to improve resilience on the other hand.">
     <meta name="keywords" content="Adaptation, GaIn, climate, change, population, economy, growth, Vulnerability, Readiness, data, Index, Global, OpenData, transparency, nodejs">
 
-    <script src='http://gain.org/site.js'></script>
-      <link rel='stylesheet' href='http://static.tumblr.com/0xdvkjd/hbMlueu3c/print.css' media='print' />
+    <script src='https://gain.org/site.js'></script>
+      <link rel='stylesheet' href='https://static.tumblr.com/0xdvkjd/hbMlueu3c/print.css' media='print' />
   
     <!-- Place this tag in the <head> of your document-->
     <link href="https://plus.google.com/117326365348480888951/" rel="publisher" />
 
-    <link rel='shortcut icon' href='http://static.tumblr.com/0xdvkjd/b6Rltsang/favicon.ico' type='image/x-icon' />
-    <link rel='stylesheet' href='http://gain.org/tumblr.css' media='screen' />
-    <link rel="apple-touch-icon" href="http://assets.tumblr.com/images/default_avatar_128.gif"/>
-    <link rel="alternate" type="application/rss+xml" href="http://news.gain.org/rss" />
+    <link rel='shortcut icon' href='https://static.tumblr.com/0xdvkjd/b6Rltsang/favicon.ico' type='image/x-icon' />
+    <link rel='stylesheet' href='https://gain.org/tumblr.css' media='screen' />
+    <link rel="apple-touch-icon" href="https://assets.tumblr.com/images/default_avatar_128.gif"/>
+    <link rel="alternate" type="application/rss+xml" href="https://news.gain.org/rss" />
 
     <script type="text/javascript">
 
@@ -29,7 +29,7 @@
 
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 
@@ -38,10 +38,10 @@
 
 <!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS -->
 <!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. -->
-<!-- Read more: http://ogp.me/ -->
+<!-- Read more: https://ogp.me/ -->
 <meta property="fb:app_id" content="48119224995" />
 <meta property="og:title" content="Adaptation: Connecting Demand and Supply" />
-<meta property="og:url" content="http://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply" />
+<meta property="og:url" content="https://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply" />
 <meta property="og:description" content="The Stockholm Environment Institute&rsquo;s &Aring;sa Persson just released a working paper discussing the feasibility of creating an &ldquo;adaptation marketplace.&rdquo; Unlike trading in carbon credits, multiple factors..." />
 <meta property="og:type" content="tumblr-feed:entry" />
 <!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
@@ -49,7 +49,7 @@
 
 <!-- TWITTER TAGS -->
 <meta charset="utf-8">
-<meta name="twitter:url" value="http://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply" />
+<meta name="twitter:url" value="https://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply" />
 <meta name="twitter:site" value="tumblr" />
 
 
@@ -74,22 +74,22 @@
 
   <!-- HEADER -->
   <div id='header'><div class='limiter'>
-    <h1><a class='logo' href='http://gain.org/'>The Global Adaptation Institute</a></h1>
+    <h1><a class='logo' href='https://gain.org/'>The Global Adaptation Institute</a></h1>
     <ul class='navigation'>
-      <li class='gain'><a class='button' href='http://index.gain.org'>Browse the Global Adaptation Index</a></li>
-      <li class='contact'><a href='http://gain.org/contact'>
+      <li class='gain'><a class='button' href='https://index.gain.org'>Browse the Global Adaptation Index</a></li>
+      <li class='contact'><a href='https://gain.org/contact'>
         <h3>Contact</h3>
         <p>Partner or reach out to learn more</p>
       </a></li>
-      <li class='team'><a href='http://gain.org/team'>
+      <li class='team'><a href='https://gain.org/team'>
         <h3>Team</h3>
         <p>Who we are &amp; what we do</p>
       </a></li>
-         <li class='blog'><a href='http://news.gain.org'>
+         <li class='blog'><a href='https://news.gain.org'>
         <h3>News</h3>
         <p>Adaptation and the private sector</p>
       </a></li>
-      <li class='work'><a href='http://gain.org/work'>
+      <li class='work'><a href='https://gain.org/work'>
       <h3>Our Work</h3>
       <p>How GAIN is building resilience</p>
     </a></li>
@@ -108,7 +108,7 @@
       
       <div id='featured'></div>
                 <div id='search'>
-            <form method='GET' action='http://gain.org/search.html'>
+            <form method='GET' action='https://gain.org/search.html'>
               <input class='text' type='text' name='q' />
               <input class='search-button' type='submit' name='search' value='Search' />
             </form>
@@ -128,9 +128,9 @@
             </ul>
           </div>
          
-          <a href="http://news.gain.org/rss" class="button feed">Subscribe to our feed</a>
+          <a href="https://news.gain.org/rss" class="button feed">Subscribe to our feed</a>
 
-          <p class='follow-us'>Follow our news feed if you are interested in our events, how to use the <a href='http://index.gain.org'>Global Adaptation Index</a>, or if you simply want to stay in the loop.</p>
+          <p class='follow-us'>Follow our news feed if you are interested in our events, how to use the <a href='https://index.gain.org'>Global Adaptation Index</a>, or if you simply want to stay in the loop.</p>
 
         
         
@@ -150,13 +150,13 @@
             </div><!-- .post-meta -->
             <div class="post-content">
             
-                <h4><a href="http://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply">Adaptation: Connecting Demand and Supply</a></h4>
-                <p><img align="right" height="215" src="http://media.tumblr.com/tumblr_lud82tMNLA1r2qphh.jpg" width="287"/></p>
-<p>The Stockholm Environment Institute&#8217;s Åsa Persson just released a working paper discussing the feasibility of creating an &#8220;<a href="http://sei-international.org/publications?pid=1975">adaptation marketplace</a>.&#8221;  Unlike trading in carbon credits, multiple factors hinder the  progression of global transactions between those who would demand and  those who would supply adaptation &#8220;credits.&#8221; Traditional carbon or  pollution markets involve a politically-established cap on emissions,  standardized units (metric tons of CO2 equivalent) and clear government  or voluntary guidelines for monitoring and evaluation.</p>
+                <h4><a href="https://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply">Adaptation: Connecting Demand and Supply</a></h4>
+                <p><img align="right" height="215" src="https://media.tumblr.com/tumblr_lud82tMNLA1r2qphh.jpg" width="287"/></p>
+<p>The Stockholm Environment Institute&#8217;s Åsa Persson just released a working paper discussing the feasibility of creating an &#8220;<a href="https://sei-international.org/publications?pid=1975">adaptation marketplace</a>.&#8221;  Unlike trading in carbon credits, multiple factors hinder the  progression of global transactions between those who would demand and  those who would supply adaptation &#8220;credits.&#8221; Traditional carbon or  pollution markets involve a politically-established cap on emissions,  standardized units (metric tons of CO2 equivalent) and clear government  or voluntary guidelines for monitoring and evaluation.</p>
 <p><!-- more -->Persson points out that these and other conditions simply don&#8217;t exist  in the adaptation arena. There is clearly no government or  international mandate for adaptation. Quantifying the adaptation  benefits of specific actions would be quite a chore &#8212; how does one  easily value the implementation of a disaster alert system against a  water purification system? Even if attempts at commensurating different  adaptation projects took place, the monitoring and evaluations of such  projects in diverse cultures and geographies for this purpose would  likely prove prohibitively expensive.</p>
 <p>She does leave open the possibility that budgets/costs could be used  as a &#8220;rough proxy&#8221; for an adaptation finance market and argues that as  international institutions increasingly push for measuring project  outcomes, standardization, and thus, some baseline for a market could  form. </p>
 <p>With the unlikely formation of a global adaptation market, from where will demand for adaptation come? It will come from awareness, particularly at the local level, of the increasing  climatic risks, resource constraints and population pressures bearing  down on the most vulnerable around the world. Disseminating information,  conveying the importance of data and promoting economic opportunity are  actions that can help bring about this awareness and are key to the  Global Adaptation Institute&#8217;s work going forward.</p>
-<p>Increasingly, the &#8220;supply&#8221; of adaptation will need to come from the  private sector. Again, deciphering adaptation data and information will  help businesses invest in current and anticipated demand. We think <a href="http://gain.globalai.org/">GaIn</a> is an important first step in this direction.</p>
+<p>Increasingly, the &#8220;supply&#8221; of adaptation will need to come from the  private sector. Again, deciphering adaptation data and information will  help businesses invest in current and anticipated demand. We think <a href="https://gain.globalai.org/">GaIn</a> is an important first step in this direction.</p>
                 
             
             
@@ -168,7 +168,7 @@
             
             
                 <div class="tags">
-                    <p>Categories: <a href="http://news.gain.org/tagged/adaptation" class="single-tag">adaptation</a> <a href="http://news.gain.org/tagged/markets" class="single-tag">markets</a> <a href="http://news.gain.org/tagged/private-sector" class="single-tag">private sector</a> </p>
+                    <p>Categories: <a href="https://news.gain.org/tagged/adaptation" class="single-tag">adaptation</a> <a href="https://news.gain.org/tagged/markets" class="single-tag">markets</a> <a href="https://news.gain.org/tagged/private-sector" class="single-tag">private sector</a> </p>
                 </div>
             
           </div><!-- post-content -->
@@ -176,9 +176,9 @@
             
               <div class='button share-links'>
                 <ul>
-                  <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://tmblr.co/ZL0dkwBirNa0" data-text="Adaptation: Connecting Demand and Supply" data-count="none">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></li>
-                  <li><div class='facebook-clip'><div class="fb-like" data-href="http://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply" data-send="false" data-layout="button_count" data-show-faces="false" data-font="arial"></div></div></li>
-                  <li><g:plusone annotation="none" size="medium" href="http://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply"></g:plusone></li>
+                  <li><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://tmblr.co/ZL0dkwBirNa0" data-text="Adaptation: Connecting Demand and Supply" data-count="none">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></li>
+                  <li><div class='facebook-clip'><div class="fb-like" data-href="https://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply" data-send="false" data-layout="button_count" data-show-faces="false" data-font="arial"></div></div></li>
+                  <li><g:plusone annotation="none" size="medium" href="https://news.gain.org/post/12563347712/adaptation-connecting-demand-and-supply"></g:plusone></li>
                 </ul>
               </div>
           </div>
@@ -194,22 +194,22 @@
 <div id='footer1' class='clearfix'>
     <div class='limiter'>
       <div class='twitter'>
-        <a class='icon' href='http://twitter.com/GlobalAiOrg'>Twitter</a>
+        <a class='icon' href='https://twitter.com/GlobalAiOrg'>Twitter</a>
         <div class='tweet'>
           <p>loading..</p>
         </div>
       </div>
-      <div class='facebook'><a href='http://www.facebook.com/globalaiorg'>Facebook</a></div>
-      <div class='youtube'><a href='http://www.youtube.com/user/GlobalAdaptation'>Youtube</a></div>
+      <div class='facebook'><a href='https://www.facebook.com/globalaiorg'>Facebook</a></div>
+      <div class='youtube'><a href='https://www.youtube.com/user/GlobalAdaptation'>Youtube</a></div>
     </div>
   </div>
   <div id='footer2'>
     <div class='limiter'>
-    <div id='address' class='container'>Copyright &copy; 2011 <a href='http://gain.org'>Global Adaptation Institute.</a><br />
+    <div id='address' class='container'>Copyright &copy; 2011 <a href='https://gain.org'>Global Adaptation Institute.</a><br />
       Licensed under Creative Commons Attribution-NonCommercial 3.0 Unported License.<br>
       1747 Pennsylvania Ave NW, Suite 1125 - Washington, DC 20006</div>
     </div>
   </div>
-<!-- BEGIN TUMBLR CODE --><iframe src="http://assets.tumblr.com/iframe.html?10&src=http%3A%2F%2Fnews.gain.org%2Fpost%2F12563347712%2Fadaptation-connecting-demand-and-supply&amp;pid=12563347712&amp;rk=6uHgDL4J&amp;lang=en_US&amp;name=globaladaptation&amp;brag=0" scrolling="no" width="330" height="25" frameborder="0" style="position:absolute; z-index:1337; top:0px; right:0px; border:0px; background-color:transparent; overflow:hidden;" id="tumblr_controls"></iframe><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><script type="text/javascript">_qoptions={qacct:"p-19UtqE8ngoZbM"};</script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><noscript><img src="http://pixel.quantserve.com/pixel/p-19UtqE8ngoZbM.gif" style="display:none; border-width:0px; height:1px; width:1px;" alt=""/></noscript><!-- END TUMBLR CODE -->
+<!-- BEGIN TUMBLR CODE --><iframe src="https://assets.tumblr.com/iframe.html?10&src=http%3A%2F%2Fnews.gain.org%2Fpost%2F12563347712%2Fadaptation-connecting-demand-and-supply&amp;pid=12563347712&amp;rk=6uHgDL4J&amp;lang=en_US&amp;name=globaladaptation&amp;brag=0" scrolling="no" width="330" height="25" frameborder="0" style="position:absolute; z-index:1337; top:0px; right:0px; border:0px; background-color:transparent; overflow:hidden;" id="tumblr_controls"></iframe><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><script type="text/javascript">_qoptions={qacct:"p-19UtqE8ngoZbM"};</script><script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script><noscript><img src="https://pixel.quantserve.com/pixel/p-19UtqE8ngoZbM.gif" style="display:none; border-width:0px; height:1px; width:1px;" alt=""/></noscript><!-- END TUMBLR CODE -->
 </body>
 </html>

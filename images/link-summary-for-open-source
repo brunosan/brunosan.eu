@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<html lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="https://ogp.me/ns#">
     <head data-layout-view="default">
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Link Summary for Open Source event Feb. 11 - TechATState</title>
@@ -8,10 +8,10 @@
     <meta name="description" content="This post is the central repository for links to developing content on Tech@State: Open Source on Feb. 11. We'll have a variety of updates, but this one link w…" />
     <meta name="keywords" content="OSS, open, source" />
 <meta name="title" content="Link Summary for Open Source event Feb. 11" />
-<link rel="image_src" href="http://api.ning.com/icons/appatar/6282015?default=6282015&amp;width=64&amp;height=64" />
+<link rel="image_src" href="https://api.ning.com/icons/appatar/6282015?default=6282015&amp;width=64&amp;height=64" />
 <script type="text/javascript">
-    djConfig = { baseScriptUri: 'http://tech.state.gov/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
-ning = {"CurrentApp":{"premium":true,"iconUrl":"http:\/\/api.ning.com\/icons\/appatar\/6282015?default=6282015&width=64&height=64","url":"http:\/\/techATstate.ning.com","domains":["tech.state.gov"],"online":true,"privateSource":true,"id":"techATstate","appId":"6282015","description":"Tech@State connects tech innovators with those interested in diplomacy and development to enable 21st century statecraft.","name":"TechATState","owner":"3a7l8m2x7191w","createdDate":"2010-08-05T18:44:42.169Z","runOwnAds":false},"CurrentProfile":null,"maxFileUploadSize":7};
+    djConfig = { baseScriptUri: 'https://tech.state.gov/xn/static-6.11.8.1/js/dojo-0.3.1-ning/', isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"https:\/\/api.ning.com\/icons\/appatar\/6282015?default=6282015&width=64&height=64","url":"https:\/\/techATstate.ning.com","domains":["tech.state.gov"],"online":true,"privateSource":true,"id":"techATstate","appId":"6282015","description":"Tech@State connects tech innovators with those interested in diplomacy and development to enable 21st century statecraft.","name":"TechATState","owner":"3a7l8m2x7191w","createdDate":"2010-08-05T18:44:42.169Z","runOwnAds":false},"CurrentProfile":null,"maxFileUploadSize":7};
         (function(){
             if (!window.ning) { return; }
 
@@ -67,7 +67,7 @@ xg._loader.onDone = function() {
     if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
 };
 window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", is_owner: false, is_admin: false, is_member: false, join_date: 0, request_method: "GET", trace: "38bc189b-2f3d-4e0c-aa21-03876e617a79"}, event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; }, _trackingHost: "coll.ning.com", _jsDebug: false } };</script>
-<meta name="medium" content="blog" /><link rel="alternate" type="application/atom+xml" title="TechATstate&#039;s Posts - TechATState" href="http://tech.state.gov/profiles/blog/feed?user=3a7l8m2x7191w&amp;xn_auth=no" /><link rel="alternate" type="application/atom+xml" title="Comments - Link Summary for Open Source event Feb. 11 - TechATState" href="http://tech.state.gov/profiles/comment/feed?attachedTo=6282015%3ABlogPost%3A2423&amp;xn_auth=no" />
+<meta name="medium" content="blog" /><link rel="alternate" type="application/atom+xml" title="TechATstate&#039;s Posts - TechATState" href="https://tech.state.gov/profiles/blog/feed?user=3a7l8m2x7191w&amp;xn_auth=no" /><link rel="alternate" type="application/atom+xml" title="Comments - Link Summary for Open Source event Feb. 11 - TechATState" href="https://tech.state.gov/profiles/comment/feed?attachedTo=6282015%3ABlogPost%3A2423&amp;xn_auth=no" />
 <style type="text/css" media="screen,projection">
 #xg_navigation ul div.xg_subtab ul li a {
     color:#919191;
@@ -80,28 +80,28 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
 </style>
 
 <style type="text/css" media="screen,projection">
-@import url(http://static.ning.com/socialnetworkmain/widgets/index/css/common.min.css?xn_version=1927651093);
-@import url(http://static.ning.com/socialnetworkmain/widgets/profiles/css/component.min.css?xn_version=2627375134);
+@import url(https://static.ning.com/socialnetworkmain/widgets/index/css/common.min.css?xn_version=1927651093);
+@import url(https://static.ning.com/socialnetworkmain/widgets/profiles/css/component.min.css?xn_version=2627375134);
 
 </style>
 
 <style type="text/css" media="screen,projection">
-@import url(http://static.ning.com/techATstate/instances/css/embed_1341219967.css?xn_version=201206282151);
+@import url(https://static.ning.com/techATstate/instances/css/embed_1341219967.css?xn_version=201206282151);
 
 </style>
 
 <style type="text/css" media="screen,projection">
-@import url(http://static.ning.com/techATstate/instances/css/theme_1340922109.css?xn_version=201206282151);
+@import url(https://static.ning.com/techATstate/instances/css/theme_1340922109.css?xn_version=201206282151);
 
 </style>
 
 <!--[if IE 6]>
-    <link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=4160739512" />
+    <link rel="stylesheet" type="text/css" href="https://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=4160739512" />
 <![endif]-->
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="http://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
+<link rel="stylesheet" type="text/css" href="https://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
 <![endif]-->
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tech.state.gov/profiles/blog/rsd" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tech.state.gov/profiles/blog/rsd" />
 
     </head>
     <body>
@@ -114,7 +114,7 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
       cookie     : true,   
       xfbml      : true,  
       oauth      : true,   
-      channelUrl : 'http://tech.state.gov/xn_resources/widgets/index/js/facebookapp/channel.html'
+      channelUrl : 'https://tech.state.gov/xn_resources/widgets/index/js/facebookapp/channel.html'
     });
     var n = xg.addOnFacebookLoad.functions.length;
     for (var i = 0; i < n; i++) {
@@ -135,7 +135,7 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
                                     </div>
 
                 <div id="xn_bar_menu_more">
-                    <form id="xn_bar_menu_search" method="GET" action="http://tech.state.gov/main/search/search">
+                    <form id="xn_bar_menu_search" method="GET" action="https://tech.state.gov/main/search/search">
                         <fieldset>
                             <input type="text" name="q" id="xn_bar_menu_search_query" value="Search TechATState" _hint="Search TechATState" accesskey="4" class="text xj_search_hint" />
                             <a id="xn_bar_menu_search_submit" href="#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
@@ -144,8 +144,8 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
                 </div>
 
                             <ul id="xn_bar_menu_tabs">
-                                            <li><a href="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Sign Up</a></li>
-                                                <li><a href="http://tech.state.gov/main/authorization/signIn?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Sign In</a></li>
+                                            <li><a href="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Sign Up</a></li>
+                                                <li><a href="https://tech.state.gov/main/authorization/signIn?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Sign In</a></li>
                                     </ul>
                         </div>
         </div>
@@ -154,7 +154,7 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
         <div id="xg" class="xg_theme xg_widget_profiles xg_widget_profiles_blog xg_widget_profiles_blog_show" data-layout-pack="classic">
             <div id="xg_head">
                 <div id="xg_masthead">
-                    <p id="xg_sitename"><a id="application_name_header_link" href="/"><img src="http://api.ning.com:80/files/Qyu80cr5XQxiOzjrYs7ZZPvSALPOsljSB*GDF-Jhc2QVsRvKIXuhW2njTqa9Hdpi0qsP5brc*itaV62gmqyJh9qj9k1HCVem/LogoResize.png?width=334&amp;height=90&amp;xn_auth=no&amp;type=x-png" alt="TechATState"></a></p>
+                    <p id="xg_sitename"><a id="application_name_header_link" href="/"><img src="https://api.ning.com:80/files/Qyu80cr5XQxiOzjrYs7ZZPvSALPOsljSB*GDF-Jhc2QVsRvKIXuhW2njTqa9Hdpi0qsP5brc*itaV62gmqyJh9qj9k1HCVem/LogoResize.png?width=334&amp;height=90&amp;xn_auth=no&amp;type=x-png" alt="TechATState"></a></p>
                     <p id="xg_sitedesc" class="xj_site_desc">connecting technology with opportunity to aid U.S. diplomacy and development</p>
                 </div>
                 <div id="xg_navigation">
@@ -167,14 +167,14 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
             <div id="xg_body">
                 
                 <div class="xg_column xg_span-16 xj_classic_canvas">
-                    <ul class="navigation easyclear"><li><a href="http://tech.state.gov/profiles/blog/list">All Blog Posts</a></li><li><a href="http://tech.state.gov/profiles/blog/list?my=1">My Blog</a></li><li class="right  xg_lightborder navbutton"><a href="http://tech.state.gov/profiles/blog/new" class="xg_sprite xg_sprite-add">Add</a></li></ul>
+                    <ul class="navigation easyclear"><li><a href="https://tech.state.gov/profiles/blog/list">All Blog Posts</a></li><li><a href="https://tech.state.gov/profiles/blog/list?my=1">My Blog</a></li><li class="right  xg_lightborder navbutton"><a href="https://tech.state.gov/profiles/blog/new" class="xg_sprite xg_sprite-add">Add</a></li></ul>
 <div class="xg_module xg_blog xg_blog_detail xg_blog_mypage xg_module_with_dialog">
         <div class="xg_headline xg_headline-img xg_headline-2l">
-    <div class="ib"><span class="xg_avatar"><a class="fn url" href="http://tech.state.gov/profile/3a7l8m2x7191w"  title="techATstate"><span class="dy-avatar dy-avatar-64 "><img  class="photo photo" src="http://api.ning.com:80/files/QkXoA9tVBDQ-8aPWsSUxH7mHB7RXRrnv9FP1FYW4YLNg9eNub83-wImaYfoVtJdAoK*DZYd8tbg0wu7*K81wHGtMTLs2Fi2X/techstate_avatar.gif?width=64&amp;height=64&amp;crop=1%3A1" alt="" /><span class="dy-badge-text bottom-left"><span class="dy-badge-text-bg" style="background-color: #f7951e; opacity: 0.7;"><br></span><span class="dy-badge-text-label" style="color: #007aae;">eDiplomacy</span></span></span></a></span></div>
+    <div class="ib"><span class="xg_avatar"><a class="fn url" href="https://tech.state.gov/profile/3a7l8m2x7191w"  title="techATstate"><span class="dy-avatar dy-avatar-64 "><img  class="photo photo" src="https://api.ning.com:80/files/QkXoA9tVBDQ-8aPWsSUxH7mHB7RXRrnv9FP1FYW4YLNg9eNub83-wImaYfoVtJdAoK*DZYd8tbg0wu7*K81wHGtMTLs2Fi2X/techstate_avatar.gif?width=64&amp;height=64&amp;crop=1%3A1" alt="" /><span class="dy-badge-text bottom-left"><span class="dy-badge-text-bg" style="background-color: #f7951e; opacity: 0.7;"><br></span><span class="dy-badge-text-label" style="color: #007aae;">eDiplomacy</span></span></span></a></span></div>
 <div class="tb"><h1>Link Summary for Open Source event Feb. 11</h1>
         <ul class="navigation byline">
             <li><a class="nolink">Posted by </a><a href="/profile/3a7l8m2x7191w">techATstate</a><a class="nolink"> on February 16, 2011 at 9:00am</a></li>
-            <li><a class="xg_sprite xg_sprite-view" href="http://tech.state.gov/profiles/blog/list?user=3a7l8m2x7191w">View Blog</a></li>
+            <li><a class="xg_sprite xg_sprite-view" href="https://tech.state.gov/profiles/blog/list?user=3a7l8m2x7191w">View Blog</a></li>
         </ul>
     </div>
 </div>
@@ -182,19 +182,19 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
         <div class="postbody">
                     <div class="xg_user_generated">
                 <p>This post is the central repository for links to developing content on Tech@State: Open Source on Feb. 11. We'll have a variety of updates, but this one link will contain links to all the new posts, so you can always refer here for the latest.</p>
-<p><a href="http://tech.state.gov/profiles/blogs/agenda-for-open-source-event" target="_blank">Agenda</a></p>
-<p><a href="http://tech.state.gov/profiles/blogs/open-source-speakers" target="_self">Speaker bios</a></p>
-<p><a href="http://tech.state.gov/profiles/blogs/coverage-of-techstate-open" target="_self">Media coverage</a></p>
+<p><a href="https://tech.state.gov/profiles/blogs/agenda-for-open-source-event" target="_blank">Agenda</a></p>
+<p><a href="https://tech.state.gov/profiles/blogs/open-source-speakers" target="_self">Speaker bios</a></p>
+<p><a href="https://tech.state.gov/profiles/blogs/coverage-of-techstate-open" target="_self">Media coverage</a></p>
 <p>Video of the event at</p>
-<p><a href="http://tech.state.gov/video" target="_self">http://tech.state.gov/video</a></p>
+<p><a href="https://tech.state.gov/video" target="_self">https://tech.state.gov/video</a></p>
 <p>and at</p>
-<p><a href="http://www.ustream.tv/channel/tech-state" target="_blank">http://www.ustream.tv/channel/tech-state</a></p>
-<p><a href="http://tech.state.gov/profiles/blogs/techstate-open-source-february" target="_self">Original announcement</a></p>
-<p><a href="http://notes.ndi.org/techatstate" target="_blank">Notes and agenda from Unconference</a></p>
+<p><a href="https://www.ustream.tv/channel/tech-state" target="_blank">https://www.ustream.tv/channel/tech-state</a></p>
+<p><a href="https://tech.state.gov/profiles/blogs/techstate-open-source-february" target="_self">Original announcement</a></p>
+<p><a href="https://notes.ndi.org/techatstate" target="_blank">Notes and agenda from Unconference</a></p>
 <p><strong>Speaker slide presentations:</strong></p>
 <p> </p>
-<p><a href="http://api.ning.com:80/files/t*WsB0xkA9gC3qB0Vai0KRaH34F5Ai4S0BEv1ZLuQldQI9z58cFogEvRynNshf6U*G7AomR5jxZa4oFn907mMMUpLP-0kcTy/AneeshChopraTechState0211.ppt" target="_self">Aneesh Chopra, CTO of the United States</a><br/><a href="http://api.ning.com:80/files/vkPRS9A*A72G3xbeR3CVDK-*kXUEIXDxS0nLR80oT6jnNJ9zOSuWEYxvkuU4qwYOBvcJ9S6IiIX1isiz134hdf-la57-XT*H/WhiteHouseOpenSource.pptx" target="_self">Macon Phillips, White House New Media Director</a><br/><a href="http://api.ning.com:80/files/X91b07qfQrakzy2rLsPDj0bV6TZASHe1lfq27CZ6RTQDFY*0UV3MRYNfWX9SVxkbLLmp1xg0Lq9uwdDFgqQX0HI9l3OL6etC/ToddParkHHSTechStatePresentation02112011.pptx" target="_self">Todd Park, CTO at HHS</a><br/><a href="http://api.ning.com:80/files/wzfIS2rbSZLDtzWT45fANjebBaCK3SpSquY6ErYqeWmXFTz0vcF108EMpCO3gIrMx-GrVqtAOODWmMsN1NOzXQAr7cxkwUr7/techatstateosfareportcard.pdf" target="_self">Gunnar Hellekson, Open Source For America report card on open source</a><br/><a href="http://api.ning.com:80/files/JvbCSch7lMQwyjq2PxanOMXkienigkMxTW90QTE5q-ycFWUZmug6aNabsKZLGPAPBKOZLyQRxduDNGqsDouq5urjgqPTVi2V/jamesbontempo.pdf" target="_self">James Bon Tempo, Jhpiego/FrontlineSMS:Learn</a><br/><a href="http://api.ning.com:80/files/SDbA39UcE*bORVOVccu*m6bSWGLsVsguJeQxlqGOI*n8lFP1Q1aQrXgTlG4GoS3RI3sCOs4R6Ai*6PXGKtDgUegw7DAr*fN5/PhilAshlockDigestTechAtStateOpenSourceOpenPlans.pdf" target="_self">Phil Ashlock, Open Plans</a><br/><a href="http://api.ning.com:80/files/JvbCSch7lMSNKW85IvKdxLuAu3mRvcNb-cEIqbJei1USn0msOjN5dmUaXzDMp2JapUQcc8qX-6HOYcnyKr0kNGEah9kQBfgp/DavidRileyTechAtStateFinal.pptx" target="_self">David Riley, Federal Health Architecture at HHS</a><br/><a href="http://api.ning.com:80/files/iPyr1e65IW8hYiqOx6rpRB5X*hZnA324PRtg-yVzRS9cf2McjnOeEq*hkPX3F7d0tfdyCNr4wCAvS3wwvUf3XTqMxnG1QRfz/HeatherLaGardeTechATState.ppt" target="_self">Heather La Garde, IntraHealth Consortium</a><br/><a href="http://api.ning.com:80/files/rrOWdDXBEH5JHFEns9YCgDGo96savKIs2ULKsRoGHsMnXvLC8RGGuTU34vWwhUA7gDFCvuZnBOePjWykdVlPcfzpRgIqUh1S/debestrin.pdf" target="_self">Deb Estrin, mHealth, UCLA</a><br/><a href="http://api.ning.com:80/files/vkPRS9A*A72cfW80LZu*R6aUeDKhWzXA7gRE2xGZcghbIgSKPZ1xVCmttLj4GT3o1Mb6y-kI20opPSKdpGnl3n5QDejexZhT/TechStateJeremyEpsteinFeb2011.ppt" target="_self">Jeremy Epstein, SRI International</a><br/><a href="http://api.ning.com:80/files/iPyr1e65IW*PdHL0yHwf810Ay8NJdpnPGTPYBkveQK5J3CfvLA4PuusPTG5ygRoZii5GuoLBESvnDwcDkUYqs0yZ5ZWnXc-Q/LukeBerndtTechatState.pptx" target="_self">Luke Berndt, Dept. of Homeland Security Advanced Research Projects ...</a><br/><a href="http://api.ning.com:80/files/hrNmqbTOLpt-lVXTE6orGNtJFRUa3to*r*55Yq-dz3HImeeMJKLafOBal-7qEl4Ks13UGtvNr8zVJBmWm-Sq8J2q2wVUDj0C/PrutsalisSSF_TECHSTATE_021111.pdf" target="_self">Mark Prutsalis, Sahana Software Foundation</a><br/><a href="http://api.ning.com:80/files/wzfIS2rbSZJTG6NISlmE-nZw-3vQFpwww3MO2Wnu6vZGSDXcTT-OQIqsBb2q0s8b2QgPgNq3f6Oz4kdOwk1QUqKj3HM5NRFL/jessicaseddon.pptx" target="_self">Jessica Seddon, Director, Center for Development Finance</a><br/><a href="http://api.ning.com:80/files/lBNZgqvm-M-p*eXg3C7dDZLY-HmsdItAH4t-pEHS7xtB582jAgi1aYp194zd8ER5b*Ns5VGfbGSvwFwc5lgm-HZEPAicTa31/IanCairns_tech_at_state.pdf" target="_self">Ian Cairns, Development Seed</a><br/><a href="http://api.ning.com:80/files/ULOk7ym*EW3BG77cNkDmwhwkz634O0e5XbrY0M6lSKWGLeqViVYRmjRuC894xLnohBfdStyZuBLCFGhhBE0Me3GXEOW9o3Vr/ptonecodeforamerica.ppt" target="_self">David Eaves-Code for America pt1</a><br/><a href="http://api.ning.com:80/files/pksj9XPt5pomwxcOLhk44WLRz1Xh*YpgK*kk4f-9RfVpqjjoUi047NZaGwFkFlRt06ZyiwLNIAeRql3MxdRpTHNh9ekANeew/ptthreecodeforamerica.pptx" target="_self">David Eaves-Code for America pt2</a></p>
-<p><a href="http://api.ning.com:80/files/t*WsB0xkA9i1qsM83Q3otbrsYCjSnUSsISaVCkqzKMqyTj5lLRmbtnrrt*DAHWT9YhYYA6V0q44ckdCzO19A6gSARNmsvPBC/egyptnetwork.pdf" target="_self">Saad Khan slide of Egypt Influence Network</a></p>
+<p><a href="https://api.ning.com:80/files/t*WsB0xkA9gC3qB0Vai0KRaH34F5Ai4S0BEv1ZLuQldQI9z58cFogEvRynNshf6U*G7AomR5jxZa4oFn907mMMUpLP-0kcTy/AneeshChopraTechState0211.ppt" target="_self">Aneesh Chopra, CTO of the United States</a><br/><a href="https://api.ning.com:80/files/vkPRS9A*A72G3xbeR3CVDK-*kXUEIXDxS0nLR80oT6jnNJ9zOSuWEYxvkuU4qwYOBvcJ9S6IiIX1isiz134hdf-la57-XT*H/WhiteHouseOpenSource.pptx" target="_self">Macon Phillips, White House New Media Director</a><br/><a href="https://api.ning.com:80/files/X91b07qfQrakzy2rLsPDj0bV6TZASHe1lfq27CZ6RTQDFY*0UV3MRYNfWX9SVxkbLLmp1xg0Lq9uwdDFgqQX0HI9l3OL6etC/ToddParkHHSTechStatePresentation02112011.pptx" target="_self">Todd Park, CTO at HHS</a><br/><a href="https://api.ning.com:80/files/wzfIS2rbSZLDtzWT45fANjebBaCK3SpSquY6ErYqeWmXFTz0vcF108EMpCO3gIrMx-GrVqtAOODWmMsN1NOzXQAr7cxkwUr7/techatstateosfareportcard.pdf" target="_self">Gunnar Hellekson, Open Source For America report card on open source</a><br/><a href="https://api.ning.com:80/files/JvbCSch7lMQwyjq2PxanOMXkienigkMxTW90QTE5q-ycFWUZmug6aNabsKZLGPAPBKOZLyQRxduDNGqsDouq5urjgqPTVi2V/jamesbontempo.pdf" target="_self">James Bon Tempo, Jhpiego/FrontlineSMS:Learn</a><br/><a href="https://api.ning.com:80/files/SDbA39UcE*bORVOVccu*m6bSWGLsVsguJeQxlqGOI*n8lFP1Q1aQrXgTlG4GoS3RI3sCOs4R6Ai*6PXGKtDgUegw7DAr*fN5/PhilAshlockDigestTechAtStateOpenSourceOpenPlans.pdf" target="_self">Phil Ashlock, Open Plans</a><br/><a href="https://api.ning.com:80/files/JvbCSch7lMSNKW85IvKdxLuAu3mRvcNb-cEIqbJei1USn0msOjN5dmUaXzDMp2JapUQcc8qX-6HOYcnyKr0kNGEah9kQBfgp/DavidRileyTechAtStateFinal.pptx" target="_self">David Riley, Federal Health Architecture at HHS</a><br/><a href="https://api.ning.com:80/files/iPyr1e65IW8hYiqOx6rpRB5X*hZnA324PRtg-yVzRS9cf2McjnOeEq*hkPX3F7d0tfdyCNr4wCAvS3wwvUf3XTqMxnG1QRfz/HeatherLaGardeTechATState.ppt" target="_self">Heather La Garde, IntraHealth Consortium</a><br/><a href="https://api.ning.com:80/files/rrOWdDXBEH5JHFEns9YCgDGo96savKIs2ULKsRoGHsMnXvLC8RGGuTU34vWwhUA7gDFCvuZnBOePjWykdVlPcfzpRgIqUh1S/debestrin.pdf" target="_self">Deb Estrin, mHealth, UCLA</a><br/><a href="https://api.ning.com:80/files/vkPRS9A*A72cfW80LZu*R6aUeDKhWzXA7gRE2xGZcghbIgSKPZ1xVCmttLj4GT3o1Mb6y-kI20opPSKdpGnl3n5QDejexZhT/TechStateJeremyEpsteinFeb2011.ppt" target="_self">Jeremy Epstein, SRI International</a><br/><a href="https://api.ning.com:80/files/iPyr1e65IW*PdHL0yHwf810Ay8NJdpnPGTPYBkveQK5J3CfvLA4PuusPTG5ygRoZii5GuoLBESvnDwcDkUYqs0yZ5ZWnXc-Q/LukeBerndtTechatState.pptx" target="_self">Luke Berndt, Dept. of Homeland Security Advanced Research Projects ...</a><br/><a href="https://api.ning.com:80/files/hrNmqbTOLpt-lVXTE6orGNtJFRUa3to*r*55Yq-dz3HImeeMJKLafOBal-7qEl4Ks13UGtvNr8zVJBmWm-Sq8J2q2wVUDj0C/PrutsalisSSF_TECHSTATE_021111.pdf" target="_self">Mark Prutsalis, Sahana Software Foundation</a><br/><a href="https://api.ning.com:80/files/wzfIS2rbSZJTG6NISlmE-nZw-3vQFpwww3MO2Wnu6vZGSDXcTT-OQIqsBb2q0s8b2QgPgNq3f6Oz4kdOwk1QUqKj3HM5NRFL/jessicaseddon.pptx" target="_self">Jessica Seddon, Director, Center for Development Finance</a><br/><a href="https://api.ning.com:80/files/lBNZgqvm-M-p*eXg3C7dDZLY-HmsdItAH4t-pEHS7xtB582jAgi1aYp194zd8ER5b*Ns5VGfbGSvwFwc5lgm-HZEPAicTa31/IanCairns_tech_at_state.pdf" target="_self">Ian Cairns, Development Seed</a><br/><a href="https://api.ning.com:80/files/ULOk7ym*EW3BG77cNkDmwhwkz634O0e5XbrY0M6lSKWGLeqViVYRmjRuC894xLnohBfdStyZuBLCFGhhBE0Me3GXEOW9o3Vr/ptonecodeforamerica.ppt" target="_self">David Eaves-Code for America pt1</a><br/><a href="https://api.ning.com:80/files/pksj9XPt5pomwxcOLhk44WLRz1Xh*YpgK*kk4f-9RfVpqjjoUi047NZaGwFkFlRt06ZyiwLNIAeRql3MxdRpTHNh9ekANeew/ptthreecodeforamerica.pptx" target="_self">David Eaves-Code for America pt2</a></p>
+<p><a href="https://api.ning.com:80/files/t*WsB0xkA9i1qsM83Q3otbrsYCjSnUSsISaVCkqzKMqyTj5lLRmbtnrrt*DAHWT9YhYYA6V0q44ckdCzO19A6gSARNmsvPBC/egyptnetwork.pdf" target="_self">Saad Khan slide of Egypt Influence Network</a></p>
 <p> </p>
 <p> </p>            </div>
         </div>
@@ -203,13 +203,13 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
     <span class="view-count-label">Views:</span> <span class="view-count">197</span></p>
 
                             <p class="small object-detail" id="tagsList">
-                    Tags: <a href="http://tech.state.gov/profiles/blog/list?tag=OSS">OSS</a>, <a href="http://tech.state.gov/profiles/blog/list?tag=open">open</a>, <a href="http://tech.state.gov/profiles/blog/list?tag=source">source</a>                </p>
+                    Tags: <a href="https://tech.state.gov/profiles/blog/list?tag=OSS">OSS</a>, <a href="https://tech.state.gov/profiles/blog/list?tag=open">open</a>, <a href="https://tech.state.gov/profiles/blog/list?tag=source">source</a>                </p>
             <div class="likebox likebox-ning">
     <div class="ning-like">
                 <div class="xg_lightborder like-button like-button-3">
             <a data-content-id="6282015:BlogPost:2423"
                         data-content-type="BlogPost"
-                        data-sign-up-url="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source"
+                        data-sign-up-url="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source"
                         data-like-url="/main/like/like"
                         data-unlike-url="/main/like/unlike"
                         data-page-type="detail" class="xg_sprite" href="#">
@@ -220,15 +220,15 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
         </div>
     </div>
 </div>
-<p class="share-links clear"><a class="xg_sprite xg_sprite-share" href="http://tech.state.gov/main/sharing/share?id=6282015%253ABlogPost%253A2423">Share</a>        <a class="post_to_twitter" href="http://twitter.com/home?status=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" _message="Checking out &quot;Link Summary for Open Source event Feb. 11&quot; on TechATState:" _url="http://tech.state.gov/profiles/blogs/link-summary-for-open-source" _urlShortenerKey="342164054372" _screenName="" _twitterAuthenticationNeeded="" _source="content" target="_blank">Twitter</a>
+<p class="share-links clear"><a class="xg_sprite xg_sprite-share" href="https://tech.state.gov/main/sharing/share?id=6282015%253ABlogPost%253A2423">Share</a>        <a class="post_to_twitter" href="https://twitter.com/home?status=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" _message="Checking out &quot;Link Summary for Open Source event Feb. 11&quot; on TechATState:" _url="https://tech.state.gov/profiles/blogs/link-summary-for-open-source" _urlShortenerKey="342164054372" _screenName="" _twitterAuthenticationNeeded="" _source="content" target="_blank">Twitter</a>
         <div class="likebox">
     <div class="facebook-like" data-content-type="BlogPost" data-content-id="6282015:BlogPost:2423" data-page-type="detail">
-        <fb:like href="http://tech.state.gov/xn/detail/6282015:BlogPost:2423" layout="button_count" show_faces="false" width="450"></fb:like>
+        <fb:like href="https://tech.state.gov/xn/detail/6282015:BlogPost:2423" layout="button_count" show_faces="false" width="450"></fb:like>
     </div>
 </div>
 </p>        </div>
                     <ul class="pagination smallpagination">
-                            <li class="left"><a href="http://tech.state.gov/profiles/blogs/tentative-schedule-for-open" title="tentative schedule for open source event">&lt; Previous Post</a></li>                             <li class="right"><a title="Previous Events Archive" href="http://tech.state.gov/profiles/blogs/previous-events-archive">Next Post &gt;</a></li>
+                            <li class="left"><a href="https://tech.state.gov/profiles/blogs/tentative-schedule-for-open" title="tentative schedule for open source event">&lt; Previous Post</a></li>                             <li class="right"><a title="Previous Events Archive" href="https://tech.state.gov/profiles/blogs/previous-events-archive">Next Post &gt;</a></li>
                         </ul>
             </div>
 </div>
@@ -238,47 +238,47 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
                     <dl _id="6282015:Comment:3507" id="c_4b3" class="comment vcard xg_lightborder">
             <dt>
                 <a name="first_comment"></a><a name="comment-6282015_Comment_3507" id="comment-6282015_Comment_3507"></a>
-                <span class="xg_avatar"><a class="fn url" href="http://tech.state.gov/profile/CarolBreyCasiano"  title="Carol Brey-Casiano"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/ZJ4GkYOjuK1BkfwC*z46Cnk6HjAGUIW9U96dtNOxkDqVRJnzsbDRCWWIg*WbLEaxUTUrfKvrkfuF7Oi67mBqqkTaMLDDUYQU/575281741.png?width=48&amp;height=48&amp;crop=1%3A1&amp;xj_user_default=1" alt="" /></span></a></span>                Comment by <a href="/profile/CarolBreyCasiano" class="fn url">Carol Brey-Casiano</a> on February 11, 2011 at 10:17am            </dt>
+                <span class="xg_avatar"><a class="fn url" href="https://tech.state.gov/profile/CarolBreyCasiano"  title="Carol Brey-Casiano"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="https://api.ning.com:80/files/ZJ4GkYOjuK1BkfwC*z46Cnk6HjAGUIW9U96dtNOxkDqVRJnzsbDRCWWIg*WbLEaxUTUrfKvrkfuF7Oi67mBqqkTaMLDDUYQU/575281741.png?width=48&amp;height=48&amp;crop=1%3A1&amp;xj_user_default=1" alt="" /></span></a></span>                Comment by <a href="/profile/CarolBreyCasiano" class="fn url">Carol Brey-Casiano</a> on February 11, 2011 at 10:17am            </dt>
             <dd>
             <div class="xg_user_generated"><p>The Open Source Event looks fascinating but I have been unable to get audio--though all seems well with my computer and Windows Media Player. Is anyone else having sound issues?</p></div>            </dd>
                     </dl>
             <dl _id="6282015:Comment:5405" id="c_083" class="comment vcard xg_lightborder">
             <dt>
                 <a name="comment-6282015_Comment_5405" id="comment-6282015_Comment_5405"></a>
-                <span class="xg_avatar"><a class="fn url" href="http://tech.state.gov/profile/ChrisBendsen"  title="Chris Bendsen"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/*chXTwByZo7QGEo-sGzPf0dnrNwPTmoGJrddoiicx2QqXvyLX4VRDzNS1S1ksrEfNBdH67DYZ1Hs8lecCSkx5RDDW3tQmyHV/_MG_914930x30.jpg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /><span class="dy-badge-text bottom-left"><span class="dy-badge-text-bg" style="background-color: #f7951e; opacity: 0.7;"><br></span><span class="dy-badge-text-label" style="color: #007aae;">eDiplomacy</span></span></span></a></span>                Comment by <a href="/profile/ChrisBendsen" class="fn url">Chris Bendsen</a> on February 24, 2011 at 1:41pm            </dt>
+                <span class="xg_avatar"><a class="fn url" href="https://tech.state.gov/profile/ChrisBendsen"  title="Chris Bendsen"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="https://api.ning.com:80/files/*chXTwByZo7QGEo-sGzPf0dnrNwPTmoGJrddoiicx2QqXvyLX4VRDzNS1S1ksrEfNBdH67DYZ1Hs8lecCSkx5RDDW3tQmyHV/_MG_914930x30.jpg?width=48&amp;height=48&amp;crop=1%3A1" alt="" /><span class="dy-badge-text bottom-left"><span class="dy-badge-text-bg" style="background-color: #f7951e; opacity: 0.7;"><br></span><span class="dy-badge-text-label" style="color: #007aae;">eDiplomacy</span></span></span></a></span>                Comment by <a href="/profile/ChrisBendsen" class="fn url">Chris Bendsen</a> on February 24, 2011 at 1:41pm            </dt>
             <dd>
             <div class="xg_user_generated">Do you have the presentations for the session on geo-spatial issues in the afternoon?</div>            </dd>
                     </dl>
             <dl _id="6282015:Comment:5607" id="c_393" class="comment vcard xg_lightborder last-child">
             <dt>
                 <a name="last_comment"></a><a name="comment-6282015_Comment_5607" id="comment-6282015_Comment_5607"></a>
-                <span class="xg_avatar"><a class="fn url" href="http://tech.state.gov/profile/MichaelWalsh878"  title="Michael Walsh"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="http://api.ning.com:80/files/ZJ4GkYOjuK1BkfwC*z46Cnk6HjAGUIW9U96dtNOxkDqVRJnzsbDRCWWIg*WbLEaxUTUrfKvrkfuF7Oi67mBqqkTaMLDDUYQU/575281741.png?width=48&amp;height=48&amp;crop=1%3A1&amp;xj_user_default=1" alt="" /></span></a></span>                Comment by <a href="/profile/MichaelWalsh878" class="fn url">Michael Walsh</a> on February 24, 2011 at 9:24pm            </dt>
+                <span class="xg_avatar"><a class="fn url" href="https://tech.state.gov/profile/MichaelWalsh878"  title="Michael Walsh"><span class="dy-avatar dy-avatar-48 "><img  class="photo photo" src="https://api.ning.com:80/files/ZJ4GkYOjuK1BkfwC*z46Cnk6HjAGUIW9U96dtNOxkDqVRJnzsbDRCWWIg*WbLEaxUTUrfKvrkfuF7Oi67mBqqkTaMLDDUYQU/575281741.png?width=48&amp;height=48&amp;crop=1%3A1&amp;xj_user_default=1" alt="" /></span></a></span>                Comment by <a href="/profile/MichaelWalsh878" class="fn url">Michael Walsh</a> on February 24, 2011 at 9:24pm            </dt>
             <dd>
-            <div class="xg_user_generated">Chris: GovLoop just posted my new article that covers some of the technology behind the World Bank example in Ian's presentation: <a rel=nofollow href="http://govfresh.com/2011/02/gov-2-0-guide-to-open-source-custom-map-design-using-tilemill/" target="_blank">http://govfresh.com/2011/02/gov-2-0-guide-to-open-source-custom-map...</a></div>            </dd>
+            <div class="xg_user_generated">Chris: GovLoop just posted my new article that covers some of the technology behind the World Bank example in Ian's presentation: <a rel=nofollow href="https://govfresh.com/2011/02/gov-2-0-guide-to-open-source-custom-map-design-using-tilemill/" target="_blank">https://govfresh.com/2011/02/gov-2-0-guide-to-open-source-custom-map...</a></div>            </dd>
                     </dl>
             </div>
                     <div class="xg_module_body">
                     <p id="add-comment">Comment</p>
                                             <div class="comment-join">
                             <h3>You need to be a member of TechATState to add comments!</h3>
-                                                <p><a href="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Join TechATState</a></p>
+                                                <p><a href="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Join TechATState</a></p>
                                                 </div>
                                                         </div>
                             <div class="xg_module_foot" id="xj_comments_footer" >
                                             <p class="left">
-                            <a class="xg_icon xg_icon-rss" href="http://tech.state.gov/profiles/comment/feed?attachedTo=6282015%3ABlogPost%3A2423&amp;xn_auth=no">RSS</a>
+                            <a class="xg_icon xg_icon-rss" href="https://tech.state.gov/profiles/comment/feed?attachedTo=6282015%3ABlogPost%3A2423&amp;xn_auth=no">RSS</a>
                         </p>
                                     </div>
                     </div>
     
-      <input type="hidden" id="incrementViewCountEndpoint" value="http://tech.state.gov/profiles/blog/incrementViewCount?id=6282015%3ABlogPost%3A2423&amp;xn_out=json" />
+      <input type="hidden" id="incrementViewCountEndpoint" value="https://tech.state.gov/profiles/blog/incrementViewCount?id=6282015%3ABlogPost%3A2423&amp;xn_out=json" />
 
                 </div>
                 <div class="xg_column xg_span-4 xg_last xj_classic_sidebar">
                         <div class="xg_module" id="xg_module_account">
         <div class="xg_module_body xg_signup xg_lightborder">
             <p>Welcome to<br />TechATState</p>
-                        <p class="last-child"><big><strong><a href="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Sign Up</a></strong></big><br/>or <a href="http://tech.state.gov/main/authorization/signIn?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" style="white-space:nowrap">Sign In</a></p>
+                        <p class="last-child"><big><strong><a href="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Sign Up</a></strong></big><br/>or <a href="https://tech.state.gov/main/authorization/signIn?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" style="white-space:nowrap">Sign In</a></p>
                             <div class="xg_external_signup xg_lightborder xj_signup">
                     <p class="dy-small">Or sign in with:</p>
                     <ul class="providers">
@@ -299,7 +299,7 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
         >
         <div class="xg_module_head"><h2>About</h2></div>
             <div class="xg_module_body xg_user_generated">
-            <p><img align="right" src="http://api.ning.com:80/files/dn971CTz2nv0CEPOwvIUh2zJJevldCLC5z-BA8Dg5HX9UlxvhBWuorLH-ormK*FbVi2dT27PR*S*c-53a5GaXjiekIZIy1Ed/StateSeal70.jpg"  /></p>
+            <p><img align="right" src="https://api.ning.com:80/files/dn971CTz2nv0CEPOwvIUh2zJJevldCLC5z-BA8Dg5HX9UlxvhBWuorLH-ormK*FbVi2dT27PR*S*c-53a5GaXjiekIZIy1Ed/StateSeal70.jpg"  /></p>
 <p jquery1294241461538="97"><strong>Tech@State</strong> connects tech innovators and those interested in diplomacy and development to enable 21st century statecraft by improving education, health and welfare of the world's population. This site was created by the U.S. State Department's Office of eDiplomacy.</p>
         </div>
             </div>
@@ -311,28 +311,28 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
                             <ul class="clist">
                         <li class="xg_lightborder ">
         <div class="ib">
-                        <a href="http://tech.state.gov/group/unity"><img  src="http://api.ning.com:80/files/gS5xFGRG46wbuaBX9*q6mVaJcCQxvYe*jFpMCBlpTtBxKUXanPJEZ4tdfSV5J0V2ZlMuFmgOBd4n3mE2D7pTVGFiUO7Tt9ne/Picture1.jpg?crop=1%3A1&amp;width=40" width="40" height="40" alt="Unity" /></a>
+                        <a href="https://tech.state.gov/group/unity"><img  src="https://api.ning.com:80/files/gS5xFGRG46wbuaBX9*q6mVaJcCQxvYe*jFpMCBlpTtBxKUXanPJEZ4tdfSV5J0V2ZlMuFmgOBd4n3mE2D7pTVGFiUO7Tt9ne/Picture1.jpg?crop=1%3A1&amp;width=40" width="40" height="40" alt="Unity" /></a>
         </div>
         <div class="tb">
-            <h3><a href="http://tech.state.gov/group/unity">Unity</a></h3>
+            <h3><a href="https://tech.state.gov/group/unity">Unity</a></h3>
             <p class="xg_lightfont">3 members</p>
                 <span class="reactions">
-                    <a href="http://tech.state.gov/group/unity#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">1 <span class='details'>Comment</span></a>
-                                <a href="http://tech.state.gov/group/unity" data-content-id="6282015:Group:35117" data-content-type="Group" data-sign-up-url="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
+                    <a href="https://tech.state.gov/group/unity#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">1 <span class='details'>Comment</span></a>
+                                <a href="https://tech.state.gov/group/unity" data-content-id="6282015:Group:35117" data-content-type="Group" data-sign-up-url="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
                     3 <span class='details'>Promotions</span>
                 </a>
                 </span>
         </div>
     </li>    <li class="xg_lightborder ">
         <div class="ib">
-                        <a href="http://tech.state.gov/group/rio-2-0-bridging-connection-technologies-and-susta"><img  src="http://api.ning.com:80/files/RGavISAN*ab0CLcD6sdI1-dDPIKB6cnSw-az2z3hv0TUWC-T63kOwUTTTIHeUbXmgZSKYsFb8GErUAoUIbY9SQ__/riologo.JPG?crop=1%3A1&amp;width=40" width="40" height="40" alt="Rio+2.0: Bridging Connec&hellip;" /></a>
+                        <a href="https://tech.state.gov/group/rio-2-0-bridging-connection-technologies-and-susta"><img  src="https://api.ning.com:80/files/RGavISAN*ab0CLcD6sdI1-dDPIKB6cnSw-az2z3hv0TUWC-T63kOwUTTTIHeUbXmgZSKYsFb8GErUAoUIbY9SQ__/riologo.JPG?crop=1%3A1&amp;width=40" width="40" height="40" alt="Rio+2.0: Bridging Connec&hellip;" /></a>
         </div>
         <div class="tb">
-            <h3><a href="http://tech.state.gov/group/rio-2-0-bridging-connection-technologies-and-susta">Rio+2.0: Bridging Connec&hellip;</a></h3>
+            <h3><a href="https://tech.state.gov/group/rio-2-0-bridging-connection-technologies-and-susta">Rio+2.0: Bridging Connec&hellip;</a></h3>
             <p class="xg_lightfont">7 members</p>
                 <span class="reactions">
-                    <a href="http://tech.state.gov/group/rio-2-0-bridging-connection-technologies-and-susta#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
-                                <a href="http://tech.state.gov/group/rio-2-0-bridging-connection-technologies-and-susta" data-content-id="6282015:Group:29802" data-content-type="Group" data-sign-up-url="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
+                    <a href="https://tech.state.gov/group/rio-2-0-bridging-connection-technologies-and-susta#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="https://tech.state.gov/group/rio-2-0-bridging-connection-technologies-and-susta" data-content-id="6282015:Group:29802" data-content-type="Group" data-sign-up-url="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
                     0 <span class='details'>Promotions</span>
                 </a>
                 </span>
@@ -341,28 +341,28 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
                             <ul class="clist">
                         <li class="xg_lightborder ">
         <div class="ib">
-                        <a href="http://tech.state.gov/group/social-media"><img class="xj_group_default" src="http://api.ning.com:80/files/-9HC8cdXIxfUKcf12mgEa*LJSkvCCLeQCMh7lQWdzd03qEB**Rs5P3Zfrj7ISpqJlEnRiG2LPBIZmu4UHfMO0FYIF0rQzUUQ/593681440.png?width=40&amp;crop=1%3A1&amp;xj_group_default=1" width="40" height="40" alt="Social Media" /></a>
+                        <a href="https://tech.state.gov/group/social-media"><img class="xj_group_default" src="https://api.ning.com:80/files/-9HC8cdXIxfUKcf12mgEa*LJSkvCCLeQCMh7lQWdzd03qEB**Rs5P3Zfrj7ISpqJlEnRiG2LPBIZmu4UHfMO0FYIF0rQzUUQ/593681440.png?width=40&amp;crop=1%3A1&amp;xj_group_default=1" width="40" height="40" alt="Social Media" /></a>
         </div>
         <div class="tb">
-            <h3><a href="http://tech.state.gov/group/social-media">Social Media</a></h3>
+            <h3><a href="https://tech.state.gov/group/social-media">Social Media</a></h3>
             <p class="xg_lightfont">10 members</p>
                 <span class="reactions">
-                    <a href="http://tech.state.gov/group/social-media#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">1 <span class='details'>Comment</span></a>
-                                <a href="http://tech.state.gov/group/social-media" data-content-id="6282015:Group:24414" data-content-type="Group" data-sign-up-url="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
+                    <a href="https://tech.state.gov/group/social-media#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">1 <span class='details'>Comment</span></a>
+                                <a href="https://tech.state.gov/group/social-media" data-content-id="6282015:Group:24414" data-content-type="Group" data-sign-up-url="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
                     0 <span class='details'>Promotions</span>
                 </a>
                 </span>
         </div>
     </li>    <li class="xg_lightborder ">
         <div class="ib">
-                        <a href="http://tech.state.gov/group/r-shief"><img  src="http://api.ning.com:80/files/uA0koIYqADSRetfqlwaaASLcsc2olt-A90h4FW1QUIGdS7-al*8L3usysm6XsRo2GzwVVqFCPDc*LP4ZWfWOONDlV4j8OdUA/logoz.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="R-Shief" /></a>
+                        <a href="https://tech.state.gov/group/r-shief"><img  src="https://api.ning.com:80/files/uA0koIYqADSRetfqlwaaASLcsc2olt-A90h4FW1QUIGdS7-al*8L3usysm6XsRo2GzwVVqFCPDc*LP4ZWfWOONDlV4j8OdUA/logoz.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="R-Shief" /></a>
         </div>
         <div class="tb">
-            <h3><a href="http://tech.state.gov/group/r-shief">R-Shief</a></h3>
+            <h3><a href="https://tech.state.gov/group/r-shief">R-Shief</a></h3>
             <p class="xg_lightfont">3 members</p>
                 <span class="reactions">
-                    <a href="http://tech.state.gov/group/r-shief#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
-                                <a href="http://tech.state.gov/group/r-shief" data-content-id="6282015:Group:23145" data-content-type="Group" data-sign-up-url="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
+                    <a href="https://tech.state.gov/group/r-shief#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">0 <span class='details'>Comments</span></a>
+                                <a href="https://tech.state.gov/group/r-shief" data-content-id="6282015:Group:23145" data-content-type="Group" data-sign-up-url="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
                     2 <span class='details'>Promotions</span>
                 </a>
                 </span>
@@ -371,14 +371,14 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
                             <ul class="clist">
                         <li class="xg_lightborder last-child">
         <div class="ib">
-                        <a href="http://tech.state.gov/group/seriousgames"><img  src="http://api.ning.com:80/files/ZDtJMuKNYC4RdEOlRgv5E4CWBySlcc7aCvYfNC0nd0n2JDpU85Jt6LB4pgX5mJINIfjysp3dBQuF2TQU*MgsXJs*ZQYu3*rW/TechatStateseriousGamesPoster.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="Serious Games" /></a>
+                        <a href="https://tech.state.gov/group/seriousgames"><img  src="https://api.ning.com:80/files/ZDtJMuKNYC4RdEOlRgv5E4CWBySlcc7aCvYfNC0nd0n2JDpU85Jt6LB4pgX5mJINIfjysp3dBQuF2TQU*MgsXJs*ZQYu3*rW/TechatStateseriousGamesPoster.png?crop=1%3A1&amp;width=40" width="40" height="40" alt="Serious Games" /></a>
         </div>
         <div class="tb">
-            <h3><a href="http://tech.state.gov/group/seriousgames">Serious Games</a></h3>
+            <h3><a href="https://tech.state.gov/group/seriousgames">Serious Games</a></h3>
             <p class="xg_lightfont">13 members</p>
                 <span class="reactions">
-                    <a href="http://tech.state.gov/group/seriousgames#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">1 <span class='details'>Comment</span></a>
-                                <a href="http://tech.state.gov/group/seriousgames" data-content-id="6282015:Group:15837" data-content-type="Group" data-sign-up-url="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
+                    <a href="https://tech.state.gov/group/seriousgames#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">1 <span class='details'>Comment</span></a>
+                                <a href="https://tech.state.gov/group/seriousgames" data-content-id="6282015:Group:15837" data-content-type="Group" data-sign-up-url="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source" data-page-type="detail" class="xg_sprite like-link-3 like-link">
                     0 <span class='details'>Promotions</span>
                 </a>
                 </span>
@@ -387,7 +387,7 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
                     </div>
                 <div class="xg_module_foot">
                 <ul>
-                                            <li class="right"><a href="http://tech.state.gov/groups">View All</a></li>
+                                            <li class="right"><a href="https://tech.state.gov/groups">View All</a></li>
                                     </ul>
             </div>
         </div>
@@ -398,9 +398,9 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
                 <p class="left">
     © 2012             &nbsp; Created by <a href="/profile/3a7l8m2x7191w">techATstate</a>.        </p>
     <p class="right xg_lightfont">
-                <a href="http://tech.state.gov/main/embeddable/list">Badges</a> &nbsp;|&nbsp;
-                                    <a href="http://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fmain%2Findex%2Freport" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="http://tech.state.gov/main/authorization/signIn?target=http%3A%2F%2Ftech.state.gov%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
-                        <a href="http://tech.state.gov/main/authorization/termsOfService?previousUrl=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Terms of Service</a>
+                <a href="https://tech.state.gov/main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+                                    <a href="https://tech.state.gov/main/authorization/signUp?target=http%3A%2F%2Ftech.state.gov%2Fmain%2Findex%2Freport" dojoType="PromptToJoinLink" _joinPromptText="Please sign up or sign in to complete this step." _hasSignUp="true" _signInUrl="https://tech.state.gov/main/authorization/signIn?target=http%3A%2F%2Ftech.state.gov%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+                        <a href="https://tech.state.gov/main/authorization/termsOfService?previousUrl=http%3A%2F%2Ftech.state.gov%2Fprofiles%2Fblogs%2Flink-summary-for-open-source">Terms of Service</a>
             </p>
 
             </div>
@@ -423,8 +423,8 @@ window.xn = { track: { _globals: { screen_name: null, subdomain: "techATstate", 
 		</div>
 	</div>
 </noscript><!--googleon: all-->
-<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?xn_version=1137409183"></script>        <script>
-            var sources = ["http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery-ui.min.js?xn_version=1502724999","http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/modernizr\/modernizr.custom.js?xn_version=201206282151","http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jstorage.min.js?xn_version=2109174347","http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.autoResize.js?xn_version=201206282151","http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.jsonp.min.js?xn_version=841558965","http:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/Base64.js?xn_version=201206282151","http:\/\/static.ning.com\/techATstate\/instances\/shared\/js\/set_common.min.js?r=1338413766","http:\/\/static.ning.com\/techATstate\/instances\/shared\/js\/set_shared_c0.min.js?r=1338414316","http:\/\/static.ning.com\/techATstate\/instances\/shared\/js\/set_sidebar_u.min.js?r=1338413766"];
+<script type="text/javascript" src="https://static.ning.com/socialnetworkmain/widgets/lib/core.min.js?xn_version=1137409183"></script>        <script>
+            var sources = ["https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery-ui.min.js?xn_version=1502724999","https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/modernizr\/modernizr.custom.js?xn_version=201206282151","https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jstorage.min.js?xn_version=2109174347","https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.autoResize.js?xn_version=201206282151","https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.jsonp.min.js?xn_version=841558965","https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/Base64.js?xn_version=201206282151","https:\/\/static.ning.com\/techATstate\/instances\/shared\/js\/set_common.min.js?r=1338413766","https:\/\/static.ning.com\/techATstate\/instances\/shared\/js\/set_shared_c0.min.js?r=1338414316","https:\/\/static.ning.com\/techATstate\/instances\/shared\/js\/set_sidebar_u.min.js?r=1338413766"];
             var numSources = sources.length;
             var heads = document.getElementsByTagName('head');
             var node = heads.length > 0 ? heads[0] : document.body;
@@ -462,7 +462,7 @@ ning._.CurrentServerTime = "2012-07-02T09:11:26+00:00";
 ning._.probableScreenName = "";
 ning._.domains = {
     base: 'ning.com',
-    ports: { http: '80', ssl: '443' }
+    ports: { https: '80', ssl: '443' }
 };
 ning.loader.version = '201206282151_13'; // DEP-7516:4436e16 33
 djConfig.parseWidgets = false;
@@ -496,10 +496,10 @@ xg.num_decimal_sep = ".";
                 <a class="xg_info xg_info_full" href="/main/authorization/signIn?chat=true">Sign in to chat!</a>            </div>
         </div>
     </div>
-<script type="text/javascript" src="http://static.ning.com/socialnetworkmain/widgets/lib/js/thrift/xn_track.min.js?xn_version=2965732102"></script>
+<script type="text/javascript" src="https://static.ning.com/socialnetworkmain/widgets/lib/js/thrift/xn_track.min.js?xn_version=2965732102"></script>
 <!-- Back to top -->
 
-<script type="text/javascript" src="http://api.ning.com:80/files/barP4CvULJhLKKEncvsEhvM7eEd2lAXN7ZT8NK-6kGQuqFF36CslShffKbo1MIlX67vvqRb8QWcYJdvBGIHXVNl60zepxfKt/scrolltopcontrol.js"></script>
+<script type="text/javascript" src="https://api.ning.com:80/files/barP4CvULJhLKKEncvsEhvM7eEd2lAXN7ZT8NK-6kGQuqFF36CslShffKbo1MIlX67vvqRb8QWcYJdvBGIHXVNl60zepxfKt/scrolltopcontrol.js"></script>
 
 <!-- End Back to top -->
 <style>
@@ -528,10 +528,10 @@ for (i in cookies) {
 }
 var image = new Image();
 var user = vc + ',,techATstate';
-image.src = 'http://www22.glam.com/cTagsImgCmd.act?gname=ning_user&gvalue=' + user + '&gtid=5000059145&gcmd=setc&gexpires=604800&ord=' + Math.random()*1E16;
+image.src = 'https://www22.glam.com/cTagsImgCmd.act?gname=ning_user&gvalue=' + user + '&gtid=5000059145&gcmd=setc&gexpires=604800&ord=' + Math.random()*1E16;
 })();
 </script>
-<script src="http://www35.glam.com/gad/glamadapt_jsapi.act?afid=183770529"></script>
+<script src="https://www35.glam.com/gad/glamadapt_jsapi.act?afid=183770529"></script>
 <script>
 try {
     GlamCreateSlot("183770529", "728x90", "Ning_Top_Leaderboard");
@@ -555,7 +555,7 @@ try {
 
     (function() {
      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-     ga.src = "http://static.ning.com/socialnetworkmain/widgets/index/js/google-analytics/ga.js?xn_version=201206282151";
+     ga.src = "https://static.ning.com/socialnetworkmain/widgets/index/js/google-analytics/ga.js?xn_version=201206282151";
      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
      })();
 </script>
@@ -564,12 +564,12 @@ try {
   _comscore.push({ c1: "2", c2: "6770185" });
   (function() {
     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "https://b") + ".scorecardresearch.com/beacon.js";
     el.parentNode.insertBefore(s, el);
   })();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6770185&cv=2.0&cj=1" />
+  <img src="https://b.scorecardresearch.com/p?c1=2&c2=6770185&cv=2.0&cj=1" />
 </noscript>
 
 

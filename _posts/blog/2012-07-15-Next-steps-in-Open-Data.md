@@ -7,9 +7,9 @@ tags:
 title: Next Steps in Open Data
 ---
 Last week DC hosted the [Open Government Data
-Conference](http://www.data.gov/communities/conference), the
-[Tech@State](http://tech.state.gov/profiles/blogs/tech-state-wiki-gov-agenda), the
-[Wikimania](http://wikimania2012.wikimedia.org/wiki/Main_Page), and [more](http://developmentseed.org/blog/2012/july/09/week-dc-tech/). It seems clear
+Conference](https://www.data.gov/communities/conference), the
+[Tech@State](https://tech.state.gov/profiles/blogs/tech-state-wiki-gov-agenda), the
+[Wikimania](https://wikimania2012.wikimedia.org/wiki/Main_Page), and [more](https://developmentseed.org/blog/2012/july/09/week-dc-tech/). It seems clear
 the momentum here for open data and Technology innovation is growing strong.
 
 While you can read plenty of good reviews from these events I feel some
@@ -38,12 +38,12 @@ that resource, try to interpolate those gaps
 and, perhaps, enable crowd sourcing the gaps, or the accuracy of the estimates. I was
 particularly excited about this idea for an app. However, we thought the Bank would
 probably want to focus on the *half full* side of the Data Repository,
-so we made ["Know your World"](http://www.quiz2015.com/) which pulls available data.
-When the voting started, I chuckled when I saw the [Blind Data](http://appsfordevelopment.challengepost.com/submissions/1525-blind-data) app from
+so we made ["Know your World"](https://www.quiz2015.com/) which pulls available data.
+When the voting started, I chuckled when I saw the [Blind Data](https://appsfordevelopment.challengepost.com/submissions/1525-blind-data) app from
 [@TheBenedict](https://twitter.com/thebenedict) with a similar idea to *GapFinder*. He was not among the finalists.
 
 This is why I was so glad when Caroline Anstey, Managing Director of the World Bank [talked
-explicitly about the Blind Data app](http://www.worldbank.org/en/news/2012/07/10/second-international-open-government-data-conference) on her Opening Keynote:
+explicitly about the Blind Data app](https://www.worldbank.org/en/news/2012/07/10/second-international-open-government-data-conference) on her Opening Keynote:
 
 >I’d also like to think we’re just as open about what we don’t know. One
 >of the first apps a developer created when we started our Open Data
@@ -67,7 +67,7 @@ overarching layer that receives information for external use, but as an
 integral internal operational framework.
 
 Laia Grino, with her post ["Will NGOs Join The Open Data
-Movement?"](http://www.interaction.org/blog/will-ngos-join-open-data-movement), brings a closely related point. NGOs are keen to call upon opening the vast archives of data from governments and public sector. Yet, the NGO landscape is in general fairly close itself on its operations, financials, ... Compliance law and grantee requirements push for more openness, but these are usually enclosed in formats such as annual pdf reports. Open Data is not only about releasing data, is about doing it in a re-usable way.   
+Movement?"](https://www.interaction.org/blog/will-ngos-join-open-data-movement), brings a closely related point. NGOs are keen to call upon opening the vast archives of data from governments and public sector. Yet, the NGO landscape is in general fairly close itself on its operations, financials, ... Compliance law and grantee requirements push for more openness, but these are usually enclosed in formats such as annual pdf reports. Open Data is not only about releasing data, is about doing it in a re-usable way.   
 
 Open Data is for everyone: open AND usable.
 
@@ -158,7 +158,7 @@ best, but also showcase this *second tier* to help them get traction.
 If you really believe your app is good, the competition helps you kick start it,
 and you can continue without them.
 
-My point is that [Good](http://hackdaymanifesto.com/) Hackthons and Challenges are not about the prizes or
+My point is that [Good](https://hackdaymanifesto.com/) Hackthons and Challenges are not about the prizes or
 the apps, they are about growing the community, and that should be the
 focus, not the prizes.
 

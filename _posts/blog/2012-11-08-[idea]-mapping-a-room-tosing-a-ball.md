@@ -7,7 +7,7 @@ tags:
 - idea 
 ---
 
-from http://bounceimaging.com/
+from https://bounceimaging.com/
 
 use sensor for atttitude, 3d is more difficult.
 

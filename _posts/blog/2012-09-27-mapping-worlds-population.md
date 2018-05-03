@@ -7,7 +7,7 @@ tags:
 - 
 ---
 
-http://www.good.is/posts/mapping-the-world-s-population-by-latitude-longitude
+https://www.good.is/posts/mapping-the-world-s-population-by-latitude-longitude
 
 Latitude correlates with season
 Longitude with day cycle.

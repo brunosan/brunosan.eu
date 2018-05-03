@@ -5,10 +5,10 @@ tags: []
 title: License
 ---
 
-[![](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+[![](https://i.creativecommons.org/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
 
 
-Material on this website is published under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0) You are free (and encouraged) to *Share* it (copy, distribute and transmit the work) and *Remix* it (adapt the work to your needs). You can even *sell* it, or work derived from it. However you should *attribute* my work with a mention to my name, website or contact.
+Material on this website is published under a [Creative Commons Attribution 3.0 License](https://creativecommons.org/licenses/by/3.0) You are free (and encouraged) to *Share* it (copy, distribute and transmit the work) and *Remix* it (adapt the work to your needs). You can even *sell* it, or work derived from it. However you should *attribute* my work with a mention to my name, website or contact.
 
 
 ***This is a personal website***. Institutions with which I have or had a relation do not necessarily endorse this content. I am the sole responsible for its content, that I affirm as true as far as my knowledge goes. If you spot a potential error or misconception, please [let me know](mailto:brunosan@gmail.com?Subject=Feedback)

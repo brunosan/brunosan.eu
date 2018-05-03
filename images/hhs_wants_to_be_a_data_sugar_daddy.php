@@ -3,29 +3,29 @@
 <head>
 	<meta charset="utf-8">
 	<title>HHS Wants to Be a &#39;Data Sugar Daddy&#39; - Nextgov.com</title>
-	<link media="all" rel="stylesheet" href="http://cdn.nextgov.com/nextgov/css/all.css?v=1.2.8.6" />
+	<link media="all" rel="stylesheet" href="https://cdn.nextgov.com/nextgov/css/all.css?v=1.2.8.6" />
     
-    <link rel="canonical" href="http://www.nextgov.com/technology-news/tech-insider/2011/02/hhs-wants-to-be-a-data-sugar-daddy/54277/" />
+    <link rel="canonical" href="https://www.nextgov.com/technology-news/tech-insider/2011/02/hhs-wants-to-be-a-data-sugar-daddy/54277/" />
     
     
     
-	<script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/js/jquery-ui-1.8.21.custom.min.js"></script><!-- custom download: Core, Effects Core, Effect "Fade" -->
-    <script type="text/javascript" src="http://cdn.nextgov.com/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/jquery.main.js?v=1.2.8.1"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/js/newsletter.form.js?v=1"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/js/jquery.form.js"></script>
-    <script type="text/javascript" src="http://cdn.nextgov.com/nextgov/js/omniture/s-code.js?v=1.1"></script>
+	<script type="text/javascript" src="https://cdn.nextgov.com/nextgov/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="https://cdn.nextgov.com/js/jquery-ui-1.8.21.custom.min.js"></script><!-- custom download: Core, Effects Core, Effect "Fade" -->
+    <script type="text/javascript" src="https://cdn.nextgov.com/js/jquery.cookie.js"></script>
+    <script type="text/javascript" src="https://cdn.nextgov.com/nextgov/js/jquery.main.js?v=1.2.8.1"></script>
+    <script type="text/javascript" src="https://cdn.nextgov.com/js/newsletter.form.js?v=1"></script>
+    <script type="text/javascript" src="https://cdn.nextgov.com/js/jquery.form.js"></script>
+    <script type="text/javascript" src="https://cdn.nextgov.com/nextgov/js/omniture/s-code.js?v=1.1"></script>
     
-	<!--[if IE]><link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie-all.css" media="screen"/><![endif]-->
-	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie.css" media="screen"/><![endif]-->
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="https://cdn.nextgov.com/nextgov/css/ie-all.css" media="screen"/><![endif]-->
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="https://cdn.nextgov.com/nextgov/css/ie.css" media="screen"/><![endif]-->
 	<!--[if lt IE 9]>
-    <link rel="stylesheet" type="text/css" href="http://cdn.nextgov.com/nextgov/css/ie-8.css" media="screen"/>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js">
+    <link rel="stylesheet" type="text/css" href="https://cdn.nextgov.com/nextgov/css/ie-8.css" media="screen"/>
+    <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js">
   </script><![endif]-->
 
   <script type="text/javascript">var switchTo5x=true;</script>
-  <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript" src="https://w.sharethis.com/button/buttons.js"></script>
   <script type="text/javascript">
     //<![CDATA[
     stLight.options({
@@ -62,7 +62,7 @@
 
       (function() {
         var elem = document.createElement('script');
-        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "https://edge") + ".quantserve.com/quant.js";
         elem.async = true;
         elem.type = "text/javascript";
         var scpt = document.getElementsByTagName('script')[0];
@@ -79,7 +79,7 @@
 
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     //]]>
@@ -136,8 +136,8 @@ if(navigator.appVersion.indexOf('MSIE')>=0) document.write(unescape('%3C')+'\!-'
 </script> 
 <noscript>
 	<div>
-		<a href="http://www.omniture.com" title="Web Analytics" ><img
-src="http://metrics.nextgov.com/b/ss/atlanticnextgov2012/1/H.17--NS/0"
+		<a href="https://www.omniture.com" title="Web Analytics" ><img
+src="https://metrics.nextgov.com/b/ss/atlanticnextgov2012/1/H.17--NS/0"
 height="1" width="1" alt="" /></a>
 	</div>
 </noscript>
@@ -159,14 +159,14 @@ if (typeof window.dart_random_ord == 'undefined') {
 	window.dart_random_ord = ('000000000' + Math.ceil(Math.random() * 1000000000).toString()).slice(-9);
 }
 
-var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/section_techinsider;sz=728x90;pos=topleader;tile=1;ord=' + window.dart_random_ord + '?';
+var this_ad_link = 'https://ad.doubleclick.net/N617/adj/nextgov.com/section_techinsider;sz=728x90;pos=topleader;tile=1;ord=' + window.dart_random_ord + '?';
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
 	</script>
 	<noscript>
-		<a href="http://ad.doubleclick.net/N617/jump/nextgov.com/section_techinsider;sz=728x90;pos=topleader;" title="">
-			<img src="http://ad.doubleclick.net/N617/ad/nextgov.com/section_techinsider;sz=728x90;pos=topleader;?" alt="" />
+		<a href="https://ad.doubleclick.net/N617/jump/nextgov.com/section_techinsider;sz=728x90;pos=topleader;" title="">
+			<img src="https://ad.doubleclick.net/N617/ad/nextgov.com/section_techinsider;sz=728x90;pos=topleader;?" alt="" />
         </a>
     </noscript>
 </div>
@@ -184,7 +184,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								
 									<li><a href="/defense/unmanned-aerial-vehicle/55563/?oref=ng-trending">UAVS</a></li>
 								
-									<li><a href="http://www.govexec.com/reports/five-innovative-uses-social-media/56086/">Social Media in Government</a></li>
+									<li><a href="https://www.govexec.com/reports/five-innovative-uses-social-media/56086/">Social Media in Government</a></li>
 								
 									<li><a href="/big-data/2012/06/national-lab-ibm-team-supercomputer-initiative/56497/?oref=ng-trending">Supercomputers</a></li>
 								
@@ -198,7 +198,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								
 								<li>
 									<a href="/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/?oref=ng-skybox">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912usaidmapNG/nextgov-skybox.jpg"
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912usaidmapNG/nextgov-skybox.jpg"
      alt=""
      title=""
      
@@ -213,7 +213,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							
 								<li>
 									<a href="/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/?oref=ng-skybox">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912blackberryNG/nextgov-skybox.jpg"
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912blackberryNG/nextgov-skybox.jpg"
      alt=""
      title=""
      
@@ -228,7 +228,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							
 								<li>
 									<a href="/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/?oref=ng-skybox">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912globalhawkNG/nextgov-skybox.jpg"
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912globalhawkNG/nextgov-skybox.jpg"
      alt="EQ-4 Global Hawk carrying the Battlefield Airborne Communications Node awaits takeoff."
      title="EQ-4 Global Hawk carrying the Battlefield Airborne Communications Node awaits takeoff."
      
@@ -243,7 +243,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							
 								<li>
 									<a href="/cio-briefing/white-houses-digital-strategy/56300/?oref=ng-skybox">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/15/obama_ipad/nextgov-skybox.jpg"
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/15/obama_ipad/nextgov-skybox.jpg"
      alt=""
      title=""
      
@@ -279,7 +279,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912looxcieNG/thumb-large.jpg" alt="A Looxcie camera attached to a bike helmet" title="A Looxcie camera attached to a bike helmet" height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912looxcieNG/thumb-large.jpg" alt="A Looxcie camera attached to a bike helmet" title="A Looxcie camera attached to a bike helmet" height="131" width="218" />
                 </div>
                 <header class="heading">
                   Hands-free camera maker Looxcie inks In-Q-Tel deal 
@@ -290,9 +290,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" st_title="Hands-free camera maker Looxcie inks In-Q-Tel deal " st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" st_title="Hands-free camera maker Looxcie inks In-Q-Tel deal " st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/#disqus_thread" data-disqus-identifier="post_56544">Comments</a></li>
                 </ul>
                 <span class="date">// June 29, 2012</span>
@@ -304,7 +304,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               </header>
               <ul>
                 
-                  <li><a href="http://www.govexec.com/technology/2012/06/watchdog-points-foiagov-improvements/56547/?oref=ng-dropdown"><strong>Watchdog points to FOIA.gov improvements</strong> <span class="date">// June 29, 2012</span></a></li>
+                  <li><a href="https://www.govexec.com/technology/2012/06/watchdog-points-foiagov-improvements/56547/?oref=ng-dropdown"><strong>Watchdog points to FOIA.gov improvements</strong> <span class="date">// June 29, 2012</span></a></li>
                 
                   <li><a href="/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/?oref=ng-dropdown"><strong>RIM is dying because it got the future of phones completely wrong</strong> <span class="date">// June 29, 2012</span></a></li>
                 
@@ -328,7 +328,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912blackberryNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912blackberryNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
                 </div>
                 <header class="heading">
                   RIM is dying because it got the future of phones completely wrong
@@ -339,9 +339,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/" st_title="RIM is dying because it got the future of phones completely wrong" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/" st_title="RIM is dying because it got the future of phones completely wrong" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/cio-briefing/2012/06/rim-dying-because-it-got-future-phones-completely-wrong/56542/#disqus_thread" data-disqus-identifier="post_56542">Comments</a></li>
                 </ul>
                 <span class="date">// June 29, 2012</span>
@@ -377,7 +377,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912looxcieNG/thumb-large.jpg" alt="A Looxcie camera attached to a bike helmet" title="A Looxcie camera attached to a bike helmet" height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912looxcieNG/thumb-large.jpg" alt="A Looxcie camera attached to a bike helmet" title="A Looxcie camera attached to a bike helmet" height="131" width="218" />
                 </div>
                 <header class="heading">
                   Hands-free camera maker Looxcie inks In-Q-Tel deal 
@@ -388,9 +388,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" st_title="Hands-free camera maker Looxcie inks In-Q-Tel deal " st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" st_title="Hands-free camera maker Looxcie inks In-Q-Tel deal " st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/emerging-tech/2012/06/hands-free-camera-maker-looxcie-inks-q-tel-deal/56544/#disqus_thread" data-disqus-identifier="post_56544">Comments</a></li>
                 </ul>
                 <span class="date">// June 29, 2012</span>
@@ -426,7 +426,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/cloud-computing/2012/06/data-center-goals-depend-other-programs-success/56354/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/19/061912datacenterNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/19/061912datacenterNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
                 </div>
                 <header class="heading">
                   Data center goals depend on other programs’ success
@@ -437,9 +437,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cloud-computing/2012/06/data-center-goals-depend-other-programs-success/56354/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cloud-computing/2012/06/data-center-goals-depend-other-programs-success/56354/" st_title="Data center goals depend on other programs’ success" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cloud-computing/2012/06/data-center-goals-depend-other-programs-success/56354/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/cloud-computing/2012/06/data-center-goals-depend-other-programs-success/56354/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/cloud-computing/2012/06/data-center-goals-depend-other-programs-success/56354/" st_title="Data center goals depend on other programs’ success" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/cloud-computing/2012/06/data-center-goals-depend-other-programs-success/56354/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/cloud-computing/2012/06/data-center-goals-depend-other-programs-success/56354/#disqus_thread" data-disqus-identifier="post_56354">Comments</a></li>
                 </ul>
                 <span class="date">// June 19, 2012</span>
@@ -464,7 +464,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <header class="heading">
                   <strong class="title">sponsored by</strong>
                 </header>
-                <a href="http://pubads.g.doubleclick.net/gampad/clk?id=26936855&amp;iu=/617/nextgov.com/homepage" rel="external"><img src="http://cdn.nextgov.com/media/img/upload/2012/04/25/google_for_online/thumb.png" alt="" title="" height="83" width="138" /></a>
+                <a href="https://pubads.g.doubleclick.net/gampad/clk?id=26936855&amp;iu=/617/nextgov.com/homepage" rel="external"><img src="https://cdn.nextgov.com/media/img/upload/2012/04/25/google_for_online/thumb.png" alt="" title="" height="83" width="138" /></a>
               </div>
             
           </div>
@@ -482,7 +482,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/cybersecurity/2012/06/dhs-give-agencies-free-computer-threat-detection-packages/56459/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/26/062612dhsNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/26/062612dhsNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
                 </div>
                 <header class="heading">
                   DHS to give agencies free computer threat-detection packages
@@ -493,9 +493,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/cybersecurity/2012/06/dhs-give-agencies-free-computer-threat-detection-packages/56459/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/cybersecurity/2012/06/dhs-give-agencies-free-computer-threat-detection-packages/56459/" st_title="DHS to give agencies free computer threat-detection packages" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/cybersecurity/2012/06/dhs-give-agencies-free-computer-threat-detection-packages/56459/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/cybersecurity/2012/06/dhs-give-agencies-free-computer-threat-detection-packages/56459/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/cybersecurity/2012/06/dhs-give-agencies-free-computer-threat-detection-packages/56459/" st_title="DHS to give agencies free computer threat-detection packages" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/cybersecurity/2012/06/dhs-give-agencies-free-computer-threat-detection-packages/56459/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/cybersecurity/2012/06/dhs-give-agencies-free-computer-threat-detection-packages/56459/#disqus_thread" data-disqus-identifier="post_56459">Comments</a></li>
                 </ul>
                 <span class="date">// June 26, 2012</span>
@@ -531,7 +531,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/mobile/2012/06/buyer-beware-mobile-payments-might-not-be-protected/56540/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912mobilepaymentsNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912mobilepaymentsNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
                 </div>
                 <header class="heading">
                   Buyer beware: Mobile payments might not be protected
@@ -543,9 +543,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/mobile/2012/06/buyer-beware-mobile-payments-might-not-be-protected/56540/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/mobile/2012/06/buyer-beware-mobile-payments-might-not-be-protected/56540/" st_title="Buyer beware: Mobile payments might not be protected" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/mobile/2012/06/buyer-beware-mobile-payments-might-not-be-protected/56540/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/mobile/2012/06/buyer-beware-mobile-payments-might-not-be-protected/56540/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/mobile/2012/06/buyer-beware-mobile-payments-might-not-be-protected/56540/" st_title="Buyer beware: Mobile payments might not be protected" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/mobile/2012/06/buyer-beware-mobile-payments-might-not-be-protected/56540/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/mobile/2012/06/buyer-beware-mobile-payments-might-not-be-protected/56540/#disqus_thread" data-disqus-identifier="post_56540">Comments</a></li>
                 </ul>
                 <span class="date">// June 29, 2012</span>
@@ -570,7 +570,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <header class="heading">
                   <strong class="title">sponsored by</strong>
                 </header>
-                <a href="http://pubads.g.doubleclick.net/gampad/clk?id=31242935&amp;iu=/617/nextgov.com/homepage" rel="external"><img src="http://cdn.nextgov.com/media/img/upload/2012/04/30/polycom_logo/thumb.png" alt="" title="" height="83" width="138" /></a>
+                <a href="https://pubads.g.doubleclick.net/gampad/clk?id=31242935&amp;iu=/617/nextgov.com/homepage" rel="external"><img src="https://cdn.nextgov.com/media/img/upload/2012/04/30/polycom_logo/thumb.png" alt="" title="" height="83" width="138" /></a>
               </div>
             
           </div>
@@ -588,7 +588,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/health/2012/06/health-it-small-significant-part-health-reform/56522/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/28/062812healthitNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/28/062812healthitNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
                 </div>
                 <header class="heading">
                   Health IT's small, but significant role in health reform 
@@ -599,9 +599,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/health/2012/06/health-it-small-significant-part-health-reform/56522/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/health/2012/06/health-it-small-significant-part-health-reform/56522/" st_title="Health IT&#39;s small, but significant role in health reform " st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/health/2012/06/health-it-small-significant-part-health-reform/56522/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/health/2012/06/health-it-small-significant-part-health-reform/56522/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/health/2012/06/health-it-small-significant-part-health-reform/56522/" st_title="Health IT&#39;s small, but significant role in health reform " st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/health/2012/06/health-it-small-significant-part-health-reform/56522/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/health/2012/06/health-it-small-significant-part-health-reform/56522/#disqus_thread" data-disqus-identifier="post_56522">Comments</a></li>
                 </ul>
                 <span class="date">// June 28, 2012</span>
@@ -637,7 +637,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912globalhawkNG/thumb-large.jpg" alt="EQ-4 Global Hawk carrying the Battlefield Airborne Communications Node awaits takeoff." title="EQ-4 Global Hawk carrying the Battlefield Airborne Communications Node awaits takeoff." height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912globalhawkNG/thumb-large.jpg" alt="EQ-4 Global Hawk carrying the Battlefield Airborne Communications Node awaits takeoff." title="EQ-4 Global Hawk carrying the Battlefield Airborne Communications Node awaits takeoff." height="131" width="218" />
                 </div>
                 <header class="heading">
                   Northrop Grumman snags a <span class="font-override">$</span>782 million sole-source contract for Afghanistan communications
@@ -648,9 +648,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/" st_title="Northrop Grumman snags a $782 million sole-source contract for Afghanistan communications" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/" st_title="Northrop Grumman snags a $782 million sole-source contract for Afghanistan communications" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/defense/2012/06/northrop-grumman-snags-782-million-sole-source-contract-afghanistan-communications/56541/#disqus_thread" data-disqus-identifier="post_56541">Comments</a></li>
                 </ul>
                 <span class="date">// June 29, 2012</span>
@@ -686,7 +686,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
             <div class="drop-block">
               <a href="/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/?oref=ng-dropdown">
                 <div class="image alignleft">
-                  <img src="http://cdn.nextgov.com/media/img/upload/2012/06/29/062912usaidmapNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
+                  <img src="https://cdn.nextgov.com/media/img/upload/2012/06/29/062912usaidmapNG/thumb-large.jpg" alt="" title="" height="131" width="218" />
                 </div>
                 <header class="heading">
                   Working the crowd: How USAID leveraged free labor to map a loan program’s effectiveness
@@ -697,9 +697,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
               
               <div class="meta">
                 <ul class="social">
-                  <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/" href="javascript:Void();">facebook</a></li>
-                  <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/" st_title="Working the crowd: How USAID leveraged free labor to map a loan program’s effectiveness" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-                  <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/" href="javascript:Void();">google</a></li>
+                  <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/" href="javascript:Void();">facebook</a></li>
+                  <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/" st_title="Working the crowd: How USAID leveraged free labor to map a loan program’s effectiveness" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+                  <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/" href="javascript:Void();">google</a></li>
                   <li><a class="comment disqus-count" href="/big-data/2012/06/working-crowd-how-usaid-leveraged-free-labor-map-loan-programs-effectiveness/56533/#disqus_thread" data-disqus-identifier="post_56533">Comments</a></li>
                 </ul>
                 <span class="date">// June 29, 2012</span>
@@ -724,7 +724,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
                 <header class="heading">
                   <strong class="title">sponsored by</strong>
                 </header>
-                <a href="http://pubads.g.doubleclick.net/gampad/clk?id=26953655&amp;iu=/617/nextgov.com/homepage" rel="external"><img src="http://cdn.nextgov.com/media/img/upload/2012/04/26/netapp_logo_1/thumb.png" alt="" title="" height="83" width="138" /></a>
+                <a href="https://pubads.g.doubleclick.net/gampad/clk?id=26953655&amp;iu=/617/nextgov.com/homepage" rel="external"><img src="https://cdn.nextgov.com/media/img/upload/2012/04/26/netapp_logo_1/thumb.png" alt="" title="" height="83" width="138" /></a>
               </div>
             
           </div>
@@ -737,7 +737,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 
 
         
-          <img class="decor-cloud" src="http://cdn.nextgov.com/nextgov/images/sidebar-icons/technology-news.png" alt="News">
+          <img class="decor-cloud" src="https://cdn.nextgov.com/nextgov/images/sidebar-icons/technology-news.png" alt="News">
         
 				<div class="main-holder container_12">
 					<div class="tools-block">
@@ -750,8 +750,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							</fieldset>
 						</form>
 						<ul class="social">
-							<li><a class="facebook" href="http://www.facebook.com/Nextgov">facebook</a></li>
-							<li><a class="twitter" href="http://twitter.com/#!/nextgov/">twitter</a></li>
+							<li><a class="facebook" href="https://www.facebook.com/Nextgov">facebook</a></li>
+							<li><a class="twitter" href="https://twitter.com/#!/nextgov/">twitter</a></li>
 							<li><a class="rss" href="/rss/all/">rss</a></li>
 						</ul>
 					</div>
@@ -760,7 +760,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
   
     <div class="banner">
       <a href="/technology-news/tech-insider/">
-        <img src="http://cdn.nextgov.com/nextgov/images/blog-headers/tech-insider.gif" alt="Tech Insider" width="640" height="92" />
+        <img src="https://cdn.nextgov.com/nextgov/images/blog-headers/tech-insider.gif" alt="Tech Insider" width="640" height="92" />
       </a>
     </div>
   
@@ -1286,16 +1286,16 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
       <div class="article-holder">
         <div class="social-plugins no-border">
           <div class="holder">
-            <span class='st_facebook_vcount' st_url="http://www.nextgov.com/technology-news/tech-insider/2011/02/hhs-wants-to-be-a-data-sugar-daddy/54277/" displayText='Facebook'></span>
-            <span class='st_twitter_vcount' st_url="http://www.nextgov.com/technology-news/tech-insider/2011/02/hhs-wants-to-be-a-data-sugar-daddy/54277/" st_title="HHS Wants to Be a &#39;Data Sugar Daddy&#39;" st_via="nextgov" displayText='Tweet'></span>
-            <span class='st_googleplus_vcount' st_url="http://www.nextgov.com/technology-news/tech-insider/2011/02/hhs-wants-to-be-a-data-sugar-daddy/54277/" displayText='Google +1'></span>
+            <span class='st_facebook_vcount' st_url="https://www.nextgov.com/technology-news/tech-insider/2011/02/hhs-wants-to-be-a-data-sugar-daddy/54277/" displayText='Facebook'></span>
+            <span class='st_twitter_vcount' st_url="https://www.nextgov.com/technology-news/tech-insider/2011/02/hhs-wants-to-be-a-data-sugar-daddy/54277/" st_title="HHS Wants to Be a &#39;Data Sugar Daddy&#39;" st_via="nextgov" displayText='Tweet'></span>
+            <span class='st_googleplus_vcount' st_url="https://www.nextgov.com/technology-news/tech-insider/2011/02/hhs-wants-to-be-a-data-sugar-daddy/54277/" displayText='Google +1'></span>
             <span class="comments_vcount">
               <span class="stButton" style="text-decoration:none;color:#000000;display:inline-block;cursor:pointer;">
                 <div>
                   <div class="stBubble" style="display: block;">
                     <div class="stBubble_count disqus-count" data-disqus-identifier="post_54277"></div>
                   </div>
-                  <a href="#disqus_thread"><img src="http://cdn.nextgov.com/nextgov/images/comments-btn.gif" alt="Comments" /></a>
+                  <a href="#disqus_thread"><img src="https://cdn.nextgov.com/nextgov/images/comments-btn.gif" alt="Comments" /></a>
                 </div>
               </span>
             </span>
@@ -1318,7 +1318,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
   State will continue to consider open source technology where it makes the most sense, said Chief Information Officer Susan Swart. Specifically, the agency will look at internal applications that can be hosted using open-source software, she said.
 </p>
 <p>
-  Next week, the Health and Human Services Department will launch a HealthData.gov community on the U.S.'s open data site <a href="http://www.data.gov/">data.gov</a>. It will be a one-stop resource for health data innovation, said Chief Technology Officer Todd Park. Part of the site will serve as a virtual apps expo, where Park expects people to find problems with the data the agency puts out, as HHS simply does not have enough manpower to check all of it.
+  Next week, the Health and Human Services Department will launch a HealthData.gov community on the U.S.'s open data site <a href="https://www.data.gov/">data.gov</a>. It will be a one-stop resource for health data innovation, said Chief Technology Officer Todd Park. Part of the site will serve as a virtual apps expo, where Park expects people to find problems with the data the agency puts out, as HHS simply does not have enough manpower to check all of it.
 </p>
 <p>
   Perhaps the best quote of the day came from Park, who said HHS wants to provide developers with the raw data and let them take the lead in creating the software and tools to use it. The agency wants to be a "data sugar daddy," he said to laughter.
@@ -1387,15 +1387,15 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
       <ul>
       
         <li>
-          <a href="http://www.govexec.com/reports/five-technologies-making-government-greener/55896/?oref=special-reports" class="link">Does Telework Save Gas? <span class="arrow"></span></a> 5 Technologies Driving Real Change
+          <a href="https://www.govexec.com/reports/five-technologies-making-government-greener/55896/?oref=special-reports" class="link">Does Telework Save Gas? <span class="arrow"></span></a> 5 Technologies Driving Real Change
         </li>
        
         <li>
-          <a href="http://www.govexec.com/gbc/how-far-how-fast-comparing-american-british-and-australian-progress-cloud-computing/41622/" class="link">Are We Procuring Cloud Services Correctly? <span class="arrow"></span></a> Lessons from Abroad
+          <a href="https://www.govexec.com/gbc/how-far-how-fast-comparing-american-british-and-australian-progress-cloud-computing/41622/" class="link">Are We Procuring Cloud Services Correctly? <span class="arrow"></span></a> Lessons from Abroad
         </li>
        
         <li>
-          <a href="http://www.govexec.com/gbc/wikileaks-two-years-later-does-pentagon-still-trust-its-employees/56093/" class="link">WikiLeaks Two Years Later <span class="arrow"></span></a> Does the Pentagon Still Trust its Employees?
+          <a href="https://www.govexec.com/gbc/wikileaks-two-years-later-does-pentagon-still-trust-its-employees/56093/" class="link">WikiLeaks Two Years Later <span class="arrow"></span></a> Does the Pentagon Still Trust its Employees?
         </li>
        
       </ul>
@@ -1428,11 +1428,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
   </section>
@@ -1448,14 +1448,14 @@ if (typeof window.dart_random_ord == 'undefined') {
 	window.dart_random_ord = ('000000000' + Math.ceil(Math.random() * 1000000000).toString()).slice(-9);
 }
 
-var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/section_techinsider;sz=300x250,300x1000,300x600;pos=topblock;tile=2;ord=' + window.dart_random_ord + '?';
+var this_ad_link = 'https://ad.doubleclick.net/N617/adj/nextgov.com/section_techinsider;sz=300x250,300x1000,300x600;pos=topblock;tile=2;ord=' + window.dart_random_ord + '?';
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 
 //]]>
 	</script>
 	<noscript>
-		<a href="http://ad.doubleclick.net/N617/jump/nextgov.com/section_techinsider;sz=300x250,300x1000,300x600;pos=topblock;" title="">
-			<img src="http://ad.doubleclick.net/N617/ad/nextgov.com/section_techinsider;sz=300x250,300x1000,300x600;pos=topblock;?" alt="" />
+		<a href="https://ad.doubleclick.net/N617/jump/nextgov.com/section_techinsider;sz=300x250,300x1000,300x600;pos=topblock;" title="">
+			<img src="https://ad.doubleclick.net/N617/ad/nextgov.com/section_techinsider;sz=300x250,300x1000,300x600;pos=topblock;?" alt="" />
         </a>
     </noscript>
 </div>
@@ -1469,8 +1469,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							
 							
 								<li>
-									<a href="http://event.on24.com/r.htm?e=489709&amp;s=1&amp;k=97A8B7DEF48EA8E7D610DE9BCF3803C9&amp;partnerref=NGPromo">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/26/city_1/promoted.jpg"
+									<a href="https://event.on24.com/r.htm?e=489709&amp;s=1&amp;k=97A8B7DEF48EA8E7D610DE9BCF3803C9&amp;partnerref=NGPromo">
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/26/city_1/promoted.jpg"
      alt=""
      title=""
      
@@ -1492,8 +1492,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/gbc/wikileaks-two-years-later-does-pentagon-still-trust-its-employees/56093/">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/21/cyber_1400737Small/promoted.png"
+									<a href="https://www.govexec.com/gbc/wikileaks-two-years-later-does-pentagon-still-trust-its-employees/56093/">
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/21/cyber_1400737Small/promoted.png"
      alt=""
      title=""
      
@@ -1515,8 +1515,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/reports/five-innovative-uses-social-media/56086/">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/12/6336663225_0a9ed67193_z_1/promoted.jpg"
+									<a href="https://www.govexec.com/reports/five-innovative-uses-social-media/56086/">
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/12/6336663225_0a9ed67193_z_1/promoted.jpg"
      alt=""
      title=""
      
@@ -1538,8 +1538,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								</li>
 							
 								<li>
-									<a href="http://www.cvent.com/d/4cq1l1">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/21/1280px-US_Navy_030926-F-2828D-089_Aerial_view_of_the_Pentagon/promoted.jpg"
+									<a href="https://www.cvent.com/d/4cq1l1">
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/21/1280px-US_Navy_030926-F-2828D-089_Aerial_view_of_the_Pentagon/promoted.jpg"
      alt=""
      title=""
      
@@ -1561,8 +1561,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/gbc/how-far-how-fast-comparing-american-british-and-australian-progress-cloud-computing/41622/">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/05/04/IMG_2500/promoted.JPG"
+									<a href="https://www.govexec.com/gbc/how-far-how-fast-comparing-american-british-and-australian-progress-cloud-computing/41622/">
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/05/04/IMG_2500/promoted.JPG"
      alt=""
      title=""
      
@@ -1584,8 +1584,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 								</li>
 							
 								<li>
-									<a href="http://www.govexec.com/reports/five-technologies-making-government-greener/55896/">
-										<img src="http://cdn.nextgov.com/media/img/upload/2012/06/12/healthIT/promoted.png"
+									<a href="https://www.govexec.com/reports/five-technologies-making-government-greener/55896/">
+										<img src="https://cdn.nextgov.com/media/img/upload/2012/06/12/healthIT/promoted.png"
      alt=""
      title=""
      
@@ -1638,7 +1638,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 											</li>
 										</ul>
 										<div class="btn-holder">
-											<a href="http://www.govexec.com/newsletters/" class="link">see all</a>
+											<a href="https://www.govexec.com/newsletters/" class="link">see all</a>
 										</div>
 										<div class="text-box">
 											<input type="text" id="email_address" name="email_address" value="Enter your email address here..." class="text">
@@ -1649,9 +1649,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							</form>
 							              
   <div id="modal_window">
-	<div id="modal_window_content"><img src="http://cdn.nextgov.com/images/ajax-loading.gif" width="32" height="32" alt="Loading..." /></div>
+	<div id="modal_window_content"><img src="https://cdn.nextgov.com/images/ajax-loading.gif" width="32" height="32" alt="Loading..." /></div>
   
-	<a href="#" class="close_button"><img src="http://cdn.nextgov.com/images/close-circle.png" alt="Close window" width="30" height="30" /></a>
+	<a href="#" class="close_button"><img src="https://cdn.nextgov.com/images/close-circle.png" alt="Close window" width="30" height="30" /></a>
   </div>
 						</div>
                         
@@ -1667,14 +1667,14 @@ if (top_right_ad_size_check_called == false && $("#topblock-ad").height() < 600)
       if ($("#topblock-ad").height() < 250) {
           top_right_ad_size_check();
       }
-var this_ad_link = 'http://ad.doubleclick.net/N617/adj/nextgov.com/section_techinsider;sz=300x250;pos=bottomblock;tile=3;ord=' + window.dart_random_ord + '?';
+var this_ad_link = 'https://ad.doubleclick.net/N617/adj/nextgov.com/section_techinsider;sz=300x250;pos=bottomblock;tile=3;ord=' + window.dart_random_ord + '?';
 document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">' + '<' + '/script>');
 }
 //]]>
 	</script>
 	<noscript>
-		<a href="http://ad.doubleclick.net/N617/jump/nextgov.com/section_techinsider;sz=300x250;pos=bottomblock;" title="">
-			<img src="http://ad.doubleclick.net/N617/ad/nextgov.com/section_techinsider;sz=300x250;pos=bottomblock;?" alt="" />
+		<a href="https://ad.doubleclick.net/N617/jump/nextgov.com/section_techinsider;sz=300x250;pos=bottomblock;" title="">
+			<img src="https://ad.doubleclick.net/N617/ad/nextgov.com/section_techinsider;sz=300x250;pos=bottomblock;?" alt="" />
         </a>
     </noscript>
 </div>
@@ -1693,7 +1693,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
       <li>
         <a href="/defense/whats-brewin/2012/06/how-about-some-wideband-hf-radio/56546/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-whats-brewin.jpg" alt="What&#39;s Brewin" width="142" height="54" >
+          <img src="https://cdn.nextgov.com/nextgov/images/blog-sidebar-whats-brewin.jpg" alt="What&#39;s Brewin" width="142" height="54" >
           <span class="text-holder"><strong>How About Some Wideband HF Radio? </strong><em class="text">What&#39;s Brewin <em class="author">by 
     
     Bob Brewin
@@ -1703,7 +1703,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
       <li>
         <a href="/emerging-tech/emerging-tech-blog/2012/06/experts-split-homes-future/56537/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-emerging-tech-blog.jpg" alt="Emerging Tech" width="142" height="54" >
+          <img src="https://cdn.nextgov.com/nextgov/images/blog-sidebar-emerging-tech-blog.jpg" alt="Emerging Tech" width="142" height="54" >
           <span class="text-holder"><strong>Experts split on the homes of the future </strong><em class="text">Emerging Tech <em class="author">by 
     
     Joseph Marks
@@ -1713,7 +1713,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
       <li>
         <a href="/technology-news/tech-insider/2012/06/state-department-human-rights-exist-digital-realm/56467/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-tech-insider.jpg" alt="Tech Insider" width="142" height="54" >
+          <img src="https://cdn.nextgov.com/nextgov/images/blog-sidebar-tech-insider.jpg" alt="Tech Insider" width="142" height="54" >
           <span class="text-holder"><strong>State Department: Human Rights Exist in Digital Realm  </strong><em class="text">Tech Insider <em class="author">by 
     
     Ross Gianfortune
@@ -1723,7 +1723,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
       <li>
         <a href="/cio-briefing/wired-workplace/2012/06/cyber-summer-camp-all-ages/56539/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-wired-workplace.jpg" alt="Wired Workplace" width="142" height="54" >
+          <img src="https://cdn.nextgov.com/nextgov/images/blog-sidebar-wired-workplace.jpg" alt="Wired Workplace" width="142" height="54" >
           <span class="text-holder"><strong>A Cyber Summer Camp for All Ages </strong><em class="text">Wired Workplace <em class="author">by 
     
     Brittany Ballenstedt
@@ -1733,7 +1733,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
       <li>
         <a href="/health/health-it/2012/06/electronic-records-mitigate-against-malpractice/56543/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-health-it.jpg" alt="Health IT" width="142" height="54" >
+          <img src="https://cdn.nextgov.com/nextgov/images/blog-sidebar-health-it.jpg" alt="Health IT" width="142" height="54" >
           <span class="text-holder"><strong>Electronic Records Mitigate Against Malpractice </strong><em class="text">Health IT <em class="author">by 
     
     John Pulley
@@ -1743,7 +1743,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     
       <li>
         <a href="/cybersecurity/cybersecurity-report/2012/06/july-fireworks-senate-may-take-cybersecurity-then-what/56448/?oref=voicesmodule">
-          <img src="http://cdn.nextgov.com/nextgov/images/blog-sidebar-cybersecurity-report.jpg" alt="Cybersecurity Report" width="142" height="54" >
+          <img src="https://cdn.nextgov.com/nextgov/images/blog-sidebar-cybersecurity-report.jpg" alt="Cybersecurity Report" width="142" height="54" >
           <span class="text-holder"><strong>July Fireworks: Senate May Take Up Cybersecurity, But Then What?     </strong><em class="text">Cybersecurity Report <em class="author">by 
     
     Jessica Herrera-Flanigan 
@@ -1760,34 +1760,34 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 <div class="side-block">
 	<h3 class="text-links">sponsored links</h3>
 	<ul class="list list3">
-        <script type="text/javascript" src="http://jlinks.industrybrains.com/jsct?sid=885&amp;ct=GOVERNMENT_EXECUTIVE_ROS&amp;num=5&amp;layt=3&amp;fmt=simp"></script>
+        <script type="text/javascript" src="https://jlinks.industrybrains.com/jsct?sid=885&amp;ct=GOVERNMENT_EXECUTIVE_ROS&amp;num=5&amp;layt=3&amp;fmt=simp"></script>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=46831415&amp;iu=/617/govexec.com/emailads">Report Card: 5 Game-Changing Federal Efficiency Plans</a></strong> Government agencies are taking huge strides forward in green technology. Discover what changes these leading strategies are driving. <a href="http://pubads.g.doubleclick.net/gampad/clk?id=46831415&amp;iu=/617/govexec.com/emailads" rel="external">GovExec.com/reports/GreenGov</a></span>
+			<span class="text-holder"><strong><a href="https://pubads.g.doubleclick.net/gampad/clk?id=46831415&amp;iu=/617/govexec.com/emailads">Report Card: 5 Game-Changing Federal Efficiency Plans</a></strong> Government agencies are taking huge strides forward in green technology. Discover what changes these leading strategies are driving. <a href="https://pubads.g.doubleclick.net/gampad/clk?id=46831415&amp;iu=/617/govexec.com/emailads" rel="external">GovExec.com/reports/GreenGov</a></span>
 		</li>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=46831295&amp;iu=/617/govexec.com/homepage">Are Agencies Delivering on Employees Mobile Demands?</a></strong> Learn why 64% of federal mangers think agencies are not meeting mobile needs and what you can do to change that. <a href="http://pubads.g.doubleclick.net/gampad/clk?id=46831295&amp;iu=/617/govexec.com/homepage" rel="external">GovExec.com/webinars/Mobility</a></span>
+			<span class="text-holder"><strong><a href="https://pubads.g.doubleclick.net/gampad/clk?id=46831295&amp;iu=/617/govexec.com/homepage">Are Agencies Delivering on Employees Mobile Demands?</a></strong> Learn why 64% of federal mangers think agencies are not meeting mobile needs and what you can do to change that. <a href="https://pubads.g.doubleclick.net/gampad/clk?id=46831295&amp;iu=/617/govexec.com/homepage" rel="external">GovExec.com/webinars/Mobility</a></span>
 		</li>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=46635095&amp;iu=/617/govexec.com/emailads">Is the US Leading the Race to the Cloud?</a></strong>  Find out how the US ranks against the UK and Austrailia in the adoption of cloud computing. <a href="http://pubads.g.doubleclick.net/gampad/clk?id=46635095&amp;iu=/617/govexec.com/emailads" rel="external">GovExec.com/reports/RacetotheCloud</a></span>
+			<span class="text-holder"><strong><a href="https://pubads.g.doubleclick.net/gampad/clk?id=46635095&amp;iu=/617/govexec.com/emailads">Is the US Leading the Race to the Cloud?</a></strong>  Find out how the US ranks against the UK and Austrailia in the adoption of cloud computing. <a href="https://pubads.g.doubleclick.net/gampad/clk?id=46635095&amp;iu=/617/govexec.com/emailads" rel="external">GovExec.com/reports/RacetotheCloud</a></span>
 		</li>
 	
         
           
         
 		<li>
-			<span class="text-holder"><strong><a href="http://pubads.g.doubleclick.net/gampad/clk?id=46831535&amp;iu=/617/govexec.com/emailads">Securing the Cloud for Government</a></strong> Find out how traditional threats are playing out in the new cloud environment and what you can do to protect data and applications. <a href="http://pubads.g.doubleclick.net/gampad/clk?id=46831535&amp;iu=/617/govexec.com/emailads" rel="external">GovExec.com/webinars/SecuringtheCloud</a></span>
+			<span class="text-holder"><strong><a href="https://pubads.g.doubleclick.net/gampad/clk?id=46831535&amp;iu=/617/govexec.com/emailads">Securing the Cloud for Government</a></strong> Find out how traditional threats are playing out in the new cloud environment and what you can do to protect data and applications. <a href="https://pubads.g.doubleclick.net/gampad/clk?id=46831535&amp;iu=/617/govexec.com/emailads" rel="external">GovExec.com/webinars/SecuringtheCloud</a></span>
 		</li>
 	
 	</ul>
@@ -1806,8 +1806,8 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 							<ul class="footer-menu">
 								<li><a href="/about/">About</a></li>
 								<li><a href="/about/contact/">Contact Us</a></li>
-								<li><a href="http://www.govexec.com/events/">Events</a></li>
-								<li><a href="http://mediakit.govexec.com/">Advertise</a></li>
+								<li><a href="https://www.govexec.com/events/">Events</a></li>
+								<li><a href="https://mediakit.govexec.com/">Advertise</a></li>
 								<li><a href="/about/list-rentals/">List Rentals</a></li>
 								<li><a href="/about/site-map/">Site Map</a></li>
 								<li><a href="/about/privacy-policy/">Privacy Policy</a></li>
@@ -1816,11 +1816,11 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
 						</div>
 						<div class="row">
 							<ul class="footer-menu footer-menu2">
-								<li><a href="http://www.govexec.com/">GovExec.com</a></li>
-								<li><a href="http://www.nationaljournal.com/" rel="external">NationalJournal.com</a></li>
-								<li><a href="http://www.theatlantic.com/" rel="external">TheAtlantic.com</a></li>
-								<li><a href="http://www.theatlanticwire.com/" rel="external">TheAtlanticWire.com</a></li>
-								<li><a href="http://www.theatlanticcities.com/" rel="external">TheAtlanticCities.com</a></li>
+								<li><a href="https://www.govexec.com/">GovExec.com</a></li>
+								<li><a href="https://www.nationaljournal.com/" rel="external">NationalJournal.com</a></li>
+								<li><a href="https://www.theatlantic.com/" rel="external">TheAtlantic.com</a></li>
+								<li><a href="https://www.theatlanticwire.com/" rel="external">TheAtlanticWire.com</a></li>
+								<li><a href="https://www.theatlanticcities.com/" rel="external">TheAtlanticCities.com</a></li>
 							</ul>
 						</div>
 						<p>&copy; 2012 by National Journal Group, Inc. All rights reserved.</p>
@@ -1842,9 +1842,9 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
       </div>
       <div class="meta">
         <ul class="social">
-          <li><a class="facebook st_facebook_custom" st_url="http://www.nextgov.com/defense/whats-brewin/2012/06/how-about-some-wideband-hf-radio/56546/" href="javascript:Void();">facebook</a></li>
-          <li><a class="twitter st_twitter_custom" st_url="http://www.nextgov.com/defense/whats-brewin/2012/06/how-about-some-wideband-hf-radio/56546/" st_title="HHS Wants to Be a &#39;Data Sugar Daddy&#39;" st_via="nextgov" href="javascript:Void();">twitter</a></li>
-          <li><a class="google st_googleplus_custom" st_url="http://www.nextgov.com/defense/whats-brewin/2012/06/how-about-some-wideband-hf-radio/56546/" href="javascript:Void();">google</a></li>
+          <li><a class="facebook st_facebook_custom" st_url="https://www.nextgov.com/defense/whats-brewin/2012/06/how-about-some-wideband-hf-radio/56546/" href="javascript:Void();">facebook</a></li>
+          <li><a class="twitter st_twitter_custom" st_url="https://www.nextgov.com/defense/whats-brewin/2012/06/how-about-some-wideband-hf-radio/56546/" st_title="HHS Wants to Be a &#39;Data Sugar Daddy&#39;" st_via="nextgov" href="javascript:Void();">twitter</a></li>
+          <li><a class="google st_googleplus_custom" st_url="https://www.nextgov.com/defense/whats-brewin/2012/06/how-about-some-wideband-hf-radio/56546/" href="javascript:Void();">google</a></li>
           <li><a class="comment disqus-count" href="/defense/whats-brewin/2012/06/how-about-some-wideband-hf-radio/56546/#disqus_thread" data-disqus-identifier="post_56546">Comments</a></li>
         </ul>
         <strong>//</strong> <span>June 29</span>
@@ -1885,7 +1885,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
       
       
 	<div id="parsely-root" style="display: none">
-	  <a id="parsely-cfg" data-parsely-site="nextgov.com" href="http://parsely.com">Powered by the Parse.ly Publisher Platform (P3).</a>
+	  <a id="parsely-cfg" data-parsely-site="nextgov.com" href="https://parsely.com">Powered by the Parse.ly Publisher Platform (P3).</a>
 	</div>
 	<script type="text/javascript">
     //<![CDATA[
@@ -1913,7 +1913,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
           var e = document.createElement('script');
           e.setAttribute('language', 'javascript');
           e.setAttribute('type', 'text/javascript');
-          e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+          e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "https://static.chartbeat.com/") +
 "js/chartbeat.js");
           document.body.appendChild(e);
         }
@@ -1929,7 +1929,7 @@ document.write('<' + 'script type="text/javascript" src="' + this_ad_link + '">'
     (function () {
         var s = document.createElement('script'); s.async = true;
         s.type = 'text/javascript';
-        s.src = 'http://cdn.nextgov.com/js/custom_disqus_count.js';
+        s.src = 'https://cdn.nextgov.com/js/custom_disqus_count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
     }());
 </script>

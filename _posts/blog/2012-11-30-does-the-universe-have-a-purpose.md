@@ -9,12 +9,12 @@ tags:
 - universe
 ---
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/7pL5vzIMAhs" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7pL5vzIMAhs" frameborder="0"> </iframe>
 
 
 Neil deGrasse Tyson is, to my taste, one of the greatest
 outreach scientist of our time. Not long ago, the Templeton Fundation
-asked leading scientist and scholars ["Does the Universe have a purpose?"](http://www.templeton.org/purpose/).
+asked leading scientist and scholars ["Does the Universe have a purpose?"](https://www.templeton.org/purpose/).
   His answer is the one I like the most.
 <!--more-->
 

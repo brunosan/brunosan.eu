@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<records xmlns="http://ads.harvard.edu/schema/abs/1.1/abstracts" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ads.harvard.edu/schema/abs/1.1/abstracts http://ads.harvard.edu/schema/abs/1.1/abstracts.xsd" retrieved="15" start="1" selected="15">
+<records xmlns="https://ads.harvard.edu/schema/abs/1.1/abstracts" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://ads.harvard.edu/schema/abs/1.1/abstracts https://ads.harvard.edu/schema/abs/1.1/abstracts.xsd" retrieved="15" start="1" selected="15">
 <record>
 <bibcode>2010SoPh..261...53V</bibcode>
 <title>The Structure and Dynamics of the Upper Chromosphere and Lower Transition Region as Revealed by the Subarcsecond VAULT Observations</title>
@@ -26,35 +26,35 @@
 <origin>SPRINGER</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=ABSTRACT</url>
 </link>
 <link type="EJOURNAL" access="open">
   <name>Electronic On-line Article (HTML)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=EJOURNAL</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=EJOURNAL</url>
 </link>
 <link type="PREPRINT" access="open">
   <name>arXiv e-print</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=PREPRINT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=PREPRINT</url>
 </link>
 <link type="REFERENCES">
   <name>References in the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=REFERENCES</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=REFERENCES</url>
   <count>59</count>
 </link>
 <link type="CITATIONS">
   <name>Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=CITATIONS</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=CITATIONS</url>
   <count>9</count>
 </link>
 <link type="REFCIT">
   <name>Refereed Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=REFCIT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=REFCIT</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2010SoPh..261...53V&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2010SoPh..261...53V</url>
+<url>https://adsabs.harvard.edu/abs/2010SoPh..261...53V</url>
 <score>1.000</score>
 <citations>9</citations>
 <abstract>The Very high Angular resolution ULtraviolet Telescope (VAULT) is a
@@ -88,9 +88,9 @@ observing plans.</abstract>
 <origin>AAS</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009SPD....40.2901S&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009SPD....40.2901S&#38;link_type=ABSTRACT</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2009SPD....40.2901S</url>
+<url>https://adsabs.harvard.edu/abs/2009SPD....40.2901S</url>
 <score>1.000</score>
 <abstract>The Very high Angular resolution ULtraviolet Telescope (VAULT) is an Lya
 spectroheliograph flown on a sounding rocket. The payload is capable of
@@ -104,7 +104,7 @@ plage.
 
 The observing campaign incorporated a wide variety of ground-based and
 space-borne instruments. The level 0.9 VAULT data is open and available
-from http://wwwsolar.nrl.navy.mil/rockets/vault .We have recently
+from https://wwwsolar.nrl.navy.mil/rockets/vault .We have recently
 releseased SolarSoft-compatible software for easy access and processing
 of the data.
 
@@ -131,32 +131,32 @@ regions.</abstract>
 <origin>ARXIV</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=ABSTRACT</url>
 </link>
 <link type="PREPRINT" access="open">
   <name>arXiv e-print</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=PREPRINT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=PREPRINT</url>
 </link>
 <link type="REFERENCES">
   <name>References in the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=REFERENCES</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=REFERENCES</url>
   <count>50</count>
 </link>
 <link type="CITATIONS">
   <name>Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=CITATIONS</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=CITATIONS</url>
   <count>1</count>
 </link>
 <link type="REFCIT">
   <name>Refereed Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=REFCIT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=REFCIT</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2009arXiv0902.3174S&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2009arXiv0902.3174S</url>
-<comment>PhD thesis. 107 pages. Source .tex files and images available at http://www.brunosan.eu</comment>
+<url>https://adsabs.harvard.edu/abs/2009arXiv0902.3174S</url>
+<comment>PhD thesis. 107 pages. Source .tex files and images available at https://www.brunosan.eu</comment>
 <score>1.000</score>
 <citations>1</citations>
 <abstract>This thesis is based on observations performed at the Vacuum Tower
@@ -204,35 +204,35 @@ inside the disc.</abstract>
 <origin>EDP Sciences</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=ABSTRACT</url>
 </link>
 <link type="EJOURNAL" access="open">
   <name>Electronic On-line Article (HTML)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=EJOURNAL</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=EJOURNAL</url>
 </link>
 <link type="ARTICLE" access="open">
   <name>Full Printable Article (PDF/Postscript)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=ARTICLE</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=ARTICLE</url>
 </link>
 <link type="REFERENCES">
   <name>References in the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=REFERENCES</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=REFERENCES</url>
   <count>53</count>
 </link>
 <link type="CITATIONS">
   <name>Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=CITATIONS</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=CITATIONS</url>
   <count>4</count>
 </link>
 <link type="REFCIT">
   <name>Refereed Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=REFCIT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=REFCIT</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008A%26A...486..577S&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2008A%26A...486..577S</url>
+<url>https://adsabs.harvard.edu/abs/2008A%26A...486..577S</url>
 <score>1.000</score>
 <citations>4</citations>
 <abstract>Context: We study the chromosphere of an active region of the Sun in the
@@ -283,17 +283,17 @@ often vanish. We discuss the implications.</abstract>
 <origin>AUTHOR</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ca07.conf..520S&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ca07.conf..520S&#38;link_type=ABSTRACT</url>
 </link>
 <link type="ARTICLE">
   <name>Full Printable Article (PDF/Postscript)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ca07.conf..520S&#38;link_type=ARTICLE</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ca07.conf..520S&#38;link_type=ARTICLE</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ca07.conf..520S&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2008ca07.conf..520S&#38;link_type=TOC</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2008ca07.conf..520S</url>
+<url>https://adsabs.harvard.edu/abs/2008ca07.conf..520S</url>
 <score>1.000</score>
 <abstract>The gap between scientific research and society is obvious.
 Unfortunately in most cases we are not able or don't pay enough
@@ -335,35 +335,35 @@ establish a profile for number of visits and visitors.</abstract>
 <origin>EDP Sciences</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=ABSTRACT</url>
 </link>
 <link type="EJOURNAL" access="open">
   <name>Electronic On-line Article (HTML)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=EJOURNAL</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=EJOURNAL</url>
 </link>
 <link type="ARTICLE" access="open">
   <name>Full Printable Article (PDF/Postscript)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=ARTICLE</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=ARTICLE</url>
 </link>
 <link type="REFERENCES">
   <name>References in the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=REFERENCES</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=REFERENCES</url>
   <count>51</count>
 </link>
 <link type="CITATIONS">
   <name>Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=CITATIONS</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=CITATIONS</url>
   <count>6</count>
 </link>
 <link type="REFCIT">
   <name>Refereed Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=REFCIT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=REFCIT</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...474..251B&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2007A%26A...474..251B</url>
+<url>https://adsabs.harvard.edu/abs/2007A%26A...474..251B</url>
 <score>1.000</score>
 <citations>6</citations>
 <abstract>Context: Faculae at the poles of the Sun, or polar faculae (PFe), take
@@ -430,39 +430,39 @@ average velocity measured in the V zero-crossings.</abstract>
 <origin>EDP Sciences</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=ABSTRACT</url>
 </link>
 <link type="EJOURNAL" access="open">
   <name>Electronic On-line Article (HTML)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=EJOURNAL</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=EJOURNAL</url>
 </link>
 <link type="ARTICLE" access="open">
   <name>Full Printable Article (PDF/Postscript)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=ARTICLE</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=ARTICLE</url>
 </link>
 <link type="PREPRINT" access="open">
   <name>arXiv e-print</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=PREPRINT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=PREPRINT</url>
 </link>
 <link type="REFERENCES">
   <name>References in the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=REFERENCES</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=REFERENCES</url>
   <count>14</count>
 </link>
 <link type="CITATIONS">
   <name>Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=CITATIONS</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=CITATIONS</url>
   <count>5</count>
 </link>
 <link type="REFCIT">
   <name>Refereed Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=REFCIT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=REFCIT</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007A%26A...472L..51S&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2007A%26A...472L..51S</url>
+<url>https://adsabs.harvard.edu/abs/2007A%26A...472L..51S</url>
 <score>1.000</score>
 <citations>5</citations>
 <abstract>Aims:Off-the-limb observations with high spatial and spectral resolution
@@ -493,45 +493,45 @@ account for the observational constraints presented here.</abstract>
 <author>Sánchez-Andrade Nuño, B.</author>
 <author>Puschmann, K. G.</author>
 <author>Kneer, F.</author>
-<journal>&quot;Modern solar facilities - advanced solar science, Proceedings of a Workshop held at Göttingen September 27-29, 2006 ISBN 978-3-938616-84-0 382 pages, many illustrations, soft-bound, Price: 23.- Euros Published by Universitätsverlag Göttingen (http://univerlag.uni-goettingen.de The online edition (PDF, 12 MB) is available free of charge at: http://webdoc.sub.gwdg.de/univerlag/2007/solar_science_book.pdf, p.273&quot;</journal>
+<journal>&quot;Modern solar facilities - advanced solar science, Proceedings of a Workshop held at Göttingen September 27-29, 2006 ISBN 978-3-938616-84-0 382 pages, many illustrations, soft-bound, Price: 23.- Euros Published by Universitätsverlag Göttingen (https://univerlag.uni-goettingen.de The online edition (PDF, 12 MB) is available free of charge at: https://webdoc.sub.gwdg.de/univerlag/2007/solar_science_book.pdf, p.273&quot;</journal>
 <pubdate>n/a 2007</pubdate>
 <page>273</page>
 <origin>ADS</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=ABSTRACT</url>
 </link>
 <link type="ARTICLE" access="open">
   <name>Full Printable Article (PDF/Postscript)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=ARTICLE</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=ARTICLE</url>
 </link>
 <link type="GIF" access="open">
   <name>Scanned Article (GIF)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=GIF</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=GIF</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=TOC</url>
 </link>
 <link type="REFERENCES">
   <name>References in the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=REFERENCES</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=REFERENCES</url>
   <count>6</count>
 </link>
 <link type="CITATIONS">
   <name>Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=CITATIONS</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=CITATIONS</url>
   <count>3</count>
 </link>
 <link type="REFCIT">
   <name>Refereed Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=REFCIT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=REFCIT</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..273S&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2007msfa.conf..273S</url>
+<url>https://adsabs.harvard.edu/abs/2007msfa.conf..273S</url>
 <score>1.000</score>
 <citations>3</citations>
 <abstract>A 40 min time series of the active region NOAA AR10875 was obtained on
@@ -558,31 +558,31 @@ from this data set.</abstract>
 <author>Puschmann, K. G.</author>
 <author>Trujillo Bueno, J.</author>
 <author>Kneer, F.</author>
-<journal>&quot;Modern solar facilities - advanced solar science, Proceedings of a Workshop held at Göttingen September 27-29, 2006 ISBN 978-3-938616-84-0 382 pages, many illustrations, soft-bound, Price: 23.- Euros Published by Universitätsverlag Göttingen (http://univerlag.uni-goettingen.de The online edition (PDF, 12 MB) is available free of charge at: http://webdoc.sub.gwdg.de/univerlag/2007/solar_science_book.pdf, p.177&quot;</journal>
+<journal>&quot;Modern solar facilities - advanced solar science, Proceedings of a Workshop held at Göttingen September 27-29, 2006 ISBN 978-3-938616-84-0 382 pages, many illustrations, soft-bound, Price: 23.- Euros Published by Universitätsverlag Göttingen (https://univerlag.uni-goettingen.de The online edition (PDF, 12 MB) is available free of charge at: https://webdoc.sub.gwdg.de/univerlag/2007/solar_science_book.pdf, p.177&quot;</journal>
 <pubdate>n/a 2007</pubdate>
 <page>177</page>
 <origin>ADS</origin>
 <link type="ABSTRACT">
   <name>Abstract</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=ABSTRACT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=ABSTRACT</url>
 </link>
 <link type="ARTICLE" access="open">
   <name>Full Printable Article (PDF/Postscript)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=ARTICLE</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=ARTICLE</url>
 </link>
 <link type="GIF" access="open">
   <name>Scanned Article (GIF)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=GIF</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=GIF</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=TOC</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2007msfa.conf..177S&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2007msfa.conf..177S</url>
+<url>https://adsabs.harvard.edu/abs/2007msfa.conf..177S</url>
 <score>1.000</score>
 <abstract>Spectropolarimetric observations of spicules were carried out with the
 new optical setup of the Tenerife Infrared Polarimeter (TIP 2) at the
@@ -620,26 +620,26 @@ observational constraints presented here.</abstract>
 <origin>ADS</origin>
 <link type="GIF" access="open">
   <name>Scanned Article (GIF)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=GIF</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=GIF</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=TOC</url>
 </link>
 <link type="CITATIONS">
   <name>Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=CITATIONS</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=CITATIONS</url>
   <count>2</count>
 </link>
 <link type="REFCIT">
   <name>Refereed Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=REFCIT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=REFCIT</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..70S&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2005ESASP.600E..70S</url>
+<url>https://adsabs.harvard.edu/abs/2005ESASP.600E..70S</url>
 <score>1.000</score>
 <citations>2</citations>
 <abstract>Not Available</abstract>
@@ -659,17 +659,17 @@ observational constraints presented here.</abstract>
 <origin>ADS</origin>
 <link type="GIF" access="open">
   <name>Scanned Article (GIF)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..59B&#38;link_type=GIF</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..59B&#38;link_type=GIF</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..59B&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..59B&#38;link_type=TOC</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..59B&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.600E..59B&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2005ESASP.600E..59B</url>
+<url>https://adsabs.harvard.edu/abs/2005ESASP.600E..59B</url>
 <score>1.000</score>
 <abstract>Not Available</abstract>
 </record>
@@ -689,17 +689,17 @@ observational constraints presented here.</abstract>
 <origin>ADS</origin>
 <link type="GIF" access="open">
   <name>Scanned Article (GIF)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..71K&#38;link_type=GIF</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..71K&#38;link_type=GIF</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..71K&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..71K&#38;link_type=TOC</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..71K&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..71K&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2005ESASP.596E..71K</url>
+<url>https://adsabs.harvard.edu/abs/2005ESASP.596E..71K</url>
 <score>1.000</score>
 <abstract>Not Available</abstract>
 </record>
@@ -719,17 +719,17 @@ observational constraints presented here.</abstract>
 <origin>ADS</origin>
 <link type="GIF" access="open">
   <name>Scanned Article (GIF)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..67V&#38;link_type=GIF</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..67V&#38;link_type=GIF</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..67V&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..67V&#38;link_type=TOC</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..67V&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..67V&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2005ESASP.596E..67V</url>
+<url>https://adsabs.harvard.edu/abs/2005ESASP.596E..67V</url>
 <score>1.000</score>
 <abstract>Not Available</abstract>
 </record>
@@ -749,26 +749,26 @@ observational constraints presented here.</abstract>
 <origin>ADS</origin>
 <link type="GIF" access="open">
   <name>Scanned Article (GIF)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=GIF</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=GIF</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=TOC</url>
 </link>
 <link type="CITATIONS">
   <name>Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=CITATIONS</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=CITATIONS</url>
   <count>1</count>
 </link>
 <link type="REFCIT">
   <name>Refereed Citations to the Article</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=REFCIT</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=REFCIT</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..62S&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2005ESASP.596E..62S</url>
+<url>https://adsabs.harvard.edu/abs/2005ESASP.596E..62S</url>
 <score>1.000</score>
 <citations>1</citations>
 <abstract>Not Available</abstract>
@@ -788,17 +788,17 @@ observational constraints presented here.</abstract>
 <origin>ADS</origin>
 <link type="GIF" access="open">
   <name>Scanned Article (GIF)</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..52B&#38;link_type=GIF</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..52B&#38;link_type=GIF</url>
 </link>
 <link type="TOC">
   <name>Table of Contents</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..52B&#38;link_type=TOC</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..52B&#38;link_type=TOC</url>
 </link>
 <link type="AR">
   <name>Also-Read Articles</name>
-  <url>http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..52B&#38;link_type=AR</url>
+  <url>https://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=2005ESASP.596E..52B&#38;link_type=AR</url>
 </link>
-<url>http://adsabs.harvard.edu/abs/2005ESASP.596E..52B</url>
+<url>https://adsabs.harvard.edu/abs/2005ESASP.596E..52B</url>
 <score>1.000</score>
 <abstract>Not Available</abstract>
 </record>

@@ -1,18 +1,18 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="es" lang="es">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="es" lang="es">
 <head>
 	<title>La insultante incultura científica de los famosetes (y II)</title>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <meta name='robots' content='noodp' />
 	<meta name="description" content="Miroslaw Orzechowski, mi­nistro de Educación de Polonia, pidió prohibir enseñar la teoría de la evolución. “Es una mentira”, dijo. “Mejor ..." />
 
-	<link rel="image_src" href="http://img.xatakaciencia.com/resize/75/thumbnails/b/4748.jpg" />
+	<link rel="image_src" href="https://img.xatakaciencia.com/resize/75/thumbnails/b/4748.jpg" />
 
 
 	    <meta property="fb:admins" content="100000716994885"/>
-    <link rel="apple-touch-icon" href="http://img.xatakaciencia.com/lp2/mobile/images/apple-touch-icon.png" />
-    <link rel="shortcut icon" href="http://img.xatakaciencia.com/lp2/v2/images/favicon.ico" type="image/ico" />
-    <link rel="stylesheet"  href="http://img.xatakaciencia.com/lp2/v2/main.css?v=13239"  type="text/css" media="screen,projection" />
+    <link rel="apple-touch-icon" href="https://img.xatakaciencia.com/lp2/mobile/images/apple-touch-icon.png" />
+    <link rel="shortcut icon" href="https://img.xatakaciencia.com/lp2/v2/images/favicon.ico" type="image/ico" />
+    <link rel="stylesheet"  href="https://img.xatakaciencia.com/lp2/v2/main.css?v=13239"  type="text/css" media="screen,projection" />
     <link rel="publisher" href="https://plus.google.com/117358064263662761547" />
 	<script type="text/javascript">
 		var fbapikey = "183953181636784";
@@ -41,10 +41,10 @@
 
 <body class="tabbed ">
   <!-- Ciencia Xataka --> 
-  <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js'></script>
-<script type="text/javascript" src="http://img.weblogssl.com/js/wsl-d67a598-es_ES.js">
+  <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js'></script>
+<script type="text/javascript" src="https://img.weblogssl.com/js/wsl-d67a598-es_ES.js">
 </script>
-<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+<script type='text/javascript' src='https://partner.googleadservices.com/gampad/google_service.js'>
 </script>
 <script type='text/javascript'>
 GS_googleAddAdSenseService("ca-pub-9977500652563564");
@@ -77,7 +77,7 @@ $(function()
     }());
     (function() {
       var e = document.createElement('script'); e.type="text/javascript"; e.async = true; 
-      e.src = 'http://platform.twitter.com/widgets.js';
+      e.src = 'https://platform.twitter.com/widgets.js';
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(e);
       $(e).load(function() {
          WSL.initTwitter();
@@ -104,7 +104,7 @@ $(function()
                     <div id="nav-tabs">
     <ul>
                                     <li id="tab-portada">
-                    <a href="http://www.xatakaciencia.com" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-toptabs', 'portada')" class=" off" >
+                    <a href="https://www.xatakaciencia.com" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-toptabs', 'portada')" class=" off" >
                         <span>Portada</span>
                     </a>
                 </li>
@@ -139,16 +139,16 @@ $(function()
     <!-- .post-category -->
         <h1>La insultante incultura científica de los famosetes (y II)<input type="hidden" value="4748" id="hpostid"></input></h1>
     <!--
-    rdf:RDF xmlns="http://web.resource.org/cc/"
-             xmlns:dc="http://purl.org/dc/elements/1.1/"
-             xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    rdf:RDF xmlns="https://web.resource.org/cc/"
+             xmlns:dc="https://purl.org/dc/elements/1.1/"
+             xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <Work rdf:about="/consolas-y-videojuegos/vudu-mejora-su-interfaz-antes-del-salto-a-la-sony-ps3">
     <dc:title>Vudu mejora su interfaz antes del salto a la Sony PS3</dc:title>
     <dc:creator>Javier Penalva</dc:creator>
-    <trackback:ping>http://www.xataka.com/"</trackback:ping>
-    <license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/1.0/" />
+    <trackback:ping>https://www.xataka.com/"</trackback:ping>
+    <license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/1.0/" />
     </Work>
-    <License rdf:about="http://creativecommons.org/licenses/by-nc-nd/1.0/">
+    <License rdf:about="https://creativecommons.org/licenses/by-nc-nd/1.0/">
     </License>
     </rdf:RDF>
     -->
@@ -159,7 +159,7 @@ $(function()
     
     <p class="post-author">
                         <a href="/autor/sergio-parra" >
-                <img src="http://www.gravatar.com/avatar/dc1f7fcc0103db3b09cdbf218155e0ff?default=http://img.xatakaciencia.com/lp2/v2/images/favicon.png&amp;size=32" alt="avatar" />
+                <img src="https://www.gravatar.com/avatar/dc1f7fcc0103db3b09cdbf218155e0ff?default=https://img.xatakaciencia.com/lp2/v2/images/favicon.png&amp;size=32" alt="avatar" />
             </a>
             
             <a href="/autor/sergio-parra" title="Artículos de Sergio Parra" >Sergio Parra</a>        
@@ -175,7 +175,7 @@ $(function()
     </div>
     
     <div class="post-body">
-			<p><img class="centro" src="http://img.xatakaciencia.com/2009/04/20060419012957-ana-obregon.jpg" alt="" /><strong>Miroslaw Orzechowski</strong>, mi­nistro de Educación de Polonia, pidió prohibir enseñar la teoría de la evolución. “Es una mentira”, dijo. “Mejor sería inculcar la verdad de la creación, que no ha podido ser cuestionada”. </p>
+			<p><img class="centro" src="https://img.xatakaciencia.com/2009/04/20060419012957-ana-obregon.jpg" alt="" /><strong>Miroslaw Orzechowski</strong>, mi­nistro de Educación de Polonia, pidió prohibir enseñar la teoría de la evolución. “Es una mentira”, dijo. “Mejor sería inculcar la verdad de la creación, que no ha podido ser cuestionada”. </p>
 
 	<p><strong>Paris Hilton </strong>manifestó su miedo a viajar al espacio, porque cree que al regresar todos sus seres queridos podrían haber muerto a causa del tiempo relativo que hubiera transcurrido: del orden de 10.000 años, según ella.</p>
 
@@ -203,7 +203,7 @@ $(function()
 
 	<p>Su lema es muy juicioso: “Seguir algunos de los consejos de nutrición y salud de las estrellas puede ser el camino más corto al cementerio”.</p>
 
-	<p>Vía | <a href="http://www.quo.es/ciencia/hombre/disparates/famosos">Quo</a></p>		<div class="post-ratings rating-widgets">
+	<p>Vía | <a href="https://www.quo.es/ciencia/hombre/disparates/famosos">Quo</a></p>		<div class="post-ratings rating-widgets">
 			<div id="p4748" class="wsl-likes">
 				<a href="#" class="button button-small" rel="nofollow"><span>me gusta</span></a>
 				<span class="likes" rel="nofollow"><strong>5</strong></span>				
@@ -213,16 +213,16 @@ $(function()
 			</div>		
 			<div class="google-plus">
                               
-                    <g:plusone size="medium" href="http://www.xatakaciencia.com/no-te-lo-creas/la-insultante-incultura-cientifica-de-los-famosetes-y-ii"></g:plusone>
+                    <g:plusone size="medium" href="https://www.xatakaciencia.com/no-te-lo-creas/la-insultante-incultura-cientifica-de-los-famosetes-y-ii"></g:plusone>
                             </div>
 			<div class="retweets">
 								
-					<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.xatakaciencia.com/p/4748" data-text="La insultante incultura científica de los famosetes (y II)" data-counturl="http://www.xatakaciencia.com/no-te-lo-creas/la-insultante-incultura-cientifica-de-los-famosetes-y-ii" data-via="xatakaciencia" data-count="horizontal"></a>
+					<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.xatakaciencia.com/p/4748" data-text="La insultante incultura científica de los famosetes (y II)" data-counturl="https://www.xatakaciencia.com/no-te-lo-creas/la-insultante-incultura-cientifica-de-los-famosetes-y-ii" data-via="xatakaciencia" data-count="horizontal"></a>
 							</div>
 			<!-- .question-retweets -->
 			<div class="fb-likes">
 						
-				<fb:like notify="true" layout="button_count" show_faces="false" width="450" action="like" font="arial" colorscheme="light" height="35" href="http://www.xatakaciencia.com/no-te-lo-creas/la-insultante-incultura-cientifica-de-los-famosetes-y-ii"></fb:like>
+				<fb:like notify="true" layout="button_count" show_faces="false" width="450" action="like" font="arial" colorscheme="light" height="35" href="https://www.xatakaciencia.com/no-te-lo-creas/la-insultante-incultura-cientifica-de-los-famosetes-y-ii"></fb:like>
 							</div>
 		</div>
     </div>
@@ -258,10 +258,10 @@ $(function()
         <p><label for="message" class="mblock">Tu mensaje: <textarea id="message" class="text" rows="3" cols="50"></textarea></label></p>
                 <div id="recaptcha" style="display:none">
             <script>var RecaptchaOptions = {theme :
-            'blackglass', lang:'es'};</script><script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LcP48ASAAAAADt16joAoKBJsBQhW68C2Nj4pieg"></script>
+            'blackglass', lang:'es'};</script><script type="text/javascript" src="https://api.recaptcha.net/challenge?k=6LcP48ASAAAAADt16joAoKBJsBQhW68C2Nj4pieg"></script>
 
 	<noscript>
-  		<iframe src="http://api.recaptcha.net/noscript?k=6LcP48ASAAAAADt16joAoKBJsBQhW68C2Nj4pieg" height="300" width="500" frameborder="0"></iframe><br/>
+  		<iframe src="https://api.recaptcha.net/noscript?k=6LcP48ASAAAAADt16joAoKBJsBQhW68C2Nj4pieg" height="300" width="500" frameborder="0"></iframe><br/>
   		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
   		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
 	</noscript>
@@ -279,7 +279,7 @@ $(function()
 <div class="blogtwitter" id="via &#64;xatakaciencia"></div>
 <div class="categoryname" id="no-te-lo-creas"></div>
 <div class="productlabel" id="Gadgets"></div>
-<div class="blogurl" id="http://www.xatakaciencia.com"></div>
+<div class="blogurl" id="https://www.xatakaciencia.com"></div>
 <div class="recaptchaflag" id="1"></div>
 
 	                
@@ -305,7 +305,7 @@ $(function()
 
 <div id="header">
     <p id="logo">
-    	    		    			<a href="http://www.xatakaciencia.com" title="Xatakaciencia es un weblog colectivo dedicado a la divulgación científica, la ecología y el cambio climático">
+    	    		    			<a href="https://www.xatakaciencia.com" title="Xatakaciencia es un weblog colectivo dedicado a la divulgación científica, la ecología y el cambio climático">
     				<span></span>Xatakaciencia    			</a>
     		    	    </p>
     
@@ -318,11 +318,11 @@ $(function()
    <p>
         <a href="/signup" title="Entra con tu cuenta de usuario o regístrate en Xatakaciencia" rel="nofollow" class="menu">¡Hola!</a> 
         <a href="/signup" rel="nofollow" class="avatar">
-            <img src="http://img.xatakaciencia.com/lp2/v2/images/avatar.png" alt="Avatar" />
+            <img src="https://img.xatakaciencia.com/lp2/v2/images/avatar.png" alt="Avatar" />
         </a>
         <a title="Entra con tu cuenta de usuario o regístrate" rel="nofollow" class="button" href="/signup"><span>Entra</span></a>
                 <a href="#" class="fbc">
-            <img src="http://img.xatakaciencia.com/lp2/v2/images/fbc-login.png" alt="FB" />
+            <img src="https://img.xatakaciencia.com/lp2/v2/images/fbc-login.png" alt="FB" />
         </a>
            </p>
 </div>
@@ -330,20 +330,20 @@ $(function()
 
 
 
-    <input type="hidden" value="http://img.xatakaciencia.com/lp2/v2" id="noimg_url"></input>
-    <input type="hidden" value="http://img.weblogssl.com/avatar/mini/" id="img_avatar_mini_url"></input>
+    <input type="hidden" value="https://img.xatakaciencia.com/lp2/v2" id="noimg_url"></input>
+    <input type="hidden" value="https://img.weblogssl.com/avatar/mini/" id="img_avatar_mini_url"></input>
     <input type="hidden" value="1" id="fbook_connect"></input>
     <input type="hidden" value="Xatakaciencia" id="blogtitle"></input>
-    <input type="hidden" value="http://www.xatakaciencia.com" id="blogurl"></input>
+    <input type="hidden" value="https://www.xatakaciencia.com" id="blogurl"></input>
     <input type="hidden" value="1" id="showforum"></input>
     <ul id="subscribe-icons">
-            <li id="movil"><a href="http://m.xatakaciencia.com" rel="nofollow" title="Versión móvil de Xatakaciencia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'movil')"><span></span>Móvil</a></li> 
+            <li id="movil"><a href="https://m.xatakaciencia.com" rel="nofollow" title="Versión móvil de Xatakaciencia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'movil')"><span></span>Móvil</a></li> 
                 <li id="rss"><a href="/index.xml" rel="nofollow" title="Suscríbete por RSS a las novedades en Xatakaciencia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'rss')"><span></span>RSS</a></li>
                 <li id="email"><a href="/suscribete" title="Suscríbete por correo electrónico a las novedades en Xatakaciencia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'mail')"><span></span>Correo</a></li>
-                <li id="fb"><a href="http://www.facebook.com/pages/Genciencia/57356621120" title="Conéctate a la página de Facebook de Xatakaciencia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'facebook')"><span></span>Facebook</a></li>
-                <li id="twitter"><a href="http://twitter.com/xatakaciencia" title="Sigue las novedades de Xatakaciencia en Twitter" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'twitter')"><span></span>Twitter</a></li>
+                <li id="fb"><a href="https://www.facebook.com/pages/Genciencia/57356621120" title="Conéctate a la página de Facebook de Xatakaciencia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'facebook')"><span></span>Facebook</a></li>
+                <li id="twitter"><a href="https://twitter.com/xatakaciencia" title="Sigue las novedades de Xatakaciencia en Twitter" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'twitter')"><span></span>Twitter</a></li>
           
-        <li id="widget"><a title="Consigue el widget de Xatakaciencia para tu escritorio" rel="nofollow" href="http://widget.weblogssl.com" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'widget')"><span></span>Widget</a></li>
+        <li id="widget"><a title="Consigue el widget de Xatakaciencia para tu escritorio" rel="nofollow" href="https://widget.weblogssl.com" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-compartir', 'widget')"><span></span>Widget</a></li>
         </ul>
     <form method="get" action="/busqueda" id="search" class="clearfix">
 <p>
@@ -352,11 +352,11 @@ $(function()
   <input type="hidden" name="ie" value="UTF-8"></input>
   <input type="hidden" name="oe" value="UTF-8"></input>
   <input type="hidden" name="cof" value="FORID:10"></input>
-  <input type="image" src="http://img.xatakaciencia.com/lp2/v2/images/button-search.png" alt="Go" value="Busca con Google" />
+  <input type="image" src="https://img.xatakaciencia.com/lp2/v2/images/button-search.png" alt="Go" value="Busca con Google" />
 </p>
 </form>
 
-  <script type="text/javascript" src="http://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
+  <script type="text/javascript" src="https://www.google.es/coop/cse/brand?form=cse-search-box&amp;lang=es"></script>
 
 <script type="text/javascript">
     $(function(){
@@ -368,9 +368,9 @@ $(function()
     <div id="related">
                 <p>Lee también:</p>
         <ul>
-            <li><a href="http://www.xatakafoto.com" title="Xataka Foto" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-leetambien', 'www.xatakafoto.com')">Xataka Foto</a></li>
-<li><a href="http://www.xatakamovil.com" title="xataka m&oacute;vil" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-leetambien', 'www.xatakamovil.com')">xataka m&oacute;vil</a></li>
-<li><a href="http://www.anexom.es" title="anexo-m" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-leetambien', 'www.anexom.es')">anexo-m</a></li>
+            <li><a href="https://www.xatakafoto.com" title="Xataka Foto" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-leetambien', 'www.xatakafoto.com')">Xataka Foto</a></li>
+<li><a href="https://www.xatakamovil.com" title="xataka m&oacute;vil" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-leetambien', 'www.xatakamovil.com')">xataka m&oacute;vil</a></li>
+<li><a href="https://www.anexom.es" title="anexo-m" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-cabecera-leetambien', 'www.anexom.es')">anexo-m</a></li>
 
 
         </ul>
@@ -386,7 +386,7 @@ $(function()
       MMM.MAX_show('CAB');
     </script>
   </div>
-    <a href="http://www.socialmediasl.com/xatakaciencia.php" class="ad-contact">Anunciate aquí</a>
+    <a href="https://www.socialmediasl.com/xatakaciencia.php" class="ad-contact">Anunciate aquí</a>
 </div>
 
 
@@ -399,12 +399,12 @@ $(function()
     MMM.MAX_show('LAT');
   </script>
   </div>
-    <a href="http://www.socialmediasl.com/xatakaciencia.php" class="ad-contact">Anunciate aquí</a>
+    <a href="https://www.socialmediasl.com/xatakaciencia.php" class="ad-contact">Anunciate aquí</a>
 </div>
 
 
 <div id="roba-central" class="ads">
-    <a href="http://www.socialmediasl.com/xatakaciencia.php" class="ad-contact">Anunciate aquí</a>
+    <a href="https://www.socialmediasl.com/xatakaciencia.php" class="ad-contact">Anunciate aquí</a>
   <div class="ad">
     <script type='text/javascript'>
       MMM.MAX_show('CP');
@@ -424,12 +424,12 @@ $(function()
     	<div class="post-related-content">
     											<ul>
 				      			<li class="post-related-by-category" id="40">
-         			<a class="photo" href="/no-te-lo-creas/como-distinguir-si-eres-ateo-segun-daniel-c-dennett" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-post-articulos-relacionados', 'click-enlace')"><img src="http://img.xatakaciencia.com/thumbnails/12483.jpg" alt="&#039;Cómo distinguir si eres ateo&#039;, según Daniel C. Dennett" /></a>
+         			<a class="photo" href="/no-te-lo-creas/como-distinguir-si-eres-ateo-segun-daniel-c-dennett" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-post-articulos-relacionados', 'click-enlace')"><img src="https://img.xatakaciencia.com/thumbnails/12483.jpg" alt="&#039;Cómo distinguir si eres ateo&#039;, según Daniel C. Dennett" /></a>
          			<a href="/no-te-lo-creas/como-distinguir-si-eres-ateo-segun-daniel-c-dennett" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-post-articulos-relacionados', 'click-enlace')">&#039;Cómo distinguir si eres ateo&#039;, según Daniel C. Dennett</a>
 	 				<span class="date"><abbr class="timeago" title="2012-06-29 13:26:16+00:00"></abbr></span>
       			</li>
     			    				    																			      			<li class="post-related-by-category" id="40">
-         			<a class="photo" href="/no-te-lo-creas/el-prodigio-faudulento-de-la-colorpuntura" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-post-articulos-relacionados', 'click-enlace')"><img src="http://img.xatakaciencia.com/thumbnails/12448.jpg" alt="El prodigio (fraudulento) de la colorpuntura" /></a>
+         			<a class="photo" href="/no-te-lo-creas/el-prodigio-faudulento-de-la-colorpuntura" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-post-articulos-relacionados', 'click-enlace')"><img src="https://img.xatakaciencia.com/thumbnails/12448.jpg" alt="El prodigio (fraudulento) de la colorpuntura" /></a>
          			<a href="/no-te-lo-creas/el-prodigio-faudulento-de-la-colorpuntura" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-post-articulos-relacionados', 'click-enlace')">El prodigio (fraudulento) de la colorpuntura</a>
 	 				<span class="date"><abbr class="timeago" title="2012-06-26 10:59:17+00:00"></abbr></span>
       			</li>
@@ -505,13 +505,13 @@ Página <strong>4</strong> de
      
       <a href="/usuario/1105" class="avatar" title="Ir a la página de usuario de sernik">     
 
-                    <img src="http://www.gravatar.com/avatar/7f5bdf6d0bd65d68b1b8520b4c72577a?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de sernik"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/7f5bdf6d0bd65d68b1b8520b4c72577a?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de sernik"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1105" title="Ir a la página de usuario de sernik">sernik</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -543,13 +543,13 @@ Página <strong>4</strong> de
      
       <a href="/usuario/avvv" class="avatar" title="Ir a la página de usuario de DDNeo">     
 
-                    <img src="http://www.gravatar.com/avatar/97ec95fb61e7c35ffbac1bb923c601e5?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de DDNeo"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/97ec95fb61e7c35ffbac1bb923c601e5?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de DDNeo"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/avvv" title="Ir a la página de usuario de DDNeo">DDNeo</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -582,13 +582,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/avvv" class="avatar" title="Ir a la página de usuario de DDNeo">     
 
-                    <img src="http://www.gravatar.com/avatar/97ec95fb61e7c35ffbac1bb923c601e5?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de DDNeo"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/97ec95fb61e7c35ffbac1bb923c601e5?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de DDNeo"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/avvv" title="Ir a la página de usuario de DDNeo">DDNeo</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -620,13 +620,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/1036" class="avatar" title="Ir a la página de usuario de Divus Doctum">     
 
-                    <img src="http://www.gravatar.com/avatar/4c3091563ea2c1066e6a6861869063f2?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de Divus Doctum"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/4c3091563ea2c1066e6a6861869063f2?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de Divus Doctum"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1036" title="Ir a la página de usuario de Divus Doctum">Divus Doctum</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-3.png" alt="3 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-3.png" alt="3 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -658,13 +658,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/1205" class="avatar" title="Ir a la página de usuario de AntiAntiMicrosoft">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/253_2.png"  alt="Avatar de AntiAntiMicrosoft"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/253_2.png"  alt="Avatar de AntiAntiMicrosoft"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1205" title="Ir a la página de usuario de AntiAntiMicrosoft">AntiAntiMicrosoft</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -696,14 +696,14 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/donsergio" class="avatar" title="Ir a la página de usuario de Sergio Parra">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/205714_1.png"  alt="Avatar de Sergio Parra"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/205714_1.png"  alt="Avatar de Sergio Parra"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/donsergio" title="Ir a la página de usuario de Sergio Parra">Sergio Parra</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-5.png" alt="5 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
-        <a title="Página personal del usuario" href="http://www.sergioparra.com" class="user-url">www.sergioparra.com</a>      </div>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-5.png" alt="5 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+        <a title="Página personal del usuario" href="https://www.sergioparra.com" class="user-url">www.sergioparra.com</a>      </div>
 
               <div class="comment-body">
             <span class="comment-content"><p>#4 y #5:</p>
@@ -740,13 +740,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/allfreedo" class="avatar" title="Ir a la página de usuario de allfreedo ">     
 
-                    <img src="http://www.gravatar.com/avatar/e05ec5d31f52f7f40173eaccf0e31af0?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de allfreedo "    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/e05ec5d31f52f7f40173eaccf0e31af0?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de allfreedo "    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/allfreedo" title="Ir a la página de usuario de allfreedo ">allfreedo </a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -779,14 +779,14 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/yunni" class="avatar" title="Ir a la página de usuario de Yunni">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/373855_2.png"  alt="Avatar de Yunni"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/373855_2.png"  alt="Avatar de Yunni"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/yunni" title="Ir a la página de usuario de Yunni">Yunni</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
-        <a title="Página personal del usuario" href="http://www.genciencia.com/usuario/yunni" class="user-url">www.genciencia.com/usuario/yunni</a>      </div>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+        <a title="Página personal del usuario" href="https://www.genciencia.com/usuario/yunni" class="user-url">www.genciencia.com/usuario/yunni</a>      </div>
 
               <div class="comment-body">
             <span class="comment-content"><p>¡Ja ja ja, es verdad!</p></span>
@@ -817,13 +817,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/1207" class="avatar" title="Ir a la página de usuario de Felipe Massa">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/23349_1.png"  alt="Avatar de Felipe Massa"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/23349_1.png"  alt="Avatar de Felipe Massa"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1207" title="Ir a la página de usuario de Felipe Massa">Felipe Massa</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -856,14 +856,14 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/yunni" class="avatar" title="Ir a la página de usuario de Yunni">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/373855_2.png"  alt="Avatar de Yunni"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/373855_2.png"  alt="Avatar de Yunni"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/yunni" title="Ir a la página de usuario de Yunni">Yunni</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
-        <a title="Página personal del usuario" href="http://www.genciencia.com/usuario/yunni" class="user-url">www.genciencia.com/usuario/yunni</a>      </div>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+        <a title="Página personal del usuario" href="https://www.genciencia.com/usuario/yunni" class="user-url">www.genciencia.com/usuario/yunni</a>      </div>
 
               <div class="comment-body">
             <span class="comment-content"><p>Lamentablemente es verdad señor Massa.</p></span>
@@ -894,14 +894,14 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/zenda" class="avatar" title="Ir a la página de usuario de Zenda Caballero">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/31021_1.png"  alt="Avatar de Zenda Caballero"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/31021_1.png"  alt="Avatar de Zenda Caballero"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/zenda" title="Ir a la página de usuario de Zenda Caballero">Zenda Caballero</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
-        <a title="Página personal del usuario" href="http://zendacaballero.blogspot.com/" class="user-url">zendacaballero.blogspot.com/</a>      </div>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+        <a title="Página personal del usuario" href="https://zendacaballero.blogspot.com/" class="user-url">zendacaballero.blogspot.com/</a>      </div>
 
               <div class="comment-body">
             <span class="comment-content"><p>Iglesia de la cienciología. Sólo el nombre da repelús. Ahora las sectas se apoyan en palabaras derivadas de la ciencia para llegar a sus fines, y famosillos mundiales como el Cruise divulgan a diestro y siniestro autenticas barbaridades a sabiendas de que llegan a mucha gente.</p>
@@ -934,13 +934,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/812" class="avatar" title="Ir a la página de usuario de ying">     
 
-                    <img src="http://www.gravatar.com/avatar/fe7f9b03ad2fee5e2f72c0d220d14d02?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de ying"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/fe7f9b03ad2fee5e2f72c0d220d14d02?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de ying"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/812" title="Ir a la página de usuario de ying">ying</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -972,13 +972,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/500" class="avatar" title="Ir a la página de usuario de otro mas">     
 
-                    <img src="http://www.gravatar.com/avatar/ee8eca192ef066d994a41ecf4aedc691?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de otro mas"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/ee8eca192ef066d994a41ecf4aedc691?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de otro mas"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/500" title="Ir a la página de usuario de otro mas">otro mas</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1014,21 +1014,21 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/donsergio" class="avatar" title="Ir a la página de usuario de Sergio Parra">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/205714_1.png"  alt="Avatar de Sergio Parra"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/205714_1.png"  alt="Avatar de Sergio Parra"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/donsergio" title="Ir a la página de usuario de Sergio Parra">Sergio Parra</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-5.png" alt="5 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
-        <a title="Página personal del usuario" href="http://www.sergioparra.com" class="user-url">www.sergioparra.com</a>      </div>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-5.png" alt="5 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+        <a title="Página personal del usuario" href="https://www.sergioparra.com" class="user-url">www.sergioparra.com</a>      </div>
 
               <div class="comment-body">
             <span class="comment-content"><p>#11 Otro mas:</p>
 
 <p>Muchas de las afirmaciones vertidas por estos famosos (y políticos que la gente vota) no precisan de grandes conocimientos científicos. Basta con tener una base. Así no creo que se esté perdiendo el tiempo intentando ridiculizar a la gente por el hecho de que se equivoque: son gente que crean opinión, pues la exponen en un medio público (o sea, son objeto de crítica), evidencian la incultura general de la gente que sigue sus consejos y también ponen de manifiesto el preocupante sistema educativo, del que todos, incluido tú y yo, somos víctimas.  </p>
 
-<p>Sobre los errores científicos de los expertos, también escribo: <a href="http://www.genciencia.com/biologia/el-par-de-cromosomas-que-nadie-conto" rel="nofollow">http://www.genciencia.com/biologia/el-par-de-cromo...</a></p></span>
+<p>Sobre los errores científicos de los expertos, también escribo: <a href="https://www.genciencia.com/biologia/el-par-de-cromosomas-que-nadie-conto" rel="nofollow">https://www.genciencia.com/biologia/el-par-de-cromo...</a></p></span>
                     </div>
         <div class="comment-reply"><a href="#">Responder</a></div>
         <div class="comment_replyform" style="display:none"></div>
@@ -1056,13 +1056,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/1205" class="avatar" title="Ir a la página de usuario de AntiAntiMicrosoft">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/253_2.png"  alt="Avatar de AntiAntiMicrosoft"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/253_2.png"  alt="Avatar de AntiAntiMicrosoft"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1205" title="Ir a la página de usuario de AntiAntiMicrosoft">AntiAntiMicrosoft</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1096,13 +1096,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/predator" class="avatar" title="Ir a la página de usuario de Predator Wins">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/73439_1.png"  alt="Avatar de Predator Wins"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/73439_1.png"  alt="Avatar de Predator Wins"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/predator" title="Ir a la página de usuario de Predator Wins">Predator Wins</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1142,14 +1142,14 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/donsergio" class="avatar" title="Ir a la página de usuario de Sergio Parra">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/205714_1.png"  alt="Avatar de Sergio Parra"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/205714_1.png"  alt="Avatar de Sergio Parra"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/donsergio" title="Ir a la página de usuario de Sergio Parra">Sergio Parra</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-5.png" alt="5 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
-        <a title="Página personal del usuario" href="http://www.sergioparra.com" class="user-url">www.sergioparra.com</a>      </div>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-5.png" alt="5 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+        <a title="Página personal del usuario" href="https://www.sergioparra.com" class="user-url">www.sergioparra.com</a>      </div>
 
               <div class="comment-body">
             <span class="comment-content"><p>#13 AntiAntiMicrosoft:</p>
@@ -1184,13 +1184,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/zerito" class="avatar" title="Ir a la página de usuario de Ronald Jr.">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/9682_1.png"  alt="Avatar de Ronald Jr."   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/9682_1.png"  alt="Avatar de Ronald Jr."   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/zerito" title="Ir a la página de usuario de Ronald Jr.">Ronald Jr.</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1222,13 +1222,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/755" class="avatar" title="Ir a la página de usuario de Telémako">     
 
-                    <img src="http://www.gravatar.com/avatar/4358965ff2676c7b7af2b1a47c0178c5?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de Telémako"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/4358965ff2676c7b7af2b1a47c0178c5?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de Telémako"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/755" title="Ir a la página de usuario de Telémako">Telémako</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1260,14 +1260,14 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/zenda" class="avatar" title="Ir a la página de usuario de Zenda Caballero">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/31021_1.png"  alt="Avatar de Zenda Caballero"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/31021_1.png"  alt="Avatar de Zenda Caballero"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/zenda" title="Ir a la página de usuario de Zenda Caballero">Zenda Caballero</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
-        <a title="Página personal del usuario" href="http://zendacaballero.blogspot.com/" class="user-url">zendacaballero.blogspot.com/</a>      </div>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+        <a title="Página personal del usuario" href="https://zendacaballero.blogspot.com/" class="user-url">zendacaballero.blogspot.com/</a>      </div>
 
               <div class="comment-body">
             <span class="comment-content"><p>Telémako? ¿Eres tú?, Si eres tú ¡malegrovete! y si no eres tú también, ¡eh? XDDDD.</p>
@@ -1308,13 +1308,13 @@ Si ya lo decía yo, nuestros famosos no son tan diferentes de los de fuera aunqu
      
       <a href="/usuario/1152" class="avatar" title="Ir a la página de usuario de scorpionp5">     
 
-                    <img src="http://www.gravatar.com/avatar/39a071abe02dc04e730b379caa63822c?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de scorpionp5"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/39a071abe02dc04e730b379caa63822c?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de scorpionp5"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1152" title="Ir a la página de usuario de scorpionp5">scorpionp5</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1347,13 +1347,13 @@ Es mejor callar a tiempo para que luego no recuerden por alguna barbaridad que h
      
       <a href="/usuario/1203" class="avatar" title="Ir a la página de usuario de Vloos">     
 
-                    <img src="http://www.gravatar.com/avatar/efe6f2c55049a4f34615f2f128e02c16?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de Vloos"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/efe6f2c55049a4f34615f2f128e02c16?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de Vloos"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1203" title="Ir a la página de usuario de Vloos">Vloos</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1385,13 +1385,13 @@ Es mejor callar a tiempo para que luego no recuerden por alguna barbaridad que h
      
       <a href="/usuario/predator" class="avatar" title="Ir a la página de usuario de Predator Wins">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/73439_1.png"  alt="Avatar de Predator Wins"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/73439_1.png"  alt="Avatar de Predator Wins"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/predator" title="Ir a la página de usuario de Predator Wins">Predator Wins</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1433,13 +1433,13 @@ Es mejor callar a tiempo para que luego no recuerden por alguna barbaridad que h
      
       <a href="/usuario/iltifossi" class="avatar" title="Ir a la página de usuario de Il Tifossi ">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/150_8.png"  alt="Avatar de Il Tifossi "   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/150_8.png"  alt="Avatar de Il Tifossi "   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/iltifossi" title="Ir a la página de usuario de Il Tifossi ">Il Tifossi </a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1471,13 +1471,13 @@ Es mejor callar a tiempo para que luego no recuerden por alguna barbaridad que h
      
       <a href="/usuario/985" class="avatar" title="Ir a la página de usuario de GSA- ">     
 
-                    <img src="http://www.gravatar.com/avatar/19209b0233d2f1f5a1d94056515810f7?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de GSA- "    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/19209b0233d2f1f5a1d94056515810f7?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de GSA- "    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/985" title="Ir a la página de usuario de GSA- ">GSA- </a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1520,13 +1520,13 @@ Un payaso de aula no hace el idiota a menos que sus compañeros le rían las ''g
      
       <a href="/usuario/985" class="avatar" title="Ir a la página de usuario de GSA- ">     
 
-                    <img src="http://www.gravatar.com/avatar/19209b0233d2f1f5a1d94056515810f7?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de GSA- "    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/19209b0233d2f1f5a1d94056515810f7?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de GSA- "    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/985" title="Ir a la página de usuario de GSA- ">GSA- </a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1568,13 +1568,13 @@ Y los cantantes que acuden a la gala. ¡Los cantantes! Sí sí... Cantan un par 
      
       <a href="/usuario/985" class="avatar" title="Ir a la página de usuario de GSA- ">     
 
-                    <img src="http://www.gravatar.com/avatar/19209b0233d2f1f5a1d94056515810f7?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de GSA- "    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/19209b0233d2f1f5a1d94056515810f7?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de GSA- "    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/985" title="Ir a la página de usuario de GSA- ">GSA- </a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1606,13 +1606,13 @@ Y los cantantes que acuden a la gala. ¡Los cantantes! Sí sí... Cantan un par 
      
       <a href="/usuario/cajac2" class="avatar" title="Ir a la página de usuario de JoSe CarLoS Ac2">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/31142_1.png"  alt="Avatar de JoSe CarLoS Ac2"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/31142_1.png"  alt="Avatar de JoSe CarLoS Ac2"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/cajac2" title="Ir a la página de usuario de JoSe CarLoS Ac2">JoSe CarLoS Ac2</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1650,19 +1650,19 @@ Y los cantantes que acuden a la gala. ¡Los cantantes! Sí sí... Cantan un par 
      
       <a href="/usuario/1224" class="avatar" title="Ir a la página de usuario de estrella21">     
 
-                    <img src="http://www.gravatar.com/avatar/c8c6a4db72d531d1b1036ac14c95fb08?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de estrella21"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/c8c6a4db72d531d1b1036ac14c95fb08?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de estrella21"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1224" title="Ir a la página de usuario de estrella21">estrella21</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
             <span class="comment-content"><p>Como decía Einstein, “El mundo que hemos creado es producto de nuestra forma de pensar. Es una locura pensar que el mundo pueda cambiar sin que cambien nuestros modelos mentales.”
 Algunas genialidades más de un verdadero ciéntífico y famoso:
-<a href="http://planocreativo.wordpress.com/2009/04/17/21-genialidades-de-albert-einstein/" rel="nofollow">http://planocreativo.wordpress.com/2009/04/17/21-g...</a>
+<a href="https://planocreativo.wordpress.com/2009/04/17/21-genialidades-de-albert-einstein/" rel="nofollow">https://planocreativo.wordpress.com/2009/04/17/21-g...</a>
 Un saludo.</p></span>
                     </div>
         <div class="comment-reply"><a href="#">Responder</a></div>
@@ -1691,13 +1691,13 @@ Un saludo.</p></span>
      
       <a href="/usuario/1069" class="avatar" title="Ir a la página de usuario de rubico">     
 
-                    <img src="http://www.gravatar.com/avatar/6f674c73fe153f152afebd438386ff69?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de rubico"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/6f674c73fe153f152afebd438386ff69?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de rubico"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/1069" title="Ir a la página de usuario de rubico">rubico</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1733,13 +1733,13 @@ Un saludo.</p></span>
      
       <a href="/usuario/jex" class="avatar" title="Ir a la página de usuario de jex">     
 
-        <img src="http://img.weblogssl.com/avatar/mini/12638_1.png"  alt="Avatar de jex"   class="avatar" />
+        <img src="https://img.weblogssl.com/avatar/mini/12638_1.png"  alt="Avatar de jex"   class="avatar" />
 
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/jex" title="Ir a la página de usuario de jex">jex</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1771,13 +1771,13 @@ Un saludo.</p></span>
      
       <a href="/usuario/mack" class="avatar" title="Ir a la página de usuario de mack">     
 
-                    <img src="http://www.gravatar.com/avatar/a3ec994f8e75ae139e37b47dc6d7d482?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de mack"    class="avatar" />
+                    <img src="https://www.gravatar.com/avatar/a3ec994f8e75ae139e37b47dc6d7d482?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"  alt="Avatar de mack"    class="avatar" />
         
       </a>       <a title="Reportar comentario (spam, insultos...)" class="abuse" href="#"><span></span>!</a>
        <a title="Editar este comentario (disponible 15 min.)" class="edit-comment" style="display:none">Editar</a>
       <div class="comment-info">
                        <a class="usuario" href="/usuario/mack" title="Ir a la página de usuario de mack">mack</a>
-              | <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
+              | <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="2 estrellas" />                 <input type="button" value="Delete Comment" name="deletecomment" class="deletecomment edit-link" id="" style="display:none"/>
               </div>
 
               <div class="comment-body">
@@ -1862,7 +1862,7 @@ Página <strong>4</strong> de
         <li>
       <span class="number">1</span>
       <div class="trackback-body"> Algunos famosos cometen errores que el publico no perdona. Como se les ocurre opinar sobre algo que no saben. Mejor solo hablen de moda o entretenimiento y no de cultura que por cierto no la tienen. </div>
-      <div class="trackback-link"><a href="http://www.vuelosyhotelesgratis.com/story.php?id=53759" rel="nofollow">La insultante incultura científica de los famosetes</a></div>
+      <div class="trackback-link"><a href="https://www.vuelosyhotelesgratis.com/story.php?id=53759" rel="nofollow">La insultante incultura científica de los famosetes</a></div>
       <div class="trackback-date">11 abr 2009 23:41</div>
     </li>
       </ul>
@@ -1968,13 +1968,13 @@ $(function()
                 <a class="avatar" href="/usuario/allfreedo">
                
 
-                    <img src="http://www.gravatar.com/avatar/e05ec5d31f52f7f40173eaccf0e31af0?default=http://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"   />
+                    <img src="https://www.gravatar.com/avatar/e05ec5d31f52f7f40173eaccf0e31af0?default=https://img.xatakaciencia.com/lp2/v2/images/avatar.jpg&amp;size=32"   />
         
                 </a>
                     
                     <a class="usuario" href="/usuario/allfreedo" title="Ir a la página de usuario de allfreedo ">allfreedo </a>
                     
-                    <img src="http://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="*" />
+                    <img src="https://img.xatakaciencia.com/lp2/v2/images/stars-2.png" alt="*" />
                 </cite>
             </div>
 		</div>
@@ -1986,8 +1986,8 @@ $(function()
       <div id="destacado" class="module" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-destacados', 'destacado')">
 	<h2><span>Destacados</span></h2>
 	<div class="module-content">
-	   <a href="http://www.xatakaciencia.com/categoria/libros-que-nos-inspiran" >
-<img src="http://img.xatakaciencia.com/2011/04/libros_inspiran.jpg" class="centro_sinmarco" alt="criticas" />
+	   <a href="https://www.xatakaciencia.com/categoria/libros-que-nos-inspiran" >
+<img src="https://img.xatakaciencia.com/2011/04/libros_inspiran.jpg" class="centro_sinmarco" alt="criticas" />
 </a>
 	</div>
       </div>
@@ -1997,15 +1997,15 @@ $(function()
 	<div class="module-content">
           <ul>
 	<li>
-	    <a class="avatar" href="/autor/sergio-parra" title="Posts de Sergio Parra en Xatakaciencia" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')"><img src="http://www.gravatar.com/avatar/dc1f7fcc0103db3b09cdbf218155e0ff?default=http://img.xatakaciencia.com/lp2/v2/images/favicon.png&amp;size=32" alt="Sergio Parra" /></a>
+	    <a class="avatar" href="/autor/sergio-parra" title="Posts de Sergio Parra en Xatakaciencia" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')"><img src="https://www.gravatar.com/avatar/dc1f7fcc0103db3b09cdbf218155e0ff?default=https://img.xatakaciencia.com/lp2/v2/images/favicon.png&amp;size=32" alt="Sergio Parra" /></a>
         <a class="usuario" href="/autor/sergio-parra" title="Ir a la página de Sergio Parra" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')">Sergio Parra</a>
    	</li>
 	<li>
-	    <a class="avatar" href="/autor/capitan-tomate" title="Posts de Capitan Tomate en Xatakaciencia" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')"><img src="http://www.gravatar.com/avatar/3576f7538331fb6a87dedee965183dec?default=http://img.xatakaciencia.com/lp2/v2/images/favicon.png&amp;size=32" alt="Capitan Tomate" /></a>
+	    <a class="avatar" href="/autor/capitan-tomate" title="Posts de Capitan Tomate en Xatakaciencia" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')"><img src="https://www.gravatar.com/avatar/3576f7538331fb6a87dedee965183dec?default=https://img.xatakaciencia.com/lp2/v2/images/favicon.png&amp;size=32" alt="Capitan Tomate" /></a>
         <a class="usuario" href="/autor/capitan-tomate" title="Ir a la página de Capitan Tomate" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')">Capitan Tomate</a>
    	</li>
 	<li>
-	    <a class="avatar" href="/autor/cscazorla" title="Posts de cscazorla en Xatakaciencia" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')"><img src="http://www.gravatar.com/avatar/3224cf1e76a40d9e94460fa8c8ecb654?default=http://img.xatakaciencia.com/lp2/v2/images/favicon.png&amp;size=32" alt="cscazorla" /></a>
+	    <a class="avatar" href="/autor/cscazorla" title="Posts de cscazorla en Xatakaciencia" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')"><img src="https://www.gravatar.com/avatar/3224cf1e76a40d9e94460fa8c8ecb654?default=https://img.xatakaciencia.com/lp2/v2/images/favicon.png&amp;size=32" alt="cscazorla" /></a>
         <a class="usuario" href="/autor/cscazorla" title="Ir a la página de cscazorla" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-lateral-editores', 'clickauthor')">cscazorla</a>
    	</li>
 </ul>
@@ -2025,7 +2025,7 @@ $(function()
     MMM.MAX_show('BOT');
   </script>
 </div>
-<a href="http://www.socialmediasl.com/xatakaciencia.php" class="ad-contact">Anunciate aquí</a>
+<a href="https://www.socialmediasl.com/xatakaciencia.php" class="ad-contact">Anunciate aquí</a>
 </div>
 
 
@@ -2193,7 +2193,7 @@ $(function()
     var ga = document.createElement('script'); 
     ga.type = 'text/javascript';
     ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(ga, s);
   })();
@@ -2217,12 +2217,12 @@ $(function()
   _comscore.push({ c1: "2", c2: "11306788" });
   (function() {
     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "https://b") + ".scorecardresearch.com/beacon.js";
     el.parentNode.insertBefore(s, el);
   })();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=11306788&cv=2.0&cj=1" />
+  <img src="https://b.scorecardresearch.com/p?c1=2&c2=11306788&cv=2.0&cj=1" />
 </noscript>
 
 
@@ -2234,41 +2234,41 @@ $(function()
                             <div class="content-type">
                     <h3>Medio Ambiente</h3>
                     <ul>
-                                                                                    <li><a href="http://www.genciencia.com/tag/calentamiento+global" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Medio Ambiente')">Calentamiento global</a></li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://www.genciencia.com/tag/energias+renovables" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Medio Ambiente')">Energías renovables</a></li>
-                                                                                                                <li><a href="http://www.genciencia.com/tag/fuentes+de+energia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Medio Ambiente')">Fuentes de energía</a></li>
+                                                                                    <li><a href="https://www.genciencia.com/tag/calentamiento+global" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Medio Ambiente')">Calentamiento global</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="https://www.genciencia.com/tag/energias+renovables" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Medio Ambiente')">Energías renovables</a></li>
+                                                                                                                <li><a href="https://www.genciencia.com/tag/fuentes+de+energia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Medio Ambiente')">Fuentes de energía</a></li>
                                                                                                                             </ul>
                 </div>
                             <div class="content-type">
                     <h3>Curiosidades</h3>
                     <ul>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="http://www.genciencia.com/tag/partes+del+cuerpo+que+no+sirven" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Curiosidades')">Partes del cuerpo que no sirven</a></li>
-                                                                                                                <li><a href="http://www.genciencia.com/biologia/churras-y-merinas" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Curiosidades')">Churras y merinas</a></li>
-                                                                                                                <li><a href="http://www.genciencia.com/tecnologia/quien-invento-el-microscopio-optico" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Curiosidades')">¿Quién inventó el microscopio óptico?</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a href="https://www.genciencia.com/tag/partes+del+cuerpo+que+no+sirven" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Curiosidades')">Partes del cuerpo que no sirven</a></li>
+                                                                                                                <li><a href="https://www.genciencia.com/biologia/churras-y-merinas" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Curiosidades')">Churras y merinas</a></li>
+                                                                                                                <li><a href="https://www.genciencia.com/tecnologia/quien-invento-el-microscopio-optico" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Curiosidades')">¿Quién inventó el microscopio óptico?</a></li>
                                                                                                                                                                                                                                     </ul>
                 </div>
                             <div class="content-type">
                     <h3>Ciencias clásicas</h3>
                     <ul>
-                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://www.genciencia.com/fisica/se-puede-convertir-energia-en-materia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Ciencias clásicas')">¿Se puede convertir energía en materia?</a></li>
-                                                                                                                <li><a href="http://www.genciencia.com/matematicas/la-multiplicacion-de-los-campesinos-rusos" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Ciencias clásicas')">La multiplicación de los campesinos rusos</a></li>
-                                                                                                                <li><a href="http://www.genciencia.com/matematicas/multiplicacion-grafica" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Ciencias clásicas')"> Multiplicación gráfica</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="https://www.genciencia.com/fisica/se-puede-convertir-energia-en-materia" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Ciencias clásicas')">¿Se puede convertir energía en materia?</a></li>
+                                                                                                                <li><a href="https://www.genciencia.com/matematicas/la-multiplicacion-de-los-campesinos-rusos" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Ciencias clásicas')">La multiplicación de los campesinos rusos</a></li>
+                                                                                                                <li><a href="https://www.genciencia.com/matematicas/multiplicacion-grafica" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Ciencias clásicas')"> Multiplicación gráfica</a></li>
                                                                                                                                                                                                                                                                                                                                                                                                 </ul>
                 </div>
                             <div class="content-type">
                     <h3>Especiales</h3>
                     <ul>
-                                                                                                                                                                                                                                                <li><a href="http://www.genciencia.com/tag/numeros+primos" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Especiales')">Numeros primos</a></li>
-                                                                                                                <li><a href="http://www.genciencia.com/tag/decimal" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Especiales')">Decimal</a></li>
-                                                                                                                <li><a href="http://www.genciencia.com/tag/efecto+flynn" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Especiales')">El efecto Flynn</a></li>
+                                                                                                                                                                                                                                                <li><a href="https://www.genciencia.com/tag/numeros+primos" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Especiales')">Numeros primos</a></li>
+                                                                                                                <li><a href="https://www.genciencia.com/tag/decimal" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Especiales')">Decimal</a></li>
+                                                                                                                <li><a href="https://www.genciencia.com/tag/efecto+flynn" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Especiales')">El efecto Flynn</a></li>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </ul>
                 </div>
                             <div class="content-type">
                     <h3>Secciones</h3>
                     <ul>
-                                                                                                                                        <li><a href="http://www.genciencia.com/sabias-que/como-se-hacen-los-dentifricos-de-distintos-colores" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Secciones')">¿Cómo se hacen los dentífricos de diferentes colores?</a></li>
-                                                                                                                <li><a href="http://www.genciencia.com/matematicas/alan-turing-y-el-logotipo-de-apple" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Secciones')">Alan Turing y el logotipo de Apple</a></li>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="http://www.genciencia.com/medicina/el-mito-de-la-comida-con-hierro-las-espinacas-y-las-lentejas" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Secciones')">El mito de la comida con hierro</a></li>
+                                                                                                                                        <li><a href="https://www.genciencia.com/sabias-que/como-se-hacen-los-dentifricos-de-distintos-colores" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Secciones')">¿Cómo se hacen los dentífricos de diferentes colores?</a></li>
+                                                                                                                <li><a href="https://www.genciencia.com/matematicas/alan-turing-y-el-logotipo-de-apple" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Secciones')">Alan Turing y el logotipo de Apple</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a href="https://www.genciencia.com/medicina/el-mito-de-la-comida-con-hierro-las-espinacas-y-las-lentejas" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-contenidosrecomendados', 'clic-Secciones')">El mito de la comida con hierro</a></li>
                                                                         </ul>
                 </div>
                     </div>
@@ -2278,61 +2278,61 @@ $(function()
   
 
 <div id="module-wsl">
-	<h2><a href="http://www.weblogssl.com"><span></span>WSL Weblogs SL</a></h2>
+	<h2><a href="https://www.weblogssl.com"><span></span>WSL Weblogs SL</a></h2>
 	<div class="module-content">
 				<div class="category">
 			<h3>Tecnología</h3>
 			<ul>
 								<li>
-					<a href="http://www.xataka.com/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka')">
+					<a href="https://www.xataka.com/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka')">
 						Xataka					</a>
 				</li>
 								<li>
-					<a href="http://www.xatakamovil.com/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka M&oacute;vil')">
+					<a href="https://www.xatakamovil.com/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka M&oacute;vil')">
 						Xataka M&oacute;vil					</a>
 				</li>
 								<li>
-					<a href="http://www.xatakafoto.com/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Foto')">
+					<a href="https://www.xatakafoto.com/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Foto')">
 						Xataka Foto					</a>
 				</li>
 								<li>
-					<a href="http://www.xatakaon.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka On')">
+					<a href="https://www.xatakaon.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka On')">
 						Xataka On					</a>
 				</li>
 								<li>
-					<a href="http://www.xatakaciencia.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Ciencia')">
+					<a href="https://www.xatakaciencia.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Ciencia')">
 						Xataka Ciencia					</a>
 				</li>
 								<li>
-					<a href="http://www.genbeta.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Genbeta')">
+					<a href="https://www.genbeta.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Genbeta')">
 						Genbeta					</a>
 				</li>
 								<li>
-					<a href="http://www.applesfera.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Applesfera')">
+					<a href="https://www.applesfera.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Applesfera')">
 						Applesfera					</a>
 				</li>
 								<li>
-					<a href="http://www.vidaextra.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'VidaExtra')">
+					<a href="https://www.vidaextra.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'VidaExtra')">
 						VidaExtra					</a>
 				</li>
 								<li>
-					<a href="http://www.nacionred.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Naci&oacute;n Red')">
+					<a href="https://www.nacionred.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Naci&oacute;n Red')">
 						Naci&oacute;n Red					</a>
 				</li>
 								<li>
-					<a href="http://www.xatakandroid.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Android')">
+					<a href="https://www.xatakandroid.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Android')">
 						Xataka Android					</a>
 				</li>
 								<li>
-					<a href="http://www.genbetadev.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Genbeta Dev')">
+					<a href="https://www.genbetadev.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Genbeta Dev')">
 						Genbeta Dev					</a>
 				</li>
 								<li>
-					<a href="http://www.genbetasocialmedia.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Genbeta Social Media')">
+					<a href="https://www.genbetasocialmedia.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Genbeta Social Media')">
 						Genbeta Social Media					</a>
 				</li>
 								<li>
-					<a href="http://www.xatakahome.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Smart Home')">
+					<a href="https://www.xatakahome.com/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Smart Home')">
 						Xataka Smart Home					</a>
 				</li>
 							</ul>
@@ -2341,35 +2341,35 @@ $(function()
 			<h3>Entretenimiento</h3>
 			<ul>
                 				<li>
-					<a href="http://www.blogdecine.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Blog de cine')">
+					<a href="https://www.blogdecine.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Blog de cine')">
 						Blog de cine					</a>
 				</li>
 								<li>
-					<a href="http://www.vayatele.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', '¡Vaya tele!')">
+					<a href="https://www.vayatele.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', '¡Vaya tele!')">
 						¡Vaya tele!					</a>
 				</li>
 								<li>
-					<a href="http://www.hipersonica.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Hipersónica')">
+					<a href="https://www.hipersonica.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Hipersónica')">
 						Hipersónica					</a>
 				</li>
 								<li>
-					<a href="http://www.diariodelviajero.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Diario del viajero')">
+					<a href="https://www.diariodelviajero.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Diario del viajero')">
 						Diario del viajero					</a>
 				</li>
 								<li>
-					<a href="http://www.papelenblanco.com/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Papel en blanco')">
+					<a href="https://www.papelenblanco.com/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Papel en blanco')">
 						Papel en blanco					</a>
 				</li>
 								<li>
-					<a href="http://www.poprosa.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Poprosa')">
+					<a href="https://www.poprosa.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Poprosa')">
 						Poprosa					</a>
 				</li>
 								<li>
-					<a href="http://www.zonafandom.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Zona Fandom')">
+					<a href="https://www.zonafandom.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Zona Fandom')">
 						Zona Fandom					</a>
 				</li>
 								<li>
-					<a href="http://www.fandemia.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Fandemia')">
+					<a href="https://www.fandemia.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Fandemia')">
 						Fandemia					</a>
 				</li>
 							</ul>
@@ -2378,47 +2378,47 @@ $(function()
 			<h3>Estilos de vida</h3>
 			<ul>
                 				<li>
-					<a href="http://www.trendencias.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Trendencias')">
+					<a href="https://www.trendencias.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Trendencias')">
 						Trendencias					</a>
 				</li>
 								<li>
-					<a href="http://www.bebesymas.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Beb&eacute;s y m&aacute;s')">
+					<a href="https://www.bebesymas.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Beb&eacute;s y m&aacute;s')">
 						Beb&eacute;s y m&aacute;s					</a>
 				</li>
 								<li>
-					<a href="http://www.directoalpaladar.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Directo al paladar')">
+					<a href="https://www.directoalpaladar.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Directo al paladar')">
 						Directo al paladar					</a>
 				</li>
 								<li>
-					<a href="http://www.compradiccion.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Compradicci&oacute;n')">
+					<a href="https://www.compradiccion.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Compradicci&oacute;n')">
 						Compradicci&oacute;n					</a>
 				</li>
 								<li>
-					<a href="http://www.decoesfera.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Decoesfera')">
+					<a href="https://www.decoesfera.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Decoesfera')">
 						Decoesfera					</a>
 				</li>
 								<li>
-					<a href="http://www.embelezzia.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Embelezzia')">
+					<a href="https://www.embelezzia.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Embelezzia')">
 						Embelezzia					</a>
 				</li>
 								<li>
-					<a href="http://www.vitonica.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Vit&oacute;nica')">
+					<a href="https://www.vitonica.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Vit&oacute;nica')">
 						Vit&oacute;nica					</a>
 				</li>
 								<li>
-					<a href="http://www.ambienteg.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Ambiente G')">
+					<a href="https://www.ambienteg.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Ambiente G')">
 						Ambiente G					</a>
 				</li>
 								<li>
-					<a href="http://www.trendenciasbelleza.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Trendencias Belleza')">
+					<a href="https://www.trendenciasbelleza.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Trendencias Belleza')">
 						Trendencias Belleza					</a>
 				</li>
 								<li>
-					<a href="http://www.trendenciashombre.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Trendencias Hombre')">
+					<a href="https://www.trendenciashombre.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Trendencias Hombre')">
 						Trendencias Hombre					</a>
 				</li>
 								<li>
-					<a href="http://www.pequesymas.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Peques y más')">
+					<a href="https://www.pequesymas.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Peques y más')">
 						Peques y más					</a>
 				</li>
 							</ul>
@@ -2427,27 +2427,27 @@ $(function()
 			<h3>Motor y deportes</h3>
 			<ul>
                 				<li>
-					<a href="http://www.motorpasion.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasi&oacute;n')">
+					<a href="https://www.motorpasion.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasi&oacute;n')">
 						Motorpasi&oacute;n					</a>
 				</li>
 								<li>
-					<a href="http://www.motorpasionf1.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasión F1')">
+					<a href="https://www.motorpasionf1.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasión F1')">
 						Motorpasión F1					</a>
 				</li>
 								<li>
-					<a href="http://www.motorpasionmoto.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasión Moto')">
+					<a href="https://www.motorpasionmoto.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasión Moto')">
 						Motorpasión Moto					</a>
 				</li>
 								<li>
-					<a href="http://www.notasdefutbol.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Notas de f&uacute;tbol')">
+					<a href="https://www.notasdefutbol.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Notas de f&uacute;tbol')">
 						Notas de f&uacute;tbol					</a>
 				</li>
 								<li>
-					<a href="http://www.fueradelimites.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Fuera de l&iacute;mites')">
+					<a href="https://www.fueradelimites.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Fuera de l&iacute;mites')">
 						Fuera de l&iacute;mites					</a>
 				</li>
 								<li>
-					<a href="http://www.motorpasionfuturo.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasión Futuro')">
+					<a href="https://www.motorpasionfuturo.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasión Futuro')">
 						Motorpasión Futuro					</a>
 				</li>
 							</ul>
@@ -2456,19 +2456,19 @@ $(function()
 			<h3>Econom&iacute;a</h3>
 			<ul>
                 				<li>
-					<a href="http://www.elblogsalmon.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'El Blog Salm&oacute;n')">
+					<a href="https://www.elblogsalmon.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'El Blog Salm&oacute;n')">
 						El Blog Salm&oacute;n					</a>
 				</li>
 								<li>
-					<a href="http://www.pymesyautonomos.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Pymes y Aut&oacute;nomos')">
+					<a href="https://www.pymesyautonomos.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Pymes y Aut&oacute;nomos')">
 						Pymes y Aut&oacute;nomos					</a>
 				</li>
 								<li>
-					<a href="http://www.tecnologiapyme.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Tecnolog&iacute;a Pyme')">
+					<a href="https://www.tecnologiapyme.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Tecnolog&iacute;a Pyme')">
 						Tecnolog&iacute;a Pyme					</a>
 				</li>
 								<li>
-					<a href="http://www.ahorrodiario.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Ahorro diario')">
+					<a href="https://www.ahorrodiario.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Ahorro diario')">
 						Ahorro diario					</a>
 				</li>
 							</ul>
@@ -2477,47 +2477,47 @@ $(function()
 			<h3>Participamos en</h3>
 			<ul>
                 				<li>
-					<a href="http://www.ebayers.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'eBayers')">
+					<a href="https://www.ebayers.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'eBayers')">
 						eBayers					</a>
 				</li>
 								<li>
-					<a href="http://www.circulaseguro.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Circula seguro')">
+					<a href="https://www.circulaseguro.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Circula seguro')">
 						Circula seguro					</a>
 				</li>
 								<li>
-					<a href="http://www.actibva.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Actibva')">
+					<a href="https://www.actibva.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Actibva')">
 						Actibva					</a>
 				</li>
 								<li>
-					<a href="http://www.anexom.es/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Anexo-m')">
+					<a href="https://www.anexom.es/"  onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Anexo-m')">
 						Anexo-m					</a>
 				</li>
 								<li>
-					<a href="http://blog.cocacola.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Happing Magazine')">
+					<a href="https://blog.cocacola.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Happing Magazine')">
 						Happing Magazine					</a>
 				</li>
 								<li>
-					<a href="http://blog.sage.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Blog Sage')">
+					<a href="https://blog.sage.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Blog Sage')">
 						Blog Sage					</a>
 				</li>
 								<li>
-					<a href="http://www.optimismodigital.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Optimismo Digital')">
+					<a href="https://www.optimismodigital.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Optimismo Digital')">
 						Optimismo Digital					</a>
 				</li>
 								<li>
-					<a href="http://www.1001experiencias.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', '1001 experiencias')">
+					<a href="https://www.1001experiencias.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', '1001 experiencias')">
 						1001 experiencias					</a>
 				</li>
 								<li>
-					<a href="http://www.ennaranja.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'En Naranja')">
+					<a href="https://www.ennaranja.com/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'En Naranja')">
 						En Naranja					</a>
 				</li>
 								<li>
-					<a href="http://www.essieblog.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Essie Blog')">
+					<a href="https://www.essieblog.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Essie Blog')">
 						Essie Blog					</a>
 				</li>
 								<li>
-					<a href="http://blogginzenith.zenithmedia.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Bloggin Zenith')">
+					<a href="https://blogginzenith.zenithmedia.es/" rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Bloggin Zenith')">
 						Bloggin Zenith					</a>
 				</li>
 							</ul>
@@ -2529,11 +2529,11 @@ $(function()
                     <h4>Tecnologia</h4>
 					<ul>
 										<li>
-					<a href="http://www.xataka.com.br/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Brasil')">
+					<a href="https://www.xataka.com.br/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka Brasil')">
                         Xataka Brasil                    </a>
 					</li>
 										<li>
-					<a href="http://www.xataka.com.mx/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka México')">
+					<a href="https://www.xataka.com.mx/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Xataka México')">
                         Xataka México                    </a>
 					</li>
 										</ul>
@@ -2546,7 +2546,7 @@ $(function()
                     <h4>Estilos de vida</h4>
                     <ul>
                                         <li>
-                    <a href="http://www.trendencias.com.br/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'tRendências Brasil')">
+                    <a href="https://www.trendencias.com.br/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'tRendências Brasil')">
                         tRendências Brasil                    </a>
                     </li>
                                         </ul>
@@ -2557,7 +2557,7 @@ $(function()
                     <h4>Motor y deportes</h4>
                     <ul>
                                         <li>
-                    <a href="http://www.motorpasion.com.br/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasi&oacute;n Brasil')">
+                    <a href="https://www.motorpasion.com.br/"  rel="nofollow" onclick="return WSL_Controller_GoogleAnalytics.registerClick('modulo-piepagina-weblogscorporate', 'Motorpasi&oacute;n Brasil')">
                         Motorpasi&oacute;n Brasil                    </a>
                     </li>
                                         </ul>
@@ -2576,11 +2576,11 @@ $(function()
 <div id="footer" class="clearfix">
         <a rel="nofollow" href="/acercade">Acerca de Xatakaciencia</a> | 
         
-        <a rel="nofollow" href="http://www.weblogssl.com/contenidos">Condiciones de uso</a> |
+        <a rel="nofollow" href="https://www.weblogssl.com/contenidos">Condiciones de uso</a> |
         
-         <a rel="nofollow" href="http://www.weblogssl.com/aviso">Aviso legal</a> | 
+         <a rel="nofollow" href="https://www.weblogssl.com/aviso">Aviso legal</a> | 
     
-        <a href="http://www.socialmediasl.com/xatakaciencia.php" title="Publicidad en Xatakaciencia">Publicidad</a> |
+        <a href="https://www.socialmediasl.com/xatakaciencia.php" title="Publicidad en Xatakaciencia">Publicidad</a> |
             <a rel="nofollow" href="/ayuda">Ayuda</a> |
                 <a rel="nofollow" href="/contacto">Contacto</a>
     </div>
@@ -2644,8 +2644,8 @@ position:absolute;
 top:25px;
 }
 </style>
-<script src="http://www.terra.com/header/pais.php" type="text/javascript"></script>
-<script src="http://www.terra.com/header/weblogsSL_noticias.js" type="text/javascript"></script>
+<script src="https://www.terra.com/header/pais.php" type="text/javascript"></script>
+<script src="https://www.terra.com/header/weblogsSL_noticias.js" type="text/javascript"></script>
 </div>
 
 

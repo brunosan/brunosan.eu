@@ -30,7 +30,7 @@ DISASTER RELIEF FUND
 <a href="/partners">Partners</a>
 <a href="/blogs">Blogroll</a>
 <a href="/about">About</a>
-<a href="http://rdfnet.herokuapp.com/donations/new?cause=nbga" target="_blank">Donate</a>
+<a href="https://rdfnet.herokuapp.com/donations/new?cause=nbga" target="_blank">Donate</a>
 </li>
 </ul>
 </div>
@@ -43,7 +43,7 @@ Doctors Without Borders
 </h2>
 </div>
 <div class='campaign_body_html'>
-<div class="float_right"><iframe width="300" src="http://www.youtube.com/embed/iy7sbagRV-A" frameborder="0" allowfullscreen></iframe></div> For our current campaign, we have chosen to support <a href="http://www.doctorswithoutborders.org/">Doctors Without Borders/Médecins Sans Frontières</a>, a neutral international humanitarian organization dedicated to providing need based care. They work in areas devastated by natural disasters and armed conflict, plagued with epidemics, or are otherwise lacking in adequate health care. Their work is ongoing and directed to regions that need help the most.
+<div class="float_right"><iframe width="300" src="https://www.youtube.com/embed/iy7sbagRV-A" frameborder="0" allowfullscreen></iframe></div> For our current campaign, we have chosen to support <a href="https://www.doctorswithoutborders.org/">Doctors Without Borders/Médecins Sans Frontières</a>, a neutral international humanitarian organization dedicated to providing need based care. They work in areas devastated by natural disasters and armed conflict, plagued with epidemics, or are otherwise lacking in adequate health care. Their work is ongoing and directed to regions that need help the most.
 
 <P>From their website:<br>
 <i>MSF's work is based on the humanitarian principles of medical ethics and impartiality. The organization is committed to bringing quality medical care to people in crisis regardless of their race, religion, or political affiliation.
@@ -58,7 +58,7 @@ Doctors Without Borders
 <div class='donate_loc_and_button'>
 <b>Donations given to: Doctors Without Borders</b>
 <br>
-<center><form action="http://rdfnet.herokuapp.com/donations/new?cause=nbga" class="button_to" method="get"><div><input class="donate_button" target="_blank" type="submit" value="Donate Now" /></div></form></center>
+<center><form action="https://rdfnet.herokuapp.com/donations/new?cause=nbga" class="button_to" method="get"><div><input class="donate_button" target="_blank" type="submit" value="Donate Now" /></div></form></center>
 </div>
 </div>
 

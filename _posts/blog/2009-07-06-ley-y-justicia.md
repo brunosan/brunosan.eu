@@ -27,5 +27,5 @@ entre cultivar el respeto por la ley, 
 y cultivar el respeto por el bien. 
 No hay más que ver a los abogados.</pre>
 </blockquote>
-<p style="text-align:right;">"<a href="http://en.wikipedia.org/wiki/A_People's_History_of_the_United_States">People´s history of the United States</a>"</p>
+<p style="text-align:right;">"<a href="https://en.wikipedia.org/wiki/A_People's_History_of_the_United_States">People´s history of the United States</a>"</p>
 <p style="text-align:left;">Did you know, for example, that in the USA most cases are decided by procedurals (the way some papework was done) rather than for justice <em>per-se</em> ( the right and wrong of those acts)?</p>

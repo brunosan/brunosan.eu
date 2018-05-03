@@ -24,7 +24,7 @@ title: What the green "Maximize" button does in OSX does
 ---
 The green "Maximize" button in Mac OSX is actually not what you thought it was.
 
-<a href="http://nasonurb.files.wordpress.com/2012/02/screen-shot-2012-02-09-at-10-35-33-am.png"><img class="aligncenter size-full wp-image-2206" title="Screen Shot 2012-02-09 at 10.35.33 AM" src="http://nasonurb.files.wordpress.com/2012/02/screen-shot-2012-02-09-at-10-35-33-am.png" alt="" width="151" height="66" /></a>In Microsoft Windows it makes the window fill the screen... (and I don´t really know what it does when the window is already maximized). In Mac it switches the size of the window from "application default" to "user set". Its name is "Zoom", and you can also find it on the Window Menu.<!--more-->
+<a href="https://nasonurb.files.wordpress.com/2012/02/screen-shot-2012-02-09-at-10-35-33-am.png"><img class="aligncenter size-full wp-image-2206" title="Screen Shot 2012-02-09 at 10.35.33 AM" src="https://nasonurb.files.wordpress.com/2012/02/screen-shot-2012-02-09-at-10-35-33-am.png" alt="" width="151" height="66" /></a>In Microsoft Windows it makes the window fill the screen... (and I don´t really know what it does when the window is already maximized). In Mac it switches the size of the window from "application default" to "user set". Its name is "Zoom", and you can also find it on the Window Menu.<!--more-->
 
 It means that every app comes with a window size by default. If you resize it, it will come back to the default size if you click it. And if you click again it comes back to whatever size you set before.
 

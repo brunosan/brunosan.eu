@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en">
 <head>
 <title>Challenges | World Bank Institute</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -199,12 +199,12 @@ function googleTranslateElementInit() {
           <div class="f01v1-global-language-toggle">
             <ul>
               <li class="active-language">English</li>
-              <li class="divider"><a href="http://www.bancomundial.org/">Español</a></li>
-              <li class="divider"><a href="http://www.banquemondiale.org/">Français</a></li>
-              <li class="divider"><a href="http://www.worldbank.org/eca/russian/">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a></li>
-              <li class="divider"><a href="http://www.albankaldawli.org/">&#1593;&#1585;&#1576;&#1610;</a></li>
-              <li class="divider cn"><a href="http://www.worldbank.org.cn/Chinese/">&#20013;&#25991;</a></li>
-              <li><a class="arrow1" href="http://www.worldbank.org/languages" title="More Languages"></a></li>  
+              <li class="divider"><a href="https://www.bancomundial.org/">Espaï¿½ol</a></li>
+              <li class="divider"><a href="https://www.banquemondiale.org/">Franï¿½ais</a></li>
+              <li class="divider"><a href="https://www.worldbank.org/eca/russian/">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a></li>
+              <li class="divider"><a href="https://www.albankaldawli.org/">&#1593;&#1585;&#1576;&#1610;</a></li>
+              <li class="divider cn"><a href="https://www.worldbank.org.cn/Chinese/">&#20013;&#25991;</a></li>
+              <li><a class="arrow1" href="https://www.worldbank.org/languages" title="More Languages"></a></li>  
             </ul> 
           </div>
         </div>
@@ -212,7 +212,7 @@ function googleTranslateElementInit() {
         <!--Global Header box for World Bank Logo and Search Start -->
         <div class="global-header">
           <!-- World Bank Logo Starts -->
-          <a class="world-bank-logo" href="http://www.worldbank.org/">The World Bank Working for a World Free of Poverty</a>
+          <a class="world-bank-logo" href="https://www.worldbank.org/">The World Bank Working for a World Free of Poverty</a>
           <!-- World Bank Logo Ends -->
           <!-- (F02v1) Global Search Starts -->
                 <div id="f02v1-global-search">
@@ -233,23 +233,23 @@ function googleTranslateElementInit() {
       <div class="g03v1_topnavigation top_navigation">
         <div class="g03v1-global-navigation">  
           <div class="g03v1-global-navigation-home">
-            <a class="homelink" href="http://www.worldbank.org/">Home</a>
+            <a class="homelink" href="https://www.worldbank.org/">Home</a>
           </div>
           <div class="g03v1-global-navigation-sec1">
             <ul class="navtabs">    
-              <li class="first"><a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/0,,pagePK:50004410~piPK:36602~theSitePK:29708,00.html"><span>ABOUT</span></a></li>
-              <li><a href="http://data.worldbank.org/"><span>DATA</span></a></li>
-              <li><a href="http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/0,,menuPK:476823~pagePK:64165236~piPK:64165141~theSitePK:469372,00.html"><span>RESEARCH</span></a></li>
-              <li class="current"><a href="http://wbi.worldbank.org/wbi/"><span>LEARNING</span></a></li>
-              <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,pagePK:34382~piPK:34439~theSitePK:4607,00.html"><span>NEWS</span></a></li>
-              <li><a href="http://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/0,,menuPK:115635~pagePK:64020917~piPK:64021009~theSitePK:40941,00.html"><span>PROJECTS &amp; OPERATIONS</span></a></li>
-              <li class="last"><a href="http://www.worldbank.org/reference/"><span>PUBLICATIONS</span></a></li>
+              <li class="first"><a href="https://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/0,,pagePK:50004410~piPK:36602~theSitePK:29708,00.html"><span>ABOUT</span></a></li>
+              <li><a href="https://data.worldbank.org/"><span>DATA</span></a></li>
+              <li><a href="https://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/0,,menuPK:476823~pagePK:64165236~piPK:64165141~theSitePK:469372,00.html"><span>RESEARCH</span></a></li>
+              <li class="current"><a href="https://wbi.worldbank.org/wbi/"><span>LEARNING</span></a></li>
+              <li><a href="https://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,pagePK:34382~piPK:34439~theSitePK:4607,00.html"><span>NEWS</span></a></li>
+              <li><a href="https://web.worldbank.org/WBSITE/EXTERNAL/PROJECTS/0,,menuPK:115635~pagePK:64020917~piPK:64021009~theSitePK:40941,00.html"><span>PROJECTS &amp; OPERATIONS</span></a></li>
+              <li class="last"><a href="https://www.worldbank.org/reference/"><span>PUBLICATIONS</span></a></li>
             </ul>     
           </div>
           <div class="g03v1-global-navigation-sec2">
             <ul class="navtabs">
-              <li class="first"><a href="http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/0,,pagePK:180619~theSitePK:136917,00.html"><span>COUNTRIES</span></a></li>
-              <li class="last"><a href="http://www.worldbank.org/html/extdr/thematic.htm"><span>TOPICS</span></a></li>
+              <li class="first"><a href="https://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/0,,pagePK:180619~theSitePK:136917,00.html"><span>COUNTRIES</span></a></li>
+              <li class="last"><a href="https://www.worldbank.org/html/extdr/thematic.htm"><span>TOPICS</span></a></li>
             </ul>
           </div>
         </div>
@@ -285,7 +285,7 @@ function googleTranslateElementInit() {
         <div class="banner-hidden" id="myContent" style="display: block;">
           <div class="columscontent clearfix">
             <div class="introcopy">
-              <p>Welcome to the World Bank Challenge platform. This platform contains competitions and challenges run by the World Bank.&nbsp;&nbsp;Two heads are better than one, and a thousand heads are better than two...<a href="/wbchallengecomp.nsf/x/about?open&tab=0">Read More »</a></p> 
+              <p>Welcome to the World Bank Challenge platform. This platform contains competitions and challenges run by the World Bank.&nbsp;&nbsp;Two heads are better than one, and a thousand heads are better than two...<a href="/wbchallengecomp.nsf/x/about?open&tab=0">Read More ï¿½</a></p> 
             </div>
             <!--End columm5 --> <!--End columm6 -->
             <div class="linklist border-vert1">
@@ -430,8 +430,8 @@ function googleTranslateElementInit() {
           <div class="c15v3-pagination">
             <ul>
               <li id="featuredhero_pg" class="margin-top7 margin-right10 updatePage">1 / 1</li> 
-              <li class="margin-right2"><a title="« Previous" class="prev" href="#">&nbsp;</a></li>          
-              <li><a title="Next »" class="next" href="#">&nbsp;</a></li>  
+              <li class="margin-right2"><a title="ï¿½ Previous" class="prev" href="#">&nbsp;</a></li>          
+              <li><a title="Next ï¿½" class="next" href="#">&nbsp;</a></li>  
             </ul>
           </div>
         </div>    
@@ -486,7 +486,7 @@ function googleTranslateElementInit() {
             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.<br/><br/></p>
           </div>
           <div class="n02v10-Itemlistlink padding-bottom13">
-            <a href="#">Use tools/resources »</a>
+            <a href="#">Use tools/resources ï¿½</a>
           </div>
         </div>
       </div>
@@ -506,25 +506,25 @@ function googleTranslateElementInit() {
 <div id="f04v1-breadcrumb">
 <span class="breadcrumb-header">You are here</span>
 <div class="breadcrumbimg"></div>
-<span class="breadcrumb-header">&nbsp;&nbsp;<a href="http://wbi.worldbank.org/wbi/">Learning</a></span>
+<span class="breadcrumb-header">&nbsp;&nbsp;<a href="https://wbi.worldbank.org/wbi/">Learning</a></span>
 <div class="breadcrumbimg"></div>
 <span class="breadcrumb-header">&nbsp;&nbsp;Challenges</span>
 </div>
 <!-- (F04v1) Breadcrumb Ends -->
 <div class="open-footer">
                     <div class="footer-visible">
-<a href="/"><img alt="The World Bank Logo" title="The World Bank" src="/wbchallengefiles.nsf/files/footer-white-wbicon.gif/$file/footer-white-wbicon.gif"></a> <a href="/">The World Bank Group</a> <span class="partner"> <a href="http://www.worldbank.org/ibrd">IBRD</a> <a href="http://www.worldbank.org/ida">IDA</a> <a href="http://www.ifc.org">IFC</a> <a href="http://www.miga.org/">MIGA</a> <a href="http://icsid.worldbank.org">ICSID</a> </span>
+<a href="/"><img alt="The World Bank Logo" title="The World Bank" src="/wbchallengefiles.nsf/files/footer-white-wbicon.gif/$file/footer-white-wbicon.gif"></a> <a href="/">The World Bank Group</a> <span class="partner"> <a href="https://www.worldbank.org/ibrd">IBRD</a> <a href="https://www.worldbank.org/ida">IDA</a> <a href="https://www.ifc.org">IFC</a> <a href="https://www.miga.org/">MIGA</a> <a href="https://icsid.worldbank.org">ICSID</a> </span>
                     </div>
 <div class="footer-left">
 <!--Start left -->
-<p><a href="http://www.worldbank.org/legalinfo">Legal</a> | <a href="http://www.worldbank.org/sitemap">Site Map</a> | <a href="http://www.worldbank.org/jobs">Jobs</a> | <a href="http://www.worldbank.org/contacts">Contact</a><br>
+<p><a href="https://www.worldbank.org/legalinfo">Legal</a> | <a href="https://www.worldbank.org/sitemap">Site Map</a> | <a href="https://www.worldbank.org/jobs">Jobs</a> | <a href="https://www.worldbank.org/contacts">Contact</a><br>
 <span class="footer-left-print">
-<a href="http://www.worldbank.org/">&copy; 2011 The World Bank Group, All Rights Reserved.</a></span></p>
+<a href="https://www.worldbank.org/">&copy; 2011 The World Bank Group, All Rights Reserved.</a></span></p>
 </div>
 <!--End footer left  -->
 <div class="footer-right">
 <!-- Start footer right -->
-<p><a href="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html"><strong>Fraud &amp; Corruption Hotline</strong><br>
+<p><a href="https://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/ORGUNITS/EXTDOII/0,,contentMDK:20659616~menuPK:1702202~pagePK:64168445~piPK:64168309~theSitePK:588921,00.html"><strong>Fraud &amp; Corruption Hotline</strong><br>
 1-800-831-0463</a></p>
 </div>
 <!--End footer left -->
@@ -536,7 +536,7 @@ function googleTranslateElementInit() {
  
 <div class="grid_24 grid_24-print">
   <span class="footer-left-print4">
-    <a href="http://www.worldbank.org/">&copy;2011 The World Bank Group, All Rights Reserved.</a>
+    <a href="https://www.worldbank.org/">&copy;2011 The World Bank Group, All Rights Reserved.</a>
   </span>
 </div>     
       
@@ -581,7 +581,7 @@ function googleTranslateElementInit() {
     stemplate+='<a href="aaa">ccc</a>';
     stemplate+='</div><div class="c15v3-bodytext">';
     stemplate+='<p><span class="c15v3-date">eee&nbsp;thru&nbsp;fff&nbsp;&mdash;&nbsp;</span>ddd<span>&nbsp;';
-    stemplate+='<a href="aaa">Read More »</a></span>';
+    stemplate+='<a href="aaa">Read More ï¿½</a></span>';
     stemplate+='</p></div></div></li>';
     // just in case there is an error
  //   $.ajaxSetup({"error":function(XMLHttpRequest,textStatus, errorThrown) {alert(errorThrown);}});
@@ -698,7 +698,7 @@ function googleTranslateElementInit() {
 //    stemplate+='<div class="n02v9-recentlypub-author">Sponsored by ddd<span class="recentlypub">eee thru fff</span></div>';
     stemplate+='<div class="n02v9-recentlypub-author"><span class="recentlypub">eee thru fff</span></div>';
     stemplate+='<div class="n02v9-recentlypub-text"><p>ggg</p></div>';
-    stemplate+='<div class="n02v9-recentlypub-readmore"><a href="hhh">Read More »</a></div></div></div>';
+    stemplate+='<div class="n02v9-recentlypub-readmore"><a href="hhh">Read More ï¿½</a></div></div></div>';
     var snodata='<div id="nodata" class="n02v9-recentlypub border-top1 padding-bottom12">';
     snodata+='<div class="n02v9-recentlypub-image"><a href="#nodata"><img width="82" height="82" src="/wbchallengefiles.nsf/files/nodata.png/$file/nodata.png" alt="" title=""></a></div>';
     snodata+='<div class="n02v9-recentlypub-super-header-tag">&nbsp;</div>';
@@ -902,7 +902,7 @@ function getStoryHtml(jsonObj) {
 	html+='</div>';
 	html+='<div class="n06v1-bodytext">'+getFirstSentence(jsonObj.body)+'</div>';
 	html+='<div class="n06v1-clusters-actionlink">';
-	html+='<a href="'+jsonObj.url+'"> Read More »</a>';
+	html+='<a href="'+jsonObj.url+'"> Read More ï¿½</a>';
 	html+='</div>';
 	html+='</div>';
 	return html;
@@ -971,7 +971,7 @@ function getNewsJson(instance) {
 		if(newsCount<1){
 			$('#newsparent').hide();
 		} else {
-			newsHtml+="<div class=\"n02v10-Itemlistlink padding-bottom13\"><a href=\"/"+instance+"\">View All What's New »</a></div></div>";
+			newsHtml+="<div class=\"n02v10-Itemlistlink padding-bottom13\"><a href=\"/"+instance+"\">View All What's New ï¿½</a></div></div>";
 			$('#news').html(newsHtml);
 		}		
 	});	

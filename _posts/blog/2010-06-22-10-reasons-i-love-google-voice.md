@@ -23,7 +23,7 @@ title: 10 reasons I love Google Voice
 ---
 Basically Google Voice is aphone number you choose, for free. Then you tell Google your real phone numbers. Google will connect the new number with your old one. Then you just use the new Google Voice number. Mine is 417-brunsn (+1 417-278 6676)
 
-[youtube=http://www.youtube.com/watch?v=cOZU7BOeQ58&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xd0d0d0&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1]
+[youtube=https://www.youtube.com/watch?v=cOZU7BOeQ58&amp;rel=0&amp;color1=0xb1b1b1&amp;color2=0xd0d0d0&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1]
 
 Why use it? Let´s be practical. These are some reasons I decided to use it:
 
@@ -55,4 +55,4 @@ Why use it? Let´s be practical. These are some reasons I decided to use it:
 
 &nbsp;
 
-Ah, and starting today, <a href="http://googlevoiceblog.blogspot.com/2010/06/google-voice-for-everyone.html"><strong>Google Voice is open for everyone</strong></a> in the US.
+Ah, and starting today, <a href="https://googlevoiceblog.blogspot.com/2010/06/google-voice-for-everyone.html"><strong>Google Voice is open for everyone</strong></a> in the US.

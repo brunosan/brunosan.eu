@@ -8,7 +8,7 @@ tags:
 - 
 ---
 
-*[Cross posted on "Voices"](http://blogs.worldbank.org/voices/big-data-davos), the World's Bank blog.*
+*[Cross posted on "Voices"](https://blogs.worldbank.org/voices/big-data-davos), the World's Bank blog.*
 
 <a href="/images/jessica-long-and-bruno-sanchez-davos-2015.jpg"> <img width="100%" src="/images/jessica-long-and-bruno-sanchez-davos-2015.jpg" class="center"></a>
 

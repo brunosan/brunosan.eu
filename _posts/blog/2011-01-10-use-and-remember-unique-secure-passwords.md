@@ -5,7 +5,7 @@ layout: post
 status: publish
 meta: 
   geo_accuracy: "0"
-  tagazine-media: a:7:{s:7:"primary";s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png";s:6:"images";a:1:{s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png";a:6:{s:8:"file_url";s:82:"http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png";s:5:"width";s:4:"1272";s:6:"height";s:3:"509";s:4:"type";s:5:"image";s:4:"area";s:6:"647448";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"2";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2011-01-11 02:09:41";}
+  tagazine-media: a:7:{s:7:"primary";s:82:"https://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png";s:6:"images";a:1:{s:82:"https://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png";a:6:{s:8:"file_url";s:82:"https://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png";s:5:"width";s:4:"1272";s:6:"height";s:3:"509";s:4:"type";s:5:"image";s:4:"area";s:6:"647448";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"2";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2011-01-11 02:09:41";}
   geo_public: "1"
   geo_address: 425 P St NW, Washington, DC 20001, USA
   geo_longitude: "-77.018000"
@@ -25,7 +25,7 @@ All of us have logins in many different pages. Only within the last month, my c
 The problem is that most people use the very same password everywhere. And that poses a great security risk. Once someone knows your password, they can jump straight to your Gmail, Facebook, LinkedIn, ... Think, a cracker just needs to create a simple web app and ask you to sign up.
 
 I do have a different complex password for every page I login. And I never forget any. This is my simple way to do it.
-<p style="text-align:center;"><a href="http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png"><img class="aligncenter size-medium wp-image-1300" title="Screen shot 2011-01-10 at 16.05.14" src="http://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png?w=500" alt="" width="500" /></a></p>
+<p style="text-align:center;"><a href="https://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png"><img class="aligncenter size-medium wp-image-1300" title="Screen shot 2011-01-10 at 16.05.14" src="https://nasonurb.files.wordpress.com/2011/01/screen-shot-2011-01-10-at-16-05-14.png?w=500" alt="" width="500" /></a></p>
 <p style="text-align:left;"><!--more--></p>
 <p style="text-align:left;">Hacking your passwords system:</p>
 
@@ -43,7 +43,7 @@ in wordpress.com: <strong>%elphhant%O</strong></li>
 
 Last advice, once you decide your scheme, keep it, and change your password on every page you already use.
 
-<strong>Extra step</strong>: Buy a domain and add it to <a href="http://www.google.com/apps/intl/en/business/index.html">Google Apps</a>. Then set it up to redirect all email directions to your main one. Then use the url as the user name for each service as login (e.g. facebook@brunosan.eu, linkedin@brunosan.eu, meneame@brunosan.eu). This way you can trace also if the service gave your info to anyone.
+<strong>Extra step</strong>: Buy a domain and add it to <a href="https://www.google.com/apps/intl/en/business/index.html">Google Apps</a>. Then set it up to redirect all email directions to your main one. Then use the url as the user name for each service as login (e.g. facebook@brunosan.eu, linkedin@brunosan.eu, meneame@brunosan.eu). This way you can trace also if the service gave your info to anyone.
 
 ...and when you explain your trick to friends, change your choices ;)
-<p style="text-align:center;"><a href="http://xkcd.com/792/"><img class="aligncenter" title="Always Xkcd" src="http://imgs.xkcd.com/comics/password_reuse.png" alt="" width="346" height="856" /></a></p>
+<p style="text-align:center;"><a href="https://xkcd.com/792/"><img class="aligncenter" title="Always Xkcd" src="https://imgs.xkcd.com/comics/password_reuse.png" alt="" width="346" height="856" /></a></p>

@@ -10,7 +10,7 @@ meta:
   geo_public: "1"
   geo_address: 425 P St NW, Washington, DC 20001, USA
   geo_longitude: "-77.018000"
-  _wpas_mess: "American guest: http://wp.me/pzp88-wS"
+  _wpas_mess: "American guest: https://wp.me/pzp88-wS"
   geo_latitude: "38.910000"
   jabber_published: "1318536055"
   _edit_last: "4180497"

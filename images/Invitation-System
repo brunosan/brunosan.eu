@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 <html>
-  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
+  <head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# githubog: https://ogp.me/ns/fb/githubog#">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>brunosan/Invitation-System · GitHub</title>
@@ -83,7 +83,7 @@
 
       
 
-            <div class="site hfeed" itemscope itemtype="http://schema.org/WebPage">
+            <div class="site hfeed" itemscope itemtype="https://schema.org/WebPage">
       <div class="container hentry">
         <div class="pagehead repohead instapaper_ignore readability-menu">
         <div class="title-actions-bar">
@@ -105,7 +105,7 @@
 
     </ul>
 
-          <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
+          <h1 itemscope itemtype="https://data-vocabulary.org/Breadcrumb" class="entry-title public">
             <span class="repo-label"><span>public</span></span>
             <span class="mega-icon mega-icon-public-repo"></span>
             <span class="author vcard">
@@ -326,7 +326,7 @@
 
   <div id="slider">
       <div class="breadcrumb" data-path="/">
-        <b itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/brunosan/Invitation-System/tree/c4fc6ea6892a0ed7b740efc1b1120aa7f1c16fa2" class="js-rewrite-sha" itemprop="url"><span itemprop="title">Invitation-System</span></a></b> / 
+        <b itemscope="" itemtype="https://data-vocabulary.org/Breadcrumb"><a href="/brunosan/Invitation-System/tree/c4fc6ea6892a0ed7b740efc1b1120aa7f1c16fa2" class="js-rewrite-sha" itemprop="url"><span itemprop="title">Invitation-System</span></a></b> / 
       </div>
 
         
@@ -424,7 +424,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.</p>
 
 <p>You should have received a copy of the GNU General Public License
-along with this program.  If not, see <a href="http://www.gnu.org/licenses/">http://www.gnu.org/licenses/</a>.</p></article></div>
+along with this program.  If not, see <a href="https://www.gnu.org/licenses/">https://www.gnu.org/licenses/</a>.</p></article></div>
     </div>
   </div>
   <br style="clear:both;">
@@ -462,33 +462,33 @@ along with this program.  If not, see <a href="http://www.gnu.org/licenses/">htt
          <li><a href="https://github.com/features">Features</a></li>
          <li><a href="https://github.com/contact">Contact &amp; Support</a></li>
          <li><a href="https://github.com/training">Training</a></li>
-         <li><a href="http://enterprise.github.com/">GitHub Enterprise</a></li>
-         <li><a href="http://status.github.com/">Site Status</a></li>
+         <li><a href="https://enterprise.github.com/">GitHub Enterprise</a></li>
+         <li><a href="https://status.github.com/">Site Status</a></li>
        </ul>
 
        <ul class="footer_nav">
          <h4>Tools</h4>
-         <li><a href="http://get.gaug.es/">Gauges: Analyze web traffic</a></li>
-         <li><a href="http://speakerdeck.com">Speaker Deck: Presentations</a></li>
+         <li><a href="https://get.gaug.es/">Gauges: Analyze web traffic</a></li>
+         <li><a href="https://speakerdeck.com">Speaker Deck: Presentations</a></li>
          <li><a href="https://gist.github.com">Gist: Code snippets</a></li>
-         <li><a href="http://mac.github.com/">GitHub for Mac</a></li>
-         <li><a href="http://windows.github.com/">GitHub for Windows</a></li>
-         <li><a href="http://mobile.github.com/">Issues for iPhone</a></li>
-         <li><a href="http://jobs.github.com/">Job Board</a></li>
+         <li><a href="https://mac.github.com/">GitHub for Mac</a></li>
+         <li><a href="https://windows.github.com/">GitHub for Windows</a></li>
+         <li><a href="https://mobile.github.com/">Issues for iPhone</a></li>
+         <li><a href="https://jobs.github.com/">Job Board</a></li>
        </ul>
 
        <ul class="footer_nav">
          <h4>Extras</h4>
-         <li><a href="http://shop.github.com/">GitHub Shop</a></li>
-         <li><a href="http://octodex.github.com/">The Octodex</a></li>
+         <li><a href="https://shop.github.com/">GitHub Shop</a></li>
+         <li><a href="https://octodex.github.com/">The Octodex</a></li>
        </ul>
 
        <ul class="footer_nav">
          <h4>Documentation</h4>
-         <li><a href="http://help.github.com/">GitHub Help</a></li>
-         <li><a href="http://developer.github.com/">Developer API</a></li>
-         <li><a href="http://github.github.com/github-flavored-markdown/">GitHub Flavored Markdown</a></li>
-         <li><a href="http://pages.github.com/">GitHub Pages</a></li>
+         <li><a href="https://help.github.com/">GitHub Help</a></li>
+         <li><a href="https://developer.github.com/">Developer API</a></li>
+         <li><a href="https://github.github.com/github-flavored-markdown/">GitHub Flavored Markdown</a></li>
+         <li><a href="https://pages.github.com/">GitHub Pages</a></li>
        </ul>
 
      </div><!-- /.site -->
@@ -508,11 +508,11 @@ along with this program.  If not, see <a href="http://www.gnu.org/licenses/">htt
     </div><!-- /#legal or /#legal_ie-->
 
       <div class="sponsor">
-        <a href="http://www.rackspace.com" class="logo">
+        <a href="https://www.rackspace.com" class="logo">
           <img alt="Dedicated Server" height="36" src="https://a248.e.akamai.net/assets.github.com/images/modules/footer/rackspaces_logo.png?1329521041" width="38" />
         </a>
-        Powered by the <a href="http://www.rackspace.com ">Dedicated
-        Servers</a> and<br/> <a href="http://www.rackspacecloud.com">Cloud
+        Powered by the <a href="https://www.rackspace.com ">Dedicated
+        Servers</a> and<br/> <a href="https://www.rackspacecloud.com">Cloud
         Computing</a> of Rackspace Hosting<span>&reg;</span>
       </div>
   </div><!-- /.site -->
@@ -803,8 +803,8 @@ Format: ![Alt Text](url)
 </pre>
      <p>Links</p>
      <pre>
-http://github.com - automatic!
-[GitHub](http://github.com)</pre>
+https://github.com - automatic!
+[GitHub](https://github.com)</pre>
 <p>Blockquotes</p>
      <pre>
 As Kanye West said:
@@ -818,7 +818,7 @@ As Kanye West said:
 
   <h3>Code Examples in Markdown</h3>
   <div class="col">
-      <p>Syntax highlighting with <a href="http://github.github.com/github-flavored-markdown/" title="GitHub Flavored Markdown" target="_blank">GFM</a></p>
+      <p>Syntax highlighting with <a href="https://github.github.com/github-flavored-markdown/" title="GitHub Flavored Markdown" target="_blank">GFM</a></p>
       <pre>
 ```javascript
 function fancyAlert(arg) {
@@ -861,13 +861,13 @@ I think you should use an
       <ul>
         <li>
           <h4>GitHub Logo</h4>
-          <a href="http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip"><img alt="Github_logo" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/github_logo.png?1306884374" /></a>
-          <a href="http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip" class="minibutton btn-download download">Download</a>
+          <a href="https://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip"><img alt="Github_logo" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/github_logo.png?1306884374" /></a>
+          <a href="https://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip" class="minibutton btn-download download">Download</a>
         </li>
         <li>
           <h4>The Octocat</h4>
-          <a href="http://github-media-downloads.s3.amazonaws.com/Octocats.zip"><img alt="Octocat" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/octocat.png?1306884374" /></a>
-          <a href="http://github-media-downloads.s3.amazonaws.com/Octocats.zip" class="minibutton btn-download download">Download</a>
+          <a href="https://github-media-downloads.s3.amazonaws.com/Octocats.zip"><img alt="Octocat" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/octocat.png?1306884374" /></a>
+          <a href="https://github-media-downloads.s3.amazonaws.com/Octocats.zip" class="minibutton btn-download download">Download</a>
         </li>
       </ul>
     </div>

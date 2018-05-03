@@ -177,17 +177,17 @@ div.blurb div.title
 .sBox .sBoxBL,
 .sBox .sBoxBR
 {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBox1._V156426185_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBox1._V156426185_.png);
     background-repeat: no-repeat;
 }
 .sBox .sBoxL
 {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBoxL._V156426179_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBoxL._V156426179_.png);
     background-position: top left;
 }
 .sBox .sBoxR
 {    
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBoxR._V156426200_.png);      
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/categoryWidget/sBoxR._V156426200_.png);      
     background-position: top right;    
 }
 --></style>
@@ -214,7 +214,7 @@ var amznJQ,jQueryPatchIPadOffset=false;
 </script>
 <style type="text/css">
 .srSprite {
-    background: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/searchSprite._V143778884_.gif);
+    background: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/searchSprite._V143778884_.gif);
 }
 
 
@@ -526,7 +526,7 @@ div.list ul.tcBrowseNodes li {
 
 .toe .primeBadgeSprite,
 .tp .primeBadgeSprite {
-    background: transparent url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/searchSprite._V143778884_.gif) no-repeat scroll 0 0;
+    background: transparent url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/searchSprite._V143778884_.gif) no-repeat scroll 0 0;
     background-position: -100px -270px;
     height: 11px;
     width: 40px;
@@ -535,7 +535,7 @@ div.list ul.tcBrowseNodes li {
 
 
 .loadingSpinner {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/loading-large._V192184511_.gif);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/loading-large._V192184511_.gif);
     background-repeat: no-repeat;
     top: 50px;
     position: relative;
@@ -550,7 +550,7 @@ html, body {
 }
 
 #backlinkMsgBox span.icon {
-  background-image: url("http://g-ecx.images-amazon.com/images/G/01/x-locale/common/errors-alerts/error-sprite._V192240803_.gif");
+  background-image: url("https://g-ecx.images-amazon.com/images/G/01/x-locale/common/errors-alerts/error-sprite._V192240803_.gif");
 }
 
 
@@ -606,7 +606,7 @@ html, body {
 
 
 
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/US-combined-3926343938._V146284167_.css" />
+<link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/US-combined-3926343938._V146284167_.css" />
 
 
 
@@ -852,7 +852,7 @@ margin: 0;
 .amazonLikeBeak {
     overflow: hidden;
     display: inline-block;
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/amznlike/amznlike_sprite_02._V196113939_.gif');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/amznlike/amznlike_sprite_02._V196113939_.gif');
     background-repeat: repeat;
     background-attachment: scroll;
     background-position: -150px 0pt;
@@ -897,7 +897,7 @@ margin: 0;
     display: inline-block;
     position: relative;
     vertical-align: middle;
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/amznlike/amznlike_sprite_02._V196113939_.gif');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/amznlike/amznlike_sprite_02._V196113939_.gif');
     background-repeat: no-repeat;
     background-color: #fff;
 }
@@ -975,15 +975,15 @@ margin: 0;
 
 
 #epRelatedProducts.shoveler ul li.shoveler-progress {
-  background-image: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/loading-indicator._V192185253_.gif');
+  background-image: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/loading-indicator._V192185253_.gif');
 }
 
 #epRelatedProducts.shoveler div.prev-button {
-  background-image: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-arrow-semi-rd._V192185131_.gif');
+  background-image: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-arrow-semi-rd._V192185131_.gif');
 }
 
 #epRelatedProducts.shoveler div.next-button {
-  background-image: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/right-arrow-semi-rd._V192185269_.gif');
+  background-image: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/right-arrow-semi-rd._V192185269_.gif');
 }
 </style>
 
@@ -1002,17 +1002,17 @@ margin: 0;
 
    
 
-       <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-bio.min._V177889461_.css"/>
+       <link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-bio.min._V177889461_.css"/>
 
-       <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-concerts.min._V137017833_.css"/>
+       <link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-concerts.min._V137017833_.css"/>
 
-       <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-gallery.min._V174715914_.css"/>
+       <link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-gallery.min._V174715914_.css"/>
 
-       <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-teaser.min._V210971600_.css"/>
+       <link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-teaser.min._V210971600_.css"/>
 
-       <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-track-player.min._V174703508_.css"/>
+       <link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-track-player.min._V174703508_.css"/>
 
-       <link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-twitter.min._V210971603_.css"/>
+       <link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/rebus/styles/artist-central-twitter.min._V210971603_.css"/>
 </td></tr><tr><td valign="top" width="100%">
       
 
@@ -1043,8 +1043,8 @@ margin: 0;
 <title>Amazon.com: Harvey A. Averch: Books, Biography, Blog, Audiobooks, Kindle</title>
 <meta name="description" content="Visit Amazon.com's Harvey A. Averch Page and shop for all Harvey A. Averch books and other Harvey A. Averch related products (DVD, CDs, Apparel).  Check out pictures, bibliography, biography and community discussions about Harvey A. Averch" />
 
-<link rel="canonical" href="http://www.amazon.com/Harvey-A.-Averch/e/B001HPM06E" />
-<link rel="image" href="http://g-ecx.images-amazon.com/images/G/01/facebook/entity/FB_author_lozenge._V214708618_.jpg" />
+<link rel="canonical" href="https://www.amazon.com/Harvey-A.-Averch/e/B001HPM06E" />
+<link rel="image" href="https://g-ecx.images-amazon.com/images/G/01/facebook/entity/FB_author_lozenge._V214708618_.jpg" />
 
   
 
@@ -1104,7 +1104,7 @@ a.PrmryBtnLrg,       a.PrmryBtnLrg span,
     a.ScndryBtnSmlLarw,  a.ScndryBtnSmlLarw span,
     a.ScndryBtnSmlLarw2, a.ScndryBtnSmlLarw2 span,
     a.ScndryBtnGo,       a.ScndryBtnGo span {
-        background-image: url('http://g-ecx.images-amazon.com/images/G/01/author-central/buttons._V243643239_.gif')
+        background-image: url('https://g-ecx.images-amazon.com/images/G/01/author-central/buttons._V243643239_.gif')
     }
 
 </style>
@@ -1119,7 +1119,7 @@ a.PrmryBtnLrg,       a.PrmryBtnLrg span,
 
 <style type="text/css">
 
-/* copied from http://tiny/9ny8wp8a/p4dbamazsourp4dbbrazfile */
+/* copied from https://tiny/9ny8wp8a/p4dbamazsourp4dbbrazfile */
 div.atAuthorSubTitle {
     font-size: 10px;
     padding-top: 2px;
@@ -1229,7 +1229,7 @@ img.atAuthorAskQuestionButton {
   max-width: none;
 }
         
-/* --- ENTITY RELATED PRODUCTS: copied from http://tiny/1gca9dpbx/p4dbamazsourp4dbbrazfile ---  */
+/* --- ENTITY RELATED PRODUCTS: copied from https://tiny/1gca9dpbx/p4dbamazsourp4dbbrazfile ---  */
 
 .shoveler ul {
         height: 210px !important;
@@ -1284,7 +1284,7 @@ table.epWorkCustomerReview td {
     padding: 0 10px;
 }
 
-/* ----- Legacy Content Below: copied from http://tiny/14l2xzqpc/p4dbamazsourp4dbbrazfile ----- */
+/* ----- Legacy Content Below: copied from https://tiny/14l2xzqpc/p4dbamazsourp4dbbrazfile ----- */
 
 .attention {
     background-color: #FFFFD5;
@@ -1427,7 +1427,7 @@ img.icon {
 <script type="text/javascript">
 amznJQ.available('author-page', function() {});
 
-// Copied from http://tiny/q71qtxyy/p4dbamazsourp4dbwebsfile
+// Copied from https://tiny/q71qtxyy/p4dbamazsourp4dbwebsfile
 var Messages;
 
 amznJQ.available('jQuery', function() { (function(jQuery) {
@@ -1954,7 +1954,7 @@ amznJQ.available('popover', function() { (function($) {
             var signInPath = "/gp/like/sign-in/sign-in.html/ref=" + signInRefTag +
                              "?location=" + escape(postSignInRedirectPath) +
                              "&useRedirectOnSuccess=1" +
-                             "&redirectProtocol=" + (window.location.protocol == "http:" ? 'http' : 'https');
+                             "&redirectProtocol=" + (window.location.protocol == "https:" ? 'http' : 'https');
             window.location.href = baseAmznURL + signInPath;
         };
 
@@ -2237,7 +2237,7 @@ amznJQ.available("JQuery", function(){
       href += "&childASIN=" + selectedASIN;
     }
     // Set parent ASIN if available.
-    // Read http://w.amazon.com/index.php/Traffic/SocialMedia/TAF/TwisterSupport on why this is done.
+    // Read https://w.amazon.com/index.php/Traffic/SocialMedia/TAF/TwisterSupport on why this is done.
     if(parentASIN){
       if(href.indexOf("parentASIN") >= 0 ){
         href = href.replace(/parentASIN=[^\&]*/g, "parentASIN=" + parentASIN);
@@ -3145,7 +3145,7 @@ amznJQ.declareAvailable('share-with-friends-js-new');
 }
 
 .tafCaptchaAlert {
-    background-image:url("http://g-ecx.images-amazon.com/images/G/01/x-locale/traffic/s9m/alert-small._V195630253_.gif");
+    background-image:url("https://g-ecx.images-amazon.com/images/G/01/x-locale/traffic/s9m/alert-small._V195630253_.gif");
     -moz-background-clip:border;
     -moz-background-origin:padding;
     -moz-background-size:auto auto;
@@ -3177,7 +3177,7 @@ amznJQ.declareAvailable('share-with-friends-js-new');
   vertical-align:middle;
 }
 .tafSwfPoTopArrow{
-  background:transparent url(http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/amznlike/donsbeak-sm-up._V197474569_.png) no-repeat 0 0;
+  background:transparent url(https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/amznlike/donsbeak-sm-up._V197474569_.png) no-repeat 0 0;
   width:10px;
   height:12px;
   display:inline-block;
@@ -3666,9 +3666,9 @@ a.PrmryBtnMed input {
 </td></tr></table>
 
 
-<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-5992453697._V144105033_.css' rel='stylesheet'>
-<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/search-css/search-css-3629245167._V144389854_.css' rel='stylesheet'>
-<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/hybrid-author-css/hybrid-author-css-3734534710._V134984605_.css' rel='stylesheet'></head>
+<link type='text/css' href='https://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-5992453697._V144105033_.css' rel='stylesheet'>
+<link type='text/css' href='https://z-ecx.images-amazon.com/images/G/01/browser-scripts/search-css/search-css-3629245167._V144389854_.css' rel='stylesheet'>
+<link type='text/css' href='https://z-ecx.images-amazon.com/images/G/01/browser-scripts/hybrid-author-css/hybrid-author-css-3734534710._V134984605_.css' rel='stylesheet'></head>
     <body>
         <script type="text/javascript">
    function addCSSRule(selector, rule) {
@@ -3706,22 +3706,22 @@ a.PrmryBtnMed input {
  
 
 .nav-sprite {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png);
 }
 .nav_pop_h {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png);
 }
 .nav_pop_v {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png);
 }
 .nav_ie6 .nav_pop_h {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png);
 }
 .nav_ie6 .nav_pop_v {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png);
 }
 .nav-ajax-loading .nav-ajax-message {
-  background: center center url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif) no-repeat;
+  background: center center url(https://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif) no-repeat;
 }
 
 
@@ -3731,7 +3731,7 @@ a.PrmryBtnMed input {
 
 
 <script type="text/javascript"><!--
-  window._navbarSpriteUrl = "http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png";
+  window._navbarSpriteUrl = "https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png";
 
 
 
@@ -3740,13 +3740,13 @@ a.PrmryBtnMed input {
     amznJQ.available('navbarBTF', function() {
       var ie6 = jQuery.browser.msie && parseInt(jQuery.browser.version) <= 6,
           h = new Image(), v = new Image();
-      h.src = (ie6 ? 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png' : 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png');
-      v.src = (ie6 ? 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png' : 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png');
+      h.src = (ie6 ? 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png' : 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png');
+      v.src = (ie6 ? 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png' : 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png');
       window._navpreload = {'sprite_h':h, 'sprite_v':v};
 
       _navpreload._menuCallback = function() {
         _navpreload.spin = new Image();
-        _navpreload.spin.src = 'http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif';
+        _navpreload.spin.src = 'https://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif';
       };
     });
   });
@@ -3754,8 +3754,8 @@ a.PrmryBtnMed input {
 
 --></script>
 
-<img src="http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png" style="display:none" alt=""/>
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" style="display:none" alt="" id="nav_trans_pixel"/>
+<img src="https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png" style="display:none" alt=""/>
+<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" style="display:none" alt="" id="nav_trans_pixel"/>
 
 
 <div id="container">
@@ -4173,11 +4173,11 @@ _navbar.abbrDropdown = false;
     </div>
     
     <script type="text/javascript">
-      var leftBorderImage = 'http://g-ecx.images-amazon.com/images/G/01/gno/popover-border-l._V192570416_.gif';
-      var transBackgroundTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" alt="" height="1" border="0" />';
-      var rightBorderImage = 'http://g-ecx.images-amazon.com/images/G/01/gno/popover-border-r._V192570416_.gif';
-      var ctlBorderTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/gno/popover-border-ctl._V192570422_.gif" width="7" alt="" height="7" border="0" />';
-      var rightBorderTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/gno/popover-border-r._V192570416_.gif" width="7" alt="" height="7" border="0" />';
+      var leftBorderImage = 'https://g-ecx.images-amazon.com/images/G/01/gno/popover-border-l._V192570416_.gif';
+      var transBackgroundTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" alt="" height="1" border="0" />';
+      var rightBorderImage = 'https://g-ecx.images-amazon.com/images/G/01/gno/popover-border-r._V192570416_.gif';
+      var ctlBorderTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/gno/popover-border-ctl._V192570422_.gif" width="7" alt="" height="7" border="0" />';
+      var rightBorderTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/gno/popover-border-r._V192570416_.gif" width="7" alt="" height="7" border="0" />';
     
       amznJQ.available('jQuery', function() {
         amznJQ.onReady('search-js-general', function() {
@@ -4189,12 +4189,12 @@ _navbar.abbrDropdown = false;
                                             <div id="mainResults" class="list results twister">
 <div id="result_0" class="result firstRow product" name="0761824219">
     <div class="image">
-        <a href="http://www.amazon.com/The-Rhetoric-War-Language-Argument/dp/0761824219"><img  src="http://ecx.images-amazon.com/images/I/417wEZIdoXL._AA160_.jpg" class="productImage" alt="Product Details"/> </a></div>
+        <a href="https://www.amazon.com/The-Rhetoric-War-Language-Argument/dp/0761824219"><img  src="https://ecx.images-amazon.com/images/I/417wEZIdoXL._AA160_.jpg" class="productImage" alt="Product Details"/> </a></div>
 <div class="data">
     <h3 class="title"  
 >
     
-    <a class="title" href="http://www.amazon.com/The-Rhetoric-War-Language-Argument/dp/0761824219">The Rhetoric of War: Language, Argument, and Policy During the Vietnam War</a> <span class="ptBrand">by Harvey A. Averch</span>
+    <a class="title" href="https://www.amazon.com/The-Rhetoric-War-Language-Argument/dp/0761824219">The Rhetoric of War: Language, Argument, and Policy During the Vietnam War</a> <span class="ptBrand">by Harvey A. Averch</span>
  <span class="bindingAndRelease">(Oct 2, 2002)</span>
         </h3><div class="tp">
 <table cellspacing="0" cellpadding="0">
@@ -4208,7 +4208,7 @@ _navbar.abbrDropdown = false;
         </tr>
     <tr>
             <td class="tpType">
-    <a href="http://www.amazon.com/The-Rhetoric-War-Language-Argument/dp/0761824219"><span class="toeLinkText">Paperback</span>
+    <a href="https://www.amazon.com/The-Rhetoric-War-Language-Argument/dp/0761824219"><span class="toeLinkText">Paperback</span>
         <span class="toeFastTrack">
             Usually ships in 1 to 3 weeks</span>
         </a>
@@ -4219,15 +4219,15 @@ _navbar.abbrDropdown = false;
 <td class="toeListPrice">
                     &nbsp;</td>
                 <td class="toeOurPrice">
-                    <a href="http://www.amazon.com/The-Rhetoric-War-Language-Argument/dp/0761824219">$51.50</a>
+                    <a href="https://www.amazon.com/The-Rhetoric-War-Language-Argument/dp/0761824219">$51.50</a>
                         </td>
                 <td class="">
                     &nbsp;</td>
                 <td class="toeNewPrice">
-	                    <a href="http://www.amazon.com/gp/offer-listing/0761824219">$42.11</a>
+	                    <a href="https://www.amazon.com/gp/offer-listing/0761824219">$42.11</a>
 	                        </td>
 	                <td class="toeUsedPrice">
-	                    <a href="http://www.amazon.com/gp/offer-listing/0761824219">$3.79</a>
+	                    <a href="https://www.amazon.com/gp/offer-listing/0761824219">$3.79</a>
 	                        </td>
                 </tr>
     </table>
@@ -4237,12 +4237,12 @@ _navbar.abbrDropdown = false;
 <div class="unfloat"></div>
 <div id="result_1" class="result product" name="0691075417">
     <div class="image">
-        <a href="http://www.amazon.com/Matrix-Policy-Philippines-Corporation-Research/dp/0691075417"><img  src="http://g-ecx.images-amazon.com/images/G/01/x-site/icons/no-img-sm._AA75_.gif" class="placeholder" alt="Product Details"/> </a></div>
+        <a href="https://www.amazon.com/Matrix-Policy-Philippines-Corporation-Research/dp/0691075417"><img  src="https://g-ecx.images-amazon.com/images/G/01/x-site/icons/no-img-sm._AA75_.gif" class="placeholder" alt="Product Details"/> </a></div>
 <div class="data">
     <h3 class="title"  
 >
     
-    <a class="title" href="http://www.amazon.com/Matrix-Policy-Philippines-Corporation-Research/dp/0691075417">Matrix of Policy in the Philippines (Rand Corporation Research Study Series)</a> <span class="ptBrand">by Koehler Averch</span>
+    <a class="title" href="https://www.amazon.com/Matrix-Policy-Philippines-Corporation-Research/dp/0691075417">Matrix of Policy in the Philippines (Rand Corporation Research Study Series)</a> <span class="ptBrand">by Koehler Averch</span>
  <span class="bindingAndRelease">(Nov 1972)</span>
         </h3><div class="tp">
 <table cellspacing="0" cellpadding="0">
@@ -4256,7 +4256,7 @@ _navbar.abbrDropdown = false;
         </tr>
     <tr>
             <td class="tpType">
-    <a href="http://www.amazon.com/Matrix-Policy-Philippines-Corporation-Research/dp/0691075417"><span class="toeLinkText">Hardcover</span>
+    <a href="https://www.amazon.com/Matrix-Policy-Philippines-Corporation-Research/dp/0691075417"><span class="toeLinkText">Hardcover</span>
         <span class="toeFastTrack">
             </span>
         </a>
@@ -4270,7 +4270,7 @@ _navbar.abbrDropdown = false;
                 <td class="toeNewPrice">
 	                    &nbsp;</td>
 	                <td class="toeUsedPrice">
-	                    <a href="http://www.amazon.com/gp/offer-listing/0691075417">$0.01</a>
+	                    <a href="https://www.amazon.com/gp/offer-listing/0691075417">$0.01</a>
 	                        </td>
                 </tr>
     </table>
@@ -4280,12 +4280,12 @@ _navbar.abbrDropdown = false;
 <div class="unfloat"></div>
 <div id="result_2" class="result product" name="082293647X">
     <div class="image">
-        <a href="http://www.amazon.com/Private-Markets-Public-Intervention-Institutional/dp/082293647X"><img  src="http://g-ecx.images-amazon.com/images/G/01/x-site/icons/no-img-sm._AA75_.gif" class="placeholder" alt="Product Details"/> </a></div>
+        <a href="https://www.amazon.com/Private-Markets-Public-Intervention-Institutional/dp/082293647X"><img  src="https://g-ecx.images-amazon.com/images/G/01/x-site/icons/no-img-sm._AA75_.gif" class="placeholder" alt="Product Details"/> </a></div>
 <div class="data">
     <h3 class="title"  
 >
     
-    <a class="title" href="http://www.amazon.com/Private-Markets-Public-Intervention-Institutional/dp/082293647X">Private Markets and Public Intervention: A Primer for Policy Designers (Pitt Series in Policy and Institutional Studies)</a> <span class="ptBrand">by Harvey A. Averch</span>
+    <a class="title" href="https://www.amazon.com/Private-Markets-Public-Intervention-Institutional/dp/082293647X">Private Markets and Public Intervention: A Primer for Policy Designers (Pitt Series in Policy and Institutional Studies)</a> <span class="ptBrand">by Harvey A. Averch</span>
  <span class="bindingAndRelease">(Dec 1990)</span>
         </h3><div class="tp">
 <table cellspacing="0" cellpadding="0">
@@ -4299,7 +4299,7 @@ _navbar.abbrDropdown = false;
         </tr>
     <tr>
             <td class="tpType">
-    <a href="http://www.amazon.com/Private-Markets-Public-Intervention-Institutional/dp/082293647X"><span class="toeLinkText">Hardcover</span>
+    <a href="https://www.amazon.com/Private-Markets-Public-Intervention-Institutional/dp/082293647X"><span class="toeLinkText">Hardcover</span>
         <span class="toeFastTrack">
             </span>
         </a>
@@ -4313,12 +4313,12 @@ _navbar.abbrDropdown = false;
                 <td class="toeNewPrice">
 	                    &nbsp;</td>
 	                <td class="toeUsedPrice">
-	                    <a href="http://www.amazon.com/gp/offer-listing/082293647X">$22.33</a>
+	                    <a href="https://www.amazon.com/gp/offer-listing/082293647X">$22.33</a>
 	                        </td>
                 </tr>
     <tr>
             <td class="tpType">
-    <a href="http://www.amazon.com/Private-Markets-Public-Intervention-Institutional/dp/0822954370"><span class="toeLinkText">Paperback</span>
+    <a href="https://www.amazon.com/Private-Markets-Public-Intervention-Institutional/dp/0822954370"><span class="toeLinkText">Paperback</span>
         <span class="toeFastTrack">
             </span>
         </a>
@@ -4330,10 +4330,10 @@ _navbar.abbrDropdown = false;
                 <td class="">
                     &nbsp;</td>
                 <td class="toeNewPrice">
-	                    <a href="http://www.amazon.com/gp/offer-listing/0822954370">$9.29</a>
+	                    <a href="https://www.amazon.com/gp/offer-listing/0822954370">$9.29</a>
 	                        </td>
 	                <td class="toeUsedPrice">
-	                    <a href="http://www.amazon.com/gp/offer-listing/0822954370">$0.01</a>
+	                    <a href="https://www.amazon.com/gp/offer-listing/0822954370">$0.01</a>
 	                        </td>
                 </tr>
     </table>
@@ -4343,12 +4343,12 @@ _navbar.abbrDropdown = false;
 <div class="unfloat"></div>
 <div id="result_3" class="result lastRow product" name="0801824672">
     <div class="image">
-        <a href="http://www.amazon.com/Strategic-Analysis-Science-Technology-Policy/dp/0801824672"><img  src="http://g-ecx.images-amazon.com/images/G/01/x-site/icons/no-img-sm._AA75_.gif" class="placeholder" alt="Product Details"/> </a></div>
+        <a href="https://www.amazon.com/Strategic-Analysis-Science-Technology-Policy/dp/0801824672"><img  src="https://g-ecx.images-amazon.com/images/G/01/x-site/icons/no-img-sm._AA75_.gif" class="placeholder" alt="Product Details"/> </a></div>
 <div class="data">
     <h3 class="title"  
 >
     
-    <a class="title" href="http://www.amazon.com/Strategic-Analysis-Science-Technology-Policy/dp/0801824672">A Strategic Analysis of Science and Technology Policy</a> <span class="ptBrand">by Harvey A. Averch</span>
+    <a class="title" href="https://www.amazon.com/Strategic-Analysis-Science-Technology-Policy/dp/0801824672">A Strategic Analysis of Science and Technology Policy</a> <span class="ptBrand">by Harvey A. Averch</span>
  <span class="bindingAndRelease">(Dec 1, 1984)</span>
         </h3><div class="tp">
 <table cellspacing="0" cellpadding="0">
@@ -4362,7 +4362,7 @@ _navbar.abbrDropdown = false;
         </tr>
     <tr>
             <td class="tpType">
-    <a href="http://www.amazon.com/Strategic-Analysis-Science-Technology-Policy/dp/0801824672"><span class="toeLinkText">Hardcover</span>
+    <a href="https://www.amazon.com/Strategic-Analysis-Science-Technology-Policy/dp/0801824672"><span class="toeLinkText">Hardcover</span>
         <span class="toeFastTrack">
             </span>
         </a>
@@ -4376,7 +4376,7 @@ _navbar.abbrDropdown = false;
                 <td class="toeNewPrice">
 	                    &nbsp;</td>
 	                <td class="toeUsedPrice">
-	                    <a href="http://www.amazon.com/gp/offer-listing/0801824672">$0.39</a>
+	                    <a href="https://www.amazon.com/gp/offer-listing/0801824672">$0.39</a>
 	                        </td>
                 </tr>
     </table>
@@ -4591,8 +4591,8 @@ amznJQ.onReady('popover', function() {
     (function($) {
         enablePopoverLogging();
         var moreOptionsTimeoutText = 'Click to see more options';
-        var loadingBarImg = '<img src="http://g-ecx.images-amazon.com/images/G/01/twister/images/narrowtimer_transparent._V192195438_.gif" width="195" height="16" border="0" />';
-        var loadingBarImgSmall = '<img src="http://g-ecx.images-amazon.com/images/G/01/twister/images/loading-small._V192194710_.gif" width="14" height="14" border="0" />';
+        var loadingBarImg = '<img src="https://g-ecx.images-amazon.com/images/G/01/twister/images/narrowtimer_transparent._V192195438_.gif" width="195" height="16" border="0" />';
+        var loadingBarImgSmall = '<img src="https://g-ecx.images-amazon.com/images/G/01/twister/images/loading-small._V192194710_.gif" width="14" height="14" border="0" />';
         var seeFullProductDetailsText = 'See full product details';
         
         var getAjaxURL = function(trigger, srParam) {
@@ -5123,7 +5123,7 @@ function RefreshOriginalWindow(url) {
   border: 1px solid #5c9ebf;
   padding:3px;
   height:21px;
-  background: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/tile-blue-bg._V46870869_.gif)
+  background: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/tile-blue-bg._V46870869_.gif)
   background-repeat: repeat-x;
   background-color: #b7d7e6;
 }
@@ -5138,28 +5138,28 @@ function RefreshOriginalWindow(url) {
 }
 
 .tigerTL {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-tl._V192184760_.gif);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-tl._V192184760_.gif);
 }
 .tigerTC {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-tm._V192184721_.gif);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-tm._V192184721_.gif);
   background-repeat: repeat-x;
   padding-top: 10px;
 }
 .tigerTR {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-tr._V192184429_.gif);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-tr._V192184429_.gif);
   font-size: 4px;
 } 
 .tigerBL {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-bl._V192184824_.gif);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-bl._V192184824_.gif);
   font-size: 4px;
 }
 .tigerBC {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-bm._V192184603_.gif);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-bm._V192184603_.gif);
   background-repeat: repeat-x;
   font-size: 4px;
 } 
 .tigerBR {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-br._V192545463_.gif);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/box-gray-br._V192545463_.gif);
   font-size: 4px;
 }
 .tigerTL td, .tigerTC td, .tigerTR td, .tigerBL td, .tigerBC td, .tigerBR td {
@@ -5170,25 +5170,25 @@ function RefreshOriginalWindow(url) {
 
 /* START ADDED FROM DETAIL PAGE */
   table.secondaryBox td.topLeft {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/dp/box-line-tl2._V192545542_.gif);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/dp/box-line-tl2._V192545542_.gif);
     background-repeat: no-repeat;
     padding-top: 6px;
     padding-left: 12px; 
   }
 
   table.secondaryBox td.topRight {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/dp/box-line-tr2._V192545537_.gif);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/dp/box-line-tr2._V192545537_.gif);
     background-repeat: no-repeat;
   }
   
   table.secondaryBox td.bottomLeft {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/dp/box-line-bl._V192545543_.gif);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/dp/box-line-bl._V192545543_.gif);
     background-repeat: no-repeat;
     font-size: 4px;
   }
   
   table.secondaryBox td.bottomRight {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/nav2/dp/box-line-br._V192545543_.gif);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/nav2/dp/box-line-br._V192545543_.gif);
     background-repeat: no-repeat;
     font-size: 4px;
   }
@@ -5380,7 +5380,7 @@ function RefreshOriginalWindow(url) {
   margin: 0;
 } 
 .cmPage .cdStartDiscussionPostBox .cdPostBoxBucket {
-  background: #cbddf5 url(<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/gradient-postbox-bottom._V192250347_.gif" width="1" height="343" border="0" />) repeat-x center;
+  background: #cbddf5 url(<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/gradient-postbox-bottom._V192250347_.gif" width="1" height="343" border="0" />) repeat-x center;
   border-bottom: 1px solid #a1bed3;
   text-align: center;
   padding: 0.5em 0;
@@ -5613,7 +5613,7 @@ function RefreshOriginalWindow(url) {
 
 <script>
 var asinpop_SEARCH_COLUMN_WIDTH     = 390;
-var imageServerPath                 = "http://g-ecx.images-amazon.com/images/G/01";
+var imageServerPath                 = "https://g-ecx.images-amazon.com/images/G/01";
 var showWysiTabs                    = "0";
 var asinpop_COMMENT_TEXTAREA_WIDTH  =  360;
 var asinpop_COMMENT_TEXTAREA_HEIGHT =  250;
@@ -5628,15 +5628,15 @@ var asinpopTitleStyleName           = 'Test ASIN popover';
 var commentPrompt                   = "";
 </script>
 <script>
- var buttonInsertTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/button-insert-14._V192249863_.gif" width="41" vspace="5" align="right" alt="Insert" name="Insert" height="14" border="0" />';
-  var buttonEditOnTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/btn_edit_off._V192249870_.gif" width="36" alt="Done Editing" name="EditOff" height="13" border="0" />';
-  var searchBarTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/nav2/images/loading-bar._V192184901_.gif" width="114" alt="Search" name="SearchBar" height="9" border="0" />';
-  var buttonAddAnotherTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/add-another._V192249911_.gif" width="88" alt="Add Another" name="AddAnother" height="20" border="0" />';
-  var buttonDoneTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/btn_done._V192249871_.gif" width="29" vspace="5" align="right" alt="Done" name="Done" height="13" border="0" />';
-  var buttonSaveTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/button-save._V192249884_.gif" width="45" alt="Save" name="Save" height="20" border="0" />';
-  var buttonEditOffTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/btn_edit_on._V192249864_.gif" width="36" alt="Edit" name="EditOn" height="13" border="0" />';
-  var buttonCancelTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/button-cancel-14._V192249861_.gif" width="45" vspace="5" align="right" alt="Cancel" name="Cancel" height="14" border="0" />';
-  var buttonDoneLargeTag = '<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/done._V192249879_.gif" width="48" vspace="5" align="right" alt="Done" name="DoneLarge" height="20" border="0" />';
+ var buttonInsertTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/button-insert-14._V192249863_.gif" width="41" vspace="5" align="right" alt="Insert" name="Insert" height="14" border="0" />';
+  var buttonEditOnTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/btn_edit_off._V192249870_.gif" width="36" alt="Done Editing" name="EditOff" height="13" border="0" />';
+  var searchBarTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/nav2/images/loading-bar._V192184901_.gif" width="114" alt="Search" name="SearchBar" height="9" border="0" />';
+  var buttonAddAnotherTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/add-another._V192249911_.gif" width="88" alt="Add Another" name="AddAnother" height="20" border="0" />';
+  var buttonDoneTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/btn_done._V192249871_.gif" width="29" vspace="5" align="right" alt="Done" name="Done" height="13" border="0" />';
+  var buttonSaveTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/button-save._V192249884_.gif" width="45" alt="Save" name="Save" height="20" border="0" />';
+  var buttonEditOffTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/btn_edit_on._V192249864_.gif" width="36" alt="Edit" name="EditOn" height="13" border="0" />';
+  var buttonCancelTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/button-cancel-14._V192249861_.gif" width="45" vspace="5" align="right" alt="Cancel" name="Cancel" height="14" border="0" />';
+  var buttonDoneLargeTag = '<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/richpub/done._V192249879_.gif" width="48" vspace="5" align="right" alt="Done" name="DoneLarge" height="20" border="0" />';
   var asinpopTitleStyleName = 'asinpop-TitleBar';
   var maximum_characters = 'Maximum character limit reached';
   var enter_comment = 'Enter a comment for this item';
@@ -5937,7 +5937,7 @@ function searchBox() {
   + '&nbsp;<input type="image"'
   + '            class="asinpop-Search-SearchGoButton"'
   + '               id="asinpop-Search-SearchGoButton"'
-  + '              src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/btn-go._V192249949_.gif"'
+  + '              src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/btn-go._V192249949_.gif"'
   + '              alt="Go"'
   + '            style="vertical-align: top;"'
   + '           border=0>'
@@ -5961,7 +5961,7 @@ function searchingMessage() {
   + ''
   + '<span id="found">'
   + '  <table cellpadding="0" cellspacing="0" border="0" width="100%">'
-  + '    <tr><td><span id="lm_message127" class="asinpop-Result-Message">Searching...&nbsp;&nbsp;<img src="http://g-ecx.images-amazon.com/images/G/01/nav2/images/loading-bar._V192184901_.gif" width="114" alt="Search" name="SearchBar" height="9" border="0" /></span></td></tr>'
+  + '    <tr><td><span id="lm_message127" class="asinpop-Result-Message">Searching...&nbsp;&nbsp;<img src="https://g-ecx.images-amazon.com/images/G/01/nav2/images/loading-bar._V192184901_.gif" width="114" alt="Search" name="SearchBar" height="9" border="0" /></span></td></tr>'
   + '  </table>'
   + '</div>';
 }
@@ -6146,7 +6146,7 @@ function cvuDefine() {
 
 <div class="ASINInjectorContainer" style="background: #B6CFE5; padding: 0.4em 2em;">
   <span class="ASINInjectorEnabled" style="display:none">
-      <a href="" name="ASINInjectorTrigger"><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/insert-link-blue._V192249896_.gif" width="114" alt="Insert a product link" align="absmiddle" onclick="ASINInjectorSwitchTextarea('cdPostBoxBodyInput');" height="17" border="0" /></a>
+      <a href="" name="ASINInjectorTrigger"><img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/reviews/insert-link-blue._V192249896_.gif" width="114" alt="Insert a product link" align="absmiddle" onclick="ASINInjectorSwitchTextarea('cdPostBoxBodyInput');" height="17" border="0" /></a>
   </span>
   <span class="ASINInjectorDisabled tiny" style="display:inline">
       To insert a product link use the format: [[ASIN:<i>ASIN</i> <i>product-title</i>]]
@@ -6173,7 +6173,7 @@ function cvuDefine() {
                 <div class="cdPostBoxInputs">
                     <div style="float: left; text-align: center;">
                       <div class="cdPromptWrapper">
-                        <input type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/btn-start-new-discussion._V192250348_.gif"  width="132" align="absmiddle" alt="[Start the discussion]" name="" height="22" border="0" />
+                        <input type="image" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/btn-start-new-discussion._V192250348_.gif"  width="132" align="absmiddle" alt="[Start the discussion]" name="" height="22" border="0" />
                         <div class="cdPromptFor">
                             Prompts for sign-in
                         </div>
@@ -6377,7 +6377,7 @@ function cvuDefine() {
 
 
 <div id="tafContainerDiv">
-     <a href="/gp/pdp/taf?ie=UTF8&referer=http%253A%252F%252Fwww.amazon.com%252Fmn%252Flanding%252FB001HPM06E&contentName=page&imageURL=http%3A%2F%2Fg-ecx.images-amazon.com%2Fimages%2FG%2F01%2Fentity%2Fshare%2Fauthor-pages_120x120._SY75_SX75_V198658434_.gif&isDynamicSWF=0&eventID=&emailImageURL=&type=SH&itemInfo=&titleText=Amazon%27s%20Harvey%20A.%20Averch%20Page&placementID=nu_Tcv8pbC24A4D4&emailCaptionStrID=&emailSubjectStrID=&emailDescStrID=&parentASIN=&contentURI=%2FHarvey-A.-Averch%2Fe%2FB001HPM06E&contentID=B001HPM06E&emailTemplate=%2Fgp%2Fentity-alerts%2Fshare-email-template&viaAccount=amazon&suppressPurchaseReqLogin=&relatedAccounts=amazondeals%2Camazonmp3&contentType=author&params=&merchantID=&emailCustomMsgStrID=&learnMoreButton=" title="Share via e-mail" id="swftext1" class="vam"><span class="tafShareText" >Share</span></a><a href="/gp/pdp/taf?ie=UTF8&referer=http%253A%252F%252Fwww.amazon.com%252Fmn%252Flanding%252FB001HPM06E&contentName=page&imageURL=http%3A%2F%2Fg-ecx.images-amazon.com%2Fimages%2FG%2F01%2Fentity%2Fshare%2Fauthor-pages_120x120._SY75_SX75_V198658434_.gif&isDynamicSWF=0&eventID=&emailImageURL=&type=SH&itemInfo=&titleText=Amazon%27s%20Harvey%20A.%20Averch%20Page&placementID=nu_Tcv8pbC24A4D4&emailCaptionStrID=&emailSubjectStrID=&emailDescStrID=&parentASIN=&contentURI=%2FHarvey-A.-Averch%2Fe%2FB001HPM06E&contentID=B001HPM06E&emailTemplate=%2Fgp%2Fentity-alerts%2Fshare-email-template&viaAccount=amazon&suppressPurchaseReqLogin=&relatedAccounts=amazondeals%2Camazonmp3&contentType=author&params=&merchantID=&emailCustomMsgStrID=&learnMoreButton=" title="Share via e-mail" class="linkImage" id="swftext1_img"><span style="cursor: pointer; display: inline-block; background-position: 0px 0px; height: 16px; width: 18px;vertical-align:middle;background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/social/snwicons_v2._V149514925_.png);"></span></a><a href="/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.facebook.com%2Fshare.php%3Fu%3Dhttp%253A%252F%252Fwww.amazon.com%252FHarvey-A.-Averch%252Fe%252FB001HPM06E%26bodytext%3DAmazon%2527s%2520Harvey%2520A.%2520Averch%2520Page&amp;token=6BD0FB927CC51E76FF446584B1040F70EA7E88E1&amp;ie=UTF8" title="Share on Facebook" target="_blank" onclick="window.open('/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fwww.facebook.com%2Fshare.php%3Fu%3Dhttp%253A%252F%252Fwww.amazon.com%252FHarvey-A.-Averch%252Fe%252FB001HPM06E%26bodytext%3DAmazon%2527s%2520Harvey%2520A.%2520Averch%2520Page&token=6BD0FB927CC51E76FF446584B1040F70EA7E88E1', '_blank', 'location=yes,width=700,height=400');return false;"><span class="tafSocialButton vam" style="background-image: url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/social/snwicons_v2._V149514925_.png);background-position: -18px 0px; height: 16px; width: 16px;;"></span></a><a href="/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3DAmazon%2527s%2520Harvey%2520A.%2520Averch%2520Page%26related%3Damazondeals%252Camazonmp3%26original%255Freferer%3Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fmn%25252Flanding%25252FB001HPM06Ecm%255Fsw%255Fr%255Ftw%255Fnu%255FTcv8pbC24A4D4%26via%3Damazon%26count%3Dnone%26url%3Dhttp%253A%252F%252Fwww.amazon.com%252FHarvey-A.-Averch%252Fe%252FB001HPM06E&amp;token=7A1A4AE8F6CE0BD277D8295E58702D283F329C0F&amp;ie=UTF8" title="Share on Twitter" target="_blank" onclick="window.open('/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3DAmazon%2527s%2520Harvey%2520A.%2520Averch%2520Page%26related%3Damazondeals%252Camazonmp3%26original%255Freferer%3Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fmn%25252Flanding%25252FB001HPM06Ecm%255Fsw%255Fr%255Ftw%255Fnu%255FTcv8pbC24A4D4%26via%3Damazon%26count%3Dnone%26url%3Dhttp%253A%252F%252Fwww.amazon.com%252FHarvey-A.-Averch%252Fe%252FB001HPM06E&token=7A1A4AE8F6CE0BD277D8295E58702D283F329C0F', '_blank', 'location=yes,width=700,height=400');return false;"><span class="tafSocialButton vam" style="background-image: url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/social/snwicons_v2._V149514925_.png);background-position: -34px 0px; height: 16px; width: 16px;;"></span></a>
+     <a href="/gp/pdp/taf?ie=UTF8&referer=http%253A%252F%252Fwww.amazon.com%252Fmn%252Flanding%252FB001HPM06E&contentName=page&imageURL=http%3A%2F%2Fg-ecx.images-amazon.com%2Fimages%2FG%2F01%2Fentity%2Fshare%2Fauthor-pages_120x120._SY75_SX75_V198658434_.gif&isDynamicSWF=0&eventID=&emailImageURL=&type=SH&itemInfo=&titleText=Amazon%27s%20Harvey%20A.%20Averch%20Page&placementID=nu_Tcv8pbC24A4D4&emailCaptionStrID=&emailSubjectStrID=&emailDescStrID=&parentASIN=&contentURI=%2FHarvey-A.-Averch%2Fe%2FB001HPM06E&contentID=B001HPM06E&emailTemplate=%2Fgp%2Fentity-alerts%2Fshare-email-template&viaAccount=amazon&suppressPurchaseReqLogin=&relatedAccounts=amazondeals%2Camazonmp3&contentType=author&params=&merchantID=&emailCustomMsgStrID=&learnMoreButton=" title="Share via e-mail" id="swftext1" class="vam"><span class="tafShareText" >Share</span></a><a href="/gp/pdp/taf?ie=UTF8&referer=http%253A%252F%252Fwww.amazon.com%252Fmn%252Flanding%252FB001HPM06E&contentName=page&imageURL=http%3A%2F%2Fg-ecx.images-amazon.com%2Fimages%2FG%2F01%2Fentity%2Fshare%2Fauthor-pages_120x120._SY75_SX75_V198658434_.gif&isDynamicSWF=0&eventID=&emailImageURL=&type=SH&itemInfo=&titleText=Amazon%27s%20Harvey%20A.%20Averch%20Page&placementID=nu_Tcv8pbC24A4D4&emailCaptionStrID=&emailSubjectStrID=&emailDescStrID=&parentASIN=&contentURI=%2FHarvey-A.-Averch%2Fe%2FB001HPM06E&contentID=B001HPM06E&emailTemplate=%2Fgp%2Fentity-alerts%2Fshare-email-template&viaAccount=amazon&suppressPurchaseReqLogin=&relatedAccounts=amazondeals%2Camazonmp3&contentType=author&params=&merchantID=&emailCustomMsgStrID=&learnMoreButton=" title="Share via e-mail" class="linkImage" id="swftext1_img"><span style="cursor: pointer; display: inline-block; background-position: 0px 0px; height: 16px; width: 18px;vertical-align:middle;background-image:url(https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/social/snwicons_v2._V149514925_.png);"></span></a><a href="/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.facebook.com%2Fshare.php%3Fu%3Dhttp%253A%252F%252Fwww.amazon.com%252FHarvey-A.-Averch%252Fe%252FB001HPM06E%26bodytext%3DAmazon%2527s%2520Harvey%2520A.%2520Averch%2520Page&amp;token=6BD0FB927CC51E76FF446584B1040F70EA7E88E1&amp;ie=UTF8" title="Share on Facebook" target="_blank" onclick="window.open('/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Fwww.facebook.com%2Fshare.php%3Fu%3Dhttp%253A%252F%252Fwww.amazon.com%252FHarvey-A.-Averch%252Fe%252FB001HPM06E%26bodytext%3DAmazon%2527s%2520Harvey%2520A.%2520Averch%2520Page&token=6BD0FB927CC51E76FF446584B1040F70EA7E88E1', '_blank', 'location=yes,width=700,height=400');return false;"><span class="tafSocialButton vam" style="background-image: url(https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/social/snwicons_v2._V149514925_.png);background-position: -18px 0px; height: 16px; width: 16px;;"></span></a><a href="/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3DAmazon%2527s%2520Harvey%2520A.%2520Averch%2520Page%26related%3Damazondeals%252Camazonmp3%26original%255Freferer%3Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fmn%25252Flanding%25252FB001HPM06Ecm%255Fsw%255Fr%255Ftw%255Fnu%255FTcv8pbC24A4D4%26via%3Damazon%26count%3Dnone%26url%3Dhttp%253A%252F%252Fwww.amazon.com%252FHarvey-A.-Averch%252Fe%252FB001HPM06E&amp;token=7A1A4AE8F6CE0BD277D8295E58702D283F329C0F&amp;ie=UTF8" title="Share on Twitter" target="_blank" onclick="window.open('/gp/redirect.html?_encoding=UTF8&location=http%3A%2F%2Ftwitter.com%2Fshare%3Ftext%3DAmazon%2527s%2520Harvey%2520A.%2520Averch%2520Page%26related%3Damazondeals%252Camazonmp3%26original%255Freferer%3Dhttp%25253A%25252F%25252Fwww.amazon.com%25252Fmn%25252Flanding%25252FB001HPM06Ecm%255Fsw%255Fr%255Ftw%255Fnu%255FTcv8pbC24A4D4%26via%3Damazon%26count%3Dnone%26url%3Dhttp%253A%252F%252Fwww.amazon.com%252FHarvey-A.-Averch%252Fe%252FB001HPM06E&token=7A1A4AE8F6CE0BD277D8295E58702D283F329C0F', '_blank', 'location=yes,width=700,height=400');return false;"><span class="tafSocialButton vam" style="background-image: url(https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/social/snwicons_v2._V149514925_.png);background-position: -34px 0px; height: 16px; width: 16px;;"></span></a>
 </div>
 
 
@@ -6445,7 +6445,7 @@ if (typeof window.amznJQ != 'undefined') {
 <div class="unified_widget rcmBody"><h2>Are You an Author?</h2>
 
 Help us improve our Author Pages by updating your bibliography and submitting a new or current image and biography.
-<br clear="left"><p class="seeMore"><span class="carat">&#8250;</span><a href="/gp/redirect.html?location=http://authorcentral.amazon.com/&token=F9B19C4C405475082DADECE58B49E2F62543F365">Learn how to submit changes at Author Central</a></p><div class="h_rule"></div></div>
+<br clear="left"><p class="seeMore"><span class="carat">&#8250;</span><a href="/gp/redirect.html?location=https://authorcentral.amazon.com/&token=F9B19C4C405475082DADECE58B49E2F62543F365">Learn how to submit changes at Author Central</a></p><div class="h_rule"></div></div>
 
 
 
@@ -6466,7 +6466,7 @@ Help us improve our Author Pages by updating your bibliography and submitting a 
 <div class="small" style="border: 1px solid rgb(15, 60, 109); padding: 10px; background-color: rgb(239, 247, 254); text-align: left;" id="ep_author_feedback_widget">
     <h2>  Feedback </h2>
     <span style="line-height: 175%;" id="ep_author_feedback_widget_links">
-        <b class="h3color">&rsaquo;</b>   Are you an author? <a href="http://authorcentral.amazon.com"><b>Visit Author Central</a></b> to change your photo, edit your biography, and more
+        <b class="h3color">&rsaquo;</b>   Are you an author? <a href="https://authorcentral.amazon.com"><b>Visit Author Central</a></b> to change your photo, edit your biography, and more
         <br/>
         <b class="h3color">&rsaquo;</b>   Need more information? See <a href="/gp/feature.html/ref=ntt_at_faq?ie=UTF8&docId=1000286411"><b>Author Pages Frequently Asked Questions</b></a>
         <br/>
@@ -6955,76 +6955,76 @@ amznJQ.addPL(['https://images-na.ssl-images-amazon.com/images/G/01/browser-scrip
     <tr>
       <td>
         <div class="navFooterLine navFooterLogoLine">
-          <a href="/"><img src="http://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif" width="126" alt="amazon.com" height="24" border="0" /></a>
+          <a href="/"><img src="https://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif" width="126" alt="amazon.com" height="24" border="0" /></a>
         </div>
         <div class="navFooterLine navFooterLinkLine navFooterPadItemLine">
-          <a href="http://www.amazon.ca/">Canada</a>
-<a href="http://www.amazon.cn/">China</a>
-<a href="http://www.amazon.fr/">France</a>
-<a href="http://www.amazon.de/">Germany</a>
-<a href="http://www.amazon.it/">Italy</a>
-<a href="http://www.amazon.co.jp/">Japan</a>
-<a href="http://www.amazon.es/">Spain</a>
-<a href="http://www.amazon.co.uk/">United Kingdom</a>
+          <a href="https://www.amazon.ca/">Canada</a>
+<a href="https://www.amazon.cn/">China</a>
+<a href="https://www.amazon.fr/">France</a>
+<a href="https://www.amazon.de/">Germany</a>
+<a href="https://www.amazon.it/">Italy</a>
+<a href="https://www.amazon.co.jp/">Japan</a>
+<a href="https://www.amazon.es/">Spain</a>
+<a href="https://www.amazon.co.uk/">United Kingdom</a>
 
         </div>
         <div class="navFooterLine navFooterLinkLine navFooterDescLine">
           <table cellspacing="0">
             <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.abebooks.com/">AbeBooks<br/> <span class="navFooterDescText">Rare Books<br/> & Textbooks</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.abebooks.com/">AbeBooks<br/> <span class="navFooterDescText">Rare Books<br/> & Textbooks</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://amazonlocal.com/">AmazonLocal<br/> <span class="navFooterDescText">Great Local Deals<br/> in Your City</span></a></td>
+<td class="navFooterDescItem"><a href="https://amazonlocal.com/">AmazonLocal<br/> <span class="navFooterDescText">Great Local Deals<br/> in Your City</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.amazonsupply.com/">AmazonSupply<br/> <span class="navFooterDescText">Business, Industrial<br/> & Scientific Supplies</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.amazonsupply.com/">AmazonSupply<br/> <span class="navFooterDescText">Business, Industrial<br/> & Scientific Supplies</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://aws.amazon.com/">AmazonWebServices<br/> <span class="navFooterDescText">Scalable<br/> Cloud Services</span></a></td>
+<td class="navFooterDescItem"><a href="https://aws.amazon.com/">AmazonWebServices<br/> <span class="navFooterDescText">Scalable<br/> Cloud Services</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://wireless.amazon.com/">AmazonWireless<br/> <span class="navFooterDescText">Cellphones &<br/> Wireless Plans</span></a></td>
+<td class="navFooterDescItem"><a href="https://wireless.amazon.com/">AmazonWireless<br/> <span class="navFooterDescText">Cellphones &<br/> Wireless Plans</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://askville.amazon.com/">Askville<br/> <span class="navFooterDescText">Community<br/> Answers</span></a></td>
+<td class="navFooterDescItem"><a href="https://askville.amazon.com/">Askville<br/> <span class="navFooterDescText">Community<br/> Answers</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.audible.com/">Audible<br/> <span class="navFooterDescText">Download<br/> Audio Books</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.audible.com/">Audible<br/> <span class="navFooterDescText">Download<br/> Audio Books</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.beautybar.com/">BeautyBar.com<br/> <span class="navFooterDescText">Prestige Beauty<br/> Delivered</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.beautybar.com/">BeautyBar.com<br/> <span class="navFooterDescText">Prestige Beauty<br/> Delivered</span></a></td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.bookdepository.com/">Book Depository<br/> <span class="navFooterDescText">Books With Free<br/> Delivery Worldwide</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.bookdepository.com/">Book Depository<br/> <span class="navFooterDescText">Books With Free<br/> Delivery Worldwide</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.createspace.com/">CreateSpace<br/> <span class="navFooterDescText">Indie Publishing<br/> Made Easy</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.createspace.com/">CreateSpace<br/> <span class="navFooterDescText">Indie Publishing<br/> Made Easy</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.diapers.com/">Diapers.com<br/> <span class="navFooterDescText">Everything<br/> But The Baby</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.diapers.com/">Diapers.com<br/> <span class="navFooterDescText">Everything<br/> But The Baby</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.dpreview.com/">DPReview<br/> <span class="navFooterDescText">Digital<br/> Photography</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.dpreview.com/">DPReview<br/> <span class="navFooterDescText">Digital<br/> Photography</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.fabric.com/">Fabric<br/> <span class="navFooterDescText">Sewing, Quilting<br/> & Knitting</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.fabric.com/">Fabric<br/> <span class="navFooterDescText">Sewing, Quilting<br/> & Knitting</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.imdb.com/">IMDb<br/> <span class="navFooterDescText">Movies, TV<br/> & Celebrities</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.imdb.com/">IMDb<br/> <span class="navFooterDescText">Movies, TV<br/> & Celebrities</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.junglee.com/">Junglee.com<br/> <span class="navFooterDescText">Shop Online<br/> in India</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.junglee.com/">Junglee.com<br/> <span class="navFooterDescText">Shop Online<br/> in India</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.myhabit.com/">MYHABIT<br/> <span class="navFooterDescText">Private Fashion<br/> Designer Sales</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.myhabit.com/">MYHABIT<br/> <span class="navFooterDescText">Private Fashion<br/> Designer Sales</span></a></td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.shopbop.com/welcome">Shopbop<br/> <span class="navFooterDescText">Designer<br/> Fashion Brands</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.shopbop.com/welcome">Shopbop<br/> <span class="navFooterDescText">Designer<br/> Fashion Brands</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.soap.com/">Soap.com<br/> <span class="navFooterDescText">Health, Beauty &<br/> Home Essentials</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.soap.com/">Soap.com<br/> <span class="navFooterDescText">Health, Beauty &<br/> Home Essentials</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.wag.com/">Wag.com<br/> <span class="navFooterDescText">Everything<br/> For Your Pet</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.wag.com/">Wag.com<br/> <span class="navFooterDescText">Everything<br/> For Your Pet</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="/b?ie=UTF8&node=1267877011">Warehouse Deals<br/> <span class="navFooterDescText">Open-Box<br/> Discounts</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.woot.com/">Woot<br/> <span class="navFooterDescText">Never Gonna<br/> Give You Up</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.woot.com/">Woot<br/> <span class="navFooterDescText">Never Gonna<br/> Give You Up</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.yoyo.com/">Yoyo.com<br/> <span class="navFooterDescText">A Happy Place<br/> To Shop For Toys</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.yoyo.com/">Yoyo.com<br/> <span class="navFooterDescText">A Happy Place<br/> To Shop For Toys</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.zappos.com/">Zappos<br/> <span class="navFooterDescText">Shoes &<br/> Clothing</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.zappos.com/">Zappos<br/> <span class="navFooterDescText">Shoes &<br/> Clothing</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem">&nbsp;</td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>

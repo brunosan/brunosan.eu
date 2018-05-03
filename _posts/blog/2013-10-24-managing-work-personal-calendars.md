@@ -57,7 +57,7 @@ your personal email with full access so you can transfer event between calendars
 
   ![](/images/cal-find-time.png)
 
-6. If you use [Tripit](http://www.tripit.com) (you should) add it as another calendar to see all your flights, reservations and information from any device.
+6. If you use [Tripit](https://www.tripit.com) (you should) add it as another calendar to see all your flights, reservations and information from any device.
 
 Done.
 
@@ -65,4 +65,4 @@ Now, wherever you are you can create an event on either calendar
 (directly from your devices or from the web). You´ll see personal and
 work stuff in different colors. Coworkers will see your work stuff and busy slots when busy with personal events.
 
-*[Cover image from [t_trace](http://www.flickr.com/photos/t_trace/282176246/) ]*
+*[Cover image from [t_trace](https://www.flickr.com/photos/t_trace/282176246/) ]*

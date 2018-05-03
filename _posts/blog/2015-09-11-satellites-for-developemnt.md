@@ -29,17 +29,17 @@ Check out the website, and stay tuned for the update with the repository code an
 
 
 
-[1]: http://documents.worldbank.org/curated/en/2015/06/24687045/estimating-local-poverty-measures-using-satellite-images-pilot-application-central-america
-[2]: http://www.worldbank.org/en/news/feature/2013/08/20/earth-observation-for-development-success-stories
-[3]: http://water.worldbank.org/node/83985
-[4]: http://blogs.worldbank.org/opendata/data-lab-link-roundup-data-impacts-satellite-economics-bitsquatting-favorite-number-giving-trees
-[5]: http://blogs.worldbank.org/impactevaluations/measuring-yields-space
-[6]: http://blogs.worldbank.org/ic4d/using-satellite-technologies-protect-african-farmers-climate-shocks
-[7]: http://www.prnewswire.com/news-releases/planet-labs-commits-60-million-in-geospatial-imagery-to-global-community-300150027.html
-[8]: http://ifcextapps.ifc.org/ifcext%5CPressroom%5CIFCPressRoom.nsf%5C0%5C74AF6601CDB3D8B485257E260063B42D
+[1]: https://documents.worldbank.org/curated/en/2015/06/24687045/estimating-local-poverty-measures-using-satellite-images-pilot-application-central-america
+[2]: https://www.worldbank.org/en/news/feature/2013/08/20/earth-observation-for-development-success-stories
+[3]: https://water.worldbank.org/node/83985
+[4]: https://blogs.worldbank.org/opendata/data-lab-link-roundup-data-impacts-satellite-economics-bitsquatting-favorite-number-giving-trees
+[5]: https://blogs.worldbank.org/impactevaluations/measuring-yields-space
+[6]: https://blogs.worldbank.org/ic4d/using-satellite-technologies-protect-african-farmers-climate-shocks
+[7]: https://www.prnewswire.com/news-releases/planet-labs-commits-60-million-in-geospatial-imagery-to-global-community-300150027.html
+[8]: https://ifcextapps.ifc.org/ifcext%5CPressroom%5CIFCPressRoom.nsf%5C0%5C74AF6601CDB3D8B485257E260063B42D
 [9]: https://www.mapbox.com/blog/millions-of-high-res-imagery/
-[10]: http://spacenews.com/china-launches-high-resolution-commercial-imaging-satellite/
-[11]: http://www.globalforestwatch.org/
+[10]: https://spacenews.com/china-launches-high-resolution-commercial-imaging-satellite/
+[11]: https://www.globalforestwatch.org/
 [12]: /images/satellite.jpg "Satellite image"
 [13]: https://satsummit.io/
-[14]: http://satsummit.github.io/landscape/
+[14]: https://satsummit.github.io/landscape/

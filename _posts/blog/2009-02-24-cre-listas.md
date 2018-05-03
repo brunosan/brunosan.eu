@@ -23,7 +23,7 @@ tags:
 - Science
 title: Elections for the Spanish Resident Council
 ---
-<strong>Actualización: </strong>Tras un par de reuniones he decidido <span style="text-decoration:underline;">no seguir adelante con mi candidatura individual</span> y unir fuerzas con la lista "<a href="http://creprogresistas.wordpress.com/">Participacion Ciudadana Progresista - Españoles en el Mundo</a>". Voy sexto en la lista.
+<strong>Actualización: </strong>Tras un par de reuniones he decidido <span style="text-decoration:underline;">no seguir adelante con mi candidatura individual</span> y unir fuerzas con la lista "<a href="https://creprogresistas.wordpress.com/">Participacion Ciudadana Progresista - Españoles en el Mundo</a>". Voy sexto en la lista.
 
 --------------
 
@@ -33,7 +33,7 @@ El 2 de Febrero recibí un mail enviado a la lista de inscritos en el Consulado 
 
 <strong>¿Qué son los CRE?</strong>
 
-Los CRE <a href="http://www.maec.es/es/MenuPpal/Consulares/Servicios%20Consulares/Espaoles%20en%20el%20extranjero/Consejos%20de%20residentes%20espaoles/Paginas/Consejos%20de%20residentes%20espaoles.aspx">son</a> "órganos consultivos de las Oficinas Consulares en las cuestiones de interés general para la comunidad española de residentes en su demarcación. Desarrollan sus actividades en materia de derechos civiles y laborales, <strong>acción educativa, social y cultural </strong>a favor de los españoles que integran dicha comunidad y su participación en todos los asuntos de su interés". Los cargos del CRE no son remunerados.
+Los CRE <a href="https://www.maec.es/es/MenuPpal/Consulares/Servicios%20Consulares/Espaoles%20en%20el%20extranjero/Consejos%20de%20residentes%20espaoles/Paginas/Consejos%20de%20residentes%20espaoles.aspx">son</a> "órganos consultivos de las Oficinas Consulares en las cuestiones de interés general para la comunidad española de residentes en su demarcación. Desarrollan sus actividades en materia de derechos civiles y laborales, <strong>acción educativa, social y cultural </strong>a favor de los españoles que integran dicha comunidad y su participación en todos los asuntos de su interés". Los cargos del CRE no son remunerados.
 
 Nota: Los miembros del CRE elegidos tienen un mandato de 4 años. Creo justo decir antes de pedir el voto que no sé si me quedaré en Washington 4 años. Mi expectativa es que sí. Pero es posible que mi trabajo me lleve a otros sitios.
 

@@ -16,7 +16,7 @@ for (var i = 0; i < data.length; ++i) {
       sendEmail=1;
 
 var message = "<HTML><BODY>"
-    + '<img align="middle" width="150px" src="http://gain.org/images/gainlogo.png"><br>'
+    + '<img align="middle" width="150px" src="https://gain.org/images/gainlogo.png"><br>'
     + "<br><p align='left'> May 7, "+Utilities.formatDate(new Date(), 'GMT', 'yyyy')+"</p>"
     + "<p>Dear " + row.prefix + " " + row.lastName + ", <p> "
     + '<p>We look forward to your participation REST OF THE EMAIL'

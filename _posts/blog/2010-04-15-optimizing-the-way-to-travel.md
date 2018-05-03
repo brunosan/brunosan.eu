@@ -9,7 +9,7 @@ tags:
 - Science
 title: Optimizing the way to travel
 ---
-<p style="text-align:center;"><a href="http://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg"><a href="http://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg"><img class="aligncenter" src="http://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg" border="0" alt="" width="400" height="286" /></a>
+<p style="text-align:center;"><a href="https://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg"><a href="https://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg"><img class="aligncenter" src="https://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg" border="0" alt="" width="400" height="286" /></a>
 </a></p>
 Now and then I hear people saying that a 1-hour flight is actually faster by bus or car than by plane. Yes, the plane travels way faster, but the car or bus starts closer from you and leaves you closer to your actual destination. On the bus there are not either waiting times, security... like when flying.
 
@@ -20,7 +20,7 @@ Then, what´s the most optimal way for each distance?
 <!--more-->Some time ago I made a small IDL .pro function to check it out (and procrastinate). My plan was to make a javascript, PHP or something more "web 2.0" but I have no time. Unfortunately I am too used to IDL, so I knew it would only take some minutes If I go with it.
 
 Here it is. How much time it takes to travel what distance, using different means. Here I am leaving out the price cost and focusing only on time efficiency.
-<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="http://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg"><img src="http://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg?w=300" border="0" alt="" /></a></div>
+<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="https://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg"><img src="https://nasonurb.files.wordpress.com/2010/04/ohnetitel.jpg?w=300" border="0" alt="" /></a></div>
 Obviously I had to made some assumptions, this is just a second order approximation.
 <ol>
 	<li><strong>Walking</strong> is just to sart walking at 5 km/h. I assume you can´t walk more than 25 km at once.</li>
@@ -36,7 +36,7 @@ On the plot, time is in linear scale but distance is logarithmic to show from 1 
 You could tune all the parameters. That is why I wanted something like javascript! but the idea remains, faster transportation means involve longer preparation times. You can see that on the graph when shorter distances are flat lines on the beginning. It doesn´t matter how fast it cruises, most of the time you will spend it getting there or getting highest speed.
 
 Also you can see that walking is never a flat line, but it goes up faster (takes more time) as distance increases. Only after 1.500 meters makes more sense to bike or run. The best option is the one which is lowest in the graph. To make it clearer and more focused on efficiency, I have changed the Y axis to time per km instead of time, and I´ve added some shades:
-<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="http://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg"><img src="http://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg?w=300" border="0" alt="" /></a></div>
+<div class="separator" style="clear:both;text-align:center;"><a style="margin-left:1em;margin-right:1em;" href="https://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg"><img src="https://nasonurb.files.wordpress.com/2010/04/unbenannt2.jpg?w=300" border="0" alt="" /></a></div>
 Obviously this is just a fast calculation. The approach, for a rough estimation, looks valid to me, but would be nice to play and tune the parameters. If you want to make a Javascript code, here´s your IDL template.
 
 Happy procrastination!

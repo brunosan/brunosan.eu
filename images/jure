@@ -12,26 +12,26 @@
     <meta name="description" content="Vimeo is the home for high-quality videos and the people who love them.">
 
 
-        <link rel="alternate" type="application/rss+xml" title="Jure Breceljnik&rsquo;s Videos" href="http://vimeo.com/jure/videos/rss">
-        <link rel="alternate" type="application/rss+xml" title="Jure Breceljnik&rsquo;s Likes" href="http://vimeo.com/jure/likes/rss">
+        <link rel="alternate" type="application/rss+xml" title="Jure Breceljnik&rsquo;s Videos" href="https://vimeo.com/jure/videos/rss">
+        <link rel="alternate" type="application/rss+xml" title="Jure Breceljnik&rsquo;s Likes" href="https://vimeo.com/jure/likes/rss">
 
     <link rel="canonical" href="/jure">
 
-<link rel="apple-touch-icon-precomposed" media="(resolution: 326dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-114.png">
-<link rel="apple-touch-icon-precomposed" media="(resolution: 163dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-57.png">
-<link rel="apple-touch-icon-precomposed" media="(resolution: 132dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-72.png">
+<link rel="apple-touch-icon-precomposed" media="(resolution: 326dpi)" href="https://a.vimeocdn.com/images_v6/apple-touch-icon-114.png">
+<link rel="apple-touch-icon-precomposed" media="(resolution: 163dpi)" href="https://a.vimeocdn.com/images_v6/apple-touch-icon-57.png">
+<link rel="apple-touch-icon-precomposed" media="(resolution: 132dpi)" href="https://a.vimeocdn.com/images_v6/apple-touch-icon-72.png">
 <link rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml" title="Vimeo search">
 
         <title>Jure Breceljnik on Vimeo</title>
-                                    <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/global_combined.min.css?5fd33273">
-    <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/profile_combined.min.css?149b31d3">
+                                    <link rel="stylesheet" href="https://a.vimeocdn.com/css_v6_opt/global_combined.min.css?5fd33273">
+    <link rel="stylesheet" href="https://a.vimeocdn.com/css_v6_opt/profile_combined.min.css?149b31d3">
     <noscript>
-        <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/nojs.min.css?df0617d">
+        <link rel="stylesheet" href="https://a.vimeocdn.com/css_v6_opt/nojs.min.css?df0617d">
     </noscript>
     <script>
         var js_css = document.createElement('link');
         js_css.rel = 'stylesheet'
-        js_css.href = 'http://a.vimeocdn.com/css_v6_opt/js_enabled.min.css?df0617d';
+        js_css.href = 'https://a.vimeocdn.com/css_v6_opt/js_enabled.min.css?df0617d';
         document.getElementsByTagName('head')[0].appendChild(js_css);
     </script>
             </head>
@@ -46,7 +46,7 @@
 <header id="site_header">
     <div class="container clearfix">
         <a id="logo" href="/" title="Go home">
-                            <img class="svg" src="http://a.vimeocdn.com/logo.svg" alt="Go home" width="140" height="40">
+                            <img class="svg" src="https://a.vimeocdn.com/logo.svg" alt="Go home" width="140" height="40">
                     </a>
         <nav>
             <ul id="menu" class="clearfix">
@@ -109,7 +109,7 @@
                                     <strong>Forums</strong> Share, learn, and talk with other members.                                </a>
                             </li>
                             <li class="last">
-                                <a href="http://developer.vimeo.com">
+                                <a href="https://developer.vimeo.com">
                                     <strong>Developers &amp; API</strong>Get in touch with your inner nerd.                                </a>
                             </li>
                         </ul>
@@ -127,19 +127,19 @@
                                  
                 <div id="content">
                     
-<div id="profile" class="boxed" itemscope itemtype="http://schema.org/Person">
-    <meta itemprop="url" content="http://vimeo.com/jure">
-    <div itemprop="memberOf" itemscope itemtype="http://schema.org/Organization">
+<div id="profile" class="boxed" itemscope itemtype="https://schema.org/Person">
+    <meta itemprop="url" content="https://vimeo.com/jure">
+    <div itemprop="memberOf" itemscope itemtype="https://schema.org/Organization">
         <meta itemprop="name" content="Vimeo">
-        <meta itemprop="url" content="http://vimeo.com">
+        <meta itemprop="url" content="https://vimeo.com">
     </div>
-    <img src="http://b.vimeocdn.com/ps/100/967/1009672_300.jpg" alt="Jure Breceljnik" class="portrait portrait_main" itemprop="image">
+    <img src="https://b.vimeocdn.com/ps/100/967/1009672_300.jpg" alt="Jure Breceljnik" class="portrait portrait_main" itemprop="image">
 
     <div class="data">
         <h1><span itemprop="name">Jure Breceljnik</span> </h1>
         <p class="meta">
             Joined <time datetime="2008-02-21T06:10:40-05:00" title="Thursday, February 21, 2008 6:10 AM">4 years ago</time>
-                            / <strong itemprop="homeLocation" itemtype="http://schema.org/Place">Ljubljana, Slovenia</strong>
+                            / <strong itemprop="homeLocation" itemtype="https://schema.org/Place">Ljubljana, Slovenia</strong>
                     </p>
 
         <div class="bio" id="profile_bio">
@@ -164,7 +164,7 @@
                                     <ul class="profile_videos" id="recent_videos" data-stream="clips:376275:id:DESC">
                                                     <li>
                                 <a href="/2980048" title="CHALK &amp; CHOCOLATE - movie trailer">
-                                                                        <img src="http://b.vimeocdn.com/ts/210/143/21014385_295.jpg" alt="" class="thumbnail thumbnail_lg_wide">
+                                                                        <img src="https://b.vimeocdn.com/ts/210/143/21014385_295.jpg" alt="" class="thumbnail thumbnail_lg_wide">
 
                                     <div class="data">
                                         <p class="title">CHALK &amp; CHOCOLATE - movie trailer</p>
@@ -175,7 +175,7 @@
                             </li>
                                                     <li class="last">
                                 <a href="/2535705" title="lake.barje">
-                                                                        <img src="http://b.vimeocdn.com/ts/862/729/86272910_295.jpg" alt="" class="thumbnail thumbnail_lg_wide">
+                                                                        <img src="https://b.vimeocdn.com/ts/862/729/86272910_295.jpg" alt="" class="thumbnail thumbnail_lg_wide">
 
                                     <div class="data">
                                         <p class="title">lake.barje</p>
@@ -186,7 +186,7 @@
                             </li>
                                                     <li>
                                 <a href="/2397262" title="OSKM 08">
-                                                                        <img src="http://b.vimeocdn.com/ts/862/406/86240694_295.jpg" alt="" class="thumbnail thumbnail_lg_wide">
+                                                                        <img src="https://b.vimeocdn.com/ts/862/406/86240694_295.jpg" alt="" class="thumbnail thumbnail_lg_wide">
 
                                     <div class="data">
                                         <p class="title">OSKM 08</p>
@@ -197,7 +197,7 @@
                             </li>
                                                     <li class="last">
                                 <a href="/736234" title="Chalk&amp;Chocolate with Natalija Gros Trailer">
-                                                                        <img src="http://b.vimeocdn.com/ts/968/975/96897598_295.jpg" alt="" class="thumbnail thumbnail_lg_wide">
+                                                                        <img src="https://b.vimeocdn.com/ts/968/975/96897598_295.jpg" alt="" class="thumbnail thumbnail_lg_wide">
 
                                     <div class="data">
                                         <p class="title">Chalk&amp;Chocolate with Natalija Gros Trailer</p>
@@ -229,42 +229,42 @@
                                 <li class="homepage-activity">
                 <dl class="clearfix">
                     <dt class="like">
-                                                                                <a href="/736234" title=""><img src="http://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
+                                                                                <a href="/736234" title=""><img src="https://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
                     <dd>
-                        <p><time datetime="2012-06-28T17:11:33-04:00" title="Thursday, June 28, 2012 5:11 PM">3 days ago</time><p>                        <a href="/user11488123" title="Daniel Heimstad"><img src="http://a.vimeocdn.com/images_v6/portraits/portrait_75_red.png" alt="Daniel Heimstad" class="portrait portrait_sm"></a>                                                    <a href="/user11488123">Daniel Heimstad</a> <span class="like">liked</span> <a href="/736234">Chalk&amp;Chocolate with Natalija Gros Trailer</a> by <a href="/jure">Jure Breceljnik</a>                                            </dd>
+                        <p><time datetime="2012-06-28T17:11:33-04:00" title="Thursday, June 28, 2012 5:11 PM">3 days ago</time><p>                        <a href="/user11488123" title="Daniel Heimstad"><img src="https://a.vimeocdn.com/images_v6/portraits/portrait_75_red.png" alt="Daniel Heimstad" class="portrait portrait_sm"></a>                                                    <a href="/user11488123">Daniel Heimstad</a> <span class="like">liked</span> <a href="/736234">Chalk&amp;Chocolate with Natalija Gros Trailer</a> by <a href="/jure">Jure Breceljnik</a>                                            </dd>
                 </dl>
             </li>
                                 <li class="homepage-activity">
                 <dl class="clearfix">
                     <dt class="like">
-                                                                                <a href="/736234" title=""><img src="http://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
+                                                                                <a href="/736234" title=""><img src="https://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
                     <dd>
-                        <p><time datetime="2012-06-24T12:41:25-04:00" title="Sunday, June 24, 2012 12:41 PM">1 week ago</time><p>                        <a href="/user10948975" title="botticcelli"><img src="http://a.vimeocdn.com/images_v6/portraits/portrait_75_blue.png" alt="botticcelli" class="portrait portrait_sm"></a>                                                    <a href="/user10948975">botticcelli</a> <span class="like">liked</span> <a href="/736234">Chalk&amp;Chocolate with Natalija Gros Trailer</a> by <a href="/jure">Jure Breceljnik</a>                                            </dd>
+                        <p><time datetime="2012-06-24T12:41:25-04:00" title="Sunday, June 24, 2012 12:41 PM">1 week ago</time><p>                        <a href="/user10948975" title="botticcelli"><img src="https://a.vimeocdn.com/images_v6/portraits/portrait_75_blue.png" alt="botticcelli" class="portrait portrait_sm"></a>                                                    <a href="/user10948975">botticcelli</a> <span class="like">liked</span> <a href="/736234">Chalk&amp;Chocolate with Natalija Gros Trailer</a> by <a href="/jure">Jure Breceljnik</a>                                            </dd>
                 </dl>
             </li>
                                 <li class="homepage-activity">
                 <dl class="clearfix">
                     <dt class="add_comment">
-                                                                                <a href="/736234" title=""><img src="http://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
+                                                                                <a href="/736234" title=""><img src="https://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
                     <dd>
-                        <p><time datetime="2012-06-24T12:40:17-04:00" title="Sunday, June 24, 2012 12:40 PM">1 week ago</time><p>                        <a href="/user10948975" title="botticcelli"><img src="http://a.vimeocdn.com/images_v6/portraits/portrait_75_blue.png" alt="botticcelli" class="portrait portrait_sm"></a>                                                    <a href="/user10948975">botticcelli</a> <span class="comment">commented on </span> <a href="/736234#comment_7416905">Chalk&amp;Chocolate with Natalija Gros Trailer</a> by <a href="/jure">Jure Breceljnik</a>                            <p class="txt_sm">magnifica produccion!</p>
+                        <p><time datetime="2012-06-24T12:40:17-04:00" title="Sunday, June 24, 2012 12:40 PM">1 week ago</time><p>                        <a href="/user10948975" title="botticcelli"><img src="https://a.vimeocdn.com/images_v6/portraits/portrait_75_blue.png" alt="botticcelli" class="portrait portrait_sm"></a>                                                    <a href="/user10948975">botticcelli</a> <span class="comment">commented on </span> <a href="/736234#comment_7416905">Chalk&amp;Chocolate with Natalija Gros Trailer</a> by <a href="/jure">Jure Breceljnik</a>                            <p class="txt_sm">magnifica produccion!</p>
                                             </dd>
                 </dl>
             </li>
                                 <li class="homepage-activity">
                 <dl class="clearfix">
                     <dt class="like">
-                                                                                <a href="/736234" title=""><img src="http://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
+                                                                                <a href="/736234" title=""><img src="https://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
                     <dd>
-                        <p><time datetime="2012-06-24T12:37:18-04:00" title="Sunday, June 24, 2012 12:37 PM">1 week ago</time><p>                        <a href="/user10948975" title="botticcelli"><img src="http://a.vimeocdn.com/images_v6/portraits/portrait_75_blue.png" alt="botticcelli" class="portrait portrait_sm"></a>                                                    <a href="/user10948975">botticcelli</a> <span class="like">liked</span> <a href="/736234">Chalk&amp;Chocolate with Natalija Gros Trailer</a> by <a href="/jure">Jure Breceljnik</a>                                            </dd>
+                        <p><time datetime="2012-06-24T12:37:18-04:00" title="Sunday, June 24, 2012 12:37 PM">1 week ago</time><p>                        <a href="/user10948975" title="botticcelli"><img src="https://a.vimeocdn.com/images_v6/portraits/portrait_75_blue.png" alt="botticcelli" class="portrait portrait_sm"></a>                                                    <a href="/user10948975">botticcelli</a> <span class="like">liked</span> <a href="/736234">Chalk&amp;Chocolate with Natalija Gros Trailer</a> by <a href="/jure">Jure Breceljnik</a>                                            </dd>
                 </dl>
             </li>
                                 <li class="homepage-activity">
                 <dl class="clearfix">
                     <dt class="album_clip">
-                                                                                <a href="/736234" title=""><img src="http://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
+                                                                                <a href="/736234" title=""><img src="https://b.vimeocdn.com/ts/968/975/96897598_150.jpg" alt="" class="thumbnail_med_wide portrait "><span></span></a>                                            </dt>
                     <dd>
-                        <p><time datetime="2012-06-21T02:23:02-04:00" title="Thursday, June 21, 2012 2:23 AM">1 week ago</time><p>                        <a href="/christopherdavid" title="Chris David"><img src="http://b.vimeocdn.com/ps/295/721/2957212_75.jpg" alt="Chris David" class="portrait portrait_sm"></a>                                                    <a href="/christopherdavid">Chris David</a> <span class="collection">added</span> <a href="/736234">Chalk&amp;Chocolate with Natalija Gros Trailer</a> to the <a href="/album/1981459">Climbing</a> album                                            </dd>
+                        <p><time datetime="2012-06-21T02:23:02-04:00" title="Thursday, June 21, 2012 2:23 AM">1 week ago</time><p>                        <a href="/christopherdavid" title="Chris David"><img src="https://b.vimeocdn.com/ps/295/721/2957212_75.jpg" alt="Chris David" class="portrait portrait_sm"></a>                                                    <a href="/christopherdavid">Chris David</a> <span class="collection">added</span> <a href="/736234">Chalk&amp;Chocolate with Natalija Gros Trailer</a> to the <a href="/album/1981459">Climbing</a> album                                            </dd>
                 </dl>
             </li>
             </ul>
@@ -329,11 +329,11 @@
         <div class="block">
     <ul class="feeds">
                     <li>
-                <a href="http://vimeo.com/jure/videos/rss" class="iconify_rss_b" title="Subscribe to Jure Breceljnik&rsquo;s Videos RSS Feed">
+                <a href="https://vimeo.com/jure/videos/rss" class="iconify_rss_b" title="Subscribe to Jure Breceljnik&rsquo;s Videos RSS Feed">
                     Jure Breceljnik&rsquo;s Videos                </a>
             </li>
                     <li>
-                <a href="http://vimeo.com/jure/likes/rss" class="iconify_rss_b" title="Subscribe to Jure Breceljnik&rsquo;s Likes RSS Feed">
+                <a href="https://vimeo.com/jure/likes/rss" class="iconify_rss_b" title="Subscribe to Jure Breceljnik&rsquo;s Likes RSS Feed">
                     Jure Breceljnik&rsquo;s Likes                </a>
             </li>
             </ul>
@@ -517,15 +517,15 @@
             dict: {"message_send_error":"Sorry, but we are having some trouble sending your message. Please try again later.","just_now":"just now","seconds_ago":{"singular":" second ago","plural":" seconds ago"},"minutes_ago":{"singular":" minute ago","plural":" minutes ago"},"hours_ago":{"singular":" hour ago","plural":" hours ago"},"open_comment_box":"Add new comment instead &raquo;","url_unavailable":"Sorry, this url is unavailable.","unsaved_changes_generic":"You have unsaved changes, are you sure you wish to leave?","add":"Add","remove":"Remove","no_followers_for_letter":"You don&rsquo;t follow anyone that begin with the letter &ldquo;{PAGE_LETTER}&rdquo;","share_limit_reached":"You have reached the maximum number of users to share with.","available":"Available","unavailable":"Unavailable","browse_error_generic":"Sorry, there was an error","browse_error_no_videos":"Sorry, no videos found","follow":"Follow","following":"Following","unfollow":"Unfollow","unfollowing":"Unfollowing","count_comments":{"singular":"{COUNT} comment","plural":"{COUNT} comments"},"first_comment":"Be the first to comment&hellip;","no_comments_for_you":"Forbidden. You cannot post comments on this page.","duration_input_min_duration":"The duration cannot be less than {MIN_DURATION}.","duration_input_max_duration":"The duration cannot be greater than {MAX_DURATION}.","duration_input_invalid_characters":"0-9 and : are the only acceptable inputs.","enhance_videos":"Enhance Videos","hide_enhancer":"Hide Enhancer","enhancer":"Enhancer","find_track_video":"Or, let us help you <a href=\"#\" rel=\"nofollow\" id=\"search_on_video\">find a track that fits<\/a>.","close":"Close","expand":"Expand","loading":"Loading...","top":"top","advanced_search":"Advanced Search","no_suggestions":"No suggestions","recent_searches":"Recent Searches","search_all":"Search All of Vimeo"}        };
     </script>
 
-    <script src="http://a.vimeocdn.com/js_v6_opt/global_combined.min.js?758d67af"></script>
-    <script src="http://a.vimeocdn.com/js_v6_opt/profile_combined.min.js?68725f59"></script>
+    <script src="https://a.vimeocdn.com/js_v6_opt/global_combined.min.js?758d67af"></script>
+    <script src="https://a.vimeocdn.com/js_v6_opt/profile_combined.min.js?68725f59"></script>
 
 <script>
     var _comscore = _comscore || [],
         _gaq = _gaq || [],
-        CSS_DIR = 'http://a.vimeocdn.com/css_v6_opt/',
-        JS_DIR = 'http://a.vimeocdn.com/js_v6_opt/',
-        IMAGE_DIR = 'http://a.vimeocdn.com/images_v6/',
+        CSS_DIR = 'https://a.vimeocdn.com/css_v6_opt/',
+        JS_DIR = 'https://a.vimeocdn.com/js_v6_opt/',
+        IMAGE_DIR = 'https://a.vimeocdn.com/images_v6/',
         BUILD_HASH = 'f764d',
         vimeo = {
             app_version: 'v6',
@@ -558,12 +558,12 @@
                     scr = document.createElement('script');
             scr.type = 'text/javascript';
             scr.async = true;
-            scr.src = ('http://b.scorecardresearch.com/beacon.js');
+            scr.src = ('https://b.scorecardresearch.com/beacon.js');
             s.parentNode.insertBefore(scr, s);
                     scr = document.createElement('script');
             scr.type = 'text/javascript';
             scr.async = true;
-            scr.src = ('http://www.google-analytics.com/ga.js');
+            scr.src = ('https://www.google-analytics.com/ga.js');
             s.parentNode.insertBefore(scr, s);
         
         

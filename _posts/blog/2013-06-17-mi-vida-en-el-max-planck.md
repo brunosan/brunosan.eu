@@ -12,7 +12,7 @@ tags:
 - max planck
 ---
 
-*-Last week it was announced that [The 2013 Prince of Asturias Award for International Cooperation has gone to the Max Planck Society](http://www.fpa.es/es/premios-principe-de-asturias/premiados/2013-la-sociedad-max-planck-para-el-avance-de-la-ciencia.html?especifica=0&anio=2013&especifica=0&idCategoria=0). The Asturias newspaper "[El comercio](http://www.elcomercio.es/)" asked me to tell their readers how is it to make a PhD at the Max Planck. This is what I sent. -*
+*-Last week it was announced that [The 2013 Prince of Asturias Award for International Cooperation has gone to the Max Planck Society](https://www.fpa.es/es/premios-principe-de-asturias/premiados/2013-la-sociedad-max-planck-para-el-avance-de-la-ciencia.html?especifica=0&anio=2013&especifica=0&idCategoria=0). The Asturias newspaper "[El comercio](https://www.elcomercio.es/)" asked me to tell their readers how is it to make a PhD at the Max Planck. This is what I sent. -*
 
 ![](/images/max-planck-comercio.jpg)
 

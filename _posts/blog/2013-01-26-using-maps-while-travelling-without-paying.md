@@ -19,13 +19,13 @@ This time I wanted to try something different. I wanted to try without
 buying a SIM card. Basically rely on pre-downloads and occasional WiFi
 spots. It worked perfectly. Not only for maps but also to be somewhat on the loop
 for email and social (Facebook, Instagram, Twitter...). For maps I used
-[OsmAnd](http://osmand.net/).
+[OsmAnd](https://osmand.net/).
 
-[OsmAnd](http://osmand.net/) is awesome. You have the usual global map,
+[OsmAnd](https://osmand.net/) is awesome. You have the usual global map,
 you can search for places, you have directions, even turn by turn
 directions. But, you can **also** do all that offline, and you can
 submit bugs to the map, add roads that are not present, ... and all that
-is synced back to [the commons map](http://openstreetmap.org) once you are online.
+is synced back to [the commons map](https://openstreetmap.org) once you are online.
 
 This is how it worked in my case:
 <!--more-->

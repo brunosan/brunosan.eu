@@ -9,14 +9,14 @@ tags:
 - data
 ---
 
-<a href="http://www.flickr.com/photos/nasonurb/8216425185/" title="So,
+<a href="https://www.flickr.com/photos/nasonurb/8216425185/" title="So,
 this is what you find after running 22 km.... #marathon #halfway by
 brunosan, on Flickr"><img
-src="http://farm9.staticflickr.com/8484/8216425185_96f30e78ba.jpg"
+src="https://farm9.staticflickr.com/8484/8216425185_96f30e78ba.jpg"
 width="500" height="500" alt="So, this is what you find after running 22
 km.... #marathon #halfway"></a>
 
-Last week I ran the [NCR **Trail** Marathon](http://ncrtrailmarathon.com/) in Baltimore. This is only 4
+Last week I ran the [NCR **Trail** Marathon](https://ncrtrailmarathon.com/) in Baltimore. This is only 4
 weeks after my [first marathon](/2012/10/29/Running-a-marathon/).
 
 I didn't actually train for it, as it was not on my plans four days
@@ -66,9 +66,9 @@ DC, so most of the time you will be alone, and probably among better runners.
 
 This is the School where we gathered before the race:
 
-<a href="http://www.flickr.com/photos/nasonurb/8216437967/" title="NCR
+<a href="https://www.flickr.com/photos/nasonurb/8216437967/" title="NCR
 trail marathon by brunosan, on Flickr"><img
-src="http://farm9.staticflickr.com/8068/8216437967_ffa6a6e088.jpg"
+src="https://farm9.staticflickr.com/8068/8216437967_ffa6a6e088.jpg"
 width="500" height="375" alt="NCR trail marathon"></a>
 
 When I crossed the start line, my goal was to keep my pace not faster
@@ -105,14 +105,14 @@ knees and hip, and hence the pain. And of course, the lack of training.
 On the turn around I made a small pause to make the picture and also drink water. When
 I went back, after a mile or so, I decided to do the rest of the race,
 now slightly downhill, enjoying the forest and pushing a little bit more.
-According to [Strava](http://app.strava.com/activities/29711289#) that has all
+According to [Strava](https://app.strava.com/activities/29711289#) that has all
 my runs since 2009, on that second half marathon I made my best ever 400m
 (4:07min/km) but also best 1/2 mile, 5km, mile, 10 km, 15 km and 10 miles.
 I think I overtook 50 runners or so in the second half.
 
-<a href="http://www.flickr.com/photos/brrc/8215552252/" title="ParkB0218
+<a href="https://www.flickr.com/photos/brrc/8215552252/" title="ParkB0218
 by brrc, on Flickr"><img
-src="http://farm9.staticflickr.com/8490/8215552252_950eb64da1.jpg"
+src="https://farm9.staticflickr.com/8490/8215552252_950eb64da1.jpg"
 width="333" height="500" alt="ParkB0218"></a>
 
 The famous mile 20, where many people *hit the wall* went by and I was
@@ -128,10 +128,10 @@ marathon.
 
 ##Results data
 
-The [results for all runners](http://www.charmcityrun.com/content/results/ncrtrail_mara_res_12_post_a.htm) are already available. This time there is no
+The [results for all runners](https://www.charmcityrun.com/content/results/ncrtrail_mara_res_12_post_a.htm) are already available. This time there is no
 location data, so no mapping for these runners. What I could do is
 create the [same visualizations as last
-time](http://brunosan.eu/2012/10/29/Running-a-marathon/), and compare the
+time](https://brunosan.eu/2012/10/29/Running-a-marathon/), and compare the
 statistical results with the last race.
 
 This race is 8 times smaller, and my hypothesis is that you
@@ -211,5 +211,5 @@ whole race.
 * All the python code and data for the visualizations is available on
   this [github repository](https://github.com/brunosan/NCR).
 * I used this nifty [Flickr
-  Visualizer](http://www.darckr.com/username?username=brrc) to check all
+  Visualizer](https://www.darckr.com/username?username=brrc) to check all
 race pictures quickly and find the only one among 400 or so where I am.

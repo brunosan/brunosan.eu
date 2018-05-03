@@ -15,7 +15,7 @@ title: Science and prosperity
 >“Is not that rich countries make Science,
 > rather that rich are the countries that make Science".
 
-<p style="text-align:right;"><a href="http://es.wikipedia.org/wiki/Vladimir_de_Semir">Vladimir de Semir</a> (1948). </p>
+<p style="text-align:right;"><a href="https://es.wikipedia.org/wiki/Vladimir_de_Semir">Vladimir de Semir</a> (1948). </p>
 
 
 via:

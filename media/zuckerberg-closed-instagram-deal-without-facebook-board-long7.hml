@@ -7,28 +7,28 @@
 <head>
 <title>Zuckerberg closed Instagram deal without Facebook board approval | Ars Technica</title>
   <script type="text/javascript">
-    ars = {"ASSETS":"http:\/\/cdn.arstechnica.net\/wp-content\/themes\/arstechnica\/assets","UNREAD":0,"TOTAL":"56252","HOME":"http:\/\/arstechnica.com\/","CIVIS":"\/civis","THEME":"light","MOBILE":false,"AD":{"kw":"kw=ventures;","zone":"business","empty":"\/public\/shared\/scripts\/empty.html","loader":"\/public\/shared\/scripts\/ad-loader-frame.html"}};
+    ars = {"ASSETS":"https:\/\/cdn.arstechnica.net\/wp-content\/themes\/arstechnica\/assets","UNREAD":0,"TOTAL":"56252","HOME":"https:\/\/arstechnica.com\/","CIVIS":"\/civis","THEME":"light","MOBILE":false,"AD":{"kw":"kw=ventures;","zone":"business","empty":"\/public\/shared\/scripts\/empty.html","loader":"\/public\/shared\/scripts\/ad-loader-frame.html"}};
   </script>
-  <!--[if lte IE 8]><script type="text/javascript" src="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/js/modernizr/modernizr.js"></script><![endif]-->
+  <!--[if lte IE 8]><script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/js/modernizr/modernizr.js"></script><![endif]-->
 
-    <link rel="stylesheet" type="text/css" media="all" href="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/css/ars.min.7ec6f5a0a76099969c5f68390eab8c38d52c56d8.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="https://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/css/ars.min.7ec6f5a0a76099969c5f68390eab8c38d52c56d8.css" />
   
-  <script type="text/javascript" src="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/js/ads.js?v=4"></script>
-  <link rel="alternate" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index/" />
+  <script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/js/ads.js?v=4"></script>
+  <link rel="alternate" type="application/rss+xml" href="https://feeds.arstechnica.com/arstechnica/index/" />
   
   <!-- Favicons, etc -->
-  <link rel="apple-touch-icon" href="http://static.arstechnica.net/apple-touch-icon.png" />
-  <link rel="shortcut icon" href="http://static.arstechnica.net/favicon.ico" />
-  <link rel="icon" type="image/x-icon" href="http://static.arstechnica.net/favicon.ico" />
+  <link rel="apple-touch-icon" href="https://static.arstechnica.net/apple-touch-icon.png" />
+  <link rel="shortcut icon" href="https://static.arstechnica.net/favicon.ico" />
+  <link rel="icon" type="image/x-icon" href="https://static.arstechnica.net/favicon.ico" />
   
   <!-- C-razy IE9 stuff -->
   <meta name="application-name" content="Ars Technica"/>
-  <meta name="msapplication-starturl" content="http://arstechnica.com/"/>
+  <meta name="msapplication-starturl" content="https://arstechnica.com/"/>
   <meta name="msapplication-tooltip" content="Ars Technica: Serving the technologist for 1.2 decades"/>
-  <meta name="msapplication-task" content="name=News;action-uri=http://arstechnica.com/;icon-uri=http://arstechnica.com/favicon.ico"/>
-  <meta name="msapplication-task" content="name=Features;action-uri=http://arstechnica.com/features/;icon-uri=http://static.arstechnica.net/ie-jump-menu/jump-features.ico"/>
-  <meta name="msapplication-task" content="name=OpenForum;action-uri=http://arstechnica.com/civis/;icon-uri=http://static.arstechnica.net/ie-jump-menu/jump-forum.ico"/>
-  <meta name="msapplication-task" content="name=Subscribe;action-uri=http://arstechnica.com/subscriptions/;icon-uri=http://static.arstechnica.net/ie-jump-menu/jump-subscribe.ico"/>
+  <meta name="msapplication-task" content="name=News;action-uri=https://arstechnica.com/;icon-uri=https://arstechnica.com/favicon.ico"/>
+  <meta name="msapplication-task" content="name=Features;action-uri=https://arstechnica.com/features/;icon-uri=https://static.arstechnica.net/ie-jump-menu/jump-features.ico"/>
+  <meta name="msapplication-task" content="name=OpenForum;action-uri=https://arstechnica.com/civis/;icon-uri=https://static.arstechnica.net/ie-jump-menu/jump-forum.ico"/>
+  <meta name="msapplication-task" content="name=Subscribe;action-uri=https://arstechnica.com/subscriptions/;icon-uri=https://static.arstechnica.net/ie-jump-menu/jump-subscribe.ico"/>
 
   <!-- Begin Metadata -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -39,14 +39,14 @@
     <meta name="viewport" content="width=1020" />
   
     <!-- cache hit for miss -->
-<link rel="canonical" href="http://arstechnica.com/business/news/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board.ars" />
+<link rel="canonical" href="https://arstechnica.com/business/news/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board.ars" />
 
 <meta name='parsely-metadata' content='{"type":"brief","title":"Zuckerberg closed Instagram deal without Facebook board approval","lower_deck":"Facebook&#039;s acquisition of Instagram is said to have been pursued by Mark  &hellip;","upper_deck":"Business of Technology"}'>
 <meta name="description" content="Facebook&#039;s acquisition of Instagram is said to have been pursued by Mark  &hellip;" />
 
-<meta property="og:url" content="http://arstechnica.com/business/news/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board.ars" />
+<meta property="og:url" content="https://arstechnica.com/business/news/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board.ars" />
 <meta property="og:title" content="Zuckerberg closed Instagram deal without Facebook board approval" />
-<meta property="og:image" content="http://cdn.arstechnica.net/logo-huge.png" />
+<meta property="og:image" content="https://cdn.arstechnica.net/logo-huge.png" />
 <meta property="og:description" content="Facebook&#039;s acquisition of Instagram is said to have been pursued by Mark  &hellip;" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Ars Technica" />
@@ -59,7 +59,7 @@
   <div id="container">
     <header id="masthead">
             <aside id="ad-top"><script type="text/javascript">ars.masthead_ad()</script></aside>
-            <h1><a href="http://arstechnica.com"><em>Ars</em>Technica</a></h1>
+            <h1><a href="https://arstechnica.com"><em>Ars</em>Technica</a></h1>
     </header>
     <nav id="primary">
       <ul>
@@ -122,19 +122,19 @@
 		</ul>
 		<div class="cat-feature">
 			<a class="cat-link" href="/feature-series/the-ssd-revolution/">
-				<img src="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/feature-thumbs/ssd-feat-thumb.png" />
+				<img src="https://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/feature-thumbs/ssd-feat-thumb.png" />
 				<span class="cat-name">Feature Series</span>
 				<span class="cat-desc subheading">The SSD Revolution</span>
 				<span class="cat-full-desc">An inside look at the future of fast storage.</span>
 			</a>
 			<a class="cat-link" href="/feature-series/getting-it-done/">
-				<img src="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/feature-thumbs/getting-it-done.jpg" />
+				<img src="https://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/feature-thumbs/getting-it-done.jpg" />
 				<span class="cat-name">Feature Series</span>
 				<span class="cat-desc subheading">Getting IT Done</span>
 				<span class="cat-full-desc">News, reviews, and advice aimed at getting IT done.</span>
 			</a>
 			<a class="cat-link" href="/feature-series/future-of-bandwidth/">
-				<img src="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/feature-thumbs/future-of-bandwidth.jpg" />
+				<img src="https://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/images/feature-thumbs/future-of-bandwidth.jpg" />
 				<span class="cat-name">Feature Series</span>
 				<span class="cat-desc subheading">The Future of Bandwidth</span>
 				<span class="cat-full-desc">As demand and technology grow, we look to the future.</span>
@@ -151,9 +151,9 @@
 		<ul id="explore-ars">
 			<li><a href="/staff/">Staff Blogs</a></li>
 			<li><a href="/features/">Feature Archive</a></li>
-			<li><a href="http://jobs.arstechnica.com">Ars Jobs</a></li>
+			<li><a href="https://jobs.arstechnica.com">Ars Jobs</a></li>
 			<li><a href="/staff-directory/">Staff Directory</a></li>
-			<li><a href="http://arstechnica.com/contact-us/">Contact Us</a></li>
+			<li><a href="https://arstechnica.com/contact-us/">Contact Us</a></li>
 		</ul>
 	</aside>
 </div>
@@ -195,7 +195,7 @@
     <section id="content" class="clearfix">
 
 <script type="text/javascript">
-  ars.ARTICLE = {"url":"http:\/\/arstechnica.com\/business\/news\/2012\/04\/zuckerberg-closed-instagram-deal-without-facebook-board.ars","short_url":"http:\/\/arst.ch\/tdu","title":"Zuckerberg closed Instagram deal without Facebook board approval","author":300066,"id":35580,"promoted":[]};
+  ars.ARTICLE = {"url":"https:\/\/arstechnica.com\/business\/news\/2012\/04\/zuckerberg-closed-instagram-deal-without-facebook-board.ars","short_url":"https:\/\/arst.ch\/tdu","title":"Zuckerberg closed Instagram deal without Facebook board approval","author":300066,"id":35580,"promoted":[]};
 </script>
 
 <h1 id="archive-head" class="subheading thick-divide-bottom">
@@ -210,7 +210,7 @@
 		<h2 class="standalone-deck">Facebook&#039;s acquisition of Instagram is said to have been pursued by Mark  &hellip;</h2>
 		<div class="post-meta">
 			  <p class="byline">
-  by <a href="http://arstechnica.com/author/matthew-braga/" rel="author">Matthew Braga</a>
+  by <a href="https://arstechnica.com/author/matthew-braga/" rel="author">Matthew Braga</a>
   -  <span class="date" data-time="1334763900">Apr 18, 2012 3:45 pm UTC</span>
   </p>
 
@@ -219,7 +219,7 @@
 									<li><a href="/discipline/business-3">Business</a></li>
 									<li><a href="/discipline/regulation-2">Regulation</a></li>
 								</ul>
-					<a class="comment-count" href="http://arstechnica.com/business/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board/?comments=1#comments-bar"><span>73</span></a>
+					<a class="comment-count" href="https://arstechnica.com/business/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board/?comments=1#comments-bar"><span>73</span></a>
 			</div>
 		</div>
 	</header>
@@ -229,9 +229,9 @@
 			
 
  <p>What’s cooler than a billion dollars? A billion dollars without board approval.</p>
-<p><em>The Wall Street Journal</em> is reporting that <a href="http://arstechnica.com/gadgets/news/2012/04/facebook-buying-instagram-for-1-billion.ars">Facebook’s acquisition of mobile photo sharing app Instagram</a> was pursued by Mark Zuckerberg alone, with board members notified only hours before the deal was set to close. <a href="http://online.wsj.com/article_email/SB10001424052702304818404577350191931921290-lMyQjAxMTAyMDEwNzExNDcyWj.html">According to one source</a>, the board "was told, not consulted."</p>
+<p><em>The Wall Street Journal</em> is reporting that <a href="https://arstechnica.com/gadgets/news/2012/04/facebook-buying-instagram-for-1-billion.ars">Facebook’s acquisition of mobile photo sharing app Instagram</a> was pursued by Mark Zuckerberg alone, with board members notified only hours before the deal was set to close. <a href="https://online.wsj.com/article_email/SB10001424052702304818404577350191931921290-lMyQjAxMTAyMDEwNzExNDcyWj.html">According to one source</a>, the board "was told, not consulted."</p>
 <p>It is the company’s largest acquisition yet—and perhaps ever—according to the Facebook founder and CEO.</p>
-<p>Zuckerberg and Instagram founder Kevin Systrom are said to have first met on Thursday, April 5, mere hours after Mr. Systrom <a href="http://techcrunch.com/2012/04/09/right-before-acquisition-instagram-closed-50m-at-a-500m-valuation-from-sequoia-thrive-greylock-and-benchmark/">secured a $50 million investment round</a> led by venture capitalist firms Sequoia, Thrive Capital, Greylock, and Benchmark. The pair talked for three days before finally agreeing to a deal on Sunday afternoon.</p>
+<p>Zuckerberg and Instagram founder Kevin Systrom are said to have first met on Thursday, April 5, mere hours after Mr. Systrom <a href="https://techcrunch.com/2012/04/09/right-before-acquisition-instagram-closed-50m-at-a-500m-valuation-from-sequoia-thrive-greylock-and-benchmark/">secured a $50 million investment round</a> led by venture capitalist firms Sequoia, Thrive Capital, Greylock, and Benchmark. The pair talked for three days before finally agreeing to a deal on Sunday afternoon.</p>
 <p>Such deals are usually not made so quickly, nor without a cadre of lawyers and financial assistants present, but Mr. Zuckerberg chose to pursue the deal largely on his own. The report says he was afraid of Mr. Systrom reacting negatively had he been approached through lawyers first.</p>
 <p>While the Instagram founder initially sought $2 billion, Mr. Zuckerberg planned to pay largely with stock, and suggested Mr. Systrom “[look] at the value of Instagram as a percentage of the value of Facebook” over time instead.</p>
 <p>Although Facebook’s board did eventually vote on the deal, sources tell <em>The Wall Street Journal</em>, the vote was "largely symbolic."</p>
@@ -243,14 +243,14 @@
 		
 		<a name="comments-bar"></a>
 		<div class="comments-bar">
-      <a class="subheading comments-read-link" href="http://arstechnica.com/business/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board/?comments=1#comments-bar"><span class="text">Reader comments</span> <span class="comment-count"><span>73</span></span></a>
+      <a class="subheading comments-read-link" href="https://arstechnica.com/business/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board/?comments=1#comments-bar"><span class="text">Reader comments</span> <span class="comment-count"><span>73</span></span></a>
 		</div>
 					</section>
 	
 		<aside id="share-buttons" class="thin-divide-bottom "><ul></ul></aside>
 	
     <!-- cache hit -->  	<section class="article-author clearfix">
-    				<a href="/author/matthew-braga"><img width="47" height="47" src="http://cdn.arstechnica.net/wp-content//uploads/authors/matttbbbw.jpg"></a>
+    				<a href="/author/matthew-braga"><img width="47" height="47" src="https://cdn.arstechnica.net/wp-content//uploads/authors/matttbbbw.jpg"></a>
     		    
 		<p><a href="/author/matthew-braga" class="author-name">Matthew Braga</a>  / Matthew is Toronto-based freelance journalist and contributing writer at Ars Technica with consumer technology, small business and social media expertise.</p>
 				<a href="https://twitter.com/mattbraga" class="twitter-follow-button" data-show-count="false">@mattbraga</a>
@@ -259,8 +259,8 @@
   
   
 	<nav class="post-links thick-divide-top thin-divide-bottom clearfix">
-		<div class="subheading older"><a href="http://arstechnica.com/gaming/2012/04/diablo-iii-beta-taken-down-temporarily-after-brief-starter-edition-leak/" rel="prev"><span class="arrow">&larr;</span> Older Story</a></div>
-		<div class="subheading newer"><a href="http://arstechnica.com/apple/2012/04/flashback-waning-but-still-infecting-about-140000-macs/" rel="next">Newer Story <span class="arrow">&rarr;</span></a></div>	
+		<div class="subheading older"><a href="https://arstechnica.com/gaming/2012/04/diablo-iii-beta-taken-down-temporarily-after-brief-starter-edition-leak/" rel="prev"><span class="arrow">&larr;</span> Older Story</a></div>
+		<div class="subheading newer"><a href="https://arstechnica.com/apple/2012/04/flashback-waning-but-still-infecting-about-140000-macs/" rel="next">Newer Story <span class="arrow">&rarr;</span></a></div>	
 	</nav>
 
 		<footer id="article-footer">
@@ -283,19 +283,19 @@
 
 <li class="post" id="35580">
 	<article class="in-column">
-		<a href="http://arstechnica.com/gadgets/2012/07/tech-remorse-the-worst-gadgets-we-ever-bought/" class="headline-image">
-						<img src="http://cdn.arstechnica.net/wp-content/uploads/2012/06/gadget-pit-300x100.jpg" width="300" height="100">
+		<a href="https://arstechnica.com/gadgets/2012/07/tech-remorse-the-worst-gadgets-we-ever-bought/" class="headline-image">
+						<img src="https://cdn.arstechnica.net/wp-content/uploads/2012/06/gadget-pit-300x100.jpg" width="300" height="100">
 						<h2 class="page-count subheading">Feature Story (4 pages)</h2>
 			<h1 class="heading">Tech remorse: the worst gadgets we ever bought</h1>
 		</a>
 		<p class="excerpt">The Ars staff relays some close encounters with technological abominations.</p>
 		  <p class="byline">
-  by <a href="http://arstechnica.com/author/ars-staff/">Ars Staff</a>
+  by <a href="https://arstechnica.com/author/ars-staff/">Ars Staff</a>
   -  <span class="date" data-time="1341189009">Jul 2, 12:30 am UTC</span>
   </p>
 
 			<aside class="comments-hotness ">
-		<a class="comment-count" href="http://arstechnica.com/gadgets/2012/07/tech-remorse-the-worst-gadgets-we-ever-bought/?comments=1#comments-bar"><span>43</span></a>
+		<a class="comment-count" href="https://arstechnica.com/gadgets/2012/07/tech-remorse-the-worst-gadgets-we-ever-bought/?comments=1#comments-bar"><span>43</span></a>
 	</aside>
 	</article>
 </li>
@@ -332,7 +332,7 @@
 				<div class="social-pop-content">
 					<h2 class="subheading">Sign Up for the Ars Newsletter</h2>
 					<p>Sign up for the Ars Technica Dispatch, which delivers links to the most popular articles, journals, and multimedia features via e-mail to your inbox every week.</p>
-					<form action="http://arstechnica.us1.list-manage.com/subscribe/post?u=af7f013bad7e785d15aab736f&amp;id=105121" method="post" target="_blank">
+					<form action="https://arstechnica.us1.list-manage.com/subscribe/post?u=af7f013bad7e785d15aab736f&amp;id=105121" method="post" target="_blank">
 						<label for="mce-EMAIL">Your email address:</label>
 						<input placeholder="Email address" type="text" value="" name="EMAIL" id="mce-EMAIL" />
 						<input type="submit" value="Subscribe" name="subscribe">
@@ -347,8 +347,8 @@
 				<div class="social-pop-content">
 					<h2 class="subheading">Follow Ars with RSS</h2>
 					<ul>
-						<li><a href="http://feeds.arstechnica.com/arstechnica/index/">&gt; Main site RSS feed</a> (all content)</li>
-						<li><a href="http://arstechnica.com/rss-feeds/">&gt; View a list</a> of all our RSS feeds</li>
+						<li><a href="https://feeds.arstechnica.com/arstechnica/index/">&gt; Main site RSS feed</a> (all content)</li>
+						<li><a href="https://arstechnica.com/rss-feeds/">&gt; View a list</a> of all our RSS feeds</li>
 					</ul>
 				</div>
 			</div>					
@@ -360,7 +360,7 @@
 					<h2 class="subheading">The Ars Podcast</h2>
 					<p>It's the Ars Technicast! Listen to our staff discuss the issues of the day.</p>
 					<ul>
-						<li><a href="http://arstechnica.com/podcast/">&gt; View podcast archive</a></li>
+						<li><a href="https://arstechnica.com/podcast/">&gt; View podcast archive</a></li>
 					</ul>
 				</div>
 			</div>					
@@ -370,32 +370,32 @@
 <h2 class="subheading notched">Latest News</h2>
 <ol class="rail latest-stories">
     <li>
-    <a href="http://arstechnica.com/business/2012/07/one-day-later-the-leap-second-v-the-internet-scorecard/">
+    <a href="https://arstechnica.com/business/2012/07/one-day-later-the-leap-second-v-the-internet-scorecard/">
               <h2>Leap second: 1. Internet: 0.</h2>
         <h1 class="heading">One day later: the leap second v. the Internet scorecard</h1>
           </a>
   </li>
     <li>
-    <a href="http://arstechnica.com/gaming/2012/07/this-weeks-tell-tale-sign-of-aging-atari-turns-40/">
-                      <img src="http://cdn.arstechnica.net/wp-content/uploads/2012/07/3042716820_015def18a7_z-150x150.jpeg" width="50" height="50">
+    <a href="https://arstechnica.com/gaming/2012/07/this-weeks-tell-tale-sign-of-aging-atari-turns-40/">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2012/07/3042716820_015def18a7_z-150x150.jpeg" width="50" height="50">
         <h1 class="heading">This week's tell-tale sign of aging: Atari turns 40</h1>
           </a>
   </li>
     <li>
-    <a href="http://arstechnica.com/business/2012/07/kodak-gallery-goes-dark-tomorrow-shutterfly-works-a-massive-data-transfer/">
+    <a href="https://arstechnica.com/business/2012/07/kodak-gallery-goes-dark-tomorrow-shutterfly-works-a-massive-data-transfer/">
               <h2>Shutter Speed</h2>
         <h1 class="heading">Kodak Gallery goes dark tomorrow, Shutterfly works a massive data transfer</h1>
           </a>
   </li>
     <li>
-    <a href="http://arstechnica.com/science/2012/07/steven-hawking-on-time-travel-m-theory-and-extra-terrestrial-life/">
-                      <img src="http://cdn.arstechnica.net/wp-content/uploads/2012/06/5657540312_efdf62c73c-150x150.jpeg" width="50" height="50">
+    <a href="https://arstechnica.com/science/2012/07/steven-hawking-on-time-travel-m-theory-and-extra-terrestrial-life/">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2012/06/5657540312_efdf62c73c-150x150.jpeg" width="50" height="50">
         <h1 class="heading">Stephen Hawking on time travel, M-theory, and extra terrestrial life</h1>
           </a>
   </li>
     <li>
-    <a href="http://arstechnica.com/tech-policy/2012/07/funnyjunk-lawyer-aims-to-halt-distribution-of-bearlove-money/">
-                      <img src="http://cdn.arstechnica.net/wp-content/uploads/2012/06/inman-charity-150x150.jpg" width="50" height="50">
+    <a href="https://arstechnica.com/tech-policy/2012/07/funnyjunk-lawyer-aims-to-halt-distribution-of-bearlove-money/">
+                      <img src="https://cdn.arstechnica.net/wp-content/uploads/2012/06/inman-charity-150x150.jpg" width="50" height="50">
         <h1 class="heading">FunnyJunk lawyer aims to halt distribution of "BearLove" money</h1>
           </a>
   </li>
@@ -403,7 +403,7 @@
 
 <li>
   <aside class="jobs-feed">
-    <h2 class="subheading notched" id="ars-job-board-title">Ars Jobs</h2><dl><dt><a href="http://clk.atdmt.com/MON/go/395287198/direct/01/?href=http%3A%2F%2Fjobview.monster.com%2FCloud-Architect-for-Network-Provider-Job-Malibu-CA-US-111745170.aspx">Cloud Architect for Network Provider</a></dt><dd>CA-Malibu, CyberCoders - Be Selective Location thousand oaks, CA; Malibu, CA Salary N/A Education Ba&hellip;</dd><dt><a href="http://clk.atdmt.com/MON/go/395287198/direct/01/?href=http%3A%2F%2Fjobview.monster.com%2FSoftware-Engineer-Job-southfield-MI-US-111745111.aspx">Software Engineer</a></dt><dd>MI-southfield, CyberCoders - Be Selective Location clawson , MI; southfield, MI Salary $50,000 - $90&hellip;</dd><dt><a href="http://clk.atdmt.com/MON/go/395287198/direct/01/?href=http%3A%2F%2Fjobview.monster.com%2FASP-NET-Technical-Consultant-ASP-NET-VB-NET-C-SQL-Server-Job-Burlington-MA-US-111745164.aspx">ASP.NET Technical Consultant - ASP.NET, VB.NET, C#, SQL Server</a></dt><dd>MA-Burlington, CyberCoders - Be Selective Location Cambridge, MA; Burlington, MA Salary $40,000 - $9&hellip;</dd></dl><a href="http://clk.atdmt.com/MON/go/397914259/direct/01/?href=http://jobs.arstechnica.com/">See more job listings</a>  </aside>
+    <h2 class="subheading notched" id="ars-job-board-title">Ars Jobs</h2><dl><dt><a href="https://clk.atdmt.com/MON/go/395287198/direct/01/?href=http%3A%2F%2Fjobview.monster.com%2FCloud-Architect-for-Network-Provider-Job-Malibu-CA-US-111745170.aspx">Cloud Architect for Network Provider</a></dt><dd>CA-Malibu, CyberCoders - Be Selective Location thousand oaks, CA; Malibu, CA Salary N/A Education Ba&hellip;</dd><dt><a href="https://clk.atdmt.com/MON/go/395287198/direct/01/?href=http%3A%2F%2Fjobview.monster.com%2FSoftware-Engineer-Job-southfield-MI-US-111745111.aspx">Software Engineer</a></dt><dd>MI-southfield, CyberCoders - Be Selective Location clawson , MI; southfield, MI Salary $50,000 - $90&hellip;</dd><dt><a href="https://clk.atdmt.com/MON/go/395287198/direct/01/?href=http%3A%2F%2Fjobview.monster.com%2FASP-NET-Technical-Consultant-ASP-NET-VB-NET-C-SQL-Server-Job-Burlington-MA-US-111745164.aspx">ASP.NET Technical Consultant - ASP.NET, VB.NET, C#, SQL Server</a></dt><dd>MA-Burlington, CyberCoders - Be Selective Location Cambridge, MA; Burlington, MA Salary $40,000 - $9&hellip;</dd></dl><a href="https://clk.atdmt.com/MON/go/397914259/direct/01/?href=https://jobs.arstechnica.com/">See more job listings</a>  </aside>
 </li>
 
 <li id="bottom-side-ad" class="thick-divide-top">
@@ -442,44 +442,44 @@
 				<div class="nav-section">
 					<h2 class="subheading">Conde Nast Sites</h2>
 					<ul class="conde-nast-sites">
-						<li><a href="http://www.reddit.com/">Reddit</a></li>
-						<li><a href="http://www.wired.com/">Wired</a></li>
-						<li><a href="http://www.vanityfair.com/">Vanity Fair</a></li>
-						<li><a href="http://www.style.com/">Style</a></li>
-						<li><a href="http://www.details.com/">Details</a></li>
+						<li><a href="https://www.reddit.com/">Reddit</a></li>
+						<li><a href="https://www.wired.com/">Wired</a></li>
+						<li><a href="https://www.vanityfair.com/">Vanity Fair</a></li>
+						<li><a href="https://www.style.com/">Style</a></li>
+						<li><a href="https://www.details.com/">Details</a></li>
 					</ul>
 					<form method="get" action="#">
 						<select id="mag_list" name="mag_list" onchange="(this.options[this.selectedIndex].value) ? (window.location = this.options[this.selectedIndex].value) : null">
 							<option value="" selected="selected">Visit our sister sites</option>
 							<option value="">- - - - - - - - - - - - - -</option>
-							<option value="http://www.gq.com">GQ</option>
-							<option value="http://www.concierge.com">Concierge</option>
-							<option value="http://www.epicurious.com">Epicurious</option>
-							<option value="http://men.style.com">Men.Style.com</option>
-							<option value="http://www.style.com">Style.com</option>
-							<option value="http://www.wired.com">Wired.com</option>
-							<option value="http://www.lipstick.com">Lipstick.com</option>
-							<option value="http://www.nutritiondata.com">NutritionData</option>
-							<option value="http://www.allure.com">Allure</option>
-							<option value="http://www.architecturaldigest.com">Architectural Digest</option>
-							<option value="http://www.bonappetit.com">Bon App&eacute;tit</option>
-							<option value="http://www.brides.com">Brides</option>
-							<option value="http://www.portfolio.com">Cond&eacute; Nast Portfolio</option>
-							<option value="http://www.glamour.com">Glamour</option>
-							<option value="http://www.golfdigest.com">Golf Digest</option>
-							<option value="http://www.golfworld.com">Golf World</option>
-							<option value="http://www.luckymag.com">Lucky</option>
-							<option value="http://www.self.com">Self</option>
-							<option value="http://www.teenvogue.com">Teen Vogue</option>
-							<option value="http://www.newyorker.com">The New Yorker</option>
-							<option value="http://www.vanityfair.com">Vanity Fair</option>
-							<option value="http://www.wmagazine.com">W</option>
+							<option value="https://www.gq.com">GQ</option>
+							<option value="https://www.concierge.com">Concierge</option>
+							<option value="https://www.epicurious.com">Epicurious</option>
+							<option value="https://men.style.com">Men.Style.com</option>
+							<option value="https://www.style.com">Style.com</option>
+							<option value="https://www.wired.com">Wired.com</option>
+							<option value="https://www.lipstick.com">Lipstick.com</option>
+							<option value="https://www.nutritiondata.com">NutritionData</option>
+							<option value="https://www.allure.com">Allure</option>
+							<option value="https://www.architecturaldigest.com">Architectural Digest</option>
+							<option value="https://www.bonappetit.com">Bon App&eacute;tit</option>
+							<option value="https://www.brides.com">Brides</option>
+							<option value="https://www.portfolio.com">Cond&eacute; Nast Portfolio</option>
+							<option value="https://www.glamour.com">Glamour</option>
+							<option value="https://www.golfdigest.com">Golf Digest</option>
+							<option value="https://www.golfworld.com">Golf World</option>
+							<option value="https://www.luckymag.com">Lucky</option>
+							<option value="https://www.self.com">Self</option>
+							<option value="https://www.teenvogue.com">Teen Vogue</option>
+							<option value="https://www.newyorker.com">The New Yorker</option>
+							<option value="https://www.vanityfair.com">Vanity Fair</option>
+							<option value="https://www.wmagazine.com">W</option>
 						</select>
 					</form>
 					<form method="get" action="#">
 						<select size="1" id="sub_list" name="sub_list" onchange="(this.options[this.selectedIndex].value) ? (window.location = this.options[this.selectedIndex].value) : null">
 							<option value="" selected="selected">Subscribe to a magazine</option>
-							<option value="http://www.magazinestoresubscriptions.com?source=univdropdown">View All Titles</option>
+							<option value="https://www.magazinestoresubscriptions.com?source=univdropdown">View All Titles</option>
 							<option value="">- - - - - - - - - - - - - -</option>
 							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?source=SITEFOOTER">Allure</option>
 							<option value="https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest">Architectural Digest</option>
@@ -512,15 +512,15 @@
 			
 	    			<div id="copyright-terms">
 			© 2012 Condé Nast. All rights reserved<br>
-			Use of this Site constitutes acceptance of our <a href="http://www.condenast.com/privacy-policy" target="_blank">User Agreement</a> (effective 3/21/12) and <a href="http://www.condenast.com/privacy-policy#privacypolicy" target="_blank">Privacy Policy</a> (effective 3/21/12)<br>
-			<a href="http://www.condenast.com/privacy-policy#privacypolicy-california" target="_blank">Your California Privacy Rights</a><br>
+			Use of this Site constitutes acceptance of our <a href="https://www.condenast.com/privacy-policy" target="_blank">User Agreement</a> (effective 3/21/12) and <a href="https://www.condenast.com/privacy-policy#privacypolicy" target="_blank">Privacy Policy</a> (effective 3/21/12)<br>
+			<a href="https://www.condenast.com/privacy-policy#privacypolicy-california" target="_blank">Your California Privacy Rights</a><br>
 			The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.<br><br>
-			<a href="http://www.condenast.com/privacy-policy#privacypolicy-optout" target="_blank">Ad Choices</a><img width="10" height="10" border="0" src="http://static.arstechnica.net/public/v6/styles/light/images/footer/ad_choices_arrow.png">
+			<a href="https://www.condenast.com/privacy-policy#privacypolicy-optout" target="_blank">Ad Choices</a><img width="10" height="10" border="0" src="https://static.arstechnica.net/public/v6/styles/light/images/footer/ad_choices_arrow.png">
 			</div> 
 
 		</footer>
 	</div>
-		<script type="text/javascript" src="http://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/js/ars.min.7ec6f5a0a76099969c5f68390eab8c38d52c56d8.js"></script>
+		<script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/arstechnica/assets/js/ars.min.7ec6f5a0a76099969c5f68390eab8c38d52c56d8.js"></script>
 	  
 	<script type="text/javascript">
 	// Google Analytics
@@ -535,7 +535,7 @@
   );
 	(function() {
 	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
 	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 	</script>
@@ -570,7 +570,7 @@
     _sf_async_config.uid = 27113;
     _sf_async_config.domain = 'arstechnica.com';
     _sf_async_config.sections = 'All';  //CHANGE THIS
-    _sf_async_config.path = "http://arstechnica.com/index.php";
+    _sf_async_config.path = "https://arstechnica.com/index.php";
     _sf_async_config.title = '';
     /** CONFIGURATION END **/
     (function(){
@@ -579,7 +579,7 @@
         var e = document.createElement('script');
         e.setAttribute('language', 'javascript');
         e.setAttribute('type', 'text/javascript');
-        e.setAttribute('src', (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 'js/chartbeat.js');
+        e.setAttribute('src', (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'https://static.chartbeat.com/') + 'js/chartbeat.js');
         document.body.appendChild(e);
       }
       var oldonload = window.onload;
@@ -594,9 +594,9 @@
     var s_trackingServer = 'stats2.arstechnica.com';
     var s_trackingServerSecure = 'sstats.arstechnica.com';
   </script>
-  <script type="text/javascript" src="http://static.arstechnica.net/public/shared/omniture/s_code.js"></script>
+  <script type="text/javascript" src="https://static.arstechnica.net/public/shared/omniture/s_code.js"></script>
     <script type="text/javascript">
-    s.pageName = "http://arstechnica.com/business/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board/";
+    s.pageName = "https://arstechnica.com/business/2012/04/zuckerberg-closed-instagram-deal-without-facebook-board/";
     s.prop1 = "";
     s.prop2 = "";
     s.prop5 = "blog";
@@ -611,11 +611,11 @@ s.hier1 = "business,2012,04,zuckerberg-closed-instagram-deal-without-facebook-bo
     if(s_code) document.write(s_code);
   </script>
 	  <script type="text/javascript"> if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')</script>
-  <noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://condenast.112.2o7.net/b/ss/condenet-dev/1/H.15.1--NS/0" height="1" width="1" border="0" alt="" /></a></noscript>
+  <noscript><a href="https://www.omniture.com" title="Web Analytics"><img src="https://condenast.112.2o7.net/b/ss/condenet-dev/1/H.15.1--NS/0" height="1" width="1" border="0" alt="" /></a></noscript>
 
 
 <!-- Lotame/Crwdcntrl -->
-<script src="http://tags.crwdcntrl.net/c/313/cc_af.js"></script>
+<script src="https://tags.crwdcntrl.net/c/313/cc_af.js"></script>
 
 </body>
 </html>

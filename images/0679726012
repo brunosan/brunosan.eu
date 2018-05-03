@@ -117,7 +117,7 @@
 
 
 
-<script type="text/javascript">(function(){var i=new Image;i.src = "http://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif";})();</script>
+<script type="text/javascript">(function(){var i=new Image;i.src = "https://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif";})();</script>
 
 
 
@@ -478,7 +478,7 @@ div.blurb div.title
 
 
 
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/US-combined-3926343938._V146284167_.css" />
+<link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/US-combined-3926343938._V146284167_.css" />
 
 
 
@@ -486,11 +486,11 @@ div.blurb div.title
 
 
 
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/dpSpritesCSS/US-combined-2097946467._V147811222_.css" />
+<link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/browser-scripts/dpSpritesCSS/US-combined-2097946467._V147811222_.css" />
 
 
 
-          <noscript><link type="text/css" rel="stylesheet" href="http://z-ecx.images-amazon.com/images/G/01/x-locale/communities/profile/customer-popover/style-no-js-3._V248984171_.css" /></noscript>
+          <noscript><link type="text/css" rel="stylesheet" href="https://z-ecx.images-amazon.com/images/G/01/x-locale/communities/profile/customer-popover/style-no-js-3._V248984171_.css" /></noscript>
  
 
 
@@ -533,7 +533,7 @@ div.blurb div.title
 
 
   #buyboxusedDivId table.buyBox td.topLeft {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
     background-repeat: no-repeat;
     background-position: top left;
     padding-top: 12px;
@@ -541,20 +541,20 @@ div.blurb div.title
   }
 
   #buyboxusedDivId table.buyBox td.topRight {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
     background-repeat: no-repeat;
     background-position: top right;
   }
 
   #buyboxusedDivId table.buyBox td.bottomLeft {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
     background-repeat: no-repeat;
     background-position: bottom left;
     font-size: 4px;
   }
 
   #buyboxusedDivId table.buyBox td.bottomRight {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     font-size: 4px;
@@ -620,18 +620,18 @@ div.replacementWidget {
       font-size: xx-small;
       color:#808080;
     }
-    .wl-pop-unsprited .wl-pop-body .wl-pop-left { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_left._V245377548_.png); }
-    .wl-pop-unsprited .wl-pop-body .wl-pop-right { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_right._V245377550_.png); }
-    .wl-pop-unsprited .wl-pop-header .wl-pop-left { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_topleft._V245421466_.png); }
-    .wl-pop-unsprited .wl-pop-header .wl-pop-right { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_topright._V245377539_.png); }
-    .wl-pop-unsprited .wl-pop-header .wl-pop-middle { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_top._V245377545_.png); }
-    .wl-pop-unsprited .wl-pop-footer .wl-pop-left { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottomleft._V245377589_.png); }
-    .wl-pop-unsprited .wl-pop-footer .wl-pop-right { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottomright._V245377584_.png); }
-    .wl-pop-unsprited .wl-pop-footer .wl-pop-middle { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottom._V156433861_.png); }
+    .wl-pop-unsprited .wl-pop-body .wl-pop-left { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_left._V245377548_.png); }
+    .wl-pop-unsprited .wl-pop-body .wl-pop-right { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_right._V245377550_.png); }
+    .wl-pop-unsprited .wl-pop-header .wl-pop-left { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_topleft._V245421466_.png); }
+    .wl-pop-unsprited .wl-pop-header .wl-pop-right { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_topright._V245377539_.png); }
+    .wl-pop-unsprited .wl-pop-header .wl-pop-middle { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_top._V245377545_.png); }
+    .wl-pop-unsprited .wl-pop-footer .wl-pop-left { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottomleft._V245377589_.png); }
+    .wl-pop-unsprited .wl-pop-footer .wl-pop-right { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottomright._V245377584_.png); }
+    .wl-pop-unsprited .wl-pop-footer .wl-pop-middle { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottom._V156433861_.png); }
 
     .wl-pop-sprited .wl-pop-body .wl-pop-left,
     .wl-pop-sprited .wl-pop-body .wl-pop-right {
-      background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_buybox_drop_sides._V247168586_.png);
+      background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_buybox_drop_sides._V247168586_.png);
     }
 
     .wl-pop-sprited .wl-pop-header .wl-pop-left,
@@ -640,7 +640,7 @@ div.replacementWidget {
     .wl-pop-sprited .wl-pop-footer .wl-pop-left,
     .wl-pop-sprited .wl-pop-footer .wl-pop-right,
     .wl-pop-sprited .wl-pop-footer .wl-pop-middle {
-      background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_wladd_drop_corners._V156421604_.png);
+      background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_wladd_drop_corners._V156421604_.png);
     }
 
     .wl-pop-hide {
@@ -947,8 +947,8 @@ div.nvffRed          { margin-top:5px; font-size:.85em; color:#990000; }
   top: -2px;
   left: 1px;
   width: 100%;
-  background: url(http://g-ecx.images-amazon.com/images/G/01/twister/images/down-arrow-shadow-v2-buybox._V181901516_.png) center top no-repeat;
-  _background-image: url(http://g-ecx.images-amazon.com/images/G/01/twister/images/down-arrow-v2-buybox._V181901516_.png);
+  background: url(https://g-ecx.images-amazon.com/images/G/01/twister/images/down-arrow-shadow-v2-buybox._V181901516_.png) center top no-repeat;
+  _background-image: url(https://g-ecx.images-amazon.com/images/G/01/twister/images/down-arrow-v2-buybox._V181901516_.png);
   clear: both;
   z-index: 10;
 }
@@ -991,7 +991,7 @@ hr.bb_exp_co {
 .buyBottomBox .cBoxTL, .buyBottomBox .cBoxTR, .buyBottomBox .cBoxBL, .buyBottomBox .cBoxBR,
 .mbcBox .cBoxTL, .mbcBox .cBoxTR, .mbcBox .cBoxBL, .mbcBox .cBoxBR,
 .addonBox .cBoxTL, .addonBox .cBoxTR { 
-  background-image:url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-cbox._V144964347_.png); 
+  background-image:url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-cbox._V144964347_.png); 
   background-repeat:no-repeat; 
 }
 
@@ -1039,7 +1039,7 @@ hr.bb_exp_co {
   background-color: #ebf3fe;
 }
 .s_bbAdd2Cart {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/btn_add-to-cart._V156421482_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/btn_add-to-cart._V156421482_.png);
 }
 div.mbcContainer { font-size:0.86em; }
 div.mbcContainer div.mbcTitle, div.emwaTitle {
@@ -1183,7 +1183,7 @@ td.bortInfoCell {
 
 .bortInfoDiv ul,
 td.bortInfoCell ul {
-  list-style: disc url(http://g-ecx.images-amazon.com/images/G/01/digital/text/orange-circle._V29336548_.gif) outside;
+  list-style: disc url(https://g-ecx.images-amazon.com/images/G/01/digital/text/orange-circle._V29336548_.gif) outside;
   padding: 0;
   margin: 0 0 0 1.5em;
 }
@@ -1243,7 +1243,7 @@ td.bortImgCell {
     height: 17px;
     margin-right: 1px;
     background-position: 0 -34px;
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/error-sprite-mini._V1_.gif');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/error-sprite-mini._V1_.gif');
     background-repeat: no-repeat;
 }
 
@@ -1307,31 +1307,31 @@ td.bortImgCell {
     cursor: pointer;
 }
 #vellumMsgIco, #vellumMsgCls {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/sitbreader-sprites._V1_.png');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/sitbreader-sprites._V1_.png');
     background-repeat: no-repeat;
 }
 #vellumLdgIco {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/loading-pre-lightbox._V1_.gif');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/loading-pre-lightbox._V1_.gif');
     background-repeat: no-repeat;
 }
 
 .nav-sprite {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png);
 }
 .nav_pop_h {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png);
 }
 .nav_pop_v {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png);
 }
 .nav_ie6 .nav_pop_h {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png);
 }
 .nav_ie6 .nav_pop_v {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png);
 }
 .nav-ajax-loading .nav-ajax-message {
-  background: center center url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif) no-repeat;
+  background: center center url(https://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif) no-repeat;
 }
 
     
@@ -1405,7 +1405,7 @@ ul.primeBuyBox
 
 .prime-pBox { position:relative; width:100%; margin-bottom:15px;}
 .prime-pBoxInner { font-size:10px; padding:0 9px 6px;}
-.prime-pBoxBL, .prime-pBoxBR { position:absolute; width:10px; height:10px; z-index:1; bottom:-1px; background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/common/sprite-all-corners._V192251185_.gif); background-repeat:no-repeat; }
+.prime-pBoxBL, .prime-pBoxBR { position:absolute; width:10px; height:10px; z-index:1; bottom:-1px; background-image:url(https://g-ecx.images-amazon.com/images/G/01/x-locale/common/sprite-all-corners._V192251185_.gif); background-repeat:no-repeat; }
 .prime-pBoxBL { left:-1px; background-position:0px -10px; }
 .prime-pBoxBR { right:-1px; background-position:-10px -10px; }
 .prime-pBoxB { position:absolute; width:100%; height:1px; bottom:-1px; background-color:#C9E1F4; }
@@ -1417,14 +1417,14 @@ ul.primeBuyBox
 
 
 div.sdBuyBox {
-    background-image:url('http://g-ecx.images-amazon.com/images/G/01/kitchen/scheduled-delivery/sd_bkgd_sprite2._V156428021_.png');
+    background-image:url('https://g-ecx.images-amazon.com/images/G/01/kitchen/scheduled-delivery/sd_bkgd_sprite2._V156428021_.png');
 }
 .sdCorner {
-    background-image:url('http://g-ecx.images-amazon.com/images/G/01/kitchen/scheduled-delivery/sd_bkgd_sprite2._V156428021_.png'); 
+    background-image:url('https://g-ecx.images-amazon.com/images/G/01/kitchen/scheduled-delivery/sd_bkgd_sprite2._V156428021_.png'); 
 }
 
 div.fionaPublish {
-  background-image: url('http://g-ecx.images-amazon.com/images/G/01/kindle/merch/global/kindle-widget-photo._V166505203_.jpg');
+  background-image: url('https://g-ecx.images-amazon.com/images/G/01/kindle/merch/global/kindle-widget-photo._V166505203_.jpg');
   background-repeat: no-repeat;
   min-height: 8em;
   height: auto  !important;
@@ -1437,7 +1437,7 @@ div.fionaPublish div {
 }
 
 div.fionaRentalPublish {
-  background-image: url('http://g-ecx.images-amazon.com/images/G/01/kindle/rentals/rent-book-promo-image._V176687376_.png');
+  background-image: url('https://g-ecx.images-amazon.com/images/G/01/kindle/rentals/rent-book-promo-image._V176687376_.png');
   background-repeat: no-repeat;
   min-height: 6em;
   height: auto  !important;
@@ -1467,35 +1467,35 @@ table.gftRdm .gftRdmRight {
 }
 
 table.gftRdm .gftRdmTop .gftRdmLeft {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top-left._V200235849_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top-left._V200235849_.jpg");
 }
 
 table.gftRdm .gftRdmTop .gftRdmCenter {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top._V200235850_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top._V200235850_.jpg");
 }
 
 table.gftRdm .gftRdmTop .gftRdmRight {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top-right._V200235851_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top-right._V200235851_.jpg");
 }
 
 table.gftRdm .gftRdmCenter .gftRdmLeft {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-left._V200235894_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-left._V200235894_.jpg");
 }
 
 table.gftRdm .gftRdmCenter .gftRdmRight {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-right._V200235855_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-right._V200235855_.jpg");
 }
 
 table.gftRdm .gftRdmBottom .gftRdmLeft {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom-left._V200235899_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom-left._V200235899_.jpg");
 }
 
 table.gftRdm .gftRdmBottom .gftRdmCenter {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom._V200235895_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom._V200235895_.jpg");
 }
 
 table.gftRdm .gftRdmBottom .gftRdmRight {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom-right._V200235893_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom-right._V200235893_.jpg");
 }
 
 .giftRedemptionWrapper {
@@ -1625,7 +1625,7 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 .pphButton {
 	width: 211px;
 	height: 26px;
-	background-image: url(http://g-ecx.images-amazon.com/images/G/01/payphrase/widget-background._V192199000_.gif);
+	background-image: url(https://g-ecx.images-amazon.com/images/G/01/payphrase/widget-background._V192199000_.gif);
 	background-repeat: no-repeat;
 	padding: 0;
 	position: relative;
@@ -1633,7 +1633,7 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 .pphButtonSmall {
 	width: 161px;
 	height: 26px;
-	background-image: url(http://g-ecx.images-amazon.com/images/G/01/payphrase/widget_background_161x26._V187983538_.gif);
+	background-image: url(https://g-ecx.images-amazon.com/images/G/01/payphrase/widget_background_161x26._V187983538_.gif);
 	background-repeat: no-repeat;
 	margin-top: 5px;
 	position: relative;
@@ -1822,13 +1822,13 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 
 
 .bxgy-priceblock .button-sprite, #bxgy_price_button_block .button-sprite {
-        background-image: url( http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/bxgy/fbt-cart-preorder-sprite._V192190832_.gif);
+        background-image: url( https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/bxgy/fbt-cart-preorder-sprite._V192190832_.gif);
 }
 .bxgy-priceblock .wl-button-sprite, #bxgy_wl_button_block .wl-button-sprite {
-        background-image: url( http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/wishlist/add-to-wl-button-sprite._V192250042_.gif);
+        background-image: url( https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/wishlist/add-to-wl-button-sprite._V192250042_.gif);
 }
 .bxgySellerLoading {
-    background: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/common/loading/loading-small._V192239831_.gif') no-repeat 50px 20px;
+    background: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/common/loading/loading-small._V192239831_.gif') no-repeat 50px 20px;
     height: 50px;
     margin: 0;
     padding: 0;
@@ -1838,7 +1838,7 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 
 
 .shoveler li.shoveler-progress {
-    background: no-repeat center 45px url('http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-small._V192238939_.gif');
+    background: no-repeat center 45px url('https://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-small._V192238939_.gif');
 }
 
 .simsWrapper .shoveler ul {
@@ -1874,7 +1874,7 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 /*
 #######################################################
 # hackish for IE6's doubled float margin bug:see
-# http://www.positioniseverything.net/explorer/doubled-margin.html
+# https://www.positioniseverything.net/explorer/doubled-margin.html
 #######################################################
 */
 
@@ -2011,19 +2011,19 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 }
 
 #zgWrapper .shoveler ul li.shoveler-progress {
-    background:no-repeat center 45px url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/loading-indicator._V192185253_.gif');
+    background:no-repeat center 45px url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/loading-indicator._V192185253_.gif');
 }
 #zgWrapper .shoveler .back-button a .bg-image, 
 #zgWrapper .shoveler .next-button a .bg-image,
 #zgWrapper .shoveler div.disabled-button {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif');
 }
 .shvlBack a .bg-image {
-	background-image:url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif'); 
+	background-image:url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif'); 
 	background-position:0px 0px; 
 	}
 .shvlNext a .bg-image {
-	background-image:url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif'); 
+	background-image:url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif'); 
 	background-position:25px 0px; 
 	}
 
@@ -2476,28 +2476,28 @@ table.twisterMediaMatrix .tmm_buttonTD {
 
 
 .s_expandTMM {
-  background:transparent url(http://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
+  background:transparent url(https://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
   background-position: 5px 5px;
   height:22px;
   width: 22px ;
 }
 
 .s_collapseTMM {
-  background:transparent url(http://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
+  background:transparent url(https://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
   background-position:-15px 5px;
   height:22px;
   width: 22px ;
 }
 
 .s_primeBadgeTMM {
-  background:transparent url(http://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
+  background:transparent url(https://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
   background-position:-40px 0px;
   height:12px;
   width:41px ;
 }
 
 .s_aivlogoTMM {
-    background:transparent url(http://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
+    background:transparent url(https://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
     background-position:5px -15px;
     height: 16px;
     width: 130px;
@@ -2591,7 +2591,7 @@ table.twisterMediaMatrix .tmm_buttonTD {
 
   .tag-cols .snake {
     display: block;
-    background: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/tags/graysnake._V192250049_.gif');
+    background: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/tags/graysnake._V192250049_.gif');
   }
 
   #tagContentHolder .tip {
@@ -2647,7 +2647,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
     position:relative;
     height:43px; 
     background-color:#dddddd; 
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/customerimage/shuttle-gradient._V192250138_.gif); 
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/customerimage/shuttle-gradient._V192250138_.gif); 
     background-position: bottom; 
     background-repeat : repeat-x;
 }
@@ -2920,7 +2920,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
     position: relative;
     overflow: hidden;
     vertical-align: middle;
-    background: url(http://g-ecx.images-amazon.com/images/G/01/electronics/click2call/click2call-sprite._V156431432_.png) no-repeat;
+    background: url(https://g-ecx.images-amazon.com/images/G/01/electronics/click2call/click2call-sprite._V156431432_.png) no-repeat;
 }
 .c2c-inline-sprite span {
     position:absolute;
@@ -3151,7 +3151,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 
 div.mp3Enabled { display: block; height: 20px; position: relative; }
 div.mp3Enabled a.mp3Asin { display: -moz-inline-box; display: inline-block; height: 20px; width: 20px; cursor: pointer; margin: 0; vertical-align: middle; overflow: hidden;
-		background: url('http://g-ecx.images-amazon.com/images/G/01/zeitgeist/mp3player/sprites._V192194383_.gif') repeat-x scroll 0 0; }
+		background: url('https://g-ecx.images-amazon.com/images/G/01/zeitgeist/mp3player/sprites._V192194383_.gif') repeat-x scroll 0 0; }
 div.mp3Enabled a.mp3AsinActive { background-position: 0 0; }
 div.mp3Enabled a.mp3AsinActiveHover { background-position: -25px 0; }
 div.mp3Enabled a.mp3AsinActivePause { background-position: 0 -25px; }
@@ -3203,8 +3203,8 @@ var amznJQ,jQueryPatchIPadOffset=false;
 
 </script>
 
-<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-9265404329._V1_.css' rel='stylesheet'>
-<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/dpMergedOverallCSS/dpMergedOverallCSS-11889185633._V1_.css' rel='stylesheet'>
+<link type='text/css' href='https://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-9265404329._V1_.css' rel='stylesheet'>
+<link type='text/css' href='https://z-ecx.images-amazon.com/images/G/01/browser-scripts/dpMergedOverallCSS/dpMergedOverallCSS-11889185633._V1_.css' rel='stylesheet'>
 
 
 
@@ -3237,7 +3237,7 @@ function amz_js_PopWin(url,name,options){
 
 
 
-<link rel="canonical" href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/0553452134" />
+<link rel="canonical" href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/0553452134" />
 <meta name="description" content="Amazon.com: Innumeracy: Mathematical Illiteracy and Its Consequences (Vintage) (9780679726012): John Allen Paulos: Books" />
 <meta name="title" content="Amazon.com: Innumeracy: Mathematical Illiteracy and Its Consequences (Vintage) (9780679726012): John Allen Paulos: Books" />
 
@@ -3322,22 +3322,22 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
 
 
 
-<img src="http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png" style="display:none" alt=""/>
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" style="display:none" alt="" id="nav_trans_pixel"/>
+<img src="https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png" style="display:none" alt=""/>
+<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" style="display:none" alt="" id="nav_trans_pixel"/>
 <script type="text/javascript"><!--
-  window._navbarSpriteUrl = "http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png";
+  window._navbarSpriteUrl = "https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png";
   amznJQ.available('popover', function() {
     amznJQ.available('navbarBTF', function() {
       var ie6 = jQuery.browser.msie && parseInt(jQuery.browser.version) <= 6,
           h = new Image(), v = new Image(), c = 0, b, f, bi,
           fn = function(p){ switch(typeof p){ case'boolean':{b=p;bi=1;break} case'function':{f=p} default:{c++} } if(bi&&c>2)f(b) };
-      h.src = (ie6 ? 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png' : 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png');
-      v.src = (ie6 ? 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png' : 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png');
+      h.src = (ie6 ? 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png' : 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png');
+      v.src = (ie6 ? 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png' : 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png');
       window._navpreload = {'sprite_h':h, 'sprite_v':v, '_protectExposeSBD':fn};
 
       _navpreload._menuCallback = function() {
         _navpreload.spin = new Image();
-        _navpreload.spin.src = 'http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif';
+        _navpreload.spin.src = 'https://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif';
       };
     });
   });
@@ -3623,7 +3623,7 @@ _navbar._ajaxProximity = [141,7,60,150];
                 </li>
                 <li class="nav-subnav-item ">
                   <a href='/Books/b?ie=UTF8&node=549028' class='nav_a'>
-                   The&nbsp;New&nbsp;York Times®&nbsp;Best&nbsp;Sellers
+                   The&nbsp;New&nbsp;York Timesï¿½&nbsp;Best&nbsp;Sellers
                   </a>
                 </li>
                 <li class="nav-subnav-item ">
@@ -3720,7 +3720,7 @@ _navbar.abbrDropdown = false;
 
 
 <div id="rwImages_hidden" style="display:none;">
-    <img src="http://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif" style="display:none;"/>
+    <img src="https://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif" style="display:none;"/>
 </div>
 
 
@@ -3895,7 +3895,7 @@ _navbar.abbrDropdown = false;
 
 
 
-<div name="goKindleStaticPopDiv" style="text-align:center;background-repeat: repeat-x;background-image:url('http://g-ecx.images-amazon.com/images/G/01/digital/fiona/general/green-fade-background._V192188963_.gif');">
+<div name="goKindleStaticPopDiv" style="text-align:center;background-repeat: repeat-x;background-image:url('https://g-ecx.images-amazon.com/images/G/01/digital/fiona/general/green-fade-background._V192188963_.gif');">
 
 
 
@@ -3903,7 +3903,7 @@ _navbar.abbrDropdown = false;
 
 
 
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-ebook/dp/B0058U7HTO"><strong>Innumeracy: Mathematical Illiteracy and Its Consequences</strong></a>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-ebook/dp/B0058U7HTO"><strong>Innumeracy: Mathematical Illiteracy and Its Consequences</strong></a>
  and over one million other books are available for <b>Amazon Kindle</b>. 
 
 
@@ -3911,7 +3911,7 @@ _navbar.abbrDropdown = false;
 
 
 
-<a href="http://www.amazon.com/Kindle-eReader-eBook-Reader-e-Reader-Special-Offers/dp/B0051QVESA">Learn more</a>
+<a href="https://www.amazon.com/Kindle-eReader-eBook-Reader-e-Reader-Special-Offers/dp/B0051QVESA">Learn more</a>
 </div>
 
 
@@ -3932,7 +3932,7 @@ _navbar.abbrDropdown = false;
 
 
 
-  <form method="post" id="handleBuy" name="handleBuy" action="http://www.amazon.com/gp/product/handle-buy-box" style="margin: 0pt;" autocomplete="off">
+  <form method="post" id="handleBuy" name="handleBuy" action="https://www.amazon.com/gp/product/handle-buy-box" style="margin: 0pt;" autocomplete="off">
 
 <input type="hidden" id="session-id" name="session-id" value="000-0000000-0000000" />
 <input type="hidden" id="ASIN" name="ASIN" value="0679726012" />
@@ -4264,7 +4264,7 @@ _navbar.abbrDropdown = false;
   });
 </script>
 <div id ="SSOFpopover" style="display: none">
-  Fulfillment by Amazon (FBA) is a service we offer sellers that lets them store their products in Amazon's own warehouses, and we directly pack, ship, and provide customer service for these items. Something we hope you'll especially enjoy: <em>FBA items qualify for FREE Super Saver Shipping and <img src="http://g-ecx.images-amazon.com/images/G/01/sdp/popover/fba/amz-prime._V192217000_.gif" width="92" alt="Amazon Prime" height="12" border="0" />.</em>
+  Fulfillment by Amazon (FBA) is a service we offer sellers that lets them store their products in Amazon's own warehouses, and we directly pack, ship, and provide customer service for these items. Something we hope you'll especially enjoy: <em>FBA items qualify for FREE Super Saver Shipping and <img src="https://g-ecx.images-amazon.com/images/G/01/sdp/popover/fba/amz-prime._V192217000_.gif" width="92" alt="Amazon Prime" height="12" border="0" />.</em>
   <br /><br />
   If you're a seller, you can increase your sales significantly by using Fulfillment by Amazon. We invite you to <a href="/gp/seller/fba/fulfillment-by-amazon.html?ie=UTF8&ref=dp_fba_pop&ld=AZFBADP" target="_blank" style="font-weight: bold;">learn more about Fulfillment by Amazon</a>.
 </div>
@@ -4277,7 +4277,7 @@ _navbar.abbrDropdown = false;
 
 
 <span id="addToCartUBBSpan">
-<input type="image" title="" alt="Add to Shopping Cart" border="0" class="dpSprite s_bbAdd2Cart " id="" value="" name="submit.add-to-cart-ubb" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
+<input type="image" title="" alt="Add to Shopping Cart" border="0" class="dpSprite s_bbAdd2Cart " id="" value="" name="submit.add-to-cart-ubb" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
 </span>
 <br />
 
@@ -4388,7 +4388,7 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
     function () {
       jQuery("#oneClickBuyButton").click(
 	function () {
-	  var hbbAction = jQuery('#handleBuy').attr("action").replace("http:", "https:");
+	  var hbbAction = jQuery('#handleBuy').attr("action").replace("https:", "https:");
 	  jQuery('#handleBuy').attr("action", hbbAction );
 	  return true;
 	}
@@ -4504,7 +4504,7 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
       font-size: small;
     }
     table.fionaBuyBox td.topLeft {
-      background-image: url("http://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/tl2._V192261580_.gif");
+      background-image: url("https://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/tl2._V192261580_.gif");
       background-repeat: no-repeat;
       font-size: .86em;
       padding-top: 10px;
@@ -4513,18 +4513,18 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
     }
 
     table.fionaBuyBox td.topRight {
-      background-image: url("http://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/tr._V192261582_.gif");
+      background-image: url("https://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/tr._V192261582_.gif");
       background-repeat: no-repeat;
     }
 
     table.fionaBuyBox td.bottomLeft {
-      background-image: url("http://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/bl2._V192261606_.gif");
+      background-image: url("https://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/bl2._V192261606_.gif");
       background-repeat: no-repeat;
       font-size: 4px;
     }
 
     table.fionaBuyBox td.bottomRight {
-      background-image: url("http://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/br._V192261606_.gif");
+      background-image: url("https://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/br._V192261606_.gif");
       background-repeat: no-repeat;
       font-size: 4px;
     }
@@ -4548,14 +4548,14 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
   }
 
   table.fionaBuyBox .wishlist td.bottomLeft {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mp3_wl_bb._V156421465_.png');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mp3_wl_bb._V156421465_.png');
     background-position: left bottom;
     text-align: center;
     padding: 4px 0px 6px 13px;
   }
 
   table.fionaBuyBox .wishlist td.bottomRight {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mp3_wl_bb._V156421465_.png');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mp3_wl_bb._V156421465_.png');
     background-position: right bottom;
   }
 
@@ -4574,7 +4574,7 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
   
 
 <script type="text/javascript">
-  amznJQ.addLogical("cascade", ["http://kindleweb.s3.amazonaws.com/app/KindleReader-min.js"]);
+  amznJQ.addLogical("cascade", ["https://kindleweb.s3.amazonaws.com/app/KindleReader-min.js"]);
 </script>
 
 <div id="kindleReaderContainer" style="display: none;"></div>
@@ -4703,9 +4703,9 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
       <div style="text-align: center;">
   <div style="padding-bottom: 6px; font-size: small"><b>Kindle Edition</b></div>
 
-        <img src="http://g-ecx.images-amazon.com/images/G/01/kindle/cascade/read-first-chapter-free._V156427760_.png" id="KcpmKindleReaderSampleButton" style="cursor:pointer"/>
+        <img src="https://g-ecx.images-amazon.com/images/G/01/kindle/cascade/read-first-chapter-free._V156427760_.png" id="KcpmKindleReaderSampleButton" style="cursor:pointer"/>
   <div class="tiny">
-    Read the <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-ebook/dp/B0058U7HTO">Kindle edition</a> 
+    Read the <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-ebook/dp/B0058U7HTO">Kindle edition</a> 
 on <a href="/dp/B0051QVESA">Kindle</a>, <a href="/gp/kindle/iphone">iPhone</a>, <a href="/gp/kindle/ipad">iPad</a>, <a href="/gp/kindle/android/shortUrlRedirect.html">Android</a>, <a href="/gp/kindle/blackberry">BlackBerry</a>, <a href="/gp/kindle/pc">PC</a> and <a href="/gp/kindle/mac">Mac</a>.
 
   </div>
@@ -4782,7 +4782,7 @@ on <a href="/dp/B0051QVESA">Kindle</a>, <a href="/gp/kindle/iphone">iPhone</a>, 
   
     Have one to sell? 
 
-<span style="align: absmiddle;"><a class="dpSprite s_sellYoursHere " href="http://catalog-retail.amazon.com/abis/syh/DisplayCondition?_encoding=UTF8&coliid=&qid=&asin=0679726012&sr=&colid=&ld=AMZDP" ><span>Sell yours here</span></a></span>
+<span style="align: absmiddle;"><a class="dpSprite s_sellYoursHere " href="https://catalog-retail.amazon.com/abis/syh/DisplayCondition?_encoding=UTF8&coliid=&qid=&asin=0679726012&sr=&colid=&ld=AMZDP" ><span>Sell yours here</span></a></span>
 </div>
 
 
@@ -4876,7 +4876,7 @@ on <a href="/dp/B0051QVESA">Kindle</a>, <a href="/gp/kindle/iphone">iPhone</a>, 
 
       <table style="text-align: center;" border="0" cellpadding="0" cellspacing="0" width="240">
       <tr id="prodImageContainer">
-        <td id="prodImageCell" height="240" width="240"><a href="/gp/reader/0679726012#reader-link" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReader('sib_dp_pt'); return false; }"><img onload="if (typeof uet == 'function') { if(typeof setCSMReq=='function'){setCSMReq('af');setCSMReq('cf');}else{uet('af');uet('cf');amznJQ.completedStage('amznJQ.AboveTheFold');} } " src="http://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif" id="prodImage"  width="240" height="240"  onMouseOver="sitb_showLayer('bookpopover'); return false;" onMouseOut="sitb_doHide('bookpopover'); return false;" border="0" alt="Innumeracy: Mathematical Illiteracy and Its Consequences (Vintage)" onmouseover="" /></a><div id="prodImageCellInner" style="position: relative; height:0px;"><!--Comment for IE as it is empty div--></div></td>
+        <td id="prodImageCell" height="240" width="240"><a href="/gp/reader/0679726012#reader-link" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReader('sib_dp_pt'); return false; }"><img onload="if (typeof uet == 'function') { if(typeof setCSMReq=='function'){setCSMReq('af');setCSMReq('cf');}else{uet('af');uet('cf');amznJQ.completedStage('amznJQ.AboveTheFold');} } " src="https://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif" id="prodImage"  width="240" height="240"  onMouseOver="sitb_showLayer('bookpopover'); return false;" onMouseOut="sitb_doHide('bookpopover'); return false;" border="0" alt="Innumeracy: Mathematical Illiteracy and Its Consequences (Vintage)" onmouseover="" /></a><div id="prodImageCellInner" style="position: relative; height:0px;"><!--Comment for IE as it is empty div--></div></td>
      </tr>
      <tr>
         <td class="tiny">&nbsp;<span id="prodImageCaption"><br /></span>&nbsp;</td>
@@ -4893,9 +4893,9 @@ on <a href="/dp/B0051QVESA">Kindle</a>, <a href="/gp/kindle/iphone">iPhone</a>, 
     initVars(0, 0, '','', '','','', 'book_display_on_website', '{}', 0);
      
      setIVMouseoverEvent();
-  registerImage("original_image", "http://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif","<a href="+'"'+"/gp/reader/0679726012#reader-link"+'"'+" onclick="+'"'+"if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReader('sib_dp_pt'); return false; }"+'"'+"><img  src="+'"'+"http://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif"+'"'+" id="+'"'+"prodImage"+'"'+"  width="+'"'+"240"+'"'+" height="+'"'+"240"+'"'+"  onMouseOver="+'"'+"sitb_showLayer('bookpopover'); return false;"+'"'+" onMouseOut="+'"'+"sitb_doHide('bookpopover'); return false;"+'"'+" border="+'"'+"0"+'"'+" alt="+'"'+"Innumeracy: Mathematical Illiteracy and Its Consequences (Vintage)"+'"'+" onmouseover="+'"'+""+'"'+" /></a>", "<br />", "");
+  registerImage("original_image", "https://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif","<a href="+'"'+"/gp/reader/0679726012#reader-link"+'"'+" onclick="+'"'+"if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReader('sib_dp_pt'); return false; }"+'"'+"><img  src="+'"'+"https://ecx.images-amazon.com/images/I/71TBC7TY0HL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.gif"+'"'+" id="+'"'+"prodImage"+'"'+"  width="+'"'+"240"+'"'+" height="+'"'+"240"+'"'+"  onMouseOver="+'"'+"sitb_showLayer('bookpopover'); return false;"+'"'+" onMouseOut="+'"'+"sitb_doHide('bookpopover'); return false;"+'"'+" border="+'"'+"0"+'"'+" alt="+'"'+"Innumeracy: Mathematical Illiteracy and Its Consequences (Vintage)"+'"'+" onmouseover="+'"'+""+'"'+" /></a>", "<br />", "");
  }
-var spinnerForHZ = 'http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-small._V192238939_.gif';
+var spinnerForHZ = 'https://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-small._V192238939_.gif';
 var spinnerDimensions = [23,23];
 var hzSpinnerOn = 0, ivSpinnerOn = 0;
 var cbEventEnum = {"none" : 0, "changeImage" : 1, "mouseover" : 2, "openIV" : 3};
@@ -5156,7 +5156,7 @@ function async_openIVOrChangeImage(imageID, imageTagID, showNotesTag, event) {
   <div>
 
 
-    Start reading <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-ebook/dp/B0058U7HTO">Innumeracy: Mathematical Illiteracy and Its Consequences</a> on your Kindle <strong>in under a minute</strong>.
+    Start reading <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-ebook/dp/B0058U7HTO">Innumeracy: Mathematical Illiteracy and Its Consequences</a> on your Kindle <strong>in under a minute</strong>.
 
 
     <br /><br />
@@ -5389,8 +5389,8 @@ function async_openIVOrChangeImage(imageID, imageTagID, showNotesTag, event) {
   });
 </script>
 <span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary acr-popover non-lazy" name="0679726012" ref="dp_top_cm_cr_acr_pop_" >
-              <a style="cursor:pointer;text-decoration:none" href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" name="reviewHistoPop_0679726012__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
-          style="margin-left:-3px"><a style="text-decoration:none" href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" name="reviewHistoPop_0679726012__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" >108 customer reviews</a>)</span></span> <span class="byLinePipe">|</span> 
+              <a style="cursor:pointer;text-decoration:none" href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" name="reviewHistoPop_0679726012__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
+          style="margin-left:-3px"><a style="text-decoration:none" href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" name="reviewHistoPop_0679726012__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" >108 customer reviews</a>)</span></span> <span class="byLinePipe">|</span> 
 
 
 
@@ -5628,9 +5628,9 @@ function async_openIVOrChangeImage(imageID, imageTagID, showNotesTag, event) {
 
 
 
-<table border="0" style="border: 0px solid; border-color: #afd1d2; padding: 5px; border-spacing: 0px;"><tr style="vertical-align: top;"><td style="font-size: 11px;"><a href="/gp/redirect.html?location=http://www.amazon.com/gp/student/signup/info&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83"><img src="http://g-ecx.images-amazon.com/images/G/01/books/amyhorn/Student-logos/Student-100._V144252172_.gif" width="100" align="left" alt="Textbook Student" height="19" border="0" /></a>
+<table border="0" style="border: 0px solid; border-color: #afd1d2; padding: 5px; border-spacing: 0px;"><tr style="vertical-align: top;"><td style="font-size: 11px;"><a href="/gp/redirect.html?location=https://www.amazon.com/gp/student/signup/info&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83"><img src="https://g-ecx.images-amazon.com/images/G/01/books/amyhorn/Student-logos/Student-100._V144252172_.gif" width="100" align="left" alt="Textbook Student" height="19" border="0" /></a>
 
-FREE Two-Day Shipping for students on millions of items. <a href="/gp/redirect.html?location=http://www.amazon.com/gp/student/signup/info&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83">Learn more</a></td></tr></table><table border="0"><tr><td><br clear="all"/></td></tr></table>
+FREE Two-Day Shipping for students on millions of items. <a href="/gp/redirect.html?location=https://www.amazon.com/gp/student/signup/info&token=3A0F170E7CEFE27BDC730D3D7344512BC1296B83">Learn more</a></td></tr></table><table border="0"><tr><td><br clear="all"/></td></tr></table>
     
 
 
@@ -5779,7 +5779,7 @@ FREE Two-Day Shipping for students on millions of items. <a href="/gp/redirect.h
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-ebook/dp/B0058U7HTO">Kindle Edition</a>
+           <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-ebook/dp/B0058U7HTO">Kindle Edition</a>
        </td>
 
 
@@ -5816,7 +5816,7 @@ FREE Two-Day Shipping for students on millions of items. <a href="/gp/redirect.h
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/0809074478">Hardcover</a>
+           <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/0809074478">Hardcover</a>
        </td>
 
 
@@ -5859,7 +5859,7 @@ FREE Two-Day Shipping for students on millions of items. <a href="/gp/redirect.h
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/0809058405">Paperback</a>
+           <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/0809058405">Paperback</a>
        </td>
 
 
@@ -5936,7 +5936,7 @@ FREE Two-Day Shipping for students on millions of items. <a href="/gp/redirect.h
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/B0020B7ZXC">Mass Market Paperback</a>
+           <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/B0020B7ZXC">Mass Market Paperback</a>
        </td>
 
 
@@ -5973,7 +5973,7 @@ FREE Two-Day Shipping for students on millions of items. <a href="/gp/redirect.h
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/0553452134">Audio, Cassette, Audiobook</a>
+           <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Its-Consequences/dp/0553452134">Audio, Cassette, Audiobook</a>
        </td>
 
 
@@ -6018,7 +6018,7 @@ TwisterMediaMatrix.initialize({
 "paperback_meta_binding": { "n": "11", "start": "1" },
 "mass_market_paperback_meta_binding": { "n": "1", "start": "1" },
 "audiobooks_meta_binding": { "n": "1", "start": "1" }
-}, "18", "books", "0679726012", "B000B1BNZE", "book_display_on_website", "Loading...", "Error. Please try again.", "http://g-ecx.images-amazon.com/images/G/01/x-locale/twister/tiny-snake._V192199047_.gif", false, "", "");
+}, "18", "books", "0679726012", "B000B1BNZE", "book_display_on_website", "Loading...", "Error. Please try again.", "https://g-ecx.images-amazon.com/images/G/01/x-locale/twister/tiny-snake._V192199047_.gif", false, "", "");
 });
 });
 }
@@ -6620,8 +6620,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/dp/067973807X"  title="Beyond Numeracy" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/517jc60duaL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/dp/067973807X"  title="Beyond Numeracy" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/517jc60duaL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     Beyond Numeracy </a>
 
@@ -6629,7 +6629,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/John-Allen-Paulos/e/B000AQ79HG">John Allen Paulos</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="067973807X" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/product-reviews/067973807X" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/product-reviews/067973807X" >13</a>)</span></span></div>
+              <a href="https://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/product-reviews/067973807X" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/product-reviews/067973807X" >13</a>)</span></span></div>
     <div class="binding-platform">
         Paperback
     </div>
@@ -6678,8 +6678,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/dp/038548254X"  title="A Mathematician Reads the Newspaper" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51UMjqOAAqL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/dp/038548254X"  title="A Mathematician Reads the Newspaper" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/51UMjqOAAqL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     A Mathematician Reads the Newspaper </a>
 
@@ -6687,7 +6687,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/John-Allen-Paulos/e/B000AQ79HG">John Allen Paulos</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="038548254X" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/product-reviews/038548254X" ><span class="swSprite s_star_4_0 " title="4.2 out of 5 stars" ><span>4.2 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/product-reviews/038548254X" >37</a>)</span></span></div>
+              <a href="https://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/product-reviews/038548254X" ><span class="swSprite s_star_4_0 " title="4.2 out of 5 stars" ><span>4.2 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/product-reviews/038548254X" >37</a>)</span></span></div>
     <div class="binding-platform">
         Paperback
     </div>
@@ -6736,8 +6736,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/The-Right-Learn-Blueprint-Creating/dp/0787959421"  title="The Right to Learn: A Blueprint for Creating Schools that Work" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51hcrH3tRyL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/The-Right-Learn-Blueprint-Creating/dp/0787959421"  title="The Right to Learn: A Blueprint for Creating Schools that Work" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/51hcrH3tRyL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     The Right to Learn: A Blueprint for Creating &#133; </a>
 
@@ -6745,7 +6745,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Linda-Darling-Hammond/e/B001JS5N1S">Linda Darling-Hammond</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0787959421" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/The-Right-Learn-Blueprint-Creating/product-reviews/0787959421" ><span class="swSprite s_star_4_0 " title="4.2 out of 5 stars" ><span>4.2 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Right-Learn-Blueprint-Creating/product-reviews/0787959421" >6</a>)</span></span></div>
+              <a href="https://www.amazon.com/The-Right-Learn-Blueprint-Creating/product-reviews/0787959421" ><span class="swSprite s_star_4_0 " title="4.2 out of 5 stars" ><span>4.2 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/The-Right-Learn-Blueprint-Creating/product-reviews/0787959421" >6</a>)</span></span></div>
     <div class="binding-platform">
         Paperback
     </div>
@@ -6794,8 +6794,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Proofiness-Dark-Arts-Mathematical-Deception/dp/0670022160"  title="Proofiness: The Dark Arts of Mathematical Deception" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/41Tel0HnY1L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/Proofiness-Dark-Arts-Mathematical-Deception/dp/0670022160"  title="Proofiness: The Dark Arts of Mathematical Deception" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/41Tel0HnY1L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     Proofiness: The Dark Arts of Mathematical Deception </a>
 
@@ -6803,7 +6803,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Charles-Seife/e/B001IQW7QU">Charles Seife</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0670022160" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Proofiness-Dark-Arts-Mathematical-Deception/product-reviews/0670022160" ><span class="swSprite s_star_3_5 " title="3.7 out of 5 stars" ><span>3.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Proofiness-Dark-Arts-Mathematical-Deception/product-reviews/0670022160" >38</a>)</span></span></div>
+              <a href="https://www.amazon.com/Proofiness-Dark-Arts-Mathematical-Deception/product-reviews/0670022160" ><span class="swSprite s_star_3_5 " title="3.7 out of 5 stars" ><span>3.7 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Proofiness-Dark-Arts-Mathematical-Deception/product-reviews/0670022160" >38</a>)</span></span></div>
     <div class="binding-platform">
         Hardcover
     </div>
@@ -6852,8 +6852,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728"  title="How to Lie with Statistics" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51UT7gYNn6L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728"  title="How to Lie with Statistics" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/51UT7gYNn6L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     How to Lie with Statistics </a>
 
@@ -6861,7 +6861,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Darrell-Huff/e/B000AQ478U">Darrell Huff</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0393310728" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/product-reviews/0393310728" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/product-reviews/0393310728" >131</a>)</span></span></div>
+              <a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/product-reviews/0393310728" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/product-reviews/0393310728" >131</a>)</span></span></div>
     <div class="binding-platform">
         Paperback
     </div>
@@ -6910,8 +6910,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Systems-Analysis-Series-Engineering-Management/dp/0470007656"  title="How to Do Systems Analysis (Wiley Series in Systems Engineering and Management)" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/41HbBEs7oOL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/Systems-Analysis-Series-Engineering-Management/dp/0470007656"  title="How to Do Systems Analysis (Wiley Series in Systems Engineering and Management)" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/41HbBEs7oOL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     How to Do Systems Analysis (Wiley Series in Systems &#133; </a>
 
@@ -6919,7 +6919,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/John-E.-Gibson/e/B001IXQ3FE">John E. Gibson</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0470007656" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Systems-Analysis-Series-Engineering-Management/product-reviews/0470007656" ><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Systems-Analysis-Series-Engineering-Management/product-reviews/0470007656" >2</a>)</span></span></div>
+              <a href="https://www.amazon.com/Systems-Analysis-Series-Engineering-Management/product-reviews/0470007656" ><span class="swSprite s_star_5_0 " title="5.0 out of 5 stars" ><span>5.0 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Systems-Analysis-Series-Engineering-Management/product-reviews/0470007656" >2</a>)</span></span></div>
     <div class="binding-platform">
         Hardcover
     </div>
@@ -7028,7 +7028,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/product-description/0679726012">See all Editorial Reviews</a>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/product-description/0679726012">See all Editorial Reviews</a>
 </div>  </div>
 </div>
 
@@ -7334,8 +7334,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
   });
 </script>
 <span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary acr-popover" name="0679726012" ref="dp_db_cm_cr_acr_pop_" >
-              <a style="cursor:pointer;text-decoration:none" href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" name="reviewHistoPop_0679726012__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
-          style="margin-left:-3px"><a style="text-decoration:none" href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" name="reviewHistoPop_0679726012__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" >108 customer reviews</a>)</span></li>
+              <a style="cursor:pointer;text-decoration:none" href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" name="reviewHistoPop_0679726012__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
+          style="margin-left:-3px"><a style="text-decoration:none" href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" name="reviewHistoPop_0679726012__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" >108 customer reviews</a>)</span></li>
 
 
 
@@ -7404,7 +7404,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-#684,397 in Books (<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">See Top 100 in Books</a>)
+#684,397 in Books (<a href="https://www.amazon.com/best-sellers-books-Amazon/zgbs/books">See Top 100 in Books</a>)
   
 
 
@@ -7720,13 +7720,13 @@ h3.authorQAHeader img {
 
       <div class="author_page_link content">
         <span class="carat">&rsaquo;</span> 
-        <a href="http://www.amazon.com/John-Allen-Paulos/e/B000AQ79HG">
+        <a href="https://www.amazon.com/John-Allen-Paulos/e/B000AQ79HG">
           Visit Amazon's John Allen Paulos Page
         </a>
       </div>
       <div class="content" style="float:left;width:100px;">
         <div class="authorImageSingle">
-          <a href="http://www.amazon.com/John-Allen-Paulos/e/B000AQ79HG">
+          <a href="https://www.amazon.com/John-Allen-Paulos/e/B000AQ79HG">
             
 
 
@@ -7744,7 +7744,7 @@ h3.authorQAHeader img {
   <div id="cmuRemoteImageBanner" class="h3color">
     
   </div>
-  <img src="http://g-ecx.images-amazon.com/images/G/01/ciu/3c/03/51aee03ae7a0d119009c3210.L._SX80_.jpg" width="80" alt="John Allen Paulos" class="cmuImage" id="cmuImg" height="114" border="0" />
+  <img src="https://g-ecx.images-amazon.com/images/G/01/ciu/3c/03/51aee03ae7a0d119009c3210.L._SX80_.jpg" width="80" alt="John Allen Paulos" class="cmuImage" id="cmuImg" height="114" border="0" />
 </div>
 
 
@@ -7905,7 +7905,7 @@ h3.authorQAHeader img {
 
 
 </div>
-  <div class="fl gl5 mt3 txtnormal acrCount">(<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="noTextDecoration" >108</a>)</div>
+  <div class="fl gl5 mt3 txtnormal acrCount">(<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="noTextDecoration" >108</a>)</div>
   <div class="clearboth"></div>
   <div class="gry txtnormal acrRating">4.1 out of 5 stars</div>
 </div>
@@ -7960,7 +7960,7 @@ h3.authorQAHeader img {
 
 <div id="revHist-dpReviewsSummaryWithQuotes-0679726012" style="font-size: 11px; white-space:no-wrap; line-height:19px;" class="txtsmaller">
   <div class="fl histoRowfive clearboth" title="45% of reviews have 5 stars" >
-      <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
+      <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
       <div class="histoRating fl gr10 txtnormal">5 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:44px; border: 0;"></div>
@@ -7969,7 +7969,7 @@ h3.authorQAHeader img {
       </a>
   </div>
   <div class="fl histoRowfour clearboth" title="26% of reviews have 4 stars" >
-      <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
+      <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
       <div class="histoRating fl gr10 txtnormal">4 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:25px; border: 0;"></div>
@@ -7978,7 +7978,7 @@ h3.authorQAHeader img {
       </a>
   </div>
   <div class="fl histoRowthree clearboth" title="24% of reviews have 3 stars" >
-      <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
+      <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
       <div class="histoRating fl gr10 txtnormal">3 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:23px; border: 0;"></div>
@@ -7987,7 +7987,7 @@ h3.authorQAHeader img {
       </a>
   </div>
   <div class="fl histoRowtwo clearboth" title="2% of reviews have 2 stars" >
-      <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
+      <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
       <div class="histoRating fl gr10 txtnormal">2 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:2px; border: 0;"></div>
@@ -7996,7 +7996,7 @@ h3.authorQAHeader img {
       </a>
   </div>
   <div class="fl histoRowone clearboth" title="3% of reviews have 1 stars" >
-      <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
+      <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012">
       <div class="histoRating fl gr10 txtnormal">1 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:3px; border: 0;"></div>
@@ -8015,7 +8015,7 @@ h3.authorQAHeader img {
 
 </div>
   <div class='fl mt15 clearboth'>
-    <a id='revSAR' href='http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012' class='txtsmall noTextDecoration'>
+    <a id='revSAR' href='https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012' class='txtsmall noTextDecoration'>
       See all 108 customer reviews
     </a>
   </div>
@@ -8053,7 +8053,7 @@ h3.authorQAHeader img {
 
 
 
-<div id="advice-quote-list-dpReviewsBucketSummary-0679726012" class="noLinkDecoration searchTemplate fl" style="margin-left: 20px;"><div style="padding-bottom: 22px;"><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-0" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123" title="Read the full review by T SANTOSO" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/R2O845TZ0P4O17">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">So, in short, the book ignite my interest again in mathematics...., it is a great book well written and enjoyable to </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_0&asin=0679726012&quoteID=0679726012-R2O845TZ0P4O17-1-309-123"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123" title="Read the full review by T SANTOSO" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/R2O845TZ0P4O17">read.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_0&asin=0679726012&quoteID=0679726012-R2O845TZ0P4O17-1-309-123"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-0"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">T SANTOSO</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">26&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div><div style="padding-bottom: 22px;"><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-1" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78" title="Read the full review by K. Duff" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/R3FYY0VGT3N1FW">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">Paulos makes many good points about mathematics and innumeracy in our </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_1&asin=0679726012&quoteID=0679726012-R3FYY0VGT3N1FW-1-0-78"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78" title="Read the full review by K. Duff" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/R3FYY0VGT3N1FW">country.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_1&asin=0679726012&quoteID=0679726012-R3FYY0VGT3N1FW-1-0-78"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-1"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">K. Duff</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">20&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div><div ><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-2" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54" id="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54" title="Read the full review by James Arvo" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/ROATPWQKULUXG">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">This is one of those books I wish everyone would </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_2&asin=0679726012&quoteID=0679726012-ROATPWQKULUXG-1-0-54"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54" id="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54" title="Read the full review by James Arvo" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/ROATPWQKULUXG">read.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_2&asin=0679726012&quoteID=0679726012-ROATPWQKULUXG-1-0-54"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-2"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">James Arvo</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">11&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div></div><script type="text/javascript">;function displayReviewPopover(link) {  if('ontouchstart' in document.documentElement) return true;  link = jQuery(link);  var destAnchor = jQuery('#' + link.attr('name') + '_hide');  if(!destAnchor.length || !destAnchor.attr('href')) { return true; }  setTimeout(function() {    var popover = jQuery.AmazonPopover.displayPopover({      showOnHover: false,      modal: true,      title: null,      width: '824px',      align: 'middle',      paddingLeft: 20,      paddingRight: 20,      paddingBottom: 10,      showCloseButton: true,      closeText: 'Close',      location: 'centered',      cacheable: false,      group: '',      destination: destAnchor.attr('href')    });  }, 0);  return false;}</script>
+<div id="advice-quote-list-dpReviewsBucketSummary-0679726012" class="noLinkDecoration searchTemplate fl" style="margin-left: 20px;"><div style="padding-bottom: 22px;"><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-0" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123" title="Read the full review by T SANTOSO" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/R2O845TZ0P4O17">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">So, in short, the book ignite my interest again in mathematics...., it is a great book well written and enjoyable to </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_0&asin=0679726012&quoteID=0679726012-R2O845TZ0P4O17-1-309-123"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123" title="Read the full review by T SANTOSO" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/R2O845TZ0P4O17">read.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R2O845TZ0P4O17-1-309-123_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_0&asin=0679726012&quoteID=0679726012-R2O845TZ0P4O17-1-309-123"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-0"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">T SANTOSO</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">26&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div><div style="padding-bottom: 22px;"><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-1" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78" title="Read the full review by K. Duff" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/R3FYY0VGT3N1FW">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">Paulos makes many good points about mathematics and innumeracy in our </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_1&asin=0679726012&quoteID=0679726012-R3FYY0VGT3N1FW-1-0-78"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78" title="Read the full review by K. Duff" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/R3FYY0VGT3N1FW">country.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-R3FYY0VGT3N1FW-1-0-78_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_1&asin=0679726012&quoteID=0679726012-R3FYY0VGT3N1FW-1-0-78"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-1"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">K. Duff</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">20&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div><div ><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-2" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54" id="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54" title="Read the full review by James Arvo" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/ROATPWQKULUXG">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">This is one of those books I wish everyone would </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_2&asin=0679726012&quoteID=0679726012-ROATPWQKULUXG-1-0-54"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54" id="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54" title="Read the full review by James Arvo" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/ROATPWQKULUXG">read.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0679726012-ROATPWQKULUXG-1-0-54_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_2&asin=0679726012&quoteID=0679726012-ROATPWQKULUXG-1-0-54"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-2"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">James Arvo</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">11&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div></div><script type="text/javascript">;function displayReviewPopover(link) {  if('ontouchstart' in document.documentElement) return true;  link = jQuery(link);  var destAnchor = jQuery('#' + link.attr('name') + '_hide');  if(!destAnchor.length || !destAnchor.attr('href')) { return true; }  setTimeout(function() {    var popover = jQuery.AmazonPopover.displayPopover({      showOnHover: false,      modal: true,      title: null,      width: '824px',      align: 'middle',      paddingLeft: 20,      paddingRight: 20,      paddingBottom: 10,      showCloseButton: true,      closeText: 'Close',      location: 'centered',      cacheable: false,      group: '',      destination: destAnchor.attr('href')    });  }, 0);  return false;}</script>
 
 
 
@@ -8116,7 +8116,7 @@ h3.authorQAHeader img {
 <div id="rev-dpReviewsMostHelpful-R2FVUIWDXAZ0V2" class="reviews" >  <div class="gry txtsmall hlp">69 of 70 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
-<a href="http://www.amazon.com/review/R2FVUIWDXAZ0V2" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>GOOD ANALYSIS, GREAT ANECDOTES ABOUT THE VALUE OF NUMERACY</strong></a><span class="gry valignMiddle">
+<a href="https://www.amazon.com/review/R2FVUIWDXAZ0V2" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>GOOD ANALYSIS, GREAT ANECDOTES ABOUT THE VALUE OF NUMERACY</strong></a><span class="gry valignMiddle">
 
 
 
@@ -8133,8 +8133,8 @@ h3.authorQAHeader img {
 
 
 
-<span class="txtsmall"><span class="gry">By</span> <a href="http://www.amazon.com/gp/pdp/profile/A34U6WKGEO82P2" class="noTextDecoration">Denis Benchimol Minev</a></span>
-</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#vn" class="noTextDecoration" ><span class='c7yBadge VN-1'>VINE&#8482; VOICE</span></a></span>
+<span class="txtsmall"><span class="gry">By</span> <a href="https://www.amazon.com/gp/pdp/profile/A34U6WKGEO82P2" class="noTextDecoration">Denis Benchimol Minev</a></span>
+</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#vn" class="noTextDecoration" ><span class='c7yBadge VN-1'>VINE&#8482; VOICE</span></a></span>
 
 
 </div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation">  <span class="gr3 gry formatKey">Format:</span><span class="formatValue">Paperback</span><span class="gl7 gr7 gry">|</span></span><span class="inlineblock avpOrVine" ><span class="orange strong avp">Amazon Verified Purchase</span></span></div>  <div class="mt9 reviewText">
@@ -8151,7 +8151,7 @@ h3.authorQAHeader img {
 
 
 
-<a href="http://www.amazon.com/review/R2FVUIWDXAZ0V2" class="noTextDecoration">1 Comment</a>
+<a href="https://www.amazon.com/review/R2FVUIWDXAZ0V2" class="noTextDecoration">1 Comment</a>
  <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
 
 
@@ -8181,7 +8181,7 @@ h3.authorQAHeader img {
     } else {
       messageContainer.html('Thank you for your feedback.');
       if (isNoButton == 1) {
-        messageContainer.append('<span class="black gl5">If this review is inappropriate, <a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2FVUIWDXAZ0V2/Inappropriate/1?ie=UTF8&token=76B745F29CD3ABBCD747CA64E10595998365FBE6&target=&voteAnchorName=R2FVUIWDXAZ0V2.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000" class="noTextDecoration" style="color: #039;" >please let us know.</a></span>');
+        messageContainer.append('<span class="black gl5">If this review is inappropriate, <a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2FVUIWDXAZ0V2/Inappropriate/1?ie=UTF8&token=76B745F29CD3ABBCD747CA64E10595998365FBE6&target=&voteAnchorName=R2FVUIWDXAZ0V2.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000" class="noTextDecoration" style="color: #039;" >please let us know.</a></span>');
       }
       messageContainer.addClass('green');
     }
@@ -8228,13 +8228,13 @@ h3.authorQAHeader img {
    <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2FVUIWDXAZ0V2/Helpful/1?ie=UTF8&token=8E29258B7BAD9DE821CE353C239C23B928DCFE20&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2FVUIWDXAZ0V2.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2FVUIWDXAZ0V2/Helpful/1?ie=UTF8&token=8E29258B7BAD9DE821CE353C239C23B928DCFE20&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2FVUIWDXAZ0V2.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
   <span class="btn-small txtsmall">Yes</span>
 </a></div>
    <div class="fl mtNegative3 votingButtonReviews noButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2FVUIWDXAZ0V2/Helpful/-1?ie=UTF8&token=66AB224C51CC7E5B56886D20B7CFA451DEAC7777&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2FVUIWDXAZ0V2.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2FVUIWDXAZ0V2/Helpful/-1?ie=UTF8&token=66AB224C51CC7E5B56886D20B7CFA451DEAC7777&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2FVUIWDXAZ0V2.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
   <span class="btn-small txtsmall">No</span>
 </a></div>
   </div>
@@ -8258,7 +8258,7 @@ h3.authorQAHeader img {
 <div id="rev-dpReviewsMostHelpful-R2QCR4Y020JWD8" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">45 of 45 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
-<a href="http://www.amazon.com/review/R2QCR4Y020JWD8" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>lifting the shackles of cultural innumeracy</strong></a><span class="gry valignMiddle">
+<a href="https://www.amazon.com/review/R2QCR4Y020JWD8" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>lifting the shackles of cultural innumeracy</strong></a><span class="gry valignMiddle">
 
 
 
@@ -8273,7 +8273,7 @@ h3.authorQAHeader img {
 
 
 
-<span class="txtsmall"><span class="gry">By</span> <a href="http://www.amazon.com/gp/pdp/profile/A1F8GH7CR68P59" class="noTextDecoration">A. G. Plumb</a></span>
+<span class="txtsmall"><span class="gry">By</span> <a href="https://www.amazon.com/gp/pdp/profile/A1F8GH7CR68P59" class="noTextDecoration">A. G. Plumb</a></span>
 </span>
 
 
@@ -8291,7 +8291,7 @@ h3.authorQAHeader img {
 
 
 
-<a href="http://www.amazon.com/review/R2QCR4Y020JWD8" class="noTextDecoration">Comment</a>
+<a href="https://www.amazon.com/review/R2QCR4Y020JWD8" class="noTextDecoration">Comment</a>
  <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
 
 
@@ -8308,13 +8308,13 @@ h3.authorQAHeader img {
    <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2QCR4Y020JWD8/Helpful/1?ie=UTF8&token=08A10F58F9DB17FEDEEEA2CD816AF001DABD8EC5&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2QCR4Y020JWD8.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2QCR4Y020JWD8/Helpful/1?ie=UTF8&token=08A10F58F9DB17FEDEEEA2CD816AF001DABD8EC5&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2QCR4Y020JWD8.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
   <span class="btn-small txtsmall">Yes</span>
 </a></div>
    <div class="fl mtNegative3 votingButtonReviews noButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2QCR4Y020JWD8/Helpful/-1?ie=UTF8&token=4BB06E98652CE6F349FDA6F66AB99571D3867CAA&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2QCR4Y020JWD8.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2QCR4Y020JWD8/Helpful/-1?ie=UTF8&token=4BB06E98652CE6F349FDA6F66AB99571D3867CAA&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2QCR4Y020JWD8.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
   <span class="btn-small txtsmall">No</span>
 </a></div>
   </div>
@@ -8338,7 +8338,7 @@ h3.authorQAHeader img {
 <div id="rev-dpReviewsMostHelpful-R2NMH3I98IAMM1" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">89 of 97 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span title="3.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
-<a href="http://www.amazon.com/review/R2NMH3I98IAMM1" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>interesting book, but lacking focus</strong></a><span class="gry valignMiddle">
+<a href="https://www.amazon.com/review/R2NMH3I98IAMM1" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>interesting book, but lacking focus</strong></a><span class="gry valignMiddle">
 
 
 
@@ -8353,8 +8353,8 @@ h3.authorQAHeader img {
 
 
 
-<span class="txtsmall"><span class="gry">By</span> <a href="http://www.amazon.com/gp/pdp/profile/A26KSBC3315A3O" class="noTextDecoration">Nadyne Richmond</a></span>
-</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#vn" class="noTextDecoration" ><span class='c7yBadge VN-1'>VINE&#8482; VOICE</span></a></span>
+<span class="txtsmall"><span class="gry">By</span> <a href="https://www.amazon.com/gp/pdp/profile/A26KSBC3315A3O" class="noTextDecoration">Nadyne Richmond</a></span>
+</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#vn" class="noTextDecoration" ><span class='c7yBadge VN-1'>VINE&#8482; VOICE</span></a></span>
 
 
 </div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation"><span class="gr3 gry formatKey">Format:</span><span class="formatValue">Paperback</span></span></div>  <div class="mt9 reviewText">
@@ -8371,7 +8371,7 @@ h3.authorQAHeader img {
 
 
 
-<a href="http://www.amazon.com/review/R2NMH3I98IAMM1" class="noTextDecoration">Comment</a>
+<a href="https://www.amazon.com/review/R2NMH3I98IAMM1" class="noTextDecoration">Comment</a>
  <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
 
 
@@ -8388,13 +8388,13 @@ h3.authorQAHeader img {
    <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2NMH3I98IAMM1/Helpful/1?ie=UTF8&token=086A71481CC06AB4D0BF6F4D545746E35F78B67A&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2NMH3I98IAMM1.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2NMH3I98IAMM1/Helpful/1?ie=UTF8&token=086A71481CC06AB4D0BF6F4D545746E35F78B67A&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2NMH3I98IAMM1.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
   <span class="btn-small txtsmall">Yes</span>
 </a></div>
    <div class="fl mtNegative3 votingButtonReviews noButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2NMH3I98IAMM1/Helpful/-1?ie=UTF8&token=5690B899B37E7A913D4C0916D33C208716C26206&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2NMH3I98IAMM1.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2NMH3I98IAMM1/Helpful/-1?ie=UTF8&token=5690B899B37E7A913D4C0916D33C208716C26206&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDY3OTcyNjAxMg&voteAnchorName=R2NMH3I98IAMM1.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
   <span class="btn-small txtsmall">No</span>
 </a></div>
   </div>
@@ -8427,7 +8427,7 @@ h3.authorQAHeader img {
 
 <div>
   <b class="h3color txtsmall">&rsaquo;</b>
-  <a id="seeAllReviewsUrl" href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="txtlarge noTextDecoration">
+  <a id="seeAllReviewsUrl" href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="txtlarge noTextDecoration">
     <strong>
       See all 108 customer reviews
     </strong>
@@ -8446,7 +8446,7 @@ h3.authorQAHeader img {
       </div>
     </div>
     <div class="pr7 mb30" style="width: 305px;">
-      <div style="padding-bottom: 20px"><script type='text/javascript'>var paCusRevAllURL = "http://product-ads-portal.amazon.com/gp/synd/?asin=0679726012&pAsin=&gl=14&sq=&sa=&se=&noo=1&pt=Detail&spt=Glance&sn=customer-reviews-top&pRID=16V5VJXGC4YH6KKTJRRZ&ts=1341214721&h=D1856CD9C4442B0DA19C8EE82A8E800FA62584A5";</script></div>
+      <div style="padding-bottom: 20px"><script type='text/javascript'>var paCusRevAllURL = "https://product-ads-portal.amazon.com/gp/synd/?asin=0679726012&pAsin=&gl=14&sq=&sa=&se=&noo=1&pt=Detail&spt=Glance&sn=customer-reviews-top&pRID=16V5VJXGC4YH6KKTJRRZ&ts=1341214721&h=D1856CD9C4442B0DA19C8EE82A8E800FA62584A5";</script></div>
       <div>
 
 
@@ -8457,7 +8457,7 @@ h3.authorQAHeader img {
 
 
 
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt14" title="Read the full review by Allen Smalling" >  <div id="rev-dpReviewsMostRecent-R5P2GY4MAMJRU" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt14" title="Read the full review by Allen Smalling" >  <div id="rev-dpReviewsMostRecent-R5P2GY4MAMJRU" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Professor Paulos lashes out at American mathematical idiocy...</strong></span></div>    <div class="reviewText">
@@ -8478,7 +8478,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 2 months ago by Allen Smalling</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Diane Hood" >  <div id="rev-dpReviewsMostRecent-R3GSVQWA36FZVZ" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Diane Hood" >  <div id="rev-dpReviewsMostRecent-R3GSVQWA36FZVZ" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Even a highschooler can like this book</strong></span></div>    <div class="reviewText">
@@ -8499,7 +8499,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 2 months ago by Diane Hood</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by MartisaVignali" >  <div id="rev-dpReviewsMostRecent-R1BA491SU0731K" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by MartisaVignali" >  <div id="rev-dpReviewsMostRecent-R1BA491SU0731K" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>An important read</strong></span></div>    <div class="reviewText">
@@ -8520,7 +8520,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 2 months ago by MartisaVignali</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Peter Anthony Feddo" >  <div id="rev-dpReviewsMostRecent-R1YLTPK9Y3DXZJ" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Peter Anthony Feddo" >  <div id="rev-dpReviewsMostRecent-R1YLTPK9Y3DXZJ" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Public Education Administators: Read This Book!</strong></span></div>    <div class="reviewText">
@@ -8541,7 +8541,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 3 months ago by Peter Anthony Feddo</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Jordan Bell" >  <div id="rev-dpReviewsMostRecent-R31HS8NKLTJP83" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Jordan Bell" >  <div id="rev-dpReviewsMostRecent-R31HS8NKLTJP83" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Math=estimating + reasoning + probability</strong></span></div>    <div class="reviewText">
@@ -8562,7 +8562,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 4 months ago by Jordan Bell</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Betsy A. Murphy" >  <div id="rev-dpReviewsMostRecent-RC4KKVUWP17NT" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Betsy A. Murphy" >  <div id="rev-dpReviewsMostRecent-RC4KKVUWP17NT" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>The poetry of mathematics revealed</strong></span></div>    <div class="reviewText">
@@ -8583,7 +8583,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 7 months ago by Betsy A. Murphy</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by aabraga" >  <div id="rev-dpReviewsMostRecent-R3C2G1M8329H2O" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by aabraga" >  <div id="rev-dpReviewsMostRecent-R3C2G1M8329H2O" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>The dangers of mathematic illiteracy</strong></span></div>    <div class="reviewText">
@@ -8604,7 +8604,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 8 months ago by aabraga</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Nick Mercurio" >  <div id="rev-dpReviewsMostRecent-R2YD6J5NC6IZQB" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Nick Mercurio" >  <div id="rev-dpReviewsMostRecent-R2YD6J5NC6IZQB" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>great</strong></span></div>    <div class="reviewText">
@@ -8625,7 +8625,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 9 months ago by Nick Mercurio</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Albert Sweigart" >  <div id="rev-dpReviewsMostRecent-R2AU9U4LE9N7Y6" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Albert Sweigart" >  <div id="rev-dpReviewsMostRecent-R2AU9U4LE9N7Y6" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>A Good Introduction and a Light Read</strong></span></div>    <div class="reviewText">
@@ -8646,7 +8646,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 15 months ago by Albert Sweigart</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Steph" >  <div id="rev-dpReviewsMostRecent-R3BXJOUJV0FCR5" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/product-reviews/0679726012" class="reviewTitle inlineblock mt17" title="Read the full review by Steph" >  <div id="rev-dpReviewsMostRecent-R3BXJOUJV0FCR5" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Great book</strong></span></div>    <div class="reviewText">
@@ -8686,7 +8686,7 @@ h3.authorQAHeader img {
 
 
 
-<FORM method="GET" action="http://www.amazon.com/gp/community-content-search/results/" style="padding:0; margin:0;"> 
+<FORM method="GET" action="https://www.amazon.com/gp/community-content-search/results/" style="padding:0; margin:0;"> 
 
   <div class="txtlarge mb5">
     <strong>
@@ -8788,7 +8788,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
     <span class="quorus-product-identifier-value">0679726012</span>
   </div>
   <h2 class="quorus-product-name">Innumeracy: Mathematical Illiteracy and Its Consequences (Vintage)</h2>
-  <img src="http://ecx.images-amazon.com/images/I/71TBC7TY0HL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS500_.gif" width="500" class="quorus-product-photo" height="500" border="0" />
+  <img src="https://ecx.images-amazon.com/images/I/71TBC7TY0HL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS500_.gif" width="500" class="quorus-product-photo" height="500" border="0" />
   
 
 
@@ -8796,7 +8796,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
 
 
 
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/0679726012" class="quorus-product-url">link</a>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/0679726012" class="quorus-product-url">link</a>
 
 </div>
 
@@ -8963,7 +8963,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
   <ul class="nav_browse_ul nav_browse_cat_ul">
     <li class="nav_pop_li nav_browse_cat_head">Home, Garden &amp; Pets</li>
 <li class="nav_pop_li "><a href="/kitchen-dining-small-appliances-cookware/b?ie=UTF8&node=284507" class="nav_a">Kitchen & Dining</a></li>
-<li class="nav_pop_li "><a href="/furniture-decor-rugs-lamps-beds-tv-stands/b?ie=UTF8&node=1057794" class="nav_a">Furniture & Décor</a></li>
+<li class="nav_pop_li "><a href="/furniture-decor-rugs-lamps-beds-tv-stands/b?ie=UTF8&node=1057794" class="nav_a">Furniture & Dï¿½cor</a></li>
 <li class="nav_pop_li "><a href="/bedding-bath-sheets-towels/b?ie=UTF8&node=1057792" class="nav_a">Bedding & Bath</a></li>
 <li class="nav_pop_li "><a href="/Appliances/b?ie=UTF8&node=2619525011" class="nav_a">Appliances</a></li>
 <li class="nav_pop_li  nav_divider_before"><a href="/Patio-Lawn-Garden/b?ie=UTF8&node=2972638011" class="nav_a">Patio, Lawn & Garden</a></li>
@@ -9197,7 +9197,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
 
 
 _navbar.prefetch = function() {
-amznJQ.addPL(['http://z-ecx.images-amazon.com/images/G/01/browser-scripts/registriesCSS/US-combined-2698093832._V144234652_.css',
+amznJQ.addPL(['https://z-ecx.images-amazon.com/images/G/01/browser-scripts/registriesCSS/US-combined-2698093832._V144234652_.css',
 'https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-9265404329._V1_.css',
 'https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-css-buttons/wcs-css-buttons-3112498172._V1_.css',
 'https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-cn-merged/wcs-ya-homepage-cn-merged-714969038._V1_.css',
@@ -9269,7 +9269,7 @@ amznJQ.addPL(['http://z-ecx.images-amazon.com/images/G/01/browser-scripts/regist
         right: 0;
         width: 10px;
         height: 34px;
-        background: url("http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/sprite-shvl-divider-stretch._V137129574_.png") repeat-y scroll 0 0 white;
+        background: url("https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/sprite-shvl-divider-stretch._V137129574_.png") repeat-y scroll 0 0 white;
     }
 
     #wikipediaDp_outerContainer div#wikipediaDp_textContent {
@@ -9317,7 +9317,7 @@ Topics include probability and coincidence, the birthday problem, innumeracy in 
 </div>
     <div class="wikipediaDp_attribution">
         <div><b>Attribution:</b> The information appearing above in this tab is from Wikipedia:
-        <a href="/gp/redirect.html?location=http://en.wikipedia.org/wiki/Innumeracy_(book)&amp;token=2EC89C10272D58B69C7E33C34E2049E797FCA814" rel="nofollow" target="_blank">Innumeracy (book)</a>. Amazon is not affiliated with, and neither endorses, nor is endorsed by Wikipedia or any of the authors who contributed to this article. The Wikipedia content may be available under the Creative Commons Attribution-ShareAlike License, version 3.0 or any later version, available at: <a href="/gp/redirect.html?location=http://creativecommons.org/licenses/by-sa/3.0/&amp;token=6E0FCF1CD0A2109D0BFEB169E69471DC1420BF36" rel="nofollow" target="_blank">CC BY-SA</a>. Additional or other terms may apply. See <a href="/gp/redirect.html?location=http://wikimediafoundation.org/wiki/Terms_of_Use&amp;token=4DF6DF40971AA18B7A85DDA73E33051F978745B0" rel="nofollow" target="_blank">Wikipedia Terms of Use</a> for details.
+        <a href="/gp/redirect.html?location=https://en.wikipedia.org/wiki/Innumeracy_(book)&amp;token=2EC89C10272D58B69C7E33C34E2049E797FCA814" rel="nofollow" target="_blank">Innumeracy (book)</a>. Amazon is not affiliated with, and neither endorses, nor is endorsed by Wikipedia or any of the authors who contributed to this article. The Wikipedia content may be available under the Creative Commons Attribution-ShareAlike License, version 3.0 or any later version, available at: <a href="/gp/redirect.html?location=https://creativecommons.org/licenses/by-sa/3.0/&amp;token=6E0FCF1CD0A2109D0BFEB169E69471DC1420BF36" rel="nofollow" target="_blank">CC BY-SA</a>. Additional or other terms may apply. See <a href="/gp/redirect.html?location=https://wikimediafoundation.org/wiki/Terms_of_Use&amp;token=4DF6DF40971AA18B7A85DDA73E33051F978745B0" rel="nofollow" target="_blank">Wikipedia Terms of Use</a> for details.
         </div>
     </div>
 </div>
@@ -9351,8 +9351,8 @@ Topics include probability and coincidence, the birthday problem, innumeracy in 
             <div id="wikipediaDp_fbCharactersLeft">500 characters left</div>
         </div>
         <div id="wikipediaDp_fbButtons">
-            <input id="wikipediaDp_fbSubmit" type="image" src="http://g-ecx.images-amazon.com/images/G/01/buttons/submit-button._V192192262_.gif" />
-            <input id="wikipediaDp_fbCancel" type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/buttons/cancel-secondary._V192192746_.gif" />
+            <input id="wikipediaDp_fbSubmit" type="image" src="https://g-ecx.images-amazon.com/images/G/01/buttons/submit-button._V192192262_.gif" />
+            <input id="wikipediaDp_fbCancel" type="image" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/buttons/cancel-secondary._V192192746_.gif" />
         </div>
         <div id="wikipediaDp_fbDisclaimer">Your feedback is valuable and will be considered.</div>
     </form>
@@ -9360,7 +9360,7 @@ Topics include probability and coincidence, the birthday problem, innumeracy in 
 </div>
 <div id="wikipediaDp_fbSendingMessage" style="display: none;">
     <div style="padding: 12px 0;">
-    <center><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/loading/spinner_large_no-border._V192251197_.gif" width="52" alt="Loading..." height="52" border="0" /></center>
+    <center><img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/loading/spinner_large_no-border._V192251197_.gif" width="52" alt="Loading..." height="52" border="0" /></center>
     </div>
 </div>
 <div id="wikipediaDp_fbSuccessfulMessage" style="display: none;">
@@ -9511,7 +9511,7 @@ amznJQ.onReady('jQuery', function() {
   <table width="100%" cellspacing=0 ><tr>
     <td class="tinypopup">Search Inside This Book:</td> 
     <td><input id="sitb-pop-inputbox" class="sitb-pop-inputbox" name="keywords" value="" /></td>
-	<td><input type="image" src="http://g-ecx.images-amazon.com/images/G/01/search-browse/dp-popover-go-button._V156409071_.png"  width="21" alt="Go!" value="Go!" name="go" height="21" border="0" /></td>
+	<td><input type="image" src="https://g-ecx.images-amazon.com/images/G/01/search-browse/dp-popover-go-button._V156409071_.png"  width="21" alt="Go!" value="Go!" name="go" height="21" border="0" /></td>
     </tr>
   </table>
  </form>
@@ -9599,14 +9599,14 @@ United States, New York, Babe Ruth, Lou Gehrig, President Reagan, Jeane Dixon, M
 
 
 
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/sitb-next/0679726012#concordance">Concordance</a>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/sitb-next/0679726012#concordance">Concordance</a>
  | 
 
 
 
 
 
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/sitb-next/0679726012#textstats">Text&nbsp;Stats</a>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/sitb-next/0679726012#textstats">Text&nbsp;Stats</a>
 
 <div class="spacer"></div>
 
@@ -9637,7 +9637,7 @@ United States, New York, Babe Ruth, Lou Gehrig, President Reagan, Jeane Dixon, M
       <td nowrap="nowrap">
             <b>Search Inside This Book:</b><br />
             <input id="sitb-body-inputbox" name="keywords" value="" size="22" />
-            <input type="image" src="http://g-ecx.images-amazon.com/images/G/01/search-browse/dp-popover-go-button._V156409071_.png"  width="21" alt="Go!" value="Go!" name="go" id="sitb-body-gobutton" height="21" border="0" />
+            <input type="image" src="https://g-ecx.images-amazon.com/images/G/01/search-browse/dp-popover-go-button._V156409071_.png"  width="21" alt="Go!" value="Go!" name="go" id="sitb-body-gobutton" height="21" border="0" />
       </td>
     </tr>
   </table>
@@ -9662,7 +9662,7 @@ books:
 
 
 
-<a href="http://www.amazon.com/Overcoming-Math-Anxiety-Sheila-Tobias/dp/0393313077">Overcoming Math Anxiety</a>
+<a href="https://www.amazon.com/Overcoming-Math-Anxiety-Sheila-Tobias/dp/0393313077">Overcoming Math Anxiety</a>
 
 by Sheila Tobias
 on <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S03W&amp;checkSum=u1NZRC4FOwRVtLE9fgWXrEB9z4aKj%2F0Cw9b0q23ZVLg%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(140, 'u1NZRC4FOwRVtLE9fgWXrEB9z4aKj/0Cw9b0q23ZVLg=', 'sib_ab_dp_pg'); return false; }">page 112</a></li><li> 
@@ -9672,7 +9672,7 @@ on <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S03W&amp;checkSum=u1NZRC4FOwRVtL
 
 
 
-<a href="http://www.amazon.com/Mathematics-Humor-Study-Logic/dp/0226650251">Mathematics and Humor: A Study of the Logic of Humor</a>
+<a href="https://www.amazon.com/Mathematics-Humor-Study-Logic/dp/0226650251">Mathematics and Humor: A Study of the Logic of Humor</a>
 
 by John Allen Paulos
 in <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S009&amp;checkSum=u1NZRC4FOwTpvIJpoI1p5hfmit3hko1FtWVQ6xfiatA%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(9, 'u1NZRC4FOwTpvIJpoI1p5hfmit3hko1FtWVQ6xfiatA=', 'sib_ab_dp_pg'); return false; }">Front Matter</a></li><li> 
@@ -9682,7 +9682,7 @@ in <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S009&amp;checkSum=u1NZRC4FOwTpvI
 
 
 
-<a href="http://www.amazon.com/Big-Foot-M-P-Robertson/dp/1845071530">Big Foot</a>
+<a href="https://www.amazon.com/Big-Foot-M-P-Robertson/dp/1845071530">Big Foot</a>
 
 by M. P. Robertson
 on <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S039&amp;checkSum=u1NZRC4FOwR8DBvpnQnwfCNZfDU4woU82TMoJP12Pxk%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(117, 'u1NZRC4FOwR8DBvpnQnwfCNZfDU4woU82TMoJP12Pxk=', 'sib_ab_dp_pg'); return false; }">page 89</a></li><li> 
@@ -9692,7 +9692,7 @@ on <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S039&amp;checkSum=u1NZRC4FOwR8DB
 
 
 
-<a href="http://www.amazon.com/Once-Upon-Number-Mathematical-Stories/dp/0465051596">Once Upon A Number: The Hidden Mathematical Logic Of Stories</a>
+<a href="https://www.amazon.com/Once-Upon-Number-Mathematical-Stories/dp/0465051596">Once Upon A Number: The Hidden Mathematical Logic Of Stories</a>
 
 by John Allen Paulos
 in <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S009&amp;checkSum=u1NZRC4FOwTpvIJpoI1p5hfmit3hko1FtWVQ6xfiatA%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(9, 'u1NZRC4FOwTpvIJpoI1p5hfmit3hko1FtWVQ6xfiatA=', 'sib_ab_dp_pg'); return false; }">Front Matter</a></li><li> 
@@ -9702,15 +9702,15 @@ in <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S009&amp;checkSum=u1NZRC4FOwTpvI
 
 
 
-<a href="http://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X">How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)</a>
+<a href="https://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X">How to Solve It: A New Aspect of Mathematical Method (Princeton Science Library)</a>
 
 by G. Polya
-on <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S03F&amp;checkSum=u1NZRC4FOwQ0gDXPKmOOvGdfak5%2FXCjzzYzE27SLm08%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(123, 'u1NZRC4FOwQ0gDXPKmOOvGdfak5/XCjzzYzE27SLm08=', 'sib_ab_dp_pg'); return false; }">page 95</a></li></ul><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/orange-arrow._V192240581_.gif" width="10" height="9" border="0" />
+on <a href="/gp/reader/0679726012?ie=UTF8&amp;p=S03F&amp;checkSum=u1NZRC4FOwQ0gDXPKmOOvGdfak5%2FXCjzzYzE27SLm08%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(123, 'u1NZRC4FOwQ0gDXPKmOOvGdfak5/XCjzzYzE27SLm08=', 'sib_ab_dp_pg'); return false; }">page 95</a></li></ul><img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/orange-arrow._V192240581_.gif" width="10" height="9" border="0" />
 
 
 
 
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/book-citations/0679726012#citing"><b>See all 8 books this book cites</b></a>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/book-citations/0679726012#citing"><b>See all 8 books this book cites</b></a>
 <br /><div class="spacer">&nbsp;</div>
 <a name='cited' ></a><b>
 84 
@@ -9723,7 +9723,7 @@ cite this book:
 
 
 
-<a href="http://www.amazon.com/The-Passion-Learn-Inquiry-Autodidactism/dp/0415304180">The Passion to Learn: An Inquiry into Autodidactism</a>
+<a href="https://www.amazon.com/The-Passion-Learn-Inquiry-Autodidactism/dp/0415304180">The Passion to Learn: An Inquiry into Autodidactism</a>
 
 by Joan Solomon
 on <a href="/gp/reader/0415304180?ie=UTF8&amp;p=S03Y&amp;checkSum=u1NZRC4FOwQT9O93vKYmAc9cY5tHAia7wbP8jQjxTrw%3D" >page 126</a>, and <a href="/gp/reader/0415304180?ie=UTF8&amp;p=S046&amp;checkSum=u1NZRC4FOwQ3ned6CtOV1pH2epon7pfpuQJwvaTyQAk%3D" >page 134</a></li><li> 
@@ -9733,7 +9733,7 @@ on <a href="/gp/reader/0415304180?ie=UTF8&amp;p=S03Y&amp;checkSum=u1NZRC4FOwQT9O
 
 
 
-<a href="http://www.amazon.com/Investment-Illusions-Explores-Popular-Misconceptions/dp/0471155519">Investment Illusions: A Savvy Wall Street Pro Explores Popular Misconceptions About the Markets</a>
+<a href="https://www.amazon.com/Investment-Illusions-Explores-Popular-Misconceptions/dp/0471155519">Investment Illusions: A Savvy Wall Street Pro Explores Popular Misconceptions About the Markets</a>
 
 by Martin S. Fridson CFA
 on <a href="/gp/reader/0471155519?ie=UTF8&amp;p=S02U&amp;checkSum=u1NZRC4FOwQyouAokxSFtKZW0dSIDnZBHysZsAQkwq4%3D" >page 90</a>, and <a href="/gp/reader/0471155519?ie=UTF8&amp;p=S065&amp;checkSum=u1NZRC4FOwS7jWYkG9OWZaohgxTQAZSl%2B9MYB4XhxvA%3D" >Back Matter</a></li><li> 
@@ -9743,7 +9743,7 @@ on <a href="/gp/reader/0471155519?ie=UTF8&amp;p=S02U&amp;checkSum=u1NZRC4FOwQyou
 
 
 
-<a href="http://www.amazon.com/Overcoming-Math-Anxiety-Shelia-Tobias/dp/0393035778">Overcoming Math Anxiety</a>
+<a href="https://www.amazon.com/Overcoming-Math-Anxiety-Shelia-Tobias/dp/0393035778">Overcoming Math Anxiety</a>
 
 by Shelia Tobias
 in <a href="/gp/reader/0393035778?ie=UTF8&amp;p=S00N&amp;checkSum=u1NZRC4FOwSQoSg6xZDxX5UfhWt3KUCxlSi4m1KeNpc%3D" >Front Matter</a>, and <a href="/gp/reader/0393035778?ie=UTF8&amp;p=S075&amp;checkSum=u1NZRC4FOwRwBQ28YTqur3M6Otf7wTWg2VH5L1CRYR0%3D" >page 251</a></li><li> 
@@ -9753,7 +9753,7 @@ in <a href="/gp/reader/0393035778?ie=UTF8&amp;p=S00N&amp;checkSum=u1NZRC4FOwSQoS
 
 
 
-<a href="http://www.amazon.com/Humble-Pi-Mathematics-American-Education/dp/0879758775">Humble Pi: The Role Mathematics Should Play in American Education</a>
+<a href="https://www.amazon.com/Humble-Pi-Mathematics-American-Education/dp/0879758775">Humble Pi: The Role Mathematics Should Play in American Education</a>
 
 by Michael K. Smith
 on <a href="/gp/reader/0879758775?ie=UTF8&amp;p=S01E&amp;checkSum=u1NZRC4FOwSjhHOJS6ZSckSXFtO0OtFBzzIHjQtJ0DE%3D" >page 46</a>, and <a href="/gp/reader/0879758775?ie=UTF8&amp;p=S01F&amp;checkSum=u1NZRC4FOwSLCkKjSUA1Lv2SWkoEYt90gCCGc%2BIiKl8%3D" >page 47</a></li><li> 
@@ -9763,15 +9763,15 @@ on <a href="/gp/reader/0879758775?ie=UTF8&amp;p=S01E&amp;checkSum=u1NZRC4FOwSjhH
 
 
 
-<a href="http://www.amazon.com/Statistical-Applications-Behavioral-Sciences-Laurence/dp/0471509825">Statistical Applications for the Behavioral Sciences</a>
+<a href="https://www.amazon.com/Statistical-Applications-Behavioral-Sciences-Laurence/dp/0471509825">Statistical Applications for the Behavioral Sciences</a>
 
 by Laurence G. Grimm
-on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyUksamM42GlPEOO5vI2gu%2FovJHIDRnw%3D" >page 498</a>, and <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0GT&amp;checkSum=u1NZRC4FOwQCmcoEgqN7dxca19nUKBue2my0Kfx6090%3D" >Back Matter</a></li></ul><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/orange-arrow._V192240581_.gif" width="10" height="9" border="0" />
+on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyUksamM42GlPEOO5vI2gu%2FovJHIDRnw%3D" >page 498</a>, and <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0GT&amp;checkSum=u1NZRC4FOwQCmcoEgqN7dxca19nUKBue2my0Kfx6090%3D" >Back Matter</a></li></ul><img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/orange-arrow._V192240581_.gif" width="10" height="9" border="0" />
 
 
 
 
-<a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/book-citations/0679726012#cited"><b>See all 84 books citing this book</b></a>
+<a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/book-citations/0679726012#cited"><b>See all 84 books citing this book</b></a>
 <br /></div></div></div>
 
 
@@ -9969,12 +9969,12 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 
 
 
-<a href="http://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/dp/067973807X"   id="pd_cp_b_0_067973807X" > <img src="http://ecx.images-amazon.com/images/I/517jc60duaL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="https://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/dp/067973807X"   id="pd_cp_b_0_067973807X" > <img src="https://ecx.images-amazon.com/images/I/517jc60duaL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">Beyond Numeracy</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by John Allen Paulos</span>&nbsp;Paperback</span>
     <br>
     <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="067973807X" ref="pd_cp_b_0_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/product-reviews/067973807X" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/product-reviews/067973807X" >13</a>)</span></span><br>
+              <a href="https://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/product-reviews/067973807X" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Beyond-Numeracy-John-Allen-Paulos/product-reviews/067973807X" >13</a>)</span></span><br>
   <div class="price">$10.85</div>
   </div>
 </li>
@@ -10017,12 +10017,12 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 
 
 
-<a href="http://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/dp/038548254X"   id="pd_cp_b_1_038548254X" > <img src="http://ecx.images-amazon.com/images/I/51UMjqOAAqL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="https://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/dp/038548254X"   id="pd_cp_b_1_038548254X" > <img src="https://ecx.images-amazon.com/images/I/51UMjqOAAqL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">A Mathematician Reads the Newspaper</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by John Allen Paulos</span>&nbsp;Paperback</span>
     <br>
     <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="038548254X" ref="pd_cp_b_1_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/product-reviews/038548254X" ><span class="swSprite s_star_4_0 " title="4.2 out of 5 stars" ><span>4.2 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/product-reviews/038548254X" >37</a>)</span></span><br>
+              <a href="https://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/product-reviews/038548254X" ><span class="swSprite s_star_4_0 " title="4.2 out of 5 stars" ><span>4.2 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Mathematician-Reads-Newspaper-Allen-Paulos/product-reviews/038548254X" >37</a>)</span></span><br>
   <div class="price">$8.28</div>
   </div>
 </li>
@@ -10065,12 +10065,12 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 
 
 
-<a href="http://www.amazon.com/Mathematics-Humor-Study-Logic/dp/0226650251"   id="pd_cp_b_2_0226650251" > <img src="http://ecx.images-amazon.com/images/I/61cC82xmx8L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="https://www.amazon.com/Mathematics-Humor-Study-Logic/dp/0226650251"   id="pd_cp_b_2_0226650251" > <img src="https://ecx.images-amazon.com/images/I/61cC82xmx8L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">Mathematics and Humor: A Study of the Logic of Humor</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by John Allen Paulos</span>&nbsp;Paperback</span>
     <br>
     <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0226650251" ref="pd_cp_b_2_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Mathematics-Humor-Study-Logic/product-reviews/0226650251" ><span class="swSprite s_star_4_5 " title="4.4 out of 5 stars" ><span>4.4 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Mathematics-Humor-Study-Logic/product-reviews/0226650251" >5</a>)</span></span><br>
+              <a href="https://www.amazon.com/Mathematics-Humor-Study-Logic/product-reviews/0226650251" ><span class="swSprite s_star_4_5 " title="4.4 out of 5 stars" ><span>4.4 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Mathematics-Humor-Study-Logic/product-reviews/0226650251" >5</a>)</span></span><br>
   <div class="price">$12.04</div>
   </div>
 </li>
@@ -10113,12 +10113,12 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 
 
 
-<a href="http://www.amazon.com/Once-Upon-Number-Mathematical-Stories/dp/0465051596"   id="pd_cp_b_3_0465051596" > <img src="http://ecx.images-amazon.com/images/I/51dJPCd3oJL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="https://www.amazon.com/Once-Upon-Number-Mathematical-Stories/dp/0465051596"   id="pd_cp_b_3_0465051596" > <img src="https://ecx.images-amazon.com/images/I/51dJPCd3oJL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">Once Upon A Number: The Hidden Mathematical Logic Of Stories</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by John Allen Paulos</span>&nbsp;Paperback</span>
     <br>
     <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0465051596" ref="pd_cp_b_3_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Once-Upon-Number-Mathematical-Stories/product-reviews/0465051596" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Once-Upon-Number-Mathematical-Stories/product-reviews/0465051596" >17</a>)</span></span><br>
+              <a href="https://www.amazon.com/Once-Upon-Number-Mathematical-Stories/product-reviews/0465051596" ><span class="swSprite s_star_4_0 " title="4.1 out of 5 stars" ><span>4.1 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Once-Upon-Number-Mathematical-Stories/product-reviews/0465051596" >17</a>)</span></span><br>
   <div class="price">$12.79</div>
   </div>
 </li>
@@ -10126,7 +10126,7 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 
 
   </ul>
-  <div class="simFooter"><b><span class="caretnext">&rsaquo;</span> <a href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/sim/0679726012/2">Explore similar items</a></b></div>
+  <div class="simFooter"><b><span class="caretnext">&rsaquo;</span> <a href="https://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/sim/0679726012/2">Explore similar items</a></b></div>
 </div>
 </div>
 
@@ -10348,7 +10348,7 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
     <input id ="search-tag" style="width: 200px;" name="tag" value="" type="text" />&nbsp;
     <input name="search" value="1" type="hidden" />
     
-    <input type="image" title="Search Products Tagged with" alt="Search Products Tagged with" border="0" class="swSprite s_goTan " id="" value="" name="goBtn" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
+    <input type="image" title="Search Products Tagged with" alt="Search Products Tagged with" border="0" class="swSprite s_goTan " id="" value="" name="goBtn" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
   </div>
 </form>
 
@@ -10707,7 +10707,7 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
                 <div class="cdPostBoxInputs">
                     <div style="float: left; text-align: center;">
                       <div class="cdPromptWrapper">
-                        <input type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/btn-start-new-discussion._V192250348_.gif"  width="132" align="absmiddle" alt="[Start the discussion]" name="" height="22" border="0" />
+                        <input type="image" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/btn-start-new-discussion._V192250348_.gif"  width="132" align="absmiddle" alt="[Start the discussion]" name="" height="22" border="0" />
                         <div class="cdPromptFor">
                             Prompts for sign-in
                         </div>
@@ -10809,10 +10809,10 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx33EU0LCUALBIR">Is appeasing religion more important to society than free speech?</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx33EU0LCUALBIR">Is appeasing religion more important to society than free speech?</a>
 </span>
 
 
@@ -10840,10 +10840,10 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx393M2GIFQF2DL">Why the attempts to poison science by darwinism</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx393M2GIFQF2DL">Why the attempts to poison science by darwinism</a>
 </span>
 
 
@@ -10870,10 +10870,10 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ">Textbook forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ">Textbook forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ&amp;cdThread=Tx2X9HDFINJ9OW1">wrote name in book</a>
+  <a href="https://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ&amp;cdThread=Tx2X9HDFINJ9OW1">wrote name in book</a>
 </span>
 
 
@@ -10900,10 +10900,10 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx3MP3FDMWFU9CC">The fallacy of Darwinism and the evil associated</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx3MP3FDMWFU9CC">The fallacy of Darwinism and the evil associated</a>
 </span>
 
 
@@ -10930,10 +10930,10 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=TxEJM8ZNJJI6LV">Do Conservatives Really Hate Science?</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=TxEJM8ZNJJI6LV">Do Conservatives Really Hate Science?</a>
 </span>
 
 
@@ -10960,10 +10960,10 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx1V353DWZ3ISSV">Space-Time</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx1V353DWZ3ISSV">Space-Time</a>
 </span>
 
 
@@ -10990,10 +10990,10 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx2EC6GIPBAPA9Z">Abiogenesis be Manned- There is no evidence for life having started naturally on Earth.</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx2EC6GIPBAPA9Z">Abiogenesis be Manned- There is no evidence for life having started naturally on Earth.</a>
 </span>
 
 
@@ -11020,10 +11020,10 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ">Textbook forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ">Textbook forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ&amp;cdThread=TxGNKV25L7DDYP">First time seller, please help</a>
+  <a href="https://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ&amp;cdThread=TxGNKV25L7DDYP">First time seller, please help</a>
 </span>
 
 
@@ -11101,7 +11101,7 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
     
 
     <input type="hidden" name="cdPage" value="1" />
-    <input type="image" title="" alt="Go" border="0" class="swSprite s_goTan cdSearchGoButton" id="" value="" name="goBtn" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
+    <input type="image" title="" alt="Go" border="0" class="swSprite s_goTan cdSearchGoButton" id="" value="" name="goBtn" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
   </div>
 
   <div class="cdSearchContextBucket">
@@ -11146,9 +11146,9 @@ on <a href="/gp/reader/0471509825?ie=UTF8&amp;p=S0EI&amp;checkSum=u1NZRC4FOwQKyU
   <div class="cdRFList">
 
     <ul>
-      <li><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdPage=1&amp;cdAnchor=0679726012">Science forum</a>
+      <li><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdPage=1&amp;cdAnchor=0679726012">Science forum</a>
 &nbsp;<span class="smQty">(1023 discussions)</span></li>
-      <li><a href="http://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ&amp;cdPage=1&amp;cdAnchor=0679726012">Textbook forum</a>
+      <li><a href="https://www.amazon.com/forum/textbook?_encoding=UTF8&amp;cdForum=FxSTS4YUE7GADZ&amp;cdPage=1&amp;cdAnchor=0679726012">Textbook forum</a>
 &nbsp;<span class="smQty">(69 discussions)</span></li>
     </ul>
 
@@ -11359,7 +11359,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/Know-about-Atheism-religious-beliefs/lm/RDQGUV5BSQ8PZ"><img src="http://ecx.images-amazon.com/images/I/51WqX5zNgTL._AA60_.jpg" width="60" alt="Know more about Atheism and religious beliefs." height="60" border="0" /></a>
+        <a href="/Know-about-Atheism-religious-beliefs/lm/RDQGUV5BSQ8PZ"><img src="https://ecx.images-amazon.com/images/I/51WqX5zNgTL._AA60_.jpg" width="60" alt="Know more about Atheism and religious beliefs." height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -11374,7 +11374,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/Mind-altering-Non-fiction/lm/1XFN1MD1QWRFL"><img src="http://ecx.images-amazon.com/images/I/51tlolTFgjL._AA60_.jpg" width="60" alt="Mind-altering Non-fiction!" height="60" border="0" /></a>
+        <a href="/Mind-altering-Non-fiction/lm/1XFN1MD1QWRFL"><img src="https://ecx.images-amazon.com/images/I/51tlolTFgjL._AA60_.jpg" width="60" alt="Mind-altering Non-fiction!" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -11389,7 +11389,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/Books-about-Math-Numbers-More/lm/R3T29ZJGFBT60N"><img src="http://ecx.images-amazon.com/images/I/41yPKshkrqL._AA60_.jpg" width="60" alt="Books about Math, Numbers &amp; More" height="60" border="0" /></a>
+        <a href="/Books-about-Math-Numbers-More/lm/R3T29ZJGFBT60N"><img src="https://ecx.images-amazon.com/images/I/41yPKshkrqL._AA60_.jpg" width="60" alt="Books about Math, Numbers &amp; More" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -11422,7 +11422,7 @@ function RefreshOriginalWindow(url) {
                 <input type="hidden" name="search-alias" value="rp-listmania"/>
              
             </td>
-            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  /></td>
+            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  /></td>
         </tr>
     </table>
   </FORM>
@@ -11597,7 +11597,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/gp/richpub/syltguides/fullview/R3C5DURZYFB0NG"><img src="http://ecx.images-amazon.com/images/I/51RGTt%2BVYGL._AA60_.jpg" width="60" alt="Improve your logic and critical thinking skills" height="60" border="0" /></a>
+        <a href="/gp/richpub/syltguides/fullview/R3C5DURZYFB0NG"><img src="https://ecx.images-amazon.com/images/I/51RGTt%2BVYGL._AA60_.jpg" width="60" alt="Improve your logic and critical thinking skills" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -11612,13 +11612,13 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/gp/richpub/syltguides/fullview/R3UVC5Q6749Q0Q"><img src="http://ecx.images-amazon.com/images/I/51dXTWDOXaL._AA60_.jpg" width="60" alt="Learn About Atheism" height="60" border="0" /></a>
+        <a href="/gp/richpub/syltguides/fullview/R3UVC5Q6749Q0Q"><img src="https://ecx.images-amazon.com/images/I/51dXTWDOXaL._AA60_.jpg" width="60" alt="Learn About Atheism" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
 
       <td>
-         <a href="/gp/richpub/syltguides/fullview/R3UVC5Q6749Q0Q">Learn About Atheism</a>: A guide by  <a  href="/gp/richpub/syltguides/byauthor/A11SWG9T60IQH8">Turtles all the Way Down™</a>
+         <a href="/gp/richpub/syltguides/fullview/R3UVC5Q6749Q0Q">Learn About Atheism</a>: A guide by  <a  href="/gp/richpub/syltguides/byauthor/A11SWG9T60IQH8">Turtles all the Way Downï¿½</a>
       </td>
     </tr>
   </table>
@@ -11627,7 +11627,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/gp/richpub/syltguides/fullview/R2KM7MC0ATY5ES"><img src="http://ecx.images-amazon.com/images/I/51LWAfrzmqL._AA60_.jpg" width="60" alt="read more about atheism and rational religion" height="60" border="0" /></a>
+        <a href="/gp/richpub/syltguides/fullview/R2KM7MC0ATY5ES"><img src="https://ecx.images-amazon.com/images/I/51LWAfrzmqL._AA60_.jpg" width="60" alt="read more about atheism and rational religion" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -11670,7 +11670,7 @@ function RefreshOriginalWindow(url) {
                 <input type="hidden" name="search-alias" value="rp-sylt"/>
              
             </td>
-            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  /></td>
+            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  /></td>
         </tr>
     </table>
   </FORM>
@@ -11788,7 +11788,7 @@ function RefreshOriginalWindow(url) {
   <form method="post" action="/s" style="margin: 0px;">
   
   <input type="hidden" name="index" value="books" />
-  <b>Search <a href="http://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> by subject:</b><br />
+  <b>Search <a href="https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> by subject:</b><br />
     <input type="checkbox" name="field+keywords" value="Science/Mathematics" id="search_by_subject_1"/>
     <label for="search_by_subject_1">
 <a href="/s?ie=UTF8&amp;index=books&amp;field-keywords=Science%2FMathematics">Science/Mathematics</a>    </label><br />
@@ -11948,77 +11948,77 @@ function RefreshOriginalWindow(url) {
     <tr>
       <td>
         <div class="navFooterLine navFooterLogoLine">
-          <a href="/"><img src="http://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif" width="126" alt="amazon.com" height="24" border="0" /></a>
+          <a href="/"><img src="https://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif" width="126" alt="amazon.com" height="24" border="0" /></a>
         </div>
         <div class="navFooterLine navFooterLinkLine navFooterPadItemLine">
           See all books stores: 
-<a href="http://www.amazon.ca/books-used-books-textbooks/b?ie=UTF8&node=916520">Canada</a>
-<a href="http://www.amazon.cn/%E5%9B%BE%E4%B9%A6/b?ie=UTF8&node=658390051">China</a>
-<a href="http://www.amazon.fr/livre-achat-occasion-litterature-roman/b?ie=UTF8&node=301061">France</a>
-<a href="http://www.amazon.de/b%C3%BCcher-buch-literatur/b?ie=UTF8&node=299956">Germany</a>
-<a href="http://www.amazon.it/libri-italiano/b?ie=UTF8&node=411663031">Italy</a>
-<a href="http://www.amazon.co.jp/%E6%9C%AC-%E5%92%8C%E6%9B%B8/b?ie=UTF8&node=465392">Japan</a>
-<a href="http://www.amazon.es/Libros-en-castellano/b?ie=UTF8&node=599364031">Spain</a>
-<a href="http://www.amazon.co.uk/books-used-books-textbooks/b?ie=UTF8&node=266239">United Kingdom</a>
+<a href="https://www.amazon.ca/books-used-books-textbooks/b?ie=UTF8&node=916520">Canada</a>
+<a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/b?ie=UTF8&node=658390051">China</a>
+<a href="https://www.amazon.fr/livre-achat-occasion-litterature-roman/b?ie=UTF8&node=301061">France</a>
+<a href="https://www.amazon.de/b%C3%BCcher-buch-literatur/b?ie=UTF8&node=299956">Germany</a>
+<a href="https://www.amazon.it/libri-italiano/b?ie=UTF8&node=411663031">Italy</a>
+<a href="https://www.amazon.co.jp/%E6%9C%AC-%E5%92%8C%E6%9B%B8/b?ie=UTF8&node=465392">Japan</a>
+<a href="https://www.amazon.es/Libros-en-castellano/b?ie=UTF8&node=599364031">Spain</a>
+<a href="https://www.amazon.co.uk/books-used-books-textbooks/b?ie=UTF8&node=266239">United Kingdom</a>
 
         </div>
         <div class="navFooterLine navFooterLinkLine navFooterDescLine">
           <table cellspacing="0">
             <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.abebooks.com/">AbeBooks<br/> <span class="navFooterDescText">Rare Books<br/> & Textbooks</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.abebooks.com/">AbeBooks<br/> <span class="navFooterDescText">Rare Books<br/> & Textbooks</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://amazonlocal.com/">AmazonLocal<br/> <span class="navFooterDescText">Great Local Deals<br/> in Your City</span></a></td>
+<td class="navFooterDescItem"><a href="https://amazonlocal.com/">AmazonLocal<br/> <span class="navFooterDescText">Great Local Deals<br/> in Your City</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.amazonsupply.com/">AmazonSupply<br/> <span class="navFooterDescText">Business, Industrial<br/> & Scientific Supplies</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.amazonsupply.com/">AmazonSupply<br/> <span class="navFooterDescText">Business, Industrial<br/> & Scientific Supplies</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://aws.amazon.com/">AmazonWebServices<br/> <span class="navFooterDescText">Scalable<br/> Cloud Services</span></a></td>
+<td class="navFooterDescItem"><a href="https://aws.amazon.com/">AmazonWebServices<br/> <span class="navFooterDescText">Scalable<br/> Cloud Services</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://wireless.amazon.com/">AmazonWireless<br/> <span class="navFooterDescText">Cellphones &<br/> Wireless Plans</span></a></td>
+<td class="navFooterDescItem"><a href="https://wireless.amazon.com/">AmazonWireless<br/> <span class="navFooterDescText">Cellphones &<br/> Wireless Plans</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://askville.amazon.com/">Askville<br/> <span class="navFooterDescText">Community<br/> Answers</span></a></td>
+<td class="navFooterDescItem"><a href="https://askville.amazon.com/">Askville<br/> <span class="navFooterDescText">Community<br/> Answers</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.audible.com/">Audible<br/> <span class="navFooterDescText">Download<br/> Audio Books</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.audible.com/">Audible<br/> <span class="navFooterDescText">Download<br/> Audio Books</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.beautybar.com/">BeautyBar.com<br/> <span class="navFooterDescText">Prestige Beauty<br/> Delivered</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.beautybar.com/">BeautyBar.com<br/> <span class="navFooterDescText">Prestige Beauty<br/> Delivered</span></a></td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.bookdepository.com/">Book Depository<br/> <span class="navFooterDescText">Books With Free<br/> Delivery Worldwide</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.bookdepository.com/">Book Depository<br/> <span class="navFooterDescText">Books With Free<br/> Delivery Worldwide</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.createspace.com/">CreateSpace<br/> <span class="navFooterDescText">Indie Publishing<br/> Made Easy</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.createspace.com/">CreateSpace<br/> <span class="navFooterDescText">Indie Publishing<br/> Made Easy</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.diapers.com/">Diapers.com<br/> <span class="navFooterDescText">Everything<br/> But The Baby</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.diapers.com/">Diapers.com<br/> <span class="navFooterDescText">Everything<br/> But The Baby</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.dpreview.com/">DPReview<br/> <span class="navFooterDescText">Digital<br/> Photography</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.dpreview.com/">DPReview<br/> <span class="navFooterDescText">Digital<br/> Photography</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.fabric.com/">Fabric<br/> <span class="navFooterDescText">Sewing, Quilting<br/> & Knitting</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.fabric.com/">Fabric<br/> <span class="navFooterDescText">Sewing, Quilting<br/> & Knitting</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.imdb.com/">IMDb<br/> <span class="navFooterDescText">Movies, TV<br/> & Celebrities</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.imdb.com/">IMDb<br/> <span class="navFooterDescText">Movies, TV<br/> & Celebrities</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.junglee.com/">Junglee.com<br/> <span class="navFooterDescText">Shop Online<br/> in India</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.junglee.com/">Junglee.com<br/> <span class="navFooterDescText">Shop Online<br/> in India</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.myhabit.com/">MYHABIT<br/> <span class="navFooterDescText">Private Fashion<br/> Designer Sales</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.myhabit.com/">MYHABIT<br/> <span class="navFooterDescText">Private Fashion<br/> Designer Sales</span></a></td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.shopbop.com/welcome">Shopbop<br/> <span class="navFooterDescText">Designer<br/> Fashion Brands</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.shopbop.com/welcome">Shopbop<br/> <span class="navFooterDescText">Designer<br/> Fashion Brands</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.soap.com/">Soap.com<br/> <span class="navFooterDescText">Health, Beauty &<br/> Home Essentials</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.soap.com/">Soap.com<br/> <span class="navFooterDescText">Health, Beauty &<br/> Home Essentials</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.wag.com/">Wag.com<br/> <span class="navFooterDescText">Everything<br/> For Your Pet</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.wag.com/">Wag.com<br/> <span class="navFooterDescText">Everything<br/> For Your Pet</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="/b?ie=UTF8&node=1267877011">Warehouse Deals<br/> <span class="navFooterDescText">Open-Box<br/> Discounts</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.woot.com/">Woot<br/> <span class="navFooterDescText">Never Gonna<br/> Give You Up</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.woot.com/">Woot<br/> <span class="navFooterDescText">Never Gonna<br/> Give You Up</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.yoyo.com/">Yoyo.com<br/> <span class="navFooterDescText">A Happy Place<br/> To Shop For Toys</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.yoyo.com/">Yoyo.com<br/> <span class="navFooterDescText">A Happy Place<br/> To Shop For Toys</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.zappos.com/">Zappos<br/> <span class="navFooterDescText">Shoes &<br/> Clothing</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.zappos.com/">Zappos<br/> <span class="navFooterDescText">Shoes &<br/> Clothing</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem">&nbsp;</td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
@@ -12031,7 +12031,7 @@ function RefreshOriginalWindow(url) {
 <a href="/gp/help/customer/display.html?ie=UTF8&nodeId=468496">Privacy Notice</a>
 <a href="/interestbasedads">Interest-Based Ads</a>
 <span>
-© 1996-2012, Amazon.com, Inc. or its affiliates
+ï¿½ 1996-2012, Amazon.com, Inc. or its affiliates
 </span>
 
         </div>

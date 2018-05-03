@@ -1,57 +1,57 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/terms/"
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:og="http://ogp.me/ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-  xmlns:sioc="http://rdfs.org/sioc/ns#"
-  xmlns:sioct="http://rdfs.org/sioc/types#"
-  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="https://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="https://purl.org/dc/terms/"
+  xmlns:foaf="https://xmlns.com/foaf/0.1/"
+  xmlns:og="https://ogp.me/ns#"
+  xmlns:rdfs="https://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="https://rdfs.org/sioc/ns#"
+  xmlns:sioct="https://rdfs.org/sioc/types#"
+  xmlns:skos="https://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="https://www.w3.org/2001/XMLSchema#">
 
-<head profile="http://www.w3.org/1999/xhtml/vocab">
+<head profile="https://www.w3.org/1999/xhtml/vocab">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta content="StatPlanet World Bank - Open Data" about="/maps/statplanet-world-bank-open-data" property="dc:title" />
 <meta about="/maps/statplanet-world-bank-open-data" property="sioc:num_replies" content="0" datatype="xsd:integer" />
-<link rel="shortcut icon" href="http://www.statsilk.com/sites/all/themes/vivacity/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortcut icon" href="https://www.statsilk.com/sites/all/themes/vivacity/favicon.ico" type="image/vnd.microsoft.icon" />
 <meta name="keywords" content="StatPlanet, World Bank, Apps for Development, open data, world stats, development indicators" />
 <meta name="description" content="The 1st prize winner of the World Bank&#039;s Apps for Development competition, an Open Data initiative. Explore thousands of world stats through interactive visuals" />
-<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<meta name="Generator" content="Drupal 7 (https://drupal.org)" />
 <link rel="canonical" href="/maps/statplanet-world-bank-open-data" />
 <link rel="shortlink" href="/node/56" />
   <title>StatPlanet World Bank - Open Data | StatSilk</title>
-  <style type="text/css" media="all">@import url("http://www.statsilk.com/modules/system/system.base.css?m67v45");
-@import url("http://www.statsilk.com/modules/system/system.menus.css?m67v45");
-@import url("http://www.statsilk.com/modules/system/system.messages.css?m67v45");
-@import url("http://www.statsilk.com/modules/system/system.theme.css?m67v45");</style>
-<style type="text/css" media="all">@import url("http://www.statsilk.com/modules/comment/comment.css?m67v45");
-@import url("http://www.statsilk.com/modules/field/theme/field.css?m67v45");
-@import url("http://www.statsilk.com/sites/default/modules/mollom/mollom.css?m67v45");
-@import url("http://www.statsilk.com/modules/node/node.css?m67v45");
-@import url("http://www.statsilk.com/sites/default/modules/rpx/rpx_widgets.css?m67v45");
-@import url("http://www.statsilk.com/modules/search/search.css?m67v45");
-@import url("http://www.statsilk.com/modules/user/user.css?m67v45");
-@import url("http://www.statsilk.com/modules/forum/forum.css?m67v45");</style>
-<style type="text/css" media="all">@import url("http://www.statsilk.com/sites/default/modules/ckeditor/ckeditor.css?m67v45");
-@import url("http://www.statsilk.com/sites/default/modules/ctools/css/ctools.css?m67v45");
-@import url("http://www.statsilk.com/sites/default/modules/views/css/views.css?m67v45");
-@import url("http://www.statsilk.com/sites/default/modules/addthis/addthis.css?m67v45");</style>
-<style type="text/css" media="all">@import url("http://www.statsilk.com/sites/all/themes/vivacity/css/vivacity.css?m67v45");
-@import url("http://www.statsilk.com/sites/all/themes/vivacity/css/white_blue.css?m67v45");</style>
+  <style type="text/css" media="all">@import url("https://www.statsilk.com/modules/system/system.base.css?m67v45");
+@import url("https://www.statsilk.com/modules/system/system.menus.css?m67v45");
+@import url("https://www.statsilk.com/modules/system/system.messages.css?m67v45");
+@import url("https://www.statsilk.com/modules/system/system.theme.css?m67v45");</style>
+<style type="text/css" media="all">@import url("https://www.statsilk.com/modules/comment/comment.css?m67v45");
+@import url("https://www.statsilk.com/modules/field/theme/field.css?m67v45");
+@import url("https://www.statsilk.com/sites/default/modules/mollom/mollom.css?m67v45");
+@import url("https://www.statsilk.com/modules/node/node.css?m67v45");
+@import url("https://www.statsilk.com/sites/default/modules/rpx/rpx_widgets.css?m67v45");
+@import url("https://www.statsilk.com/modules/search/search.css?m67v45");
+@import url("https://www.statsilk.com/modules/user/user.css?m67v45");
+@import url("https://www.statsilk.com/modules/forum/forum.css?m67v45");</style>
+<style type="text/css" media="all">@import url("https://www.statsilk.com/sites/default/modules/ckeditor/ckeditor.css?m67v45");
+@import url("https://www.statsilk.com/sites/default/modules/ctools/css/ctools.css?m67v45");
+@import url("https://www.statsilk.com/sites/default/modules/views/css/views.css?m67v45");
+@import url("https://www.statsilk.com/sites/default/modules/addthis/addthis.css?m67v45");</style>
+<style type="text/css" media="all">@import url("https://www.statsilk.com/sites/all/themes/vivacity/css/vivacity.css?m67v45");
+@import url("https://www.statsilk.com/sites/all/themes/vivacity/css/white_blue.css?m67v45");</style>
 
 <!--[if IE 7]>
-<link type="text/css" rel="stylesheet" href="http://www.statsilk.com/sites/all/themes/vivacity/css/ie.css?m67v45" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.statsilk.com/sites/all/themes/vivacity/css/ie.css?m67v45" media="all" />
 <![endif]-->
-  <script type="text/javascript" src="http://www.statsilk.com/misc/jquery.js?v=1.4.4"></script>
-<script type="text/javascript" src="http://www.statsilk.com/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="http://www.statsilk.com/misc/drupal.js?m67v45"></script>
+  <script type="text/javascript" src="https://www.statsilk.com/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="https://www.statsilk.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.statsilk.com/misc/drupal.js?m67v45"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 
 	    addthis_pub = 'cappelle';
-	    addthis_logo = 'http://www.statsilk.com/sites/all/themes/vivacity/logo.png';
+	    addthis_logo = 'https://www.statsilk.com/sites/all/themes/vivacity/logo.png';
 	    addthis_logo_background = 'EFEFFF';
 	    addthis_logo_color = '666699';
 	    addthis_brand = '';
@@ -60,17 +60,17 @@
 	
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.statsilk.com/sites/default/modules/google_analytics/googleanalytics.js?m67v45"></script>
+<script type="text/javascript" src="https://www.statsilk.com/sites/default/modules/google_analytics/googleanalytics.js?m67v45"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1012073-7"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1012073-7"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "https://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/cufon-yui.js?m67v45"></script>
-<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/republika.js?m67v45"></script>
-<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/superfish.js?m67v45"></script>
-<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/jquery.hoverIntent.minified.js?m67v45"></script>
-<script type="text/javascript" src="http://www.statsilk.com/sites/all/themes/vivacity/js/vivacity.js?m67v45"></script>
+<script type="text/javascript" src="https://www.statsilk.com/sites/all/themes/vivacity/js/cufon-yui.js?m67v45"></script>
+<script type="text/javascript" src="https://www.statsilk.com/sites/all/themes/vivacity/js/republika.js?m67v45"></script>
+<script type="text/javascript" src="https://www.statsilk.com/sites/all/themes/vivacity/js/superfish.js?m67v45"></script>
+<script type="text/javascript" src="https://www.statsilk.com/sites/all/themes/vivacity/js/jquery.hoverIntent.minified.js?m67v45"></script>
+<script type="text/javascript" src="https://www.statsilk.com/sites/all/themes/vivacity/js/vivacity.js?m67v45"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageState":{"theme":"vivacity", "theme_token":"PGaf4eCTw_j-LY1_4t6bUAIabQ010kyOBrIx98pfDYI", "js":{"misc\u002Fjquery.js":1, "misc\u002Fjquery.once.js":1, "misc\u002Fdrupal.js":1, "0":1, "sites\u002Fdefault\u002Fmodules\u002Fgoogle_analytics\u002Fgoogleanalytics.js":1, "1":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Fcufon-yui.js":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Frepublika.js":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Fsuperfish.js":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Fjquery.hoverIntent.minified.js":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fjs\u002Fvivacity.js":1}, "css":{"modules\u002Fsystem\u002Fsystem.base.css":1, "modules\u002Fsystem\u002Fsystem.menus.css":1, "modules\u002Fsystem\u002Fsystem.messages.css":1, "modules\u002Fsystem\u002Fsystem.theme.css":1, "modules\u002Fcomment\u002Fcomment.css":1, "modules\u002Ffield\u002Ftheme\u002Ffield.css":1, "sites\u002Fdefault\u002Fmodules\u002Fmollom\u002Fmollom.css":1, "modules\u002Fnode\u002Fnode.css":1, "sites\u002Fdefault\u002Fmodules\u002Frpx\u002Frpx_widgets.css":1, "modules\u002Fsearch\u002Fsearch.css":1, "modules\u002Fuser\u002Fuser.css":1, "modules\u002Fforum\u002Fforum.css":1, "sites\u002Fdefault\u002Fmodules\u002Fckeditor\u002Fckeditor.css":1, "sites\u002Fdefault\u002Fmodules\u002Fctools\u002Fcss\u002Fctools.css":1, "sites\u002Fdefault\u002Fmodules\u002Fviews\u002Fcss\u002Fviews.css":1, "sites\u002Fdefault\u002Fmodules\u002Faddthis\u002Faddthis.css":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fcss\u002Fvivacity.css":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fcss\u002Fwhite_blue.css":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fcss\u002Flayout.css":1, "sites\u002Fall\u002Fthemes\u002Fvivacity\u002Fcss\u002Fie.css":1}}, "jcarousel":{"ajaxPath":"\u002Fjcarousel\u002Fajax\u002Fviews"}, "googleanalytics":{"trackOutbound":1, "trackMailto":1, "trackDownload":1, "trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
@@ -92,7 +92,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
 	  <div id="header">
 	    	    <div id="header-inner" class="clearfix">
                       <div id="logo-title">
-                              <div id="site-logo"><a href="/" title="Home" rel="home"><img src="http://www.statsilk.com/sites/all/themes/vivacity/logo.png" alt="Home"/></a></div>
+                              <div id="site-logo"><a href="/" title="Home" rel="home"><img src="https://www.statsilk.com/sites/all/themes/vivacity/logo.png" alt="Home"/></a></div>
               		      		                  </div> <!-- /#logo-title -->
                                           <div id="header-right">  <div class="region region-header-right">
     
@@ -245,19 +245,19 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
 <li>
 		Select year range: <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=1960-2010" target="_blank">1960-2010</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=1970-2010" target="_blank">1970-2010</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html" target="_blank">1980-2010</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=1990-2010" target="_blank">1990-2010</a>, <a href="/maps/statplanet-world-bank-app-open-data/index.html?y=2000-2010" target="_blank">2000-2010</a>.</li>
 <li>
-		Download: <a href="http://www.sacmeq.org/statplanet/files/StatPlanet_WorldBank.zip">StatPlanet World Bank desktop app</a> | <a href="/files/resources/User_Guide_StatPlanet.pdf" target="_blank">Download the User Guide</a></li>
+		Download: <a href="https://www.sacmeq.org/statplanet/files/StatPlanet_WorldBank.zip">StatPlanet World Bank desktop app</a> | <a href="/files/resources/User_Guide_StatPlanet.pdf" target="_blank">Download the User Guide</a></li>
 </ul><h2>
 	<a id="seealso" name="seealso"><strong>See also:</strong></a></h2>
 <ul><li>
-		<a href="http://appsfordevelopment.challengepost.com/" target="_blank">Apps for Development website</a></li>
+		<a href="https://appsfordevelopment.challengepost.com/" target="_blank">Apps for Development website</a></li>
 <li>
-		<a href="http://blogs.worldbank.org/education/node/647" target="_blank">World Bank's StatPlanet EdStats</a> to explore education statistics.</li>
+		<a href="https://blogs.worldbank.org/education/node/647" target="_blank">World Bank's StatPlanet EdStats</a> to explore education statistics.</li>
 <li>
 		<a href="/maps/world-stats-open-data">StatWorld</a> - StatSilk's compilation of world stats using open data.</li>
 </ul><h2>
 	<a id="explanatoryvideo" name="explanatoryvideo"><strong>Explanatory video:</strong></a></h2>
 <p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" style="height: 390px; width: 640px">
-<param name="movie" value="http://www.youtube.com/v/_0u-qY3n7Pc?version=3&amp;feature=player_detailpage" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><!--[if !IE]>--><object style="height: 390px; width: 640px" type="application/x-shockwave-flash" data="http://www.youtube.com/v/_0u-qY3n7Pc?version=3&amp;feature=player_detailpage">
+<param name="movie" value="https://www.youtube.com/v/_0u-qY3n7Pc?version=3&amp;feature=player_detailpage" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><!--[if !IE]>--><object style="height: 390px; width: 640px" type="application/x-shockwave-flash" data="https://www.youtube.com/v/_0u-qY3n7Pc?version=3&amp;feature=player_detailpage">
 <param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><!--<![endif]--><!--[if !IE]>--></object><!--<![endif]--></object></p>
 <p> </p>
 <h2>
@@ -343,11 +343,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
     <div class="block-inner clearfix">
       	  <div class="content clearfix">
         
-      <a href="http://www.addthis.com/bookmark.php"
+      <a href="https://www.addthis.com/bookmark.php"
         onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')"
         onmouseout="addthis_close()"
-        onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="" /></a>
-      <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+        onclick="return addthis_sendto()"><img src="https://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="" /></a>
+      <script type="text/javascript" src="https://s7.addthis.com/js/200/addthis_widget.js"></script>
               
       </div>
     </div>
@@ -367,7 +367,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\u002F", "pathPrefix":"", "ajaxPageS
   <div id="block-block-6" class="block block-block  " >	
     <div class="block-inner clearfix">
       	  <div class="content clearfix">
-        <p><a href="http://creativecommons.org/licenses/by/3.0/" rel="license"><img alt="Creative Commons Licence" src="http://i.creativecommons.org/l/by/3.0/88x31.png" style="border-width:0" /></a> All exported map and graph images are licensed under a <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons Attribution 3.0 Unported License</a>. See also: <a href="/license#attribution">attribution</a>.</p>
+        <p><a href="https://creativecommons.org/licenses/by/3.0/" rel="license"><img alt="Creative Commons Licence" src="https://i.creativecommons.org/l/by/3.0/88x31.png" style="border-width:0" /></a> All exported map and graph images are licensed under a <a href="https://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons Attribution 3.0 Unported License</a>. See also: <a href="/license#attribution">attribution</a>.</p>
         
       </div>
     </div>

@@ -13,7 +13,7 @@ title: "Scientific value \xE2\x89\xA0 Perception of the scientific value"
 ---
 A russian satellite makes a time lapse of the Earth from space. A truly beautiful video.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/6twFHqJ03_k" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6twFHqJ03_k" frameborder="0"> </iframe>
 
 This reminds me of a text I read many years ago: Carl Sagan was defending the inclusion of visual cameras in scientific payloads, even when the scientific value would be arguable.
 
@@ -25,13 +25,13 @@ Almost every single weather satellite in the recent years has had the same capab
 
 Here´s another example with the ISS and the Earth. You might not even remember the purpose of the ISS (or even that we had humans living there since years)  but you might remember (or you will) this video:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Ip2ZGND1I9Q" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ip2ZGND1I9Q" frameborder="0"> </iframe>
 
 
-Another case, from my experience: My thesis took around 3 years, and 100 days of observations at a telescope. Probably less than 20 people understand it, and I hope it be a small contribution to advance solar physic. One day, at the telescope, I made a 20 seconds video, and then I took a few hours to prepare a simple video of it (here it is <a href="http://bsan.eu/LbfigS">http://bsan.eu/LbfigS</a> ). The <a href="https://plus.google.com/113118420661689340672">Astronomy Picture of the Day (APoD)</a> featured it 3 times, and literally millions of people has seen it. With that video, we can engage in so many concepts of Astronomy, Optics and Solar Physics. And so have told me teachers from literally all around the world when they asked me to use it on their classroom.
+Another case, from my experience: My thesis took around 3 years, and 100 days of observations at a telescope. Probably less than 20 people understand it, and I hope it be a small contribution to advance solar physic. One day, at the telescope, I made a 20 seconds video, and then I took a few hours to prepare a simple video of it (here it is <a href="https://bsan.eu/LbfigS">https://bsan.eu/LbfigS</a> ). The <a href="https://plus.google.com/113118420661689340672">Astronomy Picture of the Day (APoD)</a> featured it 3 times, and literally millions of people has seen it. With that video, we can engage in so many concepts of Astronomy, Optics and Solar Physics. And so have told me teachers from literally all around the world when they asked me to use it on their classroom.
 
-The last example could well be my recent work: We did a Climate change Adaptation Index, and it took a lot of work. Once done, it would have never went very far, if we had not spent significant time and resources to make a visual tool to explore some of the messages. (<a href="http://index.gain.org/">index.gain.org</a>)
+The last example could well be my recent work: We did a Climate change Adaptation Index, and it took a lot of work. Once done, it would have never went very far, if we had not spent significant time and resources to make a visual tool to explore some of the messages. (<a href="https://index.gain.org/">index.gain.org</a>)
 
 The lesson to learn here, to me, is very clear. The <strong>scientific value</strong> is one stop away from the <strong>societal perception of the scientific value</strong>, which is tremendously important, and powerful. We must do that extra mile, even at the cost of some more research. <em>There is a painful detachment of S&amp;T and society.</em>
 
-PS: I can´t remember if that Carl Sagan text was connected to the russian lander on Venus (I doubt it) or to the Viking Mars from +<a href="https://plus.google.com/113315419190905475766">NASA Jet Propulsion Laboratory</a>. This might be part of the Cosmos book. Can´t remember or find it. This is the closest I could find. <a href="http://history.nasa.gov/SP-4212/ch9.html">http://history.nasa.gov/SP-4212/ch9.html</a>
+PS: I can´t remember if that Carl Sagan text was connected to the russian lander on Venus (I doubt it) or to the Viking Mars from +<a href="https://plus.google.com/113315419190905475766">NASA Jet Propulsion Laboratory</a>. This might be part of the Cosmos book. Can´t remember or find it. This is the closest I could find. <a href="https://history.nasa.gov/SP-4212/ch9.html">https://history.nasa.gov/SP-4212/ch9.html</a>

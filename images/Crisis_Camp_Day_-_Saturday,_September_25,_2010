@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta http-equiv="Content-Style-Type" content="text/css" />
@@ -8,7 +8,7 @@
 		<link rel="shortcut icon" href="/favicon.ico" />
 		<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="CrisisCommons Wiki (en)" />
 		<link title="Creative Commons" type="application/rdf+xml" href="/w/index.php?title=Crisis_Camp_Day_-_Saturday,_September_25,_2010&amp;action=creativecommons" rel="meta" />
-		<link rel="copyright" href="http://creativecommons.org/licenses/publicdomain/" />
+		<link rel="copyright" href="https://creativecommons.org/licenses/publicdomain/" />
 		<link rel="alternate" type="application/rss+xml" title="CrisisCommons Wiki RSS Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=rss" />
 		<link rel="alternate" type="application/atom+xml" title="CrisisCommons Wiki Atom Feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
 		<title>Crisis Camp Day - Saturday, September 25, 2010 - CrisisCommons Wiki</title>
@@ -34,7 +34,7 @@
 		var wgScript = "/w/index.php";
 		var wgVariantArticlePath = false;
 		var wgActionPaths = {};
-		var wgServer = "http://wiki.crisiscommons.org";
+		var wgServer = "https://wiki.crisiscommons.org";
 		var wgCanonicalNamespace = "";
 		var wgCanonicalSpecialPageName = false;
 		var wgNamespaceNumber = 0;
@@ -77,7 +77,7 @@
 </p><p><b>Objective:</b> Phase I for developing CrisisCamp in a Box, so anyone can be quickly trained up to run their own CrisisCamp! 
 </p><p><b>What:</b> Events: CrisisCamps will be held in in Washington D.C., Toronto, Calgary, Bogotá, Silicon Valley and in London). There will be virtual participation for all camps.
 </p><p><b>When:</b> All day; see the camp event sites for times and how to join virtually.
-</p><p><b>More details:</b>: <a href="http://crisiscommons.org/blog/2010/09/15/globalcrisiscampda/" class="external text" title="http://crisiscommons.org/blog/2010/09/15/globalcrisiscampda/" rel="nofollow">CrisisCamp Day Blog post</a>
+</p><p><b>More details:</b>: <a href="https://crisiscommons.org/blog/2010/09/15/globalcrisiscampda/" class="external text" title="https://crisiscommons.org/blog/2010/09/15/globalcrisiscampda/" rel="nofollow">CrisisCamp Day Blog post</a>
 </p><p><a href="/wiki/CrisisCampDay_Twitterstream,_Blogs_%26_Media_Coverage" title="CrisisCampDay Twitterstream, Blogs &amp; Media Coverage">CrisisCampDay Twitterstream, Blogs &amp; Media Coverage</a>
 </p><p><br />
 <b>Twitter hashtag&nbsp;: #ccday</b><br />
@@ -154,8 +154,8 @@ This section provides a launch point for the crisiscamp day, the basic-camp (and
 </li><li> Check out, transition as necessary
 </li></ul>
 </li><li> TRACK YOUR STATUS of who attended and what worked on detail on your CAMP page below
-<ul><li>Example of a basic status page: <a href="http://wiki.crisiscommons.org/wiki/CrisisCampBangkok/meetings/04-Sept-2010" class="external text" title="http://wiki.crisiscommons.org/wiki/CrisisCampBangkok/meetings/04-Sept-2010" rel="nofollow">Sample Camp Day Status Page</a>
-</li><li>Make sure your camp info here is up-to-date: <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010#The_Camps:_Event_Planning_and_Logistics:" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010#The_Camps:_Event_Planning_and_Logistics:" rel="nofollow">All Camps</a>
+<ul><li>Example of a basic status page: <a href="https://wiki.crisiscommons.org/wiki/CrisisCampBangkok/meetings/04-Sept-2010" class="external text" title="https://wiki.crisiscommons.org/wiki/CrisisCampBangkok/meetings/04-Sept-2010" rel="nofollow">Sample Camp Day Status Page</a>
+</li><li>Make sure your camp info here is up-to-date: <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010#The_Camps:_Event_Planning_and_Logistics:" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010#The_Camps:_Event_Planning_and_Logistics:" rel="nofollow">All Camps</a>
 </li></ul>
 </li></ul>
 <p>
@@ -163,10 +163,10 @@ This section provides a launch point for the crisiscamp day, the basic-camp (and
 <a name="A.2_For_VIRTUAL_VOLUNTEERS_.28Wherever_you_may_be.29" id="A.2_For_VIRTUAL_VOLUNTEERS_.28Wherever_you_may_be.29"></a><h4> <span class="mw-headline">A.2 For VIRTUAL VOLUNTEERS (Wherever you may be) </span></h4>
 <p>Playing along at home?  With a little basic communication and tracking, we hope to make the virtual volunteer experience more enjoyable.  This also helps the camp day coordinators to better connect with and understand and coordinate work among and between volunteers.  Thats our story and we're sticking to it:
 </p>
-<ul><li> Have you officially pre-registered on eventbrite yet? <a href="http://globalcrisiscampday.eventbrite.com/" class="external text" title="http://globalcrisiscampday.eventbrite.com/" rel="nofollow">Virtual Registration</a>
+<ul><li> Have you officially pre-registered on eventbrite yet? <a href="https://globalcrisiscampday.eventbrite.com/" class="external text" title="https://globalcrisiscampday.eventbrite.com/" rel="nofollow">Virtual Registration</a>
 </li><li> Check in on IRC and say hi!!
-</li><li> Check in on the day-of-camp virtual volunteer person and camp log: <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/VirtualVolunteerLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/VirtualVolunteerLog" rel="nofollow">VolunteerLog</a>
-</li><li> General <a href="http://wiki.crisiscommons.org/wiki/CrisisCamp_Training" class="external text" title="http://wiki.crisiscommons.org/wiki/CrisisCamp_Training" rel="nofollow">CrisisCamp Training</a> (note, some of this is actually being updated because of this camp, but provides a basis for starting)
+</li><li> Check in on the day-of-camp virtual volunteer person and camp log: <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/VirtualVolunteerLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/VirtualVolunteerLog" rel="nofollow">VolunteerLog</a>
+</li><li> General <a href="https://wiki.crisiscommons.org/wiki/CrisisCamp_Training" class="external text" title="https://wiki.crisiscommons.org/wiki/CrisisCamp_Training" rel="nofollow">CrisisCamp Training</a> (note, some of this is actually being updated because of this camp, but provides a basis for starting)
 </li><li> Other information as we think of it
 </li><li> All set?  Have fun!!
 </li></ul>
@@ -176,18 +176,18 @@ This section provides a launch point for the crisiscamp day, the basic-camp (and
 <p>Here is some basic information for how we track the camp day tasks and activities, as well as how we communicate and collaborate with each other. Hopefully this 'gets us on the same page'.
 </p>
 <a name="B.1_The_Central_Dispatch_Log" id="B.1_The_Central_Dispatch_Log"></a><h4> <span class="mw-headline">B.1 The Central Dispatch Log  </span></h4>
-<ul><li>Your central-dispatcher will be updating here, pushing status to you: <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/CampLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/CampLog" rel="nofollow">Central Dispatch Log</a>
+<ul><li>Your central-dispatcher will be updating here, pushing status to you: <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/CampLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/CampLog" rel="nofollow">Central Dispatch Log</a>
 </li></ul>
 <a name="B.2_Other_Camp_Day_COMMUNICATION_methods" id="B.2_Other_Camp_Day_COMMUNICATION_methods"></a><h4> <span class="mw-headline">B.2 Other Camp Day COMMUNICATION methods </span></h4>
 <ul><li> B.2.1 Conference Bridge Info: 
 <ul><li><i>Usage</i>: COLLAB (mostly community calls, and problem-definition working groups)
-</li><li><i>General</i>: <a href="http://wiki.crisiscommons.org/wiki/Telephone_Bridge" class="external text" title="http://wiki.crisiscommons.org/wiki/Telephone_Bridge" rel="nofollow">Tele_BridgeWiki Page</a>
+</li><li><i>General</i>: <a href="https://wiki.crisiscommons.org/wiki/Telephone_Bridge" class="external text" title="https://wiki.crisiscommons.org/wiki/Telephone_Bridge" rel="nofollow">Tele_BridgeWiki Page</a>
 </li><li>Calls: TBD
 </li><li>Calls: TBD
 </li></ul>
 </li><li>B.2.2 IRC - For Chat
 <ul><li><i>Usage</i>: (CHAT and COLLAB: Inter-camp leads and others, virtual volunteers, friends-of-crisiscamp).
-</li><li><i>General</i>: Help/Other Info on IRC (like good clients and connection detail): <a href="http://wiki.crisiscommons.org/wiki/Chat_space_information" class="external text" title="http://wiki.crisiscommons.org/wiki/Chat_space_information" rel="nofollow">IRC_Info</a>
+</li><li><i>General</i>: Help/Other Info on IRC (like good clients and connection detail): <a href="https://wiki.crisiscommons.org/wiki/Chat_space_information" class="external text" title="https://wiki.crisiscommons.org/wiki/Chat_space_information" rel="nofollow">IRC_Info</a>
 </li><li>MAIN Channel: #CrisisCamp
 </li><li>Other channel: #CrisisCamp_CCIWG (Infrastructure (and website) working group)
 </li><li>Other channel
@@ -202,7 +202,7 @@ This section provides a launch point for the crisiscamp day, the basic-camp (and
 </li></ul>
 <a name="B.3_Getting_ready" id="B.3_Getting_ready"></a><h4> <span class="mw-headline">B.3 Getting ready </span></h4>
 <ul><li>Setting up your desktop - what should you have open (irc, wiki, etc.)
-</li><li>Have you read this?  Good stuff to get started: <a href="http://crisiscommons.org/blog/2010/09/20/what-to-expect-crisiscamp-day/" class="external text" title="http://crisiscommons.org/blog/2010/09/20/what-to-expect-crisiscamp-day/" rel="nofollow">Blog:What to expect on crisiscamp day</a>
+</li><li>Have you read this?  Good stuff to get started: <a href="https://crisiscommons.org/blog/2010/09/20/what-to-expect-crisiscamp-day/" class="external text" title="https://crisiscommons.org/blog/2010/09/20/what-to-expect-crisiscamp-day/" rel="nofollow">Blog:What to expect on crisiscamp day</a>
 </li><li>Conference Bridges and scheduled times (tbd)
 </li></ul>
 <p><b>Twitter hashtag&nbsp;: #ccday</b><br />
@@ -239,26 +239,26 @@ This section provides a launch point for the crisiscamp day, the basic-camp (and
 <p>These are the camps.  You can use this to connect with and find out what they are doing.
 </p><p><b>Onsite CrisisCamp:</b><br />
 </p>
-<ul><li> <b>Silicon Valley, USA:</b> <a href="http://ccsv-crisiscampinabox.eventbrite.com/" class="external text" title="http://ccsv-crisiscampinabox.eventbrite.com/" rel="nofollow">Registration</a>,  <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/SV_CampDayLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/SV_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter: @cmusv_dmi
-</li><li> <b>Toronto, Canada:</b>  <a href="http://crisiscampdaytoronto.eventbrite.com/" class="external text" title="http://crisiscampdaytoronto.eventbrite.com/" rel="nofollow">Registration</a>, <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/TO_CampDayLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/TO_CampDayLog" rel="nofollow">CampDayLog</a>, <a href="/w/index.php?title=Toronto_City_Page&amp;action=edit&amp;redlink=1" class="new" title="Toronto City Page (page does not exist)">Toronto City Page</a>, @crisisCampTO 
-</li><li> <b>Washington DC, USA:</b> <a href="http://globalcrisiscamp-wdc.eventbrite.com/" class="external text" title="http://globalcrisiscamp-wdc.eventbrite.com/" rel="nofollow">Registration</a>, <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/DC_CampDayLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/DC_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter: 
+<ul><li> <b>Silicon Valley, USA:</b> <a href="https://ccsv-crisiscampinabox.eventbrite.com/" class="external text" title="https://ccsv-crisiscampinabox.eventbrite.com/" rel="nofollow">Registration</a>,  <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/SV_CampDayLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/SV_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter: @cmusv_dmi
+</li><li> <b>Toronto, Canada:</b>  <a href="https://crisiscampdaytoronto.eventbrite.com/" class="external text" title="https://crisiscampdaytoronto.eventbrite.com/" rel="nofollow">Registration</a>, <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/TO_CampDayLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/TO_CampDayLog" rel="nofollow">CampDayLog</a>, <a href="/w/index.php?title=Toronto_City_Page&amp;action=edit&amp;redlink=1" class="new" title="Toronto City Page (page does not exist)">Toronto City Page</a>, @crisisCampTO 
+</li><li> <b>Washington DC, USA:</b> <a href="https://globalcrisiscamp-wdc.eventbrite.com/" class="external text" title="https://globalcrisiscamp-wdc.eventbrite.com/" rel="nofollow">Registration</a>, <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/DC_CampDayLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/DC_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter: 
 </li></ul>
 <p><br />
 <b>CafeCamps:</b><br />
 </p>
-<ul><li> <b>Calgary, Canada:</b> <a href="http://dayoflearningcalgary.eventbrite.com/" class="external text" title="http://dayoflearningcalgary.eventbrite.com/" rel="nofollow">Registration</a>, <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/CALG_CampDayLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/CALG_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter: 
-</li><li> <b>Longon, UK:</b> Registration, <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/LON_CampDayLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/LON_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter: 
-</li><li> <b>Bogota, Columbia:</b> <a href="http://crisiscampdaybogota.eventbrite.com/" class="external text" title="http://crisiscampdaybogota.eventbrite.com/" rel="nofollow">Registration</a>, <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/BOG_CampDayLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/BOG_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter:
-</li><li> <b>Argentina:</b> Registration, <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/ARG_CampDayLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/ARG_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter:
+<ul><li> <b>Calgary, Canada:</b> <a href="https://dayoflearningcalgary.eventbrite.com/" class="external text" title="https://dayoflearningcalgary.eventbrite.com/" rel="nofollow">Registration</a>, <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/CALG_CampDayLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/CALG_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter: 
+</li><li> <b>Longon, UK:</b> Registration, <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/LON_CampDayLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/LON_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter: 
+</li><li> <b>Bogota, Columbia:</b> <a href="https://crisiscampdaybogota.eventbrite.com/" class="external text" title="https://crisiscampdaybogota.eventbrite.com/" rel="nofollow">Registration</a>, <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/BOG_CampDayLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/BOG_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter:
+</li><li> <b>Argentina:</b> Registration, <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/ARG_CampDayLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/ARG_CampDayLog" rel="nofollow">CampDayLog</a>, Twitter:
 </li></ul>
 <p><br />
 <b>VirtualCamps:</b><br />
 </p>
-<ul><li> <b>Virtually:</b> <a href="http://globalcrisiscampday.eventbrite.com/" class="external text" title="http://globalcrisiscampday.eventbrite.com/" rel="nofollow">Registration</a>,  <a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/VirtualVolunteerLog" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/VirtualVolunteerLog" rel="nofollow">CampDayLog</a>
+<ul><li> <b>Virtually:</b> <a href="https://globalcrisiscampday.eventbrite.com/" class="external text" title="https://globalcrisiscampday.eventbrite.com/" rel="nofollow">Registration</a>,  <a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/VirtualVolunteerLog" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010/VirtualVolunteerLog" rel="nofollow">CampDayLog</a>
 </li></ul>
 <a name="Stream_1_-_CrisisCamp_in_a_Box" id="Stream_1_-_CrisisCamp_in_a_Box"></a><h2> <span class="mw-headline">Stream 1 - CrisisCamp in a Box</span></h2>
 <p>PRIME Contacts: Heather Leson, Brian Chick (Toronto)<br />
-Noel in DC <a href="http://wiki.crisiscommons.org/wiki/AM_Session_DC_CrisisCamp_in_a_Box_(Noel_Lead)" class="external autonumber" title="http://wiki.crisiscommons.org/wiki/AM_Session_DC_CrisisCamp_in_a_Box_(Noel_Lead)" rel="nofollow">[1]</a>
+Noel in DC <a href="https://wiki.crisiscommons.org/wiki/AM_Session_DC_CrisisCamp_in_a_Box_(Noel_Lead)" class="external autonumber" title="https://wiki.crisiscommons.org/wiki/AM_Session_DC_CrisisCamp_in_a_Box_(Noel_Lead)" rel="nofollow">[1]</a>
 </p><p><b>Main Problem Definitions</b><br />
 </p><p>1. What should be in CrisisCamp in a Box? Describe the tools, checklists, templates and materials
 </p><p>-Check online checklist that CrisisCamps need
@@ -276,14 +276,14 @@ Noel in DC <a href="http://wiki.crisiscommons.org/wiki/AM_Session_DC_CrisisCamp_
 </p>
 <ul><li>Main Pirate Pad:
 </li></ul>
-<p><a href="http://piratepad.net/YCkY66Yanz" class="external free" title="http://piratepad.net/YCkY66Yanz" rel="nofollow">http://piratepad.net/YCkY66Yanz</a>
+<p><a href="https://piratepad.net/YCkY66Yanz" class="external free" title="https://piratepad.net/YCkY66Yanz" rel="nofollow">https://piratepad.net/YCkY66Yanz</a>
 </p>
 <ul><li>Project Pirate Pads:
 </li></ul>
-<ul><li><ul><li>What is CrisisCamp - video: <a href="http://piratepad.net/5NecBe6sPs" class="external free" title="http://piratepad.net/5NecBe6sPs" rel="nofollow">http://piratepad.net/5NecBe6sPs</a>
-</li><li>What is CrisisCommons- video: <a href="http://piratepad.net/fLF1eoRAmr" class="external free" title="http://piratepad.net/fLF1eoRAmr" rel="nofollow">http://piratepad.net/fLF1eoRAmr</a>
-</li><li>What is CrisisCamp-screencast: <a href="http://piratepad.net/xbP0ppKtC9" class="external free" title="http://piratepad.net/xbP0ppKtC9" rel="nofollow">http://piratepad.net/xbP0ppKtC9</a>
-</li><li>What is CrisisCommons- screencast: <a href="http://piratepad.net/tUpzsv2B9T" class="external free" title="http://piratepad.net/tUpzsv2B9T" rel="nofollow">http://piratepad.net/tUpzsv2B9T</a>
+<ul><li><ul><li>What is CrisisCamp - video: <a href="https://piratepad.net/5NecBe6sPs" class="external free" title="https://piratepad.net/5NecBe6sPs" rel="nofollow">https://piratepad.net/5NecBe6sPs</a>
+</li><li>What is CrisisCommons- video: <a href="https://piratepad.net/fLF1eoRAmr" class="external free" title="https://piratepad.net/fLF1eoRAmr" rel="nofollow">https://piratepad.net/fLF1eoRAmr</a>
+</li><li>What is CrisisCamp-screencast: <a href="https://piratepad.net/xbP0ppKtC9" class="external free" title="https://piratepad.net/xbP0ppKtC9" rel="nofollow">https://piratepad.net/xbP0ppKtC9</a>
+</li><li>What is CrisisCommons- screencast: <a href="https://piratepad.net/tUpzsv2B9T" class="external free" title="https://piratepad.net/tUpzsv2B9T" rel="nofollow">https://piratepad.net/tUpzsv2B9T</a>
 </li></ul>
 </li></ul>
 <ul><li>IRC channels
@@ -292,13 +292,13 @@ Noel in DC <a href="http://wiki.crisiscommons.org/wiki/AM_Session_DC_CrisisCamp_
 <ul><li>Prime Lead: unconference call run by Noel Dickover, Andrew Turner (Washington)
 </li></ul>
 <p><b>Problem Definitions</b><br />
-</p><p>The World Bank's <a href="http://www.gfdrr.org/gfdrr/" class="external text" title="http://www.gfdrr.org/gfdrr/" rel="nofollow">Global Facility for Disaster Reduction and Recovery Labs</a> will provide the Global CrisisCamp Day with problem definitions for exploration of solutions, recommendations related to the Pakistan Floods. Anyone can participate in providing written recommendations and ideas. Video submissions are also welcome from groups or individuals. Please check back here for updates.
-</p><p>Help in Pakistan tasks here: <a href="http://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods/Tasks" class="external free" title="http://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods/Tasks" rel="nofollow">http://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods/Tasks</a>
-</p><p>1. Open Street Map (Andrew): Mapping roads, towns etc in the Swat &amp; Kabul river valley lowland areas, naming towns/villages, marking towns/villages affected by the floods, and Geocoding. Visit: <a href="http://wiki.openstreetmap.org/wiki/2010_07_Pakistan_Floods" class="external free" title="http://wiki.openstreetmap.org/wiki/2010_07_Pakistan_Floods" rel="nofollow">http://wiki.openstreetmap.org/wiki/2010_07_Pakistan_Floods</a>
-</p><p>2. Ushahidi data entry - verify/translate data input - <a href="http://pakreport.org/ushahidi/page/index/2" class="external free" title="http://pakreport.org/ushahidi/page/index/2" rel="nofollow">http://pakreport.org/ushahidi/page/index/2</a>
+</p><p>The World Bank's <a href="https://www.gfdrr.org/gfdrr/" class="external text" title="https://www.gfdrr.org/gfdrr/" rel="nofollow">Global Facility for Disaster Reduction and Recovery Labs</a> will provide the Global CrisisCamp Day with problem definitions for exploration of solutions, recommendations related to the Pakistan Floods. Anyone can participate in providing written recommendations and ideas. Video submissions are also welcome from groups or individuals. Please check back here for updates.
+</p><p>Help in Pakistan tasks here: <a href="https://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods/Tasks" class="external free" title="https://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods/Tasks" rel="nofollow">https://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods/Tasks</a>
+</p><p>1. Open Street Map (Andrew): Mapping roads, towns etc in the Swat &amp; Kabul river valley lowland areas, naming towns/villages, marking towns/villages affected by the floods, and Geocoding. Visit: <a href="https://wiki.openstreetmap.org/wiki/2010_07_Pakistan_Floods" class="external free" title="https://wiki.openstreetmap.org/wiki/2010_07_Pakistan_Floods" rel="nofollow">https://wiki.openstreetmap.org/wiki/2010_07_Pakistan_Floods</a>
+</p><p>2. Ushahidi data entry - verify/translate data input - <a href="https://pakreport.org/ushahidi/page/index/2" class="external free" title="https://pakreport.org/ushahidi/page/index/2" rel="nofollow">https://pakreport.org/ushahidi/page/index/2</a>
 </p><p>3. Media Monitoring: (Noel) especially Twitter and Facebook, but also add media sources (<a href="https://spreadsheets.google.com/ccc?key=0AjKkO3odnjoedFBmZTVyVmU5cXJTTmRxcHFEN0FCUnc&amp;hl=en#gid=2" class="external free" title="https://spreadsheets.google.com/ccc?key=0AjKkO3odnjoedFBmZTVyVmU5cXJTTmRxcHFEN0FCUnc&amp;hl=en#gid=2" rel="nofollow">https://spreadsheets.google.com/ccc?key=0AjKkO3odnjoedFBmZTVyVmU5cXJTTmRxcHFEN0FCUnc&amp;hl=en#gid=2</a>)
-</p><p>4.Sahana: Tasks for volunteers to do: (Maybe Mark) <a href="http://eden.sahanafoundation.org/wiki/PakistanDataEntry#CreateListofUnionCouncils" class="external free" title="http://eden.sahanafoundation.org/wiki/PakistanDataEntry#CreateListofUnionCouncils" rel="nofollow">http://eden.sahanafoundation.org/wiki/PakistanDataEntry#CreateListofUnionCouncils</a>:
-</p><p>5.Populate the Pakistan CrisisWiki: Help populate  (maybe Andy) <a href="http://pakistan.wikia.com/wiki/Floods_2010_Resources" class="external free" title="http://pakistan.wikia.com/wiki/Floods_2010_Resources" rel="nofollow">http://pakistan.wikia.com/wiki/Floods_2010_Resources</a>
+</p><p>4.Sahana: Tasks for volunteers to do: (Maybe Mark) <a href="https://eden.sahanafoundation.org/wiki/PakistanDataEntry#CreateListofUnionCouncils" class="external free" title="https://eden.sahanafoundation.org/wiki/PakistanDataEntry#CreateListofUnionCouncils" rel="nofollow">https://eden.sahanafoundation.org/wiki/PakistanDataEntry#CreateListofUnionCouncils</a>:
+</p><p>5.Populate the Pakistan CrisisWiki: Help populate  (maybe Andy) <a href="https://pakistan.wikia.com/wiki/Floods_2010_Resources" class="external free" title="https://pakistan.wikia.com/wiki/Floods_2010_Resources" rel="nofollow">https://pakistan.wikia.com/wiki/Floods_2010_Resources</a>
 </p><p><br />
 <b>Collaboration:</b><br />
 </p>
@@ -306,7 +306,7 @@ Noel in DC <a href="http://wiki.crisiscommons.org/wiki/AM_Session_DC_CrisisCamp_
 </li><li>IRC channels
 </li><li>Conference bridge times and bridge code
 </li></ul>
-<pre>See also <a href="http://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods" class="external text" title="http://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods" rel="nofollow">Pakistan/2010_Floods</a>
+<pre>See also <a href="https://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods" class="external text" title="https://wiki.crisiscommons.org/wiki/Pakistan/2010_Floods" rel="nofollow">Pakistan/2010_Floods</a>
 </pre>
 <a name="Stream_3_-_Emergency_Planning_Problem_Definitions" id="Stream_3_-_Emergency_Planning_Problem_Definitions"></a><h2> <span class="mw-headline">Stream 3 - Emergency Planning Problem Definitions </span></h2>
 <p>Prime contact: Heather Blanchard and ______(Maybe Alex Rose if we are very lucky)  ^V^<br />
@@ -318,7 +318,7 @@ Noel in DC <a href="http://wiki.crisiscommons.org/wiki/AM_Session_DC_CrisisCamp_
 </p>
 <ul><li>Pirate Pads
 </li></ul>
-<p><a href="http://piratepad.net/rVtjz6jykN" class="external text" title="http://piratepad.net/rVtjz6jykN" rel="nofollow">Pirate Pad</a>
+<p><a href="https://piratepad.net/rVtjz6jykN" class="external text" title="https://piratepad.net/rVtjz6jykN" rel="nofollow">Pirate Pad</a>
 </p>
 <ul><li>IRC channels
 </li><li>Conference bridge times and bridge code
@@ -336,19 +336,19 @@ Note: This section is more about research and providing links to the VTC trainin
 <b>Collaboration</b><br />
 </p><p>Pirate Pads:
 </p>
-<ul><li>Overview: <a href="http://piratepad.net/Rma2GswNTL" class="external text" title="http://piratepad.net/Rma2GswNTL" rel="nofollow">Overview piratepad</a>
-</li><li>Screencast: <a href="http://piratepad.net/0MCUaqQmya" class="external text" title="http://piratepad.net/0MCUaqQmya" rel="nofollow">Screencast piratepad</a>
+<ul><li>Overview: <a href="https://piratepad.net/Rma2GswNTL" class="external text" title="https://piratepad.net/Rma2GswNTL" rel="nofollow">Overview piratepad</a>
+</li><li>Screencast: <a href="https://piratepad.net/0MCUaqQmya" class="external text" title="https://piratepad.net/0MCUaqQmya" rel="nofollow">Screencast piratepad</a>
 </li></ul>
 <p><br />
 Training Materials Inventory for VTCs:<br />
 Help us create an inventory of resources and connect folks to videos, content etc for the other volunteer technical communities. 
 </p>
-<ul><li>Ushahidi: <a href="http://wiki.crisiscommons.org/wiki/Tools/Ushahidi" class="external text" title="http://wiki.crisiscommons.org/wiki/Tools/Ushahidi" rel="nofollow">Ushahidi</a>
-</li><li>CrowdFlower/Crowdmap:<a href="http://wiki.crisiscommons.org/wiki/Tools/Crowdflower" class="external text" title="http://wiki.crisiscommons.org/wiki/Tools/Crowdflower" rel="nofollow">Crowdflower</a>
-</li><li>Swift River: <a href="http://wiki.crisiscommons.org/wiki/Tools/SwiftRiver" class="external text" title="http://wiki.crisiscommons.org/wiki/Tools/SwiftRiver" rel="nofollow">SwiftRiver</a>
-</li><li>Sahana:<a href="http://wiki.crisiscommons.org/wiki/Tools/Sahana" class="external text" title="http://wiki.crisiscommons.org/wiki/Tools/Sahana" rel="nofollow">Sahana</a>
-</li><li>CrisisWiki:<a href="http://wiki.crisiscommons.org/wiki/Crisis_Wiki" class="external text" title="http://wiki.crisiscommons.org/wiki/Crisis_Wiki" rel="nofollow">CrisisWiki</a>
-</li><li>OpenStreetMap:<a href="http://wiki.crisiscommons.org/wiki/Tools/OSM" class="external text" title="http://wiki.crisiscommons.org/wiki/Tools/OSM" rel="nofollow">OpenStreetMap</a>
+<ul><li>Ushahidi: <a href="https://wiki.crisiscommons.org/wiki/Tools/Ushahidi" class="external text" title="https://wiki.crisiscommons.org/wiki/Tools/Ushahidi" rel="nofollow">Ushahidi</a>
+</li><li>CrowdFlower/Crowdmap:<a href="https://wiki.crisiscommons.org/wiki/Tools/Crowdflower" class="external text" title="https://wiki.crisiscommons.org/wiki/Tools/Crowdflower" rel="nofollow">Crowdflower</a>
+</li><li>Swift River: <a href="https://wiki.crisiscommons.org/wiki/Tools/SwiftRiver" class="external text" title="https://wiki.crisiscommons.org/wiki/Tools/SwiftRiver" rel="nofollow">SwiftRiver</a>
+</li><li>Sahana:<a href="https://wiki.crisiscommons.org/wiki/Tools/Sahana" class="external text" title="https://wiki.crisiscommons.org/wiki/Tools/Sahana" rel="nofollow">Sahana</a>
+</li><li>CrisisWiki:<a href="https://wiki.crisiscommons.org/wiki/Crisis_Wiki" class="external text" title="https://wiki.crisiscommons.org/wiki/Crisis_Wiki" rel="nofollow">CrisisWiki</a>
+</li><li>OpenStreetMap:<a href="https://wiki.crisiscommons.org/wiki/Tools/OSM" class="external text" title="https://wiki.crisiscommons.org/wiki/Tools/OSM" rel="nofollow">OpenStreetMap</a>
 </li></ul>
 <p><br />
 </p>
@@ -361,7 +361,7 @@ Help us create an inventory of resources and connect folks to videos, content et
 <a name="What_are_the_Infrastructure_Tasks.3F" id="What_are_the_Infrastructure_Tasks.3F"></a><h3> <span class="mw-headline">What are the Infrastructure Tasks?</span></h3>
 <p>The Infrastructure tasks include some analysis and definition of some tools, some analysis of some infrastructure problem statements, some 'fixing' of stuff (for camp and commons sustainability) and some work for generating some of the crisis-camp-in-a-box content.
 </p><p>This stream of work will be executed as a continuation and enhancement of work started under the CrisisCommons Infrastructure Working Group (CCIWG).  If you want to start with some background/context, please see the CCIWG main page, as well as google groups.  Website activities are also tracked here.
-<a href="http://wiki.crisiscommons.org/wiki/Infrastructure" class="external free" title="http://wiki.crisiscommons.org/wiki/Infrastructure" rel="nofollow">http://wiki.crisiscommons.org/wiki/Infrastructure</a>
+<a href="https://wiki.crisiscommons.org/wiki/Infrastructure" class="external free" title="https://wiki.crisiscommons.org/wiki/Infrastructure" rel="nofollow">https://wiki.crisiscommons.org/wiki/Infrastructure</a>
 </p><p>Detail Infrastructure Working Page/Deliverables Launch for CrisisCampDay: *<a href="/wiki/CCIWG:CrisisCampDay_Problem-Task-Deliverable_space" title="CCIWG:CrisisCampDay Problem-Task-Deliverable space">CCIWG:CrisisCampDay Problem-Task-Deliverable space</a>
 <br />Note: These map to tasks in googledocs, but contain elaborated out problem definition starting points.  For wish list, include below
 </p>
@@ -369,7 +369,7 @@ Help us create an inventory of resources and connect folks to videos, content et
 <p>There are two tabs, one for website and one for infrastructure:
 </p>
 <ul><li><a href="https://spreadsheets.google.com/ccc?key=0ApCEW1D65mAIdEdTRThUZ083LVFmajJWTWJEc3ZCdGc&amp;authkey=CI6-3J4E&amp;hl=en#gid=2" class="external text" title="https://spreadsheets.google.com/ccc?key=0ApCEW1D65mAIdEdTRThUZ083LVFmajJWTWJEc3ZCdGc&amp;authkey=CI6-3J4E&amp;hl=en#gid=2" rel="nofollow">Website Tasks</a>
-</li><li> <a href="http://wiki.crisiscommons.org/wiki/CrisisCommons_Website_Refresh" class="external text" title="http://wiki.crisiscommons.org/wiki/CrisisCommons_Website_Refresh" rel="nofollow">Website Project Info page</a>
+</li><li> <a href="https://wiki.crisiscommons.org/wiki/CrisisCommons_Website_Refresh" class="external text" title="https://wiki.crisiscommons.org/wiki/CrisisCommons_Website_Refresh" rel="nofollow">Website Project Info page</a>
 </li></ul>
 <a name="Stream_6_-_The_Pot" id="Stream_6_-_The_Pot"></a><h2> <span class="mw-headline">Stream 6 - The Pot</span></h2>
 <p>For things not addressed by above, but that forward the objective of CrisisCamp in a box, to be included here.
@@ -388,20 +388,20 @@ Advance number estimates: 100 people signed up for CCDay
 </li><li> Virtuals 50<br />
 </li></ul>
 <p><br />
-Our problem definition brain storm:  <a href="http://piratepad.net/GiHupAyiZ1" class="external free" title="http://piratepad.net/GiHupAyiZ1" rel="nofollow">http://piratepad.net/GiHupAyiZ1</a>
+Our problem definition brain storm:  <a href="https://piratepad.net/GiHupAyiZ1" class="external free" title="https://piratepad.net/GiHupAyiZ1" rel="nofollow">https://piratepad.net/GiHupAyiZ1</a>
 </p><p><br />
 </p><p><br />
 Below is being kept for historical purposes, and should seek to be informative only for the actual 'CrisisCamp day execution', we are not running tasks or plan from the items below.  But you can see our humble beginnings.
 </p><p><br />
 </p>
-<ul><li>In support of National Preparedness Month - CrisisCommons is a Coalition Partner - to sign up visit <a href="http://www.ready.gov/" class="external text" title="http://www.ready.gov/" rel="nofollow">Ready America</a>.
+<ul><li>In support of National Preparedness Month - CrisisCommons is a Coalition Partner - to sign up visit <a href="https://www.ready.gov/" class="external text" title="https://www.ready.gov/" rel="nofollow">Ready America</a>.
 </li><li>a deliverable from the CrisisCongress Unconference 
 </li><li>In addition, a few key CrisisCamp members: Anna Curran, Luis Hernando Aguilar and our friends from Instedd (Exercise 24) also had a number of ideas on a Learning day.
 </li><li>The Community Working Group was tasked to build a Day of Learning within 30 to 90 days.
 </li><li>The brainstorm notes CrisisCamp Toronto-Draft Event Plan (August 4, 2010)
 </li></ul>
 <p><b>CrisisCamp Global Day of Learning Project Plan</b> <a href="https://spreadsheets.google.com/ccc?key=tGSE8TgO7-Qfj2VMbDsvBtg&amp;hl=en#gid=0" class="external autonumber" title="https://spreadsheets.google.com/ccc?key=tGSE8TgO7-Qfj2VMbDsvBtg&amp;hl=en#gid=0" rel="nofollow">[2]</a>
-</p><p><a href="http://prezi.com/learn/work-together-real-time-prezi-meeting/?utm_source=MadMimi&amp;utm_medium=email&amp;utm_content=Introducing%3A+Prezi+Meeting+and+new+books+on+Prezi&amp;utm_campaign=Introducing%3A+Prezi+Meeting+and+new+books+on+Prezi&amp;utm_term=Prezi+Meeting" class="external text" title="http://prezi.com/learn/work-together-real-time-prezi-meeting/?utm_source=MadMimi&amp;utm_medium=email&amp;utm_content=Introducing%3A+Prezi+Meeting+and+new+books+on+Prezi&amp;utm_campaign=Introducing%3A+Prezi+Meeting+and+new+books+on+Prezi&amp;utm_term=Prezi+Meeting" rel="nofollow">Maybe Prezi to collaborate screencasts</a>
+</p><p><a href="https://prezi.com/learn/work-together-real-time-prezi-meeting/?utm_source=MadMimi&amp;utm_medium=email&amp;utm_content=Introducing%3A+Prezi+Meeting+and+new+books+on+Prezi&amp;utm_campaign=Introducing%3A+Prezi+Meeting+and+new+books+on+Prezi&amp;utm_term=Prezi+Meeting" class="external text" title="https://prezi.com/learn/work-together-real-time-prezi-meeting/?utm_source=MadMimi&amp;utm_medium=email&amp;utm_content=Introducing%3A+Prezi+Meeting+and+new+books+on+Prezi&amp;utm_campaign=Introducing%3A+Prezi+Meeting+and+new+books+on+Prezi&amp;utm_term=Prezi+Meeting" rel="nofollow">Maybe Prezi to collaborate screencasts</a>
 </p><p><br />
 <b>Objective: Engage, Taste, Learn, Create and Replicate</b><br />	
 </p>
@@ -525,7 +525,7 @@ Below is being kept for historical purposes, and should seek to be informative o
 </li></ul>
 <p><br />
 --END: <a href="/wiki/User:Deborahshaddon" title="User:Deborahshaddon">Deborahshaddon</a> 19:05, 12 August 2010 (UTC)END0812:
-</p><p>Contribution from Paris&nbsp;: <a href="http://rwcamp.canalblog.com/" class="external free" title="http://rwcamp.canalblog.com/" rel="nofollow">http://rwcamp.canalblog.com/</a>
+</p><p>Contribution from Paris&nbsp;: <a href="https://rwcamp.canalblog.com/" class="external free" title="https://rwcamp.canalblog.com/" rel="nofollow">https://rwcamp.canalblog.com/</a>
 </p>
 <!-- 
 NewPP limit report
@@ -537,7 +537,7 @@ Expensive parser function count: 0/100
 
 <!-- Saved in parser cache with key crisiscommons-wiki_:pcache:idhash:1405-0!1!0!!en!2!edit=0 and timestamp 20120701131059 -->
 <div class="printfooter">
-Retrieved from "<a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010">http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010</a>"</div>
+Retrieved from "<a href="https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010">https://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Saturday,_September_25,_2010</a>"</div>
 						<!-- end content -->
 						<div class="visualClear"></div>
 		</div>
@@ -571,11 +571,11 @@ Retrieved from "<a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Sa
 		<h5>Navigation</h5>
 		<div class='pBody'>
 			<ul>
-				<li id="n-crisiscommons"><a href="http://www.crisiscommons.org">CrisisCommons Home</a></li>
+				<li id="n-crisiscommons"><a href="https://www.crisiscommons.org">CrisisCommons Home</a></li>
 				<li id="n-mainpage-description"><a href="/wiki/Main_Page">Main Page (wiki)</a></li>
-				<li id="n-About"><a href="http://crisiscommons.org/about/">About</a></li>
+				<li id="n-About"><a href="https://crisiscommons.org/about/">About</a></li>
 				<li id="n-Volunteer"><a href="https://spreadsheets.google.com/viewform?hl=en&amp;formkey=dHA2YkJvSjZxeE9oYkhNR0MtVTgyY1E6MQ">Volunteer</a></li>
-				<li id="n-Contact-us"><a href="http://crisiscommons.org/contact/">Contact us</a></li>
+				<li id="n-Contact-us"><a href="https://crisiscommons.org/contact/">Contact us</a></li>
 				<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="The list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
 				<li id="n-Wiki-help"><a href="/wiki/Wiki_help">Wiki help</a></li>
 			</ul>
@@ -605,12 +605,12 @@ Retrieved from "<a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Sa
 		</div><!-- end of the left (by default at least) column -->
 			<div class="visualClear"></div>
 			<div id="footer">
-				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
-				<div id="f-copyrightico"><a href="http://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
+				<div id="f-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/w/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" /></a></div>
+				<div id="f-copyrightico"><a href="https://creativecommons.org/licenses/publicdomain/"><img src="/w/skins/common/images/public-domain.png" alt='Public Domain' /></a></div>
 			<ul id="f-list">
 					<li id="lastmod"> This page was last modified on 2 June 2011, at 04:22.</li>
 					<li id="viewcount">This page has been accessed 13,207 times.</li>
-					<li id="copyright">Content is available under <a href="http://creativecommons.org/licenses/publicdomain/" class="external " title="http://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
+					<li id="copyright">Content is available under <a href="https://creativecommons.org/licenses/publicdomain/" class="external " title="https://creativecommons.org/licenses/publicdomain/">Public Domain</a>.</li>
 					<li id="privacy"><a href="/wiki/CrisisCommons_Wiki:Privacy_policy" title="CrisisCommons Wiki:Privacy policy">Privacy policy</a></li>
 					<li id="about"><a href="/wiki/CrisisCommons_Wiki:About" title="CrisisCommons Wiki:About">About CrisisCommons Wiki</a></li>
 					<li id="disclaimer"><a href="/wiki/CrisisCommons_Wiki:General_disclaimer" title="CrisisCommons Wiki:General disclaimer">Disclaimers</a></li>
@@ -621,7 +621,7 @@ Retrieved from "<a href="http://wiki.crisiscommons.org/wiki/Crisis_Camp_Day_-_Sa
 		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
 <!-- Served in 0.278 secs. -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
 <script type="text/javascript">

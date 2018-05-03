@@ -13,7 +13,7 @@ meta:
   geo_address: 425 P St NW, Washington, DC 20001, USA
   geo_longitude: "-77.018000"
   reddit: a:2:{s:5:"count";s:1:"0";s:4:"time";s:10:"1334581956";}
-  _wpas_mess: Do what I want, not what I say http://wp.me/pzp88-yz
+  _wpas_mess: Do what I want, not what I say https://wp.me/pzp88-yz
   geo_latitude: "38.910000"
   jabber_published: "1326910526"
   _edit_last: "4180497"

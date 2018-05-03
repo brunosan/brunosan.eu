@@ -123,7 +123,7 @@
 
 
 
-<script type="text/javascript">(function(){var i=new Image;i.src = "http://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg";})();</script>
+<script type="text/javascript">(function(){var i=new Image;i.src = "https://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg";})();</script>
 
 
 
@@ -484,7 +484,7 @@ div.blurb div.title
 
 
 
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/US-combined-3926343938._V146284167_.css" />
+<link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/US-combined-3926343938._V146284167_.css" />
 
 
 
@@ -492,11 +492,11 @@ div.blurb div.title
 
 
 
-<link rel="stylesheet" type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/dpSpritesCSS/US-combined-2097946467._V147811222_.css" />
+<link rel="stylesheet" type="text/css" href="https://z-ecx.images-amazon.com/images/G/01/browser-scripts/dpSpritesCSS/US-combined-2097946467._V147811222_.css" />
 
 
 
-          <noscript><link type="text/css" rel="stylesheet" href="http://z-ecx.images-amazon.com/images/G/01/x-locale/communities/profile/customer-popover/style-no-js-3._V248984171_.css" /></noscript>
+          <noscript><link type="text/css" rel="stylesheet" href="https://z-ecx.images-amazon.com/images/G/01/x-locale/communities/profile/customer-popover/style-no-js-3._V248984171_.css" /></noscript>
  
 
 
@@ -539,7 +539,7 @@ div.blurb div.title
 
 
   #buyboxusedDivId table.buyBox td.topLeft {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
     background-repeat: no-repeat;
     background-position: top left;
     padding-top: 12px;
@@ -547,20 +547,20 @@ div.blurb div.title
   }
 
   #buyboxusedDivId table.buyBox td.topRight {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
     background-repeat: no-repeat;
     background-position: top right;
   }
 
   #buyboxusedDivId table.buyBox td.bottomLeft {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
     background-repeat: no-repeat;
     background-position: bottom left;
     font-size: 4px;
   }
 
   #buyboxusedDivId table.buyBox td.bottomRight {
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_ubb._V198144306_.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     font-size: 4px;
@@ -626,18 +626,18 @@ div.replacementWidget {
       font-size: xx-small;
       color:#808080;
     }
-    .wl-pop-unsprited .wl-pop-body .wl-pop-left { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_left._V245377548_.png); }
-    .wl-pop-unsprited .wl-pop-body .wl-pop-right { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_right._V245377550_.png); }
-    .wl-pop-unsprited .wl-pop-header .wl-pop-left { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_topleft._V245421466_.png); }
-    .wl-pop-unsprited .wl-pop-header .wl-pop-right { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_topright._V245377539_.png); }
-    .wl-pop-unsprited .wl-pop-header .wl-pop-middle { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_top._V245377545_.png); }
-    .wl-pop-unsprited .wl-pop-footer .wl-pop-left { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottomleft._V245377589_.png); }
-    .wl-pop-unsprited .wl-pop-footer .wl-pop-right { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottomright._V245377584_.png); }
-    .wl-pop-unsprited .wl-pop-footer .wl-pop-middle { background-image: url(http://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottom._V156433861_.png); }
+    .wl-pop-unsprited .wl-pop-body .wl-pop-left { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_left._V245377548_.png); }
+    .wl-pop-unsprited .wl-pop-body .wl-pop-right { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_right._V245377550_.png); }
+    .wl-pop-unsprited .wl-pop-header .wl-pop-left { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_topleft._V245421466_.png); }
+    .wl-pop-unsprited .wl-pop-header .wl-pop-right { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_topright._V245377539_.png); }
+    .wl-pop-unsprited .wl-pop-header .wl-pop-middle { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_top._V245377545_.png); }
+    .wl-pop-unsprited .wl-pop-footer .wl-pop-left { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottomleft._V245377589_.png); }
+    .wl-pop-unsprited .wl-pop-footer .wl-pop-right { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottomright._V245377584_.png); }
+    .wl-pop-unsprited .wl-pop-footer .wl-pop-middle { background-image: url(https://g-ecx.images-amazon.com/images/G/01/gifts/registries/wishlist/eq/wladd_drop_bottom._V156433861_.png); }
 
     .wl-pop-sprited .wl-pop-body .wl-pop-left,
     .wl-pop-sprited .wl-pop-body .wl-pop-right {
-      background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_buybox_drop_sides._V247168586_.png);
+      background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_buybox_drop_sides._V247168586_.png);
     }
 
     .wl-pop-sprited .wl-pop-header .wl-pop-left,
@@ -646,7 +646,7 @@ div.replacementWidget {
     .wl-pop-sprited .wl-pop-footer .wl-pop-left,
     .wl-pop-sprited .wl-pop-footer .wl-pop-right,
     .wl-pop-sprited .wl-pop-footer .wl-pop-middle {
-      background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_wladd_drop_corners._V156421604_.png);
+      background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_wladd_drop_corners._V156421604_.png);
     }
 
     .wl-pop-hide {
@@ -953,8 +953,8 @@ div.nvffRed          { margin-top:5px; font-size:.85em; color:#990000; }
   top: -2px;
   left: 1px;
   width: 100%;
-  background: url(http://g-ecx.images-amazon.com/images/G/01/twister/images/down-arrow-shadow-v2-buybox._V181901516_.png) center top no-repeat;
-  _background-image: url(http://g-ecx.images-amazon.com/images/G/01/twister/images/down-arrow-v2-buybox._V181901516_.png);
+  background: url(https://g-ecx.images-amazon.com/images/G/01/twister/images/down-arrow-shadow-v2-buybox._V181901516_.png) center top no-repeat;
+  _background-image: url(https://g-ecx.images-amazon.com/images/G/01/twister/images/down-arrow-v2-buybox._V181901516_.png);
   clear: both;
   z-index: 10;
 }
@@ -997,7 +997,7 @@ hr.bb_exp_co {
 .buyBottomBox .cBoxTL, .buyBottomBox .cBoxTR, .buyBottomBox .cBoxBL, .buyBottomBox .cBoxBR,
 .mbcBox .cBoxTL, .mbcBox .cBoxTR, .mbcBox .cBoxBL, .mbcBox .cBoxBR,
 .addonBox .cBoxTL, .addonBox .cBoxTR { 
-  background-image:url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-cbox._V144964347_.png); 
+  background-image:url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite-cbox._V144964347_.png); 
   background-repeat:no-repeat; 
 }
 
@@ -1045,7 +1045,7 @@ hr.bb_exp_co {
   background-color: #ebf3fe;
 }
 .s_bbAdd2Cart {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/common/sprites/btn_add-to-cart._V156421482_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/common/sprites/btn_add-to-cart._V156421482_.png);
 }
 div.mbcContainer { font-size:0.86em; }
 div.mbcContainer div.mbcTitle, div.emwaTitle {
@@ -1189,7 +1189,7 @@ td.bortInfoCell {
 
 .bortInfoDiv ul,
 td.bortInfoCell ul {
-  list-style: disc url(http://g-ecx.images-amazon.com/images/G/01/digital/text/orange-circle._V29336548_.gif) outside;
+  list-style: disc url(https://g-ecx.images-amazon.com/images/G/01/digital/text/orange-circle._V29336548_.gif) outside;
   padding: 0;
   margin: 0 0 0 1.5em;
 }
@@ -1249,7 +1249,7 @@ td.bortImgCell {
     height: 17px;
     margin-right: 1px;
     background-position: 0 -34px;
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/error-sprite-mini._V1_.gif');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/error-sprite-mini._V1_.gif');
     background-repeat: no-repeat;
 }
 
@@ -1313,31 +1313,31 @@ td.bortImgCell {
     cursor: pointer;
 }
 #vellumMsgIco, #vellumMsgCls {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/sitbreader-sprites._V1_.png');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/sitbreader-sprites._V1_.png');
     background-repeat: no-repeat;
 }
 #vellumLdgIco {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/loading-pre-lightbox._V1_.gif');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/digital/sitb/reader/v4/201112022136/loading-pre-lightbox._V1_.gif');
     background-repeat: no-repeat;
 }
 
 .nav-sprite {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png);
 }
 .nav_pop_h {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png);
 }
 .nav_pop_v {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png);
 }
 .nav_ie6 .nav_pop_h {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png);
 }
 .nav_ie6 .nav_pop_v {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png);
+  background-image: url(https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png);
 }
 .nav-ajax-loading .nav-ajax-message {
-  background: center center url(http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif) no-repeat;
+  background: center center url(https://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif) no-repeat;
 }
 
     
@@ -1411,7 +1411,7 @@ ul.primeBuyBox
 
 .prime-pBox { position:relative; width:100%; margin-bottom:15px;}
 .prime-pBoxInner { font-size:10px; padding:0 9px 6px;}
-.prime-pBoxBL, .prime-pBoxBR { position:absolute; width:10px; height:10px; z-index:1; bottom:-1px; background-image:url(http://g-ecx.images-amazon.com/images/G/01/x-locale/common/sprite-all-corners._V192251185_.gif); background-repeat:no-repeat; }
+.prime-pBoxBL, .prime-pBoxBR { position:absolute; width:10px; height:10px; z-index:1; bottom:-1px; background-image:url(https://g-ecx.images-amazon.com/images/G/01/x-locale/common/sprite-all-corners._V192251185_.gif); background-repeat:no-repeat; }
 .prime-pBoxBL { left:-1px; background-position:0px -10px; }
 .prime-pBoxBR { right:-1px; background-position:-10px -10px; }
 .prime-pBoxB { position:absolute; width:100%; height:1px; bottom:-1px; background-color:#C9E1F4; }
@@ -1423,14 +1423,14 @@ ul.primeBuyBox
 
 
 div.sdBuyBox {
-    background-image:url('http://g-ecx.images-amazon.com/images/G/01/kitchen/scheduled-delivery/sd_bkgd_sprite2._V156428021_.png');
+    background-image:url('https://g-ecx.images-amazon.com/images/G/01/kitchen/scheduled-delivery/sd_bkgd_sprite2._V156428021_.png');
 }
 .sdCorner {
-    background-image:url('http://g-ecx.images-amazon.com/images/G/01/kitchen/scheduled-delivery/sd_bkgd_sprite2._V156428021_.png'); 
+    background-image:url('https://g-ecx.images-amazon.com/images/G/01/kitchen/scheduled-delivery/sd_bkgd_sprite2._V156428021_.png'); 
 }
 
 div.fionaPublish {
-  background-image: url('http://g-ecx.images-amazon.com/images/G/01/kindle/merch/global/kindle-widget-photo._V166505203_.jpg');
+  background-image: url('https://g-ecx.images-amazon.com/images/G/01/kindle/merch/global/kindle-widget-photo._V166505203_.jpg');
   background-repeat: no-repeat;
   min-height: 8em;
   height: auto  !important;
@@ -1443,7 +1443,7 @@ div.fionaPublish div {
 }
 
 div.fionaRentalPublish {
-  background-image: url('http://g-ecx.images-amazon.com/images/G/01/kindle/rentals/rent-book-promo-image._V176687376_.png');
+  background-image: url('https://g-ecx.images-amazon.com/images/G/01/kindle/rentals/rent-book-promo-image._V176687376_.png');
   background-repeat: no-repeat;
   min-height: 6em;
   height: auto  !important;
@@ -1473,35 +1473,35 @@ table.gftRdm .gftRdmRight {
 }
 
 table.gftRdm .gftRdmTop .gftRdmLeft {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top-left._V200235849_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top-left._V200235849_.jpg");
 }
 
 table.gftRdm .gftRdmTop .gftRdmCenter {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top._V200235850_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top._V200235850_.jpg");
 }
 
 table.gftRdm .gftRdmTop .gftRdmRight {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top-right._V200235851_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-top-right._V200235851_.jpg");
 }
 
 table.gftRdm .gftRdmCenter .gftRdmLeft {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-left._V200235894_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-left._V200235894_.jpg");
 }
 
 table.gftRdm .gftRdmCenter .gftRdmRight {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-right._V200235855_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-right._V200235855_.jpg");
 }
 
 table.gftRdm .gftRdmBottom .gftRdmLeft {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom-left._V200235899_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom-left._V200235899_.jpg");
 }
 
 table.gftRdm .gftRdmBottom .gftRdmCenter {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom._V200235895_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom._V200235895_.jpg");
 }
 
 table.gftRdm .gftRdmBottom .gftRdmRight {
-  background-image:url("http://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom-right._V200235893_.jpg");
+  background-image:url("https://g-ecx.images-amazon.com/images/G/01/kindle/gifting/box-bottom-right._V200235893_.jpg");
 }
 
 .giftRedemptionWrapper {
@@ -1631,7 +1631,7 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 .pphButton {
 	width: 211px;
 	height: 26px;
-	background-image: url(http://g-ecx.images-amazon.com/images/G/01/payphrase/widget-background._V192199000_.gif);
+	background-image: url(https://g-ecx.images-amazon.com/images/G/01/payphrase/widget-background._V192199000_.gif);
 	background-repeat: no-repeat;
 	padding: 0;
 	position: relative;
@@ -1639,7 +1639,7 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 .pphButtonSmall {
 	width: 161px;
 	height: 26px;
-	background-image: url(http://g-ecx.images-amazon.com/images/G/01/payphrase/widget_background_161x26._V187983538_.gif);
+	background-image: url(https://g-ecx.images-amazon.com/images/G/01/payphrase/widget_background_161x26._V187983538_.gif);
 	background-repeat: no-repeat;
 	margin-top: 5px;
 	position: relative;
@@ -1828,13 +1828,13 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 
 
 .bxgy-priceblock .button-sprite, #bxgy_price_button_block .button-sprite {
-        background-image: url( http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/bxgy/fbt-cart-preorder-sprite._V192190832_.gif);
+        background-image: url( https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/bxgy/fbt-cart-preorder-sprite._V192190832_.gif);
 }
 .bxgy-priceblock .wl-button-sprite, #bxgy_wl_button_block .wl-button-sprite {
-        background-image: url( http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/wishlist/add-to-wl-button-sprite._V192250042_.gif);
+        background-image: url( https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/wishlist/add-to-wl-button-sprite._V192250042_.gif);
 }
 .bxgySellerLoading {
-    background: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/common/loading/loading-small._V192239831_.gif') no-repeat 50px 20px;
+    background: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/common/loading/loading-small._V192239831_.gif') no-repeat 50px 20px;
     height: 50px;
     margin: 0;
     padding: 0;
@@ -1844,7 +1844,7 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 
 
 .shoveler li.shoveler-progress {
-    background: no-repeat center 45px url('http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-small._V192238939_.gif');
+    background: no-repeat center 45px url('https://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-small._V192238939_.gif');
 }
 
 .simsWrapper .shoveler ul {
@@ -1880,7 +1880,7 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 /*
 #######################################################
 # hackish for IE6's doubled float margin bug:see
-# http://www.positioniseverything.net/explorer/doubled-margin.html
+# https://www.positioniseverything.net/explorer/doubled-margin.html
 #######################################################
 */
 
@@ -2017,19 +2017,19 @@ table.gftRdm .gftRdmBottom .gftRdmRight {
 }
 
 #zgWrapper .shoveler ul li.shoveler-progress {
-    background:no-repeat center 45px url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/loading-indicator._V192185253_.gif');
+    background:no-repeat center 45px url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/loading-indicator._V192185253_.gif');
 }
 #zgWrapper .shoveler .back-button a .bg-image, 
 #zgWrapper .shoveler .next-button a .bg-image,
 #zgWrapper .shoveler div.disabled-button {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif');
 }
 .shvlBack a .bg-image {
-	background-image:url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif'); 
+	background-image:url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif'); 
 	background-position:0px 0px; 
 	}
 .shvlNext a .bg-image {
-	background-image:url('http://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif'); 
+	background-image:url('https://g-ecx.images-amazon.com/images/G/01/x-locale/personalization/shoveler/left-right-arrow-semi-rd._V236573507_.gif'); 
 	background-position:25px 0px; 
 	}
 
@@ -2482,28 +2482,28 @@ table.twisterMediaMatrix .tmm_buttonTD {
 
 
 .s_expandTMM {
-  background:transparent url(http://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
+  background:transparent url(https://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
   background-position: 5px 5px;
   height:22px;
   width: 22px ;
 }
 
 .s_collapseTMM {
-  background:transparent url(http://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
+  background:transparent url(https://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
   background-position:-15px 5px;
   height:22px;
   width: 22px ;
 }
 
 .s_primeBadgeTMM {
-  background:transparent url(http://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
+  background:transparent url(https://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
   background-position:-40px 0px;
   height:12px;
   width:41px ;
 }
 
 .s_aivlogoTMM {
-    background:transparent url(http://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
+    background:transparent url(https://g-ecx.images-amazon.com/images/G/01/twister/images/twister_books_sprite._V166092224_.gif) no-repeat scroll 0 0;
     background-position:5px -15px;
     height: 16px;
     width: 130px;
@@ -2597,7 +2597,7 @@ table.twisterMediaMatrix .tmm_buttonTD {
 
   .tag-cols .snake {
     display: block;
-    background: url('http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/tags/graysnake._V192250049_.gif');
+    background: url('https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/tags/graysnake._V192250049_.gif');
   }
 
   #tagContentHolder .tip {
@@ -2653,7 +2653,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
     position:relative;
     height:43px; 
     background-color:#dddddd; 
-    background-image: url(http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/customerimage/shuttle-gradient._V192250138_.gif); 
+    background-image: url(https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/customerimage/shuttle-gradient._V192250138_.gif); 
     background-position: bottom; 
     background-repeat : repeat-x;
 }
@@ -2926,7 +2926,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
     position: relative;
     overflow: hidden;
     vertical-align: middle;
-    background: url(http://g-ecx.images-amazon.com/images/G/01/electronics/click2call/click2call-sprite._V156431432_.png) no-repeat;
+    background: url(https://g-ecx.images-amazon.com/images/G/01/electronics/click2call/click2call-sprite._V156431432_.png) no-repeat;
 }
 .c2c-inline-sprite span {
     position:absolute;
@@ -3157,7 +3157,7 @@ a.slateLink:hover{ color: rgb(119,119,119); text-decoration:none;}
 
 div.mp3Enabled { display: block; height: 20px; position: relative; }
 div.mp3Enabled a.mp3Asin { display: -moz-inline-box; display: inline-block; height: 20px; width: 20px; cursor: pointer; margin: 0; vertical-align: middle; overflow: hidden;
-		background: url('http://g-ecx.images-amazon.com/images/G/01/zeitgeist/mp3player/sprites._V192194383_.gif') repeat-x scroll 0 0; }
+		background: url('https://g-ecx.images-amazon.com/images/G/01/zeitgeist/mp3player/sprites._V192194383_.gif') repeat-x scroll 0 0; }
 div.mp3Enabled a.mp3AsinActive { background-position: 0 0; }
 div.mp3Enabled a.mp3AsinActiveHover { background-position: -25px 0; }
 div.mp3Enabled a.mp3AsinActivePause { background-position: 0 -25px; }
@@ -3209,8 +3209,8 @@ var amznJQ,jQueryPatchIPadOffset=false;
 
 </script>
 
-<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-9265404329._V1_.css' rel='stylesheet'>
-<link type='text/css' href='http://z-ecx.images-amazon.com/images/G/01/browser-scripts/dpMergedOverallCSS/dpMergedOverallCSS-11889185633._V1_.css' rel='stylesheet'>
+<link type='text/css' href='https://z-ecx.images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-9265404329._V1_.css' rel='stylesheet'>
+<link type='text/css' href='https://z-ecx.images-amazon.com/images/G/01/browser-scripts/dpMergedOverallCSS/dpMergedOverallCSS-11889185633._V1_.css' rel='stylesheet'>
 
 
 
@@ -3243,7 +3243,7 @@ function amz_js_PopWin(url,name,options){
 
 
 
-<link rel="canonical" href="http://www.amazon.com/Demon-haunted-World-Science-Candle-Dark/dp/1439505284" />
+<link rel="canonical" href="https://www.amazon.com/Demon-haunted-World-Science-Candle-Dark/dp/1439505284" />
 <meta name="description" content="Amazon.com: The Demon-Haunted World: Science as a Candle in the Dark (9780345409461): Carl Sagan, Ann Druyan: Books" />
 <meta name="title" content="Amazon.com: The Demon-Haunted World: Science as a Candle in the Dark (9780345409461): Carl Sagan, Ann Druyan: Books" />
 
@@ -3328,22 +3328,22 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
 
 
 
-<img src="http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png" style="display:none" alt=""/>
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" style="display:none" alt="" id="nav_trans_pixel"/>
+<img src="https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png" style="display:none" alt=""/>
+<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" style="display:none" alt="" id="nav_trans_pixel"/>
 <script type="text/javascript"><!--
-  window._navbarSpriteUrl = "http://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png";
+  window._navbarSpriteUrl = "https://g-ecx.images-amazon.com/images/G/01/gno/beacon/BeaconSprite-US-01._V141013396_.png";
   amznJQ.available('popover', function() {
     amznJQ.available('navbarBTF', function() {
       var ie6 = jQuery.browser.msie && parseInt(jQuery.browser.version) <= 6,
           h = new Image(), v = new Image(), c = 0, b, f, bi,
           fn = function(p){ switch(typeof p){ case'boolean':{b=p;bi=1;break} case'function':{f=p} default:{c++} } if(bi&&c>2)f(b) };
-      h.src = (ie6 ? 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png' : 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png');
-      v.src = (ie6 ? 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png' : 'http://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png');
+      h.src = (ie6 ? 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-h._V155961234_.png' : 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-h-v2._V137157005_.png');
+      v.src = (ie6 ? 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-8bit-v._V155961234_.png' : 'https://g-ecx.images-amazon.com/images/G/01/gno/beacon/nav-pop-v-v2._V137157005_.png');
       window._navpreload = {'sprite_h':h, 'sprite_v':v, '_protectExposeSBD':fn};
 
       _navpreload._menuCallback = function() {
         _navpreload.spin = new Image();
-        _navpreload.spin.src = 'http://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif';
+        _navpreload.spin.src = 'https://g-ecx.images-amazon.com/images/G/01/javascripts/lib/popover/images/snake._V192571611_.gif';
       };
     });
   });
@@ -3629,7 +3629,7 @@ _navbar._ajaxProximity = [141,7,60,150];
                 </li>
                 <li class="nav-subnav-item ">
                   <a href='/Books/b?ie=UTF8&node=549028' class='nav_a'>
-                   The&nbsp;New&nbsp;York Times®&nbsp;Best&nbsp;Sellers
+                   The&nbsp;New&nbsp;York Timesï¿½&nbsp;Best&nbsp;Sellers
                   </a>
                 </li>
                 <li class="nav-subnav-item ">
@@ -3726,7 +3726,7 @@ _navbar.abbrDropdown = false;
 
 
 <div id="rwImages_hidden" style="display:none;">
-    <img src="http://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.jpg" style="display:none;"/>
+    <img src="https://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.jpg" style="display:none;"/>
 </div>
 
 
@@ -3862,7 +3862,7 @@ _navbar.abbrDropdown = false;
         }
       </script>
 
-<div name="goKindleStaticPopDiv" style="text-align:center;background-repeat: repeat-x;background-image:url('http://g-ecx.images-amazon.com/images/G/01/digital/fiona/general/green-fade-background._V192188963_.gif');">
+<div name="goKindleStaticPopDiv" style="text-align:center;background-repeat: repeat-x;background-image:url('https://g-ecx.images-amazon.com/images/G/01/digital/fiona/general/green-fade-background._V192188963_.gif');">
 
 
 
@@ -3870,7 +3870,7 @@ _navbar.abbrDropdown = false;
 
 
 
-<a href="http://www.amazon.com/Demon-Haunted-World-Science-Candle-ebook/dp/B004W0I00Q/ref=dp_kinw_strp_1?ie=UTF8&m=AG56TWVU5XWC2"><strong>Demon-Haunted World: Science as a Candle in the Dark</strong></a>
+<a href="https://www.amazon.com/Demon-Haunted-World-Science-Candle-ebook/dp/B004W0I00Q/ref=dp_kinw_strp_1?ie=UTF8&m=AG56TWVU5XWC2"><strong>Demon-Haunted World: Science as a Candle in the Dark</strong></a>
  and over one million other books are available for <b>Amazon Kindle</b>. 
 
 
@@ -3878,7 +3878,7 @@ _navbar.abbrDropdown = false;
 
 
 
-<a href="http://www.amazon.com/Kindle-eReader-eBook-Reader-e-Reader-Special-Offers/dp/B0051QVESA/ref=dp_kinw_strp_2">Learn more</a>
+<a href="https://www.amazon.com/Kindle-eReader-eBook-Reader-e-Reader-Special-Offers/dp/B0051QVESA/ref=dp_kinw_strp_2">Learn more</a>
 </div>
 
 
@@ -3904,7 +3904,7 @@ _navbar.abbrDropdown = false;
 
 
 
-  <form method="post" id="handleBuy" name="handleBuy" action="http://www.amazon.com/gp/product/handle-buy-box" style="margin: 0pt;" autocomplete="off">
+  <form method="post" id="handleBuy" name="handleBuy" action="https://www.amazon.com/gp/product/handle-buy-box" style="margin: 0pt;" autocomplete="off">
 
 <input type="hidden" id="session-id" name="session-id" value="000-0000000-0000000" />
 <input type="hidden" id="ASIN" name="ASIN" value="0345409469" />
@@ -4153,7 +4153,7 @@ amznJQ.onReady('jQuery', function() {
 
 
 <span id="addToCartSpan">
-<input type="image" title="" alt="Add to Shopping Cart" border="0" class="dpSprite s_bbAdd2Cart " id="bb_atc_button" value="" name="submit.add-to-cart" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
+<input type="image" title="" alt="Add to Shopping Cart" border="0" class="dpSprite s_bbAdd2Cart " id="bb_atc_button" value="" name="submit.add-to-cart" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
 </span>
 <br />
 
@@ -4171,7 +4171,7 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
     function () {
       jQuery("#oneClickBuyButton").click(
 	function () {
-	  var hbbAction = jQuery('#handleBuy').attr("action").replace("http:", "https:");
+	  var hbbAction = jQuery('#handleBuy').attr("action").replace("https:", "https:");
 	  jQuery('#handleBuy').attr("action", hbbAction );
 	  return true;
 	}
@@ -4237,25 +4237,25 @@ window.gbvar = "https://www.amazon.com/gp/product/utility/edit-one-click-pref.ht
 					<span class="dpSprite s_cornerBlueTL" style="display:block"></span>
 				</td>
 				<td class="subsDPTableTop">
-					<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" style="display:block" height="1" border="0" />
+					<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" style="display:block" height="1" border="0" />
 				</td>
 				<td>
 					<span class="dpSprite s_cornerBlueTR" style="display:block"></span>
 				</td>
 			</tr><tr>
 				<td class="subsDPTableLeft">
-					<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" height="1" border="0" />
+					<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" height="1" border="0" />
 				</td>
 				<td class="subsDPTableCenter">
 					<div align="center">
-						<input type="image" src="http://g-ecx.images-amazon.com/images/G/01/marketing/prime/prime_add_to_cart_with_free_two_day._V192221409_.gif"  width="160" rel="atc1" alt="Add to cart with free two day" name="submit.add-to-cart-prime-buy-box" type="button" class="primeEvent" height="33" border="0" />
+						<input type="image" src="https://g-ecx.images-amazon.com/images/G/01/marketing/prime/prime_add_to_cart_with_free_two_day._V192221409_.gif"  width="160" rel="atc1" alt="Add to cart with free two day" name="submit.add-to-cart-prime-buy-box" type="button" class="primeEvent" height="33" border="0" />
 					</div>
 					<div class="PrimeBBOPtext" align="center">
 						<b> Amazon Prime Free Trial required. Sign up when you check out.  <a name="primeLearnMorePopElem" href="/prime?ref=bbop_nojs_lm" id="primeLearnMoreLink" class="primeEvent" rel="lm1">Learn More</a> </b>
 					</div>
 				</td>
 				<td class="subsDPTableRight">
-					<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" height="1" border="0" />
+					<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" height="1" border="0" />
 				</td>
 			</tr>
 			<tr>
@@ -4263,7 +4263,7 @@ window.gbvar = "https://www.amazon.com/gp/product/utility/edit-one-click-pref.ht
 					<span class="dpSprite s_cornerBlueBL" style="display:block"></span>
 				</td>
 				<td class="subsDPTableBottom">
-<img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" style="display:block" height="1" border="0" />
+<img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif" width="1" style="display:block" height="1" border="0" />
 				</td>
 				<td>
 					<span class="dpSprite s_cornerBlueBR" style="display:block"></span>
@@ -4574,7 +4574,7 @@ amznJQ.available('ClientEventLogger', function() {
   });
 </script>
 <div id ="SSOFpopover" style="display: none">
-  Fulfillment by Amazon (FBA) is a service we offer sellers that lets them store their products in Amazon's own warehouses, and we directly pack, ship, and provide customer service for these items. Something we hope you'll especially enjoy: <em>FBA items qualify for FREE Super Saver Shipping and <img src="http://g-ecx.images-amazon.com/images/G/01/sdp/popover/fba/amz-prime._V192217000_.gif" width="92" alt="Amazon Prime" height="12" border="0" />.</em>
+  Fulfillment by Amazon (FBA) is a service we offer sellers that lets them store their products in Amazon's own warehouses, and we directly pack, ship, and provide customer service for these items. Something we hope you'll especially enjoy: <em>FBA items qualify for FREE Super Saver Shipping and <img src="https://g-ecx.images-amazon.com/images/G/01/sdp/popover/fba/amz-prime._V192217000_.gif" width="92" alt="Amazon Prime" height="12" border="0" />.</em>
   <br /><br />
   If you're a seller, you can increase your sales significantly by using Fulfillment by Amazon. We invite you to <a href="/gp/seller/fba/fulfillment-by-amazon.html?ie=UTF8&ref=dp_fba_pop&ld=AZFBADP" target="_blank" style="font-weight: bold;">learn more about Fulfillment by Amazon</a>.
 </div>
@@ -4587,7 +4587,7 @@ amznJQ.available('ClientEventLogger', function() {
 
 
 <span id="addToCartUBBSpan">
-<input type="image" title="" alt="Add to Shopping Cart" border="0" class="dpSprite s_bbAdd2Cart " id="" value="" name="submit.add-to-cart-ubb" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
+<input type="image" title="" alt="Add to Shopping Cart" border="0" class="dpSprite s_bbAdd2Cart " id="" value="" name="submit.add-to-cart-ubb" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
 </span>
 <br />
 
@@ -4698,7 +4698,7 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
     function () {
       jQuery("#oneClickBuyButton").click(
 	function () {
-	  var hbbAction = jQuery('#handleBuy').attr("action").replace("http:", "https:");
+	  var hbbAction = jQuery('#handleBuy').attr("action").replace("https:", "https:");
 	  jQuery('#handleBuy').attr("action", hbbAction );
 	  return true;
 	}
@@ -4877,7 +4877,7 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
       font-size: small;
     }
     table.fionaBuyBox td.topLeft {
-      background-image: url("http://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/tl2._V192261580_.gif");
+      background-image: url("https://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/tl2._V192261580_.gif");
       background-repeat: no-repeat;
       font-size: .86em;
       padding-top: 10px;
@@ -4886,18 +4886,18 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
     }
 
     table.fionaBuyBox td.topRight {
-      background-image: url("http://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/tr._V192261582_.gif");
+      background-image: url("https://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/tr._V192261582_.gif");
       background-repeat: no-repeat;
     }
 
     table.fionaBuyBox td.bottomLeft {
-      background-image: url("http://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/bl2._V192261606_.gif");
+      background-image: url("https://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/bl2._V192261606_.gif");
       background-repeat: no-repeat;
       font-size: 4px;
     }
 
     table.fionaBuyBox td.bottomRight {
-      background-image: url("http://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/br._V192261606_.gif");
+      background-image: url("https://g-ecx.images-amazon.com/images/G/01/digital/fiona/dp/br._V192261606_.gif");
       background-repeat: no-repeat;
       font-size: 4px;
     }
@@ -4921,14 +4921,14 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
   }
 
   table.fionaBuyBox .wishlist td.bottomLeft {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mp3_wl_bb._V156421465_.png');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mp3_wl_bb._V156421465_.png');
     background-position: left bottom;
     text-align: center;
     padding: 4px 0px 6px 13px;
   }
 
   table.fionaBuyBox .wishlist td.bottomRight {
-    background-image: url('http://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mp3_wl_bb._V156421465_.png');
+    background-image: url('https://g-ecx.images-amazon.com/images/G/01/common/sprites/sprite_box_mp3_wl_bb._V156421465_.png');
     background-position: right bottom;
   }
 
@@ -4947,7 +4947,7 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
   
 
 <script type="text/javascript">
-  amznJQ.addLogical("cascade", ["http://kindleweb.s3.amazonaws.com/app/KindleReader-min.js"]);
+  amznJQ.addLogical("cascade", ["https://kindleweb.s3.amazonaws.com/app/KindleReader-min.js"]);
 </script>
 
 <div id="kindleReaderContainer" style="display: none;"></div>
@@ -5076,9 +5076,9 @@ if(typeof(gbSecure1Click) != 'undefined' && gbSecure1Click){
       <div style="text-align: center;">
   <div style="padding-bottom: 6px; font-size: small"><b>Kindle Edition</b></div>
 
-        <img src="http://g-ecx.images-amazon.com/images/G/01/kindle/cascade/read-first-chapter-free._V156427760_.png" id="KcpmKindleReaderSampleButton" style="cursor:pointer"/>
+        <img src="https://g-ecx.images-amazon.com/images/G/01/kindle/cascade/read-first-chapter-free._V156427760_.png" id="KcpmKindleReaderSampleButton" style="cursor:pointer"/>
   <div class="tiny">
-    Read the <a href="http://www.amazon.com/Demon-Haunted-World-Science-Candle-ebook/dp/B004W0I00Q">Kindle edition</a> 
+    Read the <a href="https://www.amazon.com/Demon-Haunted-World-Science-Candle-ebook/dp/B004W0I00Q">Kindle edition</a> 
 on <a href="/dp/B0051QVESA">Kindle</a>, <a href="/gp/kindle/iphone">iPhone</a>, <a href="/gp/kindle/ipad">iPad</a>, <a href="/gp/kindle/android/shortUrlRedirect.html">Android</a>, <a href="/gp/kindle/blackberry">BlackBerry</a>, <a href="/gp/kindle/pc">PC</a> and <a href="/gp/kindle/mac">Mac</a>.
 
   </div>
@@ -5119,7 +5119,7 @@ on <a href="/dp/B0051QVESA">Kindle</a>, <a href="/gp/kindle/iphone">iPhone</a>, 
 For a <span style="color: #990000; font-size: 1.2em; letter-spacing: -1px; font-weight: bold">$1.04</span> Gift Card
   </div>
   <a href="https://www.amazon.com/gp/tradein/add-to-cart.html?ie=UTF8&asin=0345409469">
-    <img src="http://g-ecx.images-amazon.com/images/G/01/tradein/buttons/btn-tradein-md-sec._V193783984_.gif" width="99" alt="Trade in" height="22" border="0" />
+    <img src="https://g-ecx.images-amazon.com/images/G/01/tradein/buttons/btn-tradein-md-sec._V193783984_.gif" width="99" alt="Trade in" height="22" border="0" />
   </a>
   <div style="padding-top: 3px; font-size: 11px;">
     <a href="/gp/tradein/popovers/render-popover.html?ie=UTF8&name=howToTradeIn" target="_new" id="tradeinBuyboxLearnMore">Learn more</a>
@@ -5190,7 +5190,7 @@ For a <span style="color: #990000; font-size: 1.2em; letter-spacing: -1px; font-
   
     Have one to sell? 
 
-<span style="align: absmiddle;"><a class="dpSprite s_sellYoursHere " href="http://catalog-retail.amazon.com/abis/syh/DisplayCondition?_encoding=UTF8&coliid=&qid=&asin=0345409469&sr=&colid=&ld=AMZDP" ><span>Sell yours here</span></a></span>
+<span style="align: absmiddle;"><a class="dpSprite s_sellYoursHere " href="https://catalog-retail.amazon.com/abis/syh/DisplayCondition?_encoding=UTF8&coliid=&qid=&asin=0345409469&sr=&colid=&ld=AMZDP" ><span>Sell yours here</span></a></span>
 </div>
 
 
@@ -5269,7 +5269,7 @@ For a <span style="color: #990000; font-size: 1.2em; letter-spacing: -1px; font-
 
       <table style="text-align: center;" border="0" cellpadding="0" cellspacing="0" width="240">
       <tr id="prodImageContainer">
-        <td id="prodImageCell" height="240" width="240"><a href="/gp/reader/0345409469#reader-link" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReader('sib_dp_pt'); return false; }"><img onload="if (typeof uet == 'function') { if(typeof setCSMReq=='function'){setCSMReq('af');setCSMReq('cf');}else{uet('af');uet('cf');amznJQ.completedStage('amznJQ.AboveTheFold');} } " src="http://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.jpg" id="prodImage"  width="240" height="240"  onMouseOver="sitb_showLayer('bookpopover'); return false;" onMouseOut="sitb_doHide('bookpopover'); return false;" border="0" alt="The Demon-Haunted World: Science as a Candle in the Dark" onmouseover="" /></a><div id="prodImageCellInner" style="position: relative; height:0px;"><!--Comment for IE as it is empty div--></div></td>
+        <td id="prodImageCell" height="240" width="240"><a href="/gp/reader/0345409469#reader-link" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReader('sib_dp_pt'); return false; }"><img onload="if (typeof uet == 'function') { if(typeof setCSMReq=='function'){setCSMReq('af');setCSMReq('cf');}else{uet('af');uet('cf');amznJQ.completedStage('amznJQ.AboveTheFold');} } " src="https://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.jpg" id="prodImage"  width="240" height="240"  onMouseOver="sitb_showLayer('bookpopover'); return false;" onMouseOut="sitb_doHide('bookpopover'); return false;" border="0" alt="The Demon-Haunted World: Science as a Candle in the Dark" onmouseover="" /></a><div id="prodImageCellInner" style="position: relative; height:0px;"><!--Comment for IE as it is empty div--></div></td>
      </tr>
      <tr>
         <td class="tiny">&nbsp;<span id="prodImageCaption"><br /></span>&nbsp;</td>
@@ -5286,9 +5286,9 @@ For a <span style="color: #990000; font-size: 1.2em; letter-spacing: -1px; font-
     initVars(0, 0, '','', '','','', 'book_display_on_website', '{}', 0);
      
      setIVMouseoverEvent();
-  registerImage("original_image", "http://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.jpg","<a href="+'"'+"/gp/reader/0345409469#reader-link"+'"'+" onclick="+'"'+"if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReader('sib_dp_pt'); return false; }"+'"'+"><img  src="+'"'+"http://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.jpg"+'"'+" id="+'"'+"prodImage"+'"'+"  width="+'"'+"240"+'"'+" height="+'"'+"240"+'"'+"  onMouseOver="+'"'+"sitb_showLayer('bookpopover'); return false;"+'"'+" onMouseOut="+'"'+"sitb_doHide('bookpopover'); return false;"+'"'+" border="+'"'+"0"+'"'+" alt="+'"'+"The Demon-Haunted World: Science as a Candle in the Dark"+'"'+" onmouseover="+'"'+""+'"'+" /></a>", "<br />", "");
+  registerImage("original_image", "https://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.jpg","<a href="+'"'+"/gp/reader/0345409469#reader-link"+'"'+" onclick="+'"'+"if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReader('sib_dp_pt'); return false; }"+'"'+"><img  src="+'"'+"https://ecx.images-amazon.com/images/I/519oGbGHO5L._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA240_SH20_OU01_.jpg"+'"'+" id="+'"'+"prodImage"+'"'+"  width="+'"'+"240"+'"'+" height="+'"'+"240"+'"'+"  onMouseOver="+'"'+"sitb_showLayer('bookpopover'); return false;"+'"'+" onMouseOut="+'"'+"sitb_doHide('bookpopover'); return false;"+'"'+" border="+'"'+"0"+'"'+" alt="+'"'+"The Demon-Haunted World: Science as a Candle in the Dark"+'"'+" onmouseover="+'"'+""+'"'+" /></a>", "<br />", "");
  }
-var spinnerForHZ = 'http://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-small._V192238939_.gif';
+var spinnerForHZ = 'https://g-ecx.images-amazon.com/images/G/01/ui/loadIndicators/loading-small._V192238939_.gif';
 var spinnerDimensions = [23,23];
 var hzSpinnerOn = 0, ivSpinnerOn = 0;
 var cbEventEnum = {"none" : 0, "changeImage" : 1, "mouseover" : 2, "openIV" : 3};
@@ -5440,7 +5440,7 @@ function async_openIVOrChangeImage(imageID, imageTagID, showNotesTag, event) {
 
 
 
-<div class="tiny"><a href="http://www.amazon.com/gp/product/images/0345409469?ie=UTF8&s=books" target="AmazonHelp" onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=700,height=600,resizable=1,scrollbars=1,toolbar=0,status=1');"  >See all product images</a><br /><a href="/gp/customer-media/product-gallery/0345409469">See all 6 customer images</a></div>
+<div class="tiny"><a href="https://www.amazon.com/gp/product/images/0345409469?ie=UTF8&s=books" target="AmazonHelp" onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=700,height=600,resizable=1,scrollbars=1,toolbar=0,status=1');"  >See all product images</a><br /><a href="/gp/customer-media/product-gallery/0345409469">See all 6 customer images</a></div>
 
 
 <div class="tiny" style="padding-top: 6px;" >
@@ -5550,7 +5550,7 @@ function async_openIVOrChangeImage(imageID, imageTagID, showNotesTag, event) {
   <div>
 
 
-    Start reading <a href="http://www.amazon.com/Demon-Haunted-World-Science-Candle-ebook/dp/B004W0I00Q">Demon-Haunted World: Science as a Candle in the Dark</a> on your Kindle <strong>in under a minute</strong>.
+    Start reading <a href="https://www.amazon.com/Demon-Haunted-World-Science-Candle-ebook/dp/B004W0I00Q">Demon-Haunted World: Science as a Candle in the Dark</a> on your Kindle <strong>in under a minute</strong>.
 
 
     <br /><br />
@@ -5783,8 +5783,8 @@ function async_openIVOrChangeImage(imageID, imageTagID, showNotesTag, event) {
   });
 </script>
 <span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary acr-popover non-lazy" name="0345409469" ref="dp_top_cm_cr_acr_pop_" >
-              <a style="cursor:pointer;text-decoration:none" href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" name="reviewHistoPop_0345409469__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars" ><span>4.5 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
-          style="margin-left:-3px"><a style="text-decoration:none" href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" name="reviewHistoPop_0345409469__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" >486 customer reviews</a>)</span></span> <span class="byLinePipe">|</span> 
+              <a style="cursor:pointer;text-decoration:none" href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" name="reviewHistoPop_0345409469__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars" ><span>4.5 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
+          style="margin-left:-3px"><a style="text-decoration:none" href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" name="reviewHistoPop_0345409469__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" >486 customer reviews</a>)</span></span> <span class="byLinePipe">|</span> 
 
 
 
@@ -6545,7 +6545,7 @@ Choose <b>One-Day Shipping</b> at checkout.
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/Demon-Haunted-World-Science-Candle-ebook/dp/B004W0I00Q">Kindle Edition</a>
+           <a href="https://www.amazon.com/Demon-Haunted-World-Science-Candle-ebook/dp/B004W0I00Q">Kindle Edition</a>
        </td>
 
 
@@ -6582,7 +6582,7 @@ Choose <b>One-Day Shipping</b> at checkout.
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/The-Demon-haunted-World-Science-Candle/dp/1439505284">Library Binding</a>
+           <a href="https://www.amazon.com/The-Demon-haunted-World-Science-Candle/dp/1439505284">Library Binding</a>
        </td>
 
 
@@ -6668,7 +6668,7 @@ Choose <b>One-Day Shipping</b> at checkout.
 
 
       <td  class="tmm_bookTitle  noLinkDecoration ">
-           <a href="http://www.amazon.com/The-Demon-Haunted-World-Carl-Sagan/dp/1561004421">Audio, Cassette, Abridged, Audiobook</a>
+           <a href="https://www.amazon.com/The-Demon-Haunted-World-Carl-Sagan/dp/1561004421">Audio, Cassette, Abridged, Audiobook</a>
        </td>
 
 
@@ -6718,7 +6718,7 @@ TwisterMediaMatrix.initialize({
 "hardcover_meta_binding": { "n": "5", "start": "1" },
 "paperback_meta_binding": { "n": "13", "start": "1" },
 "audiobooks_meta_binding": { "n": "6", "start": "1" }
-}, "21", "books", "0345409469", "B000AHQDCM", "book_display_on_website", "Loading...", "Error. Please try again.", "http://g-ecx.images-amazon.com/images/G/01/x-locale/twister/tiny-snake._V192199047_.gif", false, "", "");
+}, "21", "books", "0345409469", "B000AHQDCM", "book_display_on_website", "Loading...", "Error. Please try again.", "https://g-ecx.images-amazon.com/images/G/01/x-locale/twister/tiny-snake._V192199047_.gif", false, "", "");
 });
 });
 }
@@ -7115,12 +7115,12 @@ var disableWinnerPopup;
 <input name="quantity.1" type="hidden" value="1">
 <input name="quantity.2" type="hidden" value="1">
 <p class="bxgy-text">
-Customers buy this book with <a href="http://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354">Cosmos</a><span class='bxgy-binding-byline'> <span class="bxgy-byline-text">by Carl Sagan</span> Mass Market Paperback</span> <span class="price bxgy-item-price">$7.99</span><span class="price"></span> 
+Customers buy this book with <a href="https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354">Cosmos</a><span class='bxgy-binding-byline'> <span class="bxgy-byline-text">by Carl Sagan</span> Mass Market Paperback</span> <span class="price bxgy-item-price">$7.99</span><span class="price"></span> 
 </p>
 <table class="bxgy-bundle">
 <tbody><tr><td>
 
-          <img src="http://ecx.images-amazon.com/images/I/519oGbGHO5L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS75_.jpg" width="75" alt="The Demon-Haunted World: Science as a Candle in the Dark" id="" height="75" border="0" />
+          <img src="https://ecx.images-amazon.com/images/I/519oGbGHO5L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS75_.jpg" width="75" alt="The Demon-Haunted World: Science as a Candle in the Dark" id="" height="75" border="0" />
   
 
 </td>
@@ -7135,7 +7135,7 @@ Customers buy this book with <a href="http://www.amazon.com/Cosmos-Carl-Sagan/dp
 
 
 
-<a href="http://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354"><img src="http://ecx.images-amazon.com/images/I/51mMU-ULbiL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="75" alt="Cosmos" id="" height="75" border="0" /></a>
+<a href="https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354"><img src="https://ecx.images-amazon.com/images/I/51mMU-ULbiL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="75" alt="Cosmos" id="" height="75" border="0" /></a>
 
   
 
@@ -7151,10 +7151,10 @@ Customers buy this book with <a href="http://www.amazon.com/Cosmos-Carl-Sagan/dp
 
 
 
-  <input type="image" title="" alt="Add both to Cart" border="0" class="dpSprite s_addBothToCart button-margin" id="bxgy_cartadd_button" value="" name="submit.addToCart" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
+  <input type="image" title="" alt="Add both to Cart" border="0" class="dpSprite s_addBothToCart button-margin" id="bxgy_cartadd_button" value="" name="submit.addToCart" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
 
 
-      <input type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  width="130" align="top" alt="Add both to Wish List" name="submit.add-to-registry.wishlist" class="wl-button-sprite button-margin wl_two" height="22" border="0" />
+      <input type="image" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  width="130" align="top" alt="Add both to Wish List" name="submit.add-to-registry.wishlist" class="wl-button-sprite button-margin wl_two" height="22" border="0" />
 
 <p class="bxgySellerMessage bxgyInitHidden"><a href="#" class="inlineLink" id="bxgy_seller_exposed">Show availability and shipping details</a></p>
 </div>
@@ -7191,7 +7191,7 @@ Eligible for <b>FREE Super Saver Shipping</b> on orders over $25.
 </p>
 </li>
 <li>
-<span id="bxgy_y_titleNonJS"><a href="http://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354">Cosmos</a><span class='bxgy-binding-byline'> <span class="bxgy-byline-text">by Carl Sagan</span> Mass Market Paperback</span></span>
+<span id="bxgy_y_titleNonJS"><a href="https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354">Cosmos</a><span class='bxgy-binding-byline'> <span class="bxgy-byline-text">by Carl Sagan</span> Mass Market Paperback</span></span>
 <p class="bxgySellerInfoNonJS">
       
 
@@ -7254,7 +7254,7 @@ Eligible for <b>FREE Super Saver Shipping</b> on orders over $25.
 </p>
 </li>
 <li>
-<span id=bxgy_y_title><a href="http://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354">Cosmos</a><span class='bxgy-binding-byline'> <span class="bxgy-byline-text">by Carl Sagan</span> Mass Market Paperback</span></span>
+<span id=bxgy_y_title><a href="https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354">Cosmos</a><span class='bxgy-binding-byline'> <span class="bxgy-byline-text">by Carl Sagan</span> Mass Market Paperback</span></span>
 <p class="bxgySellerInfo">
       
 
@@ -7647,8 +7647,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354"  title="Cosmos" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51mMU-ULbiL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354"  title="Cosmos" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/51mMU-ULbiL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     Cosmos </a>
 
@@ -7656,7 +7656,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Carl-Sagan/e/B000AQ27JQ">Carl Sagan</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0345331354" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Cosmos-Carl-Sagan/product-reviews/0345331354" ><span class="swSprite s_star_5_0 " title="4.8 out of 5 stars" ><span>4.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Cosmos-Carl-Sagan/product-reviews/0345331354" >201</a>)</span></span></div>
+              <a href="https://www.amazon.com/Cosmos-Carl-Sagan/product-reviews/0345331354" ><span class="swSprite s_star_5_0 " title="4.8 out of 5 stars" ><span>4.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Cosmos-Carl-Sagan/product-reviews/0345331354" >201</a>)</span></span></div>
     <div class="binding-platform">
         Mass Market Paperback
     </div>
@@ -7705,8 +7705,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595"  title="Pale Blue Dot: A Vision of the Human Future in Space" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/518xPlisLzL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595"  title="Pale Blue Dot: A Vision of the Human Future in Space" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/518xPlisLzL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     Pale Blue Dot: A Vision of the Human Future in Space </a>
 
@@ -7714,7 +7714,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Carl-Sagan/e/B000AQ27JQ">Carl Sagan</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0345376595" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Pale-Blue-Dot-Vision-Future/product-reviews/0345376595" ><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars" ><span>4.5 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Pale-Blue-Dot-Vision-Future/product-reviews/0345376595" >83</a>)</span></span></div>
+              <a href="https://www.amazon.com/Pale-Blue-Dot-Vision-Future/product-reviews/0345376595" ><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars" ><span>4.5 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Pale-Blue-Dot-Vision-Future/product-reviews/0345376595" >83</a>)</span></span></div>
     <div class="binding-platform">
         Paperback
     </div>
@@ -7763,8 +7763,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/dp/0345379187"  title="Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/51pyCx9TA6L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/dp/0345379187"  title="Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/51pyCx9TA6L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     Billions & Billions: Thoughts on Life and &#133; </a>
 
@@ -7772,7 +7772,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Carl-Sagan/e/B000AQ27JQ">Carl Sagan</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0345379187" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/product-reviews/0345379187" ><span class="swSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/product-reviews/0345379187" >86</a>)</span></span></div>
+              <a href="https://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/product-reviews/0345379187" ><span class="swSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/product-reviews/0345379187" >86</a>)</span></span></div>
     <div class="binding-platform">
         Paperback
     </div>
@@ -7821,8 +7821,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/dp/0345346297"  title="The Dragons of Eden: Speculations on the Evolution of Human Intelligence" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/512%2Bc7FW9ZL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/dp/0345346297"  title="The Dragons of Eden: Speculations on the Evolution of Human Intelligence" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/512%2Bc7FW9ZL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     The Dragons of Eden: Speculations on the &#133; </a>
 
@@ -7830,7 +7830,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Carl-Sagan/e/B000AQ27JQ">Carl Sagan</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0345346297" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/product-reviews/0345346297" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/product-reviews/0345346297" >76</a>)</span></span></div>
+              <a href="https://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/product-reviews/0345346297" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/product-reviews/0345346297" >76</a>)</span></span></div>
     <div class="binding-platform">
         Mass Market Paperback
     </div>
@@ -7879,8 +7879,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/dp/0226667863"  title="Nonsense on Stilts: How to Tell Science from Bunk" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/41lToebkTSL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/dp/0226667863"  title="Nonsense on Stilts: How to Tell Science from Bunk" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/41lToebkTSL._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     Nonsense on Stilts: How to Tell Science from Bunk </a>
 
@@ -7888,7 +7888,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Massimo-Pigliucci/e/B001IU0D3K">Massimo Pigliucci</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0226667863" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/product-reviews/0226667863" ><span class="swSprite s_star_4_0 " title="3.8 out of 5 stars" ><span>3.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/product-reviews/0226667863" >30</a>)</span></span></div>
+              <a href="https://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/product-reviews/0226667863" ><span class="swSprite s_star_4_0 " title="3.8 out of 5 stars" ><span>3.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Nonsense-Stilts-Tell-Science-Bunk/product-reviews/0226667863" >30</a>)</span></span></div>
     <div class="binding-platform">
         Paperback
     </div>
@@ -7937,8 +7937,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/The-Varieties-Scientific-Experience-Personal/dp/0143112627"  title="The Varieties of Scientific Experience: A Personal View of the Search for God" class="sim-img-title" > <div class="product-image">
-                       <img src="http://ecx.images-amazon.com/images/I/41BU5qL073L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
+<a href="https://www.amazon.com/The-Varieties-Scientific-Experience-Personal/dp/0143112627"  title="The Varieties of Scientific Experience: A Personal View of the Search for God" class="sim-img-title" > <div class="product-image">
+                       <img src="https://ecx.images-amazon.com/images/I/41BU5qL073L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS100_.jpg" width="100" alt="" height="100" border="0" />
                     </div>
                     The Varieties of Scientific Experience: A Personal &#133; </a>
 
@@ -7946,7 +7946,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
         <span class="carat">&#8250</span>  <a href="/Carl-Sagan/e/B000AQ27JQ">Carl Sagan</a>
     </div>
     <div class="rating-price"><span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0143112627" ref="pd_sim_b_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/The-Varieties-Scientific-Experience-Personal/product-reviews/0143112627" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Varieties-Scientific-Experience-Personal/product-reviews/0143112627" >102</a>)</span></span></div>
+              <a href="https://www.amazon.com/The-Varieties-Scientific-Experience-Personal/product-reviews/0143112627" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/The-Varieties-Scientific-Experience-Personal/product-reviews/0143112627" >102</a>)</span></span></div>
     <div class="binding-platform">
         Paperback
     </div>
@@ -8055,7 +8055,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/product-description/0345409469">See all Editorial Reviews</a>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/product-description/0345409469">See all Editorial Reviews</a>
 </div>  </div>
 </div>
 
@@ -8245,7 +8245,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-<li><b>Shipping Weight:</b> 1 pounds (<a href="http://www.amazon.com/gp/help/seller/shipping.html?ie=UTF8&amp;asin=0345409469&amp;seller=ATVPDKIKX0DER">View shipping rates and policies</a>)</li>
+<li><b>Shipping Weight:</b> 1 pounds (<a href="https://www.amazon.com/gp/help/seller/shipping.html?ie=UTF8&amp;asin=0345409469&amp;seller=ATVPDKIKX0DER">View shipping rates and policies</a>)</li>
 
 
 
@@ -8361,8 +8361,8 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
   });
 </script>
 <span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary acr-popover" name="0345409469" ref="dp_db_cm_cr_acr_pop_" >
-              <a style="cursor:pointer;text-decoration:none" href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" name="reviewHistoPop_0345409469__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars" ><span>4.5 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
-          style="margin-left:-3px"><a style="text-decoration:none" href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" name="reviewHistoPop_0345409469__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" >486 customer reviews</a>)</span></li>
+              <a style="cursor:pointer;text-decoration:none" href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" name="reviewHistoPop_0345409469__star__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" ><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars" ><span>4.5 out of 5 stars</span></span>&nbsp;</a>&nbsp;<span class="histogramButton"
+          style="margin-left:-3px"><a style="text-decoration:none" href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" name="reviewHistoPop_0345409469__button__" onmouseover="return acrPopoverHover(this,1);" onmouseout="return acrPopoverHover(this,0);" style="cursor:pointer" ><span class="swSprite s_chevron " ><span>See all reviews</span></span>&nbsp;</a></span></span>(<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" >486 customer reviews</a>)</span></li>
 
 
 
@@ -8431,7 +8431,7 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 
 
 
-#2,595 in Books (<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">See Top 100 in Books</a>)
+#2,595 in Books (<a href="https://www.amazon.com/best-sellers-books-Amazon/zgbs/books">See Top 100 in Books</a>)
   
 
 
@@ -8566,15 +8566,15 @@ Page <span class="page-number"></span>  of  <span class="num-pages"></span>
 <ul class="zg_hrsr">
     <li class="zg_hrsr_item">
     <span class="zg_hrsr_rank">#3</span> 
-    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/75">Science & Math</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/13837">Experiments, Instruments & Measurement</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/books/13640">Methodology & Statistics</a></b></span>
+    <span class="zg_hrsr_ladder">in&nbsp;<a href="https://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="https://www.amazon.com/gp/bestsellers/books/75">Science & Math</a> &gt; <a href="https://www.amazon.com/gp/bestsellers/books/13837">Experiments, Instruments & Measurement</a> &gt; <b><a href="https://www.amazon.com/gp/bestsellers/books/13640">Methodology & Statistics</a></b></span>
     </li>
     <li class="zg_hrsr_item">
     <span class="zg_hrsr_rank">#38</span> 
-    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/75">Science & Math</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/books/13871">History & Philosophy</a></b></span>
+    <span class="zg_hrsr_ladder">in&nbsp;<a href="https://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="https://www.amazon.com/gp/bestsellers/books/75">Science & Math</a> &gt; <b><a href="https://www.amazon.com/gp/bestsellers/books/13871">History & Philosophy</a></b></span>
     </li>
     <li class="zg_hrsr_item">
     <span class="zg_hrsr_rank">#97</span> 
-    <span class="zg_hrsr_ladder">in&nbsp;<a href="http://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="http://www.amazon.com/gp/bestsellers/books/22">Religion & Spirituality</a> &gt; <b><a href="http://www.amazon.com/gp/bestsellers/books/12621">New Age</a></b></span>
+    <span class="zg_hrsr_ladder">in&nbsp;<a href="https://www.amazon.com/best-sellers-books-Amazon/zgbs/books">Books</a> &gt; <a href="https://www.amazon.com/gp/bestsellers/books/22">Religion & Spirituality</a> &gt; <b><a href="https://www.amazon.com/gp/bestsellers/books/12621">New Age</a></b></span>
     </li>
 </ul>
 
@@ -8880,13 +8880,13 @@ h3.authorQAHeader img {
 
       <div class="author_page_link content">
         <span class="carat">&rsaquo;</span> 
-        <a href="http://www.amazon.com/Carl-Sagan/e/B000AQ27JQ">
+        <a href="https://www.amazon.com/Carl-Sagan/e/B000AQ27JQ">
           Visit Amazon's Carl Sagan Page
         </a>
       </div>
       <div class="content" style="float:left;width:100px;">
         <div class="authorImageSingle">
-          <a href="http://www.amazon.com/Carl-Sagan/e/B000AQ27JQ">
+          <a href="https://www.amazon.com/Carl-Sagan/e/B000AQ27JQ">
             
 
 
@@ -8895,7 +8895,7 @@ h3.authorQAHeader img {
 
 
 
-<img src="http://g-ecx.images-amazon.com/images/G/01/books/entity/silhouette_teaser_100._V156422820_.png" width="67" alt="Carl Sagan" height="100" border="0" />
+<img src="https://g-ecx.images-amazon.com/images/G/01/books/entity/silhouette_teaser_100._V156422820_.png" width="67" alt="Carl Sagan" height="100" border="0" />
           </a>
         </div>
       </div>
@@ -9055,7 +9055,7 @@ h3.authorQAHeader img {
 
 
 </div>
-  <div class="fl gl5 mt3 txtnormal acrCount">(<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="noTextDecoration" >486</a>)</div>
+  <div class="fl gl5 mt3 txtnormal acrCount">(<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="noTextDecoration" >486</a>)</div>
   <div class="clearboth"></div>
   <div class="gry txtnormal acrRating">4.5 out of 5 stars</div>
 </div>
@@ -9110,7 +9110,7 @@ h3.authorQAHeader img {
 
 <div id="revHist-dpReviewsSummaryWithQuotes-0345409469" style="font-size: 11px; white-space:no-wrap; line-height:19px;" class="txtsmaller">
   <div class="fl histoRowfive clearboth" title="73% of reviews have 5 stars" >
-      <a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
+      <a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
       <div class="histoRating fl gr10 txtnormal">5 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:70px; border: 0;"></div>
@@ -9119,7 +9119,7 @@ h3.authorQAHeader img {
       </a>
   </div>
   <div class="fl histoRowfour clearboth" title="13% of reviews have 4 stars" >
-      <a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
+      <a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
       <div class="histoRating fl gr10 txtnormal">4 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:12px; border: 0;"></div>
@@ -9128,7 +9128,7 @@ h3.authorQAHeader img {
       </a>
   </div>
   <div class="fl histoRowthree clearboth" title="7% of reviews have 3 stars" >
-      <a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
+      <a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
       <div class="histoRating fl gr10 txtnormal">3 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:7px; border: 0;"></div>
@@ -9137,7 +9137,7 @@ h3.authorQAHeader img {
       </a>
   </div>
   <div class="fl histoRowtwo clearboth" title="4% of reviews have 2 stars" >
-      <a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
+      <a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
       <div class="histoRating fl gr10 txtnormal">2 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:4px; border: 0;"></div>
@@ -9146,7 +9146,7 @@ h3.authorQAHeader img {
       </a>
   </div>
   <div class="fl histoRowone clearboth" title="3% of reviews have 1 stars" >
-      <a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
+      <a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469">
       <div class="histoRating fl gr10 txtnormal">1 star</div>
     <div class="histoFullBar fl tiny mr1" style="width:96px; background-color:#f4f4cf; overflow: hidden;">
       <div class="histoRatingBar" style="background-color:#ffcc66; height:19px; width:3px; border: 0;"></div>
@@ -9165,7 +9165,7 @@ h3.authorQAHeader img {
 
 </div>
   <div class='fl mt15 clearboth'>
-    <a id='revSAR' href='http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469' class='txtsmall noTextDecoration'>
+    <a id='revSAR' href='https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469' class='txtsmall noTextDecoration'>
       See all 486 customer reviews
     </a>
   </div>
@@ -9203,7 +9203,7 @@ h3.authorQAHeader img {
 
 
 
-<div id="advice-quote-list-dpReviewsBucketSummary-0345409469" class="noLinkDecoration searchTemplate fl" style="margin-left: 20px;"><div style="padding-bottom: 22px;"><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-0" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22" title="Read the full review by My Uncle Stu" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/R3185GQV1HFIKG">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">I love Carl </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_0&asin=0345409469&quoteID=0345409469-R3185GQV1HFIKG-1-86-22"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22" title="Read the full review by My Uncle Stu" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/R3185GQV1HFIKG">Sagan!        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_0&asin=0345409469&quoteID=0345409469-R3185GQV1HFIKG-1-86-22"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-0"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">My Uncle Stu</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">160&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div><div style="padding-bottom: 22px;"><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-1" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64" title="Read the full review by Skoro" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/R3AVEC7H7YZ3VU">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">The book is an easy and engaging read that holds your </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_1&asin=0345409469&quoteID=0345409469-R3AVEC7H7YZ3VU-1-1177-64"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64" title="Read the full review by Skoro" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/R3AVEC7H7YZ3VU">interest.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_1&asin=0345409469&quoteID=0345409469-R3AVEC7H7YZ3VU-1-1177-64"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-1"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">Skoro</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">69&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div><div ><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-2" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62" id="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62" title="Read the full review by Avid Reader" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/ROWGGCTQ6WIMA">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">The book should be required reading for high school </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_2&asin=0345409469&quoteID=0345409469-ROWGGCTQ6WIMA-1-2514-62"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62" id="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62" title="Read the full review by Avid Reader" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="http://www.amazon.com/review/ROWGGCTQ6WIMA">students.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_2&asin=0345409469&quoteID=0345409469-ROWGGCTQ6WIMA-1-2514-62"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-2"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">Avid Reader</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">50&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div></div><script type="text/javascript">;function displayReviewPopover(link) {  if('ontouchstart' in document.documentElement) return true;  link = jQuery(link);  var destAnchor = jQuery('#' + link.attr('name') + '_hide');  if(!destAnchor.length || !destAnchor.attr('href')) { return true; }  setTimeout(function() {    var popover = jQuery.AmazonPopover.displayPopover({      showOnHover: false,      modal: true,      title: null,      width: '824px',      align: 'middle',      paddingLeft: 20,      paddingRight: 20,      paddingBottom: 10,      showCloseButton: true,      closeText: 'Close',      location: 'centered',      cacheable: false,      group: '',      destination: destAnchor.attr('href')    });  }, 0);  return false;}</script>
+<div id="advice-quote-list-dpReviewsBucketSummary-0345409469" class="noLinkDecoration searchTemplate fl" style="margin-left: 20px;"><div style="padding-bottom: 22px;"><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-0" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22" title="Read the full review by My Uncle Stu" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/R3185GQV1HFIKG">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">I love Carl </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_0&asin=0345409469&quoteID=0345409469-R3185GQV1HFIKG-1-86-22"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22" title="Read the full review by My Uncle Stu" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/R3185GQV1HFIKG">Sagan!        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3185GQV1HFIKG-1-86-22_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_0&asin=0345409469&quoteID=0345409469-R3185GQV1HFIKG-1-86-22"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-0"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">My Uncle Stu</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">160&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div><div style="padding-bottom: 22px;"><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-1" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64" title="Read the full review by Skoro" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/R3AVEC7H7YZ3VU">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">The book is an easy and engaging read that holds your </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_1&asin=0345409469&quoteID=0345409469-R3AVEC7H7YZ3VU-1-1177-64"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64" title="Read the full review by Skoro" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/R3AVEC7H7YZ3VU">interest.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-R3AVEC7H7YZ3VU-1-1177-64_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_1&asin=0345409469&quoteID=0345409469-R3AVEC7H7YZ3VU-1-1177-64"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-1"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">Skoro</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">69&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div><div ><!--[if IE]><div style="margin-top: -5px;"><![endif]-->  <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; display:block; top: -1px; left: -1px;" class="fl">&#8220;</span>  <span id="advice-quote-2" style="margin: 0 0 0 12px;" class="block">    <span style="position:relative; ^left:-4px;" class="block">      <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62" id="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62" title="Read the full review by Avid Reader" style="text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/ROWGGCTQ6WIMA">        <span style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;">The book should be required reading for high school </span>      </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_2&asin=0345409469&quoteID=0345409469-ROWGGCTQ6WIMA-1-2514-62"></a><![if !IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;" class="inlineblock"><![endif]><!--[if IE]><span style="white-space:nowrap;font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;"><![endif]-->        <a name="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62" id="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62" title="Read the full review by Avid Reader" style="font-family:Georgia,Verdana,Arial,Helvetica,Sans-serif; font-style:italic; font-size:14px; line-height: 20px; color:#333;text-decoration:none; cursor: pointer;" onclick="return displayReviewPopover(this);" href="https://www.amazon.com/review/ROWGGCTQ6WIMA">students.        </a><a style="display:none" id="advice-quote-list-dpReviewsBucketSummary-0345409469-ROWGGCTQ6WIMA-1-2514-62_hide" href="/gp/shopping-advice/common/du/displayReviewLightboxForQuoteAjax.html?ie=UTF8&ref=cm_cr_quotes_dprb_2&asin=0345409469&quoteID=0345409469-ROWGGCTQ6WIMA-1-2514-62"></a>        <span style="font-family:Georgia,Times New Roman,New Century Schoolbook,Times,Serif; font-style:italic; font-size:22px; color: #333; vertical-align: top; position: relative; top: -1px; margin-right: 2px;">&#8221;</span>      </span>    </span>    <span style="margin-top:-5px;" class="block"><!--[if IE]><span style="margin-top: -5px;"><![endif]-->      <span id="advice-quote-author-2"><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">Avid Reader</span><span style="color:#999;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span style="color:#666;font-family:Arial,Verdana,Helvetica,Sans-serif; font-style:normal; font-size:12px; line-height: 36px;;">50&nbsp;reviewers made a similar statement</span>      </span><!--[if IE]></span><![endif]-->    </span>  </span><!--[if IE]></div><![endif]--></div></div><script type="text/javascript">;function displayReviewPopover(link) {  if('ontouchstart' in document.documentElement) return true;  link = jQuery(link);  var destAnchor = jQuery('#' + link.attr('name') + '_hide');  if(!destAnchor.length || !destAnchor.attr('href')) { return true; }  setTimeout(function() {    var popover = jQuery.AmazonPopover.displayPopover({      showOnHover: false,      modal: true,      title: null,      width: '824px',      align: 'middle',      paddingLeft: 20,      paddingRight: 20,      paddingBottom: 10,      showCloseButton: true,      closeText: 'Close',      location: 'centered',      cacheable: false,      group: '',      destination: destAnchor.attr('href')    });  }, 0);  return false;}</script>
 
 
 
@@ -9266,7 +9266,7 @@ h3.authorQAHeader img {
 <div id="rev-dpReviewsMostHelpful-R2XO2LA6QE42T1" class="reviews" >  <div class="gry txtsmall hlp">352 of 365 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
-<a href="http://www.amazon.com/review/R2XO2LA6QE42T1" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>A Candle in the Dark</strong></a><span class="gry valignMiddle">
+<a href="https://www.amazon.com/review/R2XO2LA6QE42T1" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>A Candle in the Dark</strong></a><span class="gry valignMiddle">
 
 
 
@@ -9283,8 +9283,8 @@ h3.authorQAHeader img {
 
 
 
-<span class="txtsmall"><span class="gry">By</span> <a href="http://www.amazon.com/gp/pdp/profile/A2XWU6Y8PF8L17" class="noTextDecoration">CreepyT</a></span>
-</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#vn" class="noTextDecoration" ><span class='c7yBadge VN-1'>VINE&#8482; VOICE</span></a></span>
+<span class="txtsmall"><span class="gry">By</span> <a href="https://www.amazon.com/gp/pdp/profile/A2XWU6Y8PF8L17" class="noTextDecoration">CreepyT</a></span>
+</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#vn" class="noTextDecoration" ><span class='c7yBadge VN-1'>VINE&#8482; VOICE</span></a></span>
 
 
 </div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation"><span class="gr3 gry formatKey">Format:</span><span class="formatValue">Paperback</span></span></div>  <div class="mt9 reviewText">
@@ -9306,7 +9306,7 @@ h3.authorQAHeader img {
 
 
 
-<a href="http://www.amazon.com/review/R2XO2LA6QE42T1" class="noTextDecoration">12 Comments</a>
+<a href="https://www.amazon.com/review/R2XO2LA6QE42T1" class="noTextDecoration">12 Comments</a>
  <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
 
 
@@ -9336,7 +9336,7 @@ h3.authorQAHeader img {
     } else {
       messageContainer.html('Thank you for your feedback.');
       if (isNoButton == 1) {
-        messageContainer.append('<span class="black gl5">If this review is inappropriate, <a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2XO2LA6QE42T1/Inappropriate/1?ie=UTF8&token=77ECC34F23F9BE99934531B5504582EE04E55D80&target=&voteAnchorName=R2XO2LA6QE42T1.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000" class="noTextDecoration" style="color: #039;" >please let us know.</a></span>');
+        messageContainer.append('<span class="black gl5">If this review is inappropriate, <a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2XO2LA6QE42T1/Inappropriate/1?ie=UTF8&token=77ECC34F23F9BE99934531B5504582EE04E55D80&target=&voteAnchorName=R2XO2LA6QE42T1.2115.Inappropriate.Reviews&voteSessionID=000-0000000-0000000" class="noTextDecoration" style="color: #039;" >please let us know.</a></span>');
       }
       messageContainer.addClass('green');
     }
@@ -9383,13 +9383,13 @@ h3.authorQAHeader img {
    <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2XO2LA6QE42T1/Helpful/1?ie=UTF8&token=A23248E5F2C09E665A4A5E922D5301B1D21AA594&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=R2XO2LA6QE42T1.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2XO2LA6QE42T1/Helpful/1?ie=UTF8&token=A23248E5F2C09E665A4A5E922D5301B1D21AA594&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=R2XO2LA6QE42T1.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
   <span class="btn-small txtsmall">Yes</span>
 </a></div>
    <div class="fl mtNegative3 votingButtonReviews noButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R2XO2LA6QE42T1/Helpful/-1?ie=UTF8&token=94B0FBA8549D871BC411C1505586C54B1A661813&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=R2XO2LA6QE42T1.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R2XO2LA6QE42T1/Helpful/-1?ie=UTF8&token=94B0FBA8549D871BC411C1505586C54B1A661813&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=R2XO2LA6QE42T1.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
   <span class="btn-small txtsmall">No</span>
 </a></div>
   </div>
@@ -9413,7 +9413,7 @@ h3.authorQAHeader img {
 <div id="rev-dpReviewsMostHelpful-RF6WQ3VMSADWP" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">236 of 246 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
-<a href="http://www.amazon.com/review/RF6WQ3VMSADWP" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>Sagan took the road less travelled......</strong></a><span class="gry valignMiddle">
+<a href="https://www.amazon.com/review/RF6WQ3VMSADWP" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>Sagan took the road less travelled......</strong></a><span class="gry valignMiddle">
 
 
 
@@ -9428,7 +9428,7 @@ h3.authorQAHeader img {
 
 
 
-<span class="txtsmall"><span class="gry">By</span> <a href="http://www.amazon.com/gp/pdp/profile/A134FLH2KNA0JU" class="noTextDecoration">Roger McEvilly (the guilty bystander)</a></span>
+<span class="txtsmall"><span class="gry">By</span> <a href="https://www.amazon.com/gp/pdp/profile/A134FLH2KNA0JU" class="noTextDecoration">Roger McEvilly (the guilty bystander)</a></span>
 </span>
 
 
@@ -9446,7 +9446,7 @@ h3.authorQAHeader img {
 
 
 
-<a href="http://www.amazon.com/review/RF6WQ3VMSADWP" class="noTextDecoration">Comment</a>
+<a href="https://www.amazon.com/review/RF6WQ3VMSADWP" class="noTextDecoration">Comment</a>
  <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
 
 
@@ -9463,13 +9463,13 @@ h3.authorQAHeader img {
    <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/RF6WQ3VMSADWP/Helpful/1?ie=UTF8&token=4123A24FF313C0331E6D98063274D974B20A498E&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=RF6WQ3VMSADWP.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/RF6WQ3VMSADWP/Helpful/1?ie=UTF8&token=4123A24FF313C0331E6D98063274D974B20A498E&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=RF6WQ3VMSADWP.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
   <span class="btn-small txtsmall">Yes</span>
 </a></div>
    <div class="fl mtNegative3 votingButtonReviews noButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/RF6WQ3VMSADWP/Helpful/-1?ie=UTF8&token=F57CA30576567295E03BA79ACF61CCB0409E9957&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=RF6WQ3VMSADWP.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/RF6WQ3VMSADWP/Helpful/-1?ie=UTF8&token=F57CA30576567295E03BA79ACF61CCB0409E9957&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=RF6WQ3VMSADWP.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
   <span class="btn-small txtsmall">No</span>
 </a></div>
   </div>
@@ -9493,7 +9493,7 @@ h3.authorQAHeader img {
 <div id="rev-dpReviewsMostHelpful-R3185GQV1HFIKG" class="reviews" style="margin-top:30px;">  <div class="gry txtsmall hlp">208 of 219 people found the following review helpful</div>  <div class="clearboth"></div>  <div class="mt4 ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
-<a href="http://www.amazon.com/review/R3185GQV1HFIKG" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>I wish I could give it Billions Upon Billions of stars!</strong></a><span class="gry valignMiddle">
+<a href="https://www.amazon.com/review/R3185GQV1HFIKG" class="txtlarge gl3 gr4 reviewTitle valignMiddle"><strong>I wish I could give it Billions Upon Billions of stars!</strong></a><span class="gry valignMiddle">
 
 
 
@@ -9508,8 +9508,8 @@ h3.authorQAHeader img {
 
 
 
-<span class="txtsmall"><span class="gry">By</span> <a href="http://www.amazon.com/gp/pdp/profile/A1C4PZDQ84I9MA" class="noTextDecoration">My Uncle Stu</a></span>
-</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#vn" class="noTextDecoration" ><span class='c7yBadge VN-1'>VINE&#8482; VOICE</span></a></span>
+<span class="txtsmall"><span class="gry">By</span> <a href="https://www.amazon.com/gp/pdp/profile/A1C4PZDQ84I9MA" class="noTextDecoration">My Uncle Stu</a></span>
+</span><span class="gr8"><a onclick="return amz_js_PopWin(this.href,'AmazonHelp','width=340,height=340,resizable=1,scrollbars=1,toolbar=1,status=1');" target="AmazonHelp" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=14279681&pop-up=1#vn" class="noTextDecoration" ><span class='c7yBadge VN-1'>VINE&#8482; VOICE</span></a></span>
 
 
 </div>  <div class="txtsmall mt4 fvavp"><span class="inlineblock formatVariation"><span class="gr3 gry formatKey">Format:</span><span class="formatValue">Paperback</span></span></div>  <div class="mt9 reviewText">
@@ -9531,7 +9531,7 @@ h3.authorQAHeader img {
 
 
 
-<a href="http://www.amazon.com/review/R3185GQV1HFIKG" class="noTextDecoration">6 Comments</a>
+<a href="https://www.amazon.com/review/R3185GQV1HFIKG" class="noTextDecoration">6 Comments</a>
  <span class="gry gr4 gl4">|</span>&#160;</div>    <div class="vt">
 
 
@@ -9548,13 +9548,13 @@ h3.authorQAHeader img {
    <div class="fl mr6 mtNegative3 votingButtonReviews yesButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R3185GQV1HFIKG/Helpful/1?ie=UTF8&token=555B54D38653A5AA0E2ABFCEDE0A3B2FC49A4E0C&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=R3185GQV1HFIKG.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R3185GQV1HFIKG/Helpful/1?ie=UTF8&token=555B54D38653A5AA0E2ABFCEDE0A3B2FC49A4E0C&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=R3185GQV1HFIKG.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="Yes">
   <span class="btn-small txtsmall">Yes</span>
 </a></div>
    <div class="fl mtNegative3 votingButtonReviews noButton" >
 
 
-<a href="http://www.amazon.com/gp/voting/cast/Reviews/2115/R3185GQV1HFIKG/Helpful/-1?ie=UTF8&token=D10D900106AE3A4F2DB8D9F0D87F4E201C2ECADA&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=R3185GQV1HFIKG.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
+<a href="https://www.amazon.com/gp/voting/cast/Reviews/2115/R3185GQV1HFIKG/Helpful/-1?ie=UTF8&token=D10D900106AE3A4F2DB8D9F0D87F4E201C2ECADA&target=aHR0cDovL3d3dy5hbWF6b24uY29tL2dwL3Byb2R1Y3QvMDM0NTQwOTQ2OQ&voteAnchorName=R3185GQV1HFIKG.2115.Helpful.Reviews&voteSessionID=000-0000000-0000000" class="amzn-btn btn-sec border-one rounded-standard" title="No">
   <span class="btn-small txtsmall">No</span>
 </a></div>
   </div>
@@ -9587,7 +9587,7 @@ h3.authorQAHeader img {
 
 <div>
   <b class="h3color txtsmall">&rsaquo;</b>
-  <a id="seeAllReviewsUrl" href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="txtlarge noTextDecoration">
+  <a id="seeAllReviewsUrl" href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="txtlarge noTextDecoration">
     <strong>
       See all 486 customer reviews
     </strong>
@@ -9606,7 +9606,7 @@ h3.authorQAHeader img {
       </div>
     </div>
     <div class="pr7 mb30" style="width: 305px;">
-      <div style="padding-bottom: 20px"><script type='text/javascript'>var paCusRevAllURL = "http://product-ads-portal.amazon.com/gp/synd/?asin=0345409469&pAsin=&gl=14&sq=&sa=&se=&noo=1&pt=Detail&spt=Glance&sn=customer-reviews-top&pRID=02NA062AN8Y3KQS0FFWW&ts=1341220460&h=928EA41142D20E8ADAC92FDCD6DD00E8D731B851";</script></div>
+      <div style="padding-bottom: 20px"><script type='text/javascript'>var paCusRevAllURL = "https://product-ads-portal.amazon.com/gp/synd/?asin=0345409469&pAsin=&gl=14&sq=&sa=&se=&noo=1&pt=Detail&spt=Glance&sn=customer-reviews-top&pRID=02NA062AN8Y3KQS0FFWW&ts=1341220460&h=928EA41142D20E8ADAC92FDCD6DD00E8D731B851";</script></div>
       <div>
 
 
@@ -9617,7 +9617,7 @@ h3.authorQAHeader img {
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt14" title="Read the full review by REP" >  <div id="rev-dpReviewsMostRecent-R2OKN93JJWIGFD" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt14" title="Read the full review by REP" >  <div id="rev-dpReviewsMostRecent-R2OKN93JJWIGFD" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>It changed my life!</strong></span></div>    <div class="reviewText">
@@ -9638,7 +9638,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 20 days ago by REP</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by Queote" >  <div id="rev-dpReviewsMostRecent-R2P51QBEWPSAFK" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by Queote" >  <div id="rev-dpReviewsMostRecent-R2P51QBEWPSAFK" class="block">    <div class="ttl"><span title="4.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>The Deamon Haunted World</strong></span></div>    <div class="reviewText">
@@ -9659,7 +9659,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 1 month ago by Queote</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by Shanmuganathan Raman" >  <div id="rev-dpReviewsMostRecent-RM43JO7E61DM7" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by Shanmuganathan Raman" >  <div id="rev-dpReviewsMostRecent-RM43JO7E61DM7" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Excellent Introduction to Skeptical Thinking</strong></span></div>    <div class="reviewText">
@@ -9680,7 +9680,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 1 month ago by Shanmuganathan Raman</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by Steve G" >  <div id="rev-dpReviewsMostRecent-R5LZKX0MBM3AL" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by Steve G" >  <div id="rev-dpReviewsMostRecent-R5LZKX0MBM3AL" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Can't go wrong with Sagan</strong></span></div>    <div class="reviewText">
@@ -9701,7 +9701,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 1 month ago by Steve G</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by Andrew" >  <div id="rev-dpReviewsMostRecent-R1IIB9HVYQFYTD" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by Andrew" >  <div id="rev-dpReviewsMostRecent-R1IIB9HVYQFYTD" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Amazing</strong></span></div>    <div class="reviewText">
@@ -9722,7 +9722,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 1 month ago by Andrew</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by MikeDuran" >  <div id="rev-dpReviewsMostRecent-R22N9TI1I3VR0S" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by MikeDuran" >  <div id="rev-dpReviewsMostRecent-R22N9TI1I3VR0S" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Fantastic</strong></span></div>    <div class="reviewText">
@@ -9743,7 +9743,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 1 month ago by MikeDuran</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by HogMan" >  <div id="rev-dpReviewsMostRecent-R27M9GA5QEBHO8" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by HogMan" >  <div id="rev-dpReviewsMostRecent-R27M9GA5QEBHO8" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Eye Opening Book</strong></span></div>    <div class="reviewText">
@@ -9764,7 +9764,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 1 month ago by HogMan</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by No One" >  <div id="rev-dpReviewsMostRecent-R243TVJ9E7WJR7" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by No One" >  <div id="rev-dpReviewsMostRecent-R243TVJ9E7WJR7" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Very Inspiring Second Half (-- if you get through the first)</strong></span></div>    <div class="reviewText">
@@ -9785,7 +9785,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 3 months ago by No One</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by L. Lucero" >  <div id="rev-dpReviewsMostRecent-R25I2L0YGYPNMB" class="block">    <div class="ttl"><span title="3.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by L. Lucero" >  <div id="rev-dpReviewsMostRecent-R25I2L0YGYPNMB" class="block">    <div class="ttl"><span title="3.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallEmpty " ></span><span class="swSprite s_starSmallEmpty " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Not impressed</strong></span></div>    <div class="reviewText">
@@ -9806,7 +9806,7 @@ h3.authorQAHeader img {
 
 <span class="gry txtsmall">Published 4 months ago by L. Lucero</span>
 </div>  </div></a>
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by LyndsayJF" >  <div id="rev-dpReviewsMostRecent-R3QA477597YZP5" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/product-reviews/0345409469" class="reviewTitle inlineblock mt17" title="Read the full review by LyndsayJF" >  <div id="rev-dpReviewsMostRecent-R3QA477597YZP5" class="block">    <div class="ttl"><span title="5.0 out of 5 stars"><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span><span class="swSprite s_starSmallFull " ></span></span>
 
 
 <span class="txtlarge gl3 valignMiddle"><strong>Fascinating Book</strong></span></div>    <div class="reviewText">
@@ -9846,7 +9846,7 @@ h3.authorQAHeader img {
 
 
 
-<FORM method="GET" action="http://www.amazon.com/gp/community-content-search/results/" style="padding:0; margin:0;"> 
+<FORM method="GET" action="https://www.amazon.com/gp/community-content-search/results/" style="padding:0; margin:0;"> 
 
   <div class="txtlarge mb5">
     <strong>
@@ -9948,7 +9948,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
     <span class="quorus-product-identifier-value">0345409469</span>
   </div>
   <h2 class="quorus-product-name">The Demon-Haunted World: Science as a Candle in the Dark</h2>
-  <img src="http://ecx.images-amazon.com/images/I/519oGbGHO5L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS500_.jpg" width="500" class="quorus-product-photo" height="500" border="0" />
+  <img src="https://ecx.images-amazon.com/images/I/519oGbGHO5L._SL500_PIsitb-sticker-arrow-big,TopRight,35,-73_OU01_SS500_.jpg" width="500" class="quorus-product-photo" height="500" border="0" />
   
 
 
@@ -9956,7 +9956,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/0345409469" class="quorus-product-url">link</a>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/0345409469" class="quorus-product-url">link</a>
 
 </div>
 
@@ -10123,7 +10123,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
   <ul class="nav_browse_ul nav_browse_cat_ul">
     <li class="nav_pop_li nav_browse_cat_head">Home, Garden &amp; Pets</li>
 <li class="nav_pop_li "><a href="/kitchen-dining-small-appliances-cookware/b?ie=UTF8&node=284507" class="nav_a">Kitchen & Dining</a></li>
-<li class="nav_pop_li "><a href="/furniture-decor-rugs-lamps-beds-tv-stands/b?ie=UTF8&node=1057794" class="nav_a">Furniture & Décor</a></li>
+<li class="nav_pop_li "><a href="/furniture-decor-rugs-lamps-beds-tv-stands/b?ie=UTF8&node=1057794" class="nav_a">Furniture & Dï¿½cor</a></li>
 <li class="nav_pop_li "><a href="/bedding-bath-sheets-towels/b?ie=UTF8&node=1057792" class="nav_a">Bedding & Bath</a></li>
 <li class="nav_pop_li "><a href="/Appliances/b?ie=UTF8&node=2619525011" class="nav_a">Appliances</a></li>
 <li class="nav_pop_li  nav_divider_before"><a href="/Patio-Lawn-Garden/b?ie=UTF8&node=2972638011" class="nav_a">Patio, Lawn & Garden</a></li>
@@ -10357,7 +10357,7 @@ amznJQ.onCompletion('amznJQ.criticalFeature', function() {
 
 
 _navbar.prefetch = function() {
-amznJQ.addPL(['http://z-ecx.images-amazon.com/images/G/01/browser-scripts/registriesCSS/US-combined-2698093832._V144234652_.css',
+amznJQ.addPL(['https://z-ecx.images-amazon.com/images/G/01/browser-scripts/registriesCSS/US-combined-2698093832._V144234652_.css',
 'https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/us-site-wide-css-beacon/site-wide-9265404329._V1_.css',
 'https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-css-buttons/wcs-css-buttons-3112498172._V1_.css',
 'https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-cn-merged/wcs-ya-homepage-cn-merged-714969038._V1_.css',
@@ -10429,7 +10429,7 @@ amznJQ.addPL(['http://z-ecx.images-amazon.com/images/G/01/browser-scripts/regist
         right: 0;
         width: 10px;
         height: 34px;
-        background: url("http://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/sprite-shvl-divider-stretch._V137129574_.png") repeat-y scroll 0 0 white;
+        background: url("https://g-ecx.images-amazon.com/images/G/01/nav2/images/gui/sprite-shvl-divider-stretch._V137129574_.png") repeat-y scroll 0 0 white;
     }
 
     #wikipediaDp_outerContainer div#wikipediaDp_textContent {
@@ -10482,7 +10482,7 @@ The book is intended to explain the scientific method to laypeople, and to encou
 </div>
     <div class="wikipediaDp_attribution">
         <div><b>Attribution:</b> The information appearing above in this tab is from Wikipedia:
-        <a href="/gp/redirect.html?location=http://en.wikipedia.org/wiki/The_Demon-Haunted_World&amp;token=2EC89C10272D58B69C7E33C34E2049E797FCA814" rel="nofollow" target="_blank">The Demon-Haunted World</a>. Amazon is not affiliated with, and neither endorses, nor is endorsed by Wikipedia or any of the authors who contributed to this article. The Wikipedia content may be available under the Creative Commons Attribution-ShareAlike License, version 3.0 or any later version, available at: <a href="/gp/redirect.html?location=http://creativecommons.org/licenses/by-sa/3.0/&amp;token=6E0FCF1CD0A2109D0BFEB169E69471DC1420BF36" rel="nofollow" target="_blank">CC BY-SA</a>. Additional or other terms may apply. See <a href="/gp/redirect.html?location=http://wikimediafoundation.org/wiki/Terms_of_Use&amp;token=4DF6DF40971AA18B7A85DDA73E33051F978745B0" rel="nofollow" target="_blank">Wikipedia Terms of Use</a> for details.
+        <a href="/gp/redirect.html?location=https://en.wikipedia.org/wiki/The_Demon-Haunted_World&amp;token=2EC89C10272D58B69C7E33C34E2049E797FCA814" rel="nofollow" target="_blank">The Demon-Haunted World</a>. Amazon is not affiliated with, and neither endorses, nor is endorsed by Wikipedia or any of the authors who contributed to this article. The Wikipedia content may be available under the Creative Commons Attribution-ShareAlike License, version 3.0 or any later version, available at: <a href="/gp/redirect.html?location=https://creativecommons.org/licenses/by-sa/3.0/&amp;token=6E0FCF1CD0A2109D0BFEB169E69471DC1420BF36" rel="nofollow" target="_blank">CC BY-SA</a>. Additional or other terms may apply. See <a href="/gp/redirect.html?location=https://wikimediafoundation.org/wiki/Terms_of_Use&amp;token=4DF6DF40971AA18B7A85DDA73E33051F978745B0" rel="nofollow" target="_blank">Wikipedia Terms of Use</a> for details.
         </div>
     </div>
 </div>
@@ -10516,8 +10516,8 @@ The book is intended to explain the scientific method to laypeople, and to encou
             <div id="wikipediaDp_fbCharactersLeft">500 characters left</div>
         </div>
         <div id="wikipediaDp_fbButtons">
-            <input id="wikipediaDp_fbSubmit" type="image" src="http://g-ecx.images-amazon.com/images/G/01/buttons/submit-button._V192192262_.gif" />
-            <input id="wikipediaDp_fbCancel" type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/buttons/cancel-secondary._V192192746_.gif" />
+            <input id="wikipediaDp_fbSubmit" type="image" src="https://g-ecx.images-amazon.com/images/G/01/buttons/submit-button._V192192262_.gif" />
+            <input id="wikipediaDp_fbCancel" type="image" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/buttons/cancel-secondary._V192192746_.gif" />
         </div>
         <div id="wikipediaDp_fbDisclaimer">Your feedback is valuable and will be considered.</div>
     </form>
@@ -10525,7 +10525,7 @@ The book is intended to explain the scientific method to laypeople, and to encou
 </div>
 <div id="wikipediaDp_fbSendingMessage" style="display: none;">
     <div style="padding: 12px 0;">
-    <center><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/loading/spinner_large_no-border._V192251197_.gif" width="52" alt="Loading..." height="52" border="0" /></center>
+    <center><img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/loading/spinner_large_no-border._V192251197_.gif" width="52" alt="Loading..." height="52" border="0" /></center>
     </div>
 </div>
 <div id="wikipediaDp_fbSuccessfulMessage" style="display: none;">
@@ -10676,7 +10676,7 @@ amznJQ.onReady('jQuery', function() {
   <table width="100%" cellspacing=0 ><tr>
     <td class="tinypopup">Search Inside This Book:</td> 
     <td><input id="sitb-pop-inputbox" class="sitb-pop-inputbox" name="keywords" value="" /></td>
-	<td><input type="image" src="http://g-ecx.images-amazon.com/images/G/01/search-browse/dp-popover-go-button._V156409071_.png"  width="21" alt="Go!" value="Go!" name="go" height="21" border="0" /></td>
+	<td><input type="image" src="https://g-ecx.images-amazon.com/images/G/01/search-browse/dp-popover-go-button._V156409071_.png"  width="21" alt="Go!" value="Go!" name="go" height="21" border="0" /></td>
     </tr>
   </table>
  </form>
@@ -10756,14 +10756,14 @@ United States, New Age, Soviet Union, New York, Albert Einstein, World War, Ann 
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/sitb-next/0345409469#concordance">Concordance</a>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/sitb-next/0345409469#concordance">Concordance</a>
  | 
 
 
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/sitb-next/0345409469#textstats">Text&nbsp;Stats</a>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/sitb-next/0345409469#textstats">Text&nbsp;Stats</a>
 
 <div class="spacer"></div>
 
@@ -10794,7 +10794,7 @@ United States, New Age, Soviet Union, New York, Albert Einstein, World War, Ann 
       <td nowrap="nowrap">
             <b>Search Inside This Book:</b><br />
             <input id="sitb-body-inputbox" name="keywords" value="" size="22" />
-            <input type="image" src="http://g-ecx.images-amazon.com/images/G/01/search-browse/dp-popover-go-button._V156409071_.png"  width="21" alt="Go!" value="Go!" name="go" id="sitb-body-gobutton" height="21" border="0" />
+            <input type="image" src="https://g-ecx.images-amazon.com/images/G/01/search-browse/dp-popover-go-button._V156409071_.png"  width="21" alt="Go!" value="Go!" name="go" id="sitb-body-gobutton" height="21" border="0" />
       </td>
     </tr>
   </table>
@@ -10819,7 +10819,7 @@ books:
 
 
 
-<a href="http://www.amazon.com/The-Courage-Heal-Expanded-Survivors/dp/0060950668">The Courage to Heal - Third Edition - Revised and Expanded: A Guide for Women Survivors of Child Sexual Abuse</a>
+<a href="https://www.amazon.com/The-Courage-Heal-Expanded-Survivors/dp/0060950668">The Courage to Heal - Third Edition - Revised and Expanded: A Guide for Women Survivors of Child Sexual Abuse</a>
 
 by Ellen Bass
 on <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S04X&amp;checkSum=nQFluM8kyRYsqTaykD9IeYxiRvGjOtPDROs2jvi%2FRuQ%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(177, 'nQFluM8kyRYsqTaykD9IeYxiRvGjOtPDROs2jvi/RuQ=', 'sib_ab_dp_pg'); return false; }">page 158</a>, <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S07A&amp;checkSum=nQFluM8kyRZdzbP6lL3FeY6wCM7%2BtXHN6rMfhk7WUvE%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(262, 'nQFluM8kyRZdzbP6lL3FeY6wCM7+tXHN6rMfhk7WUvE=', 'sib_ab_dp_pg'); return false; }">page 243</a>, and <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S0CT&amp;checkSum=nQFluM8kyRaA7XMYn6FOlhPBSGP8mA1rhabCisrcfug%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(461, 'nQFluM8kyRaA7XMYn6FOlhPBSGP8mA1rhabCisrcfug=', 'sib_ab_dp_pg'); return false; }">Back Matter</a></li><li> 
@@ -10829,7 +10829,7 @@ on <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S04X&amp;checkSum=nQFluM8kyRYsqT
 
 
 
-<a href="http://www.amazon.com/Path-Where-No-Man-Thought/dp/0517080931">A Path Where No Man Thought</a>
+<a href="https://www.amazon.com/Path-Where-No-Man-Thought/dp/0517080931">A Path Where No Man Thought</a>
 
 by Carl Sagan
 in <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S005&amp;checkSum=nQFluM8kyRY6Ru9y9gGxHWBgU9J2wSe2XY%2BGtB8u4%2Bk%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(5, 'nQFluM8kyRY6Ru9y9gGxHWBgU9J2wSe2XY+GtB8u4+k=', 'sib_ab_dp_pg'); return false; }">Front Matter</a>, and <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S0CX&amp;checkSum=nQFluM8kyRYg6Tph8CzQKWtsss7y9yElRe3uPAzRLeU%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(465, 'nQFluM8kyRYg6Tph8CzQKWtsss7y9yElRe3uPAzRLeU=', 'sib_ab_dp_pg'); return false; }">Back Matter</a></li><li> 
@@ -10839,7 +10839,7 @@ in <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S005&amp;checkSum=nQFluM8kyRY6Ru
 
 
 
-<a href="http://www.amazon.com/The-New-Inquisition-Robert-Wilson/dp/1561840025">The New Inquisition</a>
+<a href="https://www.amazon.com/The-New-Inquisition-Robert-Wilson/dp/1561840025">The New Inquisition</a>
 
 by Robert Wilson
 on <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S08W&amp;checkSum=nQFluM8kyRauogj27oq%2FIdHqsjhK%2FqNb98M5VlkQVn4%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(320, 'nQFluM8kyRauogj27oq/IdHqsjhK/qNb98M5VlkQVn4=', 'sib_ab_dp_pg'); return false; }">page 301</a>, and <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S0CX&amp;checkSum=nQFluM8kyRYg6Tph8CzQKWtsss7y9yElRe3uPAzRLeU%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(465, 'nQFluM8kyRYg6Tph8CzQKWtsss7y9yElRe3uPAzRLeU=', 'sib_ab_dp_pg'); return false; }">Back Matter</a></li><li> 
@@ -10849,7 +10849,7 @@ on <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S08W&amp;checkSum=nQFluM8kyRauog
 
 
 
-<a href="http://www.amazon.com/Decline-Fall-Roman-Empire-Vol/dp/0809592371">The Decline and Fall of the Roman Empire, Vol. 3</a>
+<a href="https://www.amazon.com/Decline-Fall-Roman-Empire-Vol/dp/0809592371">The Decline and Fall of the Roman Empire, Vol. 3</a>
 
 by Edward Gibbon
 on <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S041&amp;checkSum=nQFluM8kyRZ4j6vNqGphHGpnn0lUAovssEg7LOsnvEU%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(145, 'nQFluM8kyRZ4j6vNqGphHGpnn0lUAovssEg7LOsnvEU=', 'sib_ab_dp_pg'); return false; }">page 126</a>, and <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S0CS&amp;checkSum=nQFluM8kyRZXttYCIoEgINmz%2FkmOJ%2F5Le1AGysjmwJg%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(460, 'nQFluM8kyRZXttYCIoEgINmz/kmOJ/5Le1AGysjmwJg=', 'sib_ab_dp_pg'); return false; }">Back Matter</a></li><li> 
@@ -10859,15 +10859,15 @@ on <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S041&amp;checkSum=nQFluM8kyRZ4j6
 
 
 
-<a href="http://www.amazon.com/The-Decline-Fall-Roman-Empire/dp/1579125220">The Decline and Fall of the Roman Empire</a>
+<a href="https://www.amazon.com/The-Decline-Fall-Roman-Empire/dp/1579125220">The Decline and Fall of the Roman Empire</a>
 
 by Edward Gibbon
-on <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S041&amp;checkSum=nQFluM8kyRZ4j6vNqGphHGpnn0lUAovssEg7LOsnvEU%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(145, 'nQFluM8kyRZ4j6vNqGphHGpnn0lUAovssEg7LOsnvEU=', 'sib_ab_dp_pg'); return false; }">page 126</a>, and <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S0CS&amp;checkSum=nQFluM8kyRZXttYCIoEgINmz%2FkmOJ%2F5Le1AGysjmwJg%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(460, 'nQFluM8kyRZXttYCIoEgINmz/kmOJ/5Le1AGysjmwJg=', 'sib_ab_dp_pg'); return false; }">Back Matter</a></li></ul><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/orange-arrow._V192240581_.gif" width="10" height="9" border="0" />
+on <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S041&amp;checkSum=nQFluM8kyRZ4j6vNqGphHGpnn0lUAovssEg7LOsnvEU%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(145, 'nQFluM8kyRZ4j6vNqGphHGpnn0lUAovssEg7LOsnvEU=', 'sib_ab_dp_pg'); return false; }">page 126</a>, and <a href="/gp/reader/0345409469?ie=UTF8&amp;p=S0CS&amp;checkSum=nQFluM8kyRZXttYCIoEgINmz%2FkmOJ%2F5Le1AGysjmwJg%3D" onclick="if (typeof(SitbReader) != 'undefined') { SitbReader.LightboxActions.openReaderToPage(460, 'nQFluM8kyRZXttYCIoEgINmz/kmOJ/5Le1AGysjmwJg=', 'sib_ab_dp_pg'); return false; }">Back Matter</a></li></ul><img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/orange-arrow._V192240581_.gif" width="10" height="9" border="0" />
 
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/book-citations/0345409469#citing"><b>See all 89 books this book cites</b></a>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/book-citations/0345409469#citing"><b>See all 89 books this book cites</b></a>
 <br /><div class="spacer">&nbsp;</div>
 <a name='cited' ></a><b>
 100 
@@ -10880,7 +10880,7 @@ cite this book:
 
 
 
-<a href="http://www.amazon.com/Conversations-Carl-Sagan-Literary/dp/1578067367">Conversations with Carl Sagan (Literary Conversations)</a>
+<a href="https://www.amazon.com/Conversations-Carl-Sagan-Literary/dp/1578067367">Conversations with Carl Sagan (Literary Conversations)</a>
 
 by Tom Head
 on 
@@ -10888,7 +10888,7 @@ on
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/book-citations/0345409469#cited">5 pages</a>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/book-citations/0345409469#cited">5 pages</a>
 </li><li> 
 
 
@@ -10896,7 +10896,7 @@ on
 
 
 
-<a href="http://www.amazon.com/Screams-Reason-Science-Modern-Culture/dp/039304582X">Screams of Reason: Mad Science and Modern Culture</a>
+<a href="https://www.amazon.com/Screams-Reason-Science-Modern-Culture/dp/039304582X">Screams of Reason: Mad Science and Modern Culture</a>
 
 by David J. Skal
 on 
@@ -10904,7 +10904,7 @@ on
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/book-citations/0345409469#cited">4 pages</a>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/book-citations/0345409469#cited">4 pages</a>
 </li><li> 
 
 
@@ -10912,7 +10912,7 @@ on
 
 
 
-<a href="http://www.amazon.com/Picturing-Extraterrestrials-Images-Modern-Culture/dp/1573929905">Picturing Extraterrestrials: Alien Images in Modern Mass Culture</a>
+<a href="https://www.amazon.com/Picturing-Extraterrestrials-Images-Modern-Culture/dp/1573929905">Picturing Extraterrestrials: Alien Images in Modern Mass Culture</a>
 
 by John F. Moffitt
 on <a href="/gp/reader/1573929905?ie=UTF8&amp;p=S01R&amp;checkSum=nQFluM8kyRbCloPty44m2cpi8D2wwweYKz%2B6GxTH4UQ%3D" >page 57</a>, <a href="/gp/reader/1573929905?ie=UTF8&amp;p=S0G3&amp;checkSum=nQFluM8kyRaKpuiche4j4z6xFPe4EwbK3%2FA3zAsADso%3D" >Back Matter (1)</a>, and <a href="/gp/reader/1573929905?ie=UTF8&amp;p=S0GL&amp;checkSum=nQFluM8kyRbbOn2XGTZraWrudrR8%2BqTBhPmWViR0iG4%3D" >Back Matter (2)</a></li><li> 
@@ -10922,7 +10922,7 @@ on <a href="/gp/reader/1573929905?ie=UTF8&amp;p=S01R&amp;checkSum=nQFluM8kyRbClo
 
 
 
-<a href="http://www.amazon.com/Faith-Nature-Environmentalism-Weyerhaeuser-Environmental/dp/0295983973">Faith in Nature: Environmentalism as Religious Quest (Weyerhaeuser Environmental Books)</a>
+<a href="https://www.amazon.com/Faith-Nature-Environmentalism-Weyerhaeuser-Environmental/dp/0295983973">Faith in Nature: Environmentalism as Religious Quest (Weyerhaeuser Environmental Books)</a>
 
 by Thomas R. Dunlap
 on <a href="/gp/reader/0295983973?ie=UTF8&amp;p=S01F&amp;checkSum=nQFluM8kyRYHRvAOhZbbIEE2QCxhmaHRzK6bwjeUSEU%3D" >page 27</a>, <a href="/gp/reader/0295983973?ie=UTF8&amp;p=S05J&amp;checkSum=nQFluM8kyRbAvqF3vTBYqN87MaW4HBw%2BGhPYN84LE88%3D" >Back Matter (1)</a>, and <a href="/gp/reader/0295983973?ie=UTF8&amp;p=S065&amp;checkSum=nQFluM8kyRZBeCcGuaxtBwl0yQt82hdDW0GRoXkxupc%3D" >Back Matter (2)</a></li><li> 
@@ -10932,15 +10932,15 @@ on <a href="/gp/reader/0295983973?ie=UTF8&amp;p=S01F&amp;checkSum=nQFluM8kyRYHRv
 
 
 
-<a href="http://www.amazon.com/World-Without-Walls-Development-Governance/dp/0521827019">A World Without Walls: Freedom, Development, Free Trade and Global Governance</a>
+<a href="https://www.amazon.com/World-Without-Walls-Development-Governance/dp/0521827019">A World Without Walls: Freedom, Development, Free Trade and Global Governance</a>
 
 by Mike Moore
-on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzkd6WzQklY4deGLUKbYN4pfNInTI%2BPY%3D" >page 270</a>, and <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S089&amp;checkSum=nQFluM8kyRbOuuT0xtGfqWrB7gVsBRGpaWl9GLjb5do%3D" >Back Matter</a></li></ul><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/orange-arrow._V192240581_.gif" width="10" height="9" border="0" />
+on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzkd6WzQklY4deGLUKbYN4pfNInTI%2BPY%3D" >page 270</a>, and <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S089&amp;checkSum=nQFluM8kyRbOuuT0xtGfqWrB7gVsBRGpaWl9GLjb5do%3D" >Back Matter</a></li></ul><img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/orange-arrow._V192240581_.gif" width="10" height="9" border="0" />
 
 
 
 
-<a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/book-citations/0345409469#cited"><b>See all 100 books citing this book</b></a>
+<a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/dp/book-citations/0345409469#cited"><b>See all 100 books citing this book</b></a>
 <br /></div></div></div>
 
 
@@ -11138,12 +11138,12 @@ on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzk
 
 
 
-<a href="http://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354"   id="pd_cp_b_0_0345331354" > <img src="http://ecx.images-amazon.com/images/I/51mMU-ULbiL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354"   id="pd_cp_b_0_0345331354" > <img src="https://ecx.images-amazon.com/images/I/51mMU-ULbiL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">Cosmos</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Carl Sagan</span>&nbsp;Mass Market Paperback</span>
     <br>
     <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0345331354" ref="pd_cp_b_0_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Cosmos-Carl-Sagan/product-reviews/0345331354" ><span class="swSprite s_star_5_0 " title="4.8 out of 5 stars" ><span>4.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Cosmos-Carl-Sagan/product-reviews/0345331354" >201</a>)</span></span><br>
+              <a href="https://www.amazon.com/Cosmos-Carl-Sagan/product-reviews/0345331354" ><span class="swSprite s_star_5_0 " title="4.8 out of 5 stars" ><span>4.8 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Cosmos-Carl-Sagan/product-reviews/0345331354" >201</a>)</span></span><br>
   <div class="price">$7.99</div>
   </div>
 </li>
@@ -11186,12 +11186,12 @@ on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzk
 
 
 
-<a href="http://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595"   id="pd_cp_b_1_0345376595" > <img src="http://ecx.images-amazon.com/images/I/518xPlisLzL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="https://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595"   id="pd_cp_b_1_0345376595" > <img src="https://ecx.images-amazon.com/images/I/518xPlisLzL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">Pale Blue Dot: A Vision of the Human Future in Space</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Carl Sagan</span>&nbsp;Paperback</span>
     <br>
     <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0345376595" ref="pd_cp_b_1_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Pale-Blue-Dot-Vision-Future/product-reviews/0345376595" ><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars" ><span>4.5 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Pale-Blue-Dot-Vision-Future/product-reviews/0345376595" >83</a>)</span></span><br>
+              <a href="https://www.amazon.com/Pale-Blue-Dot-Vision-Future/product-reviews/0345376595" ><span class="swSprite s_star_4_5 " title="4.5 out of 5 stars" ><span>4.5 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Pale-Blue-Dot-Vision-Future/product-reviews/0345376595" >83</a>)</span></span><br>
   <div class="price">$10.88</div>
   </div>
 </li>
@@ -11234,12 +11234,12 @@ on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzk
 
 
 
-<a href="http://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/dp/0345379187"   id="pd_cp_b_2_0345379187" > <img src="http://ecx.images-amazon.com/images/I/51pyCx9TA6L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="https://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/dp/0345379187"   id="pd_cp_b_2_0345379187" > <img src="https://ecx.images-amazon.com/images/I/51pyCx9TA6L._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Carl Sagan</span>&nbsp;Paperback</span>
     <br>
     <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0345379187" ref="pd_cp_b_2_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/product-reviews/0345379187" ><span class="swSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/product-reviews/0345379187" >86</a>)</span></span><br>
+              <a href="https://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/product-reviews/0345379187" ><span class="swSprite s_star_4_5 " title="4.3 out of 5 stars" ><span>4.3 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/Billions-Thoughts-Death-Brink-Millennium/product-reviews/0345379187" >86</a>)</span></span><br>
   <div class="price">$10.08</div>
   </div>
 </li>
@@ -11282,12 +11282,12 @@ on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzk
 
 
 
-<a href="http://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/dp/0345346297"   id="pd_cp_b_3_0345346297" > <img src="http://ecx.images-amazon.com/images/I/512%2Bc7FW9ZL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
+<a href="https://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/dp/0345346297"   id="pd_cp_b_3_0345346297" > <img src="https://ecx.images-amazon.com/images/I/512%2Bc7FW9ZL._SL75_PIsitb-sticker-arrow-st,TopRight,8,-14_OU01_SS50_.jpg" width="50" alt="" class="faceout" height="50" border="0" />
                     <span class="cpAsinTitle">The Dragons of Eden: Speculations on the Evolution of Human Intelligence</span> </a>
 <span class="vtp-binding-byline">&nbsp;<span class="vtp-byline-text">by Carl Sagan</span>&nbsp;Mass Market Paperback</span>
     <br>
     <span class="rating-stars"><span class="crAvgStars" style="white-space:no-wrap;"><span class="asinReviewsSummary" name="0345346297" ref="pd_cp_b_3_cm_cr_acr_pop_" >
-              <a href="http://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/product-reviews/0345346297" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="http://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/product-reviews/0345346297" >76</a>)</span></span><br>
+              <a href="https://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/product-reviews/0345346297" ><span class="swSprite s_star_4_5 " title="4.6 out of 5 stars" ><span>4.6 out of 5 stars</span></span></a>&nbsp;</span>(<a href="https://www.amazon.com/The-Dragons-Eden-Speculations-Intelligence/product-reviews/0345346297" >76</a>)</span></span><br>
   <div class="price">$7.99</div>
   </div>
 </li>
@@ -11295,7 +11295,7 @@ on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzk
 
 
   </ul>
-  <div class="simFooter"><b><span class="caretnext">&rsaquo;</span> <a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/sim/0345409469/2">Explore similar items</a></b></div>
+  <div class="simFooter"><b><span class="caretnext">&rsaquo;</span> <a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/sim/0345409469/2">Explore similar items</a></b></div>
 </div>
 </div>
 
@@ -11519,7 +11519,7 @@ on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzk
     <input id ="search-tag" style="width: 200px;" name="tag" value="" type="text" />&nbsp;
     <input name="search" value="1" type="hidden" />
     
-    <input type="image" title="Search Products Tagged with" alt="Search Products Tagged with" border="0" class="swSprite s_goTan " id="" value="" name="goBtn" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
+    <input type="image" title="Search Products Tagged with" alt="Search Products Tagged with" border="0" class="swSprite s_goTan " id="" value="" name="goBtn" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
   </div>
 </form>
 
@@ -11852,7 +11852,7 @@ on <a href="/gp/reader/0521827019?ie=UTF8&amp;p=S07X&amp;checkSum=nQFluM8kyRYyzk
 
 
 
-  <a href="http://www.amazon.com/Albert-Einsteins-gravity-generally-explained/forum/Fx1OXX2CKVWVYVO/Tx3046VWIWML1WT/1?_encoding=UTF8&amp;asin=0345409469">Albert Einstein's theory of gravity is generally explained in a wrong way</a>
+  <a href="https://www.amazon.com/Albert-Einsteins-gravity-generally-explained/forum/Fx1OXX2CKVWVYVO/Tx3046VWIWML1WT/1?_encoding=UTF8&amp;asin=0345409469">Albert Einstein's theory of gravity is generally explained in a wrong way</a>
 </span>
 
 
@@ -11877,7 +11877,7 @@ Feb 16, 2011
 
 
       <div class="bucketFooter">
-        <b class="h3Color">&#8250; <a href="http://www.amazon.com/The-Demon-Haunted-World-Science-Candle/forum/Fx1OXX2CKVWVYVO/-/1?_encoding=UTF8&amp;asin=0345409469">See all discussions...</a></b>  &nbsp;
+        <b class="h3Color">&#8250; <a href="https://www.amazon.com/The-Demon-Haunted-World-Science-Candle/forum/Fx1OXX2CKVWVYVO/-/1?_encoding=UTF8&amp;asin=0345409469">See all discussions...</a></b>  &nbsp;
         
 
 
@@ -11911,7 +11911,7 @@ Feb 16, 2011
 
 
 <span id="startDiscussionBtn" style="display: none;">
-<a href="javascript:void(0);" onclick="threadValidator.cdOpenPostBox(); return threadValidator.cdFocusPostTitle();" ><img src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/start-new-discussion-sec._V192250339_.gif" width="130" vspace="5" hspace="12" align="absmiddle" alt="[Start the discussion]" height="22" border="0" /></a>
+<a href="javascript:void(0);" onclick="threadValidator.cdOpenPostBox(); return threadValidator.cdFocusPostTitle();" ><img src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/start-new-discussion-sec._V192250339_.gif" width="130" vspace="5" hspace="12" align="absmiddle" alt="[Start the discussion]" height="22" border="0" /></a>
 </span>
 
 
@@ -11991,7 +11991,7 @@ Feb 16, 2011
                 <div class="cdPostBoxInputs">
                     <div style="float: left; text-align: center;">
                       <div class="cdPromptWrapper">
-                        <input type="image" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/btn-start-new-discussion._V192250348_.gif"  width="132" align="absmiddle" alt="[Start the discussion]" name="" height="22" border="0" />
+                        <input type="image" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/communities/discussion_boards/btn-start-new-discussion._V192250348_.gif"  width="132" align="absmiddle" alt="[Start the discussion]" name="" height="22" border="0" />
                         <div class="cdPromptFor">
                             Prompts for sign-in
                         </div>
@@ -12119,10 +12119,10 @@ Feb 16, 2011
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=TxB75T7VPFT365">20,000 years old?</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=TxB75T7VPFT365">20,000 years old?</a>
 </span>
 
 
@@ -12149,10 +12149,10 @@ Feb 16, 2011
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx393M2GIFQF2DL">Why the attempts to poison science by darwinism</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx393M2GIFQF2DL">Why the attempts to poison science by darwinism</a>
 </span>
 
 
@@ -12179,10 +12179,10 @@ Feb 16, 2011
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO">Religion forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO">Religion forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO&amp;cdThread=Tx2KHJJXPFVOMRF">I Lost (faith) and Found (reality)</a>
+  <a href="https://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO&amp;cdThread=Tx2KHJJXPFVOMRF">I Lost (faith) and Found (reality)</a>
 </span>
 
 
@@ -12209,10 +12209,10 @@ Feb 16, 2011
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E">Science forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx3MP3FDMWFU9CC">The fallacy of Darwinism and the evil associated</a>
+  <a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdThread=Tx3MP3FDMWFU9CC">The fallacy of Darwinism and the evil associated</a>
 </span>
 
 
@@ -12239,10 +12239,10 @@ Feb 16, 2011
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO">Religion forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO">Religion forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO&amp;cdThread=TxQTERWRF4AOJ7">mormons-quit-in-mass-resign...</a>
+  <a href="https://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO&amp;cdThread=TxQTERWRF4AOJ7">mormons-quit-in-mass-resign...</a>
 </span>
 
 
@@ -12269,10 +12269,10 @@ Feb 16, 2011
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO">Religion forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO">Religion forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO&amp;cdThread=Tx2DZ28I1BEKVJS">Prove the Existence of God(s)</a>
+  <a href="https://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO&amp;cdThread=Tx2DZ28I1BEKVJS">Prove the Existence of God(s)</a>
 </span>
 
 
@@ -12299,10 +12299,10 @@ Feb 16, 2011
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD">Textbook Buyback forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD">Textbook Buyback forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD&amp;cdThread=Tx2EVVZVBI56WTJ">Plans to extend the trade-in scheme outside of the US?</a>
+  <a href="https://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD&amp;cdThread=Tx2EVVZVBI56WTJ">Plans to extend the trade-in scheme outside of the US?</a>
 </span>
 
 
@@ -12329,10 +12329,10 @@ Feb 16, 2011
 <span style="display:inline-block; vertical-align:top">
 
 
-  <div class="dgSubtitle"><a href="http://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD">Textbook Buyback forum</a></div>
+  <div class="dgSubtitle"><a href="https://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD">Textbook Buyback forum</a></div>
 
 
-  <a href="http://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD&amp;cdThread=Tx1SVUO4Y46O4CW">Why list books for One Cent</a>
+  <a href="https://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD&amp;cdThread=Tx1SVUO4Y46O4CW">Why list books for One Cent</a>
 </span>
 
 
@@ -12410,7 +12410,7 @@ Feb 16, 2011
     
 
     <input type="hidden" name="cdPage" value="1" />
-    <input type="image" title="" alt="Go" border="0" class="swSprite s_goTan cdSearchGoButton" id="" value="" name="goBtn" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
+    <input type="image" title="" alt="Go" border="0" class="swSprite s_goTan cdSearchGoButton" id="" value="" name="goBtn" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  />
   </div>
 
   <div class="cdSearchContextBucket">
@@ -12460,11 +12460,11 @@ Feb 16, 2011
   <div class="cdRFList">
 
     <ul>
-      <li><a href="http://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO&amp;cdPage=1&amp;cdAnchor=0345409469">Religion forum</a>
+      <li><a href="https://www.amazon.com/forum/religion?_encoding=UTF8&amp;cdForum=Fx1M9TK6UGAX6EO&amp;cdPage=1&amp;cdAnchor=0345409469">Religion forum</a>
 &nbsp;<span class="smQty">(1023 discussions)</span></li>
-      <li><a href="http://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdPage=1&amp;cdAnchor=0345409469">Science forum</a>
+      <li><a href="https://www.amazon.com/forum/science?_encoding=UTF8&amp;cdForum=FxZ58KVEERYS5E&amp;cdPage=1&amp;cdAnchor=0345409469">Science forum</a>
 &nbsp;<span class="smQty">(1023 discussions)</span></li>
-      <li><a href="http://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD&amp;cdPage=1&amp;cdAnchor=0345409469">Textbook Buyback forum</a>
+      <li><a href="https://www.amazon.com/forum/textbook%20buyback?_encoding=UTF8&amp;cdForum=Fx3QLVRL4OTAZTD&amp;cdPage=1&amp;cdAnchor=0345409469">Textbook Buyback forum</a>
 &nbsp;<span class="smQty">(505 discussions)</span></li>
     </ul>
 
@@ -12675,7 +12675,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/MY-ALL-TIME-FAVORITES-PRE-2005/lm/PI080ZIGC686"><img src="http://ecx.images-amazon.com/images/I/51uWFJCX0-L._AA60_.jpg" width="60" alt="MY ALL-TIME FAVORITES PRE-2005" height="60" border="0" /></a>
+        <a href="/MY-ALL-TIME-FAVORITES-PRE-2005/lm/PI080ZIGC686"><img src="https://ecx.images-amazon.com/images/I/51uWFJCX0-L._AA60_.jpg" width="60" alt="MY ALL-TIME FAVORITES PRE-2005" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -12690,7 +12690,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/Varieties-Scientific-Experience-Carl-Sagan/lm/R2E998DNV9RGST"><img src="http://ecx.images-amazon.com/images/I/41BU5qL073L._AA60_.jpg" width="60" alt="The Varieties of Scientific Experience by Carl Sagan" height="60" border="0" /></a>
+        <a href="/Varieties-Scientific-Experience-Carl-Sagan/lm/R2E998DNV9RGST"><img src="https://ecx.images-amazon.com/images/I/41BU5qL073L._AA60_.jpg" width="60" alt="The Varieties of Scientific Experience by Carl Sagan" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -12705,7 +12705,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/Some-books-Ive-read/lm/R3DUFKCWLL16ET"><img src="http://ecx.images-amazon.com/images/I/51iGd6IbopL._AA60_.jpg" width="60" alt="Some books I've read" height="60" border="0" /></a>
+        <a href="/Some-books-Ive-read/lm/R3DUFKCWLL16ET"><img src="https://ecx.images-amazon.com/images/I/51iGd6IbopL._AA60_.jpg" width="60" alt="Some books I've read" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -12748,7 +12748,7 @@ function RefreshOriginalWindow(url) {
                 <input type="hidden" name="search-alias" value="rp-listmania"/>
              
             </td>
-            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  /></td>
+            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  /></td>
         </tr>
     </table>
   </FORM>
@@ -12923,7 +12923,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/gp/richpub/syltguides/fullview/R2KM7MC0ATY5ES"><img src="http://ecx.images-amazon.com/images/I/51LWAfrzmqL._AA60_.jpg" width="60" alt="read more about atheism and rational religion" height="60" border="0" /></a>
+        <a href="/gp/richpub/syltguides/fullview/R2KM7MC0ATY5ES"><img src="https://ecx.images-amazon.com/images/I/51LWAfrzmqL._AA60_.jpg" width="60" alt="read more about atheism and rational religion" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -12938,7 +12938,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/gp/richpub/syltguides/fullview/R3UGJTO9ANQSQT"><img src="http://ecx.images-amazon.com/images/I/41oZSsu5x8L._AA60_.jpg" width="60" alt="read a good book" height="60" border="0" /></a>
+        <a href="/gp/richpub/syltguides/fullview/R3UGJTO9ANQSQT"><img src="https://ecx.images-amazon.com/images/I/41oZSsu5x8L._AA60_.jpg" width="60" alt="read a good book" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -12953,7 +12953,7 @@ function RefreshOriginalWindow(url) {
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td style="vertical-align: top; width: 60px">
-        <a href="/gp/richpub/syltguides/fullview/R3G8HO3LU03HAB"><img src="http://ecx.images-amazon.com/images/I/416MhqJ2SWL._AA60_.jpg" width="60" alt="read about science and spirituality" height="60" border="0" /></a>
+        <a href="/gp/richpub/syltguides/fullview/R3G8HO3LU03HAB"><img src="https://ecx.images-amazon.com/images/I/416MhqJ2SWL._AA60_.jpg" width="60" alt="read about science and spirituality" height="60" border="0" /></a>
       </td>
 
       <td width="10">&nbsp;</td>
@@ -12986,7 +12986,7 @@ function RefreshOriginalWindow(url) {
                 <input type="hidden" name="search-alias" value="rp-sylt"/>
              
             </td>
-            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="http://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  /></td>
+            <td style="padding-left: 5px;"><input type="image" title="Go" alt="Go" border="0" class="swSprite s_goTan " id="" value="" name="Go" src="https://g-ecx.images-amazon.com/images/G/01/x-locale/common/transparent-pixel._V192234675_.gif"  /></td>
         </tr>
     </table>
   </FORM>
@@ -13106,7 +13106,7 @@ function RefreshOriginalWindow(url) {
   <form method="post" action="/s" style="margin: 0px;">
   
   <input type="hidden" name="index" value="books" />
-  <b>Search <a href="http://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> by subject:</b><br />
+  <b>Search <a href="https://www.amazon.com/books-used-books-textbooks/b?ie=UTF8&amp;node=283155">Books</a> by subject:</b><br />
     <input type="checkbox" name="field+keywords" value="Science/Mathematics" id="search_by_subject_1"/>
     <label for="search_by_subject_1">
 <a href="/s?ie=UTF8&amp;index=books&amp;field-keywords=Science%2FMathematics">Science/Mathematics</a>    </label><br />
@@ -13275,77 +13275,77 @@ function RefreshOriginalWindow(url) {
     <tr>
       <td>
         <div class="navFooterLine navFooterLogoLine">
-          <a href="/"><img src="http://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif" width="126" alt="amazon.com" height="24" border="0" /></a>
+          <a href="/"><img src="https://g-ecx.images-amazon.com/images/G/01/gno/images/general/navAmazonLogoFooter._V169459313_.gif" width="126" alt="amazon.com" height="24" border="0" /></a>
         </div>
         <div class="navFooterLine navFooterLinkLine navFooterPadItemLine">
           See all books stores: 
-<a href="http://www.amazon.ca/books-used-books-textbooks/b?ie=UTF8&node=916520">Canada</a>
-<a href="http://www.amazon.cn/%E5%9B%BE%E4%B9%A6/b?ie=UTF8&node=658390051">China</a>
-<a href="http://www.amazon.fr/livre-achat-occasion-litterature-roman/b?ie=UTF8&node=301061">France</a>
-<a href="http://www.amazon.de/b%C3%BCcher-buch-literatur/b?ie=UTF8&node=299956">Germany</a>
-<a href="http://www.amazon.it/libri-italiano/b?ie=UTF8&node=411663031">Italy</a>
-<a href="http://www.amazon.co.jp/%E6%9C%AC-%E5%92%8C%E6%9B%B8/b?ie=UTF8&node=465392">Japan</a>
-<a href="http://www.amazon.es/Libros-en-castellano/b?ie=UTF8&node=599364031">Spain</a>
-<a href="http://www.amazon.co.uk/books-used-books-textbooks/b?ie=UTF8&node=266239">United Kingdom</a>
+<a href="https://www.amazon.ca/books-used-books-textbooks/b?ie=UTF8&node=916520">Canada</a>
+<a href="https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/b?ie=UTF8&node=658390051">China</a>
+<a href="https://www.amazon.fr/livre-achat-occasion-litterature-roman/b?ie=UTF8&node=301061">France</a>
+<a href="https://www.amazon.de/b%C3%BCcher-buch-literatur/b?ie=UTF8&node=299956">Germany</a>
+<a href="https://www.amazon.it/libri-italiano/b?ie=UTF8&node=411663031">Italy</a>
+<a href="https://www.amazon.co.jp/%E6%9C%AC-%E5%92%8C%E6%9B%B8/b?ie=UTF8&node=465392">Japan</a>
+<a href="https://www.amazon.es/Libros-en-castellano/b?ie=UTF8&node=599364031">Spain</a>
+<a href="https://www.amazon.co.uk/books-used-books-textbooks/b?ie=UTF8&node=266239">United Kingdom</a>
 
         </div>
         <div class="navFooterLine navFooterLinkLine navFooterDescLine">
           <table cellspacing="0">
             <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.abebooks.com/">AbeBooks<br/> <span class="navFooterDescText">Rare Books<br/> & Textbooks</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.abebooks.com/">AbeBooks<br/> <span class="navFooterDescText">Rare Books<br/> & Textbooks</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://amazonlocal.com/">AmazonLocal<br/> <span class="navFooterDescText">Great Local Deals<br/> in Your City</span></a></td>
+<td class="navFooterDescItem"><a href="https://amazonlocal.com/">AmazonLocal<br/> <span class="navFooterDescText">Great Local Deals<br/> in Your City</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.amazonsupply.com/">AmazonSupply<br/> <span class="navFooterDescText">Business, Industrial<br/> & Scientific Supplies</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.amazonsupply.com/">AmazonSupply<br/> <span class="navFooterDescText">Business, Industrial<br/> & Scientific Supplies</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://aws.amazon.com/">AmazonWebServices<br/> <span class="navFooterDescText">Scalable<br/> Cloud Services</span></a></td>
+<td class="navFooterDescItem"><a href="https://aws.amazon.com/">AmazonWebServices<br/> <span class="navFooterDescText">Scalable<br/> Cloud Services</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://wireless.amazon.com/">AmazonWireless<br/> <span class="navFooterDescText">Cellphones &<br/> Wireless Plans</span></a></td>
+<td class="navFooterDescItem"><a href="https://wireless.amazon.com/">AmazonWireless<br/> <span class="navFooterDescText">Cellphones &<br/> Wireless Plans</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://askville.amazon.com/">Askville<br/> <span class="navFooterDescText">Community<br/> Answers</span></a></td>
+<td class="navFooterDescItem"><a href="https://askville.amazon.com/">Askville<br/> <span class="navFooterDescText">Community<br/> Answers</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.audible.com/">Audible<br/> <span class="navFooterDescText">Download<br/> Audio Books</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.audible.com/">Audible<br/> <span class="navFooterDescText">Download<br/> Audio Books</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.beautybar.com/">BeautyBar.com<br/> <span class="navFooterDescText">Prestige Beauty<br/> Delivered</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.beautybar.com/">BeautyBar.com<br/> <span class="navFooterDescText">Prestige Beauty<br/> Delivered</span></a></td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.bookdepository.com/">Book Depository<br/> <span class="navFooterDescText">Books With Free<br/> Delivery Worldwide</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.bookdepository.com/">Book Depository<br/> <span class="navFooterDescText">Books With Free<br/> Delivery Worldwide</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.createspace.com/">CreateSpace<br/> <span class="navFooterDescText">Indie Publishing<br/> Made Easy</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.createspace.com/">CreateSpace<br/> <span class="navFooterDescText">Indie Publishing<br/> Made Easy</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.diapers.com/">Diapers.com<br/> <span class="navFooterDescText">Everything<br/> But The Baby</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.diapers.com/">Diapers.com<br/> <span class="navFooterDescText">Everything<br/> But The Baby</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.dpreview.com/">DPReview<br/> <span class="navFooterDescText">Digital<br/> Photography</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.dpreview.com/">DPReview<br/> <span class="navFooterDescText">Digital<br/> Photography</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.fabric.com/">Fabric<br/> <span class="navFooterDescText">Sewing, Quilting<br/> & Knitting</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.fabric.com/">Fabric<br/> <span class="navFooterDescText">Sewing, Quilting<br/> & Knitting</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.imdb.com/">IMDb<br/> <span class="navFooterDescText">Movies, TV<br/> & Celebrities</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.imdb.com/">IMDb<br/> <span class="navFooterDescText">Movies, TV<br/> & Celebrities</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.junglee.com/">Junglee.com<br/> <span class="navFooterDescText">Shop Online<br/> in India</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.junglee.com/">Junglee.com<br/> <span class="navFooterDescText">Shop Online<br/> in India</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.myhabit.com/">MYHABIT<br/> <span class="navFooterDescText">Private Fashion<br/> Designer Sales</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.myhabit.com/">MYHABIT<br/> <span class="navFooterDescText">Private Fashion<br/> Designer Sales</span></a></td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.shopbop.com/welcome">Shopbop<br/> <span class="navFooterDescText">Designer<br/> Fashion Brands</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.shopbop.com/welcome">Shopbop<br/> <span class="navFooterDescText">Designer<br/> Fashion Brands</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.soap.com/">Soap.com<br/> <span class="navFooterDescText">Health, Beauty &<br/> Home Essentials</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.soap.com/">Soap.com<br/> <span class="navFooterDescText">Health, Beauty &<br/> Home Essentials</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.wag.com/">Wag.com<br/> <span class="navFooterDescText">Everything<br/> For Your Pet</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.wag.com/">Wag.com<br/> <span class="navFooterDescText">Everything<br/> For Your Pet</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="/b?ie=UTF8&node=1267877011">Warehouse Deals<br/> <span class="navFooterDescText">Open-Box<br/> Discounts</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.woot.com/">Woot<br/> <span class="navFooterDescText">Never Gonna<br/> Give You Up</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.woot.com/">Woot<br/> <span class="navFooterDescText">Never Gonna<br/> Give You Up</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.yoyo.com/">Yoyo.com<br/> <span class="navFooterDescText">A Happy Place<br/> To Shop For Toys</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.yoyo.com/">Yoyo.com<br/> <span class="navFooterDescText">A Happy Place<br/> To Shop For Toys</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.zappos.com/">Zappos<br/> <span class="navFooterDescText">Shoes &<br/> Clothing</span></a></td>
+<td class="navFooterDescItem"><a href="https://www.zappos.com/">Zappos<br/> <span class="navFooterDescText">Shoes &<br/> Clothing</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem">&nbsp;</td>
 <td class="navFooterDescSpacer" style="width: 36.0%"></td>
@@ -13358,7 +13358,7 @@ function RefreshOriginalWindow(url) {
 <a href="/gp/help/customer/display.html?ie=UTF8&nodeId=468496">Privacy Notice</a>
 <a href="/interestbasedads">Interest-Based Ads</a>
 <span>
-© 1996-2012, Amazon.com, Inc. or its affiliates
+ï¿½ 1996-2012, Amazon.com, Inc. or its affiliates
 </span>
 
         </div>

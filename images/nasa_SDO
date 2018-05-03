@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
@@ -39,21 +39,21 @@ var page={};var onCondition=function(D,C,A,B){D=D;A=A?Math.min(A,5):5;B=B||100;i
 <meta content="Sign up for Twitter to follow NASA SDO (@NASA_SDO). The Solar Dynamics Observatory, NASA's newest eye on the Sun!" name="description" />
 <meta content="NASA_SDO" name="page-user-screen_name" />
     <title id="page_title">NASA SDO (@NASA_SDO) on Twitter</title>
-    <link href="http://a0.twimg.com/a/1340997209/images/twitter_57.png" rel="apple-touch-icon" />
-<link href="/oexchange.xrd" rel="http://oexchange.org/spec/0.8/rel/related-target" type="application/xrd+xml" />
-<link href="http://a0.twimg.com/a/1340997209/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://a0.twimg.com/a/1340997209/images/twitter_57.png" rel="apple-touch-icon" />
+<link href="/oexchange.xrd" rel="https://oexchange.org/spec/0.8/rel/related-target" type="application/xrd+xml" />
+<link href="https://a0.twimg.com/a/1340997209/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 <link href="https://twitter.com/nasa_sdo" rel="canonical" />
-    <link rel="alternate" href="http://twitter.com/statuses/user_timeline/15102849.rss" title="NASA_SDO's Tweets" type="application/rss+xml" />
-    <link rel="alternate" href="http://twitter.com/favorites/15102849.rss" title="NASA_SDO's Favorites" type="application/rss+xml" />
+    <link rel="alternate" href="https://twitter.com/statuses/user_timeline/15102849.rss" title="NASA_SDO's Tweets" type="application/rss+xml" />
+    <link rel="alternate" href="https://twitter.com/favorites/15102849.rss" title="NASA_SDO's Favorites" type="application/rss+xml" />
   
     
-    <link href="http://a0.twimg.com/a/1340997209/stylesheets/twitter.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
-<link href="http://a0.twimg.com/a/1340997209/stylesheets/geo.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
-<link href="http://a0.twimg.com/a/1340997209/stylesheets/buttons_new.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
+    <link href="https://a0.twimg.com/a/1340997209/stylesheets/twitter.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://a0.twimg.com/a/1340997209/stylesheets/geo.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
+<link href="https://a0.twimg.com/a/1340997209/stylesheets/buttons_new.css?1340729677" media="screen" rel="stylesheet" type="text/css" />
     <style type="text/css">
       
         body {
-  background: #000000 url('http://a0.twimg.com/profile_background_images/130945842/twitter_background.jpg') fixed no-repeat;
+  background: #000000 url('https://a0.twimg.com/profile_background_images/130945842/twitter_background.jpg') fixed no-repeat;
 
 }
 
@@ -157,19 +157,19 @@ ul.sidebar-list li a:hover,
 }
 
 ul.sidebar-menu li.loading a {
-  background: #FEFEFE url('http://a0.twimg.com/a/1340997209/images/spinner.gif') no-repeat 171px 0.5em !important;
+  background: #FEFEFE url('https://a0.twimg.com/a/1340997209/images/spinner.gif') no-repeat 171px 0.5em !important;
 }
 
 #side .collapsible h2.sidebar-title {
-  background: transparent url('http://a0.twimg.com/a/1340997209/images/toggle_up_dark.png') no-repeat center right !important;
+  background: transparent url('https://a0.twimg.com/a/1340997209/images/toggle_up_dark.png') no-repeat center right !important;
 }
 
 #side .collapsible.collapsed h2.sidebar-title {
-  background: transparent url('http://a0.twimg.com/a/1340997209/images/toggle_down_dark.png') no-repeat center right !important;
+  background: transparent url('https://a0.twimg.com/a/1340997209/images/toggle_down_dark.png') no-repeat center right !important;
 }
 
 #side ul.lists-links li a em {
-  background: url('http://a0.twimg.com/a/1340997209/images/arrow_right_dark.png') no-repeat left top;
+  background: url('https://a0.twimg.com/a/1340997209/images/arrow_right_dark.png') no-repeat left top;
 }
 
 #side span.pipe {
@@ -192,7 +192,7 @@ a.edit-list {
       
       
     </style>
-      <link href="http://a0.twimg.com/a/1340997209/stylesheets/following.css?1340729677" media="screen, projection" rel="stylesheet" type="text/css" />
+      <link href="https://a0.twimg.com/a/1340997209/stylesheets/following.css?1340729677" media="screen, projection" rel="stylesheet" type="text/css" />
 
   </head>
 
@@ -208,7 +208,7 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
     <div id="dim-screen"></div>
     <ul id="accessibility" class="offscreen">
   <li><a href="#content" accesskey="0">Skip past navigation</a></li>
-  <li>On a mobile phone? Check out <a href="http://m.twitter.com/">m.twitter.com</a>!</li>
+  <li>On a mobile phone? Check out <a href="https://m.twitter.com/">m.twitter.com</a>!</li>
   <li><a href="#footer" accesskey="2">Skip to navigation</a></li>
     <li><a href="#signin">Skip to sign in form</a></li>
 </ul>
@@ -223,11 +223,11 @@ document.domain = 'twitter.com';function fn(){document.write = "";window.top.loc
 //<![CDATA[
 if(window.top === window.self) {document.getElementById('container').style.display='block';}
 //]]>
-</script>      <span id="loader" style="display:none"><img alt="Loader" src="http://a0.twimg.com/a/1340997209/images/loader.gif" /></span>
+</script>      <span id="loader" style="display:none"><img alt="Loader" src="https://a0.twimg.com/a/1340997209/images/loader.gif" /></span>
       
         <div class="clearfix" id="header">
-  <a href="http://twitter.com/" title="Twitter / Home" accesskey="1" id="logo">
-          <img alt="Twitter.com" src="http://a0.twimg.com/a/1340997209/images/twitter_logo_header.png" />    
+  <a href="https://twitter.com/" title="Twitter / Home" accesskey="1" id="logo">
+          <img alt="Twitter.com" src="https://a0.twimg.com/a/1340997209/images/twitter_logo_header.png" />    
   </a>
             <form method="post" id="sign_out_form" action="/sessions/destroy" style="display:none;">
         <input name="authenticity_token" value="a9dd77b58e0d9eeb687a5eebccdf08eb628926eb" type="hidden"/>
@@ -452,7 +452,7 @@ if(window.top === window.self) {document.getElementById('container').style.displ
   <div class="profile-user">
     <div id="user_15102849" class="user ">
       <h2 class="thumb clearfix">
-        <a href="/account/profile_image/NASA_SDO?hreflang=en"><img alt="" border="0" height="73" id="profile-image" src="http://a0.twimg.com/profile_images/862860460/twitterProfilePhoto_bigger.jpg" valign="middle" width="73" /></a>
+        <a href="/account/profile_image/NASA_SDO?hreflang=en"><img alt="" border="0" height="73" id="profile-image" src="https://a0.twimg.com/profile_images/862860460/twitterProfilePhoto_bigger.jpg" valign="middle" width="73" /></a>
         <div class="screen-name">NASA_SDO</div>
       </h2>
     </div>
@@ -475,9 +475,9 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">Thank you everyone for your congrats! RT @<a class="tweet-url username" href="/camilla_sdo" rel="nofollow">camilla_sdo</a>: Congratulations! The Science @<a class="tweet-url username" href="/NASA_SDO" rel="nofollow">NASA_SDO</a> Team has won a @<a class="tweet-url username" href="/NASA" rel="nofollow">NASA</a> Group Achievement Award.</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/218392536190959616">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/218392536190959616">
     <span class="published timestamp" data="{time:'Thu Jun 28 17:16:52 +0000 2012'}">10:16 AM Jun 28th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
   </span>
 
@@ -492,11 +492,11 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">@<a class="tweet-url username" href="/lizcolter" rel="nofollow">lizcolter</a> Any time! We're happy that you are excited about astronomy!</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/218364399449161728">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/218364399449161728">
     <span class="published timestamp" data="{time:'Thu Jun 28 15:25:04 +0000 2012'}">8:25 AM Jun 28th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/lizcolter/status/218363528631951360">in reply to lizcolter</a></span>
+  <a href="https://twitter.com/lizcolter/status/218363528631951360">in reply to lizcolter</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -507,13 +507,13 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
       <span class="status-body">
               <span class="big-retweet-icon" title="Retweets from people you follow appear in your timeline."></span>
-                    <strong><a href="http://twitter.com/Camilla_SDO" class="tweet-url screen-name">Camilla_SDO</a></strong>
+                    <strong><a href="https://twitter.com/Camilla_SDO" class="tweet-url screen-name">Camilla_SDO</a></strong>
         
-                  <span class="entry-content">Astronomers using @<a class="tweet-url username" href="/NASA" rel="nofollow">NASA</a> / @<a class="tweet-url username" href="/ESA" rel="nofollow">ESA</a> @<a class="tweet-url username" href="/HubbleTelescope" rel="nofollow">HubbleTelescope</a> seeing a dramatic change in a faraway planet. <a href="/search?q=%23NASA" title="#NASA" class="tweet-url hashtag" rel="nofollow">#NASA</a> <a href="/search?q=%23ESA" title="#ESA" class="tweet-url hashtag" rel="nofollow">#ESA</a> <a href="http://t.co/e2aym00i" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">owl.li/bT151</a></span>
+                  <span class="entry-content">Astronomers using @<a class="tweet-url username" href="/NASA" rel="nofollow">NASA</a> / @<a class="tweet-url username" href="/ESA" rel="nofollow">ESA</a> @<a class="tweet-url username" href="/HubbleTelescope" rel="nofollow">HubbleTelescope</a> seeing a dramatic change in a faraway planet. <a href="/search?q=%23NASA" title="#NASA" class="tweet-url hashtag" rel="nofollow">#NASA</a> <a href="/search?q=%23ESA" title="#ESA" class="tweet-url hashtag" rel="nofollow">#ESA</a> <a href="https://t.co/e2aym00i" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">owl.li/bT151</a></span>
             <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/Camilla_SDO/status/218344986075348992">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/Camilla_SDO/status/218344986075348992">
     <span class="published timestamp" data="{time:'Thu Jun 28 14:07:55 +0000 2012'}">7:07 AM Jun 28th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
   </span>
       
@@ -529,14 +529,14 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">@<a class="tweet-url username" href="/thestrotem" rel="nofollow">thestrotem</a> Here is a video of stacked loops from our SDO gallery. Is this what you are talking about? <a href="http://t.co/AMeQY1GF" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bSWLk</a></span>
+                  <span class="entry-content">@<a class="tweet-url username" href="/thestrotem" rel="nofollow">thestrotem</a> Here is a video of stacked loops from our SDO gallery. Is this what you are talking about? <a href="https://t.co/AMeQY1GF" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bSWLk</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/218336246370537472">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/218336246370537472">
     <span class="published timestamp" data="{time:'Thu Jun 28 13:33:12 +0000 2012'}">6:33 AM Jun 28th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/TheStrotem/status/218074531074543616">in reply to TheStrotem</a></span>
+  <a href="https://twitter.com/TheStrotem/status/218074531074543616">in reply to TheStrotem</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -546,14 +546,14 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">@<a class="tweet-url username" href="/lizcolter" rel="nofollow">lizcolter</a> No problem. The <a href="/search?q=%23NASA" title="#NASA" class="tweet-url hashtag" rel="nofollow">#NASA</a> 'Ask an Astrophysicist' page is a great resource and a fun way to burn some time! <a href="http://t.co/Sg60viIB" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bSVQF</a></span>
+                  <span class="entry-content">@<a class="tweet-url username" href="/lizcolter" rel="nofollow">lizcolter</a> No problem. The <a href="/search?q=%23NASA" title="#NASA" class="tweet-url hashtag" rel="nofollow">#NASA</a> 'Ask an Astrophysicist' page is a great resource and a fun way to burn some time! <a href="https://t.co/Sg60viIB" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bSVQF</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/218334246954217472">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/218334246954217472">
     <span class="published timestamp" data="{time:'Thu Jun 28 13:25:15 +0000 2012'}">6:25 AM Jun 28th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/lizcolter/status/217984648360366080">in reply to lizcolter</a></span>
+  <a href="https://twitter.com/lizcolter/status/217984648360366080">in reply to lizcolter</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -563,14 +563,14 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">@<a class="tweet-url username" href="/lizcolter" rel="nofollow">lizcolter</a> We aren't studying black holes, but here's an explanation for you from a <a href="/search?q=%23NASA" title="#NASA" class="tweet-url hashtag" rel="nofollow">#NASA</a> expert on the subject: <a href="http://t.co/1NIW1AW4" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bSVlX</a></span>
+                  <span class="entry-content">@<a class="tweet-url username" href="/lizcolter" rel="nofollow">lizcolter</a> We aren't studying black holes, but here's an explanation for you from a <a href="/search?q=%23NASA" title="#NASA" class="tweet-url hashtag" rel="nofollow">#NASA</a> expert on the subject: <a href="https://t.co/1NIW1AW4" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bSVlX</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/218333136927465472">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/218333136927465472">
     <span class="published timestamp" data="{time:'Thu Jun 28 13:20:50 +0000 2012'}">6:20 AM Jun 28th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/lizcolter/status/218153103847997440">in reply to lizcolter</a></span>
+  <a href="https://twitter.com/lizcolter/status/218153103847997440">in reply to lizcolter</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -583,11 +583,11 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">@<a class="tweet-url username" href="/thestrotem" rel="nofollow">thestrotem</a> Can you send us a link to a video of what you are talking about? That's very cool that SDO helped you decide on astrophysics!</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/218065109065543681">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/218065109065543681">
     <span class="published timestamp" data="{time:'Wed Jun 27 19:35:48 +0000 2012'}">12:35 PM Jun 27th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/TheStrotem/status/218038820568965121">in reply to TheStrotem</a></span>
+  <a href="https://twitter.com/TheStrotem/status/218038820568965121">in reply to TheStrotem</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -597,12 +597,12 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Great footage from today! MT @<a class="tweet-url username" href="/camilla_sdo" rel="nofollow">camilla_sdo</a>: Today's Sun! Solar flares, prominence eruption and a coronal hole. <a href="http://t.co/rGc9G1fB" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">owl.li/bRNBy</a></span>
+                  <span class="entry-content">Great footage from today! MT @<a class="tweet-url username" href="/camilla_sdo" rel="nofollow">camilla_sdo</a>: Today's Sun! Solar flares, prominence eruption and a coronal hole. <a href="https://t.co/rGc9G1fB" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">owl.li/bRNBy</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/218064010631843840">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/218064010631843840">
     <span class="published timestamp" data="{time:'Wed Jun 27 19:31:26 +0000 2012'}">12:31 PM Jun 27th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
   </span>
 
@@ -614,14 +614,14 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">@<a class="tweet-url username" href="/lizcolter" rel="nofollow">lizcolter</a> @<a class="tweet-url username" href="/NASA" rel="nofollow">NASA</a> @<a class="tweet-url username" href="/NASASpinoff" rel="nofollow">NASASpinoff</a> Good question. Here is an astrophysicist's answer! <a href="http://t.co/l9yoAjUv" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bRh9J</a></span>
+                  <span class="entry-content">@<a class="tweet-url username" href="/lizcolter" rel="nofollow">lizcolter</a> @<a class="tweet-url username" href="/NASA" rel="nofollow">NASA</a> @<a class="tweet-url username" href="/NASASpinoff" rel="nofollow">NASASpinoff</a> Good question. Here is an astrophysicist's answer! <a href="https://t.co/l9yoAjUv" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bRh9J</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217971063550783488">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217971063550783488">
     <span class="published timestamp" data="{time:'Wed Jun 27 13:22:05 +0000 2012'}">6:22 AM Jun 27th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/lizcolter/status/217779919676121088">in reply to lizcolter</a></span>
+  <a href="https://twitter.com/lizcolter/status/217779919676121088">in reply to lizcolter</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -634,11 +634,11 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">@<a class="tweet-url username" href="/thestrotem" rel="nofollow">thestrotem</a> The sphere is a prominence cavity, a part of the corona above a prominence (the dark line you see) that has a very low density.</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217970056821358593">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217970056821358593">
     <span class="published timestamp" data="{time:'Wed Jun 27 13:18:05 +0000 2012'}">6:18 AM Jun 27th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/TheStrotem/status/217913476235001857">in reply to TheStrotem</a></span>
+  <a href="https://twitter.com/TheStrotem/status/217913476235001857">in reply to TheStrotem</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -648,12 +648,12 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">@<a class="tweet-url username" href="/NASAVoyager" rel="nofollow">NASAVoyager</a> is nearing the heliopause and will soon be leaving our solar system! <a href="http://t.co/PPrEaA7z" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bQenq</a> via <a href="http://t.co/3ZSNvO58" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">usatoday.com</a></span>
+                  <span class="entry-content">@<a class="tweet-url username" href="/NASAVoyager" rel="nofollow">NASAVoyager</a> is nearing the heliopause and will soon be leaving our solar system! <a href="https://t.co/PPrEaA7z" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bQenq</a> via <a href="https://t.co/3ZSNvO58" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">usatoday.com</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217690786001715200">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217690786001715200">
     <span class="published timestamp" data="{time:'Tue Jun 26 18:48:22 +0000 2012'}">11:48 AM Jun 26th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
   </span>
 
@@ -665,14 +665,14 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Go Team SDO! MT @<a class="tweet-url username" href="/LASPatCU" rel="nofollow">LASPatCU</a>: Good news, Saturday's @<a class="tweet-url username" href="/LASPatCU" rel="nofollow">LASPatCU</a> sounding rocket launch was successful and EVE is doing well: <a href="http://t.co/LpcqpAq3" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">1.usa.gov/KXQtFq</a></span>
+                  <span class="entry-content">Go Team SDO! MT @<a class="tweet-url username" href="/LASPatCU" rel="nofollow">LASPatCU</a>: Good news, Saturday's @<a class="tweet-url username" href="/LASPatCU" rel="nofollow">LASPatCU</a> sounding rocket launch was successful and EVE is doing well: <a href="https://t.co/LpcqpAq3" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">1.usa.gov/KXQtFq</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217625848541487104">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217625848541487104">
     <span class="published timestamp" data="{time:'Tue Jun 26 14:30:20 +0000 2012'}">7:30 AM Jun 26th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/LASPatCU/status/217336015482912769">in reply to LASPatCU</a></span>
+  <a href="https://twitter.com/LASPatCU/status/217336015482912769">in reply to LASPatCU</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -685,11 +685,11 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">@<a class="tweet-url username" href="/NASA" rel="nofollow">NASA</a> We love this shot too!</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217624608378077184">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217624608378077184">
     <span class="published timestamp" data="{time:'Tue Jun 26 14:25:24 +0000 2012'}">7:25 AM Jun 26th</span></a>
   <span>via web</span>
     
-  <a href="http://twitter.com/NASA/status/210160970071408640">in reply to NASA</a></span>
+  <a href="https://twitter.com/NASA/status/210160970071408640">in reply to NASA</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -700,13 +700,13 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
       <span class="status-body">
               <span class="big-retweet-icon" title="Retweets from people you follow appear in your timeline."></span>
-                    <strong><a href="http://twitter.com/Camilla_SDO" class="tweet-url screen-name">Camilla_SDO</a></strong>
+                    <strong><a href="https://twitter.com/Camilla_SDO" class="tweet-url screen-name">Camilla_SDO</a></strong>
         
-                  <span class="entry-content">Suspended plasma. It's @<a class="tweet-url username" href="/Cirque" rel="nofollow">Cirque</a> du Soleil on the Sun and I picked the soundtrack. @<a class="tweet-url username" href="/NASA_SDO" rel="nofollow">NASA_SDO</a> <a href="/search?q=%23Sun" title="#Sun" class="tweet-url hashtag" rel="nofollow">#Sun</a> <a href="http://t.co/4RnFRssZ" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">owl.li/bOPpi</a></span>
+                  <span class="entry-content">Suspended plasma. It's @<a class="tweet-url username" href="/Cirque" rel="nofollow">Cirque</a> du Soleil on the Sun and I picked the soundtrack. @<a class="tweet-url username" href="/NASA_SDO" rel="nofollow">NASA_SDO</a> <a href="/search?q=%23Sun" title="#Sun" class="tweet-url hashtag" rel="nofollow">#Sun</a> <a href="https://t.co/4RnFRssZ" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">owl.li/bOPpi</a></span>
             <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/Camilla_SDO/status/217380726109249536">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/Camilla_SDO/status/217380726109249536">
     <span class="published timestamp" data="{time:'Mon Jun 25 22:16:18 +0000 2012'}">3:16 PM Jun 25th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
   </span>
       
@@ -725,11 +725,11 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">@<a class="tweet-url username" href="/monicakcampbell" rel="nofollow">monicakcampbell</a> Thanks for sharing, Monica.</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217623282072027137">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217623282072027137">
     <span class="published timestamp" data="{time:'Tue Jun 26 14:20:08 +0000 2012'}">7:20 AM Jun 26th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/monicaKcampbell/status/217575580902760450">in reply to monicaKcampbell</a></span>
+  <a href="https://twitter.com/monicaKcampbell/status/217575580902760450">in reply to monicaKcampbell</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -742,11 +742,11 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">@<a class="tweet-url username" href="/camilla_sdo" rel="nofollow">camilla_sdo</a> @<a class="tweet-url username" href="/mary_roach" rel="nofollow">mary_roach</a> That is exciting! Make sure to come tell us all about it next time you visit @<a class="tweet-url username" href="/NASAGoddard" rel="nofollow">NASAGoddard</a>.</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217345863910047744">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217345863910047744">
     <span class="published timestamp" data="{time:'Mon Jun 25 19:57:46 +0000 2012'}">12:57 PM Jun 25th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/Camilla_SDO/status/217332304396292097">in reply to Camilla_SDO</a></span>
+  <a href="https://twitter.com/Camilla_SDO/status/217332304396292097">in reply to Camilla_SDO</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -759,9 +759,9 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">@<a class="tweet-url username" href="/Camilla_SDO" rel="nofollow">Camilla_SDO</a> How was <a href="/search?q=%23SETIcon" title="#SETIcon" class="tweet-url hashtag" rel="nofollow">#SETIcon</a> this weekend? What was your favorite part?</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217260562994823169">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217260562994823169">
     <span class="published timestamp" data="{time:'Mon Jun 25 14:18:49 +0000 2012'}">7:18 AM Jun 25th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
   </span>
 
@@ -776,11 +776,11 @@ if(window.top === window.self) {document.getElementById('container').style.displ
                   <span class="entry-content">@<a class="tweet-url username" href="/monicakcampbell" rel="nofollow">monicakcampbell</a> Wow, this is really neat.  Where is this from?</span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/217248172471361536">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/217248172471361536">
     <span class="published timestamp" data="{time:'Mon Jun 25 13:29:35 +0000 2012'}">6:29 AM Jun 25th</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
-  <a href="http://twitter.com/monicaKcampbell/status/216564946572550144">in reply to monicaKcampbell</a></span>
+  <a href="https://twitter.com/monicaKcampbell/status/216564946572550144">in reply to monicaKcampbell</a></span>
 
         <ul class="meta-data clearfix">
 </ul>
@@ -791,13 +791,13 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
       <span class="status-body">
               <span class="big-retweet-icon" title="Retweets from people you follow appear in your timeline."></span>
-                    <strong><a href="http://twitter.com/Camilla_SDO" class="tweet-url screen-name">Camilla_SDO</a></strong>
+                    <strong><a href="https://twitter.com/Camilla_SDO" class="tweet-url screen-name">Camilla_SDO</a></strong>
         
-                  <span class="entry-content">Tomorrow the EVE instrument team of @<a class="tweet-url username" href="/NASA_SDO" rel="nofollow">NASA_SDO</a> will be launching their sounding rocket. <a href="/search?q=%23Sun" title="#Sun" class="tweet-url hashtag" rel="nofollow">#Sun</a> <a href="http://t.co/o0YAEMIa" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">owl.li/bLx9F</a></span>
+                  <span class="entry-content">Tomorrow the EVE instrument team of @<a class="tweet-url username" href="/NASA_SDO" rel="nofollow">NASA_SDO</a> will be launching their sounding rocket. <a href="/search?q=%23Sun" title="#Sun" class="tweet-url hashtag" rel="nofollow">#Sun</a> <a href="https://t.co/o0YAEMIa" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">owl.li/bLx9F</a></span>
             <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/Camilla_SDO/status/216227394300805121">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/Camilla_SDO/status/216227394300805121">
     <span class="published timestamp" data="{time:'Fri Jun 22 17:53:22 +0000 2012'}">10:53 AM Jun 22nd</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
   </span>
       
@@ -813,12 +813,12 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 >
     <span class="status-body">
     <span class="status-content">
-                  <span class="entry-content">Where have all the sunspots gone? <a href="/search?q=%23SDOisGO" title="#SDOisGO" class="tweet-url hashtag" rel="nofollow">#SDOisGO</a> blog: <a href="http://t.co/wHmXDmcI" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bLcg1</a></span>
+                  <span class="entry-content">Where have all the sunspots gone? <a href="/search?q=%23SDOisGO" title="#SDOisGO" class="tweet-url hashtag" rel="nofollow">#SDOisGO</a> blog: <a href="https://t.co/wHmXDmcI" target="_blank" class="tweet-url web" rel="nofollow" class="twitter-timeline-link">ow.ly/bLcg1</a></span>
           </span>
     <span class="meta entry-meta" data='{}'>
-  <a class="entry-date" rel="bookmark" href="http://twitter.com/NASA_SDO/status/216182157897506817">
+  <a class="entry-date" rel="bookmark" href="https://twitter.com/NASA_SDO/status/216182157897506817">
     <span class="published timestamp" data="{time:'Fri Jun 22 14:53:37 +0000 2012'}">7:53 AM Jun 22nd</span></a>
-  <span>via <a href="http://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
+  <span>via <a href="https://www.hootsuite.com" rel="nofollow">HootSuite</a></span>
     
   </span>
 
@@ -854,7 +854,7 @@ if(window.top === window.self) {document.getElementById('container').style.displ
       
         <li><span class="label">Name</span> <span class="fn">NASA SDO</span></li>
                   <li><span class="label">Location</span> <span class="adr">Greenbelt, MD</span></li>
-                          <li><span class="label">Web</span> <a href="http://sdo.gsfc.nasa.gov/" class="url" rel="me nofollow" target="_blank">http://sdo.gsfc.n...</a></li>
+                          <li><span class="label">Web</span> <a href="https://sdo.gsfc.nasa.gov/" class="url" rel="me nofollow" target="_blank">https://sdo.gsfc.n...</a></li>
                           <li id="bio"><span class="label">Bio</span> <span class="bio">The Solar Dynamics Observatory, NASA's newest eye on the Sun!</span></li>
               
     </ul>
@@ -901,7 +901,7 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 
   <ul id="primary_nav" class="sidebar-menu">
     <li id="profile_tab"><a href="/NASA_SDO" accesskey="u"><span id="update_count" class="stat_count">4,020</span><span>Tweets</span></a></li>
-    <li id="profile_favorites_tab"><a href="http://twitter.com/NASA_SDO/favorites" accesskey="f"><span>Favorites</span></a></li>
+    <li id="profile_favorites_tab"><a href="https://twitter.com/NASA_SDO/favorites" accesskey="f"><span>Favorites</span></a></li>
   </ul>
 
 
@@ -920,7 +920,7 @@ if(window.top === window.self) {document.getElementById('container').style.displ
 <li><a href="/NASA_SDO/esa" class="list_23812" data="&#123;&quot;name&quot;:&quot;ESA&quot;,&quot;following&quot;:false,&quot;full_name&quot;:&quot;@NASA_SDO\/esa&quot;,&quot;description&quot;:&quot;&quot;,&quot;mode&quot;:&quot;public&quot;,&quot;id_str&quot;:&quot;23812&quot;,&quot;dispatch_action&quot;:&quot;list&quot;,&quot;user&quot;:&quot;NASA_SDO&quot;,&quot;slug&quot;:&quot;esa&quot;,&quot;member_count&quot;:22,&quot;created_at&quot;:&quot;Fri Oct 16 20:39:09 +0000 2009&quot;,&quot;uri&quot;:&quot;\/NASA_SDO\/esa&quot;,&quot;subscriber_count&quot;:2,&quot;id&quot;:23812&#125;" title="@NASA_SDO/ESA"><span>@NASA_SDO/<wbr/><b>esa</b></span></a></li>
         </ul>
         <p class="sidebar-menu sidebar-menu-actions">
-          <span class="view-all"><a href="http://twitter.com/NASA_SDO/lists">View all</a></span>
+          <span class="view-all"><a href="https://twitter.com/NASA_SDO/lists">View all</a></span>
         </p>
           </div>
       
@@ -935,147 +935,147 @@ if(window.top === window.self) {document.getElementById('container').style.displ
   <div id="following_list">
     
   <span class="vcard">
-    <a href="/NASAVoyager" class="url" hreflang="en" rel="contact" title="NASA Voyager"><img alt="NASA Voyager" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1329836642/voyager_blurb_226x170_mini.jpg" width="24" /></a>  </span>
+    <a href="/NASAVoyager" class="url" hreflang="en" rel="contact" title="NASA Voyager"><img alt="NASA Voyager" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1329836642/voyager_blurb_226x170_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/UAVSAR" class="url" hreflang="en" rel="contact" title="UAVSAR"><img alt="UAVSAR" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/54996212/g3_mini.jpg" width="24" /></a>  </span>
+    <a href="/UAVSAR" class="url" hreflang="en" rel="contact" title="UAVSAR"><img alt="UAVSAR" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/54996212/g3_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/NASASpaceWxCtr" class="url" hreflang="en" rel="contact" title="NASAGoddard Space Wx"><img alt="NASAGoddard Space Wx" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/2284423841/qg4wntyl63z8t08bk209_mini.png" width="24" /></a>  </span>
+    <a href="/NASASpaceWxCtr" class="url" hreflang="en" rel="contact" title="NASAGoddard Space Wx"><img alt="NASAGoddard Space Wx" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/2284423841/qg4wntyl63z8t08bk209_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/spaceweatherman" class="url" hreflang="en" rel="contact" title="Dr. Tony Phillips"><img alt="Dr. Tony Phillips" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1099594304/Tony_mini.jpg" width="24" /></a>  </span>
+    <a href="/spaceweatherman" class="url" hreflang="en" rel="contact" title="Dr. Tony Phillips"><img alt="Dr. Tony Phillips" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1099594304/Tony_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/SIObservatory" class="url" hreflang="en" rel="contact" title="Public Observatory"><img alt="Public Observatory" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1466178998/XV4A0056_mini.JPG" width="24" /></a>  </span>
+    <a href="/SIObservatory" class="url" hreflang="en" rel="contact" title="Public Observatory"><img alt="Public Observatory" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1466178998/XV4A0056_mini.JPG" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/shortyawards" class="url" hreflang="en" rel="contact" title="Shorty Awards"><img alt="Shorty Awards" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1184897568/shorty_logo_mini.png" width="24" /></a>  </span>
+    <a href="/shortyawards" class="url" hreflang="en" rel="contact" title="Shorty Awards"><img alt="Shorty Awards" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1184897568/shorty_logo_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/MrChrisMathew" class="url" hreflang="en" rel="contact" title="Chris Mathew"><img alt="Chris Mathew" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1618133783/2011-09-24_12-40-06_175_mini.jpg" width="24" /></a>  </span>
+    <a href="/MrChrisMathew" class="url" hreflang="en" rel="contact" title="Chris Mathew"><img alt="Chris Mathew" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1618133783/2011-09-24_12-40-06_175_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Lunar_Aurora" class="url" hreflang="id" rel="contact" title="Rofiqotus Sakdiyah"><img alt="Rofiqotus Sakdiyah" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1535762721/aurora__1__mini.jpg" width="24" /></a>  </span>
+    <a href="/Lunar_Aurora" class="url" hreflang="id" rel="contact" title="Rofiqotus Sakdiyah"><img alt="Rofiqotus Sakdiyah" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1535762721/aurora__1__mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Space_Sugar" class="url" hreflang="en" rel="contact" title="Jeffrey Sugar"><img alt="Jeffrey Sugar" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1395926111/bedb977d-de3c-4b2c-8ad6-b023aa67db0d_mini.png" width="24" /></a>  </span>
+    <a href="/Space_Sugar" class="url" hreflang="en" rel="contact" title="Jeffrey Sugar"><img alt="Jeffrey Sugar" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1395926111/bedb977d-de3c-4b2c-8ad6-b023aa67db0d_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/AmazingPics" class="url" hreflang="en" rel="contact" title="Amazing Photography"><img alt="Amazing Photography" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1385195837/aptwitter_mini.jpg" width="24" /></a>  </span>
+    <a href="/AmazingPics" class="url" hreflang="en" rel="contact" title="Amazing Photography"><img alt="Amazing Photography" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1385195837/aptwitter_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/capitalweather" class="url" hreflang="en" rel="contact" title="Capital Weather Gang"><img alt="Capital Weather Gang" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1153033192/logo_mini.jpg" width="24" /></a>  </span>
+    <a href="/capitalweather" class="url" hreflang="en" rel="contact" title="Capital Weather Gang"><img alt="Capital Weather Gang" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1153033192/logo_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/LearningLateral" class="url" hreflang="en" rel="contact" title="Christian Greer"><img alt="Christian Greer" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/437962851/twitter_crab_mini.png" width="24" /></a>  </span>
+    <a href="/LearningLateral" class="url" hreflang="en" rel="contact" title="Christian Greer"><img alt="Christian Greer" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/437962851/twitter_crab_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/nightskynetwork" class="url" hreflang="en" rel="contact" title="NASA NightSkyNetwork"><img alt="NASA NightSkyNetwork" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1422382183/nsn_asp_logo_mini.jpg" width="24" /></a>  </span>
+    <a href="/nightskynetwork" class="url" hreflang="en" rel="contact" title="NASA NightSkyNetwork"><img alt="NASA NightSkyNetwork" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1422382183/nsn_asp_logo_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/neiltyson" class="url" hreflang="en" rel="contact" title="Neil deGrasse Tyson"><img alt="Neil deGrasse Tyson" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_mini.jpg" width="24" /></a>  </span>
+    <a href="/neiltyson" class="url" hreflang="en" rel="contact" title="Neil deGrasse Tyson"><img alt="Neil deGrasse Tyson" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/74188698/NeilTysonOriginsA-Crop_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/sciencecomedian" class="url" hreflang="en" rel="contact" title="Brian Malow"><img alt="Brian Malow" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/71525704/BrianSerious128x128_mini.jpg" width="24" /></a>  </span>
+    <a href="/sciencecomedian" class="url" hreflang="en" rel="contact" title="Brian Malow"><img alt="Brian Malow" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/71525704/BrianSerious128x128_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/SunDC" class="url" hreflang="en" rel="contact" title="The Sun in DC"><img alt="The Sun in DC" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1759601953/SunDC_mini.jpg" width="24" /></a>  </span>
+    <a href="/SunDC" class="url" hreflang="en" rel="contact" title="The Sun in DC"><img alt="The Sun in DC" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1759601953/SunDC_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/SETIInstitute" class="url" hreflang="en" rel="contact" title="The SETI Institute"><img alt="The SETI Institute" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/420586010/SETI_logo_CMYK_mini.jpg" width="24" /></a>  </span>
+    <a href="/SETIInstitute" class="url" hreflang="en" rel="contact" title="The SETI Institute"><img alt="The SETI Institute" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/420586010/SETI_logo_CMYK_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Astro_Ferg" class="url" hreflang="en" rel="contact" title="Christopher Ferguson"><img alt="Christopher Ferguson" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1291867805/jsc2003e55802_cropped_mini.jpg" width="24" /></a>  </span>
+    <a href="/Astro_Ferg" class="url" hreflang="en" rel="contact" title="Christopher Ferguson"><img alt="Christopher Ferguson" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1291867805/jsc2003e55802_cropped_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Astro_Doug" class="url" hreflang="en" rel="contact" title="Douglas Hurley"><img alt="Douglas Hurley" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1296425952/jsc2011e026188_cropped_mini.jpg" width="24" /></a>  </span>
+    <a href="/Astro_Doug" class="url" hreflang="en" rel="contact" title="Douglas Hurley"><img alt="Douglas Hurley" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1296425952/jsc2011e026188_cropped_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Astro_Rex" class="url" hreflang="en" rel="contact" title="Rex J. Walheim"><img alt="Rex J. Walheim" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1319192920/s122e008323_Rex_in_PL_Bay_resize_mini.jpg" width="24" /></a>  </span>
+    <a href="/Astro_Rex" class="url" hreflang="en" rel="contact" title="Rex J. Walheim"><img alt="Rex J. Walheim" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1319192920/s122e008323_Rex_in_PL_Bay_resize_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/airandspaceCOMM" class="url" hreflang="en" rel="contact" title="airandspaceCOMM"><img alt="airandspaceCOMM" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1418810128/wrightflyer_mini.jpg" width="24" /></a>  </span>
+    <a href="/airandspaceCOMM" class="url" hreflang="en" rel="contact" title="airandspaceCOMM"><img alt="airandspaceCOMM" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1418810128/wrightflyer_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/NASAgames" class="url" hreflang="en" rel="contact" title="NASA Games"><img alt="NASA Games" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/962460426/rover-200_mini.jpg" width="24" /></a>  </span>
+    <a href="/NASAgames" class="url" hreflang="en" rel="contact" title="NASA Games"><img alt="NASA Games" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/962460426/rover-200_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/AstroAcaba" class="url" hreflang="en" rel="contact" title="Joseph M. Acaba"><img alt="Joseph M. Acaba" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1446872866/acaba_cropped_mini.jpg" width="24" /></a>  </span>
+    <a href="/AstroAcaba" class="url" hreflang="en" rel="contact" title="Joseph M. Acaba"><img alt="Joseph M. Acaba" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1446872866/acaba_cropped_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/csa_asc" class="url" hreflang="en" rel="contact" title="CanadianSpaceAgency"><img alt="CanadianSpaceAgency" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1234936380/logo_mini.jpg" width="24" /></a>  </span>
+    <a href="/csa_asc" class="url" hreflang="en" rel="contact" title="CanadianSpaceAgency"><img alt="CanadianSpaceAgency" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1234936380/logo_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/astro_andre" class="url" hreflang="en" rel="contact" title="André Kuipers"><img alt="André Kuipers" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1617723648/DSC03605_mini.JPG" width="24" /></a>  </span>
+    <a href="/astro_andre" class="url" hreflang="en" rel="contact" title="André Kuipers"><img alt="André Kuipers" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1617723648/DSC03605_mini.JPG" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/Astro_SPDM" class="url" hreflang="en" rel="contact" title="SPDM Dextre"><img alt="SPDM Dextre" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1154292079/Spdm_mini.jpg" width="24" /></a>  </span>
+    <a href="/Astro_SPDM" class="url" hreflang="en" rel="contact" title="SPDM Dextre"><img alt="SPDM Dextre" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1154292079/Spdm_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/astro_Pettit" class="url" hreflang="en" rel="contact" title="Don Pettit"><img alt="Don Pettit" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1382147852/D_Pettit_Star_City-1_mini.JPG" width="24" /></a>  </span>
+    <a href="/astro_Pettit" class="url" hreflang="en" rel="contact" title="Don Pettit"><img alt="Don Pettit" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1382147852/D_Pettit_Star_City-1_mini.JPG" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/J2XEngine" class="url" hreflang="en" rel="contact" title="J-2X Engine"><img alt="J-2X Engine" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1224756407/499092main_J2X_eng_4_5_5_12_09_800-600_mini.jpg" width="24" /></a>  </span>
+    <a href="/J2XEngine" class="url" hreflang="en" rel="contact" title="J-2X Engine"><img alt="J-2X Engine" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1224756407/499092main_J2X_eng_4_5_5_12_09_800-600_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/TEDxNASA" class="url" hreflang="en" rel="contact" title="TEDxNASA"><img alt="TEDxNASA" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1490072746/TEDxTEDxNASA5_mini.jpg" width="24" /></a>  </span>
+    <a href="/TEDxNASA" class="url" hreflang="en" rel="contact" title="TEDxNASA"><img alt="TEDxNASA" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1490072746/TEDxTEDxNASA5_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/NASATechGateway" class="url" hreflang="en" rel="contact" title="NASATechGateway"><img alt="NASATechGateway" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/74254804/2_twitter_techgateway_icon_mini.jpg" width="24" /></a>  </span>
+    <a href="/NASATechGateway" class="url" hreflang="en" rel="contact" title="NASATechGateway"><img alt="NASATechGateway" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/74254804/2_twitter_techgateway_icon_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/klout" class="url" hreflang="en" rel="contact" title="Klout"><img alt="Klout" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1801836664/klout-flag-square-2_mini.png" width="24" /></a>  </span>
+    <a href="/klout" class="url" hreflang="en" rel="contact" title="Klout"><img alt="Klout" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1801836664/klout-flag-square-2_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/astro_luca" class="url" hreflang="en" rel="contact" title="Luca Parmitano"><img alt="Luca Parmitano" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1334358489/image_mini.jpg" width="24" /></a>  </span>
+    <a href="/astro_luca" class="url" hreflang="en" rel="contact" title="Luca Parmitano"><img alt="Luca Parmitano" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1334358489/image_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/spaceupdc" class="url" hreflang="en" rel="contact" title="SpaceUpDC"><img alt="SpaceUpDC" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/742619794/spaceupdc-icon-fullsize_mini.png" width="24" /></a>  </span>
+    <a href="/spaceupdc" class="url" hreflang="en" rel="contact" title="SpaceUpDC"><img alt="SpaceUpDC" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/742619794/spaceupdc-icon-fullsize_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/talkingspace" class="url" hreflang="en" rel="contact" title="Talking Space"><img alt="Talking Space" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/604603096/Talking_Space_mini.jpg" width="24" /></a>  </span>
+    <a href="/talkingspace" class="url" hreflang="en" rel="contact" title="Talking Space"><img alt="Talking Space" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/604603096/Talking_Space_mini.jpg" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/terrazoom" class="url" hreflang="en" rel="contact" title="John Williams"><img alt="John Williams" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/568907252/terraZoomBadge_mini.png" width="24" /></a>  </span>
+    <a href="/terrazoom" class="url" hreflang="en" rel="contact" title="John Williams"><img alt="John Williams" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/568907252/terraZoomBadge_mini.png" width="24" /></a>  </span>
 
 
   <span class="vcard">
-    <a href="/DrVonBraun" class="url" hreflang="en" rel="contact" title="Wernher Von Braun"><img alt="Wernher Von Braun" class="photo fn" height="24" src="http://a0.twimg.com/profile_images/1743955538/VonBraunTwitter_mini.jpg" width="24" /></a>  </span>
+    <a href="/DrVonBraun" class="url" hreflang="en" rel="contact" title="Wernher Von Braun"><img alt="Wernher Von Braun" class="photo fn" height="24" src="https://a0.twimg.com/profile_images/1743955538/VonBraunTwitter_mini.jpg" width="24" /></a>  </span>
 
 
   </div>
@@ -1117,8 +1117,8 @@ if(window.top === window.self) {document.getElementById('container').style.displ
           <li class="first">&copy; 2012 Twitter</li>
           <li><a href="/about">About Us</a></li>
           <li><a href="/about/contact">Contact</a></li>
-          <li><a href="http://blog.twitter.com">Blog</a></li>
-          <li><a href="http://status.twitter.com">Status</a></li>
+          <li><a href="https://blog.twitter.com">Blog</a></li>
+          <li><a href="https://status.twitter.com">Status</a></li>
                       <li><a href="/about/resources">Resources</a></li>
                     <li><a href="//dev.twitter.com/">API</a></li>
                       <li><a href="//business.twitter.com/index_en.html">Business</a></li>
@@ -1136,20 +1136,20 @@ if(window.top === window.self) {document.getElementById('container').style.displ
     
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.0/jquery.min.js" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/twitter.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/lib/jquery.tipsy.min.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/twitter.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/lib/jquery.tipsy.min.js?1340729676" type="text/javascript"></script>
 <script type='text/javascript' src='//www.google.com/jsapi'></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/lib/gears_init.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/lib/mustache.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/geov1.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/api.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/lib/gears_init.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/lib/mustache.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/geov1.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/api.js?1340729676" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 $.cookie('tz_offset_sec', (-1 * (new Date()).getTimezoneOffset())*60);
 //]]>
 </script>
-  <script src="http://a0.twimg.com/a/1340997209/javascripts/lib/mustache.js?1340729676" type="text/javascript"></script>
-<script src="http://a0.twimg.com/a/1340997209/javascripts/dismissable.js?1340729676" type="text/javascript"></script>
+  <script src="https://a0.twimg.com/a/1340997209/javascripts/lib/mustache.js?1340729676" type="text/javascript"></script>
+<script src="https://a0.twimg.com/a/1340997209/javascripts/dismissable.js?1340729676" type="text/javascript"></script>
   
 
 <script type="text/javascript">
@@ -1195,7 +1195,7 @@ $.cookie('tz_offset_sec', (-1 * (new Date()).getTimezoneOffset())*60);
         <!-- BEGIN google analytics -->
 
   <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "https://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
   </script>
 

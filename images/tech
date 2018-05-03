@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
 <html 
-     xmlns="http://www.w3.org/1999/xhtml" 
-     xmlns:dc="http://purl.org/dc/elements/1.1/" 
-     xmlns:ctag="http://commontag.org/ns#" 
+     xmlns="https://www.w3.org/1999/xhtml" 
+     xmlns:dc="https://purl.org/dc/elements/1.1/" 
+     xmlns:ctag="https://commontag.org/ns#" 
           lang="en" 
      dir="ltr"
-     prefix="og: http://ogp.me/ns#"
+     prefix="og: https://ogp.me/ns#"
      version="XHTML+RDFa 1.0" >
 
 <head>
@@ -21,8 +21,8 @@
 <link rel="shortcut icon" href="/sites/default/themes/whitehouse/favicon.ico" type="image/x-icon" />
 <meta name="keywords" content="President,Barack Obama,White House,United States of America,44th President,White House history,President Obama,Barck,Barek,Barak,Barrack,Barrak,Obma,Barack" />
 <meta property="fb:admins" content="100000095507875" />
-<meta property="og:image" content="http://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
-<link rel="canonical" href="http://www.whitehouse.gov/tech" />
+<meta property="og:image" content="https://www.whitehouse.gov/sites/default/files/image/facebook/whitehouse_logo.jpg" />
+<link rel="canonical" href="https://www.whitehouse.gov/tech" />
   <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css_injector_13.css?Z" />
 <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/advagg_css/css_d6e34a8654779bffec99b4cdddb72dac_1.css" />
 <link type="text/css" rel="stylesheet" media="print" href="/sites/default/files/advagg_css/css_c95568c523ce75320a9733bf64492f9c_21.css" />
@@ -38,7 +38,7 @@
   <script type="text/javascript" src="/sites/default/files/advagg_js/js_bb4f3666b6a820d075f759f44278a277_6.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"http:\/\/wh.gov\/lAB","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"http:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"updates_newsletter_nid":"61495","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"utility_bar":{"utility_bar_messages_display":false,"user_logged_in":[false,false],"display_anon":[1,1],"recaptcha":{"theme":"clean","public_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3"}},"wh_feedback_form_node":"66319","wh_feedback_form_path":"\/feedback-form","wh_feedback_recaptcha_key":"6LePYwgAAAAAAKFMpElbWkKIuvp-2Iro3yq7fuA3","wh_feedback_use_recaptcha":0,"addthis":{"config_default":{"pubid":"thewhitehouse","data_track_clickback":false,"data_use_cookies":false,"services_exclude":"amenme,spruzer","services_compact":"digg,google_plusone_share,instapaper,linkedin,reddit,stumbleupon","ui_508_compliant":true,"ui_click":true},"share_default":{"url":"https:\/\/wh.gov\/lAB","templates":{"twitter":"{{title}}: {{url}} @whitehouse"}}},"wh_petitions":{"petition_hostname":"https:\/\/www.whitehouse.gov","petition_app_path":"petition-tool"},"wh_userreg":{"wh_userreg_thanks_message":"IMPORTANT: You have not finished creating your account. You will receive an email from us within a few minutes. You must click on the link in that email to continue."}});
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -225,13 +225,13 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                             </ul>
                                       <div id="nav-issues-feature" class="topnav-feature">
                 <div class="cp_tile ">  <div id="block-nodeblock-43315" class="clear-block block block-nodeblock ">
-  <div class="content"><p class="menu-feature-title"><a href="http://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
+  <div class="content"><p class="menu-feature-title"><a href="https://www.whitehouse.gov/refi">The President's Refinance Plan</a></p>
 <p>Helping responsible homeowners</p>
-<p><a href="http://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
+<p><a href="https://www.whitehouse.gov/refi"><img src="/sites/default/files/image/image_file/nav_featured_issues_refi.jpg" alt="Refinancing" /></a></p>
 <hr />
-<p class="menu-feature-title"><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
+<p class="menu-feature-title"><a href="https://www.whitehouse.gov/issues/taxes/tax-receipt">Your Federal Tax Receipt</a></p>
 <p>See how your federal tax dollars are spent</p>
-<p><a href="http://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
+<p><a href="https://www.whitehouse.gov/issues/taxes/tax-receipt"><img src="/sites/default/files/image/featured_tax_receipt.jpg" alt="Calculate Your Federal Taxpayer Receipt" /></a></p>
 </div>
 </div>
 </div>              </div>
@@ -258,7 +258,7 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                   <a href="/administration/jill-biden">Dr. Jill Biden</a>                                </li>
                               <li>
                   <a href="/administration/cabinet">The Cabinet</a>                                  <ul class="topnav-dd-inner-sub">
-                                      <li><a href="http://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
+                                      <li><a href="https://www.whitehouse.gov/2010-Cabinet-Reports">2010 Video Reports</a></li>
                                     </ul>
                                 </li>
                             </ul>
@@ -341,7 +341,7 @@ var RecaptchaOptions = { "theme": "clean", "lang": "en" };
                   <a href="/about/tours-and-events">Tours &amp; Events</a>                                  <ul class="topnav-dd-inner-sub">
                                       <li><a href="/eastereggroll">2012 Easter Egg Roll</a></li>
                                       <li><a href="/eastereggroll">2011 Easter Egg Roll</a></li>
-                                      <li><a href="http://www.whitehouse.gov/holidays">Holidays 2011</a></li>
+                                      <li><a href="https://www.whitehouse.gov/holidays">Holidays 2011</a></li>
                                       <li><a href="/about/tours_and_events/garden">Kitchen Garden Tours</a></li>
                                     </ul>
                                 </li>
@@ -385,7 +385,7 @@ if(typeof(jQuery)!='undefined')jQuery.each($('.topnav-feature','#topnav'),functi
       <div id='emergency'>  <div id="block-nodeblock-161695" class="clear-block block block-nodeblock ">
   <div class="content"><style type="text/css">
 a.health-takeover{
-  background: url(http://www.whitehouse.gov/sites/default/files/healthcare/emergency_takeover_background.jpg) left top no-repeat;
+  background: url(https://www.whitehouse.gov/sites/default/files/healthcare/emergency_takeover_background.jpg) left top no-repeat;
   width: 976px;
   height: 100px;
   display: block;
@@ -400,7 +400,7 @@ a.health-takeover{
   display: inline-block;
 }
 .changes{
-background: url(http://www.whitehouse.gov/sites/default/files/healthcare/take_over_wh_arrow.png) no-repeat 100% 50%;
+background: url(https://www.whitehouse.gov/sites/default/files/healthcare/take_over_wh_arrow.png) no-repeat 100% 50%;
 color: white;
 float: right;
 font-family: arial, sans-serif;
@@ -424,7 +424,7 @@ text-decoration: underline;
     <div id="subhead-wrapper">
   	<div id="breadcrumb"><div class="breadcrumb"><a href="/">Home</a> • WhiteHouse.gov Tech</div></div><!--/#subhead-->
       <div id="sub-search">
-                  <form action="http://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
+                  <form action="https://search.whitehouse.gov/search"  accept-charset="UTF-8" method="get" id="usasearch-box">
 <div><input type="hidden" name="affiliate" id="edit-affiliate-id" value="wh"  />
 <div class="form-item clearfix" id="edit-text-field-wrapper">
  <input type="text" maxlength="128" name="query" id="edit-text-field" size="15" value="" title="Enter the terms you wish to search for." class="form-text search-field" />
@@ -465,9 +465,9 @@ text-decoration: underline;
 <div class="post-info">Posted by <span class="author">Cameron F. Kerry</span> on March 7, 2012 at 7:08 PM EDT</div>
 
 <p><p jquery1331161280813="26">
-	<span style="font-size: 1em"><em>Ed. note: This was cross-posted from <a href="http://www.commerce.gov/blog">The Commerce Blog</a>, the US Department of Commerce blog. </em></span></p>
+	<span style="font-size: 1em"><em>Ed. note: This was cross-posted from <a href="https://www.commerce.gov/blog">The Commerce Blog</a>, the US Department of Commerce blog. </em></span></p>
 <p jquery1331161280813="26">
-	As co-chair of the National Science and Technology Council Subcommittee on Privacy and Internet Policy, I am proud to have worked on the Obama administration&rsquo;s comprehensive blueprint to improve consumer privacy protections, the &ldquo;<a href="http://www.whitehouse.gov/sites/default/files/privacy-final.pdf">Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy</a>&rdquo; (PDF).&nbsp; As the president stated in the report, &ldquo;we must reject the conclusion that privacy is an outmoded value.&nbsp; It has been at the heart of our democracy from its inception, and we need it now more than ever.&rdquo;</p>
+	As co-chair of the National Science and Technology Council Subcommittee on Privacy and Internet Policy, I am proud to have worked on the Obama administration&rsquo;s comprehensive blueprint to improve consumer privacy protections, the &ldquo;<a href="https://www.whitehouse.gov/sites/default/files/privacy-final.pdf">Consumer Data Privacy in a Networked World: A Framework for Protecting Privacy and Promoting Innovation in the Global Digital Economy</a>&rdquo; (PDF).&nbsp; As the president stated in the report, &ldquo;we must reject the conclusion that privacy is an outmoded value.&nbsp; It has been at the heart of our democracy from its inception, and we need it now more than ever.&rdquo;</p>
 <p>	This is the message I took to European lawmakers, officials, and businesses about the administration&rsquo;s privacy policy framework. Central to the framework is the tenet that consumers who have confidence their privacy is respected are more likely to express themselves online, engage in commercial activity, and form social connections on the Internet. Consumer trust is essential for a strong digital economy, which in turn provides a platform for greater innovation and job creation.</p></p>
 
     
@@ -479,7 +479,7 @@ text-decoration: underline;
 <div class="post-info">Posted by <span class="author">Lori Garver</span> on June 24, 2011 at 4:05 PM EDT</div>
 
 <p><p>
-	<em>Crossposted from the <a href="http://blogs.nasa.gov/cm/blog/garver/posts/post_1308941347553.html">NASA blog</a>. </em></p>
+	<em>Crossposted from the <a href="https://blogs.nasa.gov/cm/blog/garver/posts/post_1308941347553.html">NASA blog</a>. </em></p>
 <p>
 	NASA has always been on the cutting edge of innovation, investing time, energy and resources into the technologies of tomorrow. Technologies that can be spun-off into the private sector to help create jobs and improve the quality of life of all Americans.</p>
 <p>
@@ -487,7 +487,7 @@ text-decoration: underline;
 <div class="embed">
 	
 <div class="clearfix" id="small-node-embed-image-detail">
-  <img src="http://www.whitehouse.gov/sites/default/files/imagecache/embedded_img_small/image/image_file/lori_garver_2_0.jpg" alt="NASA Deputy Administrator Lori Garver and Karen Taminger the lead engineer on the NASA EBF3 project. " title="NASA Deputy Administrator Lori Garver and Karen Taminger the lead engineer on the NASA EBF3 project. "  class="imagecache imagecache-embedded_img_small" width="430" height="323" />  <p>
+  <img src="https://www.whitehouse.gov/sites/default/files/imagecache/embedded_img_small/image/image_file/lori_garver_2_0.jpg" alt="NASA Deputy Administrator Lori Garver and Karen Taminger the lead engineer on the NASA EBF3 project. " title="NASA Deputy Administrator Lori Garver and Karen Taminger the lead engineer on the NASA EBF3 project. "  class="imagecache imagecache-embedded_img_small" width="430" height="323" />  <p>
     NASA Deputy Administrator Lori Garver and Karen Taminger, the lead engineer on the Electron Beam Freeform Fabrication, or EBF3 project visiting a NASA field center holding an aircraft part made by the EBF3 during a demonstration. (Photo by NASA/Sean Smith)
 
     
@@ -509,11 +509,11 @@ text-decoration: underline;
 <div class="post-info">Posted by <span class="author">Macon Phillips</span> on June 13, 2011 at 2:50 PM EDT</div>
 
 <p><p>
-	As the President points out in <a href="http://www.whitehouse.gov/blog/2011/06/13/video-president-obama-and-vice-president-biden-launch-campaign-cut-waste">this video</a>, our government doesn&rsquo;t need a <a href="http://Fiddllinforresters.gov">website</a> dedicated to foresters who play the fiddle. We also don&rsquo;t need multiple sites dealing with invasive plants (<a href="http://Invasivespecies.gov">here</a>&nbsp;and <a href="http://invasivespeciesinfo.gov/">here</a>).&nbsp; And I&lsquo;m pretty sure the <a href="http://www.centennialofflight.gov">website</a> dedicated to the Centennial of Flight can come down... particularly since the Centennial was in 2003.</p>
+	As the President points out in <a href="https://www.whitehouse.gov/blog/2011/06/13/video-president-obama-and-vice-president-biden-launch-campaign-cut-waste">this video</a>, our government doesn&rsquo;t need a <a href="https://Fiddllinforresters.gov">website</a> dedicated to foresters who play the fiddle. We also don&rsquo;t need multiple sites dealing with invasive plants (<a href="https://Invasivespecies.gov">here</a>&nbsp;and <a href="https://invasivespeciesinfo.gov/">here</a>).&nbsp; And I&lsquo;m pretty sure the <a href="https://www.centennialofflight.gov">website</a> dedicated to the Centennial of Flight can come down... particularly since the Centennial was in 2003.</p>
 <p>
 	As President Obama has said, we can&rsquo;t win the future with a government of the past. How our government uses the internet to communicate and deliver services is an obvious and critical part of this modernization effort.</p>
 <p>
-	Today, there are nearly 2,000 top-level federal .gov domains (this means a top-level url, [WEBSITENAME].gov, that links to a distinct website). This includes <a href="http://WhiteHouse.gov">WhiteHouse.gov</a>, as well as others like <a href="http://USDA.gov">USDA.gov</a>, <a href="http://USASpending.gov">USASpending.gov</a>, <a href="http://NOAA.gov">NOAA.gov</a> and <a href="http://USA.gov">USA.gov</a>. Under many of these domains are smaller sub-sites and microsites resulting in an estimated 24,000 websites of varying purpose, design, navigation, usability, and accessibility.</p>
+	Today, there are nearly 2,000 top-level federal .gov domains (this means a top-level url, [WEBSITENAME].gov, that links to a distinct website). This includes <a href="https://WhiteHouse.gov">WhiteHouse.gov</a>, as well as others like <a href="https://USDA.gov">USDA.gov</a>, <a href="https://USASpending.gov">USASpending.gov</a>, <a href="https://NOAA.gov">NOAA.gov</a> and <a href="https://USA.gov">USA.gov</a>. Under many of these domains are smaller sub-sites and microsites resulting in an estimated 24,000 websites of varying purpose, design, navigation, usability, and accessibility.</p>
 <p>
 	While many government websites each deliver value to the taxpayer through easy-to-use services and information, an overall online landscape of literally thousands of websites &ndash; each focusing on a specific topic or organization &ndash; can create confusion and inefficiency.</p></p>
 
@@ -532,7 +532,7 @@ text-decoration: underline;
 <p>
 	This wasn&rsquo;t a scientific survey. The results reflect the opinions of those who took the time to respond to our posts and tweets and to complete the survey, and this kind of feedback is really helpful. We&rsquo;ll be using this information to help improve and guide the efforts of our online program in the upcoming weeks and months.</p>
 <p>
-	If you haven&rsquo;t already, don&rsquo;t forget to join us on Facebook at <a href="http://www.facebook.com/WhiteHouse">Facebook.com/Whitehouse</a> and on Twitter at <a href="https://twitter.com/#!/whitehouse">@Whitehouse</a>.&nbsp;</p>
+	If you haven&rsquo;t already, don&rsquo;t forget to join us on Facebook at <a href="https://www.facebook.com/WhiteHouse">Facebook.com/Whitehouse</a> and on Twitter at <a href="https://twitter.com/#!/whitehouse">@Whitehouse</a>.&nbsp;</p>
 <p>
 	Here are a few interesting things we&rsquo;ve learned: &nbsp;</p>
 <ul>
@@ -578,25 +578,25 @@ text-decoration: underline;
 <td style="border-style:hidden;">
 				<a href="https://market.android.com/details?id=gov.whitehouse"><img alt="Download the Android App" src="/sites/default/files/tout/btn_android.jpg" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; width: 200px; height: 23px; " /></a></td>
 <td style="border-style:hidden;">
-				<a href="http://itunes.apple.com/us/app/the-white-house/id350190807?mt=8&amp;ls=1"><img alt="Download the iPhone App" src="/sites/default/files/tout/btn_iphone.jpg" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; width: 200px; height: 23px; " /></a></td>
+				<a href="https://itunes.apple.com/us/app/the-white-house/id350190807?mt=8&amp;ls=1"><img alt="Download the iPhone App" src="/sites/default/files/tout/btn_iphone.jpg" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; width: 200px; height: 23px; " /></a></td>
 </tr>
 </tbody>
 </table>
 <p>
 	Today, we&#39;re announcing two new developments for the White House&#39;s mobile apps.<img alt="The White House has iPhone and Android applications" src="/sites/default/files/tout/mobile_ver2.jpg" style="border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; float: right; width: 221px; height: 292px; " /></p>
 <p>
-	Now, with the newly upgraded White House iPhone app, you can get an alert that President Obama is about to speak, then watch it live, right in the palm of your hand. Over 400,000 people have already downloaded the app, so if you don&rsquo;t already have it <a href="http://itunes.apple.com/us/app/the-white-house/id350190807?mt=8&amp;ls=1">make sure you do</a>.</p>
+	Now, with the newly upgraded White House iPhone app, you can get an alert that President Obama is about to speak, then watch it live, right in the palm of your hand. Over 400,000 people have already downloaded the app, so if you don&rsquo;t already have it <a href="https://itunes.apple.com/us/app/the-white-house/id350190807?mt=8&amp;ls=1">make sure you do</a>.</p>
 <p>
 	That&rsquo;s not all. When we first released the iPhone app, we heard from a lot of Android owners who wanted something for their devices, too. So we&rsquo;re excited to announce the White House&rsquo;s new <a href="https://market.android.com/details?id=gov.whitehouse">official mobile app for the Android operating system</a>.</p>
 <p>
 	With both of these mobile apps, Americans can get alerts directly from the White House, check out behind-the-scenes photos and videos, and read the latest news from the blog or the Briefing Room.</p>
 <p>
-	As a reminder, WhiteHouse.gov is also optimized for any mobile phone&rsquo;s browser. Take a look at <a href="http://m.whitehouse.gov/">http://m.whitehouse.gov/</a> to check it out.</p>
+	As a reminder, WhiteHouse.gov is also optimized for any mobile phone&rsquo;s browser. Take a look at <a href="https://m.whitehouse.gov/">https://m.whitehouse.gov/</a> to check it out.</p>
 <p>
 	According to the numbers, more and more of you are using mobile devices to access content on WhiteHouse.gov. In the last two months, 6.6% of visits to&nbsp;WhiteHouse.gov came from&nbsp;the iOS or Android operating system - nearly double the share of visits over the same period last year (3.6%).&nbsp;</p>
 <p><meta charset="utf-8" /></p>
 <p>
-	We&rsquo;re constantly working to make it easier for the American public to connect with the Administration.&nbsp;<a href="http://www.whitehouse.gov/tech/feedback">Please give us feedback on these new apps, the mobile website or anything else related to the White House online program&rsquo;s technology</a>.</p></p>
+	We&rsquo;re constantly working to make it easier for the American public to connect with the Administration.&nbsp;<a href="https://www.whitehouse.gov/tech/feedback">Please give us feedback on these new apps, the mobile website or anything else related to the White House online program&rsquo;s technology</a>.</p></p>
 
 
     <div class="sub-links">Learn more about <a href="/issues/technology">Technology</a></div><!--/.sub-links-->
@@ -605,9 +605,9 @@ text-decoration: underline;
 <div class="post-info">Posted by <span class="author"><a href="/author-detail/139">Rob Winikates</a></span> on February 11, 2011 at 9:07 PM EDT</div>
 
 <p><p>
-	Friday morning&nbsp;at the <a href="http://www.state.gov/statecraft/tech/opensource/index.htm">Tech@State event at the State Department</a>, the White House&#39;s New Media Director Macon Phillips announced the White House&rsquo;s second code release&nbsp;to the&nbsp;open source <a href="http://drupal.org">community that powers the&nbsp;Drupal content management system</a>.</p>
+	Friday morning&nbsp;at the <a href="https://www.state.gov/statecraft/tech/opensource/index.htm">Tech@State event at the State Department</a>, the White House&#39;s New Media Director Macon Phillips announced the White House&rsquo;s second code release&nbsp;to the&nbsp;open source <a href="https://drupal.org">community that powers the&nbsp;Drupal content management system</a>.</p>
 <div>
-	Last April, we released <a href="http://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">f</a><a href="http://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">our modules for the Drupal community</a>, which focused on the scalability, communication, and accessibility of our site.</div>
+	Last April, we released <a href="https://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">f</a><a href="https://www.whitehouse.gov/blog/2010/04/21/whitehousegov-releases-open-source-code">our modules for the Drupal community</a>, which focused on the scalability, communication, and accessibility of our site.</div>
 <div>
 	&nbsp;</div>
 <div>
@@ -615,7 +615,7 @@ text-decoration: underline;
 <div>
 	&nbsp;</div>
 <div>
-	For the code originating from within the White House, we wanted to improve the&nbsp;functionality offered by&nbsp;a&nbsp;popular file manager,&nbsp;<a href="http://drupal.org/project/imce">IMCE</a>, so we developed a module called <a href="http://drupal.org/project/imce_tools">IMCE tools</a>, which has three major functions:</div>
+	For the code originating from within the White House, we wanted to improve the&nbsp;functionality offered by&nbsp;a&nbsp;popular file manager,&nbsp;<a href="https://drupal.org/project/imce">IMCE</a>, so we developed a module called <a href="https://drupal.org/project/imce_tools">IMCE tools</a>, which has three major functions:</div>
 <div>
 	&nbsp;</div>
 <div>
@@ -631,7 +631,7 @@ text-decoration: underline;
 <div>
 	&nbsp;</div>
 <div>
-	We also recognize that there are really good projects already embedded in the Drupal community and reached out to help support their development. &nbsp;Several of these are used in the collaboration software suite, <a href="http://drupal.org/project/openatrium">Open Atrium</a>: <a href="http://drupal.org/project/features">Features</a>, <a href="http://drupal.org/project/spaces">Spaces</a>, <a href="http://drupal.org/project/boxes">Boxes</a>, <a href="http://drupal.org/project/context">Context</a>, <a href="http://drupal.org/project/strongarm">StrongArm</a>, and <a href="http://drupal.org/project/admin">Admin</a>. &nbsp;We also supported the development of an auto-tagging module, <a href="http://drupal.org/project/opencalais">Calais</a>, a bulk file uploading utility, <a href="http://drupal.org/project/imce_swfupload">IMCE SWFupload</a>,&nbsp;as well as the module that powers our shortened <a href="http://wh.gov">wh.gov</a> domain, <a href="http://drupal.org/project/shorturl">shortURL</a>.</div></p>
+	We also recognize that there are really good projects already embedded in the Drupal community and reached out to help support their development. &nbsp;Several of these are used in the collaboration software suite, <a href="https://drupal.org/project/openatrium">Open Atrium</a>: <a href="https://drupal.org/project/features">Features</a>, <a href="https://drupal.org/project/spaces">Spaces</a>, <a href="https://drupal.org/project/boxes">Boxes</a>, <a href="https://drupal.org/project/context">Context</a>, <a href="https://drupal.org/project/strongarm">StrongArm</a>, and <a href="https://drupal.org/project/admin">Admin</a>. &nbsp;We also supported the development of an auto-tagging module, <a href="https://drupal.org/project/opencalais">Calais</a>, a bulk file uploading utility, <a href="https://drupal.org/project/imce_swfupload">IMCE SWFupload</a>,&nbsp;as well as the module that powers our shortened <a href="https://wh.gov">wh.gov</a> domain, <a href="https://drupal.org/project/shorturl">shortURL</a>.</div></p>
 
 
     <div class="sub-links">Learn more about <a href="/issues/technology">Technology</a></div><!--/.sub-links-->
@@ -640,14 +640,14 @@ text-decoration: underline;
 <div class="post-info">Posted by <span class="author"><a href="/author-detail/25">Dave Cole</a></span> on September 22, 2010 at 6:13 PM EDT</div>
 
 <p><p>
-	The Federal Communications Commission <a href="http://reboot.fcc.gov/blog?entryId=784078">just announced</a> the start of a major overhaul of <a href="http://www.fcc.gov">FCC.gov</a>, aiming to seize a &quot;special opportunity to become an expert technology agency in the federal government.&quot; The redesign focuses on making the FCC&#39;s web content more relevant and discoverable to the public, as Managing Director Steven VanRoekel writes:</p>
+	The Federal Communications Commission <a href="https://reboot.fcc.gov/blog?entryId=784078">just announced</a> the start of a major overhaul of <a href="https://www.fcc.gov">FCC.gov</a>, aiming to seize a &quot;special opportunity to become an expert technology agency in the federal government.&quot; The redesign focuses on making the FCC&#39;s web content more relevant and discoverable to the public, as Managing Director Steven VanRoekel writes:</p>
 <blockquote><p>
-		We have been hard at work in redesigning FCC.gov: defining personas of citizens and business both current and potential, building our data infrastructure (as I mentioned in my <a href="http://www.youtube.com/watch?v=08EPlG4gr1o">O&#39;Reilly Media Gov 2.0 Summit talk</a>), combing through first-ever site analytics and user surveys, and talking to people both online and off about how they would reimagine FCC.gov.</p>
+		We have been hard at work in redesigning FCC.gov: defining personas of citizens and business both current and potential, building our data infrastructure (as I mentioned in my <a href="https://www.youtube.com/watch?v=08EPlG4gr1o">O&#39;Reilly Media Gov 2.0 Summit talk</a>), combing through first-ever site analytics and user surveys, and talking to people both online and off about how they would reimagine FCC.gov.</p>
 </blockquote>
 <p>
-	At its core, the FCC&#39;s new online platform will leverage the same open source technology powering WhiteHouse.gov, and they&#39;re planning active engagement with the open source community. We&#39;ve found open source technology to be a great way maximize the scalability and accessibility of WhiteHouse.gov, and we&#39;ve even <a href="http://www.whitehouse.gov/tech">contributed some of the custom code</a> we&#39;ve written back to the public domain.</p>
+	At its core, the FCC&#39;s new online platform will leverage the same open source technology powering WhiteHouse.gov, and they&#39;re planning active engagement with the open source community. We&#39;ve found open source technology to be a great way maximize the scalability and accessibility of WhiteHouse.gov, and we&#39;ve even <a href="https://www.whitehouse.gov/tech">contributed some of the custom code</a> we&#39;ve written back to the public domain.</p>
 <p>
-	For more information about the White House&#39;s engagement with the open source community, <a href="http://www.whitehouse.gov/tech">read more</a> or <a href="http://sf2010.drupal.org/conference/sessions/open-source-government">watch the video</a> from a keynote talk I gave on this topic.</p></p>
+	For more information about the White House&#39;s engagement with the open source community, <a href="https://www.whitehouse.gov/tech">read more</a> or <a href="https://sf2010.drupal.org/conference/sessions/open-source-government">watch the video</a> from a keynote talk I gave on this topic.</p></p>
 
 
     <div class="sub-links">Learn more about <a href="/issues/technology">Technology</a></div><!--/.sub-links-->
@@ -655,11 +655,11 @@ text-decoration: underline;
                 <li class="views-row views-row-8 views-row-even views-row-last"><h3><a href="/blog/2010/04/21/whitehousegov-releases-open-source-code">WhiteHouse.gov Releases Open Source Code</a></h3>
 <div class="post-info">Posted by <span class="author"><a href="/author-detail/25">Dave Cole</a></span> on April 21, 2010 at 4:26 PM EDT</div>
 
-<p><p>As part of our ongoing effort to develop an open platform for <a href="http://whitehouse.gov">WhiteHouse.gov</a>, we're releasing some of the custom code we've developed. This code is available for anyone to review, use, or modify. We're excited to see how developers across the world put our work to good use in their own applications.</p>
-<p>By releasing some of our code, we get the benefit of more people reviewing and improving it. In fact, the majority of the code for WhiteHouse.gov is already open source as part of the <a href="http://drupal.org">Drupal project</a>. The code we're releasing today adds to Drupal's functionality in three key ways:</p>
-<p>1. Scalability: We're releasing a module called &quot;<a href="http://drupal.org/project/context_http_headers">Context HTTP Headers</a>,&quot; which allows site builders to add new metadata to the content they serve.&nbsp; We use this to tell our servers how to handle specific pages, such as cache this type of page for 15 minutes or that type for 30. A second module that addresses scalability is called &quot;<a href="http://drupal.org/project/akamai">Akamai</a>&quot; and it allows our website to integrate with our Content Delivery Network, Akamai.</p>
-<p>2. Communication: Many government agencies have active email programs that they use to communicate with the public about the services they provide. We have a mailing list for the White House, where you can get updates about new content and initiatives. To enable more dynamic emails tailored to users' preferences, we've integrated one of the popular services for government email programs with our CMS in the new module, &quot;<a href="http://drupal.org/project/govdelivery">GovDelivery</a>&quot;.</p>
-<p>3. Accessibility: We take very seriously our obligation to make sure <a href="http://whitehouse.gov">WhiteHouse.gov</a> is as accessible as possible and are committed to meeting the government accessibility standard, Section 508.&nbsp; As part of that compliance, we want to make sure all images on our site have the appropriate metadata to make them readable on by screen reading software. To help us meet this, while making it easier to manage the rich photos and video content you see on our site, we've developed &quot;<a href="http://drupal.org/project/node_embed">Node Embed</a>.&quot;</p></p>
+<p><p>As part of our ongoing effort to develop an open platform for <a href="https://whitehouse.gov">WhiteHouse.gov</a>, we're releasing some of the custom code we've developed. This code is available for anyone to review, use, or modify. We're excited to see how developers across the world put our work to good use in their own applications.</p>
+<p>By releasing some of our code, we get the benefit of more people reviewing and improving it. In fact, the majority of the code for WhiteHouse.gov is already open source as part of the <a href="https://drupal.org">Drupal project</a>. The code we're releasing today adds to Drupal's functionality in three key ways:</p>
+<p>1. Scalability: We're releasing a module called &quot;<a href="https://drupal.org/project/context_http_headers">Context HTTP Headers</a>,&quot; which allows site builders to add new metadata to the content they serve.&nbsp; We use this to tell our servers how to handle specific pages, such as cache this type of page for 15 minutes or that type for 30. A second module that addresses scalability is called &quot;<a href="https://drupal.org/project/akamai">Akamai</a>&quot; and it allows our website to integrate with our Content Delivery Network, Akamai.</p>
+<p>2. Communication: Many government agencies have active email programs that they use to communicate with the public about the services they provide. We have a mailing list for the White House, where you can get updates about new content and initiatives. To enable more dynamic emails tailored to users' preferences, we've integrated one of the popular services for government email programs with our CMS in the new module, &quot;<a href="https://drupal.org/project/govdelivery">GovDelivery</a>&quot;.</p>
+<p>3. Accessibility: We take very seriously our obligation to make sure <a href="https://whitehouse.gov">WhiteHouse.gov</a> is as accessible as possible and are committed to meeting the government accessibility standard, Section 508.&nbsp; As part of that compliance, we want to make sure all images on our site have the appropriate metadata to make them readable on by screen reading software. To help us meet this, while making it easier to manage the rich photos and video content you see on our site, we've developed &quot;<a href="https://drupal.org/project/node_embed">Node Embed</a>.&quot;</p></p>
 
 
     <div class="sub-links">Learn more about <a href="/issues/technology">Technology</a></div><!--/.sub-links-->
@@ -814,7 +814,7 @@ text-decoration: underline;
                           	<li class="last"><a href="/contact/submit-questions-and-comments/old2">Contact</a></li>
                   	</ul>
         	<ul>
-                                	<li><a href="http://usa.gov">USA.gov</a></li>
+                                	<li><a href="https://usa.gov">USA.gov</a></li>
                           	<li><a href="/rss">Subscribe to RSS Feeds</a></li>
                           	<li class="last"><a href="https://app2.whitehouse.gov/ppo/">Apply for a Job</a></li>
                   	</ul>

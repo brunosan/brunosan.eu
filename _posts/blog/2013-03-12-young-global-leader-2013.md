@@ -10,9 +10,9 @@ tags:
 - YGL
 ---
 
-Today the *World Economic Forum* ([WEF](http://www.weforum.org/)) [announces](http://www.weforum.org/news/world-economic-forum-announces-young-global-leaders-class-2013) this year awards of  "Young Global
+Today the *World Economic Forum* ([WEF](https://www.weforum.org/)) [announces](https://www.weforum.org/news/world-economic-forum-announces-young-global-leaders-class-2013) this year awards of  "Young Global
 Leaders"
-([YGL](http://www.weforum.org/community/forum-young-global-leaders)).
+([YGL](https://www.weforum.org/community/forum-young-global-leaders)).
 I am one of them.
 
 According to the website:
@@ -31,13 +31,13 @@ According to the website:
 <!--more-->
 
 Back in May 2012 I was asked by a work colleague who was interested in [our
-work](http://index.gain.org) if I minded to be [proposed to be YGL](http://nomination.younggloballeaders.org/nominationform.aspx). I didn't know what that was, but we then talked about my life, and the motivation behind my perhaps peculiar professional path. Plain honest conversation.
+work](https://index.gain.org) if I minded to be [proposed to be YGL](https://nomination.younggloballeaders.org/nominationform.aspx). I didn't know what that was, but we then talked about my life, and the motivation behind my perhaps peculiar professional path. Plain honest conversation.
 
  I then read a bit about the
-[YGL](http://www.weforum.org/comawardeesmunity/forum-young-global-leaders), and I was
+[YGL](https://www.weforum.org/comawardeesmunity/forum-young-global-leaders), and I was
 highly impressed. Nominations go through a internal and external
 evaluation and screening
-[process](http://www.weforum.org/content/pages/nominate-young-global-leader). Some of the previous awardees include Sergey Brin (Google), Jimmy
+[process](https://www.weforum.org/content/pages/nominate-young-global-leader). Some of the previous awardees include Sergey Brin (Google), Jimmy
 Wales (Wikipedia), Marissa Mayer (Yahoo), Mark Zuckerberg (Facebook), and countless other successful CEOs, ministers, athletes, ... I found a wonderful Youtube Channel with short videos to "[Meet the YGL](https://www.youtube.com/user/yglvoices)". Very motivational and impressive.
 
 And so I forgot about my nomination.
@@ -69,10 +69,10 @@ most of this opportunity WEF is offering. Let´s do it.
 > "I don´t know where is the limit, but I know where the limit is not"
 @josefajram
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/vtW1uqTpV94" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vtW1uqTpV94" frameborder="0"> </iframe>
 
 
-*Update*: Yahoo Spain has run an interview, [in spanish](http://es.noticias.yahoo.com/bruno-sanchez--astrofisico-espa%C3%B1ol-valioso-zuckerberg-federer-chris-martin-152850179.html). At some point it
+*Update*: Yahoo Spain has run an interview, [in spanish](https://es.noticias.yahoo.com/bruno-sanchez--astrofisico-espa%C3%B1ol-valioso-zuckerberg-federer-chris-martin-152850179.html). At some point it
 was on the [front page of
 Yahoo](https://twitter.com/brunosan/status/311540366912405504/photo/1). Crazy day.
 

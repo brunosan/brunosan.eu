@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
-	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/fb/video#">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:og="https://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en">
+	<head prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb# video: https://ogp.me/ns/fb/video#">
 		<title>Tech@State on USTREAM: Tech@State connects technologists to targeted goals of the U.S. diplomacy and development agenda via networking events that combine ...</title>
-		<link rel="shortcut icon" href="http://static-cdn1.ustream.tv/static/images/favicon-blue:1.ico" />
+		<link rel="shortcut icon" href="https://static-cdn1.ustream.tv/static/images/favicon-blue:1.ico" />
 		
 				<meta name="title" content="Tech@State" />
 		<meta property="fb:app_id" content="123875465478" />
@@ -10,11 +10,11 @@
 		<meta property="og:title" content="Tech@State" />
 		<meta property="og:description" content="Tech@State @ USTREAM: Tech@State connects technologists to targeted goals of the U.S. diplomacy and development agenda via networking events that combine p..." />
 		<meta property="og:type" content="video.other" />
-		<meta property="og:url" content="http://www.ustream.tv/channel/tech-state" />
+		<meta property="og:url" content="https://www.ustream.tv/channel/tech-state" />
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:site_name" content="Ustream" />
-		<meta property="og:image" content="http://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" />
-		<link rel="image_src" href="http://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" />
+		<meta property="og:image" content="https://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" />
+		<link rel="image_src" href="https://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" />
 
 		
 <meta name="twitter:card" value="player">
@@ -24,7 +24,7 @@
 <meta name="twitter:player:height" value="271">
 
 
-		<link rel="search" type="application/opensearchdescription+xml" href="http://static-cdn1.ustream.tv/static/osd:1.xml" title="Ustream Search" />
+		<link rel="search" type="application/opensearchdescription+xml" href="https://static-cdn1.ustream.tv/static/osd:1.xml" title="Ustream Search" />
 		<link rel="alternate" type="application/rss+xml" title="Ustream Live Shows" href="/live.rss" />
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
@@ -37,13 +37,13 @@
 <meta name="description" content="Tech@State @ USTREAM: Tech@State connects technologists to targeted goals of the U.S. diplomacy and development agenda via networking events that combine p..." />
 <meta name="verify-v1" content="rxzEzICqj/Fzcsk4DodfDnrkiLUEa8g7Bj5yONd80Pk=" />
 
-		<link rel="stylesheet" type="text/css" href="http://static-cdn2.ustream.tv/static/packed/core:13409577601.css" />
-<link rel="stylesheet" type="text/css" href="http://static-cdn2.ustream.tv/static/packed/channel:13409577601.css" />
-<link rel="stylesheet" type="text/css" href="http://static-cdn2.ustream.tv/static/packed/ppv:13409577591.css" />
+		<link rel="stylesheet" type="text/css" href="https://static-cdn2.ustream.tv/static/packed/core:13409577601.css" />
+<link rel="stylesheet" type="text/css" href="https://static-cdn2.ustream.tv/static/packed/channel:13409577601.css" />
+<link rel="stylesheet" type="text/css" href="https://static-cdn2.ustream.tv/static/packed/ppv:13409577591.css" />
 
 						<style type="text/css">
 
-					body { background-image: url(http://static-cdn1.ustream.tv/static/images/channeldesign/5/0/5/8/5058048/5058048_backgroundscrrens.001_1316695170.jpg) !important;}
+					body { background-image: url(https://static-cdn1.ustream.tv/static/images/channeldesign/5/0/5/8/5058048/5058048_backgroundscrrens.001_1316695170.jpg) !important;}
 									body { background-repeat: repeat !important; }
 							body { background-color: #131419 !important; }
 		
@@ -73,13 +73,13 @@
 			</style>
 		
 		
-		<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_preinit:13409577761.js"></script>
-<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_libs:13409577761.js"></script>
-<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_framework:13409577761.js"></script>
+		<script type="text/javascript" src="https://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_preinit:13409577761.js"></script>
+<script type="text/javascript" src="https://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_libs:13409577761.js"></script>
+<script type="text/javascript" src="https://static-cdn2.ustream.tv/static/packed/l10n/en_us/header_framework:13409577761.js"></script>
 
 		<script type="text/javascript" id="UstreamExposedVariables">
 if (!window.ustream) ustream = {};
-if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=true;ustream.vars.locale="en_US";ustream.vars.isHashLockSet=false;ustream.vars.forcedAds=false;ustream.vars.authPage=false;ustream.vars.channelId=5058048;ustream.vars.channelUrl="tech-state";ustream.vars.channelTitle="Tech@State";ustream.vars.channelSocialActive="socialStream";ustream.vars.isSubscriptionEnabled=false;ustream.vars.onLoginRefreshUrl="\/ajax\/channel\/update.json\/5058048";ustream.vars.keepAliveUrl="\/ajax\/channel\/keepalive";ustream.vars.sessionTimeOut="7200";ustream.vars.pmOverlayUrl="\/premium-membership\/prepare-inline";ustream.vars.inCrowdUrl="\/ajax\/crowd\/in-crowd.json\/5058048";ustream.vars.isChannelLive=false;ustream.vars.tosLink="\/terms-popup";ustream.vars.maxTotalPrice={"USD":1000,"JPY":10000,"KRW":15000};ustream.vars.maxTotalTicketNumber={"USD":8,"JPY":8,"KRW":8};ustream.vars.acceptedPpvTos=false;ustream.vars.acceptPpvTosUrl="\/ajax\/account\/paypal\/acceptppvtos.json";ustream.vars.eventVodListUrl="\/ajax\/recorded\/event\/vods.json\/xEVENTIDx\/xPAGEIDx";ustream.vars.checkDeemTicketUrl="\/ajax\/ppv\/event\/check-ticket.json\/xITEMIDx";ustream.vars.hasTicketForActiveEvent=false;ustream.vars.ppvItemDataUrl="\/ajax\/ppv\/get-item-data.json\/xITEMTYPEx\/xITEMIDx";ustream.vars.ppvPurchaseUrl="http:\/\/www.ustream.tv\/onetimesubscription\/init\/xCHANNELIDx\/xITEMTYPEx\/xITEMIDx";ustream.vars.checkActiveEventTicket="\/ajax\/ppv\/activeevent\/check-ticket.json\/5058048";ustream.vars.viewerTosUrls={"terms_url":"\/terms","ppv_supportcenter_url":"\/ppv\/supportcenter"};ustream.vars.purchased_content_url="\/dashboard\/purchased-content";ustream.vars.forgot_password_url="\/forgot-password";ustream.vars.login_signup_url="\/login-signup";ustream.vars.account_connections_url="\/account\/connections";ustream.vars.isPpvRestricted=false;ustream.vars.ppvCheckUserAccess="\/ajax\/ppv\/checkuseraccess.json";ustream.vars.validateUrl="\/ajax\/onetimesubscription\/validate-code.json\/xCHANNELIDx\/xTYPEx\/xITEMIDx";ustream.vars.isPPV=true;ustream.vars.getUserVariablesUrl="\/ajax\/user-variables.json";ustream.vars.adFree=false;ustream.vars.getLoginDataUrl="\/ajax\/user-variables.json";ustream.vars.joinCrowdMenu={"menuItems":[{"id":"LeaveCrowd","label":"Leave Crowd"}]};ustream.vars.hideOptInOutBadge=false;ustream.vars.ppvReasons=[];ustream.vars.reasonTypes={"1":"channel","2":"channel","3":"channel","4":"channel","5":"channel"};ustream.vars.defaultFlagReasonTargetType="channel";ustream.vars.flaggableEventsUrl="\/ajax\/user\/flag\/ppvlist.json\/channel\/5058048";ustream.vars.thumblisterPageSize=3;ustream.vars.thumblisterEmptyMsg="";ustream.vars.socialStreamUrl="http:\/\/www.ustream.tv\/socialstream\/5058048";ustream.vars.v3=true;ustream.vars.pageId="Channel_Details";ustream.vars.pageUrl="\/channel\/tech-state";ustream.vars.loggedIn=false;ustream.vars.loggedInUserId=0;ustream.vars.sessionId=false;ustream.vars.staticUrl="http:\/\/static-cdn1.ustream.tv\/";ustream.vars.imagesToPreload=["http:\/\/static-cdn1.ustream.tv\/static\/v3\/images\/ajax-loader-small:1340957759.gif","http:\/\/static-cdn1.ustream.tv\/static\/v3\/images\/ajax-loader-big:1340957759.gif"];ustream.vars.networkConnections={"ustream":{"connected":false,"urls":{"connect":"\/login\/connect?opener=xOPENERx","disconnect":null,"logout":"\/ajax\/login\/connect\/logout.json","findFriends":null}},"facebook":{"connected":false,"urls":{"connect":"\/facebook\/connect","disconnect":"\/ajax\/facebook\/disconnect.json","loginSignup":"\/ajax\/facebook\/login-signup.json","logout":"\/ajax\/facebook\/logout.json","findFriends":"\/ajax\/facebook\/find-friends.json","permissionList":"\/ajax\/facebook\/get-permissions.json","permissionEdit":"\/facebook\/permission-edit","enableUstreamSocial":"\/ajax\/facebook\/enable-ustream-social.json","disableUstreamSocial":"\/ajax\/facebook\/disable-ustream-social.json"}},"twitter":{"connected":false,"urls":{"connect":"\/twitter\/connect?opener=xOPENERx","disconnect":"\/ajax\/twitter\/disconnect.json","findFriends":"\/ajax\/twitter\/find-friends.json","logout":"\/ajax\/twitter\/logout.json"}},"myspace":{"connected":false,"urls":{"connect":"\/myspace\/connect?opener=xOPENERx","disconnect":"\/ajax\/myspace\/disconnect.json","findFriends":"\/ajax\/myspace\/find-friends.json","logout":"\/ajax\/myspace\/logout.json"}},"aim":{"connected":false,"urls":{"connect":"\/aim\/connect?opener=xOPENERx","disconnect":"\/ajax\/aim\/disconnect.json","logout":"\/ajax\/aim\/logout.json","findFriends":"\/ajax\/aim\/find-friends.json"}},"mixi":{"connected":false,"urls":{"connect":"\/mixi\/connect","disconnect":"\/mixi\/disconnect.json","logout":"\/mixi\/logout.json"}}};ustream.vars.emailConfirmed=false;ustream.vars.categoryListUrl="\/ajax\/category\/list.json";ustream.vars.categorySetUrl="\/ajax\/category\/add.json\/xCHANNELIDx\/xCATEGORYx";ustream.vars.ppvEventEndActiveUrl="\/ajax\/ppv\/event\/end-active.json\/xCHANNELIDx";ustream.vars.ctxtId="comp020000";ustream.vars.translateUrl="\/ajax\/util\/translate.json\/xLOCALEx\/xUNITx";ustream.vars.thumbSizePlaceHolder="%s";ustream.vars.featuredEventThumbSize="112x63";ustream.vars.forgotPasswordUrl="\/forgot-password";ustream.vars.loginUrl="\/ajax\/login.json";ustream.vars.simpleSignupUrl="\/ajax\/signup\/savesimple.json";ustream.vars.googleLoginUrl="\/login-google";ustream.vars.yahooLoginUrl="\/login-yahoo";ustream.vars.yahooLoginVersion="inter";ustream.vars.openidLoginUrl="\/login-openid";ustream.vars.facebookAppId="123875465478";ustream.vars.dashboardUrl="\/dashboard";ustream.vars.fbAutoLoginEnabled=true;ustream.vars.fbAutoLoginUrl="\/ajax\/autologin.json";ustream.vars.fbLoginByAccessTokenUrl="\/ajax\/facebook\/login-by-access-token.json";ustream.vars.ogUrl="http:\/\/www.ustream.tv\/channel\/tech-state";ustream.vars.ogNamespace="ustream_og";ustream.vars.jstpl={"HeaderLoginChangeable":{"loggedIn":false,"urls":{"logout":"\/logout?ref=%2Fchannel%2Ftech-state","profile":"","signup":"\/login-signup?ref=%2Fdashboard","dashboard":"\/dashboard","crowds":"\/dashboard\/crowds","social":"\/account\/connections"},"userName":null,"userPicture":null,"accountType":"basic","accountUrl":"\/ustream-pro","ustreamSocial":false,"labels":{"log_out":"Logout","login":"Login","signup":"Sign Up"}}};ustream.vars.isPpvEnabled=false;ustream.vars.startBroadcastUrl="\/go-live";
+if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=true;ustream.vars.locale="en_US";ustream.vars.isHashLockSet=false;ustream.vars.forcedAds=false;ustream.vars.authPage=false;ustream.vars.channelId=5058048;ustream.vars.channelUrl="tech-state";ustream.vars.channelTitle="Tech@State";ustream.vars.channelSocialActive="socialStream";ustream.vars.isSubscriptionEnabled=false;ustream.vars.onLoginRefreshUrl="\/ajax\/channel\/update.json\/5058048";ustream.vars.keepAliveUrl="\/ajax\/channel\/keepalive";ustream.vars.sessionTimeOut="7200";ustream.vars.pmOverlayUrl="\/premium-membership\/prepare-inline";ustream.vars.inCrowdUrl="\/ajax\/crowd\/in-crowd.json\/5058048";ustream.vars.isChannelLive=false;ustream.vars.tosLink="\/terms-popup";ustream.vars.maxTotalPrice={"USD":1000,"JPY":10000,"KRW":15000};ustream.vars.maxTotalTicketNumber={"USD":8,"JPY":8,"KRW":8};ustream.vars.acceptedPpvTos=false;ustream.vars.acceptPpvTosUrl="\/ajax\/account\/paypal\/acceptppvtos.json";ustream.vars.eventVodListUrl="\/ajax\/recorded\/event\/vods.json\/xEVENTIDx\/xPAGEIDx";ustream.vars.checkDeemTicketUrl="\/ajax\/ppv\/event\/check-ticket.json\/xITEMIDx";ustream.vars.hasTicketForActiveEvent=false;ustream.vars.ppvItemDataUrl="\/ajax\/ppv\/get-item-data.json\/xITEMTYPEx\/xITEMIDx";ustream.vars.ppvPurchaseUrl="https:\/\/www.ustream.tv\/onetimesubscription\/init\/xCHANNELIDx\/xITEMTYPEx\/xITEMIDx";ustream.vars.checkActiveEventTicket="\/ajax\/ppv\/activeevent\/check-ticket.json\/5058048";ustream.vars.viewerTosUrls={"terms_url":"\/terms","ppv_supportcenter_url":"\/ppv\/supportcenter"};ustream.vars.purchased_content_url="\/dashboard\/purchased-content";ustream.vars.forgot_password_url="\/forgot-password";ustream.vars.login_signup_url="\/login-signup";ustream.vars.account_connections_url="\/account\/connections";ustream.vars.isPpvRestricted=false;ustream.vars.ppvCheckUserAccess="\/ajax\/ppv\/checkuseraccess.json";ustream.vars.validateUrl="\/ajax\/onetimesubscription\/validate-code.json\/xCHANNELIDx\/xTYPEx\/xITEMIDx";ustream.vars.isPPV=true;ustream.vars.getUserVariablesUrl="\/ajax\/user-variables.json";ustream.vars.adFree=false;ustream.vars.getLoginDataUrl="\/ajax\/user-variables.json";ustream.vars.joinCrowdMenu={"menuItems":[{"id":"LeaveCrowd","label":"Leave Crowd"}]};ustream.vars.hideOptInOutBadge=false;ustream.vars.ppvReasons=[];ustream.vars.reasonTypes={"1":"channel","2":"channel","3":"channel","4":"channel","5":"channel"};ustream.vars.defaultFlagReasonTargetType="channel";ustream.vars.flaggableEventsUrl="\/ajax\/user\/flag\/ppvlist.json\/channel\/5058048";ustream.vars.thumblisterPageSize=3;ustream.vars.thumblisterEmptyMsg="";ustream.vars.socialStreamUrl="https:\/\/www.ustream.tv\/socialstream\/5058048";ustream.vars.v3=true;ustream.vars.pageId="Channel_Details";ustream.vars.pageUrl="\/channel\/tech-state";ustream.vars.loggedIn=false;ustream.vars.loggedInUserId=0;ustream.vars.sessionId=false;ustream.vars.staticUrl="https:\/\/static-cdn1.ustream.tv\/";ustream.vars.imagesToPreload=["https:\/\/static-cdn1.ustream.tv\/static\/v3\/images\/ajax-loader-small:1340957759.gif","https:\/\/static-cdn1.ustream.tv\/static\/v3\/images\/ajax-loader-big:1340957759.gif"];ustream.vars.networkConnections={"ustream":{"connected":false,"urls":{"connect":"\/login\/connect?opener=xOPENERx","disconnect":null,"logout":"\/ajax\/login\/connect\/logout.json","findFriends":null}},"facebook":{"connected":false,"urls":{"connect":"\/facebook\/connect","disconnect":"\/ajax\/facebook\/disconnect.json","loginSignup":"\/ajax\/facebook\/login-signup.json","logout":"\/ajax\/facebook\/logout.json","findFriends":"\/ajax\/facebook\/find-friends.json","permissionList":"\/ajax\/facebook\/get-permissions.json","permissionEdit":"\/facebook\/permission-edit","enableUstreamSocial":"\/ajax\/facebook\/enable-ustream-social.json","disableUstreamSocial":"\/ajax\/facebook\/disable-ustream-social.json"}},"twitter":{"connected":false,"urls":{"connect":"\/twitter\/connect?opener=xOPENERx","disconnect":"\/ajax\/twitter\/disconnect.json","findFriends":"\/ajax\/twitter\/find-friends.json","logout":"\/ajax\/twitter\/logout.json"}},"myspace":{"connected":false,"urls":{"connect":"\/myspace\/connect?opener=xOPENERx","disconnect":"\/ajax\/myspace\/disconnect.json","findFriends":"\/ajax\/myspace\/find-friends.json","logout":"\/ajax\/myspace\/logout.json"}},"aim":{"connected":false,"urls":{"connect":"\/aim\/connect?opener=xOPENERx","disconnect":"\/ajax\/aim\/disconnect.json","logout":"\/ajax\/aim\/logout.json","findFriends":"\/ajax\/aim\/find-friends.json"}},"mixi":{"connected":false,"urls":{"connect":"\/mixi\/connect","disconnect":"\/mixi\/disconnect.json","logout":"\/mixi\/logout.json"}}};ustream.vars.emailConfirmed=false;ustream.vars.categoryListUrl="\/ajax\/category\/list.json";ustream.vars.categorySetUrl="\/ajax\/category\/add.json\/xCHANNELIDx\/xCATEGORYx";ustream.vars.ppvEventEndActiveUrl="\/ajax\/ppv\/event\/end-active.json\/xCHANNELIDx";ustream.vars.ctxtId="comp020000";ustream.vars.translateUrl="\/ajax\/util\/translate.json\/xLOCALEx\/xUNITx";ustream.vars.thumbSizePlaceHolder="%s";ustream.vars.featuredEventThumbSize="112x63";ustream.vars.forgotPasswordUrl="\/forgot-password";ustream.vars.loginUrl="\/ajax\/login.json";ustream.vars.simpleSignupUrl="\/ajax\/signup\/savesimple.json";ustream.vars.googleLoginUrl="\/login-google";ustream.vars.yahooLoginUrl="\/login-yahoo";ustream.vars.yahooLoginVersion="inter";ustream.vars.openidLoginUrl="\/login-openid";ustream.vars.facebookAppId="123875465478";ustream.vars.dashboardUrl="\/dashboard";ustream.vars.fbAutoLoginEnabled=true;ustream.vars.fbAutoLoginUrl="\/ajax\/autologin.json";ustream.vars.fbLoginByAccessTokenUrl="\/ajax\/facebook\/login-by-access-token.json";ustream.vars.ogUrl="https:\/\/www.ustream.tv\/channel\/tech-state";ustream.vars.ogNamespace="ustream_og";ustream.vars.jstpl={"HeaderLoginChangeable":{"loggedIn":false,"urls":{"logout":"\/logout?ref=%2Fchannel%2Ftech-state","profile":"","signup":"\/login-signup?ref=%2Fdashboard","dashboard":"\/dashboard","crowds":"\/dashboard\/crowds","social":"\/account\/connections"},"userName":null,"userPicture":null,"accountType":"basic","accountUrl":"\/ustream-pro","ustreamSocial":false,"labels":{"log_out":"Logout","login":"Login","signup":"Sign Up"}}};ustream.vars.isPpvEnabled=false;ustream.vars.startBroadcastUrl="\/go-live";
 </script>
 		
 		
@@ -87,7 +87,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 	<body id="Channel_Details" class="v4 ustream loading  context-live lang-en-US theme6">
 				<!-- Begin comScore Tag -->
 <script>
-	document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "https://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
 </script>
 <script>
 	COMSCORE.beacon({
@@ -101,7 +101,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 	});
 </script>
 <noscript>
-	<img src="http://b.scorecardresearch.com/p?c1=2&c2=7716434&c3=1&c4=157&c5=&c6=&c15=&cj=1" />
+	<img src="https://b.scorecardresearch.com/p?c1=2&c2=7716434&c3=1&c4=157&c5=&c6=&c15=&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
 		<!-- Channel_Details -->
@@ -115,7 +115,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 
 	(function() {
 						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 
@@ -187,7 +187,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 								<a href="/channel/kissradio-online" class="shadowbox">
 									<img
 										src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw=="
-										data-lazyload="http://static-cdn2.ustream.tv/i/channel/picture/3/9/0/1/3901499/3901499_smalls2_120_3797278_ki,112x63,r:1.jpg"
+										data-lazyload="https://static-cdn2.ustream.tv/i/channel/picture/3/9/0/1/3901499/3901499_smalls2_120_3797278_ki,112x63,r:1.jpg"
 										alt="KISSRadio Online"
 										width="115" height="64" />
 									<strong class="livebadgeLeft">LIVE</strong>
@@ -199,7 +199,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 								<a href="/channel/iwj6" class="shadowbox">
 									<img
 										src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw=="
-										data-lazyload="http://static-cdn1.ustream.tv/i/channel/live/1_7281058,112x63,b.jpg"
+										data-lazyload="https://static-cdn1.ustream.tv/i/channel/live/1_7281058,112x63,b.jpg"
 										alt="IWJ6"
 										width="115" height="64" />
 									<strong class="livebadgeLeft">LIVE</strong>
@@ -217,7 +217,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 			target="">hide this ad?</a>
 		</div>
 		<div class="banner" id="MenuBannerOnAir">
-							<iframe src="http://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
+							<iframe src="https://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
 
 						</script>
 						</div>
@@ -297,7 +297,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 			target="">hide this ad?</a>
 		</div>
 		<div class="banner" id="MenuBannerSports">
-							<iframe src="http://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
+							<iframe src="https://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
 
 									</script>
 									</div>
@@ -406,7 +406,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 			target="">hide this ad?</a>
 		</div>
 		<div class="banner" id="MenuBannerMore">
-							<iframe src="http://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
+							<iframe src="https://cdn1.ustream.tv/adbanners/backfill/house/house_300x250.html?" frameBorder="0" frameSpacing="0" scrolling="no" width="300" height="250"></iframe>			</div>
 
 						</script>
 						</div>
@@ -441,7 +441,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 		<script type="text/javascript" language="javascript">
 	<!--
 		if (window.top != self) {
-			window.top.location = 'http://www.ustream.tv/channel/' + ustream.vars.channelId;
+			window.top.location = 'https://www.ustream.tv/channel/' + ustream.vars.channelId;
 		}
 	//-->
 	</script>
@@ -491,7 +491,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 			</a>
 			</div>
 	<a href="/user/StateDepartment" class="shadowbox eventPicture">
-		<img class="image" alt="StateDepartment" width="66" height="66" src="http://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" rel="StateDepartment" />
+		<img class="image" alt="StateDepartment" width="66" height="66" src="https://static-cdn1.ustream.tv/i/channel/picture/5/0/5/8/5058048/5058048_tech_stateshort_1286467496,90x90,r:1.jpg" rel="StateDepartment" />
 			</a>
 </div>
 
@@ -513,8 +513,8 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 			ustream.vars.viewer = {
 				id: "v2",
 				version: "9.0.115",
-				expressinstall: "http://static-cdn1.ustream.tv/swf/expressInstall.swf",
-				movie: "http://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100",
+				expressinstall: "https://static-cdn1.ustream.tv/swf/expressInstall.swf",
+				movie: "https://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100",
 				width: "608",
 				height: "368",
 				attributes: {
@@ -527,20 +527,20 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 		</script>
 		<noscript>
 			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="608" height="368" id="viewer">
-				<param name="movie" value="http://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100" />
+				<param name="movie" value="https://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100" />
 				<param name="wmode" value="direct" />
 				<param name="allowfullscreen" value="true" />
 				<param name="allowscriptaccess" value="always" />
 				<param name="flashvars" value="loc=/&amp;cid=5058048&amp;channelid=5058048&amp;sessionid=&amp;share=false&amp;group=channel5058048&amp;imu=medrect&amp;autoResize=false&amp;localid=5549xxxx.4ff165b37b60d0.31967791&amp;locale=en_US&amp;autoplay=true&amp;hasticket=false&amp;vrsl=c:239&amp;infobar=false&amp;v3=true&amp;" />
 				<!--[if !IE]>-->
-				<object type="application/x-shockwave-flash" data="http://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100" width="608" height="368">
+				<object type="application/x-shockwave-flash" data="https://static-cdn1.ustream.tv/swf/live/viewer:64.swf?vrsl=c:239&ulbr=100" width="608" height="368">
 					<param name="wmode" value="direct" />
 					<param name="allowfullscreen" value="true" />
 					<param name="allowscriptaccess" value="always" />
 					<param name="flashvars" value="loc=/&amp;cid=5058048&amp;channelid=5058048&amp;sessionid=&amp;share=false&amp;group=channel5058048&amp;imu=medrect&amp;autoResize=false&amp;localid=5549xxxx.4ff165b37b60d0.31967791&amp;locale=en_US&amp;autoplay=true&amp;hasticket=false&amp;vrsl=c:239&amp;infobar=false&amp;v3=true&amp;" />
 				<!--<![endif]-->
-					<a href="http://www.adobe.com/go/getflashplayer">
-						<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+					<a href="https://www.adobe.com/go/getflashplayer">
+						<img src="https://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
 					</a>
 				<!--[if !IE]>-->
 				</object>
@@ -598,7 +598,7 @@ if (typeof ustream.vars == 'undefined') ustream.vars = {};ustream.vars.isLive=tr
 			allowTransparency="true">
 		</iframe>
 		<div class="plusOne">
-			<g:plusone size="small" href="http://www.ustream.tv/channel/tech-state"></g:plusone>
+			<g:plusone size="small" href="https://www.ustream.tv/channel/tech-state"></g:plusone>
 		</div>
 			</div>
 </div>
@@ -684,7 +684,7 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 	Link to the channel:
 </label>
 <br />
-<input type="text" class="shortUrl" readonly="readonly" value="http://ustre.am/ldPq" />
+<input type="text" class="shortUrl" readonly="readonly" value="https://ustre.am/ldPq" />
 
 <div class="separator"></div>
 
@@ -699,7 +699,7 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 		<div class="tabContent" id="EmbedViewer">
 			<p>
 				Embed the live video player anywhere using the code below			</p>
-			<textarea class="embedCode" readonly="readonly" rows="2">&lt;iframe src=&quot;http://www.ustream.tv/embed/5058048&quot; width=&quot;608&quot; height=&quot;368&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: 0px none transparent;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ustream.tv/&quot; style=&quot;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&quot; target=&quot;_blank&quot;&gt;Live stream videos at Ustream&lt;/a&gt;</textarea>
+			<textarea class="embedCode" readonly="readonly" rows="2">&lt;iframe src=&quot;https://www.ustream.tv/embed/5058048&quot; width=&quot;608&quot; height=&quot;368&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border: 0px none transparent;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;a href=&quot;https://www.ustream.tv/&quot; style=&quot;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&quot; target=&quot;_blank&quot;&gt;Live stream videos at Ustream&lt;/a&gt;</textarea>
 
 			<ul class="embedSizes">
 				<li class="small"><span class="size"></span><br /><span class="rect"></span></li>
@@ -717,13 +717,13 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 			<label><input type="checkbox" name="legacy" /> use the old embed code instead</label>
 			<p class="legacyNote" style="display: none;">
 				NOTE: using this code, the embedded content won't work on iOS devices			</p>
-			<textarea class="legacyCode din" readonly="readonly" rows="2">&lt;object classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;480&quot; height=&quot;296&quot; id=&quot;utv552159&quot;&gt;&lt;param name=&quot;flashvars&quot; value=&quot;autoplay=false&amp;amp;brand=embed&amp;amp;cid=5058048&amp;amp;v3=1&quot;/&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.ustream.tv/flash/viewer.swf&quot;/&gt;&lt;embed flashvars=&quot;autoplay=false&amp;amp;brand=embed&amp;amp;cid=5058048&amp;amp;v3=1&quot; width=&quot;480&quot; height=&quot;296&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; id=&quot;utv552159&quot; name=&quot;utv_n_473157&quot; src=&quot;http://www.ustream.tv/flash/viewer.swf&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;&lt;/object&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ustream.tv/&quot; style=&quot;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&quot; target=&quot;_blank&quot;&gt;Live stream videos at Ustream&lt;/a&gt;</textarea>
+			<textarea class="legacyCode din" readonly="readonly" rows="2">&lt;object classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot; width=&quot;480&quot; height=&quot;296&quot; id=&quot;utv552159&quot;&gt;&lt;param name=&quot;flashvars&quot; value=&quot;autoplay=false&amp;amp;brand=embed&amp;amp;cid=5058048&amp;amp;v3=1&quot;/&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;/&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;/&gt;&lt;param name=&quot;movie&quot; value=&quot;https://www.ustream.tv/flash/viewer.swf&quot;/&gt;&lt;embed flashvars=&quot;autoplay=false&amp;amp;brand=embed&amp;amp;cid=5058048&amp;amp;v3=1&quot; width=&quot;480&quot; height=&quot;296&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; id=&quot;utv552159&quot; name=&quot;utv_n_473157&quot; src=&quot;https://www.ustream.tv/flash/viewer.swf&quot; type=&quot;application/x-shockwave-flash&quot; /&gt;&lt;/object&gt;&lt;br /&gt;&lt;a href=&quot;https://www.ustream.tv/&quot; style=&quot;padding: 2px 0px 4px; width: 400px; background: #ffffff; display: block; color: #000000; font-weight: normal; font-size: 10px; text-decoration: underline; text-align: center;&quot; target=&quot;_blank&quot;&gt;Live stream videos at Ustream&lt;/a&gt;</textarea>
 
 		</div>
 					<div class="tabContent" id="EmbedSocialStream" style="display: none;">
 				<p>
 					Embed the social stream, chat, and videos module anywhere using the code below				</p>
-				<textarea class="embedCode" readonly="readonly" rows="2">&lt;iframe width=&quot;468&quot; scrolling=&quot;no&quot; height=&quot;586&quot; frameborder=&quot;0&quot; style=&quot;border: 0px none transparent;&quot; src=&quot;http://www.ustream.tv/socialstream/5058048&quot;&gt;&lt;/iframe&gt;</textarea>
+				<textarea class="embedCode" readonly="readonly" rows="2">&lt;iframe width=&quot;468&quot; scrolling=&quot;no&quot; height=&quot;586&quot; frameborder=&quot;0&quot; style=&quot;border: 0px none transparent;&quot; src=&quot;https://www.ustream.tv/socialstream/5058048&quot;&gt;&lt;/iframe&gt;</textarea>
 			</div>
 			</div>
 </div>
@@ -780,21 +780,21 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 								<ul class="recordedShowThumbsV4 clearAfter">
 																						<li class="firstinrow">
 							<a href="/recorded/17456898" class="shadowbox">
-															<img src="http://static-cdn1.ustream.tv/i/video/picture/0/1/17/17456/17456898/1_5058048_17456898,192x108,b,1:3.jpg" alt="Tech@State 09/23/11 01:37PM" width="192" height="108" class="lazyloaded" />
+															<img src="https://static-cdn1.ustream.tv/i/video/picture/0/1/17/17456/17456898/1_5058048_17456898,192x108,b,1:3.jpg" alt="Tech@State 09/23/11 01:37PM" width="192" height="108" class="lazyloaded" />
 														</a>
 															
 														<h4><a href="/recorded/17456898">Tech@State 09/23/11 01:37PM</a></h4>
 													</li>
 																	<li >
 							<a href="/recorded/17454323" class="shadowbox">
-															<img src="http://static-cdn2.ustream.tv/i/video/picture/0/1/17/17454/17454323/1_5058048_17454323,192x108,b,1:2.jpg" alt="Tech@State Data Visualization" width="192" height="108" class="lazyloaded" />
+															<img src="https://static-cdn2.ustream.tv/i/video/picture/0/1/17/17454/17454323/1_5058048_17454323,192x108,b,1:2.jpg" alt="Tech@State Data Visualization" width="192" height="108" class="lazyloaded" />
 														</a>
 															
 														<h4><a href="/recorded/17454323">Tech@State Data Visualization</a></h4>
 													</li>
 																	<li >
 							<a href="/recorded/17452843" class="shadowbox">
-															<img src="http://static-cdn2.ustream.tv/i/video/picture/0/1/17/17452/17452843/1_5058048_17452843,192x108,b,1:2.jpg" alt="Tech@State Data Visualizaton" width="192" height="108" class="lazyloaded" />
+															<img src="https://static-cdn2.ustream.tv/i/video/picture/0/1/17/17452/17452843/1_5058048_17452843,192x108,b,1:2.jpg" alt="Tech@State Data Visualizaton" width="192" height="108" class="lazyloaded" />
 														</a>
 															
 														<h4><a href="/recorded/17452843">Tech@State Data Visualizaton</a></h4>
@@ -803,21 +803,21 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 							<ul class="recordedShowThumbsV4 clearAfter">
 																						<li class="firstinrow">
 							<a href="/recorded/14995172" class="shadowbox">
-															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 11 Tech@State: Serious Games Final Session" width="192" height="108" data-lazyload="http://static-cdn1.ustream.tv/i/video/picture/0/1/14/14995/14995172/1_5058048_14995172,192x108,b,1:3.jpg" />
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 11 Tech@State: Serious Games Final Session" width="192" height="108" data-lazyload="https://static-cdn1.ustream.tv/i/video/picture/0/1/14/14995/14995172/1_5058048_14995172,192x108,b,1:3.jpg" />
 														</a>
 															
 														<h4><a href="/recorded/14995172">Video 11 Tech@State: Serious Games Final Session</a></h4>
 													</li>
 																	<li >
 							<a href="/recorded/14993282" class="shadowbox">
-															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 10 Tech@State: Serious Games Session 3" width="192" height="108" data-lazyload="http://static-cdn1.ustream.tv/i/video/picture/0/1/14/14993/14993282/1_5058048_14993282,192x108,b,1:2.jpg" />
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 10 Tech@State: Serious Games Session 3" width="192" height="108" data-lazyload="https://static-cdn1.ustream.tv/i/video/picture/0/1/14/14993/14993282/1_5058048_14993282,192x108,b,1:2.jpg" />
 														</a>
 															
 														<h4><a href="/recorded/14993282">Video 10 Tech@State: Serious Games Session 3</a></h4>
 													</li>
 																	<li >
 							<a href="/recorded/14990897" class="shadowbox">
-															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 8 Tech@State Serious Gaming Session 2" width="192" height="108" data-lazyload="http://static-cdn2.ustream.tv/i/video/picture/0/1/14/14990/14990897/1_5058048_14990897,192x108,b,1:3.jpg" />
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 8 Tech@State Serious Gaming Session 2" width="192" height="108" data-lazyload="https://static-cdn2.ustream.tv/i/video/picture/0/1/14/14990/14990897/1_5058048_14990897,192x108,b,1:3.jpg" />
 														</a>
 															
 														<h4><a href="/recorded/14990897">Video 8 Tech@State Serious Gaming Session 2</a></h4>
@@ -826,21 +826,21 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 							<ul class="recordedShowThumbsV4 clearAfter">
 																						<li class="firstinrow">
 							<a href="/recorded/14990896" class="shadowbox">
-															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 7* Tech@State 05/27/11 09:28AM" width="192" height="108" data-lazyload="http://static-cdn1.ustream.tv/i/video/picture/0/1/14/14990/14990896/1_5058048_14990896,192x108,b,1:2.jpg" />
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 7* Tech@State 05/27/11 09:28AM" width="192" height="108" data-lazyload="https://static-cdn1.ustream.tv/i/video/picture/0/1/14/14990/14990896/1_5058048_14990896,192x108,b,1:2.jpg" />
 														</a>
 															
 														<h4><a href="/recorded/14990896">Video 7* Tech@State 05/27/11 09:28AM</a></h4>
 													</li>
 																	<li >
 							<a href="/recorded/14987647" class="shadowbox">
-															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 3 Tech@State 05/27/11 07:33AM" width="192" height="108" data-lazyload="http://static-cdn2.ustream.tv/i/video/picture/0/1/14/14987/14987647/1_5058048_14987647,192x108,b,1:3.jpg" />
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Video 3 Tech@State 05/27/11 07:33AM" width="192" height="108" data-lazyload="https://static-cdn2.ustream.tv/i/video/picture/0/1/14/14987/14987647/1_5058048_14987647,192x108,b,1:3.jpg" />
 														</a>
 															
 														<h4><a href="/recorded/14987647">Video 3 Tech@State 05/27/11 07:33AM</a></h4>
 													</li>
 																	<li >
 							<a href="/recorded/12625934" class="shadowbox">
-															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Tech@State 02/11/11 01:20PM" width="192" height="108" data-lazyload="http://static-cdn1.ustream.tv/i/video/picture/0/1/12/12625/12625934/1_5058048_12625934,192x108,b,1:2.jpg" />
+															<img src="data:image/gif;base64,R0lGODlhAQABAPAAAP///wAAACH/C1hNUCBEYXRhWE1QAj94ACH5BAUAAAAALAAAAAABAAEAQAICRAEAOw==" alt="Tech@State 02/11/11 01:20PM" width="192" height="108" data-lazyload="https://static-cdn1.ustream.tv/i/video/picture/0/1/12/12625/12625934/1_5058048_12625934,192x108,b,1:2.jpg" />
 														</a>
 															
 														<h4><a href="/recorded/12625934">Tech@State 02/11/11 01:20PM</a></h4>
@@ -862,7 +862,7 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 			<div id="SocialBox" class="">
 	<iframe
 		class="socialstream"
-		src="http://www.ustream.tv/socialstream/5058048"
+		src="https://www.ustream.tv/socialstream/5058048"
 		width="328"
 		height="430"
 		scrolling="no"
@@ -885,7 +885,7 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 				<div class="shadowbox overlayedActionBar ">
 					<a href="/channel/the-chicharones-vans-warped-tour-experience" class="iwrp">
 						<img
-													src="http://static-cdn1.ustream.tv/i/featured/content/9536,298x163,r:1.jpg"
+													src="https://static-cdn1.ustream.tv/i/featured/content/9536,298x163,r:1.jpg"
 							class="lazyloaded"
 													alt="The Chicharones Vans Warped Tour Experience"
 							width="298"
@@ -912,7 +912,7 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 				<div class="shadowbox overlayedActionBar ">
 					<a href="/channel/red-bull-sound-space-at-amp" class="iwrp">
 						<img
-													src="http://static-cdn1.ustream.tv/i/featured/content/9486,298x163,r:1.jpg"
+													src="https://static-cdn1.ustream.tv/i/featured/content/9486,298x163,r:1.jpg"
 							class="lazyloaded"
 													alt="Flo Rida at the Red Bull Sound Space At AMP Radio"
 							width="298"
@@ -939,7 +939,7 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 				<div class="shadowbox overlayedActionBar ">
 					<a href="/channel/lovelinelive" class="iwrp">
 						<img
-													src="http://static-cdn2.ustream.tv/i/featured/content/9543,298x163,r:1.jpg"
+													src="https://static-cdn2.ustream.tv/i/featured/content/9543,298x163,r:1.jpg"
 							class="lazyloaded"
 													alt="Loveline Live with The Dirty Heads"
 							width="298"
@@ -974,16 +974,16 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 <div id="Footer">
 
 	<ul id="FooterSocial">
-					<li><a href="http://www.facebook.com/ustream" class="facebook">Facebook</a></li>
-							<li><a href="http://twitter.com/ustream" class="twitter">Twitter</a></li>
+					<li><a href="https://www.facebook.com/ustream" class="facebook">Facebook</a></li>
+							<li><a href="https://twitter.com/ustream" class="twitter">Twitter</a></li>
 			</ul>
 
 	<ul id="FooterMenu">
 		<li><a href="/about">About Us</a></li>
 		<li><a href="/products-services">Products & Services</a></li>
-		<li><a href="http://community.ustream.tv">Support</a></li>
+		<li><a href="https://community.ustream.tv">Support</a></li>
 					<li><a href="/careers">Careers</a></li>
-				<li><a href="http://www.ustream.tv/blog">Blog</a></li>
+				<li><a href="https://www.ustream.tv/blog">Blog</a></li>
 	</ul>
 
 	<form action="" method="get" id="ChooseLangForm">
@@ -1013,10 +1013,10 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 		</div> <!-- #MainWrapper -->
 
 		<script type="text/javascript" src="//apis.google.com/js/plusone.js"></script>
-		<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/common:13409577761.js"></script>
-<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/channel:13409577761.js"></script>
-<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/html5video:13409577761.js"></script>
-<script type="text/javascript" src="http://static-cdn2.ustream.tv/static/packed/l10n/en_us/ppv:13409577761.js"></script>
+		<script type="text/javascript" src="https://static-cdn2.ustream.tv/static/packed/l10n/en_us/common:13409577761.js"></script>
+<script type="text/javascript" src="https://static-cdn2.ustream.tv/static/packed/l10n/en_us/channel:13409577761.js"></script>
+<script type="text/javascript" src="https://static-cdn2.ustream.tv/static/packed/l10n/en_us/html5video:13409577761.js"></script>
+<script type="text/javascript" src="https://static-cdn2.ustream.tv/static/packed/l10n/en_us/ppv:13409577761.js"></script>
 
 		<script type="text/javascript" src="/en_US/header-data.js?secure=0"></script>
 
@@ -1046,7 +1046,7 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 <script src="https://connect.facebook.net/en_US/all.js"></script>
 
 
-				<script type="text/javascript" src="http://edge.quantserve.com/quant.js" charset="UTF-8"></script>
+				<script type="text/javascript" src="https://edge.quantserve.com/quant.js" charset="UTF-8"></script>
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 	var _qevents = _qevents || [];
@@ -1076,12 +1076,12 @@ In its first iteration, Tech@State: Haiti, participants from the private sector,
 	d.onerror = d.onload = function () {
 	  d.onerror = d.onload = null;
 	};
-	d.src = ["http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-903145h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+	d.src = ["https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-903145h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
 })();
 </script>
 <noscript>
 <div>
-	<img src="http://secure-us.imrworldwide.com/cgi-bin/m?ci=us-903145h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+	<img src="https://secure-us.imrworldwide.com/cgi-bin/m?ci=us-903145h&amp;cg=0&amp;cc=1&amp;ts=noscript"
 		width="1" height="1" alt=""
 	/>
 </div>

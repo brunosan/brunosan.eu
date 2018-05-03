@@ -15,7 +15,7 @@ tags:
 title: "Idea: Predictive mOS"
 ---
 <h3>Name:</h3>
-<img class="alignright" src="http://farm5.static.flickr.com/4007/4268118420_d3670182bd.jpg" alt="google nexus one" width="180" height="135" />
+<img class="alignright" src="https://farm5.static.flickr.com/4007/4268118420_d3670182bd.jpg" alt="google nexus one" width="180" height="135" />
 
 That´s not really important, but it can be "predictive behaviour logics" or "Guess Action Algorithm"
 <h3>Concept:</h3>
@@ -27,7 +27,7 @@ Think about it. Phones today can do millions of things. But when you take your p
 
 -When you wake up, if at all, you will want to see your email, Twitter or the weather.
 
-<img class="alignright" src="http://farm4.static.flickr.com/3491/4083009098_d83fd2a5d6.jpg" alt="my android apps menu #3" width="134" height="202" />
+<img class="alignright" src="https://farm4.static.flickr.com/3491/4083009098_d83fd2a5d6.jpg" alt="my android apps menu #3" width="134" height="202" />
 
 -When you go to bed, you would want to check that the Alarm is on. And then turn the phone off.
 

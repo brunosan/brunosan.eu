@@ -1,6 +1,6 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">    
 <head>
 <meta http-equiv="Content-Type"  content="application/xhtml+xml; charset=UTF-8" />
 <meta http-equiv="Content-Script-Type" content="text/javascript" />
@@ -64,7 +64,7 @@
 
     (function() {
       var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
 
@@ -87,12 +87,12 @@
   _comscore.push({ c1: "2", c2: "13434342" });
   (function() {
     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "https://b") + ".scorecardresearch.com/beacon.js";
     el.parentNode.insertBefore(s, el);
   })();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=13434342&cv=2.0&cj=1" class="oculto" />
+  <img src="https://b.scorecardresearch.com/p?c1=2&c2=13434342&cv=2.0&cj=1" class="oculto" />
 </noscript>
 <!-- End comScore Tag -->
      
@@ -145,7 +145,7 @@
 
 <p class="hemeroteca">
   <a href="/uploads/portada/fichero/10000/Portadaandalucia.pdf" title="Descargar portada impresa" class="portada"><span>PORTADA<br />IMPRESA</span></a>
-  <a href="http://larazon.mynewsonline.com/" onclick="window.open(this.href); return false;">Edición en PDF<br />
+  <a href="https://larazon.mynewsonline.com/" onclick="window.open(this.href); return false;">Edición en PDF<br />
   <span class="fecha">02-JUL-12</span></a>
 </p>
                              
@@ -256,19 +256,19 @@
 
     <li class="acceso redes-sociales">
       <span>S&iacute;guenos en:</span>
-      <a href="http://www.facebook.com/larazon.es" title="S&iacute;guenos en Facebook" onclick="window.open(this.href);return false">
+      <a href="https://www.facebook.com/larazon.es" title="S&iacute;guenos en Facebook" onclick="window.open(this.href);return false">
         <img src="/images/cabecera/facebook.gif" alt="S&iacute;guenos en Facebook" />
       </a>
-      <a href="http://twitter.com/LARAZON_ES" title="S&iacute;guenos en Twitter" onclick="window.open(this.href);return false">
+      <a href="https://twitter.com/LARAZON_ES" title="S&iacute;guenos en Twitter" onclick="window.open(this.href);return false">
         <img src="/images/cabecera/twitter.gif" alt="S&iacute;guenos en Twitter" />
       </a>
       <a href="https://plus.google.com/107780113151186089947/posts" title="S&iacute;guenos en Google Plus" onclick="window.open(this.href);return false;">
         <img src="/images/cabecera/gplus.gif" alt="S&iacute;guenos en Google Plus" />
       </a>
-      <a href="http://pinterest.com/larazon/" title="S&iacute;guenos en Pinterest" onclick="window.open(this.href);return false;">
+      <a href="https://pinterest.com/larazon/" title="S&iacute;guenos en Pinterest" onclick="window.open(this.href);return false;">
         <img src="/images/cabecera/pinterest.gif" alt="S&iacute;guenos en Pinterest" />
       </a>
-      <a href="http://www.ciudadmarket.es/larazon/paginas/inicio_bla.php" title="Entra a Ciudad Market" onclick="window.open(this.href);return false">
+      <a href="https://www.ciudadmarket.es/larazon/paginas/inicio_bla.php" title="Entra a Ciudad Market" onclick="window.open(this.href);return false">
         <img src="/images/compartelo/ciudad_market.png" alt="Entra a Ciudad Market" />
       </a>
     </li>
@@ -309,7 +309,7 @@
           SmartAdServer(sas_pageid, sas_formatid, sas_target);
         </script>
         <noscript>
-          <a href="http://www.smartadserver.com/call/pubjumpi/34520/237858/8595/M/51621034/?"><img src="http://www.smartadserver.com/call/pubi/34520/237858/8595/M/51621034/?" border="0"></a>
+          <a href="https://www.smartadserver.com/call/pubjumpi/34520/237858/8595/M/51621034/?"><img src="https://www.smartadserver.com/call/pubi/34520/237858/8595/M/51621034/?" border="0"></a>
         </noscript>
       
 
@@ -404,10 +404,10 @@
   <div class="bloque redes-sociales">
     <ul>
       <li>
-       <iframe name="iframefb" class="iframe-fb" src="http://www.facebook.com/plugins/like.php?href=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&amp;layout=button_count&amp;show_faces=false&amp;width=108&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:108px; height:20px;" allowTransparency="true"></iframe>
+       <iframe name="iframefb" class="iframe-fb" src="https://www.facebook.com/plugins/like.php?href=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&amp;layout=button_count&amp;show_faces=false&amp;width=108&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:108px; height:20px;" allowTransparency="true"></iframe>
       </li>
               <li>
-          <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno" data-via="larazon_es" data-text="Más acción menos palabras por Bruno Sánchez-Andrade Nuño  - LARAZON.ES en " data-count="horizontal" data-lang="es">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno" data-via="larazon_es" data-text="Más acción menos palabras por Bruno Sánchez-Andrade Nuño  - LARAZON.ES en " data-count="horizontal" data-lang="es">Tweet</a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
           
           <script type="text/javascript">$(".twitter-share-button").attr("style","width:104px; height:20px");</script>
         </li>
@@ -428,8 +428,8 @@
       </li>
       <li class="button-pinterest">
         <div class="button-pinterest">
-          <script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
-          <a href="http://pinterest.com/pin/create/button/?url=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno" class="pin-it-button" count-layout="horizontal">
+          <script type="text/javascript" src="https://assets.pinterest.com/js/pinit.js"></script>
+          <a href="https://pinterest.com/pin/create/button/?url=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno" class="pin-it-button" count-layout="horizontal">
             <img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" />
           </a>
         </div>
@@ -461,28 +461,28 @@
   <div class="bloque sin-espacio right">
     <ul>
       <li>
-        <a title="Compártelo en Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno"><img src="/images/compartelo/fb-ico.gif" /></a>
+        <a title="Compártelo en Facebook" onclick="window.open('https://www.facebook.com/sharer.php?u=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="https://www.facebook.com/sharer.php?u=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno"><img src="/images/compartelo/fb-ico.gif" /></a>
       </li>
               <li>
-          <a title="Compártelo en Twitter" onclick="window.open('http://twitter.com/home/?status=%22M%C3%A1s+acci%C3%B3n+menos+palabras+por+Bruno+S%C3%A1nchez-Andrade+Nu%C3%B1o+%22+LARAZON.ES+en+http%3A%2F%2Fbit.ly%2FAxUaUD','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/twitter-ico.gif" /></a>
+          <a title="Compártelo en Twitter" onclick="window.open('https://twitter.com/home/?status=%22M%C3%A1s+acci%C3%B3n+menos+palabras+por+Bruno+S%C3%A1nchez-Andrade+Nu%C3%B1o+%22+LARAZON.ES+en+http%3A%2F%2Fbit.ly%2FAxUaUD','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/twitter-ico.gif" /></a>
         </li>
             <li>
-        <a title="Compártelo en Menéame" onclick="window.open('http://meneame.net/submit.php?url=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&ei=UTF','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/meneame-ico.gif" /></a>
+        <a title="Compártelo en Menéame" onclick="window.open('https://meneame.net/submit.php?url=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&ei=UTF','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/meneame-ico.gif" /></a>
       </li>
       <!--
         &t=','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/myspace-ico.gif" /></a>%>
       -->
       <li>
-        <a title="Abrir Ciudad Market" onclick="window.open('http://www.ciudadmarket.es/larazon/paginas/inicio_bla.php','_blank'); return false;" href="#">
+        <a title="Abrir Ciudad Market" onclick="window.open('https://www.ciudadmarket.es/larazon/paginas/inicio_bla.php','_blank'); return false;" href="#">
           <img src="/images/compartelo/ciudad_market_b.png" />
         </a>
       </li>
       
       <li>
-        <a title="Compártelo en Yahoo!" onclick="window.open('http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/yahoo-ico.gif" /></a>
+        <a title="Compártelo en Yahoo!" onclick="window.open('https://myweb2.search.yahoo.com/myresults/bookmarklet?u=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/yahoo-ico.gif" /></a>
       </li>
       <li>
-        <a title="Compártelo en Del.icio.us" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&title=7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/delicious-ico.gif" /></a>
+        <a title="Compártelo en Del.icio.us" onclick="window.open('https://del.icio.us/post?v=4&noui&jump=close&url=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&title=7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/delicious-ico.gif" /></a>
       </li>
     </ul>
   </div>
@@ -494,7 +494,7 @@
   
 
           <div class="clearFix dixio">
-            <a href="http://www.dixio.com" onclick="window.open(this.href); return false;">
+            <a href="https://www.dixio.com" onclick="window.open(this.href); return false;">
               <img src="/javascripts/larazon/logo_dixio.gif" alt="Diccionario Inteligente" />
             </a>
             <span id="dixio-inside" style="display:none;"></span>
@@ -553,10 +553,10 @@ Instituto por la Adaptaci&oacute;n Global</p>
   <div class="bloque redes-sociales">
     <ul>
       <li>
-       <iframe name="iframefb" class="iframe-fb" src="http://www.facebook.com/plugins/like.php?href=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&amp;layout=button_count&amp;show_faces=false&amp;width=108&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:108px; height:20px;" allowTransparency="true"></iframe>
+       <iframe name="iframefb" class="iframe-fb" src="https://www.facebook.com/plugins/like.php?href=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&amp;layout=button_count&amp;show_faces=false&amp;width=108&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:108px; height:20px;" allowTransparency="true"></iframe>
       </li>
               <li>
-          <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno" data-via="larazon_es" data-text="Más acción menos palabras por Bruno Sánchez-Andrade Nuño  - LARAZON.ES en " data-count="horizontal" data-lang="es">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno" data-via="larazon_es" data-text="Más acción menos palabras por Bruno Sánchez-Andrade Nuño  - LARAZON.ES en " data-count="horizontal" data-lang="es">Tweet</a><script type="text/javascript" src="https://platform.twitter.com/widgets.js"></script>
           
           <script type="text/javascript">$(".twitter-share-button").attr("style","width:104px; height:20px");</script>
         </li>
@@ -577,8 +577,8 @@ Instituto por la Adaptaci&oacute;n Global</p>
       </li>
       <li class="button-pinterest">
         <div class="button-pinterest">
-          <script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
-          <a href="http://pinterest.com/pin/create/button/?url=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno" class="pin-it-button" count-layout="horizontal">
+          <script type="text/javascript" src="https://assets.pinterest.com/js/pinit.js"></script>
+          <a href="https://pinterest.com/pin/create/button/?url=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno" class="pin-it-button" count-layout="horizontal">
             <img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" />
           </a>
         </div>
@@ -610,28 +610,28 @@ Instituto por la Adaptaci&oacute;n Global</p>
   <div class="bloque sin-espacio right">
     <ul>
       <li>
-        <a title="Compártelo en Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="http://www.facebook.com/sharer.php?u=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno"><img src="/images/compartelo/fb-ico.gif" /></a>
+        <a title="Compártelo en Facebook" onclick="window.open('https://www.facebook.com/sharer.php?u=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="https://www.facebook.com/sharer.php?u=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno"><img src="/images/compartelo/fb-ico.gif" /></a>
       </li>
               <li>
-          <a title="Compártelo en Twitter" onclick="window.open('http://twitter.com/home/?status=%22M%C3%A1s+acci%C3%B3n+menos+palabras+por+Bruno+S%C3%A1nchez-Andrade+Nu%C3%B1o+%22+LARAZON.ES+en+http%3A%2F%2Fbit.ly%2FAxUaUD','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/twitter-ico.gif" /></a>
+          <a title="Compártelo en Twitter" onclick="window.open('https://twitter.com/home/?status=%22M%C3%A1s+acci%C3%B3n+menos+palabras+por+Bruno+S%C3%A1nchez-Andrade+Nu%C3%B1o+%22+LARAZON.ES+en+http%3A%2F%2Fbit.ly%2FAxUaUD','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/twitter-ico.gif" /></a>
         </li>
             <li>
-        <a title="Compártelo en Menéame" onclick="window.open('http://meneame.net/submit.php?url=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&ei=UTF','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/meneame-ico.gif" /></a>
+        <a title="Compártelo en Menéame" onclick="window.open('https://meneame.net/submit.php?url=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&ei=UTF','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/meneame-ico.gif" /></a>
       </li>
       <!--
         &t=','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/myspace-ico.gif" /></a>%>
       -->
       <li>
-        <a title="Abrir Ciudad Market" onclick="window.open('http://www.ciudadmarket.es/larazon/paginas/inicio_bla.php','_blank'); return false;" href="#">
+        <a title="Abrir Ciudad Market" onclick="window.open('https://www.ciudadmarket.es/larazon/paginas/inicio_bla.php','_blank'); return false;" href="#">
           <img src="/images/compartelo/ciudad_market_b.png" />
         </a>
       </li>
       
       <li>
-        <a title="Compártelo en Yahoo!" onclick="window.open('http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/yahoo-ico.gif" /></a>
+        <a title="Compártelo en Yahoo!" onclick="window.open('https://myweb2.search.yahoo.com/myresults/bookmarklet?u=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/yahoo-ico.gif" /></a>
       </li>
       <li>
-        <a title="Compártelo en Del.icio.us" onclick="window.open('http://del.icio.us/post?v=4&noui&jump=close&url=http://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&title=7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/delicious-ico.gif" /></a>
+        <a title="Compártelo en Del.icio.us" onclick="window.open('https://del.icio.us/post?v=4&noui&jump=close&url=https://www.larazon.es/noticia/7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno&title=7217-mas-accion-menos-palabras-por-bruno-sanchez-andrade-nuno','_blank','height=375,width=600'); return false;" href="#"><img src="/images/compartelo/delicious-ico.gif" /></a>
       </li>
     </ul>
   </div>
@@ -649,7 +649,7 @@ Instituto por la Adaptaci&oacute;n Global</p>
       //-->
     </script>
 
-    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+    <script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
   </div>
 </div>
         </div>
@@ -752,7 +752,7 @@ Instituto por la Adaptaci&oacute;n Global</p>
           SmartAdServer(sas_pageid, sas_formatid, sas_target);
         </script>
         <noscript>
-          <a href="http://www.smartadserver.com/call/pubjumpi/34520/237858/8596/M/37611656/?"><img src="http://www.smartadserver.com/call/pubi/34520/237858/8596/M/37611656/?" border="0"></a>
+          <a href="https://www.smartadserver.com/call/pubjumpi/34520/237858/8596/M/37611656/?"><img src="https://www.smartadserver.com/call/pubi/34520/237858/8596/M/37611656/?" border="0"></a>
         </noscript>
       
 
@@ -1026,7 +1026,7 @@ Instituto por la Adaptaci&oacute;n Global</p>
     google_ad_height = 250;
   //-->
   </script>
-  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  <script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </div>
       </div>
 
@@ -1058,7 +1058,7 @@ Instituto por la Adaptaci&oacute;n Global</p>
     google_ad_height = 90;
     //-->
   </script>
-  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+  <script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </div> 
 
 </div>
@@ -1071,26 +1071,26 @@ Instituto por la Adaptaci&oacute;n Global</p>
 
     <div id="show_contenido_10201">
          <ul>
-    <li><a target="_blank" href="http://www.larazon.es/pagina/publicidad-nacional">Tarifas Publicitarias</a></li>
-    <!--<li><a target="_blank" href="http://www.larazon.es/pagina/alertas-sms-la-razon">Alertas SMS</a></li>-->     <!--<li><a target="_blank" href="https://www.begawin.com">Apuestas Deportivas<br />
+    <li><a target="_blank" href="https://www.larazon.es/pagina/publicidad-nacional">Tarifas Publicitarias</a></li>
+    <!--<li><a target="_blank" href="https://www.larazon.es/pagina/alertas-sms-la-razon">Alertas SMS</a></li>-->     <!--<li><a target="_blank" href="https://www.begawin.com">Apuestas Deportivas<br />
       </a></li>-->
-    <li><a target="_blank" href="http://www.paginasamarillas.es/?pext=razon">P&aacute;ginas Amarillas</a></li>
-    <li><a target="_blank" href="http://www.paginasamarillas.es/home_restaurantes.asp?pext=razon ">Restaurantes Hoy</a></li>
-    <li><a target="_blank" href="http://callejero.paginasamarillas.es/home.asp?pext=razon">Callejero</a></li>
-    <li><a target="_blank" href="http://www.ofertaformativa.com">Cursos</a></li>
-    <li><a target="_blank" href="http://www.hoteles.net">Hoteles</a></li>
-    <li><a target="_blank" href="http://clasificados.larazon.es">Clasificados</a></li>
-    <li><a target="_blank" href="http://www.infobolsa.es/web/Default.aspx">Bolsa</a></li>
-    <li><a target="_blank" href="http://larazon.mynewsonline.com/">Hemeroteca</a>&nbsp;</li>
-    <li><a target="_self" href="http://www.larazon.es/promociones/show_mapa">Promociones</a></li>
-    <li><a target="_blank" href="http://blancas.paginasamarillas.es/?pext=razon">P&aacute;ginas Blancas</a></li>
-    <li><a target="_blank" href="http://compras.larazon.es">La tienda On line</a></li>
-    <li><a target="_self" href="http://www.larazon.es/tv">Programaci&oacute;n TV</a></li>
+    <li><a target="_blank" href="https://www.paginasamarillas.es/?pext=razon">P&aacute;ginas Amarillas</a></li>
+    <li><a target="_blank" href="https://www.paginasamarillas.es/home_restaurantes.asp?pext=razon ">Restaurantes Hoy</a></li>
+    <li><a target="_blank" href="https://callejero.paginasamarillas.es/home.asp?pext=razon">Callejero</a></li>
+    <li><a target="_blank" href="https://www.ofertaformativa.com">Cursos</a></li>
+    <li><a target="_blank" href="https://www.hoteles.net">Hoteles</a></li>
+    <li><a target="_blank" href="https://clasificados.larazon.es">Clasificados</a></li>
+    <li><a target="_blank" href="https://www.infobolsa.es/web/Default.aspx">Bolsa</a></li>
+    <li><a target="_blank" href="https://larazon.mynewsonline.com/">Hemeroteca</a>&nbsp;</li>
+    <li><a target="_self" href="https://www.larazon.es/promociones/show_mapa">Promociones</a></li>
+    <li><a target="_blank" href="https://blancas.paginasamarillas.es/?pext=razon">P&aacute;ginas Blancas</a></li>
+    <li><a target="_blank" href="https://compras.larazon.es">La tienda On line</a></li>
+    <li><a target="_self" href="https://www.larazon.es/tv">Programaci&oacute;n TV</a></li>
     <!--<li><a href="https://www.begawin.com/bingo.aspx" target="_blank">Bingo</a></li>-->
-    <li><a target="_blank" href="http://www.larazon.es/peliculas/estrenos">Estrenos de cine</a></li>
-    <li><a target="_blank" href="http://www.madridhifi.com">Electr&oacute;nica Madrid&middot;Hifi</a></li>
-    <li><a target="_blank" href="http://www.tiempo.com">Tiempo.com</a></li>
-    <li><a target="_blank" href="http://www.madridhifi.com/la-razon/">El Rinc&oacute;n Tecnol&oacute;gico</a></li>
+    <li><a target="_blank" href="https://www.larazon.es/peliculas/estrenos">Estrenos de cine</a></li>
+    <li><a target="_blank" href="https://www.madridhifi.com">Electr&oacute;nica Madrid&middot;Hifi</a></li>
+    <li><a target="_blank" href="https://www.tiempo.com">Tiempo.com</a></li>
+    <li><a target="_blank" href="https://www.madridhifi.com/la-razon/">El Rinc&oacute;n Tecnol&oacute;gico</a></li>
 </ul>
 <h3>Servicios</h3>
 <p>&nbsp;</p>

@@ -18,7 +18,7 @@ tags:
 - Science
 title: Charla divulgativa en Oviedo
 ---
-<a href="http://bit.ly/joQFU"><img class="aligncenter size-full wp-image-640" title="Screen shot 2009-09-30 at 6.35.03 PM" src="http://nasonurb.files.wordpress.com/2009/09/screen-shot-2009-09-30-at-6-35-03-pm.jpg" alt="Screen shot 2009-09-30 at 6.35.03 PM" width="300" height="96" /></a>
+<a href="https://bit.ly/joQFU"><img class="aligncenter size-full wp-image-640" title="Screen shot 2009-09-30 at 6.35.03 PM" src="https://nasonurb.files.wordpress.com/2009/09/screen-shot-2009-09-30-at-6-35-03-pm.jpg" alt="Screen shot 2009-09-30 at 6.35.03 PM" width="300" height="96" /></a>
 
 El próximo jueves 1 de octubre (mañana) , a las 13:00 horas, doy una pequeña charla divulgativa en la Sala de Grados de la Facultad de Ciencias, (Campus de Llamaquique, Oviedo).
 
@@ -26,4 +26,4 @@ El próximo jueves 1 de octubre (mañana) , a las 13:00 horas, doy una pequeña 
 
 El título es: "El Sol. Conocimiento moderno de nuestro cotidiano vecino."
 
-<a href="http://oviedo.brunosan.eu">Enlace del vídeo en la mediateca de la Universidad</a>.
+<a href="https://oviedo.brunosan.eu">Enlace del vídeo en la mediateca de la Universidad</a>.

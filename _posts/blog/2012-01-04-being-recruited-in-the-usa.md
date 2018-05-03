@@ -26,8 +26,8 @@ tags:
 - technology
 title: Being recruited in the USA
 ---
-<p style="text-align:left;">Via <a href="http://news.ycombinator.com/item?id=3424862">Hackers News</a> I found this <a href="http://pau.calepin.co/being-recruited-in-the-usa.html">post by Pau Ramon</a> about the difficult experience of being recruited in the USA. I went through a similar process twice. First to work at a space and rocket lab, then to work at an NGO. I´ll try to summarize it, hoping it might help others.
-<a title="Welcome to Washington DC by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/6526189907/"><img class="aligncenter" src="http://farm8.staticflickr.com/7006/6526189907_269d60b4b8.jpg" alt="Welcome to Washington DC" width="500" height="375" /></a>
+<p style="text-align:left;">Via <a href="https://news.ycombinator.com/item?id=3424862">Hackers News</a> I found this <a href="https://pau.calepin.co/being-recruited-in-the-usa.html">post by Pau Ramon</a> about the difficult experience of being recruited in the USA. I went through a similar process twice. First to work at a space and rocket lab, then to work at an NGO. I´ll try to summarize it, hoping it might help others.
+<a title="Welcome to Washington DC by brunosan, on Flickr" href="https://www.flickr.com/photos/nasonurb/6526189907/"><img class="aligncenter" src="https://farm8.staticflickr.com/7006/6526189907_269d60b4b8.jpg" alt="Welcome to Washington DC" width="500" height="375" /></a>
 <!--more--></p>
 <strong>As a research posdoc:</strong>
 
@@ -35,7 +35,7 @@ I sent three emails to those places I wanted to work with. Short email with thre
 
 Two replied and we talked about what I would do and if I could do it. I then requested a visit to the one I liked best so that they knew me and I could know them and the place. They paid the trip and I gave a seminar.
 
-Once back, they offered me a job. Important since you can´t seek or accept jobs while on <a href="http://travel.state.gov/visa/temp/without/without_1990.html">VWP</a>. In research there isn´t much of a discussion about salary ( ~60k ) or benefits ( health, retirement, life insurance, ... ) so it was quite straight forward to sign the offer with the University. Then we had to play a bit of bureaucracy of sending an receiving papers and singing them. The visa is J1 and it's rather easy if you are a PhD.
+Once back, they offered me a job. Important since you can´t seek or accept jobs while on <a href="https://travel.state.gov/visa/temp/without/without_1990.html">VWP</a>. In research there isn´t much of a discussion about salary ( ~60k ) or benefits ( health, retirement, life insurance, ... ) so it was quite straight forward to sign the offer with the University. Then we had to play a bit of bureaucracy of sending an receiving papers and singing them. The visa is J1 and it's rather easy if you are a PhD.
 
 I believe the cost was negligible (not the salary overhead, but that´s another story) and time wise the whole thing from offer letter to visa stamp was around 3 months, and included a quick interview at the US embassy in Madrid. Crossing the border involved a short interview but they like and appreciate scientists coming to do science. My place of work also required a security clearance with the DoD. That thing took a bit longer and more documents, so I had to be escorted while on the work place for another month, but it went by quickly.
 
@@ -43,7 +43,7 @@ I believe the cost was negligible (not the salary overhead, but that´s another
 
 Some years later I decided to move on.  I met a very interesting NGO at a conference and we talked about common interests. I helped them solve some issues (remotely, from Spain) and they raised their interested and offered a very good position.
 
-I got the offer while in Spain and they sponsored the H1B visa. Until getting the visa I would work remotely (here´s a post about <a href="/2011/04/04/soy-profesional/">dealing with taxes</a> and other things). Basically the H1B are quite limited but there is a "no cap" exemption for "nonprofit research organization or governmental research organization." [8 CFR 214.2 (h) (19) (iii) (C)]. Time wise is around 4 months, but chances are you won´t get it. Cost is around what is mentioned in <a href="http://news.ycombinator.com/item?id=3424862">HN</a> (~5k). Best hiring a lawyer to take care of the whole thing but still be on top of it and read about it.
+I got the offer while in Spain and they sponsored the H1B visa. Until getting the visa I would work remotely (here´s a post about <a href="/2011/04/04/soy-profesional/">dealing with taxes</a> and other things). Basically the H1B are quite limited but there is a "no cap" exemption for "nonprofit research organization or governmental research organization." [8 CFR 214.2 (h) (19) (iii) (C)]. Time wise is around 4 months, but chances are you won´t get it. Cost is around what is mentioned in <a href="https://news.ycombinator.com/item?id=3424862">HN</a> (~5k). Best hiring a lawyer to take care of the whole thing but still be on top of it and read about it.
 
 While the process is running you can´t apply to any other visa. However, you can still enter the USA under the VWP (again not for working , looking for a job or accepting the job, but conferences or turism is ok). The H1B bureaucracy involves several steps like translating your degrees into the US system, posting your job offer in the office and newspaper to search for an american candidate (including salary) and an interview with the US embassy are the most important.
 

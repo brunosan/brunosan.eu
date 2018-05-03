@@ -7,7 +7,7 @@ meta:
   geo_accuracy: "0"
   _wpas_done_fb: "1"
   geo_public: "1"
-  tagazine-media: a:7:{s:7:"primary";s:61:"http://farm4.static.flickr.com/3194/3078916756_6a6fc674ca.jpg";s:6:"images";a:2:{s:61:"http://farm4.static.flickr.com/3194/3078916756_6a6fc674ca.jpg";a:6:{s:8:"file_url";s:61:"http://farm4.static.flickr.com/3194/3078916756_6a6fc674ca.jpg";s:5:"width";s:3:"500";s:6:"height";s:3:"375";s:4:"type";s:5:"image";s:4:"area";s:6:"187500";s:9:"file_path";s:0:"";}s:61:"http://farm3.static.flickr.com/2791/4441561258_6b15ae7131.jpg";a:6:{s:8:"file_url";s:61:"http://farm3.static.flickr.com/2791/4441561258_6b15ae7131.jpg";s:5:"width";s:3:"500";s:6:"height";s:3:"400";s:4:"type";s:5:"image";s:4:"area";s:6:"200000";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"2";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2011-06-06 22:22:35";}
+  tagazine-media: a:7:{s:7:"primary";s:61:"https://farm4.static.flickr.com/3194/3078916756_6a6fc674ca.jpg";s:6:"images";a:2:{s:61:"https://farm4.static.flickr.com/3194/3078916756_6a6fc674ca.jpg";a:6:{s:8:"file_url";s:61:"https://farm4.static.flickr.com/3194/3078916756_6a6fc674ca.jpg";s:5:"width";s:3:"500";s:6:"height";s:3:"375";s:4:"type";s:5:"image";s:4:"area";s:6:"187500";s:9:"file_path";s:0:"";}s:61:"https://farm3.static.flickr.com/2791/4441561258_6b15ae7131.jpg";a:6:{s:8:"file_url";s:61:"https://farm3.static.flickr.com/2791/4441561258_6b15ae7131.jpg";s:5:"width";s:3:"500";s:6:"height";s:3:"400";s:4:"type";s:5:"image";s:4:"area";s:6:"200000";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"2";s:6:"author";s:7:"4180497";s:7:"blog_id";s:7:"8438084";s:9:"mod_stamp";s:19:"2011-06-06 22:22:35";}
   _wpas_done_twitter: "1"
   geo_address: 425 P St NW, Washington, DC 20001, USA
   geo_longitude: "-77.018000"
@@ -20,7 +20,7 @@ tags:
 - Science
 title: Fun facts about the Sun
 ---
-<p style="text-align:center;"><a title="The sun in your hands by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/3078916756/"><img class="aligncenter" src="http://farm4.static.flickr.com/3194/3078916756_6a6fc674ca.jpg" alt="The sun in your hands" width="500" height="375" /></a></p>
+<p style="text-align:center;"><a title="The sun in your hands by brunosan, on Flickr" href="https://www.flickr.com/photos/nasonurb/3078916756/"><img class="aligncenter" src="https://farm4.static.flickr.com/3194/3078916756_6a6fc674ca.jpg" alt="The sun in your hands" width="500" height="375" /></a></p>
 My Favorites fun fact of the Sun, from the top of my head:
 
 <!--more-->*If you had a shield or something to hide from the light, you could actually go inside the atmosphere of the Sun without being fried. The density of the atoms up there is ridiculously low. But if you are not lucky and you catch one of those wanderer super hot atoms you´ll be instantly disintegrated :)
@@ -56,4 +56,4 @@ My Favorites fun fact of the Sun, from the top of my head:
 *The upper part of the solar atmosphere is much hotter than the surface... and no one really understands why.
 
 Can you help me grow the list?
-<p style="text-align:center;"><a title="St. patricks, on the Sun by brunosan, on Flickr" href="http://www.flickr.com/photos/nasonurb/4441561258/"><img class="aligncenter" src="http://farm3.static.flickr.com/2791/4441561258_6b15ae7131.jpg" alt="St. patricks, on the Sun" width="500" height="400" /></a></p>
+<p style="text-align:center;"><a title="St. patricks, on the Sun by brunosan, on Flickr" href="https://www.flickr.com/photos/nasonurb/4441561258/"><img class="aligncenter" src="https://farm3.static.flickr.com/2791/4441561258_6b15ae7131.jpg" alt="St. patricks, on the Sun" width="500" height="400" /></a></p>

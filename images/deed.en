@@ -1,11 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:cc="http://creativecommons.org/ns#"
-      xmlns:dc="http://purl.org/dc/elements/1.1/"
-      xmlns:dct="http://purl.org/dc/terms/"
-      xmlns:frbr="http://purl.org/vocab/frbr/core#"
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "https://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml"
+      xmlns:cc="https://creativecommons.org/ns#"
+      xmlns:dc="https://purl.org/dc/elements/1.1/"
+      xmlns:dct="https://purl.org/dc/terms/"
+      xmlns:frbr="https://purl.org/vocab/frbr/core#"
       xml:lang="en">
-  <head about="http://creativecommons.org/licenses/by/2.0/">
+  <head about="https://creativecommons.org/licenses/by/2.0/">
     <meta http-equiv="Content-Type" 
 	  content="application/xhtml+xml; charset=utf-8" />
     <title>Creative Commons &mdash; Attribution 2.0 Generic
@@ -14,7 +14,7 @@
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
     <link rel="stylesheet" type="text/css"
-          href="http://yui.yahooapis.com/2.6.0/build/container/assets/skins/sam/container.css"/>
+          href="https://yui.yahooapis.com/2.6.0/build/container/assets/skins/sam/container.css"/>
 
     <link rel="stylesheet" type="text/css"
           href="/includes/deed3.css"
@@ -47,20 +47,20 @@ setCookie('lang','%s', expiry, '/');
 </script>
 
     <script type="text/javascript"
-            src="http://yui.yahooapis.com/2.6.0/build/yahoo-dom-event/yahoo-dom-event.js">
+            src="https://yui.yahooapis.com/2.6.0/build/yahoo-dom-event/yahoo-dom-event.js">
     </script>
     <script type="text/javascript"
-            src="http://yui.yahooapis.com/2.6.0/build/connection/connection-min.js">
+            src="https://yui.yahooapis.com/2.6.0/build/connection/connection-min.js">
     </script>
     <script type="text/javascript"
-            src="http://yui.yahooapis.com/2.6.0/build/json/json-min.js">
+            src="https://yui.yahooapis.com/2.6.0/build/json/json-min.js">
     </script>
 
-    <script type="text/javascript" src="http://scraper.creativecommons.org/js/deed.js">
+    <script type="text/javascript" src="https://scraper.creativecommons.org/js/deed.js">
     </script>
 
     <script type="text/javascript"
-            src="http://yui.yahooapis.com/2.6.0/build/container/container-min.js">
+            src="https://yui.yahooapis.com/2.6.0/build/container/container-min.js">
     </script>
 
     <script type="text/javascript"
@@ -70,19 +70,19 @@ setCookie('lang','%s', expiry, '/');
     
   </head>
 
-  <body typeof="cc:License" about="http://creativecommons.org/licenses/by/2.0/"
+  <body typeof="cc:License" about="https://creativecommons.org/licenses/by/2.0/"
         class="yui-skin-sam">
 
     
   <!-- RDF code here for backwards compatibility.  Please use the
        license's RDFa instead. -->
-  <!-- <rdf:RDF xmlns="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-  <License rdf:about="http://creativecommons.org/licenses/by/2.0/">
-    <permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
-    <permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
-    <permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
-    <requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
-    <requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+  <!-- <rdf:RDF xmlns="https://creativecommons.org/ns#" xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <License rdf:about="https://creativecommons.org/licenses/by/2.0/">
+    <permits rdf:resource="https://creativecommons.org/ns#DerivativeWorks"/>
+    <permits rdf:resource="https://creativecommons.org/ns#Distribution"/>
+    <permits rdf:resource="https://creativecommons.org/ns#Reproduction"/>
+    <requires rdf:resource="https://creativecommons.org/ns#Attribution"/>
+    <requires rdf:resource="https://creativecommons.org/ns#Notice"/>
   </License>
 </rdf:RDF> -->
 
@@ -98,7 +98,7 @@ setCookie('lang','%s', expiry, '/');
                alt="cc logo" />
         </div>
         <div id="cc-link">
-          <a rel="dc:creator dct:creator" href="http://creativecommons.org/">
+          <a rel="dc:creator dct:creator" href="https://creativecommons.org/">
             <span property="dc:title dct:title">Creative Commons</span>
           </a>
         </div>
@@ -153,7 +153,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
           
   
     <div id="libre">
-      <a href="http://freedomdefined.org/">
+      <a href="https://freedomdefined.org/">
         <img src="/images/deed/seal.png" style="border: 0"
              alt="This license is acceptable for Free Cultural Works." />
       </a>
@@ -166,19 +166,19 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
 
     
 
-    <h3 resource="http://creativecommons.org/ns#Reproduction"
+    <h3 resource="https://creativecommons.org/ns#Reproduction"
         rel="cc:permits">You are free:</h3>
     <ul class="license-properties">
       <li class="license share"
           rel="cc:permits"
-          resource="http://creativecommons.org/ns#Distribution">
+          resource="https://creativecommons.org/ns#Distribution">
         <strong>to Share</strong> — to copy, distribute and transmit the work
       </li>
 
       
         <li class="license remix"
             rel="cc:permits"
-            resource="http://creativecommons.org/ns#DerivativeWorks">
+            resource="https://creativecommons.org/ns#DerivativeWorks">
           <strong>to Remix</strong> — to adapt the work
         </li>
       
@@ -202,7 +202,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
         class="license-properties">
       
       <li class="license by"
-          rel="cc:requires" resource="http://creativecommons.org/ns#Attribution">
+          rel="cc:requires" resource="https://creativecommons.org/ns#Attribution">
           <p>
             <strong>Attribution</strong> &mdash;
             
@@ -225,7 +225,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
               <input id="license-code" type="hidden"
                      value="CC BY 2.0" />
               <input id="license-url" type="hidden"
-                     value="http://creativecommons.org/licenses/by/2.0/" />
+                     value="https://creativecommons.org/licenses/by/2.0/" />
               <a href="" id="attribution_help" class="helpLink">
                 <img src="/images/information.png"
                      alt="Information" />
@@ -261,7 +261,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
       <li class="license">
         <strong>Public Domain</strong>
         &mdash;
-        Where the work or any of its elements is in the <a href="http://wiki.creativecommons.org/Public_domain" id="public_domain" class="helpLink">public domain</a> under applicable law, that status is in no way affected by the license.
+        Where the work or any of its elements is in the <a href="https://wiki.creativecommons.org/Public_domain" id="public_domain" class="helpLink">public domain</a> under applicable law, that status is in no way affected by the license.
       </li>
 
       <li class="license">
@@ -271,24 +271,24 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
 
         <ul>
           <li>
-            Your fair dealing or <a href="http://wiki.creativecommons.org/Frequently_Asked_Questions#Do_Creative_Commons_licenses_affect_fair_use.2C_fair_dealing_or_other_exceptions_to_copyright.3F" id="fair_use" class="helpLink">fair use</a> rights, or other applicable copyright exceptions and limitations;
+            Your fair dealing or <a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#Do_Creative_Commons_licenses_affect_fair_use.2C_fair_dealing_or_other_exceptions_to_copyright.3F" id="fair_use" class="helpLink">fair use</a> rights, or other applicable copyright exceptions and limitations;
           </li>
 
           
             <li>
-              The author's <a href="http://wiki.creativecommons.org/Frequently_Asked_Questions#I_don.E2.80.99t_like_the_way_a_person_has_used_my_work_in_a_derivative_work_or_included_it_in_a_collective_work.3B_what_can_I_do.3F" id="moral_rights" class="helpLink">moral</a> rights;
+              The author's <a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#I_don.E2.80.99t_like_the_way_a_person_has_used_my_work_in_a_derivative_work_or_included_it_in_a_collective_work.3B_what_can_I_do.3F" id="moral_rights" class="helpLink">moral</a> rights;
             </li>
           
           
 
           <li>
-            Rights other persons may have either in the work itself or in how the work is used, such as <a href="http://wiki.creativecommons.org/Frequently_Asked_Questions#When_are_publicity_rights_relevant.3F" class="helpLink" id="publicity_rights">publicity</a> or privacy rights.
+            Rights other persons may have either in the work itself or in how the work is used, such as <a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#When_are_publicity_rights_relevant.3F" class="helpLink" id="publicity_rights">publicity</a> or privacy rights.
           </li>
         </ul>
       </li>
 
       <li rel="cc:requires"
-          resource="http://creativecommons.org/ns#Notice">
+          resource="https://creativecommons.org/ns#Notice">
         <strong>Notice</strong>
         &mdash;
         For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
@@ -298,7 +298,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
     
       <div id="deed-newer" tal:condition="">
         <p>
-          A <a href="http://creativecommons.org/licenses/by/3.0/">new version</a> of this license is available. You should use it for new works, and you may want to relicense existing works under it. No works are <em>automatically</em> put under the new license, however.
+          A <a href="https://creativecommons.org/licenses/by/3.0/">new version</a> of this license is available. You should use it for new works, and you may want to relicense existing works under it. No works are <em>automatically</em> put under the new license, however.
         </p>
       </div>
     
@@ -314,7 +314,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
 		attribution.
         </p>
         <p>
-          <a href="http://wiki.creativecommons.org/Frequently_Asked_Questions#Can_I_change_the_terms_of_a_CC_license_or_waive_some_of_its_conditions.3F">Learn more</a>.
+          <a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#Can_I_change_the_terms_of_a_CC_license_or_waive_some_of_its_conditions.3F">Learn more</a>.
         </p>
       </div>
     </div>
@@ -329,7 +329,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
         </p>
 
         <p>
-          <a href="http://wiki.creativecommons.org/Public_domain"
+          <a href="https://wiki.creativecommons.org/Public_domain"
              >Learn more</a>.</p>
       </div>
 
@@ -349,7 +349,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
         </p>
 
         <p>
-          <a href="http://wiki.creativecommons.org/Frequently_Asked_Questions#Do_Creative_Commons_licenses_affect_fair_use.2C_fair_dealing_or_other_exceptions_to_copyright.3F">Learn more</a>.</p>
+          <a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#Do_Creative_Commons_licenses_affect_fair_use.2C_fair_dealing_or_other_exceptions_to_copyright.3F">Learn more</a>.</p>
       </div>
     </div>
 
@@ -363,7 +363,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
         </p>
 
         <p>
-          <a href="http://wiki.creativecommons.org/Frequently_Asked_Questions#I_don.E2.80.99t_like_the_way_a_person_has_used_my_work_in_a_derivative_work_or_included_it_in_a_collective_work.3B_what_can_I_do.3F">Learn more</a>.
+          <a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#I_don.E2.80.99t_like_the_way_a_person_has_used_my_work_in_a_derivative_work_or_included_it_in_a_collective_work.3B_what_can_I_do.3F">Learn more</a>.
         </p>
 
       </div>
@@ -385,7 +385,7 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
         </p>
 
         <p>
-          <a href="http://wiki.creativecommons.org/Frequently_Asked_Questions#When_are_publicity_rights_relevant.3F">Learn more</a>.
+          <a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#When_are_publicity_rights_relevant.3F">Learn more</a>.
         </p>
       </div>
     </div>
@@ -586,14 +586,14 @@ Creative Commons is not a law firm and does not provide legal services. Distribu
     
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
 //]]>
     </script>
     <script type="text/javascript">
 //<![CDATA[
-      document.write("<" + "script type='text/javascript' src='http://scraper.creativecommons.org/apps/deed?url=" + encodeURIComponent(document.referrer) + "&amp;license_uri=" + encodeURIComponent(document.URL) + "&amp;callback=YAHOO.cc.success'" + "><" + "/script>");
+      document.write("<" + "script type='text/javascript' src='https://scraper.creativecommons.org/apps/deed?url=" + encodeURIComponent(document.referrer) + "&amp;license_uri=" + encodeURIComponent(document.URL) + "&amp;callback=YAHOO.cc.success'" + "><" + "/script>");
 //]]>
     </script>
   </body>

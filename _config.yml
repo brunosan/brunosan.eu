@@ -5,7 +5,7 @@ locale: en_US
 description: Saepe cadendo.
 logo: site-logo.png
 search: true
-url: http://brunosan.eu
+url: https://brunosan.eu
 
 
 # Jekyll configuration
@@ -58,7 +58,7 @@ owner:
   twitter: brunosan
   facebook: brunosan
   github: brunosan
-  stackexchange: #http://stackoverflow.com/users/123456/username
+  stackexchange: #https://stackoverflow.com/users/123456/username
   linkedin: nasonurb
   instagram: nasonurb
   flickr: #username

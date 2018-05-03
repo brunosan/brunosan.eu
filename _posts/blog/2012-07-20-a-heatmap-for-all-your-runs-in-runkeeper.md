@@ -10,12 +10,12 @@ tags:
 - GIS
 ---
 This is a map of 2 years running around Washington DC with
-[RunKeeper](http://www.runkeeper.com).
+[RunKeeper](https://www.runkeeper.com).
 
 <iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/brunosan.j36j5lp8.html?access_token=pk.eyJ1IjoiYnJ1bm9zYW4iLCJhIjoic3FUc1dJWSJ9.v0525WacYWcsHM1KtbZitg"></iframe>
 
   I always wanted to make a [heat]map with all my tracks. I finally got some time to play with
-  [TileMill](http://www.tilemill.com) and [Mapbox](http://www.mapbox.com) to
+  [TileMill](https://www.tilemill.com) and [Mapbox](https://www.mapbox.com) to
 make it. The map above is the result, and these are the steps to make
 your own:
   <!--more-->
@@ -29,7 +29,7 @@ your own:
 
 ### Get your data ###
 
-  Click on "export data" [link](http://runkeeper.com/exportDataForm) under *Settings* page in RunKeeper. Select the dates, you might want all your data so just select a wide range. You´ll get the link on your email in a few minutes.
+  Click on "export data" [link](https://runkeeper.com/exportDataForm) under *Settings* page in RunKeeper. Select the dates, you might want all your data so just select a wide range. You´ll get the link on your email in a few minutes.
 
 
   <img src="/images/Runkeeper-export2.jpg" width="100%">
@@ -37,7 +37,7 @@ your own:
 ### Import your tracks into TileMile ###
 
 You need first to export the gpx tracks into a Shapefile. I got some
-[help](http://support.mapbox.com/discussions/tilemill/1331-gpx-to-sqlite) from the awesome people at Mapbox and it turns to be as simple as:
+[help](https://support.mapbox.com/discussions/tilemill/1331-gpx-to-sqlite) from the awesome people at Mapbox and it turns to be as simple as:
 
 {% highlight sh %}
     ogr2ogr runs first-track.gpx
@@ -58,7 +58,7 @@ You will have new folder that contains shapefiles with tracks for each
 race, and also another shapefile with all measured positions
 (trackpoints). I´ll only use the tracks.
 
-In TileMill (available for free [here](http://www.mapbox.com/tilemill)) create a new project.
+In TileMill (available for free [here](https://www.mapbox.com/tilemill)) create a new project.
 Then click on add layer, select the shapefile with the tracks, and click
 "style and save".
 

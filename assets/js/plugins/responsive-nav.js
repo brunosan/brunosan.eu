@@ -1,6 +1,6 @@
 /*! responsive-nav.js v1.0.14
  * https://github.com/viljamis/responsive-nav.js
- * http://responsive-nav.com
+ * https://responsive-nav.com
  *
  * Copyright (c) 2013 @viljamis
  * Available under the MIT license
@@ -43,7 +43,7 @@ var responsiveNav = (function (window, document) {
     navOpen = false,
 
     // fn arg can be an object or a function, thanks to handleEvent
-    // read more at: http://www.thecssninja.com/javascript/handleevent
+    // read more at: https://www.thecssninja.com/javascript/handleevent
     addEvent = function (el, evt, fn, bubble) {
       if ("addEventListener" in el) {
         // BBOS6 doesn't support handleEvent, catch and polyfill

@@ -17,10 +17,10 @@
  
  <meta name="ROBOTS" content="NOARCHIVE">
  
- <link rel="icon" type="image/vnd.microsoft.icon" href="http://www.gstatic.com/codesite/ph/images/phosting.ico">
+ <link rel="icon" type="image/vnd.microsoft.icon" href="https://www.gstatic.com/codesite/ph/images/phosting.ico">
  
  
- <link rel="canonical" href="http://code.google.com/p/blacktree-secrets/wiki/Help" />
+ <link rel="canonical" href="https://code.google.com/p/blacktree-secrets/wiki/Help" />
  
  <script type="text/javascript">
  
@@ -30,7 +30,7 @@
  var codesite_token = null;
  
  
- var CS_env = {"profileUrl":null,"token":null,"assetHostPath":"http://www.gstatic.com/codesite/ph","domainName":null,"assetVersionPath":"http://www.gstatic.com/codesite/ph/16696656050152905794","projectHomeUrl":"/p/blacktree-secrets","relativeBaseUrl":"","projectName":"blacktree-secrets","loggedInUserEmail":null};
+ var CS_env = {"profileUrl":null,"token":null,"assetHostPath":"https://www.gstatic.com/codesite/ph","domainName":null,"assetVersionPath":"https://www.gstatic.com/codesite/ph/16696656050152905794","projectHomeUrl":"/p/blacktree-secrets","relativeBaseUrl":"","projectName":"blacktree-secrets","loggedInUserEmail":null};
  var _gaq = _gaq || [];
  _gaq.push(
  ['siteTracker._setAccount', 'UA-18071-1'],
@@ -42,7 +42,7 @@
  
  (function() {
  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
- ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
  })();
  
@@ -55,9 +55,9 @@
  
  Preference pane to access hidden user defaults - Google Project Hosting
  </title>
- <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/16696656050152905794/css/core.css">
+ <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/codesite/ph/16696656050152905794/css/core.css">
  
- <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/16696656050152905794/css/ph_detail.css" >
+ <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/codesite/ph/16696656050152905794/css/ph_detail.css" >
  
  
  
@@ -65,12 +65,12 @@
  
  
 <!--[if IE]>
- <link type="text/css" rel="stylesheet" href="http://www.gstatic.com/codesite/ph/16696656050152905794/css/d_ie.css" >
+ <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/codesite/ph/16696656050152905794/css/d_ie.css" >
 <![endif]-->
  <style type="text/css">
- .menuIcon.off { background: no-repeat url(http://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 -42px }
- .menuIcon.on { background: no-repeat url(http://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 -28px }
- .menuIcon.down { background: no-repeat url(http://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 0; }
+ .menuIcon.off { background: no-repeat url(https://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 -42px }
+ .menuIcon.on { background: no-repeat url(https://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 -28px }
+ .menuIcon.down { background: no-repeat url(https://www.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 0; }
  
  
  #maincol {
@@ -113,23 +113,23 @@
 <!--[if lte IE 7]>
 <div style="text-align:center;">
 Your version of Internet Explorer is not supported. Try a browser that
-contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>,
-<a href="http://www.google.com/chrome">Google Chrome</a>, or
-<a href="http://code.google.com/chrome/chromeframe/">Google Chrome Frame</a>.
+contributes to open source, such as <a href="https://www.firefox.com">Firefox</a>,
+<a href="https://www.google.com/chrome">Google Chrome</a>, or
+<a href="https://code.google.com/chrome/chromeframe/">Google Chrome Frame</a>.
 </div>
 <![endif]-->
 
 
 
  <table style="padding:0px; margin: 0px 0px 10px 0px; width:100%" cellpadding="0" cellspacing="0"
- itemscope itemtype="http://schema.org/CreativeWork">
+ itemscope itemtype="https://schema.org/CreativeWork">
  <tr style="height: 58px;">
  
  <td id="plogo">
  <link itemprop="url" href="/p/blacktree-secrets">
  <a href="/p/blacktree-secrets/">
  
- <img src="http://www.gstatic.com/codesite/ph/images/defaultlogo.png" alt="Logo" itemprop="image">
+ <img src="https://www.gstatic.com/codesite/ph/images/defaultlogo.png" alt="Logo" itemprop="image">
  
  </a>
  </td>
@@ -1505,7 +1505,7 @@ contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>
  <span class="date" title="Tue Jun  3 10:33:09 2008">Jun 3, 2008</span>
  <div>
 <div class="commentcontent">
-<p>Here&#x27;s a workaround until (if!) the server comes back online. The advantages of having two macs, only one of which just got a reinstall. :-) </p><p>Obtain a Secrets.plist file dating from before the server died. <a href="http://home.strangenoises.org/~rachel/Secrets.plist" rel="nofollow">Here&#x27;s mine</a>, dated March 1. (Anyone got newer?) Download it and copy it into ~/Library/Caches (ie: in your home folder, open Library, in that open Caches, and drag Secrets.plist into there. </p><p>Start System Preferences and load the Secrets prefpane. It should all be there now. Seems to work too. :-) </p>
+<p>Here&#x27;s a workaround until (if!) the server comes back online. The advantages of having two macs, only one of which just got a reinstall. :-) </p><p>Obtain a Secrets.plist file dating from before the server died. <a href="https://home.strangenoises.org/~rachel/Secrets.plist" rel="nofollow">Here&#x27;s mine</a>, dated March 1. (Anyone got newer?) Download it and copy it into ~/Library/Caches (ie: in your home folder, open Library, in that open Caches, and drag Secrets.plist into there. </p><p>Start System Preferences and load the Secrets prefpane. It should all be there now. Seems to work too. :-) </p>
 </div>
  
  
@@ -2177,7 +2177,7 @@ contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>
  <span class="date" title="Fri Jan 16 10:50:21 2009">Jan 16, 2009</span>
  <div>
 <div class="commentcontent">
-<p>Could we have a secret that could prevent my Mac from opening Aperture every time I plug in my iPhone for syncing?  I know there is a way, but it would be so much easier through Secrets. </p><p><a href="http://www.37signals.com/svn/posts/873-tip-prevent-iphoto-from-opening-when-you-plug-in-your-iphone" rel="nofollow">http://www.37signals.com/svn/posts/873-tip-prevent-iphoto-from-opening-when-you-plug-in-your-iphone</a> </p>
+<p>Could we have a secret that could prevent my Mac from opening Aperture every time I plug in my iPhone for syncing?  I know there is a way, but it would be so much easier through Secrets. </p><p><a href="https://www.37signals.com/svn/posts/873-tip-prevent-iphoto-from-opening-when-you-plug-in-your-iphone" rel="nofollow">https://www.37signals.com/svn/posts/873-tip-prevent-iphoto-from-opening-when-you-plug-in-your-iphone</a> </p>
 </div>
  
  
@@ -3241,7 +3241,7 @@ contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>
  <span class="date" title="Tue Jul 13 22:01:16 2010">Jul 13, 2010</span>
  <div>
 <div class="commentcontent">
-<p>Guys (and gals!), this thing, MacPilot<a href="/p/blacktree-secrets/w/edit/MacPilot">?</a>, Cocktail, Snow Leo Cache Cleaner, etc etc etc are not only weak GUI wrappers of command line tools, but in a lot of cases they cause a serious breach of your machine&#x27;s security. Don&#x27;t use anything that asks for authentication. Even when it doesn&#x27;t explicitly say to, Secrets et al. store your admin PW, often in a prefs or other plaintext file, or simply leave the OS open to receiving commands from who knows who/where. I am in no way connected to the developer nor benefit from your DL/use (its free), but I&#x27;d caution against continued use of this sort of graphical front end, instead try <a href="http://rixstep.com/4/0/clix/" rel="nofollow">http://rixstep.com/4/0/clix/</a> for a tool (&#x27;CLIX&#x27;) that will do all that Secrets, Cocktail, Onyx tc do, and more, and SAFELY. And you will actually learn what you are doing, whether you try to or not. And hey, it IS GUI, no harder to use than these sandbaggers (easier, since it explains EVERYTHING and CLEARLY), and free. I gnu you&#x27;d like it :) </p>
+<p>Guys (and gals!), this thing, MacPilot<a href="/p/blacktree-secrets/w/edit/MacPilot">?</a>, Cocktail, Snow Leo Cache Cleaner, etc etc etc are not only weak GUI wrappers of command line tools, but in a lot of cases they cause a serious breach of your machine&#x27;s security. Don&#x27;t use anything that asks for authentication. Even when it doesn&#x27;t explicitly say to, Secrets et al. store your admin PW, often in a prefs or other plaintext file, or simply leave the OS open to receiving commands from who knows who/where. I am in no way connected to the developer nor benefit from your DL/use (its free), but I&#x27;d caution against continued use of this sort of graphical front end, instead try <a href="https://rixstep.com/4/0/clix/" rel="nofollow">https://rixstep.com/4/0/clix/</a> for a tool (&#x27;CLIX&#x27;) that will do all that Secrets, Cocktail, Onyx tc do, and more, and SAFELY. And you will actually learn what you are doing, whether you try to or not. And hey, it IS GUI, no harder to use than these sandbaggers (easier, since it explains EVERYTHING and CLEARLY), and free. I gnu you&#x27;d like it :) </p>
 </div>
  
  
@@ -3325,7 +3325,7 @@ contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>
  <span class="date" title="Sat Jan 15 22:06:23 2011">Jan 15, 2011</span>
  <div>
 <div class="commentcontent">
-<p>Not sure how to enter this into secrets.. But, this: </p><p>defaults write -app iMovie allowNV -bool true </p><p>allows for network drive importing of video in iMovie &#x27;11 &amp; iMovie &#x27;09. </p><p>Tip is from:  <a href="http://carryflag.blogspot.com/2010/06/imovie-event-library-on-network-drive.html" rel="nofollow">http://carryflag.blogspot.com/2010/06/imovie-event-library-on-network-drive.html</a> </p><p>This totally needs to be added to Secrets! :) </p>
+<p>Not sure how to enter this into secrets.. But, this: </p><p>defaults write -app iMovie allowNV -bool true </p><p>allows for network drive importing of video in iMovie &#x27;11 &amp; iMovie &#x27;09. </p><p>Tip is from:  <a href="https://carryflag.blogspot.com/2010/06/imovie-event-library-on-network-drive.html" rel="nofollow">https://carryflag.blogspot.com/2010/06/imovie-event-library-on-network-drive.html</a> </p><p>This totally needs to be added to Secrets! :) </p>
 </div>
  
  
@@ -4019,19 +4019,19 @@ contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>
 
 
 
- <script src="http://www.gstatic.com/codesite/ph/16696656050152905794/js/prettify/prettify.js"></script>
+ <script src="https://www.gstatic.com/codesite/ph/16696656050152905794/js/prettify/prettify.js"></script>
  <script type="text/javascript">
  prettyPrint();
  </script>
 
-<script type="text/javascript" src="http://www.gstatic.com/codesite/ph/16696656050152905794/js/dit_scripts.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/codesite/ph/16696656050152905794/js/dit_scripts.js"></script>
 
 
 
   
  
  
- <script type="text/javascript" src="http://www.gstatic.com/codesite/ph/16696656050152905794/js/ph_core.js"></script>
+ <script type="text/javascript" src="https://www.gstatic.com/codesite/ph/16696656050152905794/js/ph_core.js"></script>
  
  
  
@@ -4042,12 +4042,12 @@ contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>
 <div id="footer" dir="ltr">
  <div class="text">
  <a href="/projecthosting/terms.html">Terms</a> -
- <a href="http://www.google.com/privacy.html">Privacy</a> -
+ <a href="https://www.google.com/privacy.html">Privacy</a> -
  <a href="/p/support/">Project Hosting Help</a>
  </div>
 </div>
  <div class="hostedBy" style="margin-top: -20px;">
- <span style="vertical-align: top;">Powered by <a href="http://code.google.com/projecthosting/">Google Project Hosting</a></span>
+ <span style="vertical-align: top;">Powered by <a href="https://code.google.com/projecthosting/">Google Project Hosting</a></span>
  </div>
 
  

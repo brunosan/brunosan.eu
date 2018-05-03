@@ -9,15 +9,15 @@
 
             <meta property="og:title" content="OpenStreetMap - Project Haiti">
             <meta property="og:description" content="A visualisation of the response to the earthquake by the OpenStreetMap community.  Within 12 hours the white flashes indicate edits to the map (generally by tracing satellite/aerial photography).  Over the following days a large number of additions to&hellip;">
-            <meta property="og:image" content="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
+            <meta property="og:image" content="https://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
             <meta property="og:type" content="video.other">
-            <meta property="og:video" content="http://vimeo.com/moogaloop.swf?clip_id=9182869">
+            <meta property="og:video" content="https://vimeo.com/moogaloop.swf?clip_id=9182869">
             <meta property="og:video:secure_url" content="https://vimeo.com/moogaloop.swf?clip_id=9182869">
             <meta property="og:video:type" content="application/x-shockwave-flash">
             <meta property="og:video:width" content="640">
             <meta property="og:video:height" content="360">
             <meta property="og:site_name" content="Vimeo">
-            <meta property="og:url" content="http://vimeo.com/9182869">
+            <meta property="og:url" content="https://vimeo.com/9182869">
     
         <meta name="twitter:card" content="player">
         <meta name="twitter:player" content="https://player.vimeo.com/video/9182869">
@@ -29,27 +29,27 @@
 
 
 
-    <link rel="alternate" href="http://vimeo.com/api/oembed.json?url=http%3A%2F%2Fvimeo.com%2F9182869" type="application/json+oembed">
-    <link rel="alternate" href="http://vimeo.com/api/oembed.xml?url=http%3A%2F%2Fvimeo.com%2F9182869" type="text/xml+oembed">
+    <link rel="alternate" href="https://vimeo.com/api/oembed.json?url=http%3A%2F%2Fvimeo.com%2F9182869" type="application/json+oembed">
+    <link rel="alternate" href="https://vimeo.com/api/oembed.xml?url=http%3A%2F%2Fvimeo.com%2F9182869" type="text/xml+oembed">
     <link rel="alternate" href="/m/9182869" media="handheld">
     <link rel="canonical" href="/9182869">
 
-<link rel="apple-touch-icon-precomposed" media="(resolution: 326dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-114.png">
-<link rel="apple-touch-icon-precomposed" media="(resolution: 163dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-57.png">
-<link rel="apple-touch-icon-precomposed" media="(resolution: 132dpi)" href="http://a.vimeocdn.com/images_v6/apple-touch-icon-72.png">
+<link rel="apple-touch-icon-precomposed" media="(resolution: 326dpi)" href="https://a.vimeocdn.com/images_v6/apple-touch-icon-114.png">
+<link rel="apple-touch-icon-precomposed" media="(resolution: 163dpi)" href="https://a.vimeocdn.com/images_v6/apple-touch-icon-57.png">
+<link rel="apple-touch-icon-precomposed" media="(resolution: 132dpi)" href="https://a.vimeocdn.com/images_v6/apple-touch-icon-72.png">
 <link rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml" title="Vimeo search">
 
         <title>OpenStreetMap - Project Haiti on Vimeo</title>
-                                    <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/global_combined.min.css?5fd33273">
-    <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/clip_combined.min.css?f4cf39f6">
-    <link rel="stylesheet" href="http://a.vimeocdn.com/p/1.4.22/css/player.core.opt.css">
+                                    <link rel="stylesheet" href="https://a.vimeocdn.com/css_v6_opt/global_combined.min.css?5fd33273">
+    <link rel="stylesheet" href="https://a.vimeocdn.com/css_v6_opt/clip_combined.min.css?f4cf39f6">
+    <link rel="stylesheet" href="https://a.vimeocdn.com/p/1.4.22/css/player.core.opt.css">
     <noscript>
-        <link rel="stylesheet" href="http://a.vimeocdn.com/css_v6_opt/nojs.min.css?df0617d">
+        <link rel="stylesheet" href="https://a.vimeocdn.com/css_v6_opt/nojs.min.css?df0617d">
     </noscript>
     <script>
         var js_css = document.createElement('link');
         js_css.rel = 'stylesheet'
-        js_css.href = 'http://a.vimeocdn.com/css_v6_opt/js_enabled.min.css?df0617d';
+        js_css.href = 'https://a.vimeocdn.com/css_v6_opt/js_enabled.min.css?df0617d';
         document.getElementsByTagName('head')[0].appendChild(js_css);
     </script>
             </head>
@@ -64,7 +64,7 @@
 <header id="site_header">
     <div class="container clearfix">
         <a id="logo" href="/" title="Go home">
-                            <img class="svg" src="http://a.vimeocdn.com/logo.svg" alt="Go home" width="140" height="40">
+                            <img class="svg" src="https://a.vimeocdn.com/logo.svg" alt="Go home" width="140" height="40">
                     </a>
         <nav>
             <ul id="menu" class="clearfix">
@@ -127,7 +127,7 @@
                                     <strong>Forums</strong> Share, learn, and talk with other members.                                </a>
                             </li>
                             <li class="last">
-                                <a href="http://developer.vimeo.com">
+                                <a href="https://developer.vimeo.com">
                                     <strong>Developers &amp; API</strong>Get in touch with your inner nerd.                                </a>
                             </li>
                         </ul>
@@ -146,13 +146,13 @@
                 <div id="content">
                     
 
-<div id="cols" itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
-        <meta itemprop="playpageUrl" content="http://vimeo.com/9182869">
-    <meta itemprop="discussionUrl" content="http://vimeo.com/9182869">
+<div id="cols" itemprop="video" itemscope itemtype="https://schema.org/VideoObject">
+        <meta itemprop="playpageUrl" content="https://vimeo.com/9182869">
+    <meta itemprop="discussionUrl" content="https://vimeo.com/9182869">
     <meta itemprop="height" content="1280">
     <meta itemprop="width" content="720">
-    <meta itemprop="image" content="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
-    <meta itemprop="thumbnailUrl" content="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
+    <meta itemprop="image" content="https://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
+    <meta itemprop="thumbnailUrl" content="https://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
     <meta itemprop="playerType" content="HTML5 Flash">
     <meta itemprop="encodingFormat" content="MP4">
     <meta itemprop="videoQuality" content="HD">
@@ -162,22 +162,22 @@
     <meta itemprop="duration" content="PT00H00M31S">
     <meta itemprop="dateCreated" content="2010-02-03T11:06:15-05:00">
     <meta itemprop="uploadDate" content="2010-02-03T11:06:15-05:00">
-    <meta itemprop="embedUrl" content="http://player.vimeo.com/video/9182869">
-    <div itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject">
-        <meta itemprop="url" content="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
+    <meta itemprop="embedUrl" content="https://player.vimeo.com/video/9182869">
+    <div itemprop="thumbnail" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="https://b.vimeocdn.com/ts/448/159/44815973_640.jpg">
         <meta itemprop="width" content="640">
         <meta itemprop="height" content="360">
     </div>
-    <div itemprop="provider" itemscope itemtype="http://schema.org/Organization">
+    <div itemprop="provider" itemscope itemtype="https://schema.org/Organization">
         <meta itemprop="name" content="Vimeo">
-        <meta itemprop="url" content="http://vimeo.com">
+        <meta itemprop="url" content="https://vimeo.com">
     </div>
 
     <div id="clip">
         <div id="video">
             
-<div class="vimeo_holder" style="width:960px;height:540px;background-image:url('http://b.vimeocdn.com/ts/448/159/44815973_640.jpg');">
-    <!--[if lt IE 9]><style scoped="scoped">.a.d .ab {display: block;}.a.d .bp {background: #000;filter: alpha(opacity='70');}</style><![endif]--><style scoped="scoped">.f {overflow: hidden;padding: 0;margin: 0;width: 100%;height: 100%;background: transparent;}.f > div {width: 100%;height: 100%;}.f .t .as,.f .t .b {visibility: hidden !important;}.f .t .k,.f .t .j,.f .t .b {opacity: 0;filter:alpha(opacity=0);}.f .ab {position: absolute;left: 0;top: 0;z-index: 1;width: 100%;height: 100%;background-position: 50% 50%;background-repeat: no-repeat;background-color: #000;-webkit-background-size: 100% auto;-moz-background-size: 100% auto;background-size: 100% auto;}.by.t .ab + div {position: absolute;z-index: 2;opacity: 1 !important;}.f .w,.f .v {background: #000;}.f .w .ab {-webkit-background-size: auto 100% !important;-moz-background-size: auto 100% !important;background-size: auto 100% !important;}.f .v .ab {-webkit-background-size: 100% auto !important;-moz-background-size: 100% auto !important;background-size: 100% auto !important;}.f object {z-index: 2;position: absolute;}body.aa {overflow: hidden;}body.aa .f .b, .a.r .b {max-width: 50%;margin-left: -25%;left: 50%;}.br {display: none !important;}.an {opacity: 0 !important;filter: alpha(opacity='0');}.bn {visibility: hidden !important;}</style><div id="player_9182869_1593976298" class="f player"><style scoped="scoped">.a aside button.z.ce:after {content: 'Remove';}.a aside button.z:after {content: 'Later';}.a aside button.bl.ce:after {content: ' on';}.a aside button.bl:after {content: ' off';}</style><div class="t"><div class="bf"><div class="ab br" style="background-image: url(http://b.vimeocdn.com/ts/448/159/44815973_640.jpg);" data-thumb="http://b.vimeocdn.com/ts/448/159/44815973_640.jpg"></div></div><div class="as"><header class="k"></header><aside class="j"><button class="cs au"><canvas width="30" height="20"></canvas>Like</button><button class="z au"><canvas width="30" height="20"></canvas></button><button class="cf au"><canvas width="30" height="20"></canvas>Share</button><button class="bl au">Scaling is</button></aside></div><div class="b"><button class="ar au"><canvas width="20" height="20"></canvas></button><div class="h au"><div class="i"><canvas class="bt" height="8"></canvas><div class="bs" data-min="0" data-max="1"></div><div class="bq" data-min="0" data-max="1"></div><div class="m"><div class="n"><span>00:00</span><div class="ax"></div><div class="dj"></div></div></div><div class="af"><div class="n"><span>31</span><div class="ax cn"></div><div class="ax"></div></div></div></div><div class="be"><canvas width="34" height="15"></canvas></div><div class="aq off"><button>HD</button></div><div class="r"><canvas width="12" height="12"></canvas></div></div></div><div class="e br"></div><div class="bp br"></div></div></div></div>
+<div class="vimeo_holder" style="width:960px;height:540px;background-image:url('https://b.vimeocdn.com/ts/448/159/44815973_640.jpg');">
+    <!--[if lt IE 9]><style scoped="scoped">.a.d .ab {display: block;}.a.d .bp {background: #000;filter: alpha(opacity='70');}</style><![endif]--><style scoped="scoped">.f {overflow: hidden;padding: 0;margin: 0;width: 100%;height: 100%;background: transparent;}.f > div {width: 100%;height: 100%;}.f .t .as,.f .t .b {visibility: hidden !important;}.f .t .k,.f .t .j,.f .t .b {opacity: 0;filter:alpha(opacity=0);}.f .ab {position: absolute;left: 0;top: 0;z-index: 1;width: 100%;height: 100%;background-position: 50% 50%;background-repeat: no-repeat;background-color: #000;-webkit-background-size: 100% auto;-moz-background-size: 100% auto;background-size: 100% auto;}.by.t .ab + div {position: absolute;z-index: 2;opacity: 1 !important;}.f .w,.f .v {background: #000;}.f .w .ab {-webkit-background-size: auto 100% !important;-moz-background-size: auto 100% !important;background-size: auto 100% !important;}.f .v .ab {-webkit-background-size: 100% auto !important;-moz-background-size: 100% auto !important;background-size: 100% auto !important;}.f object {z-index: 2;position: absolute;}body.aa {overflow: hidden;}body.aa .f .b, .a.r .b {max-width: 50%;margin-left: -25%;left: 50%;}.br {display: none !important;}.an {opacity: 0 !important;filter: alpha(opacity='0');}.bn {visibility: hidden !important;}</style><div id="player_9182869_1593976298" class="f player"><style scoped="scoped">.a aside button.z.ce:after {content: 'Remove';}.a aside button.z:after {content: 'Later';}.a aside button.bl.ce:after {content: ' on';}.a aside button.bl:after {content: ' off';}</style><div class="t"><div class="bf"><div class="ab br" style="background-image: url(https://b.vimeocdn.com/ts/448/159/44815973_640.jpg);" data-thumb="https://b.vimeocdn.com/ts/448/159/44815973_640.jpg"></div></div><div class="as"><header class="k"></header><aside class="j"><button class="cs au"><canvas width="30" height="20"></canvas>Like</button><button class="z au"><canvas width="30" height="20"></canvas></button><button class="cf au"><canvas width="30" height="20"></canvas>Share</button><button class="bl au">Scaling is</button></aside></div><div class="b"><button class="ar au"><canvas width="20" height="20"></canvas></button><div class="h au"><div class="i"><canvas class="bt" height="8"></canvas><div class="bs" data-min="0" data-max="1"></div><div class="bq" data-min="0" data-max="1"></div><div class="m"><div class="n"><span>00:00</span><div class="ax"></div><div class="dj"></div></div></div><div class="af"><div class="n"><span>31</span><div class="ax cn"></div><div class="ax"></div></div></div></div><div class="be"><canvas width="34" height="15"></canvas></div><div class="aq off"><button>HD</button></div><div class="r"><canvas width="12" height="12"></canvas></div></div></div><div class="e br"></div><div class="bp br"></div></div></div></div>
 
         </div>
 
@@ -185,10 +185,10 @@
             
 
 <header id="page_header">
-    <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <div itemprop="author" itemscope itemtype="https://schema.org/Person">
         <meta itemprop="name" content="ItoWorld">
-        <a href="http://vimeo.com/itoworld" itemprop="url">
-            <img src="http://b.vimeocdn.com/ps/906/906594_75.jpg" alt="ItoWorld" class="portrait portrait_lg" itemprop="image">
+        <a href="https://vimeo.com/itoworld" itemprop="url">
+            <img src="https://b.vimeocdn.com/ps/906/906594_75.jpg" alt="ItoWorld" class="portrait portrait_lg" itemprop="image">
         </a>
     </div>
     <div class="video_meta">
@@ -197,7 +197,7 @@
              by <a rel="author" href="/itoworld">ItoWorld</a> <a href="/plus" title="Learn more about Vimeo Plus" data-ga-event="button|plus_badge_click|plus"><span class="badge_plus">Plus</span></a>            <time datetime="2010-02-03T11:06:15-05:00" title="Wednesday, February 3, 2010 11:06 AM">2 years ago</time>            
                             <span class="meta">
                     /
-                    <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Attribution Share Alike" target="_blank" rel="license">
+                    <a href="https://creativecommons.org/licenses/by-sa/3.0/" title="Attribution Share Alike" target="_blank" rel="license">
                         <dl class="cc_list sm">
                             <dt>Creative Commons License:</dt>
                                                                                         <dd class="by">by</dd>
@@ -214,7 +214,7 @@
         <p class="first">A visualisation of the response to the earthquake by the OpenStreetMap community.  Within 12 hours the white flashes indicate edits to the map (generally by tracing satellite/aerial photography).</p>
 <p>Over the following days a large number of additions to the map are made with many roads (green primary, red secondary) added.  Also many other features were added such as the blue glowing refugee camps that emerge.</p>
 <p>A lot of these edits were made possible by a number of satellite and aerial imagery passes in the days after the quake, that were release to the public for tracing and analysis.</p>
-<p>Read more on our blog - <a href="http://itoworld.blogspot.com/2010/02/ito-world-at-ted-2010-project-haiti.html" target="_blank" rel="nofollow">itoworld.blogspot.com/2010/02/ito-world-at-ted-2010-project-haiti.html</a></p>
+<p>Read more on our blog - <a href="https://itoworld.blogspot.com/2010/02/ito-world-at-ted-2010-project-haiti.html" target="_blank" rel="nofollow">itoworld.blogspot.com/2010/02/ito-world-at-ted-2010-project-haiti.html</a></p>
 <p>Developed with support from ideasintransit.org</p>    </div>
 </div>
 
@@ -262,7 +262,7 @@
         
         <div id="extras">
                             <h3 class="loading">
-                    <img src="http://a.vimeocdn.com/images_v6/icon_loading_md.gif" alt="" /> Loading more stuff&hellip;                </h3>
+                    <img src="https://a.vimeocdn.com/images_v6/icon_loading_md.gif" alt="" /> Loading more stuff&hellip;                </h3>
 
                 <p class="notice hide">Hmm&hellip;it looks like things are taking a while to load. <a href="/9182869">Try again</a>?</p>
                     </div>
@@ -462,16 +462,16 @@
             dict: {"loading":"Loading&hellip;","just_now":"just now","added":"added","removed":"removed","videos":"Videos","read_more":"Read More","more_videos":"More Videos","more_videos_abbr":"<span>+<\/span> Videos","hide_videos":"Hide Videos","hide_videos_abbr":"<span>&ndash;<\/span> Videos","see_more_videos":"See more videos","confirm_remove_credit":"Are you sure you want to remove yourself from the credits?","no_data_for_range":"Sorry, but we do not have any statistics for this date range.","total_plays":"Total Plays","totals":"Totals","likes":"Likes","comments":"Comments","seconds_ago":{"singular":" second ago","plural":" seconds ago"},"minutes_ago":{"singular":" minute ago","plural":" minutes ago"},"hours_ago":{"singular":" hour ago","plural":" hours ago"},"open_comment_box":"Add new comment instead &raquo;","url_unavailable":"Sorry, this url is unavailable.","unsaved_changes_generic":"You have unsaved changes, are you sure you wish to leave?","add":"Add","remove":"Remove","no_followers_for_letter":"You don&rsquo;t follow anyone that begin with the letter &ldquo;{PAGE_LETTER}&rdquo;","share_limit_reached":"You have reached the maximum number of users to share with.","available":"Available","unavailable":"Unavailable","browse_error_generic":"Sorry, there was an error","browse_error_no_videos":"Sorry, no videos found","follow":"Follow","following":"Following","unfollow":"Unfollow","unfollowing":"Unfollowing","count_comments":{"singular":"{COUNT} comment","plural":"{COUNT} comments"},"first_comment":"Be the first to comment&hellip;","no_comments_for_you":"Forbidden. You cannot post comments on this page.","duration_input_min_duration":"The duration cannot be less than {MIN_DURATION}.","duration_input_max_duration":"The duration cannot be greater than {MAX_DURATION}.","duration_input_invalid_characters":"0-9 and : are the only acceptable inputs.","enhance_videos":"Enhance Videos","hide_enhancer":"Hide Enhancer","enhancer":"Enhancer","find_track_video":"Or, let us help you <a href=\"#\" rel=\"nofollow\" id=\"search_on_video\">find a track that fits<\/a>.","close":"Close","expand":"Expand","top":"top","advanced_search":"Advanced Search","no_suggestions":"No suggestions","recent_searches":"Recent Searches","search_all":"Search All of Vimeo"}        };
     </script>
 
-    <script src="http://a.vimeocdn.com/js_v6_opt/global_combined.min.js?758d67af"></script>
-    <script src="http://a.vimeocdn.com/js_v6_opt/clip_combined.min.js?52d72f51"></script>
-    <script src="http://a.vimeocdn.com/p/1.4.22/js/player.core.opt.js"></script>
+    <script src="https://a.vimeocdn.com/js_v6_opt/global_combined.min.js?758d67af"></script>
+    <script src="https://a.vimeocdn.com/js_v6_opt/clip_combined.min.js?52d72f51"></script>
+    <script src="https://a.vimeocdn.com/p/1.4.22/js/player.core.opt.js"></script>
 
 <script>
     var _comscore = _comscore || [],
         _gaq = _gaq || [],
-        CSS_DIR = 'http://a.vimeocdn.com/css_v6_opt/',
-        JS_DIR = 'http://a.vimeocdn.com/js_v6_opt/',
-        IMAGE_DIR = 'http://a.vimeocdn.com/images_v6/',
+        CSS_DIR = 'https://a.vimeocdn.com/css_v6_opt/',
+        JS_DIR = 'https://a.vimeocdn.com/js_v6_opt/',
+        IMAGE_DIR = 'https://a.vimeocdn.com/images_v6/',
         BUILD_HASH = 'f764d',
         vimeo = {
             app_version: 'v6',
@@ -497,19 +497,19 @@
                     );
 
     window.addEvent('domready', function() {
-                                    var player9182869_1593976298,player9182869_1593976298_element = document.getElementById('player_9182869_1593976298'),clip9182869_1593976298 = {config:{"request":{"cached_timestamp":1341216870,"source":"fresh","signature":"61ebe2a534b9cf9efea844b154efd21f","timestamp":1341216870,"cookie":{"hd":true,"scaling":1,"volume":100,"html":2},"expiration":21600,"referrer":"","vimeo_url":"vimeo.com","player_url":"player.vimeo.com","cdn_url":"a.vimeocdn.com","cookie_domain":".vimeo.com"},"video":{"id":9182869,"title":"OpenStreetMap - Project Haiti","width":1280,"height":720,"duration":31,"url":"http:\/\/vimeo.com\/9182869","thumbnail":"http:\/\/b.vimeocdn.com\/ts\/448\/159\/44815973_640.jpg","embed_code":"<iframe src=\"http:\/\/player.vimeo.com\/video\/9182869\" width=\"400\" height=\"300\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>","hd":1,"default_to_hd":0,"owner":{"name":"ItoWorld","portrait":"http:\/\/b.vimeocdn.com\/ps\/906\/906594_75.jpg","url":"http:\/\/vimeo.com\/itoworld","account_type":"plus"},"stats":{"comments":8,"likes":95,"plays":40820},"files":{"h264":["hd","sd","mobile"]},"profiles":{"h264":{"hd":113,"sd":112,"mobile":116}},"smil":{"url":"http:\/\/player.vimeo.com\/config\/9182869.smil","qualities":["hd","sd","mobile"]}},"security":{"embed_permission":"public","hd_embed":1,"privacy":"anybody"},"application":{"version":"v6","build_num":"df0617d"},"analytics":{"ga_account":"UA-76641-35","comscore_c1":"1","comscore_c2":"10348289"},"user":{"id":0,"liked":0,"watch_later":0,"status":{"mod":0,"logged_in":0,"owner":0,"account_type":"logged_out"}},"embed":{"alt_color":"c0c0c0","color":"00adef","autoplay":0,"loop":0,"time":0,"pause_info":0,"on_site":1,"context":"user","api":{"on":1,"player_id":null,"version":2},"toggle":{"badge":0,"byline":0,"portrait":0,"title":0,"byline_badge":{"type":"plus","image":"http:\/\/a.vimeocdn.com\/images\/plus_icon.gif","url":"http:\/\/vimeo.com\/itoworld"},"embed":0,"hd":1,"like":1,"scaling":1,"share":1,"watch_later":1,"playbar":1,"fullscreen":1,"logo":0,"custom_logo":0,"volume":1},"outro":{"type":"nothing"}}},assets: {"js_path":"http:\/\/a.vimeocdn.com\/p\/1.4.22\/js\/","css_path":"http:\/\/a.vimeocdn.com\/p\/1.4.22\/css\/","ming":{"touch":{"css":["player.touch.opt.css"],"js":["player.touch.js"]},"mobile":{"css":["player.mobile.opt.css"],"js":["player.mobile.js"]},"desktop":{"css":["player.desktop.opt.css"],"js":["player.desktop.js"]}},"moogaloop":["swfobject.v2.2.js"],"cache":1},uniqueId: '9182869_1593976298',options: {ming: {html_path: "http://a.vimeocdn.com/p/1.4.22/html_opt",css_path: "http://a.vimeocdn.com/p/1.4.22/css/player.overlays.opt.css",version: '1.4.22'},moogaloop: {force_embed: 0,force_info: 0,ref_id: 'player9182869_1593976298',swfs: {cover: {desktop: "http:\/\/a.vimeocdn.com\/p\/flash\/moogalover\/1.1.19\/moogalover.swf?v=1.0.0",mobile: "http:\/\/a.vimeocdn.com\/p\/flash\/mobilover\/1.1.19\/mobilover.swf?v=1.0.0"},player: {desktop: "http:\/\/a.vimeocdn.com\/p\/flash\/moogaloop\/5.2.28\/moogaloop.swf?v=1.0.0",mobile: "http:\/\/a.vimeocdn.com\/p\/flash\/mobiloop\/1.2.28\/mobiloop.swf?v=1.0.0"}},versions: {player: '5.2.28',cover: '1.1.19',js: '1.4.22'}},noplayer: {html_path: "http://a.vimeocdn.com/p/1.4.22/html_opt",css_path: "http://a.vimeocdn.com/p/1.4.22/css/player.overlays.opt.css"}},thumbs: {1280: 'http://b.vimeocdn.com/ts/448/159/44815973_640.jpg',960: 'http://b.vimeocdn.com/ts/448/159/44815973_640.jpg',640: 'http://b.vimeocdn.com/ts/448/159/44815973_640.jpg'}};Player.checkRatio(player9182869_1593976298_element.getElementsByTagName('div')[0],player9182869_1593976298_element.getElementsByTagName('div')[0].getElementsByTagName('div')[0],clip9182869_1593976298.config);function initPlayer9182869_1593976298() {player9182869_1593976298 = new Player(player9182869_1593976298_element,clip9182869_1593976298,function() {Clip.waitForPlayer(player9182869_1593976298);Player.init.loader();});window.player9182869_1593976298 = player9182869_1593976298;window.player9182869_1593976298_element = player9182869_1593976298_element;window.clip9182869_1593976298 = clip9182869_1593976298;}Player.init.queue.push(initPlayer9182869_1593976298);if (!Player.init.loaderAdded) {window.addEvent('domready', function() {Player.init.loader();});Player.init.loaderAdded = true;}var _gaq = _gaq || [];                    
+                                    var player9182869_1593976298,player9182869_1593976298_element = document.getElementById('player_9182869_1593976298'),clip9182869_1593976298 = {config:{"request":{"cached_timestamp":1341216870,"source":"fresh","signature":"61ebe2a534b9cf9efea844b154efd21f","timestamp":1341216870,"cookie":{"hd":true,"scaling":1,"volume":100,"html":2},"expiration":21600,"referrer":"","vimeo_url":"vimeo.com","player_url":"player.vimeo.com","cdn_url":"a.vimeocdn.com","cookie_domain":".vimeo.com"},"video":{"id":9182869,"title":"OpenStreetMap - Project Haiti","width":1280,"height":720,"duration":31,"url":"https:\/\/vimeo.com\/9182869","thumbnail":"https:\/\/b.vimeocdn.com\/ts\/448\/159\/44815973_640.jpg","embed_code":"<iframe src=\"https:\/\/player.vimeo.com\/video\/9182869\" width=\"400\" height=\"300\" frameborder=\"0\" webkitAllowFullScreen mozallowfullscreen allowFullScreen><\/iframe>","hd":1,"default_to_hd":0,"owner":{"name":"ItoWorld","portrait":"https:\/\/b.vimeocdn.com\/ps\/906\/906594_75.jpg","url":"https:\/\/vimeo.com\/itoworld","account_type":"plus"},"stats":{"comments":8,"likes":95,"plays":40820},"files":{"h264":["hd","sd","mobile"]},"profiles":{"h264":{"hd":113,"sd":112,"mobile":116}},"smil":{"url":"https:\/\/player.vimeo.com\/config\/9182869.smil","qualities":["hd","sd","mobile"]}},"security":{"embed_permission":"public","hd_embed":1,"privacy":"anybody"},"application":{"version":"v6","build_num":"df0617d"},"analytics":{"ga_account":"UA-76641-35","comscore_c1":"1","comscore_c2":"10348289"},"user":{"id":0,"liked":0,"watch_later":0,"status":{"mod":0,"logged_in":0,"owner":0,"account_type":"logged_out"}},"embed":{"alt_color":"c0c0c0","color":"00adef","autoplay":0,"loop":0,"time":0,"pause_info":0,"on_site":1,"context":"user","api":{"on":1,"player_id":null,"version":2},"toggle":{"badge":0,"byline":0,"portrait":0,"title":0,"byline_badge":{"type":"plus","image":"https:\/\/a.vimeocdn.com\/images\/plus_icon.gif","url":"https:\/\/vimeo.com\/itoworld"},"embed":0,"hd":1,"like":1,"scaling":1,"share":1,"watch_later":1,"playbar":1,"fullscreen":1,"logo":0,"custom_logo":0,"volume":1},"outro":{"type":"nothing"}}},assets: {"js_path":"https:\/\/a.vimeocdn.com\/p\/1.4.22\/js\/","css_path":"https:\/\/a.vimeocdn.com\/p\/1.4.22\/css\/","ming":{"touch":{"css":["player.touch.opt.css"],"js":["player.touch.js"]},"mobile":{"css":["player.mobile.opt.css"],"js":["player.mobile.js"]},"desktop":{"css":["player.desktop.opt.css"],"js":["player.desktop.js"]}},"moogaloop":["swfobject.v2.2.js"],"cache":1},uniqueId: '9182869_1593976298',options: {ming: {html_path: "https://a.vimeocdn.com/p/1.4.22/html_opt",css_path: "https://a.vimeocdn.com/p/1.4.22/css/player.overlays.opt.css",version: '1.4.22'},moogaloop: {force_embed: 0,force_info: 0,ref_id: 'player9182869_1593976298',swfs: {cover: {desktop: "https:\/\/a.vimeocdn.com\/p\/flash\/moogalover\/1.1.19\/moogalover.swf?v=1.0.0",mobile: "https:\/\/a.vimeocdn.com\/p\/flash\/mobilover\/1.1.19\/mobilover.swf?v=1.0.0"},player: {desktop: "https:\/\/a.vimeocdn.com\/p\/flash\/moogaloop\/5.2.28\/moogaloop.swf?v=1.0.0",mobile: "https:\/\/a.vimeocdn.com\/p\/flash\/mobiloop\/1.2.28\/mobiloop.swf?v=1.0.0"}},versions: {player: '5.2.28',cover: '1.1.19',js: '1.4.22'}},noplayer: {html_path: "https://a.vimeocdn.com/p/1.4.22/html_opt",css_path: "https://a.vimeocdn.com/p/1.4.22/css/player.overlays.opt.css"}},thumbs: {1280: 'https://b.vimeocdn.com/ts/448/159/44815973_640.jpg',960: 'https://b.vimeocdn.com/ts/448/159/44815973_640.jpg',640: 'https://b.vimeocdn.com/ts/448/159/44815973_640.jpg'}};Player.checkRatio(player9182869_1593976298_element.getElementsByTagName('div')[0],player9182869_1593976298_element.getElementsByTagName('div')[0].getElementsByTagName('div')[0],clip9182869_1593976298.config);function initPlayer9182869_1593976298() {player9182869_1593976298 = new Player(player9182869_1593976298_element,clip9182869_1593976298,function() {Clip.waitForPlayer(player9182869_1593976298);Player.init.loader();});window.player9182869_1593976298 = player9182869_1593976298;window.player9182869_1593976298_element = player9182869_1593976298_element;window.clip9182869_1593976298 = clip9182869_1593976298;}Player.init.queue.push(initPlayer9182869_1593976298);if (!Player.init.loaderAdded) {window.addEvent('domready', function() {Player.init.loader();});Player.init.loaderAdded = true;}var _gaq = _gaq || [];                    
         var scr,
             s = document.getElementsByTagName('script')[0];
 
                     scr = document.createElement('script');
             scr.type = 'text/javascript';
             scr.async = true;
-            scr.src = ('http://b.scorecardresearch.com/beacon.js');
+            scr.src = ('https://b.scorecardresearch.com/beacon.js');
             s.parentNode.insertBefore(scr, s);
                     scr = document.createElement('script');
             scr.type = 'text/javascript';
             scr.async = true;
-            scr.src = ('http://www.google-analytics.com/ga.js');
+            scr.src = ('https://www.google-analytics.com/ga.js');
             s.parentNode.insertBefore(scr, s);
         
         

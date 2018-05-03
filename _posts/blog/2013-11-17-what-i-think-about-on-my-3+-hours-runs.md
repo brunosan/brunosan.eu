@@ -12,7 +12,7 @@ tags:
 
 I get this question often:
 
-> What do you think about during those [long runs](http://www.strava.com/activities/29711259/overview)? Aren´t you bored,
+> What do you think about during those [long runs](https://www.strava.com/activities/29711259/overview)? Aren´t you bored,
 > running so long?
 
 <!--more-->
@@ -42,7 +42,7 @@ thinking that every other runner or biker I
 see is also training for the same race.
 
 I have learnt to also spend time "listening to my body". You don´t want to go too fast to enter
-into [anaerobic regime](http://en.wikipedia.org/wiki/Aerobic_exercise), neither too slow. I have pretty much learnt
+into [anaerobic regime](https://en.wikipedia.org/wiki/Aerobic_exercise), neither too slow. I have pretty much learnt
 the feeling of riding the upper zone of aerobic regime by listening to the heart, to the breathing. Concentrating on the overall feeling... I also pay attention to the legs, check if there is any pain, if the stride is
 ok... remembering to run *smoothly*, easy, with smallish strides, avoiding heel strike but also avoiding
 overstraining the calfs.

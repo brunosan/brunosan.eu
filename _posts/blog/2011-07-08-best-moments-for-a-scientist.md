@@ -23,4 +23,4 @@ title: Best moments for a scientist
 <pre>When someone quotes a finding
 you only reported on your PhD thesis
 using "as seen by".</pre>
-<p style="text-align:right;"><a href="http://bsan.eu/n5u0nm">http://bsan.eu/n5u0nm</a></p>
+<p style="text-align:right;"><a href="https://bsan.eu/n5u0nm">https://bsan.eu/n5u0nm</a></p>

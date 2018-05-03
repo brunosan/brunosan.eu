@@ -1470,35 +1470,35 @@
 </ul>
 <ul class="product-list clearfix">
   <li>
-  <a href="http://www.google.com/google-d-s/documents/">
+  <a href="https://www.google.com/google-d-s/documents/">
   <img src="//ssl.gstatic.com/images/icons/product/docs-42.png" alt="Documents" title="Documents" height="42px" width="42px">
   </a>
   </li>
   <li>
-  <a href="http://www.google.com/google-d-s/spreadsheets/">
+  <a href="https://www.google.com/google-d-s/spreadsheets/">
   <img src="//ssl.gstatic.com/images/icons/product/spreadsheets-42.png" alt="Spreadsheets" title="Spreadsheets" height="42px" width="42px">
   </a>
   </li>
   <li>
-  <a href="http://www.google.com/google-d-s/presentations/">
+  <a href="https://www.google.com/google-d-s/presentations/">
   <img src="//ssl.gstatic.com/images/icons/product/presentations-42.png" alt="Presentations"title="Presentations" height="42px" width="42px">
   </a>
   </li>
   <li>
-  <a href="http://www.google.com/google-d-s/drawings/">
+  <a href="https://www.google.com/google-d-s/drawings/">
   <img src="//ssl.gstatic.com/images/icons/product/drawings-42.png" alt="Drawings" title="Drawings" height="42px" width="42px">
   </a>
   </li>
   <li>
-  <a href="http://www.google.com/google-d-s/forms/">
+  <a href="https://www.google.com/google-d-s/forms/">
   <img src="https://ssl.gstatic.com/images/icons/product/forms-42.png" alt="Forms" title="Forms" height="42px" width="42px">
   </a>
   </li>
 </ul>
 <div class="writely-links">
-  <a href="http://docs.google.com/demo/?hl=en" title="Try Google Docs now" class="g-button g-button-white">Try Google Docs Now</a>
-  <a href="http://www.google.com/google-d-s/whatsnew.html">New Features</a>
-  <a href="http://www.youtube.com/docs" class="video-link">Watch the videos</a>
+  <a href="https://docs.google.com/demo/?hl=en" title="Try Google Docs now" class="g-button g-button-white">Try Google Docs Now</a>
+  <a href="https://www.google.com/google-d-s/whatsnew.html">New Features</a>
+  <a href="https://www.youtube.com/docs" class="video-link">Watch the videos</a>
 </div>
   </div>
   </div>
@@ -1506,9 +1506,9 @@
   <div class="footer content clearfix">
   <ul>
   <li>© 2012 Google</li>
-  <li><a href="http://googledocs.blogspot.com/" target="_blank">Google Docs Blog</a></li>
-  <li><a href="http://documents.google.com/support/?hl=en" target="_blank">Help</a></li>
-  <li><a href="http://www.google.com/google-d-s/intl/en/terms.html" target="_blank">Terms</a></li>
+  <li><a href="https://googledocs.blogspot.com/" target="_blank">Google Docs Blog</a></li>
+  <li><a href="https://documents.google.com/support/?hl=en" target="_blank">Help</a></li>
+  <li><a href="https://www.google.com/google-d-s/intl/en/terms.html" target="_blank">Terms</a></li>
   </ul>
   <form>
   <select id="lang-chooser" class="lang-chooser" style="display: none;">
@@ -1808,7 +1808,7 @@
   _gaq.push(['_trackPageview']);
  (function() {
   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js';
   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
   })();
 </script>

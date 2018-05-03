@@ -6,7 +6,7 @@
 
 <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 
-<form method="post" action="http://www.thespacereview.com/cgi-htdig/htsearch"><input type="hidden" name="method" value="and"><input type="hidden" name="format" value="builtin-long"><input type="hidden" name="sort" value="score"><input type="hidden" name="config" value="htdig"><input type="hidden" name="restrict" value=""><input type="hidden" name="exclude" value=""><table cellspacing="0" cellpadding="1" border="0" width="100%" bgcolor="#003366"><tr valign="bottom"><td width="400"><a href="/index.html"><img src="/images/logo-gillsans.gif" width="400" height="60" alt="The Space Review" border="0"></a></td><td align="right"><a href="http://newspace.spacefrontier.org/"><img src="/images/NS2012.jpg" width="468" height="60" border="0" alt="NewSpace 2012 Conference"></a></td></tr><tr valign="bottom"><td colspan=2 align="right"><input type="text" size="30" name="words" value="" class="formfield"><input type="submit" value="Search" class="formfield"></td></tr></table></form><br><div align="center"><a href="http://www.ispcs.com"><img src="/images/ispcs2012.jpg" width="468" height="60" alt="ISPCS"></a></div><br>
+<form method="post" action="https://www.thespacereview.com/cgi-htdig/htsearch"><input type="hidden" name="method" value="and"><input type="hidden" name="format" value="builtin-long"><input type="hidden" name="sort" value="score"><input type="hidden" name="config" value="htdig"><input type="hidden" name="restrict" value=""><input type="hidden" name="exclude" value=""><table cellspacing="0" cellpadding="1" border="0" width="100%" bgcolor="#003366"><tr valign="bottom"><td width="400"><a href="/index.html"><img src="/images/logo-gillsans.gif" width="400" height="60" alt="The Space Review" border="0"></a></td><td align="right"><a href="https://newspace.spacefrontier.org/"><img src="/images/NS2012.jpg" width="468" height="60" border="0" alt="NewSpace 2012 Conference"></a></td></tr><tr valign="bottom"><td colspan=2 align="right"><input type="text" size="30" name="words" value="" class="formfield"><input type="submit" value="Search" class="formfield"></td></tr></table></form><br><div align="center"><a href="https://www.ispcs.com"><img src="/images/ispcs2012.jpg" width="468" height="60" alt="ISPCS"></a></div><br>
 
 <div align="center">
 <table width="90%" cellspacing="3" cellpadding="2">
@@ -29,10 +29,10 @@ var idcomments_acct = 'd4715bbd82118c3d9cefeb8bde342467';
 var idcomments_post_id = '1785';
 var idcomments_post_url;
 </script>
-<script type="text/javascript" src="http://www.intensedebate.com/js/genericLinkWrapperV2.js"></script></span>
+<script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script></span>
 <br>
 <!-- AddThis Button BEGIN -->
-<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=spacereview"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=spacereview"></script>
+<a class="addthis_button" href="https://www.addthis.com/bookmark.php?v=250&amp;pub=spacereview"><img src="https://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a><script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?pub=spacereview"></script>
 <!-- AddThis Button END -->
 
 
@@ -96,11 +96,11 @@ var idcomments_post_url;
 
 <p>Although the NRO has not declassified Itek&#8217;s involvement with the mapping camera, there are a number of clues about its manufacturer and pedigree.  In 2002 the US government declassified most of the mapping imagery taken by the twelve HEXAGON missions that carried a mapping camera.  This consisted of approximately 29,000 images, each covering nearly 1,300 square miles (3,400 square kilometers).  At the time the government released almost no other information about the cameras that actually took the images.  Each mapping mission took approximately 2,400 frames.  The images had 1,058 little crosses on the images known as reseau marks and enabling mapmakers to take precise measurements.  These details help to connect the KH-9 mapping camera&#8217;s unknown manufacturer to its origins and its descendent.</p>
 
-<p>In 1966, Itek produced a feasibility study for a <a href="http://www.nro.gov/foia/CAL-Records/Cabinet4/DrawerE/4 E 0007.pdf">Geodetic Orbital Photographic Satellite System</a>, or GOPSS.  GOPSS was a proposal for a mapping spacecraft similar to CORONA and using essentially the same rocket and spacecraft.  The Itek mapping camera would have had a 9.05 x 18.1 inch (23 x 46 centimeter) frame format and a 12-inch (30.5-centimeter) focal length.  GOPSS was never built, but the focal length and frame format are the same as the mapping camera carried aboard the KH-9 missions.</p>
+<p>In 1966, Itek produced a feasibility study for a <a href="https://www.nro.gov/foia/CAL-Records/Cabinet4/DrawerE/4 E 0007.pdf">Geodetic Orbital Photographic Satellite System</a>, or GOPSS.  GOPSS was a proposal for a mapping spacecraft similar to CORONA and using essentially the same rocket and spacecraft.  The Itek mapping camera would have had a 9.05 x 18.1 inch (23 x 46 centimeter) frame format and a 12-inch (30.5-centimeter) focal length.  GOPSS was never built, but the focal length and frame format are the same as the mapping camera carried aboard the KH-9 missions.</p>
 
 <table width="40%" align="right" cellpadding="4"><tr><td class="pullquote">The decision to include a mapping camera on HEXAGON may have been made easier by several other bureaucratic and programmatic developments.</td></tr></table>
 
-<p>In the early 1980s NASA announced that an upcoming space shuttle mission <a href="http://books.google.com/books?id=czq6dx0uvBYC&pg=PA76&lpg=PA76&dq=itek+large+format+camera&source=bl&ots=59BBzv-tSc&sig=N7JO6j3ahER3k1cR8xJm0p_k4SI&hl=en&ei=Z8g8TdeiE8T3gAf1qbG2CA&sa=X&oi=book_result&ct=result&resnum=4&ved=0CCcQ6AEwAw#v=onepage&q=itek%20la">would carry a Large Format Camera developed by Itek</a>.  The LFC was intended for topographic mapping.  It only had 45 reseau marks compared to the 1,058 for the KH-9 camera.  At the time, NASA apparently had plans to regularly carry the LFC aboard shuttle missions.  Five flights would have been required to cover all of the terrain below shuttles launched from Florida.  Presumably shuttles flying to polar orbit would have also carried the LFC as well, covering northern latitudes.  Although there is no information to support it, it seems reasonable to conclude that the LFC was going to replace the KH-9 mapping camera.  But the LFC flew on only a single mission, STS-41G with space shuttle Challenger in October 1984.  When the Air Force canceled shuttle missions flying to polar orbit after the January 1986 Challenger accident, large parts of the Earth&#8217;s surface could no longer be mapped that way.  The intelligence community must have developed an alternative using the KH-11.</p>
+<p>In the early 1980s NASA announced that an upcoming space shuttle mission <a href="https://books.google.com/books?id=czq6dx0uvBYC&pg=PA76&lpg=PA76&dq=itek+large+format+camera&source=bl&ots=59BBzv-tSc&sig=N7JO6j3ahER3k1cR8xJm0p_k4SI&hl=en&ei=Z8g8TdeiE8T3gAf1qbG2CA&sa=X&oi=book_result&ct=result&resnum=4&ved=0CCcQ6AEwAw#v=onepage&q=itek%20la">would carry a Large Format Camera developed by Itek</a>.  The LFC was intended for topographic mapping.  It only had 45 reseau marks compared to the 1,058 for the KH-9 camera.  At the time, NASA apparently had plans to regularly carry the LFC aboard shuttle missions.  Five flights would have been required to cover all of the terrain below shuttles launched from Florida.  Presumably shuttles flying to polar orbit would have also carried the LFC as well, covering northern latitudes.  Although there is no information to support it, it seems reasonable to conclude that the LFC was going to replace the KH-9 mapping camera.  But the LFC flew on only a single mission, STS-41G with space shuttle Challenger in October 1984.  When the Air Force canceled shuttle missions flying to polar orbit after the January 1986 Challenger accident, large parts of the Earth&#8217;s surface could no longer be mapped that way.  The intelligence community must have developed an alternative using the KH-11.</p>
 
 <p>According to a declassified schematic of the basic KH-9 layout, the mapping camera was mounted at the front of the spacecraft, stretching it out to 53 feet (16 meters) in length.  When the mapping camera imagery was declassified in 2002 the missions included the suffix &#8220;5&#8221; indicating that the film had been returned in a fifth reentry vehicle.  Because the film was approximately nine inches in width, it could easily fit in the kind of reentry vehicle originally manufactured by General Electric for the CORONA and later adapted for the GAMBIT and designated as the Mk V.  A history of the 6594th Recovery Group indicates that they regularly recovered Mk VIII reentry vehicles&#8212;the big ones developed for the KH-9&#8212;and Mk V reentry vehicles like those used by the KH-8.  The fact that the history does not mention a third type of recovery vehicle indicates that the mapping imagery was returned either in a Mk VIII or a Mk V, and the Mk VIII was probably larger than required.</p>
 
@@ -115,13 +115,13 @@ var idcomments_post_id = '1785';
 var idcomments_post_url;
 </script>
 <span id="IDCommentsPostTitle" style="display:none"></span>
-<script type='text/javascript' src='http://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
+<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 
 
 </td>
 <td width="20%" valign="top">
 <div class="graybox">
-<form method="post" action="/mail.php"><h3>Subscribe</h3><div class="info">Enter your email address below to be notified when new articles are published:</div><input type="text" name="email" size="15" class="formfield"><br><input type="submit" value="subscribe" class="formfield"><div class="info"><a href="/privacy.html">our privacy policy</a></div></form><br><!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for The Space Review --><script language="javascript" src="http://media.fastclick.net/w/get.media?sid=58935&m=3&tp=7&d=j&t=n"></script><noscript><a href="http://media.fastclick.net/w/click.here?sid=58935&m=3&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=58935&m=3&tp=7&d=s&c=1" width=160 height=600 border=1></a></noscript><!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for The Space Review --><br><script type="text/javascript"><!--google_ad_client = "ca-pub-1269114045029381";/* Test ad */google_ad_slot = "2473150339";google_ad_width = 160;google_ad_height = 600;//--></script><script type="text/javascript"src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<form method="post" action="/mail.php"><h3>Subscribe</h3><div class="info">Enter your email address below to be notified when new articles are published:</div><input type="text" name="email" size="15" class="formfield"><br><input type="submit" value="subscribe" class="formfield"><div class="info"><a href="/privacy.html">our privacy policy</a></div></form><br><!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for The Space Review --><script language="javascript" src="https://media.fastclick.net/w/get.media?sid=58935&m=3&tp=7&d=j&t=n"></script><noscript><a href="https://media.fastclick.net/w/click.here?sid=58935&m=3&c=1" target="_blank"><img src="https://media.fastclick.net/w/get.media?sid=58935&m=3&tp=7&d=s&c=1" width=160 height=600 border=1></a></noscript><!-- ValueClick Media 120x600 and 160x600 SkyScraper CODE for The Space Review --><br><script type="text/javascript"><!--google_ad_client = "ca-pub-1269114045029381";/* Test ad */google_ad_slot = "2473150339";google_ad_width = 160;google_ad_height = 600;//--></script><script type="text/javascript"src="https://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 </div>
 
 <div class="pullquote"></div>
@@ -132,12 +132,12 @@ var idcomments_post_url;
 </div>
 
 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
 _uacct = "UA-174615-1";
 urchinTracker();
 </script>
-<script id="aptureScript" type="text/javascript" src="http://www.apture.com/js/apture.js?siteToken=d0yKxSl" charset="utf-8"></script>
+<script id="aptureScript" type="text/javascript" src="https://www.apture.com/js/apture.js?siteToken=d0yKxSl" charset="utf-8"></script>
 </body>
 </html>

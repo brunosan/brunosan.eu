@@ -16,13 +16,13 @@ shatters. Can it be avoided? Making the glass thicker is a solution but
 increases the weight. I got an idea to fix that.
 
 <!--more-->
-  Today I was attending a talk by [Mark P Mills](http://www.forbes.com/sites/markpmills/) on Patent Law at the Notre
+  Today I was attending a talk by [Mark P Mills](https://www.forbes.com/sites/markpmills/) on Patent Law at the Notre
 Dame Law School. He mentioned that Apple had just patented a way to
 prevent shattered iPhone screens, but he didn´t go to the details,
 just that he thought it was difficult.
 
 Apple indeed [has a patent to protect the hard
-disk](http://en.wikipedia.org/wiki/Sudden_Motion_Sensor) when your laptop
+disk](https://en.wikipedia.org/wiki/Sudden_Motion_Sensor) when your laptop
 falls. They do so by detecting a free fall via accelerometers. When the
 laptop detects it has been dropped it will park the read/write heads of the hard disk,
 thus avoiding those heads scratching the surface of the disk when it hits the ground.
@@ -60,5 +60,5 @@ No idea is that is what Apple thought of, but may be there is a chance
 Apple would finally make replaceable batteries in the end. :)
 
 Update: For reference, as I upload this, I find the [Apple patent
-online](http://bsan.eu/17nQ1bv). I still thing my solution is better and
+online](https://bsan.eu/17nQ1bv). I still thing my solution is better and
 simpler :)

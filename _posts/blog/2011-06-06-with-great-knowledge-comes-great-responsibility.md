@@ -27,4 +27,4 @@ title: With great knowledge comes great responsibility
 is the contrast between the knowledge of the dangers ahead of us 
 and the lack of awareness by the public or even the politicians.</pre>
 <p style="text-align:right;">Paul &amp; Anne Ehrlich</p>
-<p style="text-align:right;">Adapted from "<a href="http://www.amazon.com/Population-Explosion-Paul-R-Ehrlich/dp/0671732943">The population Explosion</a>". 1993. (Page 1)</p>
+<p style="text-align:right;">Adapted from "<a href="https://www.amazon.com/Population-Explosion-Paul-R-Ehrlich/dp/0671732943">The population Explosion</a>". 1993. (Page 1)</p>
