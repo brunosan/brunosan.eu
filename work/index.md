@@ -62,7 +62,9 @@ Full CV:
 
 Linking related slides, video, or article if available.
 
+
 * August 2018. Regular contributor on Impact Science for the Spanish National Radio "Onda Cero" within the program ["JELO en verano"](https://www.ondacero.es/programas/jelo-en-verano/programas-completos/). E.g. [reporting on climate change](https://www.ondacero.es/programas/jelo-en-verano/audios-podcast/espana-es-un-pais-con-facilidades-para-contaminar-menos_201808295b86be560cf2d895d48c9bec.html)
+* July 2018. Article on refugee policy for "El País", biggest national newspaper: ["Ser o estar refugiado, esa el cuestión"](https://elpais.com/elpais/2018/08/08/planeta_futuro/1533725161_705567.html).
 * April 2018. [Noreña, Asturias Spain, "Pobreza mundial y la promesa de la revolución digital" [Spanish] ](https://docs.google.com/presentation/d/1kF4UPFX9murPttq5tUfhDyPJTNw06LGhhCKK92ie2UM/edit)
 * April 2018. [World Bank, Washington DC Spring meetings: Satellogic "Open Impact" program](https://docs.google.com/presentation/d/1ehorK1q2bElPByZ3XREs53G2RiJwLz-9akcGRGWDkD0/)
 * February 2018. [Ignite Madrid [Spanish]](https://www.youtube.com/watch?v=AaipS0YO2Is)
