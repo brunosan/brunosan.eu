@@ -20,6 +20,9 @@ Transferability of Big Data, AI, Data Science tools and innovation into other do
 
 * **Logistics optimization of hazelnuts social for-profit enterprise in Bhutan**. Largest employer after the government, which is more than doubling the income of more than 10k farmers; while preventing soil degradation of fallow lands. Road conditions  in Bhutan offer a set of unique challenges, while the community reach and footprint of the company operations provide the necessary data inputs to create and optimize the collection of the produce. Development, and training, on the necessary data-science tools to feed, connect and optimize best routing to all farmers, and dispatch systems.
 
+### Satellogic -- VP Social Impact
+
+* [**"Open Impact" Program**](https://github.com/satellogic/open-impact). "Open Impact" is a technical program to help kickstart use of satellite images for Social Impact projects, especially using hyperspectral data. We believe Hyperspectral (having many spectral bands, beyond the typical three of red, green and blue) can have a huge potential, but historically has not been available outside of military applications or in very limited supply. The Open Impact program includes access to Terabytes of data, software development tutorials, and a series of proto-ideas and code to help start potential social impact projects, e.g. around coastal degradation, water quality, change detection or agricultural accessibility.
 
 ### World Bank Group -- Innovation Labs
 
