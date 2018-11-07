@@ -12,6 +12,6 @@ Previously at the Innovations Lab (and the President's Office) of the World Bank
 
 He is Ph.D. Magna cum Laude in astrophysics from the Max Planck Institute in Germany, and postdoc in satellite and rocket science with NRL/JAXA/NASA. Bruno has [published](https://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=S%C3%A1nchez-Andrade%20Nu%C3%B1o,%20B.&db_key=AST) peer-reviewed scientific journals, as well as featured on NASA high-profile [Picture of the Day](NASA APOD) and other science outreach mediums. After leaving academia, he was director of Science and Technology at the NGO Gain.org on climate change adaptation.
 
-He is a member of the Global Future Council on Space. He serves on strategic boards for several companies, government bodies, and NGOs, like Inmarsat, the UAE Statistical Authority, and IamtheCode. He was awarded Mirzayan Science Policy Fellow of the US National Academies of Science and is a Young Global Leader of the World Economic Forum.
+He serves on strategic boards for several companies, government bodies, and NGOs, like Inmarsat, the UAE Statistical Authority, and IamtheCode. He was awarded Mirzayan Science Policy Fellow of the US National Academies of Science, member of the Global Future Council on Space and is a Young Global Leader of the World Economic Forum.
 
 Bruno is native from Asturias (Spain) and currently travels and works remotely as a digital nomad.
