@@ -14,7 +14,7 @@ search_omit: false
 
 Transferability of Big Data, AI, Data Science tools and innovation into other domains. E.g.:
 
-* **Strategic advice to a Global Satellite Communications Operator** on the intersection of their new growth strategy and International Development needs and funding mechanisms. Linking and assessing relevance with all the Sustainable Development Goals [SDGs, or Global Goals] and Targets.
+* **Deep Tech advisory**. We established the "[Druid Collective](http://www.druidcollective.org/)" to help startups with very complex science or technology base around the world to bring their breakthrough potential from labs to real world impact. E.g. Marck Pollock Trust and [curing paralysis (see video)](https://www.youtube.com/watch?v=MFuEfK54OEE).
 
 * **Strategic advice for the UAE Statistical Innovation Authority** as member of the Advisory Board; helping to assess market trends. Our scope is to  localize the opportunities and challenges,  maximizing potential impact in improving government services.
 
@@ -22,7 +22,7 @@ Transferability of Big Data, AI, Data Science tools and innovation into other do
 
 ### Satellogic -- VP Social Impact
 
-* [**"Open Impact" Program**](https://github.com/satellogic/open-impact). "Open Impact" is a technical program to help kickstart use of satellite images for Social Impact projects, especially using hyperspectral data. We believe Hyperspectral (having many spectral bands, beyond the typical three of red, green and blue) can have a huge potential, but historically has not been available outside of military applications or in very limited supply. The Open Impact program includes access to Terabytes of data, software development tutorials, and a series of proto-ideas and code to help start potential social impact projects, e.g. around coastal degradation, water quality, change detection or agricultural accessibility.
+* [**"Open Impact" Program**](https://github.com/satellogic/open-impact). "Open Impact" is a technical program to help accelerate the use of satellite images for Social Impact projects, especially using hyperspectral data. We believe Hyperspectral (having many spectral bands, beyond the typical three of red, green and blue) can have a huge potential, but historically has not been available outside of military applications or in very limited supply. The Open Impact program includes access to Terabytes of data, software development tutorials, and a series of proto-ideas and code to help start potential social impact projects, e.g. around coastal degradation, water quality, change detection or agricultural accessibility.
 
 ### World Bank Group -- Innovation Labs
 
@@ -66,7 +66,7 @@ Full CV:
 Linking related slides, video, or article if available.
 
 
-* 2nd Big Data Africa School. Cape Town, South Africa. Sept. 14, 2018. [Talk to students on Impact Science](https://docs.google.com/presentation/d/1QMLtgRJzMcfl2i5g_iokMIcdE2NC_sNKLTrRRudilC4/edit#slide=id.p4). 
+* 2nd Big Data Africa School. Cape Town, South Africa. Sept. 14, 2018. [Talk to students on Impact Science](https://docs.google.com/presentation/d/1QMLtgRJzMcfl2i5g_iokMIcdE2NC_sNKLTrRRudilC4/edit#slide=id.p4).
 * August 2018. Regular contributor on Impact Science for the Spanish National Radio "Onda Cero" within the program ["JELO en verano"](https://www.ondacero.es/programas/jelo-en-verano/programas-completos/). E.g. [reporting on climate change](https://www.ondacero.es/programas/jelo-en-verano/audios-podcast/espana-es-un-pais-con-facilidades-para-contaminar-menos_201808295b86be560cf2d895d48c9bec.html)
 * July 2018. Article on refugee policy for "El País", biggest national newspaper: ["Ser o estar refugiado, esa el cuestión"](https://elpais.com/elpais/2018/08/08/planeta_futuro/1533725161_705567.html).
 * April 2018. [Noreña, Asturias Spain, "Pobreza mundial y la promesa de la revolución digital" [Spanish] ](https://docs.google.com/presentation/d/1kF4UPFX9murPttq5tUfhDyPJTNw06LGhhCKK92ie2UM/edit)
