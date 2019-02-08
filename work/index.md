@@ -65,12 +65,11 @@ Full CV:
 
 Linking related slides, video, or article if available.
 
-
-* Video explaining our project with the World Economic Forum to [empower Kakuma refugees via entrepreneurship and digital market skills](https://www.youtube.com/watch?v=opnrjD1omLw). Started Summer 2018
-* 2nd Big Data Africa School. Cape Town, South Africa. Sept. 14, 2018. [Talk to students on Impact Science](https://docs.google.com/presentation/d/1QMLtgRJzMcfl2i5g_iokMIcdE2NC_sNKLTrRRudilC4/edit#slide=id.p4).
+* December 2018. ["Ciencia de Impacto" como carrera profesional](https://www.youtube.com/watch?v=7Wy9u5-YrGM). Spanish. Talk to students at "El Pais con tu Futuro".
+* Summer 2018. Video explaining our project with the World Economic Forum to [empower Kakuma refugees via entrepreneurship and digital market skills](https://www.youtube.com/watch?v=opnrjD1omLw).
+* Sept. 14, 2018. 2nd Big Data Africa School. Cape Town, South Africa. [Talk to students on Impact Science](https://docs.google.com/presentation/d/1QMLtgRJzMcfl2i5g_iokMIcdE2NC_sNKLTrRRudilC4/edit#slide=id.p4).
 * August 2018. Regular contributor on Impact Science for the Spanish National Radio "Onda Cero" within the program ["JELO en verano"](https://www.ondacero.es/programas/jelo-en-verano/programas-completos/). E.g. [reporting on climate change](https://www.ondacero.es/programas/jelo-en-verano/audios-podcast/espana-es-un-pais-con-facilidades-para-contaminar-menos_201808295b86be560cf2d895d48c9bec.html)
 * July 2018. Article on refugee policy for "El País", biggest national newspaper: ["Ser o estar refugiado, esa el cuestión"](https://elpais.com/elpais/2018/08/08/planeta_futuro/1533725161_705567.html).
-* Video explaining our project with the World Economic Forum and Druid Collective to [help a paralyzed blind person walk again](https://www.youtube.com/watch?v=MFuEfK54OEE) using external electrical stimulation and robotic exoskeletons. Started Summer 2017
 * April 2018. [Noreña, Asturias Spain, "Pobreza mundial y la promesa de la revolución digital" [Spanish] ](https://docs.google.com/presentation/d/1kF4UPFX9murPttq5tUfhDyPJTNw06LGhhCKK92ie2UM/edit)
 * April 2018. [World Bank, Washington DC Spring meetings: Satellogic "Open Impact" program](https://docs.google.com/presentation/d/1ehorK1q2bElPByZ3XREs53G2RiJwLz-9akcGRGWDkD0/)
 * February 2018. [Ignite Madrid [Spanish]](https://www.youtube.com/watch?v=AaipS0YO2Is)
@@ -81,6 +80,7 @@ Linking related slides, video, or article if available.
 * October 2017. From Madrid at South Summit on Celera's [Pasion por Talento](https://www.acelerame.org/pasionxtalento-ii-edicion/)
 * September 2017. From Goettingen (Germany), at the Max Planck conference where I did my PhD 9 years earlier: [Life after a PhD: ❤️ the “option B”, leaving](https://medium.com/towards-data-science/life-after-a-phd-the-option-b-leaving-a18bc89e2d33)
 * August 2017. Talk at SETI on [Impact Science](https://www.facebook.com/photo.php?fbid=507137517583&set=t.239200025&type=3&theater)
+* Summer 2017. Video explaining our project with the World Economic Forum and Druid Collective to [help a paralyzed blind person walk again](https://www.youtube.com/watch?v=MFuEfK54OEE) using external electrical stimulation and robotic exoskeletons.
 * July 2017. From San Francisco, after wrapping up my work in Bhutan: [In defense of Cheap Data Science](https://medium.com/towards-data-science/in-defense-of-cheap-data-science-f630f248d400)
 * July 2017. Documenting our work on Logistics in Bhutan: [Building an open-source national-scale logistic system in Bhutan](https://medium.com/@brunosan/building-an-open-source-national-scale-logistic-system-e45b597605f2)
 * July 2017. On the award of "Asturiano del mes". [Bruno Sánchez-Andrade Nuño, "Asturiano del mes" por su visión social de las nuevas tecnologías](https://www.lne.es/sociedad/2017/10/01/bruno-sanchez-andrade-nuno-asturiano/2171320.html)
