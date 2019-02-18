@@ -8,7 +8,13 @@ search_omit: false
 <img width="50%"  src="/media/GFC2017s.jpg">
 </p>
 
+Bruno is committed to bringing the value of “Impact Science” (Impact Science is to data science, what impact investment is to investment). Experience in the public sector (World Bank); the private sector (Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO “Gain”); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA).
+
+Bruno was awarded Young Global Leader of the World Economic Forum, and it is a member of their Expert’s Network. Bruno was also a Mirzayan Science Policy Fellow of the US National Academies of Sciences.
+
 [Jump to latest keynotes and talks](#talks-and-keynotes)
+
+[cv.brunosan.eu](https://cv.brunosan.eu/)
 
 ### Impact Science
 
@@ -55,7 +61,7 @@ Transferability of Big Data, AI, Data Science tools and innovation into other do
 
 * [**NASA Astronomy Picture of the Day**](https://apod.nasa.gov/apod/ap090405.html). We created, at the time, the highest resolution images of the atmosphere and surface of the Sun. We used real-time interferometric correction plus post-facto speckle image reconstruction. The above movie and similar movies allow students and solar scientists to study how granules and sunspots evolve as well as how magnetic sunspot regions produce powerful solar flares. [*NASA APOD*](https://apod.nasa.gov/apod/ap090405.html)
 
-Full CV:
+[Full CV](https://cv.brunosan.eu/):
 <a href="https://www.linkedin.com/pub/bruno-sanchez-andrade-nu%C3%B1o/6/a8b/180" target="_blank">
 <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Bruno Sanchez-Andrade Nuño's profile on LinkedIn"></a>
 
