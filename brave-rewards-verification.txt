@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: brunosan.eu
+Token: f792f21fca3b9e600cc9d0218f473699240a71b77378a611408b4d0c4a949334
