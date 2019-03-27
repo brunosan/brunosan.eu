@@ -3,6 +3,10 @@ layout: page-notitle
 title: "Primarias de VOLT"
 excerpt: "Some products we've shipped, and programs we've built."
 search_omit: false
+excerpt: Necesito vuestro apoyo. Me presento a las primarias de @VoltEspana para las elecciones europeas.  ¿Si salgo, me apoyaréis? 🙏
+image:
+  feature: VOLT.jpg
+  thumb: VOLT.jpg
 ---
 
 Ante una realidad de divisiones, de polarizaciones, extremismos y nacionalismos miopes, [VOLT](https://www.volteuropa.org/) nace queriendo una Europa más unida, más cercana, representativa y representada de su ciudadanía. VOLT, de hecho, se crea como respuesta pro-Europea al referendum anti-Europeo del Brexit, en 2016.
