@@ -18,7 +18,7 @@ Por esas fechas, exactamente el 16 de junio de 2016, estaba en una teleconferenc
 Es una triste historia que Brendan cuenta en un desgarrador pero importante [libro](https://www.amazon.co.uk/dp/1473659183/ref=cm_sw_r_tw_dp_U_x_MOPLCbEMX0EFZ). Importante porque Jo vivió defendiendo los valores de que "tenemos más en común de lo que nos separa". Su pasión era iluminar juntos, con nuestra diversidad constructiva, un futuro común ante las sombras del extremismo que nos quieren dividir usando el miedo. Ella tomó ese difícil camino de ser parte activa y activista de la solución. Su legado es un importante compás político. En los duros días y semanas siguientes; en las muestras masivas de apoyo público, en largas conversaciones con amigos y extraños, en viajes para intentar entender mejor, en el dolor de ver esos ataques repetirse. En todos esos momentos, se cimentaron mis convicciones de ayudar a construir ese futuro, esa Europa unida.
 
 
-Hoy, ahora, pido vuestra confianza y voto para dar este importante paso adelante. **Me he presentado a las primarias el lunes 1 de Abril para cabeza de lista de las elecciones europeas por VOLT Europa** y continuar este camino de crear impacto social positivo. Como muchos en el partido quizás no me conozcan he escrito esta página para contaros por qué, por qué VOLT Europa, y por qué ahora.
+Hoy, ahora, pido vuestra confianza y voto para dar este importante paso adelante. **Me he presentado a las primarias el martes 2 de Abril para cabeza de lista de las elecciones europeas por VOLT Europa** y continuar este camino de crear impacto social positivo. Como muchos en el partido quizás no me conozcan he escrito esta página para contaros por qué, por qué VOLT Europa, y por qué ahora.
 
 ### Europa y la Ciencia
 
