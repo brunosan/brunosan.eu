@@ -55,7 +55,7 @@ La política en democracia es un poderoso mecanismo para mejorar una sociedad. N
 
 ### Cómo podéis ayudarme?
 
-* Si sois votantes, **vuestro voto el próximo Lunes es crucial**. Además, si compartís este enlace podemos ayudar a dar a conocer esta campaña, y nuestra apuesta europea.
+* Si sois votantes, **vuestro voto el próximo 26 de Mayo es crucial**. Además, si compartís este enlace podemos ayudar a dar a conocer esta campaña, y nuestra apuesta europea.
 
 * Si conocéis o colaboráis con VOLT Europa, necesito vuestro consejo, opinión, y críticas. Compartid mi candidatura si os gusta, sobre todo a votantes españoles :)
 
