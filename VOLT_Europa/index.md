@@ -9,6 +9,7 @@ image:
   thumb: VOLT.jpg
 redirect_from:
     - /primariasVOLT/
+    - /primariasVOLT_Europa/
 ---
 
 Ante una realidad de divisiones, de polarizaciones, extremismos y nacionalismos miopes, [VOLT Europa](https://www.volteuropa.org/) nace queriendo una Europa más unida, más cercana, representativa y representada de su ciudadanía. VOLT Europa, de hecho, se crea como respuesta pro-Europea al referendum anti-Europeo del Brexit, en 2016.
@@ -18,7 +19,7 @@ Por esas fechas, exactamente el 16 de junio de 2016, estaba en una teleconferenc
 Es una triste historia que Brendan cuenta en un desgarrador pero importante [libro](https://www.amazon.co.uk/dp/1473659183/ref=cm_sw_r_tw_dp_U_x_MOPLCbEMX0EFZ). Importante porque Jo vivió defendiendo los valores de que "tenemos más en común de lo que nos separa". Su pasión era iluminar juntos, con nuestra diversidad constructiva, un futuro común ante las sombras del extremismo que nos quieren dividir usando el miedo. Ella tomó ese difícil camino de ser parte activa y activista de la solución. Su legado es un importante compás político. En los duros días y semanas siguientes; en las muestras masivas de apoyo público, en largas conversaciones con amigos y extraños, en viajes para intentar entender mejor, en el dolor de ver esos ataques repetirse. En todos esos momentos, se cimentaron mis convicciones de ayudar a construir ese futuro, esa Europa unida.
 
 
-Hoy, ahora, pido vuestra confianza y voto para dar este importante paso adelante. **Me he presentado a las primarias el martes 2 de Abril para cabeza de lista de las elecciones europeas por VOLT Europa** y continuar este camino de crear impacto social positivo. Como muchos en el partido quizás no me conozcan he escrito esta página para contaros por qué, por qué VOLT Europa, y por qué ahora.
+Hace un mes salí en primarias como cabeza de lista por Volt Europa para las elecciones europeas. **Hoy, ahora, quiero compartir nuestra propuesta para las elecciones del 26 de Mayo.** Pido vuestra confianza para poder continuar este camino de crear impacto social positivo. Como muchos quizás no conozcan Volt Europa, he escrito esta página para contaros por qué, por qué VOLT Europa, y por qué ahora.
 
 ### Europa y la Ciencia
 
@@ -39,7 +40,7 @@ Viviendo en Washington DC me presenté como candidato al Consejo de Residentes E
 Conocí Europa en primera persona de la mano de [AEGEE](https://en.wikipedia.org/AEGEE), una sociedad estudiantil europea con más de 13.000 socios. De hecho, AEGEE fue instrumental en 1987 en la creación del programa ERASMUS. Estuve muy activo en AEGEE en la universidad. 5 años como secretario, tesorero, y organizador de reuniones, talleres y viajes en Estonia, Finlandia, Eslovenia, Grecia, Italia, o Polonia, por mencionar algunos. Curiosamente también conocí mucho mejor España en los eventos que organizamos en Valencia, Castellón, Alicante, Barcelona, Zaragoza, Madrid, León o Asturias.
 
 
-Hasta ahora he podido aportar con mi trabajo. En este nuevo mundo político, necesito vuestro apoyo, vuestro voto. Me uno armado de ilusión, de mis experiencias, de mis habilidades y formación, pero sobre todo me uno sabiendo que esta etapa va sobre ir acompañado. **El objetivo está claro**: conseguir hacer realidad la [declaración de VOLT Europa de Amsterdam](https://www.volteuropa.org/the_amsterdam_declaration): Una lista de aspiraciones concretas, nacida colaborativamente a nivel europeo, que queremos empoderar con nuestros votos españoles, y unirla a sus homólogas empoderadas en otros países. Al ser el mismo acuerdo, confluyen naturalmente en el Parlamento europeo multiplicando la fuerza de cada país que lo apoya.
+Hasta ahora he podido aportar con mi trabajo. En este nuevo mundo político, necesito vuestro apoyo. Me uno armado de ilusión, de mis experiencias, de mis habilidades y formación, pero sobre todo me uno sabiendo que esta etapa va sobre ir acompañado. **El objetivo está claro**: conseguir hacer realidad la [declaración de VOLT Europa de Amsterdam](https://www.volteuropa.org/the_amsterdam_declaration): Una lista de aspiraciones concretas, nacida colaborativamente a nivel europeo, que queremos empoderar con nuestros votos españoles, y unirla a sus homólogas empoderadas en otros países. Al ser el mismo acuerdo, confluyen naturalmente en el Parlamento europeo multiplicando la fuerza de cada país que lo apoya.
 
 ### Por qué VOLT Europa, por qué ahora
 
@@ -54,9 +55,9 @@ La política en democracia es un poderoso mecanismo para mejorar una sociedad. N
 
 ### Cómo podéis ayudarme?
 
-* Si sois votantes a las primarias, **vuestro voto el próximo Lunes es crucial**. Además, si compartís este enlace podemos ayudar a dar a conocer esta campaña, y nuestra apuesta europea.
+* Si sois votantes, **vuestro voto el próximo Lunes es crucial**. Además, si compartís este enlace podemos ayudar a dar a conocer esta campaña, y nuestra apuesta europea.
 
-* Si conocéis o colaboráis con VOLT Europa, necesito vuestro consejo, opinión, y críticas. Compartid mi candidatura si os gusta, sobre a los votantes de las primarias :)
+* Si conocéis o colaboráis con VOLT Europa, necesito vuestro consejo, opinión, y críticas. Compartid mi candidatura si os gusta, sobre todo a votantes españoles :)
 
 * Si no conocéis VOLT Europa, es una oportunidad fantástica para contaros nuestra apuesta pro-Europea. [Apuntaros a VOLT Europa](https://volt.team/join/es), compartir su mensaje, y nuestra apuesta.
 
