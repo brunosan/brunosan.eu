@@ -48,7 +48,7 @@
 
   checkoutButton.addEventListener('click', function () {
     var dni_val = document.getElementById('dni').value;
-    var get_donation = document.getElementById('custom_donation').value;
+    var get_donation = parseInt(document.getElementById('custom_donation').value);
     if (!Number.isInteger(get_donation)) {
       get_donation=10 ;
     };
