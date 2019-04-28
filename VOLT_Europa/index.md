@@ -1,5 +1,5 @@
 ---
-layout: page-notitle
+layout: volt
 title: "Primarias de VOLT Europa"
 excerpt: "Some products we've shipped, and programs we've built."
 search_omit: false
@@ -15,20 +15,13 @@ redirect_from:
 
 En la próximas Elecciones Europeas podemos cambiar muchas cosas. Para ello necesitamos tu apoyo. Comparte nuestra candidatura, mándanos tus comentarios y críticas, síguenos en las redes social, y si puedes, aporta dinero para que podamos llegar a más personas.
 
-<input id="custom_donation" type="number" name="quantity" min="1" max="5000">
-<button
-  style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em"
-  id="checkout-button-sku_Ey5SqAlEdRQQve"
-  role="link"
->
-  Dona
-</button>
 
-<div id="error-message"></div>
+
+### Donaciones a la Campaña
 {% include stripe.html %}
-
-
 [Política de transparencia de donaciones](https://www.volteuropa.org/transparency)
+
+
 
 
 Ante una realidad de divisiones, de polarizaciones, extremismos y nacionalismos miopes, [VOLT Europa](https://www.volteuropa.org/) nace queriendo una Europa más unida, más cercana, representativa y representada de su ciudadanía. VOLT Europa, de hecho, se crea como respuesta pro-Europea al referendum anti-Europeo del Brexit, en 2016.

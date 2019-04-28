@@ -1,24 +1,65 @@
+
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
 
-<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+<form>
+
+  <div class="form-group">
+
+  <label for="Donaciónes a la Campaña"></label>
+  <div class="row">
+    <div class="col-md-auto">
+      <input type="text" class="form-control" id="dni" aria-describedby="emailHelp" placeholder="Número de DNI (National ID number)">
+      <small id="emailHelp" class="form-text text-muted">Número de DNI (National ID number)</small>
+    </div>
+
+    <div class="col-md-auto">
+      <input id="custom_donation" style="width: 100px;" maxlength="10" type="text" placeholder="10" class="form-control" aria-label="Amount (to the nearest dollar)">
+      <small id="donationHelp" class="form-text text-muted">Donación (€)</small>
+    </div>
+
+    <div class="col-md-auto">
+      <button
+        class="btn btn-primary"
+        id="checkout-button"
+        role="link">
+        Dona
+      </button>
+      <small id="donationHelp" class="form-text text-muted"></small>
+    </div>
+  </div>
+
+  </div>
+
+</form>
+<div id="error-message"></div>
+
+
+
+
+
 
 
 <script>
-  var stripe = Stripe('pk_test_3yJpT6NRdM59uKJmm4l5UcIc');
+  var stripe = Stripe('pk_live_XDbT1pNlAGwOruf9GAFE96NK');
 
-  var get_donation = document.getElementById('custom_donation').value;
-  if (!Number.isInteger(get_donation)) {
-    get_donation=10;
-  };
+  var checkoutButton = document.getElementById('checkout-button');
 
-  var checkoutButton = document.getElementById('checkout-button-sku_Ey5SqAlEdRQQve');
+
   checkoutButton.addEventListener('click', function () {
+    var dni_val = document.getElementById('dni').value;
+    var get_donation = document.getElementById('custom_donation').value;
+    if (!Number.isInteger(get_donation)) {
+      get_donation=10 ;
+    };
     // When the customer clicks on the button, redirect
     // them to Checkout.
+    console.log("DNI",dni_val, "amount",get_donation);
     stripe.redirectToCheckout({
-      items: [{sku: 'sku_Ey5SqAlEdRQQve', quantity: get_donation}],
+      items: [{sku: 'sku_EyBb0SvlodOPd8', quantity: get_donation}],
+      clientReferenceId: dni_val,
       billingAddressCollection: "required",
+
       // Note that it is not guaranteed your customers will be redirected to this
       // URL *100%* of the time, it's possible that they could e.g. close the
       // tab between form submission and the redirect.
