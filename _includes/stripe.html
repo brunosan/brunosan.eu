@@ -3,9 +3,7 @@
 <script src="https://js.stripe.com/v3"></script>
 
 <form>
-
   <div class="form-group">
-
   <label for="Donaciónes a la Campaña"></label>
   <div id="error-message" class="" role="alert">  </div>
   <div class="row">
@@ -13,12 +11,10 @@
       <input type="text" class="form-control" id="dni" aria-describedby="emailHelp" placeholder="Número de DNI (National ID number)">
       <small id="emailHelp" class="form-text text-muted">Número de DNI (National ID number)</small>
     </div>
-
     <div class="col-md-auto">
       <input id="custom_donation" style="width: 100px;" maxlength="10" type="text" placeholder="10" class="form-control" aria-label="Amount (to the nearest dollar)">
       <small id="donationHelp" class="form-text text-muted">Donación (€)</small>
     </div>
-
     <div class="col-md-auto">
       <button
         class="btn btn-primary"
@@ -29,24 +25,12 @@
       <small id="donationHelp" class="form-text text-muted"></small>
     </div>
   </div>
-
   </div>
-
 </form>
-
-
-
-
-
-
-
 
 <script>
   var stripe = Stripe('pk_live_XDbT1pNlAGwOruf9GAFE96NK');
-
   var checkoutButton = document.getElementById('checkout-button');
-
-
   checkoutButton.addEventListener('click', function () {
     var dni_val = document.getElementById('dni').value;
     var get_donation = parseInt(document.getElementById('custom_donation').value);

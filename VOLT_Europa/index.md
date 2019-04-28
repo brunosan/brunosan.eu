@@ -21,7 +21,7 @@ En la próximas Elecciones Europeas podemos cambiar muchas cosas. Para ello nece
 {% include stripe.html %}
 [Política de transparencia de donaciones](https://www.volteuropa.org/transparency)
 
-
+---
 
 
 Ante una realidad de divisiones, de polarizaciones, extremismos y nacionalismos miopes, [VOLT Europa](https://www.volteuropa.org/) nace queriendo una Europa más unida, más cercana, representativa y representada de su ciudadanía. VOLT Europa, de hecho, se crea como respuesta pro-Europea al referendum anti-Europeo del Brexit, en 2016.
