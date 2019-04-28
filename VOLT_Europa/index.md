@@ -1,6 +1,6 @@
 ---
 layout: volt
-title: "Primarias de VOLT Europa"
+title: "Bruno a Bruselas con VOLT Europa"
 excerpt: "Some products we've shipped, and programs we've built."
 search_omit: false
 excerpt: Apoya la candidatura de Bruno por @VoltEspana para las elecciones europeas. Europa eres tú! 🙏
