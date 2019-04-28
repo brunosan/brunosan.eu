@@ -12,7 +12,7 @@
       <small id="emailHelp" class="form-text text-muted">Número de DNI (National ID number)</small>
     </div>
     <div class="col-md-auto">
-      <input id="custom_donation" style="width: 100px;" maxlength="10" type="text" placeholder="10" class="form-control" aria-label="Amount (to the nearest dollar)">
+      <input id="custom_donation" style="width: 100px;" maxlength="10" type="text" placeholder="50" class="form-control" aria-label="Amount (to the nearest dollar)">
       <small id="donationHelp" class="form-text text-muted">Donación (€)</small>
     </div>
     <div class="col-md-auto">
@@ -35,7 +35,7 @@
     var dni_val = document.getElementById('dni').value;
     var get_donation = parseInt(document.getElementById('custom_donation').value);
     if (!Number.isInteger(get_donation)) {
-      get_donation=10 ;
+      get_donation=50 ;
     };
     // When the customer clicks on the button, redirect
     // them to Checkout.
