@@ -1,0 +1,37 @@
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3"></script>
+
+<!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
+
+
+<script>
+  var stripe = Stripe('pk_test_3yJpT6NRdM59uKJmm4l5UcIc');
+
+  var get_donation = document.getElementById('custom_donation').value;
+  if (!Number.isInteger(get_donation)) {
+    get_donation=10;
+  };
+
+  var checkoutButton = document.getElementById('checkout-button-sku_Ey5SqAlEdRQQve');
+  checkoutButton.addEventListener('click', function () {
+    // When the customer clicks on the button, redirect
+    // them to Checkout.
+    stripe.redirectToCheckout({
+      items: [{sku: 'sku_Ey5SqAlEdRQQve', quantity: get_donation}],
+      billingAddressCollection: "required",
+      // Note that it is not guaranteed your customers will be redirected to this
+      // URL *100%* of the time, it's possible that they could e.g. close the
+      // tab between form submission and the redirect.
+      successUrl: 'http://www.voltespana.org/success',
+      cancelUrl: 'http://www.voltespana.org/canceled',
+    })
+    .then(function (result) {
+      if (result.error) {
+        // If `redirectToCheckout` fails due to a browser or network
+        // error, display the localized error message to your customer.
+        var displayError = document.getElementById('error-message');
+        displayError.textContent = result.error.message;
+      }
+    });
+  });
+</script>
