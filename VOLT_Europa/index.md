@@ -13,16 +13,75 @@ redirect_from:
 ---
 
 
-En la próximas Elecciones Europeas podemos cambiar muchas cosas. Para ello necesitamos tu apoyo. Comparte nuestra candidatura, mándanos tus comentarios y críticas, síguenos en las redes social, y si puedes, aporta dinero para que podamos llegar a más personas.
+### Manda a Bruno a Bruselas, apuesta por una Europa mejor
+[english version below](#send-bruno-to-brussels-bet-on-a-better-europe)
 
+¡Soy candidato a europarlamentario con [Volt Europa](http://voltespana.org/) en España! Soy cabeza de la lista, y necesito tu ayuda. Necesitamos llegar a tantos votantes españoles como sea posible. Queremos que se conozca nuestro proyecto paneuropeo, nuestro programa y nuestra candidatura. Trabajemos juntos por una Europa más progresista, más democrática y más unida.
 
+Volt Europa comenzó como una respuesta pro-europea ante un Brexit antieuropeo, los populismos, los extremismos, los mercaderes del miedo. Somos más de 25.000 personas en toda Europa, 70%+ por primera vez en un partido político.
 
-### Donaciones a la Campaña
-{% include stripe.html %}
+Creemos y queremos una nueva forma de hacer política. Junto con expertos, hemos creado un [sólido programa político](#) (¡200 páginas!). Nos presentamos en toda Europa con el mismo programa, realizado por europeos, para Europa. Esto tiene mucho sentido, pero nunca se ha hecho antes. Somos el primer y único partido paneuropeo.
+
+¿Como puedes ayudar?
+
+* Comparte esta página.
+* Lee, comenta, critica nuestro programa.  [Únete a Volt!](https://volt.team/join)
+* Dona si puedes, para que podamos llegar a más personas en esta campaña.
+
+## Donar
+
+{% include stripe_es.html %}
 [Política de transparencia de donaciones](https://www.volteuropa.org/transparency)
+
+De acuerdo con la [ley para donaciones a partidos políticos](http://www.hacienda.gob.es/Documentacion/Publico/NormativaDoctrina/Tributaria/IRPF/Ley_Organica_8-2007.pdf), podemos aceptar donaciones de cualquier persona, pero no empresas o gobiernos, y necesitamos recopilar la información a continuación.
+
+
+* Según el art. 5 de la Ley Orgánica 8/2007: el límite de donaciones por persona es de € 50,000 por año.
+* Según lo dispuesto en los artículos 6, 7, 13 y / o 14 RGPD, Volt Europa España informa que los datos obtenidos en la realización de donaciones al Partido serán tratados por este último en virtud de la donación, gratuita y voluntaria. Los datos personales se tratarán con el único propósito de gestionar la donación y de dar cumplimiento legal a las normas sobre donaciones. Los datos se mantendrán de acuerdo con los requisitos legales y/o hasta la prescripción de las acciones que puedan surgir. Los datos personales solo serán comunicados a las entidades bancarias para la realización de la donación realizada. Si no está de acuerdo con el tratamiento realizado, se opone o no autoriza el mismo, no se puede hacer la donación.
+* Si lo desea, puede ponerse en contacto con nuestro Delegado de Protección de Datos (DPD), revocar el consentimiento proporcionado y / o ejercer sus derechos de acceso, rectificación, eliminación, oposición, limitación del tratamiento y / o portabilidad de los datos escribiendo a Volt Euopa al Dirección siguiente: Calle Ferrer del Río, 11, 28028 Madrid o en la siguiente dirección de correo electrónico: donaciones@volteuropa.org. Si considera que se han violado sus derechos, también tiene derecho a presentar una reclamación ante la autoridad de supervisión competente.
+
+
+![Congreso Roma Marzo 2019](https://user-images.githubusercontent.com/434029/55060193-30194600-5071-11e9-82e0-01b2fb716d40.jpg)
+Congreso de Roma, Marzo 2019.
 
 ---
 
+
+
+### Send Bruno to Brussels, bet on a better Europe
+[spanish version above](#manda-a-bruno-a-bruselas-apuesta-por-una-europa-mejor)
+
+I am running for the European Parliament with [Volt Europa](https://www.voltespana.org/) in Spain! I am the head of the list, and I need your help. We need help to reach as many Spanish voters as possible. Let's share our panEuropean project, our program and our candidature. Let's work together for a more progressive, more democratic and more united Europe.
+
+It all started as a pro-European response to confront the anti-European Brexit, the populists, the extremists, the merchants of fear. We are more than 25.000 people across Europe, 70%+ of us for the first time in a political party. We want a new way of doing politics.
+
+Together with experts, we have created a [comprehensive political program](#) (200 pages!). We run in all of Europe with the same program, made by Europeans for Europe. This makes a lot of sense, but has never been done before. We are the first and only panEuropean party.
+
+How can you help?
+
+* Share this page.
+* Read, comment, criticize [our program](#). [Join Volt!](https://volt.team/join)
+* Donate below if you can, so we can reach more people in this campaign.
+
+## Donate
+
+{% include stripe_en.html %}
+{% include stripe.html %}
+[Transparency policy for donations](https://www.volteuropa.org/transparency)
+
+In accordance with the [law for donations to political parties](http://www.hacienda.gob.es/Documentacion/Publico/NormativaDoctrina/Tributaria/IRPF/Ley_Organica_8-2007.pdf), we can  collect donations from any person, but not companies or governments, and we need to collect the information above.
+
+* According to the Art. 5 of the Organic Law 8/2007: the limit of donations per person is € 50,000 per year.
+* Under the provisions of articles 6, 7, 13 and / or 14 RGPD, Volt Europa Spain informs that the data obtained in the realization of donations to the Party will be treated by the latter by virtue of the donation, free and voluntary made. The personal data will be treated with the sole purpose of managing the donation and giving legal compliance to the regulations regarding donations. The data will be kept according to the legal requirements and / or until the prescription of the actions that may arise. The personal data will only be communicated to the banking entities for the realization of the donation made. If you do not agree with the treatment performed, opposes or does not authorize the same, the donation can not be made.
+* If you wish you can contact our Data Protection Delegate (DPD), revoke the consent provided and / or exercise your rights of access, rectification, deletion, opposition, treatment limitation and / or portability of the data by writing to Volt Euopa at the following address: Calle Ferrer del Río, 11, 28028 Madrid or at the following email address: donaciones@volteuropa.org. If you consider that your rights have been violated, you also have the right to file a claim with the competent supervisory authority.
+
+
+![Congreso Roma Marzo 2019](https://user-images.githubusercontent.com/434029/55060193-30194600-5071-11e9-82e0-01b2fb716d40.jpg)
+ Rome Congress, March 2019.
+
+---
+
+### Sobre mi candidatura
 
 Ante una realidad de divisiones, de polarizaciones, extremismos y nacionalismos miopes, [VOLT Europa](https://www.volteuropa.org/) nace queriendo una Europa más unida, más cercana, representativa y representada de su ciudadanía. VOLT Europa, de hecho, se crea como respuesta pro-Europea al referendum anti-Europeo del Brexit, en 2016.
 
