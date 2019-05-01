@@ -20,12 +20,12 @@ redirect_from:
 
 Volt Europa comenzó como una respuesta pro-europea ante un Brexit antieuropeo, los populismos, los extremismos, los mercaderes del miedo. Somos más de 25.000 personas en toda Europa, 70%+ por primera vez en un partido político.
 
-Creemos y queremos una nueva forma de hacer política. Junto con expertos, hemos creado un [sólido programa político](www.voltespana.org/wp-content/uploads/2018/12/Mapeo-de-Políticas.pdf) (¡200 páginas!). Nos presentamos en toda Europa con el mismo programa, realizado por europeos, para Europa. Esto tiene mucho sentido, pero nunca se ha hecho antes. Somos el primer y único partido paneuropeo.
+Creemos y queremos una nueva forma de hacer política. Junto con expertos, hemos creado un [sólido programa político](http://www.voltespana.org/wp-content/uploads/2018/12/Mapeo-de-Políticas.pdf) (¡200 páginas!). Nos presentamos en toda Europa con el mismo programa, realizado por europeos, para Europa. Esto tiene mucho sentido, pero nunca se ha hecho antes. Somos el primer y único partido paneuropeo.
 
 ¿Como puedes ayudar?
 
 * Comparte esta página.
-* Lee, comenta, critica [nuestro programa](www.voltespana.org/wp-content/uploads/2018/12/Mapeo-de-Políticas.pdf).  [Únete a Volt!](https://volt.team/join)
+* Lee, comenta, critica [nuestro programa](http://www.voltespana.org/wp-content/uploads/2018/12/Mapeo-de-Políticas.pdf).  [Únete a Volt!](https://volt.team/join)
 * Dona si puedes, para que podamos llegar a más personas en esta campaña.
 
 ## Donar
