@@ -28,7 +28,6 @@
       stripe.redirectToCheckout({
         items: [{sku: sku , quantity: get_donation}],
         clientReferenceId: dni_val,
-        billingAddressCollection: "required",
 
         // Note that it is not guaranteed your customers will be redirected to this
         // URL *100%* of the time, it's possible that they could e.g. close the
