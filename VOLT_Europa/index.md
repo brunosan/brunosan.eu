@@ -61,7 +61,7 @@ De acuerdo con la [ley para donaciones a partidos políticos](http://www.haciend
 
 There are few things as inevitable as an idea whose moment has come.
 
-May 26th, 2019 is one of those moments. Europe is the place, with the European Elections. The polls agree that Europeans, especially Spaniards, [feel European] (https://ec.europa.eu/spain/news/180228_eurobarometer-autumn2018_en). But that European feeling has had no way to express itself democratically in an ocean of nationalist political parties.
+May 26th, 2019 is one of those moments. Europe is the place, with the European Elections. The polls agree that Europeans, especially Spaniards, [feel European](https://ec.europa.eu/spain/news/180228_eurobarometer-autumn2018_en). But that European feeling has had no way to express itself democratically in an ocean of nationalist political parties.
 
 Jean Monet said, "There will be no peace in Europe if the states are rebuilt on a basis of national sovereignty."
 
