@@ -8,7 +8,7 @@ search_omit: false
 <img width="50%"  src="/media/GFC2017s.jpg">
 </p>
 
-Bruno is committed to bringing the value of “Impact Science” (Impact Science is to data science, what impact investment is to investment). Experience in the public sector (World Bank); the private sector (Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO “Gain”); and academia, (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA).
+Bruno is committed to bringing the value of [“Impact Science”](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1). He has experience in the public sector (World Bank); the private sector (Mapbox Chief Scientist, Satellogic VP for Social Impact); NGOs (Director of S&T at climate change NGO “Gain”); and academia (Ph.D. astrophysics, rocket science postdoc with NRL/JAXA/NASA).
 
 Bruno was awarded Young Global Leader of the World Economic Forum, and it is a member of their Expert’s Network. Bruno was also a Mirzayan Science Policy Fellow of the US National Academies of Sciences.
 
