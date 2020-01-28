@@ -71,6 +71,10 @@ Transferability of Big Data, AI, Data Science tools and innovation into other do
 
 Linking related slides, video, or article if available.
 
+* November 2019. Report to Swiss EP. [Kosovo, the best tech startup ecosystem you didn’t know about](https://medium.com/@brunosan/kosovo-the-best-tech-startup-ecosystem-you-didnt-know-about-19d165457f38)
+* August 2019. [AI and Deep Learning for good: Banknotes detection for blind people](https://towardsdatascience.com/ai-for-good-banknotes-detection-for-blind-people-373efc81a482)
+* August 2019. Regular contributor on Impact Science for the Spanish National Radio "Onda Cero" within the program ["JELO en verano"](https://www.ondacero.es/programas/jelo-en-verano/programas-completos/). E.g. [reporting on science advisory](https://www.ondacero.es/programas/jelo-en-verano/audios-podcast/bruno-sanchez-andrade-hay-que-hacer-mas-pragmatico-al-cientifico-que-afronte-los-problemas-de-cara_201907315d41c4410cf2d85bf8b5918b.html)
+* May 2019. World Economic Forum Blog [Perder en las elecciones europeas, pero ganar en innovación política](https://es.weforum.org/agenda/2019/06/perder-en-las-elecciones-europeas-pero-ganar-en-innovacion-politica?fbclid=IwAR00OsBnHVvl1yVfqbf26nv1jy1sAAdC2zrVmWdLrdzmlv_9Ge4EiPiU_Cg)
 * December 2018. ["Ciencia de Impacto" como carrera profesional](https://www.youtube.com/watch?v=7Wy9u5-YrGM). Spanish. Talk to students at "El Pais con tu Futuro".
 * Summer 2018. Video explaining our project with the World Economic Forum to [empower Kakuma refugees via entrepreneurship and digital market skills](https://www.youtube.com/watch?v=opnrjD1omLw).
 * Sept. 14, 2018. 2nd Big Data Africa School. Cape Town, South Africa. [Talk to students on Impact Science](https://docs.google.com/presentation/d/1QMLtgRJzMcfl2i5g_iokMIcdE2NC_sNKLTrRRudilC4/edit#slide=id.p4).

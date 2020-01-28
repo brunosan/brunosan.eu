@@ -1,7 +1,6 @@
 ---
 layout: volt
 title: "Bruno a Bruselas con VOLT Europa"
-excerpt: "Some products we've shipped, and programs we've built."
 search_omit: false
 excerpt: Apoya la candidatura de Bruno por @VoltEspana para las elecciones europeas. Europa eres tú! 🙏
 image:
@@ -12,6 +11,8 @@ redirect_from:
     - /primariasVOLT_Europa/
 ---
 
+
+[Update:] [WEF blog, Perder en las elecciones europeas, pero ganar en innovación política](https://es.weforum.org/agenda/2019/06/perder-en-las-elecciones-europeas-pero-ganar-en-innovacion-politica?fbclid=IwAR00OsBnHVvl1yVfqbf26nv1jy1sAAdC2zrVmWdLrdzmlv_9Ge4EiPiU_Cg)
 
 ### Manda a Bruno a Bruselas, apuesta por una Europa mejor
 [english version below](#send-bruno-to-brussels-bet-on-a-better-europe)
