@@ -3,10 +3,11 @@ layout: page
 search_omit: false
 ---
 
-PhD Astrophysics and rocket scientist. Ironman. Formerly Innovation leader at the World Bank, Chief Scientist at Mapbox, and VP Social Impact at Satellogic. Dreamer. Board member at Volt Europa. Providing Science advise to international clients with [impact science .dev](http://impactscience.dev)
 
-Young Global Leader of the World Economic Forum, Mirzayan Science Policy Fellow of the US National Academies of Sciences, Economic Leader according to the Choiseul Institute.
+Principal Scientist at Microsoft ["AI for Earth"](https://www.microsoft.com/en-us/ai/ai-for-earth), building the "Planetary Computer". 
+
+Impact Scientist. By training PhD in Astrophysics, rocket scientist by postdoc. Bruno has led Big Data innovation at the World Bank Innovation Labs, served as VP Social Impact at the satellite company Satellogic and Chief Scientist at Mapbox. Bruno has published the book ["Impact Science"](https://www.amazon.com/gp/product/B07SN1L4L2/ref=dbs_a_def_rwt_bibl_vppi_i1) on the role of science and research for social and environmental Impact. He was awarded Mirzayan Science Policy Fellow of the US National Academies of Science and a Young Global Leader of the World Economic Forum.
 
 From Asturias (Spain). Digital nomad since 2015, mostly in Europe and the USA; with the proud inclusion of Bhutan and the Balkans.
 
-See below for contact info, and [here about my work](/work).
+See below for contact info, and [here about my previous work](/work).
