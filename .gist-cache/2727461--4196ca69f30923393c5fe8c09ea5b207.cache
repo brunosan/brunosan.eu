@@ -1,4 +1,0 @@
-= SORT(FILTER('Master list'!S2:V,'Master list'!L2:L="Confirmed"),FILTER('Master list'!S2:S,'Master list'!L2:L="Confirmed"),TRUE)
-
-S2:V is the region with the Replies in the Master List with their names and comments
-T2:T is the column of the Session (e.g. Lunch)
